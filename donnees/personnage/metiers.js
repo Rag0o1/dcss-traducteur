@@ -1,0 +1,35 @@
+// Backgrounds (métiers) jouables.
+globalThis.DCSS_TRADUCTIONS = globalThis.DCSS_TRADUCTIONS || {};
+
+globalThis.DCSS_TRADUCTIONS.metiers = {
+    "Abyssal Knight": "Chevalier abyssal",
+    "Air Elementalist": "Élémentaliste de l’air",
+    "Alchemist": "Alchimiste",
+    "Artificer": "Artificier",
+    "Assassin": "Assassin",
+    "Berserker": "Berserker",
+    "Brigand": "Brigand",
+    "Chaos Knight": "Chevalier du Chaos",
+    "Cinder Acolyte": "Acolyte des Cendres",
+    "Conjurer": "Conjurateur",
+    "Delver": "Fouilleur",
+    "Earth Elementalist": "Élémentaliste de la terre",
+    "Enchanter": "Enchanteur",
+    "Fighter": "Combattant",
+    "Fire Elementalist": "Élémentaliste du feu",
+    "Forgewright": "Forgeron",
+    "Gladiator": "Gladiateur",
+    "Hedge Wizard": "Sorcier de fortune",
+    "Hexslinger": "Lanceur de maléfices",
+    "Hunter": "Chasseur",
+    "Ice Elementalist": "Élémentaliste de la glace",
+    "Monk": "Moine",
+    "Necromancer": "Nécromancien",
+    "Shapeshifter": "Métamorphe",
+    "Summoner": "Invocateur",
+    "Transmuter": "Transmutateur",
+    "Venom Mage": "Mage du venin",
+    "Wanderer": "Vagabond",
+    "Warper": "Translocateur",
+    "Wizard": "Magicien"
+};

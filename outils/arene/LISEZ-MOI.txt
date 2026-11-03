@@ -1,0 +1,22 @@
+VOIR LE VRAI JEU SANS JOUER : les combats d'arène
+==================================================
+DCSS a un mode "arène" : des monstres se battent entre eux, et le jeu écrit tous les messages dans un fichier
+(option  arena_dump_msgs = true  dans le fichier de config). On s'en sert pour récupérer des milliers de vraies
+phrases (sorts, souffles, invocations...) et vérifier ce que l'extension traduit ou non.
+
+Étapes (il faut avoir compilé le jeu : make -j8 dans crawl-ref/source ; chemins à adapter dans les scripts)
+ 1) python3 lancer_combats.py  NUMERO  NOMBRE    (lancer 8 fois en parallèle : 0 8, 1 8, ... 7 8)
+      -> écrit des fichiers /tmp/cr/b/*.txt avec les messages (le script retire tout seul les monstres refusés par l'arène)
+ 2) node trouver_non_traduits.js /tmp/cr/b/*.txt   -> liste des lignes encore en anglais (harv_bad.txt)
+ 3) node regrouper_modeles.js                      -> regroupe par modèle de phrase (tpl_all.txt), les plus fréquents en premier
+ 4) node noms_manquants.js                         -> noms de monstres que le dictionnaire ne connaît pas
+ 5) On ajoute les phrases dans donnees/messages/variables_i.js, les projectiles dans projectiles.js, les monstres dans vocabulaire.js
+    (ou combat.js pour les noms fabriqués : draconiens colorés, hydres à N têtes, bêtes mutantes...).
+Limites : l'arène ne montre que des monstres entre eux (pas les messages « You ... » du joueur : ceux-là viennent du code source).
+Les lignes préfixées TALK:/WARN:/SOUND: sont des étiquettes de l'arène (le vrai jeu ne les affiche pas).
+
+MODE JOUEUR (messages « You ... », dieux, objets)
+=================================================
+pilote_jeu_joueur.py et pilote_objets.py pilotent le vrai jeu dans tmux en mode wizard (option wiz_mode = yes) :
+rejoindre chaque dieu (&_), régler la piété (&^), créer des objets (&o) puis les lire / boire, et enregistrent l'écran.
+Ils servent d'exemple : adaptez les chemins (/tmp/cr/...) puis passez les lignes relevées dans trouver_non_traduits.js.

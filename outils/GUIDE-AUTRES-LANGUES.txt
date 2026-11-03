@@ -1,0 +1,14 @@
+FAIRE UNE AUTRE LANGUE (espagnol, allemand...)
+==============================================
+Ce qui se réutilise tel quel : le moteur de remplacement (moteur/content.js, assemblage.js, diagnostic.js), l'observateur de la page,
+le principe "texte anglais -> traduction", les outils de ce dossier.
+Ce qu'il faut refaire pour la langue :
+  (a) les dictionnaires "texte anglais": "traduction" (donnees/**/*.js) : c'est la grande majorité des textes (descriptions, objets, sorts,
+      mutations, statuts, manuel...). Copier le dossier, garder la clé anglaise, remplacer la valeur.
+      outils/couverture.js dit ce qui reste à faire pour atteindre 100 %.
+  (b) la grammaire des messages : donnees/messages/{vocabulaire,regles,combat,variables*}.js contiennent la grammaire FRANÇAISE (genre,
+      articles élidés « l’ », « du/au », accord des participes, « vous »). Pour une autre langue, il faut réécrire ces fichiers : les
+      gabarits "{A} hits {A}" sont les mêmes, mais les parties françaises à droite changent.
+  (c) OPTIONS.js : noms de sorts en anglais ou traduits (valable pour toute langue).
+Ordre conseillé : (a) d'abord (rapide, gros gain visible), puis (b) message par message en commençant par ceux que le joueur voit le plus
+(combat, objets, dieux).

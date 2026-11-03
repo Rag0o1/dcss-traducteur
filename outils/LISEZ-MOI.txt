@@ -1,0 +1,23 @@
+OUTILS (pour les développeurs et traducteurs ; l'extension n'en a pas besoin)
+=============================================================================
+Ce dossier n'est PAS chargé par le navigateur. Il sert à savoir où en est la traduction et à préparer une
+nouvelle version du jeu ou une autre langue. Il faut Python 3 et Node.js, et le code source de DCSS
+(dépôt https://github.com/crawl/crawl , dossier crawl-ref/source).
+
+1) extraire_source.py  — liste TOUT ce que le jeu peut afficher
+     python3 extraire_source.py  CHEMIN/crawl-ref/source  extraction_0.34.json
+   -> descriptions : les ~3500 textes de dat/descript (monstres, objets, sorts, dieux, statuts, artefacts...)
+   -> messages     : les ~870 gabarits de messages à trous ("{A} hits {A}", "You see {X}"...) lus dans le code C++
+
+2) couverture.js  — dit quel pourcentage est déjà traduit
+     node couverture.js extraction_0.34.json            (tableau par fichier)
+     node couverture.js extraction_0.34.json --liste    (écrit non_traduits.txt : tout ce qui manque)
+   Remarques : "quotes" = citations littéraires, volontairement laissées en anglais (consigne officielle de DCSS).
+   Les messages à trou libre {X} ne peuvent pas être jugés sans les voir en jeu : ils sont comptés à part.
+
+3) comparer_versions.py  — pour la version suivante du jeu
+     python3 extraire_source.py  SOURCE_0.35/crawl-ref/source  extraction_0.35.json
+     python3 comparer_versions.py extraction_0.34.json extraction_0.35.json  a_traduire.txt
+   -> a_traduire.txt liste les textes NOUVEAUX, MODIFIÉS (avant/après) et SUPPRIMÉS : on ne traduit que le delta.
+
+Voir aussi GUIDE-NOUVELLE-VERSION.txt et GUIDE-AUTRES-LANGUES.txt.

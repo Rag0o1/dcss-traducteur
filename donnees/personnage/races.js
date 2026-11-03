@@ -1,0 +1,43 @@
+// Espèces jouables. Les noms identiques en français sont listés aussi :
+// ils servent à reconnaître l'espèce dans « Welcome, rago the Naga Berserker. »
+globalThis.DCSS_TRADUCTIONS = globalThis.DCSS_TRADUCTIONS || {};
+
+globalThis.DCSS_TRADUCTIONS.races = {
+    "Armataur": "Armataur",
+    "Barachi": "Barachi",
+    "Coglin": "Coglin",
+    "Deep Dwarf": "Nain des profondeurs",
+    "Deep Elf": "Elfe des profondeurs",
+    "Demigod": "Demi-dieu",
+    "Demonspawn": "Rejeton démoniaque",
+    "Djinni": "Djinn",
+    "Draconian": "Draconien",
+    "Red Draconian": "Draconien rouge",
+    "White Draconian": "Draconien blanc",
+    "Green Draconian": "Draconien vert",
+    "Yellow Draconian": "Draconien jaune",
+    "Grey Draconian": "Draconien gris",
+    "Black Draconian": "Draconien noir",
+    "Purple Draconian": "Draconien violet",
+    "Pale Draconian": "Draconien pâle",
+    "Felid": "Félin",
+    "Formicid": "Formicide",
+    "Gargoyle": "Gargouille",
+    "Gnoll": "Gnoll",
+    "Hill Orc": "Orc des collines",
+    "Human": "Humain",
+    "Kobold": "Kobold",
+    "Merfolk": "Ondin",
+    "Minotaur": "Minotaure",
+    "Mummy": "Momie",
+    "Naga": "Naga",
+    "Octopode": "Octopode",
+    "Ogre": "Ogre",
+    "Oni": "Oni",
+    "Poltergeist": "Poltergeist",
+    "Spriggan": "Spriggan",
+    "Tengu": "Tengu",
+    "Troll": "Troll",
+    "Vampire": "Vampire",
+    "Vine Stalker": "Traqueur-liane"
+};

@@ -1,0 +1,163 @@
+DCSS TRADUCTEUR (version 0.10)
+==============================
+
+Extension Firefox qui traduit DCSS Web en français. Elle ne modifie pas le jeu :
+elle remplace seulement les textes affichés. Aucune clé API, aucun service externe.
+
+NOMS DES SORTS (nouveau en 0.10)
+--------------------------------
+Par défaut les NOMS de sorts (et des écoles : Fire, Hexes...) restent en ANGLAIS, comme dans le jeu officiel ;
+les descriptions restent en français. Pour avoir aussi les noms en français : ouvrez OPTIONS.js et mettez
+        nomsDeSorts: "francais"
+puis rechargez l'extension (about:debugging) et la page (F5).
+
+OÙ EST QUOI ?
+-------------
+outils/                Outils de mesure et de mise à jour (hors extension) : voir outils/LISEZ-MOI.txt.
+outils/arene/         Lancer des combats d'arène du vrai jeu pour récupérer ses messages et trouver ce qui reste en anglais.
+OPTIONS.js             Réglages (pour l'instant : noms de sorts en anglais ou en français).
+MES-CORRECTIONS.js     VOS corrections. COMMENCEZ TOUJOURS ICI (chargé en dernier : il gagne sur tout).
+manifest.json          Liste des fichiers chargés (l'ordre compte). Rien à y changer.
+HISTORIQUE.txt         Ce qui a changé version après version.
+
+moteur/                Le programme (inutile d'y toucher pour corriger une traduction)
+  content.js             Cherche la traduction et remplace le texte.
+  assemblage.js          Fusionne tous les dictionnaires en un seul.
+  manuel_moteur.js       Traduit le gros texte du manuel.
+  diagnostic.js          L'audit : repère les textes encore en anglais.
+
+donnees/               Les traductions
+  officiel.js            Traductions françaises OFFICIELLES de DCSS (fichier généré, ne pas modifier).
+  sorts/
+    noms.js                Noms des sorts (418).
+    descriptions.js        Descriptions des sorts (fiche d'un sort).
+  objets/
+    objets.js              Potions, parchemins, baguettes, bâtons, anneaux, amulettes, livres, talismans...
+    armes.js               Armes et armures.
+    egos.js                Marques d'armes (venom, flaming...).
+    apparences.js          Objets non identifiés : « baguette en fer », « anneau en rubis »...
+  personnage/
+    races.js               Espèces.        metiers.js    Métiers (backgrounds).
+    dieux.js               Dieux : descriptions, pouvoirs, offrandes.
+    mutations.js           Mutations et capacités.
+    mutations_msg.js       Mutations : noms courts et messages de gain / perte.
+    mutations_desc.js      Mutations : descriptions longues.
+  interface/
+    commandes_aide.js      Écran d'aide ? et page des commandes (deux colonnes).
+    libelles.js            Libellés courts (menus, commandes, noms).
+    astuces.js             Astuces et aide contextuelle (mode hints).
+    astuces_morceaux.js    Astuces à touches variables (morceaux de phrases, clés en « ~ »).
+    descriptions_diverses.js  Cartes, nuages, historiques, branches, statuts, commandes, joyaux.
+    menus.js               Entrées de menus.
+  messages/
+    vocabulaire.js         Tables de mots : monstres, armes, armures, couleurs, lieux, dieux, compétences...
+    regles.js              Messages du jeu : textes fixes + règles qui construisent les phrases.
+    messages_fixes.js      936 messages sans variable (sorts, pièges, refus, ambiance).
+    monstres/              Descriptions longues : descriptions.js (monstres), capacites.js, decors.js, statuts.js, passives.js.
+    combat.js              Messages de combat et lignes « monstre en vue » (gabarits GABARITS, verbes VERBES, effets EFFETS).
+    variables.js           Moteur des messages à « trous » (monstre, objet, nombre...) : mode d'emploi en tête du fichier.
+    variables_g.js, _h.js, _i.js  Phrases ajoutées en 0.10 (_i = sorts et capacités de monstres vus en jeu) ; projectiles.js = noms de projectiles (trou {Z}).
+    variables_a.js ... f.js  Les phrases à trous : a = monstres/pièges/dieux, b = objets/potions/déplacements, c = sorts/mêlée, f = actions longues/compétences,
+                           d = « le monstre + verbe » (statuts), e = messages des dieux. Une ligne = une phrase.
+    divers.js              Inventaire (bijoux, baguettes, bâtons, talismans, inscriptions), bruits, « Vous voyez ici », objectifs.
+    sorts/textes_noms_anglais.js  Textes qui citent un sort (mode noms anglais). Ne pas toucher.
+    complements.js         (dans interface/) Descriptions ajoutées en 0.10 : capacités, terrains, mutations, astuces, noms de terrains/autels/portes.
+    phrases.js             Phrases et textes divers (FAQ, aide...).
+    textes_longs.js        Textes longs : branches, lieux, cartes, compétences, nuages.
+  manuel/
+    manuel_01.js ... 08    Le MANUEL du jeu, traduit paragraphe par paragraphe.
+
+CORRIGER UNE TRADUCTION À LA MAIN
+---------------------------------
+Tous les fichiers se modifient avec un simple éditeur de texte (Bloc-notes, Notepad++, VS Code).
+Après une modification : about:debugging > "Recharger" sur l'extension, puis F5 sur la page du jeu.
+
+Cas 1 : un TEXTE ENTIER est mal traduit ou resté en anglais (phrase, description, menu, sort...)
+  -> ouvrez MES-CORRECTIONS.js et ajoutez une ligne :
+        "texte anglais exact": "votre traduction",
+  (copiez le texte anglais depuis l'audit F12 ; la virgule finale est obligatoire).
+  Cette ligne l'emporte sur tout. Vous pouvez aussi corriger directement la ligne dans le fichier de donnees/
+  (Ctrl+F sur un bout de phrase dans le dossier : "Rechercher dans les fichiers" de l'éditeur).
+  Attention : une correction faite dans donnees/ est perdue si on vous envoie une nouvelle version qui
+  remplace le dossier ; MES-CORRECTIONS.js se recopie facilement d'une version à l'autre.
+
+Cas 2 : UN MOT est mal traduit à l'intérieur de phrases construites (nom d'un monstre, d'une arme,
+        d'une armure, d'une marque, d'une couleur de potion, d'un décor, d'un lieu, d'un dieu...)
+  -> ouvrez donnees/messages/vocabulaire.js et changez le français dans le tableau concerné :
+        monsters (monstres), ARMES, ARMURES, EGOS_ARME, EGOS_ARMURE, ADJ_ARME, DECORS, COULEURS,
+        ADJ_POTION, POTIONS_EFFETS, PARCHEMINS, DIEUX, LIEUX_DE, competences, VERBES_MONSTRE...
+  Gardez la forme du tableau : "anglais": "français" (ou [masculin, féminin] pour les adjectifs, avec
+  le genre « m » ou « f » là où il y en a un). Les phrases qui utilisent ce mot suivent toutes.
+
+Cas 3 : la FORME de la phrase est mauvaise (ordre des mots, accord, article)
+  -> c'est une règle dans donnees/messages/regles.js (section 4, « const rules »). Cherchez un mot de la
+  phrase avec Ctrl+F. Si vous n'êtes pas à l'aise, mettez la phrase exacte dans MES-CORRECTIONS.js (cas 1)
+  ou envoyez-la moi.
+
+Cas 3 bis : un message avec un MONSTRE ou un OBJET dedans est mal traduit (« Le chacal gèle le gobelin »...)
+  -> cherchez un mot de la phrase dans donnees/messages/variables_a.js ... variables_e.js. Chaque ligne a la forme
+        "phrase anglaise avec {A} (monstre) {X} (autre mot)": "phrase française avec {S1} {x2}",
+  Les numéros suivent l'ordre des trous. {S1} = « Le chacal », {o1} = « le chacal », {d1} = « du chacal »,
+  {a1} = « au chacal », {e1} = « e » si le monstre est féminin. « ¦ » sépare la version « monstre » de la version « vous ».
+  Le mode d'emploi complet est en tête de donnees/messages/variables.js.
+
+Cas 4 : un NOM DE SORT ne vous plaît pas
+  -> donnees/sorts/noms.js : changez le français après les « : » (ou mettez le nom anglais).
+
+Cas 5 : l'extension ne se charge plus après une modification
+  -> presque toujours une virgule, un guillemet ou une accolade oubliés. F12 > Console affiche le fichier
+  et la ligne fautive en rouge. Restaurez la ligne d'origine ou corrigez la ponctuation.
+
+Ne dupliquez pas un texte déjà présent : modifiez-le sur place.
+
+INSTALLATION
+------------
+1. Sauvegardez votre ancien dossier, puis remplacez-le par celui-ci (copiez votre MES-CORRECTIONS.js).
+2. Firefox : tapez about:debugging dans la barre d'adresse > "Ce Firefox"
+   > "Charger un module complémentaire temporaire" > choisissez manifest.json.
+   (Si l'extension est déjà chargée : cliquez simplement sur "Recharger".)
+3. Rechargez la page du jeu (F5).
+4. F12 > Console : vous devez voir "Base de traduction chargée" sans erreur en rouge.
+
+VOIR CE QUI RESTE EN ANGLAIS (dans la console F12)
+--------------------------------------------------
+Textes non traduits :
+  JSON.parse(document.documentElement.dataset.dcssTextesNonTraduits || "[]")
+Monstres inconnus (leur nom apparaît en anglais dans les phrases) :
+  JSON.parse(document.documentElement.dataset.dcssMonstresManquants || "[]")
+Textes bruts de l'écran d'aide (quand il est ouvert) :
+  JSON.parse(document.documentElement.dataset.dcssAide || "null")
+Pour copier une liste dans le presse-papiers, entourez-la de copy( ... ).
+
+LE MANUEL DU JEU
+----------------
+Le manuel (touche ? puis « manuel ») est un seul énorme bloc de texte. moteur/manuel_moteur.js le découpe
+en paragraphes, cherche chacun dans donnees/manuel/manuel_01.js ... manuel_08.js, puis remet les lignes à
+72 caractères. Pour corriger un paragraphe : ouvrez le fichier qui le contient (Ctrl+F sur quelques mots
+français) et modifiez la traduction. Un « \n » dans la traduction force un retour à la ligne (listes,
+tableaux). Une entrée du même texte dans MES-CORRECTIONS.js l'emporte (clé = le paragraphe anglais entier,
+espaces simplifiés). Seules les adresses web restent telles quelles.
+
+TRADUCTIONS OFFICIELLES (donnees/officiel.js)
+---------------------------------------------
+Reprises du dépôt github.com/crawl/crawl, dossier crawl-ref/source/dat/descript/fr (dieux, monstres, sorts,
+espèces, métiers, objets, commandes...). Licence GPL v2+ comme DCSS : les auteurs sont l'équipe DCSS et ses
+contributeurs. Ne sont gardés que les textes dont les chiffres concordent avec l'anglais actuel (les autres
+sont en retard et écartés). Les citations (quotes.txt) ne sont pas traduites, volontairement.
+Pour désactiver : retirez la ligne "donnees/officiel.js" de manifest.json.
+
+REMARQUES
+---------
+- Un objet inconnu (ex. "a +2 dagger of unknown") reste volontairement en anglais : c'est ce qui permet à
+  l'audit de le signaler.
+- "devious" = « sournois(e) » : égo d'arme. Résultat : "une dague sournoise +2".
+- Les noms français des espèces, métiers et sorts sont des choix de traduction : modifiez-les librement.
+- Les lettres de touches de la page des commandes restent en anglais (w = wield...) : ce sont les vraies touches.
+
+PERFORMANCE (Firefox)
+---------------------
+- L'extension ne regarde que les zones utiles du jeu (messages, menus, fenêtres) et seulement les textes qui changent ;
+  un balayage complet n'a lieu qu'après une grosse modification ou un moment de calme.
+- Chaque texte traduit est mémorisé : un texte déjà vu ne coûte plus rien.
+- Les expressions régulières lentes ont été remplacées par des versions linéaires.
+- L'audit (F12) ne réexamine pas deux fois le même texte.
