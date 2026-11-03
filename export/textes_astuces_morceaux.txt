@@ -1,0 +1,992 @@
+EN: ~Welcome to Dungeon Crawl!
+FR: Bienvenue dans Dungeon Crawl !
+
+EN: ~Your objective is to lead your
+FR: Votre objectif est de mener votre
+
+EN: ~safely through the depths of the dungeon, retrieving the fabled Orb of Zot and returning it to the surface.
+FR: en sécurité à travers les profondeurs du donjon, de récupérer la légendaire Orbe de Zot et de la rapporter à la surface.
+
+EN: ~In the beginning, however, let discovery be your main goal.
+FR: Au début, cependant, faites de la découverte votre but principal.
+
+EN: ~Try to delve as deeply as possible but beware; death lurks around every corner.
+FR: Essayez de descendre aussi profondément que possible, mais prenez garde ; la mort rôde à chaque coin.
+
+EN: ~For the moment, just remember the following keys and their functions:
+FR: Pour le moment, retenez simplement les touches suivantes et leurs fonctions :
+
+EN: ~— shows the items and the commands
+FR: — affiche les objets et les commandes
+
+EN: ~— saves the game, to be resumed later (but note that death is permanent)
+FR: — sauvegarde la partie, pour la reprendre plus tard (mais notez que la mort est permanente)
+
+EN: ~— examines something in your vicinity The hint mode will help you play Crawl without reading any documentation.
+FR: — examine quelque chose à proximité Le mode astuces vous aidera à jouer à Crawl sans lire aucune documentation.
+
+EN: ~If you haven't yet, you might want to try out the tutorial.
+FR: Si vous ne l’avez pas encore fait, vous voudrez peut-être essayer le tutoriel.
+
+EN: ~Also, if you feel intrigued, there is more information available in the following files from the docs/ directory (all of which can also be read in-game): quickstart.txt — A very short guide to Crawl.
+FR: Par ailleurs, si vous êtes intrigué, davantage d’informations sont disponibles dans les fichiers suivants du répertoire docs/ (tous lisibles aussi en jeu) : quickstart.txt — Un très court guide de Crawl.
+
+EN: ~crawl_manual.txt — This contains all details on species, magic, skills, etc.
+FR: crawl_manual.txt — Il contient tous les détails sur les espèces, la magie, les compétences, etc.
+
+EN: ~options_guide.txt — Crawl's interface is highly configurable.
+FR: options_guide.txt — L’interface de Crawl est très configurable.
+
+EN: ~This document explains all the options.
+FR: Ce document explique toutes les options.
+
+EN: ~Rest between encounters, if possible in an area already explored and cleared of monsters.
+FR: Reposez-vous entre les rencontres, si possible dans une zone déjà explorée et débarrassée de monstres.
+
+EN: ~will rest for 100 turns, or until fully healed.
+FR: vous reposera pendant 100 tours, ou jusqu’à guérison complète.
+
+EN: ~You survived until the end of hints mode — be sure to try the other characters as well.
+FR: Vous avez survécu jusqu’à la fin du mode astuces — essayez aussi les autres personnages.
+
+EN: ~Note that the command help screen (
+FR: Notez que l’écran d’aide des commandes (
+
+EN: ~) will look very different from now on.
+FR: ) sera très différent désormais.
+
+EN: ~Here's a last playing hint:
+FR: Voici une dernière astuce de jeu :
+
+EN: ~Walking around and exploring levels gets easier by using auto-explore (
+FR: Se déplacer et explorer les étages est plus facile avec l’exploration automatique (
+
+EN: ~Crawl will let you automatically move to and pick up interesting items.
+FR: Crawl vous fera automatiquement vous déplacer vers les objets intéressants et les ramasser.
+
+EN: ~There is a convenient way to travel between distant dungeon levels: press
+FR: Il existe un moyen pratique de voyager entre des étages éloignés du donjon : appuyez sur
+
+EN: ~and enter the desired destination.
+FR: et saisissez la destination souhaitée.
+
+EN: ~If your travel gets interrupted, issuing
+FR: Si votre trajet est interrompu, appuyer sur
+
+EN: ~Enter will continue it.
+FR: Entrée le poursuivra.
+
+EN: ~You can search among all items existing in the dungeon with the
+FR: Vous pouvez rechercher tous les objets existant dans le donjon avec la commande
+
+EN: ~“dagger” will list all daggers, and allow you to travel to them.
+FR: “dagger” listera toutes les dagues et vous permettra de vous y rendre.
+
+EN: ~You can even search for dungeon features, like “shop” or “altar” .
+FR: Vous pouvez même chercher des éléments du donjon, comme “shop” ou “altar”.
+
+EN: ~The game keeps an automated log for your characters.
+FR: Le jeu tient un journal automatique de vos personnages.
+
+EN: ~: to read it.
+FR: : pour le lire.
+
+EN: ~Once your character perishes, two morgue files are left in the morgue/ directory.
+FR: Quand votre personnage périt, deux fichiers morgue sont laissés dans le répertoire morgue/.
+
+EN: ~The one ending in .txt contains a copy of your log.
+FR: Celui qui se termine par .txt contient une copie de votre journal.
+
+EN: ~During play, you can create a dump file with
+FR: Pendant le jeu, vous pouvez créer un fichier de vidage avec
+
+EN: ~Crawl has a macro function built in: press
+FR: Crawl intègre une fonction de macro : appuyez sur
+
+EN: ~to define a macro by first specifying a trigger key (say, F1 ) and a command sequence, for example za.
+FR: pour définir une macro en indiquant d’abord une touche déclencheuse (par exemple F1) puis une séquence de commandes, par exemple za.
+
+EN: ~The latter will make the F1 key always zap the spell in slot a at the nearest monster.
+FR: Cette dernière fera toujours lancer par la touche F1 le sort de l’emplacement a sur le monstre le plus proche.
+
+EN: ~For more information on macros, type
+FR: Pour plus d’informations sur les macros, tapez
+
+EN: ~You've just converted to worshipping
+FR: Vous venez de vous convertir au culte de
+
+EN: ~Your piety (divine favour) will increase as you do things to please your new god, and will gradually decrease over time.
+FR: Votre piété (faveur divine) augmentera quand vous ferez des choses qui plaisent à votre nouveau dieu, et diminuera peu à peu avec le temps.
+
+EN: ~You can check your god's likes and dislikes, as well as your current standing and divine abilities, by typing
+FR: Vous pouvez consulter les goûts et dégoûts de votre dieu, ainsi que votre situation actuelle et vos capacités divines, en tapant
+
+EN: ~Remember to rest between fights and to enter unexplored terrain with full health and magic.
+FR: Pensez à vous reposer entre les combats et à entrer en terrain inexploré avec toute votre santé et votre magie.
+
+EN: ~Ideally you should retreat into areas you've already explored and cleared of monsters; resting on the edge of the explored terrain increases the chances of your rest being interrupted by wandering monsters.
+FR: Idéalement, battez en retraite dans des zones déjà explorées et débarrassées de monstres ; se reposer en bordure du terrain exploré augmente les risques que votre repos soit interrompu par des monstres errants.
+
+EN: ~To rest, press 5 or Shift-numpad 5
+FR: Pour vous reposer, appuyez sur 5 ou Maj-pavé 5
+
+EN: ~is an item.
+FR: est un objet.
+
+EN: ~If you move there and press
+FR: Si vous vous y rendez et appuyez sur
+
+EN: ~, you will pick it up.
+FR: , vous le ramasserez.
+
+EN: ~will be picked up automatically.
+FR: sera ramassé automatiquement.
+
+EN: ~Once it is in your inventory, you can drop it again with
+FR: Une fois dans votre inventaire, vous pouvez le déposer de nouveau avec
+
+EN: ~, you can read about its properties and its description.
+FR: , vous pouvez lire ses propriétés et sa description.
+
+EN: ~You have picked up your first potion
+FR: Vous avez ramassé votre première potion
+
+EN: ~to quaff it.
+FR: pour la boire.
+
+EN: ~Once you've identified a potion, either with a scroll of identification or by drinking it, you'll automatically recognise all other potions of the same type; this means it's sometimes useful to drink potions just to identify them.
+FR: Une fois que vous avez identifié une potion, avec un parchemin d’identification ou en la buvant, vous reconnaîtrez automatiquement toutes les autres potions du même type ; il est donc parfois utile de boire des potions juste pour les identifier.
+
+EN: ~You have picked up your first scroll
+FR: Vous avez ramassé votre premier parchemin
+
+EN: ~to read it.
+FR: pour le lire.
+
+EN: ~Once you've identified a scroll, either with a scroll of identification or by reading it, you'll automatically recognise all other scrolls of the same type; this means it's sometimes useful to read scrolls just to identify them.
+FR: Une fois que vous avez identifié un parchemin, avec un parchemin d’identification ou en le lisant, vous reconnaîtrez automatiquement tous les autres parchemins du même type ; il est donc parfois utile de lire des parchemins juste pour les identifier.
+
+EN: ~You have picked up your first wand
+FR: Vous avez ramassé votre première baguette
+
+EN: ~to evoke it.
+FR: pour l’évoquer.
+
+EN: ~If you find more wands of the same type, they'll merge into this wand and add charges to it.
+FR: Si vous trouvez d’autres baguettes du même type, elles fusionneront avec cette baguette et lui ajouteront des charges.
+
+EN: ~You have picked up a book
+FR: Vous avez ramassé un livre
+
+EN: ~On pickup, its spells are immediately added to your library.
+FR: Au ramassage, ses sorts sont immédiatement ajoutés à votre bibliothèque.
+
+EN: ~You'll be able to memorise spells from it via
+FR: Vous pourrez mémoriser des sorts de ce livre via
+
+EN: ~, and cast them with
+FR: , et les lancer avec
+
+EN: ~This is the first weapon
+FR: C’est la première arme
+
+EN: ~you've picked up.
+FR: que vous ramassez.
+
+EN: ~to wield it, but be aware that this weapon might train a different skill from your current one.
+FR: pour la manier, mais sachez que cette arme peut entraîner une compétence différente de votre compétence actuelle.
+
+EN: ~You can view the weapon's properties from your
+FR: Vous pouvez consulter les propriétés de l’arme depuis votre
+
+EN: ~This is the first stack of missiles
+FR: C’est la première pile de projectiles
+
+EN: ~Missiles like boomerangs and throwing nets can be thrown by hand, and become more effective as you train the Throwing skill.
+FR: Les projectiles comme les boomerangs et les filets de jet peuvent être lancés à la main, et deviennent plus efficaces à mesure que vous entraînez la compétence Lancer.
+
+EN: ~the item in your
+FR: l’objet dans votre
+
+EN: ~nventory to see more information.
+FR: nventaire pour voir plus d’informations.
+
+EN: ~This is the first piece of armour
+FR: C’est la première pièce d’armure
+
+EN: ~You have picked up a piece of jewellery, either a ring
+FR: Vous avez ramassé un bijou, soit un anneau
+
+EN: ~or an amulet
+FR: soit une amulette
+
+EN: ~This is a curious object indeed.
+FR: Voilà un objet bien curieux.
+
+EN: ~You can play around with it to find out what it does by
+FR: Vous pouvez jouer avec pour découvrir ce qu’il fait en
+
+EN: ~As usual, selecting it from your
+FR: Comme toujours, le sélectionner dans votre
+
+EN: ~nventory might give you more information.
+FR: nventaire peut vous donner plus d’informations.
+
+EN: ~You have picked up a magic staff
+FR: Vous avez ramassé un bâton magique
+
+EN: ~It must be
+FR: Il doit être
+
+EN: ~Magicians use staves to increase their power in certain spell schools.
+FR: Les magiciens utilisent des bâtons pour augmenter leur puissance dans certaines écoles de magie.
+
+EN: ~It can also be used as a weapon.
+FR: Il peut aussi servir d’arme.
+
+EN: ~You have picked up your first pile of gold
+FR: Vous avez ramassé votre premier tas d’or
+
+EN: ~to see how much you have.
+FR: pour voir combien vous en avez.
+
+EN: ~Gold is used in shops you'll find as you explore.
+FR: L’or sert dans les boutiques que vous trouverez en explorant.
+
+EN: ~You can enter the next (deeper) level by following them down (
+FR: Vous pouvez entrer dans l’étage suivant (plus profond) en les descendant (
+
+EN: ~To return to this level, press
+FR: Pour revenir à cet étage, appuyez sur
+
+EN: ~while standing on the upstairs.
+FR: alors que vous vous tenez sur l’escalier montant.
+
+EN: ~When you take stairs, you are guaranteed an opportunity to act before any monsters you have not seen before; after that, monsters get to move first.
+FR: Quand vous prenez un escalier, vous avez la garantie d’agir avant tout monstre que vous n’avez pas encore vu ; ensuite, les monstres jouent en premier.
+
+EN: ~is an escape hatch.
+FR: est une trappe de secours.
+
+EN: ~You can use it to leave a level with
+FR: Vous pouvez l’utiliser pour quitter un étage avec
+
+EN: ~, like stairs; unlike stairs, however, hatches are a one-way trip, so be careful when descending!
+FR: , comme un escalier ; contrairement aux escaliers, cependant, les trappes sont à sens unique, alors soyez prudent en descendant !
+
+EN: ~is the entrance to a different branch of the dungeon.
+FR: est l’entrée d’une autre branche du donjon.
+
+EN: ~Each branch has different terrain and monsters, and some contain entrances to other branches.
+FR: Chaque branche a un terrain et des monstres différents, et certaines contiennent des entrées vers d’autres branches.
+
+EN: ~You can learn more by examining this entrance
+FR: Vous pouvez en apprendre plus en examinant cette entrée
+
+EN: ~and moving the cursor onto it." Some branches will be much safer and more rewarding than your current branch.
+FR: et en y déplaçant le curseur. » Certaines branches seront bien plus sûres et plus gratifiantes que votre branche actuelle.
+
+EN: ~Others can be very dangerous, better visited when your character is more powerful.
+FR: D’autres peuvent être très dangereuses et gagnent à être visitées quand votre personnage sera plus puissant.
+
+EN: ~is a portal to an optional level, offering extra loot in exchange for extra danger.
+FR: est un portail vers un niveau optionnel, offrant du butin supplémentaire en échange d’un danger supplémentaire.
+
+EN: ~There's no penalty for skipping it, but the portal will disappear if you wait, so you have to decide now if you want to risk it.
+FR: Il n’y a aucune pénalité à l’ignorer, mais le portail disparaîtra si vous attendez ; vous devez donc décider maintenant si vous voulez prendre le risque.
+
+EN: ~is a portal to an inter-dimensional bazaar filled with shops.
+FR: est un portail vers un bazar interdimensionnel rempli de boutiques.
+
+EN: ~It will disappear if you don't enter it soon, so hurry.
+FR: Il disparaîtra si vous n’y entrez pas bientôt, alors dépêchez-vous.
+
+EN: ~You can enter a portal just like a set of stairs, by standing on it and
+FR: Vous pouvez entrer dans un portail comme dans un escalier, en vous tenant dessus et en
+
+EN: ~To return, find
+FR: Pour revenir, trouvez
+
+EN: ~is an altar.
+FR: est un autel.
+
+EN: ~you can get a short description.
+FR: vous pouvez obtenir une courte description.
+
+EN: ~while standing on the square to join the faith or read some information about the god in question.
+FR: alors que vous vous tenez sur la case pour rejoindre la foi ou lire des informations sur le dieu en question.
+
+EN: ~Before taking up the corresponding faith you'll be asked for confirmation.
+FR: Avant d’embrasser la foi correspondante, une confirmation vous sera demandée.
+
+EN: ~is a shop.
+FR: est une boutique.
+
+EN: ~You can enter it by typing
+FR: Vous pouvez y entrer en tapant
+
+EN: ~, or by left-clicking on it while standing on the square.
+FR: , ou en faisant un clic gauche dessus en vous tenant sur la case.
+
+EN: ~If there's anything you want which you can't afford yet, you can hold Shift and press the corresponding letter to put it on your shopping list.
+FR: Si vous voulez quelque chose que vous ne pouvez pas encore vous payer, vous pouvez maintenir Maj et appuyer sur la lettre correspondante pour l’ajouter à votre liste d’achats.
+
+EN: ~The game will then remind you when you gather enough gold to buy it.
+FR: Le jeu vous le rappellera quand vous aurez accumulé assez d’or pour l’acheter.
+
+EN: ~is a closed door.
+FR: est une porte fermée.
+
+EN: ~You can open it by walking into it.
+FR: Vous pouvez l’ouvrir en marchant dessus.
+
+EN: ~Sometimes it is useful to close a door.
+FR: Il est parfois utile de fermer une porte.
+
+EN: ~Do so by
+FR: Faites-le en
+
+EN: ~is a runed door, which is probably in front of something unusually dangerous.
+FR: est une porte runique, qui se trouve probablement devant quelque chose d’exceptionnellement dangereux.
+
+EN: ~Monsters will never open it.
+FR: Les monstres ne l’ouvriront jamais.
+
+EN: ~If you do, the runes will be broken, and it will become a normal door.
+FR: Si vous le faites, les runes seront brisées et elle deviendra une porte normale.
+
+EN: ~Congratulations, your character just gained experience by killing this monster!
+FR: Félicitations, votre personnage vient de gagner de l’expérience en tuant ce monstre !
+
+EN: ~This will raise some of your skills, making you more deadly.
+FR: Cela fera monter certaines de vos compétences, vous rendant plus mortel.
+
+EN: ~Reaching a new experience level is always a nice event.
+FR: Atteindre un nouveau niveau d’expérience est toujours un événement agréable.
+
+EN: ~You get more health and magic points, and occasionally increases to your attributes: strength, intelligence, and dexterity.
+FR: Vous gagnez plus de points de vie et de magie, et parfois des augmentations de vos attributs : force, intelligence et dextérité.
+
+EN: ~One of your skills just reached a milestone.
+FR: L’une de vos compétences vient d’atteindre un palier.
+
+EN: ~The skills you use are automatically trained whenever you gain experience, by killing monsters.
+FR: Les compétences que vous utilisez sont entraînées automatiquement chaque fois que vous gagnez de l’expérience en tuant des monstres.
+
+EN: ~By default, experience goes to skills you actively use.
+FR: Par défaut, l’expérience va aux compétences que vous utilisez activement.
+
+EN: ~To view or manage your skills, type
+FR: Pour voir ou gérer vos compétences, tapez
+
+EN: ~Enchantments of all types can befall you temporarily.
+FR: Des enchantements de toutes sortes peuvent vous affecter temporairement.
+
+EN: ~Brief descriptions of these appear at the lower end of the stats area.
+FR: De brèves descriptions apparaissent en bas de la zone des statistiques.
+
+EN: ~for more details.
+FR: pour plus de détails.
+
+EN: ~You can search for full enchantment descriptions by pressing
+FR: Vous pouvez rechercher les descriptions complètes des enchantements en appuyant sur
+
+EN: ~Poison will rapidly reduce your health.
+FR: Le poison réduira rapidement votre santé.
+
+EN: ~You can wait it out with
+FR: Vous pouvez l’attendre avec
+
+EN: ~, but if you're in combat or lethally poisoned, you'll probably want to quaff a potion of curing.
+FR: , mais si vous êtes en combat ou mortellement empoisonné, vous voudrez probablement boire une potion de guérison.
+
+EN: ~There are a lot of items here.
+FR: Il y a beaucoup d’objets ici.
+
+EN: ~You choose what to pick up from a menu: press
+FR: Vous choisissez ce que vous ramassez dans un menu : appuyez sur
+
+EN: ~to enter the pickup menu.
+FR: pour entrer dans le menu de ramassage.
+
+EN: ~To leave the menu, confirm your selection with Enter .
+FR: Pour quitter le menu, confirmez votre sélection avec Entrée.
+
+EN: ~Sadly, your inventory is limited to 52 items, and it appears your knapsack is full.
+FR: Hélas, votre inventaire est limité à 52 objets, et il semble que votre sac soit plein.
+
+EN: ~However, this is easy enough to rectify: simply
+FR: Mais c’est assez facile à régler : il suffit de
+
+EN: ~rop some of the stuff you don't need right now.
+FR: époser une partie de ce dont vous n’avez pas besoin pour l’instant.
+
+EN: ~In the drop menu you can then comfortably select which items to drop by pressing their inventory letter
+FR: Dans le menu de dépôt, vous pouvez ensuite choisir confortablement les objets à déposer en appuyant sur leur lettre d’inventaire
+
+EN: ~As you explore a level, orientation can become difficult.
+FR: En explorant un étage, il peut devenir difficile de s’orienter.
+
+EN: ~to bring up the level map.
+FR: pour afficher la carte de l’étage.
+
+EN: ~shows the list of level map commands.
+FR: affiche la liste des commandes de la carte de l’étage.
+
+EN: ~Most importantly, moving the cursor to a spot and pressing .
+FR: Surtout, déplacer le curseur sur un endroit et appuyer sur .
+
+EN: ~or Enter lets your character move there on its own.
+FR: ou Entrée permet à votre personnage de s’y rendre tout seul.
+
+EN: ~Fully exploring a level and picking up all the interesting looking items can be tedious.
+FR: Explorer entièrement un étage et ramasser tous les objets intéressants peut être fastidieux.
+
+EN: ~To save on this tedium you can press
+FR: Pour vous épargner cette corvée, vous pouvez appuyer sur
+
+EN: ~to auto-explore, which will automatically explore unmapped regions, automatically pick up interesting items, and stop if a monster or interesting dungeon feature (stairs, altar, etc.) is encountered.
+FR: pour explorer automatiquement, ce qui explorera automatiquement les régions non cartographiées, ramassera automatiquement les objets intéressants, et s’arrêtera si un monstre ou un élément intéressant du donjon (escaliers, autel, etc.) est rencontré.
+
+EN: ~Hey, you've finished exploring the dungeon on this level!
+FR: Hé, vous avez fini d’explorer le donjon à cet étage !
+
+EN: ~You can search for stairs from the level map (
+FR: Vous pouvez rechercher des escaliers depuis la carte de l’étage (
+
+EN: ~) by pressing > .
+FR: ) en appuyant sur > .
+
+EN: ~The cursor will jump to the nearest staircase, and by pressing .
+FR: Le curseur sautera à l’escalier le plus proche, et en appuyant sur .
+
+EN: ~or Enter your character can move there, too.
+FR: ou Entrée, votre personnage peut aussi s’y rendre.
+
+EN: ~Each level of Crawl has three
+FR: Chaque étage de Crawl possède trois escaliers
+
+EN: ~up and three
+FR: montants et trois escaliers
+
+EN: ~Unexplored parts can often be accessed via another level.
+FR: Les parties inexplorées sont souvent accessibles par un autre étage.
+
+EN: ~To prevent autotravel or autoexplore taking you into dangerous territory, you can set travel exclusions by entering the map view (
+FR: Pour empêcher le voyage ou l’exploration automatique de vous mener en territoire dangereux, vous pouvez définir des exclusions de déplacement en entrant dans la vue de carte (
+
+EN: ~) and then toggling the exclusion radius on the monster position with e .
+FR: ) puis en basculant le rayon d’exclusion sur la position du monstre avec e .
+
+EN: ~To make this easier, some immobile monsters listed in the auto_exclude option (such as this one) are considered dangerous enough to warrant an automatic setting of an exclusion.
+FR: Pour faciliter cela, certains monstres immobiles listés dans l’option auto_exclude (comme celui-ci) sont jugés assez dangereux pour justifier une exclusion automatique.
+
+EN: ~It will be automatically cleared if you manage to kill the monster.
+FR: Elle sera automatiquement levée si vous parvenez à tuer le monstre.
+
+EN: ~You could also manually remove the exclusion with
+FR: Vous pouvez aussi retirer manuellement l’exclusion avec
+
+EN: ~ee but unless you remove this monster from the auto_exclude list, the exclusion will be reset the next turn.
+FR: ee mais, à moins de retirer ce monstre de la liste auto_exclude, l’exclusion sera rétablie au tour suivant.
+
+EN: ~If you're low on health or magic and there's no urgent need to move, you can rest for a bit.
+FR: Si votre santé ou votre magie est basse et qu’il n’y a pas d’urgence à bouger, vous pouvez vous reposer un moment.
+
+EN: ~Ideally, you should retreat to an area you've already explored and cleared of monsters before resting, since resting on the edge of the explored terrain increases the risk of rest being interrupted by a wandering monster.
+FR: Idéalement, vous devriez battre en retraite dans une zone déjà explorée et débarrassée de monstres avant de vous reposer, car se reposer en bordure du terrain exploré augmente le risque que le repos soit interrompu par un monstre errant.
+
+EN: ~to do so.
+FR: pour le faire.
+
+EN: ~If you have seen neither of these so far, try unknown potions in your inventory.
+FR: Si vous n’avez vu aucune de ces potions jusqu’ici, essayez les potions inconnues de votre inventaire.
+
+EN: ~Against particularly difficult foes, you should use your Berserk
+FR: Contre les ennemis particulièrement difficiles, vous devriez utiliser votre capacité Berserk
+
+EN: ~Killing monsters while berserking makes it last longer.
+FR: Tuer des monstres en berserk le fait durer plus longtemps.
+
+EN: ~With Trog's support, you can use your Berserk ability (
+FR: Avec le soutien de Trog, vous pouvez utiliser votre capacité Berserk (
+
+EN: ~) to temporarily gain more health and greater strength.
+FR: ) pour gagner temporairement plus de santé et une plus grande force.
+
+EN: ~Bear in mind that berserking at the last minute is often risky, and prevents you from using items to escape!
+FR: Gardez à l’esprit que passer en berserk à la dernière minute est souvent risqué et vous empêche d’utiliser des objets pour fuir !
+
+EN: ~Mutations can be good or bad.
+FR: Les mutations peuvent être bonnes ou mauvaises.
+
+EN: ~Potions of mutation are the most common way to remove bad mutations, though they can also give you new ones.
+FR: Les potions de mutation sont le moyen le plus courant de retirer les mauvaises mutations, bien qu’elles puissent aussi en donner de nouvelles.
+
+EN: ~Check your mutations with
+FR: Consultez vos mutations avec
+
+EN: ~You just gained a divine ability.
+FR: Vous venez de gagner une capacité divine.
+
+EN: ~to take a look at your abilities.
+FR: pour jeter un œil à vos capacités.
+
+EN: ~to take a look at your abilities or to use one of them.
+FR: pour jeter un œil à vos capacités ou en utiliser une.
+
+EN: ~That item you just equipped granted you a new ability.
+FR: L’objet que vous venez d’équiper vous a accordé une nouvelle capacité.
+
+EN: ~Equipping this item affects your resistances.
+FR: Équiper cet objet affecte vos résistances.
+
+EN: ~Check the overview screen (
+FR: Consultez l’écran de synthèse (
+
+EN: ~) for details.
+FR: ) pour plus de détails.
+
+EN: ~is growing displeased because your piety is running low.
+FR: s’irrite parce que votre piété est en baisse.
+
+EN: ~Possibly this is the case because you're committing heretical acts, because you're spending a lot of piety on
+FR: C’est peut-être dû au fait que vous commettez des actes hérétiques, que vous dépensez beaucoup de piété pour les pouvoirs de
+
+EN: ~'s powers, or a combination of the two.
+FR: , ou à une combinaison des deux.
+
+EN: ~If your piety goes to zero, then you'll be excommunicated.
+FR: Si votre piété tombe à zéro, vous serez excommunié.
+
+EN: ~Better get cracking on raising your piety, and stop annoying your god.
+FR: Mieux vaut vous remettre à augmenter votre piété et cesser d’agacer votre dieu.
+
+EN: ~In any case, you'd better reread the religious description.
+FR: Dans tous les cas, vous feriez bien de relire la description religieuse.
+
+EN: ~To do so, press
+FR: Pour cela, appuyez sur
+
+EN: ~just excommunicated you for running out of piety (your divine favour went to nothing).
+FR: vient de vous excommunier pour avoir épuisé votre piété (votre faveur divine est tombée à rien).
+
+EN: ~Maybe you repeatedly violated the religious rules, or maybe you spent piety faster than you could gain it, or some combination of the two.
+FR: Vous avez peut-être enfreint à répétition les règles religieuses, ou dépensé votre piété plus vite que vous ne pouviez en gagner, ou une combinaison des deux.
+
+EN: ~If you can find an altar dedicated to
+FR: Si vous trouvez un autel dédié à
+
+EN: ~, you can re-convert, and all will be well.
+FR: , vous pouvez vous reconvertir, et tout ira bien.
+
+EN: ~Should you decide that abandoning
+FR: Si vous décidez qu’abandonner
+
+EN: ~wasn't such a smart move after all, and you'd like to return to your old faith, you'll have to find an altar dedicated to
+FR: n’était finalement pas une si bonne idée et que vous voulez retourner à votre ancienne foi, il vous faudra trouver un autel dédié à
+
+EN: ~where you can re-convert, and all will be well.
+FR: où vous pourrez vous reconvertir, et tout ira bien.
+
+EN: ~Fortunately, it seems that
+FR: Heureusement, il semble que
+
+EN: ~didn't mind your converting to
+FR: n’ait pas pris ombrage de votre conversion à
+
+EN: ~Note that this kind of alliance only exists between the three good gods, so don't expect this to be the norm.
+FR: Notez que ce genre d’alliance n’existe qu’entre les trois dieux bons, alors ne vous attendez pas à ce que ce soit la norme.
+
+EN: ~is one of the good gods who generally are rather forgiving about change of faith - unless you switch over to the path of evil, in which case their retribution can be nasty indeed!
+FR: est l’un des dieux bons, en général plutôt indulgents sur le changement de foi — sauf si vous passez du côté du mal, auquel cas leur châtiment peut être terrible !
+
+EN: ~didn't appreciate your converting to
+FR: n’a pas apprécié votre conversion à
+
+EN: ~But really, changing from one of the good gods to an evil one, what did you expect!?
+FR: Mais franchement, passer d’un dieu bon à un dieu mauvais, à quoi vous attendiez-vous !?
+
+EN: ~For any god not on the opposing side of the faith,
+FR: Pour tout dieu n’étant pas du camp opposé,
+
+EN: ~would have been much more forgiving.
+FR: se serait montré bien plus indulgent.
+
+EN: ~(Actually, only the three good gods will usually be forgiving about this kind of faithlessness.)
+FR: (En fait, seuls les trois dieux bons sont généralement indulgents face à ce genre d’infidélité.)
+
+EN: ~Unfortunately, while converting back would appease
+FR: Malheureusement, si vous reveniez, cela apaiserait
+
+EN: ~, it would annoy
+FR: , mais cela irriterait
+
+EN: ~, so you're stuck with having to suffer the wrath of one god or another.
+FR: , donc vous devrez de toute façon subir la colère de l’un ou l’autre dieu.
+
+EN: ~You can easily switch back to your weapon in slot a by pressing
+FR: Vous pouvez facilement revenir à votre arme de l’emplacement a en appuyant sur
+
+EN: ~To change the slot of an item, press
+FR: Pour changer l’emplacement d’un objet, appuyez sur
+
+EN: ~That monster is
+FR: Ce monstre est
+
+EN: ~You can learn about any monster by hovering your mouse over it, and read its description by right-clicking on it.
+FR: Vous pouvez vous renseigner sur n’importe quel monstre en passant la souris dessus, et lire sa description en faisant un clic droit dessus.
+
+EN: ~is a monster, usually depicted by a letter.
+FR: est un monstre, généralement représenté par une lettre.
+
+EN: ~Some typical early monsters look like r , l , K or g .
+FR: Certains monstres typiques du début ressemblent à r , l , K ou g .
+
+EN: ~You can gain information about it by pressing
+FR: Vous pouvez obtenir des informations à son sujet en appuyant sur
+
+EN: ~and moving the cursor over the monster, and read the monster description by then pressing
+FR: et en déplaçant le curseur sur le monstre, puis lire la description du monstre en appuyant ensuite sur
+
+EN: ~To attack this monster with your wielded weapon, just move into it.
+FR: Pour attaquer ce monstre avec votre arme maniée, déplacez-vous simplement sur lui.
+
+EN: ~Now that monster is scared of you!
+FR: Maintenant ce monstre a peur de vous !
+
+EN: ~Note that you do not absolutely have to follow it.
+FR: Notez que vous n’avez pas absolument besoin de le suivre.
+
+EN: ~Rather, you can let it run away.
+FR: Vous pouvez plutôt le laisser s’enfuir.
+
+EN: ~Sometimes, though, it can be useful to attack a fleeing creature by throwing something after it.
+FR: Parfois, cependant, il peut être utile d’attaquer une créature qui fuit en lui lançant quelque chose.
+
+EN: ~If you have any stones in your
+FR: Si vous avez des pierres dans votre
+
+EN: ~nventory, you can look at one of them to read an explanation of how to do this.
+FR: nventaire, vous pouvez en examiner une pour lire comment faire.
+
+EN: ~That monster looks a bit unusual.
+FR: Ce monstre a l’air un peu inhabituel.
+
+EN: ~You might wish to examine it a bit more closely by
+FR: Vous voudrez peut-être l’examiner de plus près en
+
+EN: ~That monster is friendly to you and will attack your enemies.
+FR: Ce monstre est amical envers vous et attaquera vos ennemis.
+
+EN: ~You can command your allies by pressing
+FR: Vous pouvez donner des ordres à vos alliés en appuyant sur
+
+EN: ~didn't vanish, but merely moved onto a square which you can't currently see.
+FR: n’a pas disparu, mais s’est simplement déplacé sur une case que vous ne pouvez pas voir pour le moment.
+
+EN: ~It's still nearby, unless something happens to it in the short amount of time it's out of sight.
+FR: Il est toujours à proximité, sauf s’il lui arrive quelque chose pendant le court laps de temps où il est hors de vue.
+
+EN: ~While technically a monster, it's more like dungeon furniture, since it's harmless and doesn't move.
+FR: Bien que techniquement un monstre, il tient plus du mobilier du donjon, car il est inoffensif et ne bouge pas.
+
+EN: ~If it's in your way you can attack and kill it like other monsters, but you won't get any experience for doing so.
+FR: S’il vous gêne, vous pouvez l’attaquer et le tuer comme les autres monstres, mais cela ne vous rapportera aucune expérience.
+
+EN: ~Uh-oh, you've wound up in the Abyss!
+FR: Aïe, vous avez atterri dans l’Abysse !
+
+EN: ~The Abyss is a special place where you cannot remember or map where you've been; it is filled with nasty monsters, and you're probably going to die.
+FR: L’Abysse est un endroit spécial où vous ne pouvez ni vous souvenir ni cartographier où vous êtes passé ; il est rempli de monstres redoutables, et vous allez probablement mourir.
+
+EN: ~To increase your chances of survival until you can find the exit
+FR: Pour augmenter vos chances de survie jusqu’à ce que vous trouviez la sortie
+
+EN: ~, keep moving, don't fight any of the monsters, and don't chase after items on the ground.
+FR: , continuez à bouger, ne combattez aucun monstre et ne courez pas après les objets au sol.
+
+EN: ~If monsters are closing in, try to use items and abilities to get away.
+FR: Si des monstres se rapprochent, essayez d’utiliser des objets et des capacités pour vous échapper.
+
+EN: ~Miscasting a spell can have nasty consequences, particularly for the more difficult spells.
+FR: Rater un sort peut avoir de fâcheuses conséquences, surtout pour les sorts les plus difficiles.
+
+EN: ~Your chance of successfully casting a spell increases with your magic skills, and can also be improved with the help of some items.
+FR: Votre chance de lancer un sort avec succès augmente avec vos compétences magiques, et peut aussi être améliorée par certains objets.
+
+EN: ~to check your current failure rates.
+FR: pour vérifier vos taux d’échec actuels.
+
+EN: ~Wearing heavy body armour or using a shield, especially a large one, can severely hamper your spellcasting abilities.
+FR: Porter une lourde armure corporelle ou utiliser un bouclier, surtout un grand, peut gravement entraver vos capacités de lancer de sorts.
+
+EN: ~You can check the effect of this by comparing the failure rates on the
+FR: Vous pouvez vérifier l’effet en comparant les taux d’échec sur l’écran
+
+EN: ~screen with and without the item being worn.
+FR: avec et sans l’objet porté.
+
+EN: ~If the spellcasting success chance is high (which can be checked by entering
+FR: Si la chance de réussite du sort est élevée (ce que l’on peut vérifier en entrant
+
+EN: ~) then a miscast merely means the spell is not working, along with a harmless side effect.
+FR: ), alors un échec signifie simplement que le sort ne fonctionne pas, avec un effet secondaire inoffensif.
+
+EN: ~However, for spells with a high failure rate, there's a chance of contaminating yourself with magical energy, plus a chance of an additional harmful side effect.
+FR: Cependant, pour les sorts à fort taux d’échec, il y a une chance de vous contaminer d’énergie magique, plus une chance d’un effet secondaire nuisible supplémentaire.
+
+EN: ~Normally this isn't a problem, since magical contamination bleeds off over time, but if you're repeatedly contaminated in a short amount of time you'll mutate or suffer from other ill side effects.
+FR: Normalement ce n’est pas un problème, puisque la contamination magique s’évacue avec le temps, mais si vous êtes contaminé à répétition en peu de temps, vous muterez ou subirez d’autres mauvais effets secondaires.
+
+EN: ~Note that a miscast spell will still consume the full amount of MP that a successfully cast spell would.
+FR: Notez qu’un sort raté consommera quand même la totalité des PM qu’un sort réussi aurait consommés.
+
+EN: ~Most attacks in Crawl are defended against by your AC.
+FR: La plupart des attaques de Crawl sont contrées par votre CA.
+
+EN: ~Some, like fire or draining attacks, can be further reduced by specific resistances.
+FR: Certaines, comme les attaques de feu ou de drain, peuvent être encore réduites par des résistances spécifiques.
+
+EN: ~Other magical effects, such as Slow or Confusion hexes, are resisted by your willpower.
+FR: D’autres effets magiques, comme les maléfices de Lenteur ou de Confusion, sont contrés par votre volonté.
+
+EN: ~You'll find items that increase both kinds of resistances.
+FR: Vous trouverez des objets qui augmentent les deux types de résistances.
+
+EN: ~To view your current set of resistances,
+FR: Pour voir votre ensemble actuel de résistances,
+
+EN: ~While you are held in a net, you cannot move around or engage monsters in combat.
+FR: Tant que vous êtes pris dans un filet, vous ne pouvez ni vous déplacer ni engager le combat avec les monstres.
+
+EN: ~Instead, any movement you take is counted as an attempt to struggle free from the net.
+FR: À la place, tout mouvement que vous faites compte comme une tentative de vous libérer du filet.
+
+EN: ~While you are silenced, you cannot cast spells, read scrolls or use divine invocations.
+FR: Tant que vous êtes réduit au silence, vous ne pouvez pas lancer de sorts, lire de parchemins ni utiliser d’invocations divines.
+
+EN: ~The same is true for any monster within the effect radius.
+FR: Il en va de même pour tout monstre dans le rayon de l’effet.
+
+EN: ~The field of silence (recognizable by
+FR: Le champ de silence (reconnaissable à
+
+EN: ~) is always centered on you and will move along with you.
+FR: ) est toujours centré sur vous et vous suit dans vos déplacements.
+
+EN: ~The radius will gradually shrink, eventually making you the only one affected, before the effect fades entirely.
+FR: Le rayon rétrécira peu à peu, jusqu’à ce que vous soyez le seul affecté, avant que l’effet ne disparaisse entièrement.
+
+EN: ~As your Spellcasting skill increases, you will be able to memorise more spells, and will have somewhat more MP.
+FR: Au fur et à mesure que votre compétence d’Incantation augmente, vous pourrez mémoriser plus de sorts et aurez un peu plus de PM.
+
+EN: ~You'll also become slightly better at casting all kinds of spells.
+FR: Vous deviendrez aussi légèrement meilleur pour lancer toutes sortes de sorts.
+
+EN: ~to have a look at your skills and manage their training.
+FR: pour jeter un œil à vos compétences et gérer leur entraînement.
+
+EN: ~Rather than step into this cloud and hurt yourself, you should either wait for a few turns to see if it vanishes (with
+FR: Plutôt que d’entrer dans ce nuage et de vous blesser, vous devriez soit attendre quelques tours pour voir s’il disparaît (avec
+
+EN: ~), or just step around it.
+FR: ), soit simplement le contourner.
+
+EN: ~You cannot memorise any
+FR: Vous ne pouvez mémoriser aucun sort de
+
+EN: ~spells right now.
+FR: pour le moment.
+
+EN: ~This will change as you grow in levels and Spellcasting proficiency.
+FR: Cela changera à mesure que vous monterez en niveau et en maîtrise de l’Incantation.
+
+EN: ~To use magic,
+FR: Pour utiliser la magie,
+
+EN: ~you can press
+FR: vous pouvez appuyer sur
+
+EN: ~and choose a spell, e.g.
+FR: et choisir un sort, p. ex.
+
+EN: ~For attack spells:
+FR: Pour les sorts d’attaque :
+
+EN: ~To do this, enter the ability menu with
+FR: Pour cela, entrez dans le menu des capacités avec
+
+EN: ~, and then choose the corresponding ability.
+FR: , puis choisissez la capacité correspondante.
+
+EN: ~Note that such an activation attempt, especially by the untrained, is likely to fail.
+FR: Notez qu’une telle tentative d’activation, surtout par un novice, risque fort d’échouer.
+
+EN: ~To do this, press
+FR: Pour cela, appuyez sur
+
+EN: ~to fire, then
+FR: pour tirer, puis
+
+EN: ~for this item.
+FR: pour cet objet.
+
+EN: ~to fire, then select this item.
+FR: pour tirer, puis sélectionnez cet objet.
+
+EN: ~This weapon offers its wearer protection from certain sources.
+FR: Cette arme offre à son porteur une protection contre certaines sources.
+
+EN: ~For an overview of your resistances (among other things) press
+FR: Pour un aperçu de vos résistances (entre autres), appuyez sur
+
+EN: ~You can wield this weapon with
+FR: Vous pouvez manier cette arme avec
+
+EN: ~, or use
+FR: , ou utiliser
+
+EN: ~to switch between the weapons in slot a and b.
+FR: pour alterner entre les armes des emplacements a et b.
+
+EN: ~However, you've been training in
+FR: Cependant, vous vous entraînez depuis un moment en
+
+EN: ~for a while, so maybe you should continue training that rather than
+FR: donc vous devriez peut-être continuer à l’entraîner plutôt que
+
+EN: ~to see the skill management screen for the actual numbers.)
+FR: pour voir l’écran de gestion des compétences avec les chiffres réels.)
+
+EN: ~To attack a monster,
+FR: Pour attaquer un monstre,
+
+EN: ~Because of your horns you cannot wear helmets.
+FR: À cause de vos cornes, vous ne pouvez pas porter de casque.
+
+EN: ~to see a list of your mutations and innate abilities.
+FR: pour voir la liste de vos mutations et capacités innées.
+
+EN: ~You can wear pieces of armour with
+FR: Vous pouvez porter des pièces d’armure avec
+
+EN: ~and take them off again with
+FR: et les retirer avec
+
+EN: ~This armour offers its wearer protection from certain sources.
+FR: Cette armure offre à son porteur une protection contre certaines sources.
+
+EN: ~When worn, some types of armour (such as this one) offer certain abilities you can activate with
+FR: Une fois portés, certains types d’armure (comme celui-ci) offrent des capacités que vous pouvez activer avec
+
+EN: ~The magic within can be unleashed by evoking (
+FR: La magie qu’il renferme peut être libérée en l’évoquant (
+
+EN: ~to read this scroll
+FR: pour lire ce parchemin
+
+EN: ~This item offers its wearer protection from certain sources.
+FR: Cet objet offre à son porteur une protection contre certaines sources.
+
+EN: ~to quaff this potion
+FR: pour boire cette potion
+
+EN: ~You can pick up a spellbook to add its spells to your spell library.
+FR: Vous pouvez ramasser un livre de sorts pour ajouter ses sorts à votre bibliothèque de sorts.
+
+EN: ~(View your spell library with
+FR: (Consultez votre bibliothèque de sorts avec
+
+EN: ~It also offers its wielder protection from certain sources.
+FR: Il offre aussi à son porteur une protection contre certaines sources.
+
+EN: ~Seeing how Trog frowns upon the use of magic, this staff will be of little use to you and you might just as well
+FR: Puisque Trog désapprouve l’usage de la magie, ce bâton vous sera de peu d’utilité et vous pouvez tout aussi bien le
+
+EN: ~rop it now.
+FR: époser maintenant.
+
+EN: ~Miscellaneous items sometimes harbour magical powers that can be harnessed by evoking the item with
+FR: Les objets divers recèlent parfois des pouvoirs magiques qui peuvent être exploités en évoquant l’objet avec
+
+EN: ~The dungeon contains a number of natural obstacles such as shafts, which lead one to three levels down.
+FR: Le donjon contient un certain nombre d’obstacles naturels comme les puits, qui mènent d’un à trois étages plus bas.
+
+EN: ~Once you know the shaft is there, you can safely step over it.\nIf you want to jump down there, use
+FR: Une fois que vous savez que le puits est là, vous pouvez l’enjamber sans risque. Si vous voulez y sauter, utilisez
+
+EN: ~Be warned that getting back here might be difficult.
+FR: Soyez prévenu : revenir ici pourrait être difficile.
+
+EN: ~To get back to this level again, press
+FR: Pour revenir à cet étage, appuyez sur
+
+EN: ~You can enter the previous (shallower) level by following these up (
+FR: Vous pouvez entrer dans l’étage précédent (moins profond) en les remontant (
+
+EN: ~This is ideal for retreating or finding a safe resting spot, since the previous level will have less monsters, and monsters on this level can't follow you up unless they're standing right next to you.
+FR: C’est idéal pour battre en retraite ou trouver un endroit sûr où se reposer, puisque l’étage précédent aura moins de monstres, et que les monstres de cet étage ne peuvent pas vous suivre à moins d’être juste à côté de vous.
+
+EN: ~while standing on the downstairs.
+FR: alors que vous vous tenez sur l’escalier descendant.
+
+EN: ~Escape hatches can be used to quickly leave a level with
+FR: Les trappes de secours permettent de quitter rapidement un étage avec
+
+EN: ~Note that you will usually be unable to return right away.
+FR: Notez que vous ne pourrez généralement pas revenir tout de suite.
+
+EN: ~To avoid accidentally opening a door you'd rather remain closed during travel or autoexplore, you can mark it with an exclusion from the map view (
+FR: Pour éviter d’ouvrir par accident une porte que vous préféreriez garder fermée pendant le voyage ou l’exploration automatique, vous pouvez la marquer d’une exclusion depuis la vue de carte (
+
+EN: ~while your cursor is on the square in question.
+FR: alors que votre curseur est sur la case en question.
+
+EN: ~Such an exclusion will prevent autotravel from ever entering that grid until you remove the exclusion with another press of
+FR: Une telle exclusion empêchera le voyage automatique d’entrer jamais dans cette case jusqu’à ce que vous retiriez l’exclusion en appuyant de nouveau sur
+
+EN: ~This particular altar is so ancient that you cannot make out which god it is dedicated to!
+FR: Cet autel est si ancien que vous ne pouvez pas discerner à quel dieu il est dédié !
+
+EN: ~Converting here by pressing
+FR: Vous convertir ici en appuyant sur
+
+EN: ~while standing on the altar will enter you into service of a random god, who will grant you some additional piety in thanks.
+FR: alors que vous vous tenez sur l’autel vous mettra au service d’un dieu aléatoire, qui vous accordera un peu de piété supplémentaire en remerciement.
+
+EN: ~is probably dangerous, and you should stay out of it if you can.
+FR: est probablement dangereux, et vous devriez l’éviter si vous le pouvez.
+
+EN: ~are probably dangerous, and you should stay out of them if you can.
+FR: sont probablement dangereux, et vous devriez les éviter si vous le pouvez.
+
+EN: ~is currently harmless, but that could change at some point.
+FR: est actuellement inoffensif, mais cela pourrait changer à un moment donné.
+
+EN: ~) to view your resistances.
+FR: ) pour voir vos résistances.
+
+EN: ~are currently harmless, but that could change at some point.
+FR: sont actuellement inoffensifs, mais cela pourrait changer à un moment donné.
+
+EN: ~Friendly monsters will follow you around and attempt to aid you in battle.
+FR: Les monstres amicaux vous suivront et tenteront de vous aider au combat.
+
+EN: ~You can order nearby allies by talking to them (
+FR: Vous pouvez donner des ordres aux alliés proches en leur parlant (
+
+EN: ~You can easily mark its square as dangerous to avoid accidentally entering into its field of view when using auto-explore or auto-travel.
+FR: Vous pouvez facilement marquer sa case comme dangereuse pour éviter d’entrer par mégarde dans son champ de vision lors de l’exploration ou du voyage automatiques.
+
+EN: ~To do so, enter targeting mode with
+FR: Pour cela, entrez en mode de ciblage avec
+
+EN: ~and then press
+FR: puis appuyez sur
+
+EN: ~when your cursor is hovering over the monster's grid.
+FR: lorsque votre curseur survole la case du monstre.
+
+EN: ~Doing so will mark this grid and all surrounding ones within a radius of 8 as "excluded" ones that explore or travel modes won't enter.
+FR: Ce faisant, vous marquerez cette case et toutes celles environnantes dans un rayon de 8 comme « exclues », que les modes d’exploration ou de voyage n’entreront pas.

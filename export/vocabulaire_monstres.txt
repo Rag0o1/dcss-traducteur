@@ -1,0 +1,1760 @@
+EN: adder
+FR: aspic
+
+EN: ball python
+FR: python royal
+
+EN: bat
+FR: chauve-souris
+
+EN: clockroach
+FR: blatte-horloge
+
+EN: dart slug
+FR: limace lance-fléchettes
+
+EN: endoplasm
+FR: endoplasme
+
+EN: frilled lizard
+FR: lézard à collerette
+
+EN: goblin
+FR: gobelin
+
+EN: hobgoblin
+FR: hobgobelin
+
+EN: kobold
+FR: kobold
+
+EN: kobold brigand
+FR: brigand kobold
+
+EN: wight
+FR: nécrophage
+
+EN: orc
+FR: orc
+
+EN: plant
+FR: plante
+
+EN: quokka
+FR: quokka
+
+EN: rat
+FR: rat
+
+EN: ribbon worm
+FR: ver rubané
+
+EN: abyssal acolyte
+FR: acolyte abyssal
+
+EN: acid blob
+FR: blob acide
+
+EN: acid dragon
+FR: dragon acide
+
+EN: air elemental
+FR: élémentaire d’air
+
+EN: airy jade
+FR: jade aérien
+
+EN: alderking
+FR: roi-aulne
+
+EN: alligator
+FR: alligator
+
+EN: alligator snapping turtle
+FR: tortue alligator
+
+EN: anaconda
+FR: anaconda
+
+EN: ancestor
+FR: ancêtre
+
+EN: ancient champion
+FR: champion antique
+
+EN: ancient lich
+FR: liche ancienne
+
+EN: ancient zyme
+FR: zyme ancien
+
+EN: angel
+FR: ange
+
+EN: animated tree
+FR: arbre animé
+
+EN: antique champion
+FR: champion antique
+
+EN: apis
+FR: apis
+
+EN: apocalypse crab
+FR: crabe de l’apocalypse
+
+EN: arcanist
+FR: arcaniste
+
+EN: armour echo
+FR: écho d’armure
+
+EN: aspiring flesh
+FR: chair aspirante
+
+EN: assassin centipede
+FR: mille-pattes assassin
+
+EN: azure jelly
+FR: gelée azurée
+
+EN: ball lightning
+FR: foudre globulaire
+
+EN: ballistomycete
+FR: balistomycète
+
+EN: ballistomycete spore
+FR: spore de balistomycète
+
+EN: balrug
+FR: balrug
+
+EN: barachi
+FR: barachi
+
+EN: basilisk
+FR: basilic
+
+EN: battlesphere
+FR: sphère de bataille
+
+EN: bear
+FR: ours
+
+EN: bennu
+FR: bennu
+
+EN: bes kemwar
+FR: bes kemwar
+
+EN: black bear
+FR: ours noir
+
+EN: ice fiend
+FR: démon de glace
+
+EN: brimstone fiend
+FR: démon de soufre
+
+EN: executioner
+FR: bourreau
+
+EN: hell sentinel
+FR: sentinelle de l’Enfer
+
+EN: tzitzimitl
+FR: tzitzimitl
+
+EN: herald of the abyss
+FR: héraut de l’Abysse
+
+EN: black draconian
+FR: draconien noir
+
+EN: black mamba
+FR: mamba noir
+
+EN: blazeheart core
+FR: cœur de braise
+
+EN: blazeheart golem
+FR: golem cœur-de-braise
+
+EN: blink frog
+FR: grenouille clignotante
+
+EN: blizzard demon
+FR: démon du blizzard
+
+EN: bloated husk
+FR: carcasse boursouflée
+
+EN: block of ice
+FR: bloc de glace
+
+EN: bog body
+FR: momie des tourbières
+
+EN: boggart
+FR: boggart
+
+EN: bombardier beetle
+FR: scarabée bombardier
+
+EN: bomblet
+FR: bombinette
+
+EN: bone dragon
+FR: dragon d’os
+
+EN: boulder
+FR: rocher
+
+EN: boulder beetle
+FR: scarabée rocheux
+
+EN: bound soul
+FR: âme liée
+
+EN: boundless tesseract
+FR: tesseract sans bornes
+
+EN: brain worm
+FR: ver cérébral
+
+EN: briar patch
+FR: buisson de ronces
+
+EN: broodmother
+FR: mère couveuse
+
+EN: bullfrog
+FR: grenouille-taureau
+
+EN: bunyip
+FR: bunyip
+
+EN: burial acolyte
+FR: acolyte funéraire
+
+EN: burstshroom
+FR: champignon explosif
+
+EN: bush
+FR: buisson
+
+EN: butterfly
+FR: papillon
+
+EN: cacodemon
+FR: cacodémon
+
+EN: cactus giant
+FR: géant cactus
+
+EN: cane toad
+FR: crapaud buffle
+
+EN: catoblepas
+FR: catoblépas
+
+EN: caustic shrike
+FR: pie-grièche caustique
+
+EN: caustic sporangium
+FR: sporange caustique
+
+EN: centaur
+FR: centaure
+
+EN: centaur warrior
+FR: guerrier centaure
+
+EN: cerulean imp
+FR: diablotin céruléen
+
+EN: chaos spawn
+FR: rejeton du chaos
+
+EN: cherub
+FR: chérubin
+
+EN: chonchon
+FR: chonchon
+
+EN: clockwork bee
+FR: abeille mécanique
+
+EN: cognitogaunt
+FR: cognitogaunt
+
+EN: colossal amoeba
+FR: amibe colossale
+
+EN: crab
+FR: crabe
+
+EN: crawling flesh cage
+FR: cage de chair rampante
+
+EN: creeping inferno
+FR: brasier rampant
+
+EN: creeping plasmodium
+FR: plasmode rampant
+
+EN: crimson imp
+FR: diablotin écarlate
+
+EN: crocodile
+FR: crocodile
+
+EN: crystal echidna
+FR: échidné de cristal
+
+EN: crystal guardian
+FR: gardien de cristal
+
+EN: culicivora
+FR: culicivore
+
+EN: curse skull
+FR: crâne maudit
+
+EN: curse toe
+FR: orteil maudit
+
+EN: cyclops
+FR: cyclope
+
+EN: daeva
+FR: daeva
+
+EN: dancing weapon
+FR: arme dansante
+
+EN: death cob
+FR: épi de la mort
+
+EN: death drake
+FR: drac de la mort
+
+EN: death knight
+FR: chevalier de la mort
+
+EN: death scarab
+FR: scarabée de la mort
+
+EN: death yak
+FR: yak de la mort
+
+EN: deathcap
+FR: amanite mortelle
+
+EN: deep elf annihilator
+FR: annihilateur elfe profond
+
+EN: deep elf archer
+FR: archer elfe profond
+
+EN: deep elf blademaster
+FR: maître de lame elfe profond
+
+EN: deep elf death mage
+FR: mage de la mort elfe profond
+
+EN: deep elf demonologist
+FR: démonologue elfe profond
+
+EN: deep elf elementalist
+FR: élémentaliste elfe profond
+
+EN: deep elf high priest
+FR: grand prêtre elfe profond
+
+EN: deep elf knight
+FR: chevalier elfe profond
+
+EN: deep elf master archer
+FR: maître archer elfe profond
+
+EN: deep elf pyromancer
+FR: pyromancien elfe profond
+
+EN: deep elf sorcerer
+FR: sorcier elfe profond
+
+EN: deep elf zephyrmancer
+FR: zéphyromancien elfe profond
+
+EN: deep troll
+FR: troll des profondeurs
+
+EN: deep troll earth mage
+FR: mage de terre troll des profondeurs
+
+EN: deep troll shaman
+FR: chaman troll des profondeurs
+
+EN: demigod
+FR: demi-dieu
+
+EN: demonic crawler
+FR: rampant démoniaque
+
+EN: demonic plant
+FR: plante démoniaque
+
+EN: demonspawn
+FR: rejeton démoniaque
+
+EN: demonspawn blood saint
+FR: saint de sang rejeton démoniaque
+
+EN: demonspawn corrupter
+FR: corrupteur rejeton démoniaque
+
+EN: demonspawn soul scholar
+FR: érudit des âmes rejeton démoniaque
+
+EN: demonspawn warmonger
+FR: belliciste rejeton démoniaque
+
+EN: diamond obelisk
+FR: obélisque de diamant
+
+EN: diamond sawblade
+FR: lame de scie en diamant
+
+EN: dire elephant
+FR: éléphant monstrueux
+
+EN: djinni
+FR: djinn
+
+EN: dormant clockwork bee
+FR: abeille mécanique inactive
+
+EN: draconian
+FR: draconien
+
+EN: draconian annihilator
+FR: annihilateur draconien
+
+EN: draconian knight
+FR: chevalier draconien
+
+EN: draconian monk
+FR: moine draconien
+
+EN: draconian scorcher
+FR: brûleur draconien
+
+EN: draconian shifter
+FR: changeforme draconien
+
+EN: draconian stormcaller
+FR: invocateur de tempêtes draconien
+
+EN: dragon
+FR: dragon
+
+EN: drake
+FR: drac
+
+EN: draugr
+FR: draugr
+
+EN: dread lich
+FR: liche d’effroi
+
+EN: dream sheep
+FR: mouton de rêve
+
+EN: drowned soul
+FR: âme noyée
+
+EN: drude
+FR: drude
+
+EN: dryad
+FR: dryade
+
+EN: dwarf
+FR: nain
+
+EN: earth elemental
+FR: élémentaire de terre
+
+EN: earthen jade
+FR: jade terreux
+
+EN: easy sensed monster
+FR: monstre détecté facile
+
+EN: efreet
+FR: éfrit
+
+EN: eidolon
+FR: eidolon
+
+EN: eldritch tentacle
+FR: tentacule abyssal
+
+EN: eldritch tentacle segment
+FR: segment de tentacule abyssal
+
+EN: electric eel
+FR: anguille électrique
+
+EN: electric golem
+FR: golem électrique
+
+EN: eleionoma
+FR: éléionoma
+
+EN: elemental
+FR: élémentaire
+
+EN: elemental wellspring
+FR: source élémentaire
+
+EN: elementalist
+FR: élémentaliste
+
+EN: elephant
+FR: éléphant
+
+EN: elephant slug
+FR: limace éléphant
+
+EN: elf
+FR: elfe
+
+EN: emperor scorpion
+FR: scorpion empereur
+
+EN: entropy weaver
+FR: tisseur d’entropie
+
+EN: erythrospite
+FR: érythrospite
+
+EN: ettin
+FR: ettin
+
+EN: eye of devastation
+FR: œil de dévastation
+
+EN: eye of draining
+FR: œil de drain
+
+EN: faun
+FR: faune
+
+EN: felid
+FR: félide
+
+EN: fenstrider witch
+FR: sorcière des marais
+
+EN: fiery jade
+FR: jade ardent
+
+EN: fire bat
+FR: chauve-souris de feu
+
+EN: fire crab
+FR: crabe de feu
+
+EN: fire dragon
+FR: dragon de feu
+
+EN: fire elemental
+FR: élémentaire de feu
+
+EN: fire giant
+FR: géant du feu
+
+EN: fire vortex
+FR: vortex de feu
+
+EN: flayed ghost
+FR: fantôme écorché
+
+EN: floating eye
+FR: œil flottant
+
+EN: formicid
+FR: formicide
+
+EN: formless jellyfish
+FR: méduse informe
+
+EN: foxfire
+FR: feu follet
+
+EN: fravashi
+FR: fravashi
+
+EN: freezing wraith
+FR: spectre glacial
+
+EN: friendly sensed monster
+FR: monstre détecté amical
+
+EN: frost giant
+FR: géant du givre
+
+EN: fulminant prism
+FR: prisme fulminant
+
+EN: fungal shambler
+FR: titubant fongique
+
+EN: fungus
+FR: champignon
+
+EN: gargoyle
+FR: gargouille
+
+EN: ghost
+FR: fantôme
+
+EN: ghost crab
+FR: crabe fantôme
+
+EN: ghost moth
+FR: phalène fantôme
+
+EN: ghoul
+FR: goule
+
+EN: giant
+FR: géant
+
+EN: giant frog
+FR: grenouille géante
+
+EN: giant lizard
+FR: lézard géant
+
+EN: glass eye
+FR: œil de verre
+
+EN: globe of annihilation
+FR: globe d’annihilation
+
+EN: glowing orange brain
+FR: cerveau orange luisant
+
+EN: glowing shapeshifter
+FR: changeforme luisant
+
+EN: glowmurk ghast
+FR: goule de la vase lumineuse
+
+EN: gnoll
+FR: gnoll
+
+EN: gnoll bouda
+FR: gnoll bouda
+
+EN: gnoll sergeant
+FR: sergent gnoll
+
+EN: goblin rider
+FR: cavalier gobelin
+
+EN: god wrath avatar
+FR: avatar de la colère divine
+
+EN: golden dragon
+FR: dragon doré
+
+EN: golden eye
+FR: œil doré
+
+EN: golem
+FR: golem
+
+EN: goliath frog
+FR: grenouille goliath
+
+EN: great orb of eyes
+FR: grand orbe d’yeux
+
+EN: green death
+FR: mort verte
+
+EN: green draconian
+FR: draconien vert
+
+EN: grey draconian
+FR: draconien gris
+
+EN: guardian mummy
+FR: momie gardienne
+
+EN: guardian serpent
+FR: serpent gardien
+
+EN: guardian sphinx
+FR: sphinx gardien
+
+EN: halazid warlock
+FR: sorcier halazide
+
+EN: halfling
+FR: halfelin
+
+EN: harpy
+FR: harpie
+
+EN: haunted armour
+FR: armure hantée
+
+EN: hell hog
+FR: porc infernal
+
+EN: hell hound
+FR: chien de l’Enfer
+
+EN: hell knight
+FR: chevalier infernal
+
+EN: hell lord
+FR: seigneur infernal
+
+EN: hell rat
+FR: rat infernal
+
+EN: hellephant
+FR: éléphant infernal
+
+EN: hellfire mortar
+FR: mortier de feu infernal
+
+EN: hellion
+FR: infernal
+
+EN: hellwing
+FR: aile infernale
+
+EN: herald of the Abyss
+FR: héraut de l’Abysse
+
+EN: hexer
+FR: jeteur de maléfices
+
+EN: hippogriff
+FR: hippogriffe
+
+EN: hoarfrost cannon
+FR: canon de givre
+
+EN: hog
+FR: porc
+
+EN: holy swine
+FR: porc sacré
+
+EN: hornet
+FR: frelon
+
+EN: hound
+FR: chien
+
+EN: howler monkey
+FR: singe hurleur
+
+EN: human
+FR: humain
+
+EN: hydra
+FR: hydre
+
+EN: hypnotail
+FR: hypnoqueue
+
+EN: ice beast
+FR: bête de glace
+
+EN: ice devil
+FR: diable de glace
+
+EN: ice dragon
+FR: dragon de glace
+
+EN: ice statue
+FR: statue de glace
+
+EN: icy jade
+FR: jade glacé
+
+EN: iguana
+FR: iguane
+
+EN: imperial myrmidon
+FR: myrmidon impérial
+
+EN: inugami
+FR: inugami
+
+EN: iron dragon
+FR: dragon de fer
+
+EN: iron elemental
+FR: élémentaire de fer
+
+EN: iron giant
+FR: géant de fer
+
+EN: iron golem
+FR: golem de fer
+
+EN: iron imp
+FR: diablotin de fer
+
+EN: iron troll
+FR: troll de fer
+
+EN: ironbound beastmaster
+FR: maître des bêtes lié au fer
+
+EN: ironbound convoker
+FR: convocateur lié au fer
+
+EN: ironbound frostheart
+FR: cœur-de-givre lié au fer
+
+EN: ironbound mechanist
+FR: mécaniste lié au fer
+
+EN: ironbound preserver
+FR: protecteur lié au fer
+
+EN: ironbound thunderhulk
+FR: colosse de tonnerre lié au fer
+
+EN: jackal
+FR: chacal
+
+EN: jelly
+FR: gelée
+
+EN: jiangshi
+FR: jiangshi
+
+EN: jorogumo
+FR: jorōgumo
+
+EN: juggernaut
+FR: mastodonte
+
+EN: jumping spider
+FR: araignée sauteuse
+
+EN: killer bee
+FR: abeille tueuse
+
+EN: knight
+FR: chevalier
+
+EN: kobold blastminer
+FR: kobold mineur-explosif
+
+EN: kobold demonologist
+FR: kobold démonologue
+
+EN: kobold fleshcrafter
+FR: kobold façonneur de chair
+
+EN: kobold geomancer
+FR: kobold géomancien
+
+EN: komodo dragon
+FR: dragon de Komodo
+
+EN: kraken
+FR: kraken
+
+EN: large abomination
+FR: grande abomination
+
+EN: laughing skull
+FR: crâne rieur
+
+EN: lava snake
+FR: serpent de lave
+
+EN: lemure
+FR: lémure
+
+EN: lich
+FR: liche
+
+EN: lightning spire
+FR: flèche de foudre
+
+EN: lindwurm
+FR: lindwurm
+
+EN: living spell
+FR: sort vivant
+
+EN: lost soul
+FR: âme perdue
+
+EN: lurking horror
+FR: horreur tapie
+
+EN: malarious merfolk avatar
+FR: avatar sirénien paludéen
+
+EN: mana viper
+FR: vipère de mana
+
+EN: manticore
+FR: manticore
+
+EN: marrowcuda
+FR: barracuda de moelle
+
+EN: martyred shade
+FR: ombre martyre
+
+EN: meliai
+FR: méliade
+
+EN: merfolk
+FR: sirénien
+
+EN: merfolk aquamancer
+FR: aquamancien sirénien
+
+EN: merfolk avatar
+FR: avatar sirénien
+
+EN: merfolk impaler
+FR: empaleur sirénien
+
+EN: merfolk javelineer
+FR: javelinier sirénien
+
+EN: merfolk siren
+FR: sirène
+
+EN: meteoran
+FR: météoran
+
+EN: minotaur
+FR: minotaure
+
+EN: molten gargoyle
+FR: gargouille en fusion
+
+EN: monarch bomb
+FR: bombe monarque
+
+EN: mongrel wurm
+FR: ver bâtard
+
+EN: moon troll
+FR: troll lunaire
+
+EN: morphogenic ooze
+FR: vase morphogène
+
+EN: moth
+FR: phalène
+
+EN: moth of wrath
+FR: phalène de colère
+
+EN: mountainshell
+FR: coque-montagne
+
+EN: mummy
+FR: momie
+
+EN: mummy priest
+FR: prêtre momie
+
+EN: mutant beast
+FR: bête mutante
+
+EN: naga
+FR: naga
+
+EN: naga mage
+FR: mage naga
+
+EN: naga ritualist
+FR: ritualiste naga
+
+EN: naga sharpshooter
+FR: tireur d’élite naga
+
+EN: naga warrior
+FR: guerrier naga
+
+EN: nagaraja
+FR: nagaraja
+
+EN: nameless horror
+FR: horreur sans nom
+
+EN: nargun
+FR: nargun
+
+EN: nascent plasmodium
+FR: plasmode naissant
+
+EN: nasty sensed monster
+FR: monstre détecté vilain
+
+EN: necromancer
+FR: nécromancien
+
+EN: necrophage
+FR: nécrophage
+
+EN: nekomata
+FR: nekomata
+
+EN: neqoxec
+FR: néqoxec
+
+EN: oblivion hound
+FR: chien de l’oubli
+
+EN: obsidian bat
+FR: chauve-souris d’obsidienne
+
+EN: obsidian statue
+FR: statue d’obsidienne
+
+EN: occultist
+FR: occultiste
+
+EN: octopode
+FR: octopode
+
+EN: ogre
+FR: ogre
+
+EN: ogre mage
+FR: mage ogre
+
+EN: oklob plant
+FR: plante oklob
+
+EN: oklob sapling
+FR: jeune plante oklob
+
+EN: oni
+FR: oni
+
+EN: oni incarcerator
+FR: oni geôlier
+
+EN: ophan
+FR: ophan
+
+EN: orange crystal statue
+FR: statue de cristal orange
+
+EN: orange demon
+FR: démon orange
+
+EN: orb of destruction
+FR: orbe de destruction
+
+EN: orb of entropy
+FR: orbe d’entropie
+
+EN: orb of fire
+FR: orbe de feu
+
+EN: orb of winter
+FR: orbe d’hiver
+
+EN: orb spider
+FR: araignée-orbe
+
+EN: orc apostle
+FR: apôtre orc
+
+EN: orc high priest
+FR: grand prêtre orc
+
+EN: orc knight
+FR: chevalier orc
+
+EN: orc priest
+FR: prêtre orc
+
+EN: orc sorcerer
+FR: sorcier orc
+
+EN: orc warlord
+FR: chef de guerre orc
+
+EN: orc warrior
+FR: guerrier orc
+
+EN: orc wizard
+FR: magicien orc
+
+EN: pale draconian
+FR: draconien pâle
+
+EN: pandemonium lord
+FR: seigneur du Pandémonium
+
+EN: peacekeeper
+FR: pacificateur
+
+EN: pearl dragon
+FR: dragon nacré
+
+EN: petrified flower
+FR: fleur pétrifiée
+
+EN: phalanx beetle
+FR: scarabée phalange
+
+EN: phantasmal warrior
+FR: guerrier fantasmatique
+
+EN: phantom
+FR: fantôme
+
+EN: pharaoh ant
+FR: fourmi pharaon
+
+EN: pile of debris
+FR: tas de débris
+
+EN: pile of flesh
+FR: tas de chair
+
+EN: pillar of rime
+FR: pilier de givre
+
+EN: pillar of salt
+FR: pilier de sel
+
+EN: platinum paragon
+FR: parangon de platine
+
+EN: player
+FR: joueur
+
+EN: player ghost
+FR: fantôme de joueur
+
+EN: player illusion
+FR: illusion de joueur
+
+EN: polar bear
+FR: ours polaire
+
+EN: poltergeist
+FR: esprit frappeur
+
+EN: polterguardian
+FR: gardien frappeur
+
+EN: profane servitor
+FR: serviteur profane
+
+EN: program bug
+FR: bogue de programme
+
+EN: protean progenitor
+FR: progéniteur protéen
+
+EN: purple draconian
+FR: draconien violet
+
+EN: putrid mouth
+FR: bouche putride
+
+EN: queen bee
+FR: reine des abeilles
+
+EN: quicksilver dragon
+FR: dragon de vif-argent
+
+EN: quicksilver elemental
+FR: élémentaire de vif-argent
+
+EN: radroach
+FR: radblatte
+
+EN: ragged hierophant
+FR: hiérophante en haillons
+
+EN: raiju
+FR: raiju
+
+EN: rakshasa
+FR: rakshasa
+
+EN: raven
+FR: corbeau
+
+EN: reaper
+FR: faucheur
+
+EN: red devil
+FR: diable rouge
+
+EN: red draconian
+FR: draconien rouge
+
+EN: millipede
+FR: iule
+
+EN: redback
+FR: araignée à dos rouge
+
+EN: rending blade
+FR: lame déchirante
+
+EN: revenant
+FR: revenant
+
+EN: revenant soulmonger
+FR: colporteur d’âmes revenant
+
+EN: rime drake
+FR: drac de givre
+
+EN: river rat
+FR: rat de rivière
+
+EN: roaming sludgefish
+FR: poisson-boue errant
+
+EN: rock fish
+FR: poisson de roche
+
+EN: rockslime
+FR: vase de roche
+
+EN: royal mummy
+FR: momie royale
+
+EN: rust devil
+FR: diable de rouille
+
+EN: rusted inspector
+FR: inspecteur rouillé
+
+EN: sacred lotus
+FR: lotus sacré
+
+EN: salamander
+FR: salamandre
+
+EN: salamander mystic
+FR: mystique salamandre
+
+EN: salamander tyrant
+FR: tyran salamandre
+
+EN: saltling
+FR: salin
+
+EN: satyr
+FR: satyre
+
+EN: scorpion
+FR: scorpion
+
+EN: scrapshell chimera
+FR: chimère à coque de ferraille
+
+EN: screaming refraction
+FR: réfraction hurlante
+
+EN: scrub nettle
+FR: ortie des broussailles
+
+EN: sea snake
+FR: serpent de mer
+
+EN: searing wretch
+FR: misérable brûlant
+
+EN: seismosaurus
+FR: séismosaure
+
+EN: seismosaurus egg
+FR: œuf de séismosaure
+
+EN: sensed monster
+FR: monstre détecté
+
+EN: seraph
+FR: séraphin
+
+EN: servant of whispers
+FR: serviteur des murmures
+
+EN: sewage sovereign
+FR: souverain des égouts
+
+EN: shadow
+FR: ombre
+
+EN: shadow demon
+FR: démon d’ombre
+
+EN: shadow dragon
+FR: dragon d’ombre
+
+EN: shadow imp
+FR: diablotin d’ombre
+
+EN: shadow prism
+FR: prisme d’ombre
+
+EN: shadow puppet
+FR: marionnette d’ombre
+
+EN: shadow turret
+FR: tourelle d’ombre
+
+EN: shadow wraith
+FR: spectre d’ombre
+
+EN: shadowghast
+FR: goule d’ombre
+
+EN: shambling mangrove
+FR: palétuvier titubant
+
+EN: shapeshifter
+FR: changeforme
+
+EN: shard shrike
+FR: pie-grièche d’éclats
+
+EN: shining eye
+FR: œil brillant
+
+EN: shock serpent
+FR: serpent de choc
+
+EN: shooting star
+FR: étoile filante
+
+EN: sickly merfolk siren
+FR: sirène maladive
+
+EN: silent spectre
+FR: spectre silencieux
+
+EN: simulacrum
+FR: simulacre
+
+EN: sin beast
+FR: bête du péché
+
+EN: sixfirhy
+FR: sixfirhy
+
+EN: skeletal warrior
+FR: guerrier squelette
+
+EN: sky beast
+FR: bête du ciel
+
+EN: skyshark
+FR: requin des cieux
+
+EN: sleepcap
+FR: chapeau-sommeil
+
+EN: slime creature
+FR: créature de vase
+
+EN: slymdra
+FR: slymdre
+
+EN: small abomination
+FR: petite abomination
+
+EN: smoke demon
+FR: démon de fumée
+
+EN: snake
+FR: serpent
+
+EN: snaplasher vine
+FR: liane fouetteuse
+
+EN: snaplasher vine segment
+FR: segment de liane fouetteuse
+
+EN: snapping turtle
+FR: tortue serpentine
+
+EN: solar ember
+FR: braise solaire
+
+EN: soul eater
+FR: mangeur d’âmes
+
+EN: soul wisp
+FR: volute d’âme
+
+EN: spark wasp
+FR: guêpe d’étincelles
+
+EN: spatial maelstrom
+FR: maelström spatial
+
+EN: spatial vortex
+FR: vortex spatial
+
+EN: spectator
+FR: spectateur
+
+EN: spectral thing
+FR: chose spectrale
+
+EN: spectral weapon
+FR: arme spectrale
+
+EN: spellspark servitor
+FR: serviteur d’étincelle de sort
+
+EN: sphinx
+FR: sphinx
+
+EN: sphinx marauder
+FR: sphinx maraudeur
+
+EN: spider
+FR: araignée
+
+EN: splinterfrost barricade
+FR: barricade d’éclats de givre
+
+EN: spriggan
+FR: spriggan
+
+EN: spriggan air mage
+FR: mage d’air spriggan
+
+EN: spriggan berserker
+FR: berserker spriggan
+
+EN: spriggan defender
+FR: défenseur spriggan
+
+EN: spriggan druid
+FR: druide spriggan
+
+EN: spriggan rider
+FR: cavalier spriggan
+
+EN: stack of scrap
+FR: tas de ferraille
+
+EN: star jelly
+FR: gelée d’étoile
+
+EN: starcursed mass
+FR: masse maudite des étoiles
+
+EN: starflower
+FR: fleur d’étoile
+
+EN: starspawn tentacle
+FR: tentacule de rejeton stellaire
+
+EN: starspawn tentacle segment
+FR: segment de tentacule de rejeton stellaire
+
+EN: statue
+FR: statue
+
+EN: steam dragon
+FR: dragon de vapeur
+
+EN: steelbarb worm
+FR: ver à barbes d’acier
+
+EN: stoker
+FR: attiseur
+
+EN: stone giant
+FR: géant de pierre
+
+EN: storm dragon
+FR: dragon de tempête
+
+EN: strange machine
+FR: étrange machine
+
+EN: sun demon
+FR: démon solaire
+
+EN: sun moth
+FR: phalène solaire
+
+EN: swamp dragon
+FR: dragon des marais
+
+EN: swamp drake
+FR: drac des marais
+
+EN: swamp worm
+FR: ver des marais
+
+EN: tainted leviathan
+FR: léviathan souillé
+
+EN: tarantella
+FR: tarentelle
+
+EN: telencephalon
+FR: télencéphale
+
+EN: tengu
+FR: tengu
+
+EN: tengu conjurer
+FR: conjurateur tengu
+
+EN: tengu reaver
+FR: saccageur tengu
+
+EN: tengu warrior
+FR: guerrier tengu
+
+EN: tentacle
+FR: tentacule
+
+EN: tentacle segment
+FR: segment de tentacule
+
+EN: tentacled monstrosity
+FR: monstruosité tentaculaire
+
+EN: tentacled starspawn
+FR: rejeton stellaire tentaculaire
+
+EN: test blob
+FR: blob de test
+
+EN: test spawner
+FR: générateur de test
+
+EN: test statue
+FR: statue de test
+
+EN: thermic dynamo
+FR: dynamo thermique
+
+EN: thorn hunter
+FR: chasseur d’épines
+
+EN: thrashing horror
+FR: horreur frénétique
+
+EN: titan
+FR: titan
+
+EN: toadstool
+FR: tue-mouches
+
+EN: toenail golem
+FR: golem d’ongles d’orteil
+
+EN: tormentor
+FR: tourmenteur
+
+EN: torpor snail
+FR: escargot de torpeur
+
+EN: tough sensed monster
+FR: monstre détecté coriace
+
+EN: training dummy
+FR: mannequin d’entraînement
+
+EN: trivial sensed monster
+FR: monstre détecté insignifiant
+
+EN: troll
+FR: troll
+
+EN: twister
+FR: tornade
+
+EN: two-headed ogre
+FR: ogre à deux têtes
+
+EN: tyrant leech
+FR: sangsue tyrannique
+
+EN: ufetubus
+FR: ufetubus
+
+EN: ugly thing
+FR: chose laide
+
+EN: undertaker
+FR: croque-mort
+
+EN: undying armoury
+FR: arsenal immortel
+
+EN: unseen horror
+FR: horreur invisible
+
+EN: ushabti
+FR: oushebti
+
+EN: vampire
+FR: vampire
+
+EN: vampire bat
+FR: chauve-souris vampire
+
+EN: vampire bloodprince
+FR: prince de sang vampire
+
+EN: vampire knight
+FR: chevalier vampire
+
+EN: vampire mage
+FR: mage vampire
+
+EN: vampire mosquito
+FR: moustique vampire
+
+EN: vault guard
+FR: garde du caveau
+
+EN: vault sentinel
+FR: sentinelle du caveau
+
+EN: vault warden
+FR: geôlier du caveau
+
+EN: very ugly thing
+FR: chose très laide
+
+EN: vine stalker
+FR: traqueur des lianes
+
+EN: void ooze
+FR: vase du vide
+
+EN: walking alembic
+FR: alambic ambulant
+
+EN: walking crystal tome
+FR: grimoire de cristal ambulant
+
+EN: walking divine tome
+FR: grimoire divin ambulant
+
+EN: walking earthen tome
+FR: grimoire de terre ambulant
+
+EN: walking frostbound tome
+FR: grimoire de givre ambulant
+
+EN: walking tome
+FR: grimoire ambulant
+
+EN: wandering mushroom
+FR: champignon errant
+
+EN: war gargoyle
+FR: gargouille de guerre
+
+EN: warg
+FR: warg
+
+EN: water elemental
+FR: élémentaire d’eau
+
+EN: water moccasin
+FR: mocassin d’eau
+
+EN: water nymph
+FR: nymphe aquatique
+
+EN: weeping skull
+FR: crâne pleureur
+
+EN: wendigo
+FR: wendigo
+
+EN: white draconian
+FR: draconien blanc
+
+EN: white imp
+FR: diablotin blanc
+
+EN: will-o-the-wisp
+FR: feu follet
+
+EN: wind drake
+FR: drac des vents
+
+EN: withered plant
+FR: plante flétrie
+
+EN: wolf
+FR: loup
+
+EN: wolf spider
+FR: araignée-loup
+
+EN: worldbinder
+FR: lieur de monde
+
+EN: wraith
+FR: spectre
+
+EN: wretched star
+FR: étoile misérable
+
+EN: wyrmhole
+FR: trou de wyrm
+
+EN: wyvern
+FR: wyverne
+
+EN: yak
+FR: yak
+
+EN: yaktaur
+FR: yaktaure
+
+EN: yaktaur captain
+FR: capitaine yaktaure
+
+EN: yellow draconian
+FR: draconien jaune
+
+EN: ynoxinul
+FR: ynoxinul
+
+EN: zombie
+FR: zombie
+
+EN: zykzyl
+FR: zykzyl

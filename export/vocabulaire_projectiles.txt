@@ -1,0 +1,518 @@
+EN: acid spray
+FR: jet d’acide
+
+EN: agony
+FR: agonie
+
+EN: arc of electricity
+FR: arc électrique
+
+EN: ball of acid
+FR: boule d’acide
+
+EN: ball of mud
+FR: boule de boue
+
+EN: ball of steam
+FR: boule de vapeur
+
+EN: beam of energy
+FR: rayon d’énergie
+
+EN: beckoning
+FR: appel
+
+EN: beckoning whirlwind
+FR: tourbillon d’appel
+
+EN: billowing rust
+FR: rouille ondoyante
+
+EN: blast
+FR: explosion
+
+EN: blast of calcifying dust
+FR: souffle de poussière calcifiante
+
+EN: blast of choking fumes
+FR: souffle de fumées suffocantes
+
+EN: blast of cleansing flame
+FR: souffle de flamme purificatrice
+
+EN: blast of cold
+FR: souffle de froid
+
+EN: blast of flame
+FR: jet de flammes
+
+EN: blast of poison
+FR: souffle de poison
+
+EN: blast of rock
+FR: jet de roche
+
+EN: blast of sand
+FR: jet de sable
+
+EN: blast of wind
+FR: rafale de vent
+
+EN: blazing flames
+FR: flammes ardentes
+
+EN: blinding ray
+FR: rayon aveuglant
+
+EN: blood arrow
+FR: flèche de sang
+
+EN: bolt of acid
+FR: jet d’acide
+
+EN: bolt of antimagic
+FR: rayon d’antimagie
+
+EN: bolt of cold
+FR: rayon de froid
+
+EN: bolt of devastation
+FR: rayon de dévastation
+
+EN: bolt of dispelling energy
+FR: rayon d’énergie dissipatrice
+
+EN: bolt of electricity
+FR: arc électrique
+
+EN: bolt of energy
+FR: rayon d’énergie
+
+EN: bolt of fire
+FR: rayon de feu
+
+EN: bolt of flesh
+FR: trait de chair
+
+EN: bolt of light
+FR: rayon de lumière
+
+EN: bolt of lightning
+FR: éclair
+
+EN: bolt of magma
+FR: rayon de magma
+
+EN: bolt of negative energy
+FR: rayon d’énergie négative
+
+EN: bolt of poison
+FR: trait de poison
+
+EN: bomblet
+FR: petite bombe
+
+EN: burst of rock shards
+FR: gerbe d’éclats de roche
+
+EN: concentrated momentum
+FR: élan concentré
+
+EN: concussive blast
+FR: souffle de commotion
+
+EN: condensed magic
+FR: magie condensée
+
+EN: creeping shadow
+FR: ombre rampante
+
+EN: crushing gravity
+FR: gravité écrasante
+
+EN: crystallising shot
+FR: tir cristallisant
+
+EN: curse of agony
+FR: malédiction d’agonie
+
+EN: damnation
+FR: damnation
+
+EN: destabilizing rupture
+FR: déchirure déstabilisante
+
+EN: detonation
+FR: détonation
+
+EN: dizzying spores
+FR: spores étourdissantes
+
+EN: doom bolt
+FR: trait funeste
+
+EN: drain life
+FR: drain de vie
+
+EN: explosive embers
+FR: braises explosives
+
+EN: falling rubble
+FR: éboulis
+
+EN: fiery blast
+FR: souffle ardent
+
+EN: fiery breath
+FR: souffle de feu
+
+EN: fiery plasma
+FR: plasma ardent
+
+EN: fireball
+FR: boule de feu
+
+EN: flame wave
+FR: vague de flammes
+
+EN: flash freeze
+FR: gel instantané
+
+EN: flashing steel
+FR: acier étincelant
+
+EN: fortress blast
+FR: explosion de forteresse
+
+EN: foul vapour
+FR: vapeur fétide
+
+EN: foxfire
+FR: feu follet
+
+EN: fragment of death
+FR: fragment de mort
+
+EN: freeze
+FR: gel
+
+EN: freezing gust
+FR: bourrasque glaciale
+
+EN: frigid blast
+FR: souffle glacial
+
+EN: ghostly fireball
+FR: boule de feu spectrale
+
+EN: glacial breath
+FR: souffle glacial
+
+EN: glimmering dart
+FR: fléchette scintillante
+
+EN: glob of acid
+FR: glaire d’acide
+
+EN: glob of lava
+FR: gobelet de lave
+
+EN: glob of mercury
+FR: goutte de mercure
+
+EN: gout of destruction
+FR: jet de destruction
+
+EN: grasping water
+FR: eau agrippante
+
+EN: great blast of fire
+FR: grand souffle de feu
+
+EN: hail
+FR: grêle
+
+EN: harpoon shot
+FR: tir de harpon
+
+EN: ice thorns
+FR: épines de glace
+
+EN: iceblast
+FR: explosion de glace
+
+EN: icy flash freeze
+FR: gel instantané glacial
+
+EN: iron shot
+FR: tir de fer
+
+EN: jagged bones
+FR: os acérés
+
+EN: kinetic grapnel
+FR: grappin cinétique
+
+EN: klown pie
+FR: tarte de clown
+
+EN: lance of force
+FR: lance de force
+
+EN: living lightning
+FR: foudre vivante
+
+EN: magic dart
+FR: dard magique
+
+EN: magical storm
+FR: tempête magique
+
+EN: malign ofering
+FR: offrande maligne
+
+EN: malmutate
+FR: malmutation
+
+EN: mass of rock
+FR: masse de roche
+
+EN: mystic blast
+FR: explosion mystique
+
+EN: noxious fumes
+FR: vapeurs nocives
+
+EN: nullifying energy
+FR: énergie annulante
+
+EN: orb of electricity
+FR: orbe d’électricité
+
+EN: phantom echo
+FR: écho fantôme
+
+EN: piercing cold
+FR: froid perçant
+
+EN: poison arrow
+FR: flèche empoisonnée
+
+EN: poison gas
+FR: gaz toxique
+
+EN: puff of flame
+FR: jet de flammes
+
+EN: puff of frost
+FR: souffle de givre
+
+EN: pyre arrow
+FR: flèche de bûcher
+
+EN: ray of shadow
+FR: rayon d’ombre
+
+EN: rebounding bolt of cold
+FR: rayon de froid rebondissant
+
+EN: rebounding bolt of fire
+FR: rayon de feu rebondissant
+
+EN: refrigeration
+FR: réfrigération
+
+EN: rocky spike
+FR: pointe rocheuse
+
+EN: rupture
+FR: déchirure
+
+EN: salvo of frigid ice
+FR: salve de glace glaciale
+
+EN: salvo of icicles
+FR: salve de stalactites
+
+EN: scorching wind
+FR: vent brûlant
+
+EN: searing blast
+FR: souffle brûlant
+
+EN: searing ray
+FR: rayon brûlant
+
+EN: seething chaos
+FR: chaos bouillonnant
+
+EN: seismic shockwave
+FR: onde de choc sismique
+
+EN: shadow bullet
+FR: balle d’ombre
+
+EN: shadowball
+FR: boule d’ombre
+
+EN: shadowy lightning
+FR: foudre d’ombre
+
+EN: shard of frigid ice
+FR: éclat de glace glaciale
+
+EN: shard of hardened shadow
+FR: éclat d’ombre durcie
+
+EN: shard of ice
+FR: éclat de glace
+
+EN: shards of blighted ice
+FR: éclats de glace flétrie
+
+EN: shockwave
+FR: onde de choc
+
+EN: shooting star
+FR: étoile filante
+
+EN: shred
+FR: lambeau
+
+EN: slug dart
+FR: fléchette de plomb
+
+EN: sonic wave
+FR: onde sonore
+
+EN: splash of acid
+FR: jet d’acide
+
+EN: splash of poison
+FR: jet de poison
+
+EN: spray of metal splinters
+FR: gerbe d’éclats de métal
+
+EN: spray of wooden splinters
+FR: gerbe d’éclats de bois
+
+EN: sticky flame
+FR: flamme collante
+
+EN: sting
+FR: dard
+
+EN: stinking cloud
+FR: nuage puant
+
+EN: stone arrow
+FR: flèche de pierre
+
+EN: stunning burst
+FR: salve étourdissante
+
+EN: surge of chaos
+FR: déferlement de chaos
+
+EN: surge of energy
+FR: déferlement d’énergie
+
+EN: swarm of vampire bats
+FR: nuée de chauves-souris vampires
+
+EN: torrent of water
+FR: torrent d’eau
+
+EN: toxic sludge
+FR: boue toxique
+
+EN: umbral torchlight
+FR: lueur de torche ombrale
+
+EN: unravelling
+FR: effilochage
+
+EN: volatile concoction
+FR: mixture volatile
+
+EN: volley of spikes
+FR: volée de pointes
+
+EN: volley of thorns
+FR: volée d’épines
+
+EN: wave of devouring shadow
+FR: vague d’ombre dévorante
+
+EN: whirling bolas
+FR: bolas tournoyantes
+
+EN: caustic explosion
+FR: explosion caustique
+
+EN: howling sorrow
+FR: chagrin hurlant
+
+EN: crystal spear
+FR: lance de cristal
+
+EN: slug
+FR: balle de plomb
+
+EN: bolt
+FR: carreau
+
+EN: creeping inferno residue
+FR: résidu d’enfer rampant
+
+EN: golden flame
+FR: flamme dorée
+
+EN: flurry of pyrophoric scales
+FR: rafale d’écailles pyrophoriques
+
+EN: blast of putrescent gases
+FR: souffle de gaz putrescents
+
+EN: blast of crystal shards
+FR: souffle d’éclats de cristal
+
+EN: sling bullet
+FR: balle de fronde
+
+EN: burning spray
+FR: jet enflammé
+
+EN: dancing weapon
+FR: arme dansante
+
+EN: water
+FR: eau
+
+EN: large rock
+FR: gros rocher
+
+EN: vile air
+FR: air vicié
+
+EN: pyre of ghostly fire
+FR: bûcher de feu spectral
+
+EN: explosion of spores
+FR: explosion de spores
+
+EN: blast of lightning
+FR: décharge de foudre
+
+EN: blast of rock fragments
+FR: souffle de fragments de roche
+
+EN: roots
+FR: racines
+
+EN: grasping roots
+FR: racines agrippantes
+
+EN: entropic weave
+FR: tissage entropique

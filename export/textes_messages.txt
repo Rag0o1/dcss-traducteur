@@ -1,0 +1,260 @@
+EN: Adjust to which letter? (
+FR: Associer à quelle lettre ? (
+
+EN: Anatomy
+FR: Anatomie
+
+EN: Anything else - Cancel.
+FR: Autre choix — Annuler.
+
+EN: Armoured tail (level 1/2)
+FR: Queue cuirassée (niveau 1/2)
+
+EN: Blood
+FR: Sang
+
+EN: Category: [
+FR: Catégorie : [
+
+EN: Cold-blooded
+FR: À sang froid
+
+EN: Done exploring.
+FR: Exploration terminée.
+
+EN: Found
+FR: Trouvé
+
+EN: Key pressed, stopping explore.
+FR: Touche pressée : arrêt de l’exploration.
+
+EN: No target in view!
+FR: Aucune cible en vue !
+
+EN: Nothing quivered!
+FR: Aucun projectile à lancer !
+
+EN: Okay, then.
+FR: Très bien, alors.
+
+EN: Press
+FR: Appuyez sur
+
+EN: Removed mutation
+FR: Mutation supprimée
+
+EN: There are monsters nearby!
+FR: Il y a des monstres à proximité !
+
+EN: There's no one nearby to share it with.
+FR: Personne à proximité avec qui partager cela.
+
+EN: Things that are here:
+FR: Objets présents ici :
+
+EN: Unknown command.
+FR: Commande inconnue.
+
+EN: What are your orders?
+FR: Quels sont vos ordres ?
+
+EN: for a list of commands and other information.
+FR: pour afficher la liste des commandes et d’autres informations.
+
+EN: for menu,
+FR: pour le menu,
+
+EN: to quit)
+FR: pour quitter)
+
+EN: Berserk
+FR: Berserk
+
+EN: Substance
+FR: Substance
+
+EN: * * * LOW HITPOINT WARNING * * *
+FR: * * * ALERTE : POINTS DE VIE BAS * * *
+
+EN: A nearby plant withers and dies.
+FR: Une plante proche se flétrit et meurt.
+
+EN: A protective cloak of flame settles atop you.
+FR: Une cape protectrice de flammes se pose sur vous.
+
+EN: A wave of despondency washes over your surroundings.
+FR: Une vague d’abattement envahit les environs.
+
+EN: Get in, grab the Orb of Zot, get out. Easy job.
+FR: Entrez, saisissez l’Orbe de Zot, sortez. Un jeu d’enfant.
+
+EN: HP restored.
+FR: Points de vie restaurés.
+
+EN: Magic courses through your body.
+FR: La magie parcourt votre corps.
+
+EN: Magic restored.
+FR: Magie restaurée.
+
+EN: Moving in this stuff is going to be slow.
+FR: Vous allez vous déplacer lentement dans cette matière.
+
+EN: Ouch! That really hurt!
+FR: Aïe ! Ça a vraiment fait mal !
+
+EN: The flames of Ignis gently warm you.
+FR: Les flammes d’Ignis vous réchauffent doucement.
+
+EN: Trog accepts your kill.
+FR: Trog accepte votre victime.
+
+EN: Trog says: Kill them all!
+FR: Trog dit : Tuez-les tous !
+
+EN: You are caught in a web!
+FR: Vous êtes pris dans une toile !
+
+EN: You are frozen.
+FR: Vous êtes gelé.
+
+EN: You are no longer poisoned.
+FR: Vous n’êtes plus empoisonné.
+
+EN: You are poisoned.
+FR: Vous êtes empoisonné.
+
+EN: You are too injured to fight recklessly!
+FR: Vous êtes trop blessé pour combattre imprudemment !
+
+EN: You aren't carrying any potions.
+FR: Vous ne portez aucune potion.
+
+EN: You aren't carrying any scrolls.
+FR: Vous ne portez aucun parchemin.
+
+EN: You climb downwards.
+FR: Vous descendez.
+
+EN: You continue putting on your +0 buckler.
+FR: Vous continuez à enfiler votre rondache +0.
+
+EN: You continue putting on your +0 pair of boots.
+FR: Vous continuez à enfiler votre paire de bottes +0.
+
+EN: You disentangle yourself.
+FR: Vous vous dégagez.
+
+EN: You don't currently have any unidentified items.
+FR: Vous n’avez actuellement aucun objet non identifié.
+
+EN: You enter the shallow water.
+FR: Vous entrez dans l’eau peu profonde.
+
+EN: You feel a little less mighty now.
+FR: Vous vous sentez un peu moins puissant.
+
+EN: You feel clever.
+FR: Vous vous sentez plus intelligent.
+
+EN: You feel sick.
+FR: Vous vous sentez malade.
+
+EN: You feel strangely unstable.
+FR: Vous vous sentez étrangement instable.
+
+EN: You feel stronger.
+FR: Vous vous sentez plus fort.
+
+EN: You feel very mighty all of a sudden.
+FR: Vous vous sentez soudain extrêmement puissant.
+
+EN: You feel very sick.
+FR: Vous vous sentez très malade.
+
+EN: You feel your willpower return.
+FR: Vous sentez votre volonté revenir.
+
+EN: You feel yourself slow down.
+FR: Vous sentez que vous ralentissez.
+
+EN: You feel yourself speed up.
+FR: Vous sentez que vous accélérez.
+
+EN: You must catch your breath between uses of this ability.
+FR: Vous devez reprendre votre souffle entre deux utilisations de cette capacité.
+
+EN: You open the door.
+FR: Vous ouvrez la porte.
+
+EN: You struggle to detach yourself from the web.
+FR: Vous peinez à vous libérer de la toile.
+
+EN: Your experience leads to an increase in your attributes!
+FR: Votre expérience améliore vos attributs !
+
+EN: Your fiery armour burns out.
+FR: Votre armure enflammée s’éteint.
+
+EN: Your scales feel tougher.
+FR: Vos écailles semblent plus résistantes.
+
+EN: Your surroundings suddenly seem different.
+FR: Vos environs semblent soudain différents.
+
+EN: : Gained at a future XL.
+FR: : Obtenue à un niveau d’expérience ultérieur.
+
+EN: Deformed body
+FR: Corps difforme
+
+EN: Poison resistance
+FR: Résistance au poison
+
+EN: See invisible
+FR: Voir l’invisible
+
+EN: Spit Poison
+FR: Cracher du poison
+
+EN: Spits poison at a targeted creature.
+FR: Crache du poison sur une créature ciblée.
+
+EN: Renounce Religion
+FR: Renier sa religion
+
+EN: Renounces your faith. This will make you leave your god (and usually anger said god).
+FR: Vous renoncez à votre foi. Vous quitterez votre dieu (ce qui le met généralement en colère).
+
+EN: Sends the user into a berserk rage. Going berserk temporarily increases health, speed, and damage dealt in melee. It will time out quickly outside of combat, but may be extended by multiple kills. While berserk, almost all actions other than movement and melee combat are prevented. When the rage expires, the user will be slowed and unable to berserk again for a short time.
+FR: Plonge l’utilisateur dans une rage berserk. Devenir berserk augmente temporairement les points de vie, la vitesse et les dégâts infligés au corps à corps. La rage s’épuise vite hors combat, mais peut être prolongée par plusieurs victimes. Pendant la rage, presque toutes les actions autres que le déplacement et le combat au corps à corps sont impossibles. Quand la rage prend fin, l’utilisateur est ralenti et incapable de redevenir berserk pendant un court moment.
+
+EN: This ability costs:
+FR: Cette capacité coûte :
+
+EN: This ability costs: nothing.
+FR: Cette capacité ne coûte rien.
+
+EN: When struck by a cold attack, you may be slowed until your blood warms again.
+FR: Lorsqu’une attaque de froid vous touche, vous pouvez être ralenti jusqu’à ce que votre sang se réchauffe.
+
+EN: You have a large scaly tail, allowing you to tail-slap foes when launching melee attacks.
+FR: Vous avez une grande queue écailleuse qui vous permet de frapper vos ennemis avec votre queue lors des attaques au corps à corps.
+
+EN: You have supernaturally acute vision, allowing you to see monsters that are hidden from mundane sight. This has no effect on your accuracy otherwise.
+FR: Vous avez une vision surnaturellement perçante, qui vous permet de voir les monstres cachés à la vue ordinaire. Cela n’a aucun autre effet sur votre précision.
+
+EN: You resist poisons, toxins and other contaminants. This does not confer full immunity, but reduces your chances of being affected to roughly one-third what it would be otherwise.
+FR: Vous résistez aux poisons, toxines et autres contaminants. Cela ne confère pas une immunité totale, mais réduit vos chances d’être affecté à environ un tiers de ce qu’elles seraient autrement.
+
+EN: Your body is shaped in an inhuman way, somewhat reducing the amount of protection provided by body armour. This has no effect on protection provided by armour enchantments.
+FR: Votre corps a une forme inhumaine, ce qui réduit quelque peu la protection offerte par les armures de corps. Cela n’a aucun effet sur la protection fournie par les enchantements d’armure.
+
+EN: Your plain brown scales are hard. (AC +4)
+FR: Vos écailles brunes sont dures. (AC +4)
+
+EN: You cannot fit into any form of body armour or wear helmets.
+FR: Vous ne pouvez porter ni armure corporelle ni casque.
+
+EN: [Your tail will grow strong enough to constrict your foes.]
+FR: [Votre queue deviendra assez forte pour étreindre vos ennemis.]

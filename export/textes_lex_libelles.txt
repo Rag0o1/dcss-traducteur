@@ -1,0 +1,860 @@
+EN: # - Generate and view character dump
+FR: # - Générer et voir la fiche du personnage
+
+EN: # - generate and view character dump
+FR: # - Générer et voir la fiche du personnage
+
+EN: / - Lookup info
+FR: / - Rechercher une info
+
+EN: / - lookup info
+FR: / - Rechercher une info
+
+EN: ? - Help and manual
+FR: ? - Aide et manuel
+
+EN: ? - help and manual
+FR: ? - Aide et manuel
+
+EN: Abyss
+FR: Abysse
+
+EN: Acidic fog
+FR: Brume acide
+
+EN: Additional help:
+FR: Aide supplémentaire :
+
+EN: Air Magic
+FR: Magie de l’Air
+
+EN: Air magic
+FR: Magie de l’Air
+
+EN: Alchemy
+FR: Alchimie
+
+EN: Alcoholic mist
+FR: Brume alcoolisée
+
+EN: Angry Troglodyte
+FR: Troglodyte en colère
+
+EN: Angry troglodyte
+FR: Troglodyte en colère
+
+EN: Arena
+FR: Arène
+
+EN: Armour
+FR: Armure
+
+EN: Ashenzari the Shackled
+FR: Ashenzari l’Enchaîné
+
+EN: Ashenzari the shackled
+FR: Ashenzari l’Enchaîné
+
+EN: Autofight:
+FR: Combat auto :
+
+EN: Axes
+FR: Haches
+
+EN: Bailey
+FR: Bailey
+
+EN: Bats
+FR: Chauves-souris
+
+EN: Bazaar
+FR: Bazar
+
+EN: Beogh the Shepherd
+FR: Beogh le Berger
+
+EN: Beogh the shepherd
+FR: Beogh le Berger
+
+EN: Black smoke
+FR: Fumée noire
+
+EN: Blastmotes
+FR: Particules explosives
+
+EN: Blessed fire
+FR: Feu béni
+
+EN: Blinding haze
+FR: Brume aveuglante
+
+EN: Blue smoke
+FR: Fumée bleue
+
+EN: Calcifying dust
+FR: Poussière calcifiante
+
+EN: Cheibriados the Contemplative
+FR: Cheibriados le Contemplatif
+
+EN: Cheibriados the contemplative
+FR: Cheibriados le Contemplatif
+
+EN: Cocytus
+FR: Cocyte
+
+EN: Conjurations
+FR: Conjurations
+
+EN: Console/Webtiles
+FR: Console/Webtiles
+
+EN: Crucible
+FR: Creuset
+
+EN: Crypt
+FR: Crypte
+
+EN: Degeneration
+FR: Dégénérescence
+
+EN: Depths
+FR: Profondeurs
+
+EN: Desolation
+FR: Désolation
+
+EN: Dis
+FR: Dis
+
+EN: Display type:
+FR: Type d’affichage :
+
+EN: Dithmenos the Shrouded
+FR: Dithmenos le Voilé
+
+EN: Dithmenos the shrouded
+FR: Dithmenos le Voilé
+
+EN: Dodging
+FR: Esquive
+
+EN: Dungeon
+FR: Donjon
+
+EN: Dungeon Crawl Stone Soup 0.35-a0-1310-g49955dfc25
+FR: Dungeon Crawl Stone Soup 0.35-a0-1310-g49955dfc25
+
+EN: Dungeon Interaction and Information:
+FR: Interaction avec le donjon et informations :
+
+EN: Earth Magic
+FR: Magie de Terre
+
+EN: Earth magic
+FR: Magie de la Terre
+
+EN: Elven Halls
+FR: Halls Elfiques
+
+EN: Elven halls
+FR: Halls Elfiques
+
+EN: Elyvilon the Healer
+FR: Elyvilon le Guérisseur
+
+EN: Elyvilon the healer
+FR: Elyvilon le Guérisseur
+
+EN: Esc - Exit help lookup
+FR: Échap - Quitter la recherche d’aide
+
+EN: Esc - Return to game
+FR: Échap - Retourner au jeu
+
+EN: Esc - exit help lookup
+FR: Échap - Quitter la recherche d’aide
+
+EN: Esc - return to game
+FR: Échap - Retourner au jeu
+
+EN: Evocations
+FR: Évocations
+
+EN: Excruciating misery
+FR: Misère atroce
+
+EN: Exile
+FR: Exil
+
+EN: Extended Movement:
+FR: Déplacement étendu :
+
+EN: Extra
+FR: Supplément
+
+EN: Faint frost
+FR: Léger givre
+
+EN: Faint pestilence
+FR: Léger miasme
+
+EN: Favour
+FR: Faveur
+
+EN: Fedhas Madash
+FR: Fedhas Madash
+
+EN: Fedhas madash
+FR: Fedhas Madash
+
+EN: Fighting
+FR: Combat
+
+EN: Fire Magic
+FR: Magie du Feu
+
+EN: Fire magic
+FR: Magie du Feu
+
+EN: Flame
+FR: Flamme
+
+EN: Forgecraft
+FR: Forge
+
+EN: Foul pestilence
+FR: Pestilence répugnante
+
+EN: Freezing vapour
+FR: Vapeur glaciale
+
+EN: Frequently Asked Questions
+FR: Foire aux questions
+
+EN: Frequently asked questions
+FR: Foire aux questions
+
+EN: Full palette:
+FR: Palette complète :
+
+EN: Game Saving and Quitting:
+FR: Sauvegarde et sortie du jeu :
+
+EN: Gauntlet
+FR: Épreuve
+
+EN: Gehenna
+FR: Géhenne
+
+EN: Glimmer
+FR: Lueur
+
+EN: Golden dust
+FR: Poussière dorée
+
+EN: Gozag Ym Sagoz the Greedy
+FR: Gozag Ym Sagoz le Cupide
+
+EN: Gozag ym sagoz the greedy
+FR: Gozag Ym Sagoz le Cupide
+
+EN: Granted powers
+FR: Pouvoirs accordés
+
+EN: Grey smoke
+FR: Fumée grise
+
+EN: Gulch
+FR: Ravin
+
+EN: Hell
+FR: Enfer
+
+EN: Hepliaklqana the Forgotten
+FR: Hepliaklqana l’Oublié
+
+EN: Hepliaklqana the forgotten
+FR: Hepliaklqana l’Oublié
+
+EN: Hexes
+FR: Maléfices
+
+EN: Ice Cave
+FR: Grotte de glace
+
+EN: Ice Magic
+FR: Magie de Glace
+
+EN: Ice cave
+FR: Grotte de glace
+
+EN: Ice magic
+FR: Magie de la Glace
+
+EN: Ignis, the Dying Flame
+FR: Ignis, la Flamme mourante
+
+EN: Ignis, the dying flame
+FR: Ignis, la Flamme mourante
+
+EN: Ink
+FR: Encre
+
+EN: Inventory management:
+FR: Gestion de l’inventaire :
+
+EN: Invocations
+FR: Invocations
+
+EN: Item Interaction:
+FR: Interaction avec les objets :
+
+EN: Item types (and common commands)
+FR: Types d’objets (et commandes courantes)
+
+EN: Jiyva Juiwkigh the Shapeless
+FR: Jiyva Juiwkigh l’Informe
+
+EN: Jiyva juiwkigh the shapeless
+FR: Jiyva Juiwkigh l’Informe
+
+EN: Kikubaaqudgha
+FR: Kikubaaqudgha
+
+EN: Lair
+FR: Antre
+
+EN: Long Blades
+FR: Lames Longues
+
+EN: Long blades
+FR: Lames Longues
+
+EN: Lookup information about:
+FR: Rechercher des informations sur :
+
+EN: Lugonu the Unformed
+FR: Lugonu l’Informe
+
+EN: Lugonu the unformed
+FR: Lugonu l’Informe
+
+EN: Lunge
+FR: Fente
+
+EN: Maces & Flails
+FR: Masses & Fléaux
+
+EN: Maces & flails
+FR: Masses & Fléaux
+
+EN: Magical condensation
+FR: Condensation magique
+
+EN: Magnetised fragments
+FR: Fragments magnétisés
+
+EN: Makhleb the Destroyer
+FR: Makhleb le Destructeur
+
+EN: Makhleb the destroyer
+FR: Makhleb le Destructeur
+
+EN: Movement:
+FR: Déplacement :
+
+EN: Mutagenic fog
+FR: Brume mutagène
+
+EN: Necromancy
+FR: Nécromancie
+
+EN: Necropolis
+FR: Nécropole
+
+EN: Nemelex Xobeh the Trickster
+FR: Nemelex Xobeh le Filou
+
+EN: Nemelex xobeh the trickster
+FR: Nemelex Xobeh le Filou
+
+EN: Non-Gameplay Commands / Info
+FR: Commandes / infos hors jeu
+
+EN: Non-gameplay commands / info
+FR: Commandes / infos hors jeu
+
+EN: None.
+FR: Aucun.
+
+EN: Noxious fumes
+FR: Vapeurs nocives
+
+EN: Orcish Mines
+FR: Mines Orques
+
+EN: Orcish mines
+FR: Mines Orques
+
+EN: Ossuary
+FR: Ossuaire
+
+EN: Other Gameplay Actions:
+FR: Autres actions de jeu :
+
+EN: Overview
+FR: Aperçu
+
+EN: Overview |
+FR: Aperçu |
+
+EN: Overview | Powers |
+FR: Aperçu | Pouvoirs |
+
+EN: Overview | Powers | Wrath |
+FR: Aperçu | Pouvoirs | Colère |
+
+EN: Overview | powers |
+FR: Aperçu | Pouvoirs |
+
+EN: Overview | powers | wrath |
+FR: Aperçu | Pouvoirs | Colère |
+
+EN: Pain
+FR: Douleur
+
+EN: Pandemonium
+FR: Pandémonium
+
+EN: Player Character Information:
+FR: Informations sur le personnage :
+
+EN: Poison gas
+FR: Gaz toxique
+
+EN: Polearms
+FR: Armes d’Hast
+
+EN: Powers
+FR: Pouvoirs
+
+EN: Purple smoke
+FR: Fumée violette
+
+EN: Q - Quit and
+FR: Q - Quitter et
+
+EN: Q - quit and
+FR: Q - Quitter et
+
+EN: Qazlal Stormbringer
+FR: Qazlal, Porteur de tempêtes
+
+EN: Qazlal stormbringer
+FR: Qazlal, Porteur de tempêtes
+
+EN: Rain
+FR: Pluie
+
+EN: Ranged Weapons
+FR: Armes à dist.
+
+EN: Ranged weapons
+FR: Armes à Distance
+
+EN: Rest:
+FR: Repos :
+
+EN: Ru the Awakened
+FR: Ru l’Éveillé
+
+EN: Ru the awakened
+FR: Ru l’Éveillé
+
+EN: S - Save and exit
+FR: S - Sauvegarder et quitter
+
+EN: S - save and exit
+FR: S - Sauvegarder et quitter
+
+EN: Salt
+FR: Sel
+
+EN: Seething chaos
+FR: Chaos bouillonnant
+
+EN: Sewer
+FR: Égouts
+
+EN: Shapeshifting
+FR: Métamorphose
+
+EN: Shields
+FR: Boucliers
+
+EN: Shoals
+FR: Hauts-fonds
+
+EN: Short Blades
+FR: Lames Courtes
+
+EN: Short blades
+FR: Lames Courtes
+
+EN: Sif Muna the Loreminder
+FR: Sif Muna, Gardienne du savoir
+
+EN: Sif muna the loreminder
+FR: Sif Muna, Gardienne du savoir
+
+EN: Slime Pits
+FR: Fosses de gélatine
+
+EN: Slime pits
+FR: Fosses de gélatine
+
+EN: Snake Pit
+FR: Fosse aux serpents
+
+EN: Snake pit
+FR: Fosse aux serpents
+
+EN: Sparks
+FR: Étincelles
+
+EN: Sparse dust
+FR: Poussière clairsemée
+
+EN: Spectral mist
+FR: Brume spectrale
+
+EN: Spellcasting
+FR: Magie
+
+EN: Spider Nest
+FR: Nid des Araignées
+
+EN: Spider nest
+FR: Nid des Araignées
+
+EN: Spreading flames
+FR: Flammes envahissantes
+
+EN: Staves
+FR: Bâtons
+
+EN: Stealth
+FR: Discrétion
+
+EN: Steam
+FR: Vapeur
+
+EN: Summonings
+FR: Convocations
+
+EN: Swamp
+FR: Marais
+
+EN: Tartarus
+FR: Tartare
+
+EN: Temple
+FR: Temple
+
+EN: The Cloud
+FR: Le Nuage
+
+EN: The Dance
+FR: La Danse
+
+EN: The Elements
+FR: Les Éléments
+
+EN: The Elixir
+FR: L’Élixir
+
+EN: The Illusion
+FR: L’Illusion
+
+EN: The Pentagram
+FR: Le Pentagramme
+
+EN: The Rangers
+FR: Les Rôdeurs
+
+EN: The Storm
+FR: La Tempête
+
+EN: The Swarm
+FR: L’Essaim
+
+EN: The Swine
+FR: Les Porcs
+
+EN: The Tomb
+FR: La Tombe
+
+EN: The Wraith
+FR: Le Spectre
+
+EN: The cloud
+FR: Le Nuage
+
+EN: The dance
+FR: La Danse
+
+EN: The elements
+FR: Les Éléments
+
+EN: The elixir
+FR: L’Élixir
+
+EN: The illusion
+FR: L’Illusion
+
+EN: The pentagram
+FR: Le Pentagramme
+
+EN: The rangers
+FR: Les Rôdeurs
+
+EN: The shining one
+FR: L’Étincelant
+
+EN: The storm
+FR: La Tempête
+
+EN: The swarm
+FR: L’Essaim
+
+EN: The swine
+FR: Les Porcs
+
+EN: The tomb
+FR: La Tombe
+
+EN: The wraith
+FR: Le Spectre
+
+EN: The wu jian council
+FR: Le Conseil Wu Jian
+
+EN: Thin mist
+FR: Brume légère
+
+EN: Throwing
+FR: Lancer
+
+EN: Thunder
+FR: Tonnerre
+
+EN: Title
+FR: Titre
+
+EN: Tomb
+FR: Tombe
+
+EN: Torment
+FR: Tourment
+
+EN: Translocational energy
+FR: Énergie de translocation
+
+EN: Translocations
+FR: Translocations
+
+EN: Trog the Wrathful
+FR: Trog le Furieux
+
+EN: Trog the wrathful
+FR: Trog le Furieux
+
+EN: Trove
+FR: Trésor
+
+EN: Turn | Place | Note
+FR: Tour | Lieu | Note
+
+EN: Turn | place | note
+FR: Tour | Lieu | Note
+
+EN: Unarmed Combat
+FR: Mains nues
+
+EN: Unarmed combat
+FR: Combat à mains nues
+
+EN: Uskayaw the Reveller
+FR: Uskayaw le Fêtard
+
+EN: Uskayaw the reveller
+FR: Uskayaw le Fêtard
+
+EN: Vaults
+FR: Chambres Fortes
+
+EN: Vehumet
+FR: Vehumet
+
+EN: Velocity
+FR: Vélocité
+
+EN: Vitriol
+FR: Vitriol
+
+EN: Volcano
+FR: Volcan
+
+EN: Wall Jump
+FR: Saut mural
+
+EN: Wall jump
+FR: Saut mural
+
+EN: Warmaster Okawaru
+FR: Okawaru, Maître de guerre
+
+EN: Warmaster okawaru
+FR: Okawaru, Maître de guerre
+
+EN: Whirling frost
+FR: Givre tourbillonnant
+
+EN: Whirlwind
+FR: Tourbillon
+
+EN: White fluffiness
+FR: Moelleux blanc
+
+EN: Wild Magic
+FR: Magie sauvage
+
+EN: Wild magic
+FR: Magie sauvage
+
+EN: Wisps of flame
+FR: Volutes de flammes
+
+EN: Wizlab
+FR: Laboratoire de mage
+
+EN: Wrath
+FR: Colère
+
+EN: Xom of Chaos
+FR: Xom du Chaos
+
+EN: Xom of chaos
+FR: Xom du Chaos
+
+EN: Yredelemnul the Fallen
+FR: Yredelemnul le Déchu
+
+EN: Yredelemnul the fallen
+FR: Yredelemnul le Déchu
+
+EN: Ziggurat
+FR: Ziggourat
+
+EN: Zin the Law-Giver
+FR: Zin le Législateur
+
+EN: Zin the law-giver
+FR: Zin le Législateur
+
+EN: Zot
+FR: Zot
+
+EN: ] exit
+FR: ] quitter
+
+EN: ] page down [
+FR: ] page suivante [
+
+EN: ] page up [
+FR: ] page précédente [
+
+EN: ] select [
+FR: ] choisir [
+
+EN: black
+FR: noir
+
+EN: brown
+FR: marron
+
+EN: darkgrey
+FR: gris foncé
+
+EN: green
+FR: vert
+
+EN: lightblue
+FR: bleu clair
+
+EN: lightcyan
+FR: cyan clair
+
+EN: lightgreen
+FR: vert clair
+
+EN: lightgrey
+FR: gris clair
+
+EN: lightmagenta
+FR: magenta clair
+
+EN: lightred
+FR: rouge clair
+
+EN: magenta
+FR: magenta
+
+EN: the Shining One
+FR: L’Étincelant
+
+EN: the Wu Jian Council
+FR: le Conseil Wu Jian
+
+EN: white
+FR: blanc
+
+EN: yellow
+FR: jaune
+
+EN: | Extra
+FR: | Supplément
+
+EN: | Powers | Wrath
+FR: | Pouvoirs | Colère
+
+EN: | Powers | Wrath | Extra
+FR: | Pouvoirs | Colère | Supplément
+
+EN: | Wrath
+FR: | Colère
+
+EN: | Wrath | Extra
+FR: | Colère | Supplément
+
+EN: | extra
+FR: | Supplément
+
+EN: | powers | wrath
+FR: | Pouvoirs | Colère
+
+EN: | powers | wrath | extra
+FR: | Pouvoirs | Colère | Supplément
+
+EN: | wrath
+FR: | Colère
+
+EN: | wrath | extra
+FR: | Colère | Supplément
+
+EN: ~ - Edit macros
+FR: ~ - Modifier les macros
+
+EN: ~ - edit macros
+FR: ~ - Modifier les macros

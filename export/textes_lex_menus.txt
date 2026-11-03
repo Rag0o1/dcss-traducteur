@@ -1,0 +1,56 @@
+EN: Ability
+FR: Capacité
+
+EN: Armour Ego
+FR: Ego d’armure
+
+EN: Armour ego
+FR: Ego d’armure
+
+EN: Bane
+FR: Fléau
+
+EN: Branch
+FR: Branche
+
+EN: Card
+FR: Carte
+
+EN: Cloud
+FR: Nuage
+
+EN: Feature
+FR: Décor
+
+EN: God
+FR: Dieu
+
+EN: Item
+FR: Objet
+
+EN: Missile Ego
+FR: Ego de projectile
+
+EN: Missile ego
+FR: Ego de projectile
+
+EN: Monster
+FR: Monstre
+
+EN: Passive
+FR: Passif
+
+EN: Skill
+FR: Compétence
+
+EN: Spell
+FR: Sort
+
+EN: Status
+FR: Statut
+
+EN: Weapon Ego
+FR: Ego d’arme
+
+EN: Weapon ego
+FR: Ego d’arme

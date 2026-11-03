@@ -114,3 +114,4 @@ VERSION 0.10 (suite) : leçons du vrai jeu
   tous les pouvoirs gagnés ou perdus (« Vous pouvez désormais... »), dons et protections des dieux, messages de caractéristiques
   (« Vous vous sentez stupide »), cartes de Nemelex, ajout de sorts à la bibliothèque, « Votre arme luit d’un éclat rouge ».
 - variables.js : les noms propres avec accents (Edmée) ne bloquent plus la traduction.
+- Dossier export/ : toutes les traductions en fichiers texte simples EN:/FR: (outil outils/exporter.js), pour les partager ou partir d'une autre langue.

@@ -1,0 +1,542 @@
+EN: Ashenzari identifies your possessions.
+FR: Ashenzari identifie vos possessions.
+
+EN: Ashenzari keeps your mind clear.
+FR: Ashenzari garde votre esprit clair.
+
+EN: Ashenzari likes it when you bind yourself with curses.
+FR: Ashenzari apprécie que vous vous lieiez par des malédictions.
+
+EN: Ashenzari protects you from the dungeon's malevolent forces.
+FR: Ashenzari vous protège des forces malveillantes du donjon.
+
+EN: Ashenzari reveals the structure of the nearby dungeon.
+FR: Ashenzari vous révèle la structure du donjon proche.
+
+EN: Ashenzari reveals the unseen.
+FR: Ashenzari révèle ce qui est invisible.
+
+EN: Ashenzari shows you where magical portals lie.
+FR: Ashenzari vous montre où se trouvent les portails magiques.
+
+EN: Ashenzari warns you of distant threats and treasures.
+FR: Ashenzari vous avertit des menaces et des trésors lointains.
+
+EN: Beogh strongly dislikes it when you attack non-hostile orcs or you attack your followers.
+FR: Beogh désapprouve fortement que vous attaquiez des orcs non hostiles ou vos disciples.
+
+EN: Beogh will send orc apostles to challenge you in battle as you gain piety.
+FR: Beogh enverra des apôtres orcs vous défier au combat à mesure que vous gagnez de la piété.
+
+EN: Cheibriados forbids you from hastening yourself or using unnaturally quick items.
+FR: Cheibriados vous interdit de vous hâter ou d’utiliser des objets anormalement rapides.
+
+EN: Cheibriados likes it when you kill non-sluggish things.
+FR: Cheibriados apprécie que vous tuiez des êtres qui ne sont pas lents.
+
+EN: Cheibriados slightly slows your movement.
+FR: Cheibriados ralentit légèrement vos déplacements.
+
+EN: Cheibriados slows the effects of poison on you.
+FR: Cheibriados ralentit les effets du poison sur vous.
+
+EN: Cheibriados supports your attributes.
+FR: Cheibriados soutient vos attributs.
+
+EN: Dithmenos likes it when you explore the world.
+FR: Dithmenos apprécie que vous exploriez le monde.
+
+EN: Dithmenos quiets all noise in your surroundings.
+FR: Dithmenos étouffe tous les bruits autour de vous.
+
+EN: Elyvilon forbids you from using evil magic or items.
+FR: Elyvilon vous interdit d’utiliser de la magie ou des objets maléfiques.
+
+EN: Elyvilon likes it when you explore the world.
+FR: Elyvilon apprécie que vous exploriez le monde.
+
+EN: Elyvilon occasionally guards your life.
+FR: Elyvilon protège parfois votre vie.
+
+EN: Elyvilon prevents you from doing harm to neutral creatures.
+FR: Elyvilon vous empêche de blesser les créatures neutres.
+
+EN: Elyvilon strongly dislikes it when you attack non-hostile holy beings, you attack neutral beings, you attack allies or you kill non-hostile holy beings.
+FR: Elyvilon désapprouve fortement que vous attaquiez des êtres sacrés non hostiles, que vous attaquiez des êtres neutres, que vous attaquiez des alliés ou que vous tuiez des êtres sacrés non hostiles.
+
+EN: Foes that die within your umbra may be raised as undead servants.
+FR: Les ennemis qui meurent dans votre ombre peuvent être relevés en serviteurs morts-vivants.
+
+EN: Gozag likes it when you collect gold.
+FR: Gozag apprécie que vous ramassiez de l’or.
+
+EN: Gozag turns your defeated foes' bodies to gold.
+FR: Gozag change en or les corps de vos ennemis vaincus.
+
+EN: Hepliaklqana likes it when you explore the world.
+FR: Hepliaklqana apprécie que vous exploriez le monde.
+
+EN: Jellies are peaceful and will consume items off the floor.
+FR: Les gelées sont pacifiques et dévorent les objets au sol.
+
+EN: Jiyva likes it when you explore the world outside of the Slime Pits.
+FR: Jiyva apprécie que vous exploriez le monde en dehors des Fosses de gélatine.
+
+EN: Jiyva prevents you from harming jellies.
+FR: Jiyva vous empêche de blesser les gelées.
+
+EN: Jiyva protects you from corrosive effects.
+FR: Jiyva vous protège des effets corrosifs.
+
+EN: Jiyva will mutate your body as you gain piety.
+FR: Jiyva fera muter votre corps à mesure que vous gagnez de la piété.
+
+EN: Jiyva will unlock the Slime Pits vaults.
+FR: Jiyva ouvrira les chambres fortes des Fosses de gélatine.
+
+EN: Kikubaaqudgha protects you from necromantic miscasts and death curses.
+FR: Kikubaaqudgha vous protège des échecs de nécromancie et des malédictions de mort.
+
+EN: Kikubaaqudgha protects you from unholy torment.
+FR: Kikubaaqudgha vous protège du tourment impie.
+
+EN: Kikubaaqudgha will grant you forbidden knowledge or bloody your weapon with pain... once.
+FR: Kikubaaqudgha vous accordera un savoir interdit ou ensanglantera votre arme de douleur… une seule fois.
+
+EN: Kikubaaqudgha's powers are based on Necromancy instead of Invocations skill.
+FR: Les pouvoirs de Kikubaaqudgha reposent sur la Nécromancie plutôt que sur la compétence Invocations.
+
+EN: Lugonu may banish nearby foes when other gods try to punish you.
+FR: Lugonu peut bannir les ennemis proches quand d’autres dieux tentent de vous punir.
+
+EN: Lugonu protects you from the effects of unwielding distortion weapons.
+FR: Lugonu vous protège des effets du retrait des armes de distorsion.
+
+EN: Lugonu will corrupt your weapon with distortion... once.
+FR: Lugonu corrompra votre arme de distorsion… une seule fois.
+
+EN: Makhleb will allow you to brand your body with an infernal mark... once.
+FR: Makhleb vous permettra de marquer votre corps d’une marque infernale… une seule fois.
+
+EN: Makhleb's powers all come with a price in blood. However, Makhleb will grant followers renewed health in return for killing beings of all kinds.
+FR: Tous les pouvoirs de Makhleb ont un prix en sang. Cependant, Makhleb rend de la santé à ses disciples lorsqu’ils tuent des êtres de toute sorte.
+
+EN: Nemelex Xobeh likes it when you explore the world.
+FR: Nemelex Xobeh apprécie que vous exploriez le monde.
+
+EN: Nemelex will gift you decks of power as you gain piety.
+FR: Nemelex vous offrira des jeux de puissance à mesure que vous gagnez de la piété.
+
+EN: Okawaru requires that you fight alone, and prevents you from gaining allies.
+FR: Okawaru exige que vous combattiez seul et vous empêche d’obtenir des alliés.
+
+EN: Okawaru will gift you throwing weapons as you gain piety.
+FR: Okawaru vous offrira des armes de jet à mesure que vous gagnez de la piété.
+
+EN: Okawaru will grant you a choice of armour... once.
+FR: Okawaru vous accordera le choix d’une armure… une seule fois.
+
+EN: Okawaru will grant you a choice of weapons... once.
+FR: Okawaru vous accordera le choix d’une arme… une seule fois.
+
+EN: Orcs sometimes recognise you as one of their own.
+FR: Les orcs vous reconnaissent parfois comme l’un des leurs.
+
+EN: Ru likes it when you make personal sacrifices.
+FR: Ru apprécie que vous fassiez des sacrifices personnels.
+
+EN: Sif Muna likes it when you explore the world.
+FR: Sif Muna apprécie que vous exploriez le monde.
+
+EN: Sif Muna will gift you books as you gain piety.
+FR: Sif Muna vous offrira des livres à mesure que vous gagnez de la piété.
+
+EN: Sif Muna's powers are based on Spellcasting instead of Invocations skill.
+FR: Les pouvoirs de Sif Muna reposent sur la Magie plutôt que sur la compétence Invocations.
+
+EN: The Shining One forbids you from using evil magic or items.
+FR: L’Étincelant vous interdit d’utiliser de la magie ou des objets maléfiques.
+
+EN: The Shining One is neutral towards you.
+FR: L’Étincelant est neutre envers vous.
+
+EN: The Shining One likes it when you kill the undead, you kill demons, you kill evil beings and you encounter other hostile creatures.
+FR: L’Étincelant apprécie que vous tuiez des morts-vivants, des démons, des êtres maléfiques et que vous affrontiez d’autres créatures hostiles.
+
+EN: The Shining One occasionally guards your life.
+FR: L’Étincelant protège parfois votre vie.
+
+EN: The Shining One partially shields you from negative energy.
+FR: L’Étincelant vous protège partiellement de l’énergie négative.
+
+EN: The Shining One prevents you from stabbing unaware foes.
+FR: L’Étincelant vous empêche de poignarder les ennemis qui ne se méfient pas.
+
+EN: The Shining One sometimes blesses your followers when you slay foes.
+FR: L’Étincelant bénit parfois vos disciples quand vous terrassez des ennemis.
+
+EN: The Shining One strongly dislikes it when you attack non-hostile holy beings, you attack neutral beings, you attack allies or you kill non-hostile holy beings.
+FR: L’Étincelant désapprouve fortement que vous attaquiez des êtres sacrés non hostiles, que vous attaquiez des êtres neutres, que vous attaquiez des alliés ou que vous tuiez des êtres sacrés non hostiles.
+
+EN: The Shining One will bless your weapon with holy wrath... once.
+FR: L’Étincelant bénira votre arme du courroux sacré… une seule fois.
+
+EN: The Shining One's wrath lasts for a relatively short duration.
+FR: La colère de L’Étincelant dure relativement peu de temps.
+
+EN: Trog forbids the training of this skill.
+FR: Trog interdit l’entraînement de cette compétence.
+
+EN: Trog forbids you from casting or memorising spells, training magic skills or using magical staves or other wizardly items.
+FR: Trog vous interdit de lancer ou de mémoriser des sorts, d’entraîner les compétences magiques et d’utiliser des bâtons magiques ou d’autres objets de magicien.
+
+EN: Trog is aware of your devotion.
+FR: Trog a conscience de votre dévotion.
+
+EN: Trog will gift you melee weapons as you gain piety.
+FR: Trog vous offrira des armes de mêlée à mesure que vous gagnez de la piété.
+
+EN: Uskayaw especially likes it when you hurt your foes; however, effects that cause damage over time do not interest Uskayaw.
+FR: Uskayaw apprécie tout particulièrement que vous blessiez vos ennemis ; cependant, les effets de dégâts dans le temps n’intéressent pas Uskayaw.
+
+EN: Uskayaw will force your foes to helplessly watch your dance.
+FR: Uskayaw forcera vos ennemis à regarder votre danse, impuissants.
+
+EN: Uskayaw will force your foes to share their pain.
+FR: Uskayaw forcera vos ennemis à partager leur douleur.
+
+EN: Vehumet aids your destructive spells.
+FR: Vehumet aide vos sorts destructeurs.
+
+EN: Vehumet extends the range of your destructive spells.
+FR: Vehumet étend la portée de vos sorts destructeurs.
+
+EN: You adapt resistances upon receiving elemental damage.
+FR: Vous vous adaptez aux dégâts élémentaires en gagnant des résistances.
+
+EN: You are resistant to fire.
+FR: Vous résistez au feu.
+
+EN: You are surrounded by a storm.
+FR: Une tempête vous entoure.
+
+EN: You are surrounded by an umbra.
+FR: Une ombre vous entoure.
+
+EN: You can armour yourself in flame.
+FR: Vous pouvez vous couvrir d’une armure de flammes.
+
+EN: You can attempt to pacify hostile creatures.
+FR: Vous pouvez tenter de pacifier les créatures hostiles.
+
+EN: You can banish your foes.
+FR: Vous pouvez bannir vos ennemis.
+
+EN: You can bend time to slow others.
+FR: Vous pouvez distordre le temps pour ralentir les autres.
+
+EN: You can bind living souls.
+FR: Vous pouvez lier des âmes vivantes.
+
+EN: You can bribe branches to halt enemies' attacks and recruit allies.
+FR: Vous pouvez soudoyer des branches du donjon pour stopper les attaques ennemies et recruter des alliés.
+
+EN: You can briefly move at supernatural speeds.
+FR: Vous pouvez brièvement vous déplacer à une vitesse surnaturelle.
+
+EN: You can bring forth the wretched and dying.
+FR: Vous pouvez faire surgir les misérables et les mourants.
+
+EN: You can call a swarm of foxfires against your foes.
+FR: Vous pouvez lancer un essaim de feux follets contre vos ennemis.
+
+EN: You can call acidic ooze from nearby walls.
+FR: Vous pouvez faire suinter de la vase acide des murs proches.
+
+EN: You can call in reinforcements.
+FR: Vous pouvez appeler des renforts.
+
+EN: You can call upon Elyvilon for divine vigour.
+FR: Vous pouvez invoquer Elyvilon pour une vigueur divine.
+
+EN: You can call upon Sif Muna for magical energy.
+FR: Vous pouvez invoquer Sif Muna pour de l’énergie magique.
+
+EN: You can call upon Sif Muna to cast any spell from your library.
+FR: Vous pouvez invoquer Sif Muna pour lancer n’importe quel sort de votre bibliothèque.
+
+EN: You can call upon Trog for regeneration and willpower.
+FR: Vous pouvez invoquer Trog pour la régénération et la volonté.
+
+EN: You can call upon Zin for vitalisation.
+FR: Vous pouvez invoquer Zin pour vous revitaliser.
+
+EN: You can call upon Zin to create a sanctuary.
+FR: Vous pouvez invoquer Zin pour créer un sanctuaire.
+
+EN: You can call upon Zin to imprison the lawless.
+FR: Vous pouvez invoquer Zin pour emprisonner les hors-la-loi.
+
+EN: You can call upon nature to destroy your foes.
+FR: Vous pouvez appeler la nature à détruire vos ennemis.
+
+EN: You can call upon nature's wrath in a wide area around you.
+FR: Vous pouvez déchaîner la colère de la nature sur une vaste zone autour de vous.
+
+EN: You can call upon the Shining One for a divine shield.
+FR: Vous pouvez invoquer L’Étincelant pour un bouclier divin.
+
+EN: You can channel blasts of cleansing flame.
+FR: Vous pouvez canaliser des déflagrations de flammes purificatrices.
+
+EN: You can choose one out of three cards.
+FR: Vous pouvez choisir une carte parmi trois.
+
+EN: You can comfort your suffering allies.
+FR: Vous pouvez réconforter vos alliés qui souffrent.
+
+EN: You can corrupt the fabric of space.
+FR: Vous pouvez corrompre la trame de l’espace.
+
+EN: You can deal four cards at a time.
+FR: Vous pouvez distribuer quatre cartes à la fois.
+
+EN: You can depart the Abyss.
+FR: Vous pouvez quitter l’Abysse.
+
+EN: You can donate money to Zin.
+FR: Vous pouvez faire don d’argent à Zin.
+
+EN: You can draw from decks of power.
+FR: Vous pouvez piocher dans des jeux de puissance.
+
+EN: You can encircle yourself with summoned briar patches.
+FR: Vous pouvez vous entourer de ronces invoquées.
+
+EN: You can engulf your surroundings in Yredelemnul's grip.
+FR: Vous pouvez envelopper les environs dans l’emprise de Yredelemnul.
+
+EN: You can enter into single combat with a foe.
+FR: Vous pouvez défier un ennemi en combat singulier.
+
+EN: You can freely open your mind to new spells.
+FR: Vous pouvez ouvrir librement votre esprit à de nouveaux sorts.
+
+EN: You can fund merchants seeking to open stores in the dungeon.
+FR: Vous pouvez financer des marchands qui cherchent à ouvrir des boutiques dans le donjon.
+
+EN: You can gain great but temporary skills.
+FR: Vous pouvez obtenir de grandes compétences, mais temporaires.
+
+EN: You can gain health from killing.
+FR: Vous pouvez regagner de la santé en tuant.
+
+EN: You can gain magical power from killing.
+FR: Vous pouvez regagner de l’énergie magique en tuant.
+
+EN: You can gain power from killing the unholy and evil.
+FR: Vous pouvez gagner de la puissance en tuant les impies et les maléfiques.
+
+EN: You can gate yourself to the Abyss.
+FR: Vous pouvez vous ouvrir un portail vers l’Abysse.
+
+EN: You can gather your power into a mighty leap.
+FR: Vous pouvez rassembler votre puissance en un bond prodigieux.
+
+EN: You can give life to nearby clouds.
+FR: Vous pouvez donner vie aux nuages proches.
+
+EN: You can go berserk at will.
+FR: Vous pouvez entrer en berserk à volonté.
+
+EN: You can grow a ballistomycete.
+FR: Vous pouvez faire pousser un ballistomycète.
+
+EN: You can grow an oklob plant.
+FR: Vous pouvez faire pousser une plante oklob.
+
+EN: You can heal and protect your ancestor.
+FR: Vous pouvez soigner et protéger votre ancêtre.
+
+EN: You can heal your body and restore your magic.
+FR: Vous pouvez soigner votre corps et restaurer votre magie.
+
+EN: You can hurl gouts of umbral torchlight.
+FR: Vous pouvez projeter des jets de lumière de torche ombreuse.
+
+EN: You can inflict damage on those overly hasty.
+FR: Vous pouvez blesser ceux qui se montrent trop hâtifs.
+
+EN: You can invoke the sign of ruin.
+FR: Vous pouvez invoquer le signe de la ruine.
+
+EN: You can light the black torch and reap souls in Yredelemnul's name.
+FR: Vous pouvez allumer la torche noire et moissonner des âmes au nom de Yredelemnul.
+
+EN: You can lightly attack monsters by moving around them.
+FR: Vous pouvez attaquer légèrement les monstres en vous déplaçant autour d’eux.
+
+EN: You can memorise some of Vehumet's spells.
+FR: Vous pouvez mémoriser certains sorts de Vehumet.
+
+EN: You can merge with and destroy a victim.
+FR: Vous pouvez fusionner avec une victime et la détruire.
+
+EN: You can mislead enemies by swapping places with your shadow.
+FR: Vous pouvez tromper vos ennemis en échangeant votre place avec votre ombre.
+
+EN: You can pass through a line of other dancers.
+FR: Vous pouvez traverser une file d’autres danseurs.
+
+EN: You can perform airborne attacks.
+FR: Vous pouvez effectuer des attaques aériennes.
+
+EN: You can perform damaging attacks by moving towards foes.
+FR: Vous pouvez infliger des dégâts en vous déplaçant vers vos ennemis.
+
+EN: You can petition Gozag for potion effects.
+FR: Vous pouvez demander à Gozag des effets de potions.
+
+EN: You can provide healing for yourself.
+FR: Vous pouvez vous soigner vous-même.
+
+EN: You can purify yourself.
+FR: Vous pouvez vous purifier.
+
+EN: You can rally a vengeful horde.
+FR: Vous pouvez rallier une horde vengeresse.
+
+EN: You can recall your ancestor.
+FR: Vous pouvez rappeler votre ancêtre.
+
+EN: You can recall your undead harvest.
+FR: Vous pouvez rappeler votre moisson de morts-vivants.
+
+EN: You can recite Zin's Axioms of Law.
+FR: Vous pouvez réciter les Axiomes de la Loi de Zin.
+
+EN: You can recruit apostles that you defeat into your service.
+FR: Vous pouvez enrôler à votre service les apôtres que vous vainquez.
+
+EN: You can remember your ancestor's identity.
+FR: Vous pouvez vous souvenir de l’identité de votre ancêtre.
+
+EN: You can rocket upward and away, once.
+FR: Vous pouvez vous propulser vers le haut et au loin, une fois.
+
+EN: You can smite your foes.
+FR: Vous pouvez frapper vos ennemis de la foudre divine.
+
+EN: You can speed up your combat.
+FR: Vous pouvez accélérer votre combat.
+
+EN: You can stack five cards from your decks.
+FR: Vous pouvez empiler cinq cartes de vos jeux.
+
+EN: You can step out of the flow of time.
+FR: Vous pouvez sortir du flot du temps.
+
+EN: You can stomp with the beat.
+FR: Vous pouvez piétiner en rythme.
+
+EN: You can summon a divine warrior.
+FR: Vous pouvez invoquer un guerrier divin.
+
+EN: You can summon a storm of heavenly clouds to empower your attacks.
+FR: Vous pouvez invoquer une tempête de nuages célestes pour renforcer vos attaques.
+
+EN: You can summon an infernal servant of Makhleb.
+FR: Vous pouvez invoquer un serviteur infernal de Makhleb.
+
+EN: You can surround yourself with impenetrable night.
+FR: Vous pouvez vous envelopper d’une nuit impénétrable.
+
+EN: You can swap creatures with your ancestor.
+FR: Vous pouvez échanger votre place avec celle de votre ancêtre.
+
+EN: You can transform dungeon walls and trees into plant allies.
+FR: Vous pouvez transformer les murs du donjon et les arbres en alliés végétaux.
+
+EN: You can turn your foes to slime.
+FR: Vous pouvez changer vos ennemis en gélatine.
+
+EN: You can unleash Makhleb's destructive might.
+FR: Vous pouvez déchaîner la puissance destructrice de Makhleb.
+
+EN: You can unleash an enemy's spells as if they were a marionette.
+FR: Vous pouvez lancer les sorts d’un ennemi comme s’il était une marionnette.
+
+EN: You can walk on water.
+FR: Vous pouvez marcher sur l’eau.
+
+EN: You can walk through plants and fire through allied plants.
+FR: Vous pouvez traverser les plantes et tirer à travers les plantes alliées.
+
+EN: You can warp the flow of time around you.
+FR: Vous pouvez distordre le flot du temps autour de vous.
+
+EN: You can wreak a terrible wrath on your foes.
+FR: Vous pouvez abattre une terrible colère sur vos ennemis.
+
+EN: You drain nearby creatures when transferring your ancestor.
+FR: Vous drainez les créatures proches lorsque vous transférez votre ancêtre.
+
+EN: You may expel jellies when seriously injured.
+FR: Vous pouvez expulser des gelées lorsque vous êtes gravement blessé.
+
+EN: You now exude an aura of power that intimidates your foes.
+FR: Vous dégagez désormais une aura de puissance qui intimide vos ennemis.
+
+EN: You radiate a small righteous aura, and foes within it are easier to hit.
+FR: Vous rayonnez d’une petite aura de justice, et les ennemis qui s’y trouvent sont plus faciles à toucher.
+
+EN: You're guaranteed to find altars to almost every god on the first ten levels of the main dungeon.
+FR: Vous êtes certain de trouver des autels de presque tous les dieux dans les dix premiers niveaux du donjon principal.
+
+EN: Your Destruction will be augmented by one of the Four Hells.
+FR: Votre Destruction sera renforcée par l’un des Quatre Enfers.
+
+EN: Your ancestor manifests to aid you.
+FR: Votre ancêtre se manifeste pour vous aider.
+
+EN: Your apostles are sometimes healed when you deal damage.
+FR: Vos apôtres sont parfois soignés quand vous infligez des dégâts.
+
+EN: Your aura of power can strike those that harm you.
+FR: Votre aura de puissance peut frapper ceux qui vous blessent.
+
+EN: Your enemies may become distracted by gold.
+FR: Vos ennemis peuvent être distraits par l’or.
+
+EN: Your health and magic regeneration is accelerated.
+FR: Votre régénération de santé et de magie est accélérée.
+
+EN: Your life essence is reduced.
+FR: Votre essence vitale est réduite.
+
+EN: Your shadow sometimes tangibly mimics your actions.
+FR: Votre ombre imite parfois vos actions de façon tangible.
+
+EN: Your summoned allies will not expire while fighting evil.
+FR: Vos alliés invoqués ne disparaissent pas tant qu’ils combattent le mal.
+
+EN: Yredelemnul forbids you from using holy magic or items.
+FR: Yredelemnul vous interdit d’utiliser de la magie ou des objets sacrés.
+
+EN: Yredelemnul will gift you temporary undead servants when you light the torch.
+FR: Yredelemnul vous offrira des serviteurs morts-vivants temporaires quand vous allumerez la torche.
+
+EN: Zin likes it when you donate money and you kill unclean or chaotic beings.
+FR: Zin apprécie que vous fassiez des dons d’argent et que vous tuiez des êtres impurs ou chaotiques.
+
+EN: Zin occasionally guards your life.
+FR: Zin protège parfois votre vie.
+
+EN: Zin occasionally shields you from chaos.
+FR: Zin vous protège parfois du chaos.
+
+EN: Zin rarely shields you from Hell.
+FR: Zin vous protège rarement de l’Enfer.
+
+EN: Zin will cleanse your potions of mutation.
+FR: Zin purifiera vos potions de mutation.

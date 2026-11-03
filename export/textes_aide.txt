@@ -1,0 +1,113 @@
+EN: Dungeon Crawl Help
+FR: Aide Dungeon Crawl
+
+EN: , and
+FR: , et
+
+EN: Select a spell to cast
+FR: Choisissez un sort à lancer
+
+EN: Select a spell to describe
+FR: Choisissez un sort à décrire
+
+EN: Select a spell to forget
+FR: Choisissez un sort à oublier
+
+EN: Your library has no spells.
+FR: Votre bibliothèque ne contient aucun sort.
+
+EN: Spells
+FR: Sorts
+
+EN: Spells:
+FR: Sorts :
+
+EN: You start memorising the spell.
+FR: Vous commencez à mémoriser le sort.
+
+EN: You continue memorising.
+FR: Vous continuez à mémoriser.
+
+EN: You finish memorising.
+FR: Vous finissez de mémoriser.
+
+EN: You don't have enough magic to cast this spell.
+FR: Vous n’avez pas assez de magie pour lancer ce sort.
+
+EN: This spell is dangerous to cast!
+FR: Ce sort est dangereux à lancer !
+
+EN: You blink.
+FR: Vous clignez.
+
+EN: You feel ready to blink again.
+FR: Vous vous sentez prêt à cligner à nouveau.
+
+EN: Quiet
+FR: Discret
+
+EN: A bit loud
+FR: Un peu bruyant
+
+EN: Very loud
+FR: Très bruyant
+
+EN: Almost silent
+FR: Presque silencieux
+
+EN: Noise: Quiet
+FR: Bruit : discret
+
+EN: Noise: A bit loud
+FR: Bruit : un peu bruyant
+
+EN: Noise: Extremely loud
+FR: Bruit : extrêmement bruyant
+
+EN: Miscasting this spell causes magic contamination.
+FR: Rater ce sort provoque une contamination magique.
+
+EN: ) and
+FR: ) et
+
+EN: targeting),
+FR: ciblage),
+
+EN: Rest:
+FR: Repos :
+
+EN: Autofight:
+FR: Combat auto :
+
+EN: Item types (and common commands)
+FR: Types d’objets (et commandes)
+
+EN: Other Gameplay Actions:
+FR: Autres actions de jeu :
+
+EN: Non-Gameplay Commands / Info
+FR: Commandes hors jeu / infos
+
+EN: Game Saving and Quitting:
+FR: Sauvegarde et sortie du jeu :
+
+EN: Player Character Information:
+FR: Informations sur le personnage :
+
+EN: Dungeon Interaction and Information:
+FR: Interaction avec le donjon et informations :
+
+EN: Inventory management:
+FR: Gestion de l’inventaire :
+
+EN: Item Interaction:
+FR: Interaction avec les objets :
+
+EN: Additional help:
+FR: Aide supplémentaire :
+
+EN: Movement:
+FR: Déplacement :
+
+EN: Extended Movement:
+FR: Déplacement étendu :

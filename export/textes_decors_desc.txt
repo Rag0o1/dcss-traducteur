@@ -1,0 +1,284 @@
+EN: An ancient altar, stripped of all identifying characteristics by the passage of aeons. Praying at it will convert you to an unknown god, and the altar's deity will greatly appreciate conversion at so ancient a site of worship.
+FR: Un ancien autel, dépouillé de tout signe distinctif par le passage des éons. Y prier vous convertira à un dieu inconnu, et la divinité de l’autel appréciera grandement la conversion en un lieu de culte si ancien.
+
+EN: A crystal altar which shattered to pieces when Ashenzari was cursed. There is still a great power remaining within it: a dark aura holds the shards in mid-explosion, suspended in time and space much like the god they herald.
+FR: Un autel de cristal qui s’est brisé en morceaux quand Ashenzari fut maudit. Il reste en lui un grand pouvoir : une aura sombre maintient les éclats au milieu de l’explosion, suspendus dans le temps et l’espace tout comme le dieu qu’ils annoncent.
+
+EN: A glittering golden and bejewelled altar to Gozag Ym Sagoz the Greedy, gleaming brightly even in the dim dungeon light.
+FR: Un autel doré et incrusté de joyaux dédié à Gozag Ym Sagoz le Cupide, brillant d’un vif éclat même dans la faible lumière du donjon.
+
+EN: An altar to Hepliaklqana the Forgotten, shrouded in mist and difficult to make out clearly. Something about it seems terribly familiar, but it's impossible to say exactly why.
+FR: Un autel dédié à Hepliaklqana l’Oublié, enveloppé de brume et difficile à distinguer clairement. Quelque chose en lui semble terriblement familier, mais impossible de dire exactement pourquoi.
+
+EN: An altar to Ignis, the Dying Flame. It's completely covered in candles of all shapes and sizes, but only one remains alight, its slender flame wavering in the slightest breeze.
+FR: Un autel dédié à Ignis, la Flamme Mourante. Il est entièrement couvert de bougies de toutes formes et tailles, mais une seule reste allumée, sa mince flamme vacillant au moindre souffle.
+
+EN: An altar dedicated to Qazlal Stormbringer, surrounded by fierce winds, electrical discharges, puffs of fire and magma, and the occasional tremor.
+FR: Un autel dédié à Qazlal le Porteur de tempêtes, entouré de vents violents, de décharges électriques, de bouffées de feu et de magma, et de tremblements occasionnels.
+
+EN: An altar to Ru the Awakened in the shape of a pair of scales, with a heart in one scale and a pictogram representing power and enlightenment in the other.
+FR: Un autel dédié à Ru l’Éveillé en forme de balance, avec un cœur dans un plateau et un pictogramme représentant le pouvoir et l’illumination dans l’autre.
+
+EN: An altar to Sif Muna the Loreminder, covered in intricate patterns and writings in long forgotten scripts. Atop a deep blue pedestal hovers a shimmering condensation of pure magic.
+FR: Un autel dédié à Sif Muna la Rappeleuse de savoir, couvert de motifs complexes et d’écrits en écritures oubliées depuis longtemps. Sur un piédestal bleu profond flotte une condensation scintillante de magie pure.
+
+EN: An altar to Uskayaw the Reveller. It appears to be hollow and covered in a hide, giving it a resonant surface. Carvings on the side depict grouped figures that could be dancing or loving or fighting.
+FR: Un autel dédié à Uskayaw le Festoyeur. Il semble creux et recouvert d’une peau, lui donnant une surface résonnante. Des gravures sur le côté représentent des figures groupées qui pourraient danser, aimer ou se battre.
+
+EN: A red and gold altar to the Wu Jian Council. Sharp slivers of steel drift through the quiet air surrounding it.
+FR: Un autel rouge et or dédié au Conseil de Wu Jian. De fins éclats d’acier dérivent dans l’air calme qui l’entoure.
+
+EN: An intensely hot pool of molten rock, emitting clouds of sulphurous smoke. Nothing but the mythical salamander can cross this without flight.
+FR: Une mare brûlante de roche en fusion, émettant des nuages de fumée sulfureuse. Seule la salamandre mythique peut la traverser sans voler.
+
+EN: A pool of cloudy, waist-deep water. Those well-adapted to water can swim through it and attack normally. Non-swimmers must wade through the water slowly and will occasionally fail to attack in melee when wading through shallow water; although large creatures are able to keep their balance, move at a normal speed, and avoid fumbling.
+FR: Une mare d’eau trouble, profonde jusqu’à la taille. Ceux qui sont bien adaptés à l’eau peuvent la traverser à la nage et attaquer normalement. Les non-nageurs doivent la traverser lentement à gué et rateront parfois leurs attaques en mêlée dans l’eau peu profonde ; bien que les grandes créatures puissent garder leur équilibre, se déplacer à vitesse normale et éviter de trébucher.
+
+EN: A filthy pool of poisonous, waist-deep sludge. Wading or swimming through the sludge will damage and poison any creature, even those resistant to poison. Those well-adapted to water can swim through it and attack normally. Non-swimmers must wade through the water slowly and will occasionally fail to attack in melee when wading through shallow water; although large creatures are able to keep their balance, move at a normal speed, and avoid fumbling.
+FR: Une mare sale de boue empoisonnée, profonde jusqu’à la taille. Marcher ou nager dans la boue blessera et empoisonnera toute créature, même celles résistantes au poison. Ceux qui sont bien adaptés à l’eau peuvent la traverser à la nage et attaquer normalement. Les non-nageurs doivent la traverser lentement à gué et rateront parfois leurs attaques en mêlée dans l’eau peu profonde ; bien que les grandes créatures puissent garder leur équilibre, se déplacer à vitesse normale et éviter de trébucher.
+
+EN: A wall that radiates a chill so intense it can damage enemies which stand next to it.
+FR: Un mur qui irradie un froid si intense qu’il peut blesser les ennemis qui se tiennent à côté.
+
+EN: A staircase leading up from the grand vaults containing the silver rune of Zot, whose wealth attracts the most powerful champions from across the Dungeon to its defence.
+FR: Un escalier montant depuis les grands caveaux contenant la rune d’argent de Zot, dont la richesse attire pour sa défense les plus puissants champions de tout le Donjon.
+
+EN: This tree is specially adapted for growing in swampy conditions. Its vines are too thick to see through.
+FR: Cet arbre est spécialement adapté pour pousser dans des conditions marécageuses. Ses lianes sont trop épaisses pour voir à travers.
+
+EN: A tree hideously warped by the demonic forces of chaos. Despite its bizarre appearance and occasional, unsettling movement, it seems harmless.
+FR: Un arbre hideusement déformé par les forces démoniaques du chaos. Malgré son apparence bizarre et ses mouvements troublants occasionnels, il semble inoffensif.
+
+EN: An ancient tree, long ago passed from biology into geology. While no longer wooden in a material sense, it retains the spiritual qualities of a tree.
+FR: Un arbre ancien, passé depuis longtemps de la biologie à la géologie. Bien qu’il ne soit plus en bois au sens matériel, il conserve les qualités spirituelles d’un arbre.
+
+EN: A stone archway that seems to lead to nowhere in particular.
+FR: Une arche de pierre qui semble ne mener nulle part en particulier.
+
+EN: A decorative fountain, bubbling over with listless and unmoving eyes.
+FR: Une fontaine décorative, débordant d’yeux apathiques et immobiles.
+
+EN: A hoard of breadstuffs, baked and fried from minor divine gifts of flour and growth cultures, granted extended shelflife through sacred succour. You already carry as much food as you will ever need for this journey, but a light snack shouldn't hurt.
+FR: Un amas de pains et pâtisseries, cuits et frits à partir de menus dons divins de farine et de levains, dotés d’une longue conservation par un secours sacré. Vous portez déjà autant de nourriture que nécessaire pour ce voyage, mais une petite collation ne ferait pas de mal.
+
+EN: A pile of assorted fruit, ranging from common dungeon staples like chokos and snozzcumbers, to rarer treats such as apples and oranges. You already carry as much food as you will ever need for this journey, but the occasional nibble wouldn't hurt.
+FR: Un tas de fruits variés, allant des classiques courants du donjon comme les chokos et les snozzcumbers à des douceurs plus rares comme les pommes et les oranges. Vous portez déjà autant de nourriture que nécessaire pour ce voyage, mais grignoter à l’occasion ne ferait pas de mal.
+
+EN: A stash of preserved meats of varied origins and preparations: strips of jerky, lumpy smoked sausages, and indeterminate protein rations. You already carry as much food as you will ever need for this journey, but this could offer the rare chance to try out yak...
+FR: Une réserve de viandes conservées d’origines et de préparations variées : lanières de viande séchée, saucisses fumées grumeleuses et rations de protéines indéterminées. Vous portez déjà autant de nourriture que nécessaire pour ce voyage, mais ce pourrait être l’occasion rare de goûter au yak…
+
+EN: An unearthly, glittering light, floating and twisting in midair. A Rune of Zot is surely nearby, its power overspilling to cause this spectacular sight.
+FR: Une lumière surnaturelle et scintillante, flottant et se tordant en plein air. Une Rune de Zot est sûrement proche, son pouvoir débordant pour causer ce spectacle.
+
+EN: A cursed staircase leading further down, imbued with magic to prevent any return back up the stairs. Adventurers taking this passage will need to find a return stairway somewhere else on the level where they arrive.
+FR: Un escalier maudit descendant, imprégné de magie pour empêcher tout retour par les marches. Les aventuriers empruntant ce passage devront trouver un escalier de retour ailleurs sur le niveau où ils arrivent.
+
+EN: A cursed staircase leading up, imbued with magic to prevent any return back down the stairs. Adventurers taking this passage will need to find a return stairway somewhere else on the level where they arrive.
+FR: Un escalier maudit montant, imprégné de magie pour empêcher tout retour par les marches. Les aventuriers empruntant ce passage devront trouver un escalier de retour ailleurs sur le niveau où ils arrivent.
+
+EN: A raised pedestal upon which rests the fabled Orb of Zot. More ancient than even the dungeon itself, it cannot be destroyed or transformed by any means.
+FR: Un piédestal surélevé sur lequel repose le fabuleux Orbe de Zot. Plus ancien même que le donjon, il ne peut être détruit ni transformé par aucun moyen.
+
+EN: A statue of a terrifying globe of raw primordial fire, said to dwell within the Realm of Zot.
+FR: Une statue d’un terrifiant globe de feu primordial brut, dit résider dans le Royaume de Zot.
+
+EN: A statue of a terrifying globe of uttermost cold, said to dwell within the Realm of Zot.
+FR: Une statue d’un terrifiant globe de froid absolu, dit résider dans le Royaume de Zot.
+
+EN: A statue of a terrifying globe of profound nothingness, said to dwell within the Realm of Zot.
+FR: Une statue d’un terrifiant globe de néant profond, dit résider dans le Royaume de Zot.
+
+EN: A dense carpet of colourful mould, rustling with fecundity. The towering fungi which sprout from it can grow back in the blink of an eye, no matter how many times they are cut down.
+FR: Un dense tapis de moisissure colorée, bruissant de fécondité. Les champignons imposants qui en sortent peuvent repousser en un clin d’œil, peu importe combien de fois on les coupe.
+
+EN: An experimental arcane still, brewing some incomplete- if refined- mutagenic serum. Breaking this open will bathe you in mystic mists, imparting upon you one beneficial mutation (excluding those that could restrict equipment slots).
+FR: Un alambic arcanique expérimental, brassant un sérum mutagène inachevé, bien que raffiné. L’ouvrir vous baignera de brumes mystiques, vous conférant une mutation bénéfique (hors celles qui pourraient restreindre les emplacements d’équipement).
+
+EN: A complex arcane still, cracked open and fully emptied of its contents.
+FR: Un alambic arcanique complexe, fissuré et entièrement vidé de son contenu.
+
+EN: An exposed ley line of earth magic. It can be tapped into by stepping on it, causing shockwaves that damage the 2 closest enemies. This does greatly reduced damage to distant and flying enemies.
+FR: Une ligne tellurique exposée de magie de la terre. On peut s’y brancher en marchant dessus, provoquant des ondes de choc qui blessent les 2 ennemis les plus proches. Cela inflige des dégâts fortement réduits aux ennemis éloignés et volants.
+
+EN: An exposed ley line of fire magic. It can be tapped into by stepping on it, blasting the 3 enemies with the least health with fire. Any enemies killed by this will briefly leave behind a cloud of fire.
+FR: Une ligne tellurique exposée de magie du feu. On peut s’y brancher en marchant dessus, frappant de feu les 3 ennemis ayant le moins de santé. Tout ennemi tué ainsi laissera brièvement un nuage de feu.
+
+EN: An exposed ley line of ice magic. It can be tapped into by stepping on it, inflicting cold damage on the 3 enemies with the most health and slowing their movement for a short time.
+FR: Une ligne tellurique exposée de magie de la glace. On peut s’y brancher en marchant dessus, infligeant des dégâts de froid aux 3 ennemis ayant le plus de santé et ralentissant brièvement leurs déplacements.
+
+EN: An exposed ley line of air magic. It can be tapped into by stepping on it, blasting the 4 most distant enemies with cutting wind.
+FR: Une ligne tellurique exposée de magie de l’air. On peut s’y brancher en marchant dessus, frappant les 4 ennemis les plus éloignés d’un vent tranchant.
+
+EN: A gateway leading back to the Vestibule of Hell.
+FR: Un portail ramenant au Vestibule de l’Enfer.
+
+EN: A one-way portal to another place on this level. When using a transporter, adjacent allies and monsters will travel with you to the other side.
+FR: Un portail à sens unique vers un autre endroit de ce niveau. En utilisant un transporteur, les alliés et monstres adjacents voyagent avec vous de l’autre côté.
+
+EN: The destination site of a transporter. As the portal is one-way, you cannot use this location to return back through the transporter.
+FR: Le site de destination d’un transporteur. Le portail étant à sens unique, vous ne pouvez pas utiliser cet endroit pour revenir par le transporteur.
+
+EN: A closed wooden door. All monsters that can wield equipment, and some of them that can't, may open it again. If it is opened by a monster while it is aware of you, it has a chance of breaking.
+FR: Une porte de bois fermée. Tous les monstres qui peuvent manier de l’équipement, et certains qui ne le peuvent pas, peuvent la rouvrir. Si un monstre l’ouvre alors qu’il vous a repéré, elle a une chance de se briser.
+
+EN: A disappointingly poorly maintained wooden door. It'd take nothing short of magic to get this properly closed again.
+FR: Une porte de bois décevante, mal entretenue. Il faudrait rien de moins que de la magie pour la refermer correctement.
+
+EN: An open door made from magically translucent wood. If closed again, all monsters that can wield equipment, and some of them that can't, could open it again. If it is closed and reopened by a monster that is aware of you, it has a chance of breaking.
+FR: Une porte ouverte faite de bois magiquement translucide. Si elle est refermée, tous les monstres qui peuvent manier de l’équipement, et certains qui ne le peuvent pas, pourraient la rouvrir. Si elle est refermée et rouverte par un monstre qui vous a repéré, elle a une chance de se briser.
+
+EN: A closed door made from magically translucent wood. All monsters that can wield equipment, and some of them that can't, may open it again. If it is opened by a monster while it is aware of you, it has a chance of breaking.
+FR: Une porte fermée faite de bois magiquement translucide. Tous les monstres qui peuvent manier de l’équipement, et certains qui ne le peuvent pas, peuvent la rouvrir. Si un monstre l’ouvre alors qu’il vous a repéré, elle a une chance de se briser.
+
+EN: A door, covered in runic writing, made from magically translucent wood. It has been created to seal away great danger or glorious treasure. You may break the runes by opening it like any other door, but creatures of the dungeon will not dare to try.
+FR: Une porte couverte d’écritures runiques, faite de bois magiquement translucide. Elle a été créée pour sceller un grand danger ou un trésor glorieux. Vous pouvez briser les runes en l’ouvrant comme n’importe quelle porte, mais les créatures du donjon n’oseront pas essayer.
+
+EN: A magical trap crafted by some avaricious master wizard. When you or a hostile monster steps on it, you will lose a percentage of your mp, while up to three of the strongest hostile spellcasters in sight will have their spells empowered. Your allies will avoid stepping on it.
+FR: Un piège magique conçu par quelque maître magicien avare. Quand vous ou un monstre hostile marchez dessus, vous perdrez un pourcentage de vos PM, tandis que jusqu’à trois des lanceurs de sorts hostiles les plus puissants en vue verront leurs sorts renforcés. Vos alliés éviteront d’y marcher.
+
+EN: A magical trap linked by divine cruelty to the stomachs of some unfathomable interdimensional predators. When you or a hostile monster steps on it, it has a high chance it will expel digestive acid onto you, corroding you. Your allies will avoid stepping on it.
+FR: Un piège magique relié par une cruauté divine aux estomacs de quelques insondables prédateurs interdimensionnels. Quand vous ou un monstre hostile marchez dessus, il a de fortes chances de projeter de l’acide digestif sur vous, vous corrodant. Vos alliés éviteront d’y marcher.
+
+EN: Anyone stepping on this trap will translocate themselves and anyone else in view to a new location nearby. Hostile monsters may trigger this trap, but your allies will avoid stepping on it. After triggering, it cannot be triggered again for several turns.
+FR: Quiconque marche sur ce piège se translocalisera lui-même, ainsi que toute autre personne en vue, vers un nouvel endroit proche. Les monstres hostiles peuvent déclencher ce piège, mais vos alliés éviteront d’y marcher. Après déclenchement, il ne peut être redéclenché avant plusieurs tours.
+
+EN: A magical trap left behind by the ineffable, spectacular revues of chaos. When you or a hostile monster steps on it, up to three of the strongest monsters in sight will have their attacks temporarily interwoven with a touch of chaos. Your allies will avoid stepping on it.
+FR: Un piège magique laissé par les revues ineffables et spectaculaires du chaos. Quand vous ou un monstre hostile marchez dessus, jusqu’à trois des monstres les plus puissants en vue verront leurs attaques temporairement entrelacées d’une touche de chaos. Vos alliés éviteront d’y marcher.
+
+EN: A patch of ground covered in sharp frozen spines. It deals a small amount of damage to any non-flying creature that steps onto it (other than its creator) and then crumbles away. Its damage is partially reduced by rC.
+FR: Une plaque de sol couverte de piquants gelés acérés. Elle inflige de petits dégâts à toute créature non volante qui y marche (sauf son créateur), puis s’effrite. Ses dégâts sont partiellement réduits par rC.
+
+EN: A magical trap which will displace anyone passing over it to a random place on the same dungeon level.
+FR: Un piège magique qui déplace quiconque passe dessus vers un endroit aléatoire du même niveau du donjon.
+
+EN: A trigger of some sort. You cannot tell what kind of trap it is attached to. Its complicated detection system will trigger the trap even when someone flies over it.
+FR: Une sorte de déclencheur. Vous ne pouvez pas dire à quel type de piège il est relié. Son système de détection complexe déclenchera le piège même quand quelqu’un vole au-dessus.
+
+EN: A magical contraption which skewers nearby monsters with sharp spikes. It will disintegrate after a short length of time or if the caster strays too far away from it.
+FR: Un engin magique qui embroche les monstres proches avec des piques acérées. Il se désintégrera après un court laps de temps ou si le lanceur s’éloigne trop de lui.
+
+EN: A magical trap built to bolster the armies of some conquering despot. When you or a hostile monster steps on it, your melee attacks will be weakened to make up to three of the most dangerous monsters in sight become stronger. Your allies will avoid stepping on it.
+FR: Un piège magique construit pour renforcer les armées de quelque despote conquérant. Quand vous ou un monstre hostile marchez dessus, vos attaques de mêlée seront affaiblies pour que jusqu’à trois des monstres les plus dangereux en vue deviennent plus forts. Vos alliés éviteront d’y marcher.
+
+EN: A portal leading to one of many Necropolis repositories, where the freshly slain and deeply resentful are sealed away. This wandering rift will eventually move elsewhere to receive further dead.
+FR: Un portail menant à l’un des nombreux dépôts de la Nécropole, où les fraîchement tués et profondément rancuniers sont scellés. Cette brèche errante finira par se déplacer ailleurs pour recevoir d’autres morts.
+
+EN: A portal leading to a glacial chasm, far more dangerous than the icy caverns found in the shallower reaches of the Dungeon. The archway is gradually melting away.
+FR: Un portail menant à un gouffre glaciaire, bien plus dangereux que les cavernes glacées des niveaux moins profonds du Donjon. L’arche fond peu à peu.
+
+EN: A portal leading to a treasure trove. This portal is unstable and will collapse after a single use.
+FR: Un portail menant à un trésor. Ce portail est instable et s’effondrera après un seul usage.
+
+EN: A salt-encrusted arch, covered with carved entreaties to the good gods to contain the evils sealed therein. Whatever protections this arch once offered have finally succumbed to the ravages of time, and a bitter breeze pours forth from the distant land beyond.
+FR: Une arche incrustée de sel, couverte de supplications gravées aux bons dieux pour contenir les maux qui y sont scellés. Les protections que cette arche offrait jadis ont fini par succomber aux ravages du temps, et une brise amère s’en échappe depuis la terre lointaine au-delà.
+
+EN: A passage leading to a gutter gulch, gradually rusting away. Entering it will inflict three temporary mutations upon you, or decompose you if you're undead.
+FR: Un passage menant à un ravin d’égout, qui rouille peu à peu. Y entrer vous infligera trois mutations temporaires, ou vous décomposera si vous êtes mort-vivant.
+
+EN: A portal leading back to the place you came from. Its magic is holding the ice at bay, preventing it from blocking the gate. You will be unable to return here once you pass through it.
+FR: Un portail ramenant à l’endroit d’où vous venez. Sa magie retient la glace, l’empêchant de bloquer le portail. Vous ne pourrez pas revenir ici une fois passé.
+
+EN: The floor. It is rough and uneven in places.
+FR: Le sol. Il est rugueux et irrégulier par endroits.
+
+EN: It seems to be oozing quietly. Best not to touch it.
+FR: Il semble suinter doucement. Mieux vaut ne pas y toucher.
+
+EN: A wall made from orange crystal. It has a mind-boggling sheen.
+FR: Un mur fait de cristal orange. Il a un éclat à couper le souffle.
+
+EN: A base type statue for other statue flavours. If you see this, file a bug report.
+FR: Un type de statue de base pour d’autres variantes de statues. Si vous voyez ceci, signalez un bogue.
+
+EN: A base floor type for various decorations one can walk over. If you see this, file a bug report.
+FR: Un type de sol de base pour diverses décorations que l’on peut franchir. Si vous voyez ceci, signalez un bogue.
+
+EN: Walls of brass and nickel, covered in a thin golden foil steadily peeling away in the constant, oppressive heat. Designs depict mortals dealing with devils, but the former rarely seem to come out ahead on the exchange.
+FR: Des murs de laiton et de nickel, couverts d’une fine feuille d’or qui se décolle constamment sous la chaleur oppressante. Des motifs représentent des mortels traitant avec des diables, mais les premiers semblent rarement sortir gagnants de l’échange.
+
+EN: A stone wall coated in a thick layer of ice. Twisted faces glower beneath the surface, locked in perpetual grimaces of rage and betrayal.
+FR: Un mur de pierre recouvert d’une épaisse couche de glace. Des visages tordus fixent d’un regard noir sous la surface, figés dans des grimaces perpétuelles de rage et de trahison.
+
+EN: Earth locked within perpetual frost and cold. It seems ageless and changeless, as though it has existed in this state for an eternity.
+FR: Une terre prisonnière d’un gel et d’un froid perpétuels. Elle semble sans âge et immuable, comme si elle existait dans cet état depuis l’éternité.
+
+EN: A strange but benign metal construct, analysing raw ambient magical energy. If destroyed and disrupted by sufficiently mighty magic, its malevolent cursed energy will harmlessly disperse.
+FR: Une étrange construction de métal, mais bénigne, qui analyse l’énergie magique ambiante brute. Si elle est détruite et perturbée par une magie suffisamment puissante, son énergie maudite et malveillante se dissipera sans danger.
+
+EN: A strange but benign metal construct, analysing raw ambient magical energy. If destroyed and disrupted by sufficiently mighty magic, its extraplanar warp energy will harmlessly disperse.
+FR: Une étrange construction de métal, mais bénigne, qui analyse l’énergie magique ambiante brute. Si elle est détruite et perturbée par une magie suffisamment puissante, son énergie de distorsion extraplanaire se dissipera sans danger.
+
+EN: A strange but benign metal construct, analysing raw ambient magical energy. If destroyed and disrupted by sufficiently mighty magic, its negative energy will harmlessly disperse.
+FR: Une étrange construction de métal, mais bénigne, qui analyse l’énergie magique ambiante brute. Si elle est détruite et perturbée par une magie suffisamment puissante, son énergie négative se dissipera sans danger.
+
+EN: A strange but benign metal construct, analysing raw ambient magical energy. If destroyed and disrupted by sufficiently mighty magic, its venomous churning energy will harmlessly disperse.
+FR: Une étrange construction de métal, mais bénigne, qui analyse l’énergie magique ambiante brute. Si elle est détruite et perturbée par une magie suffisamment puissante, son énergie venimeuse et bouillonnante se dissipera sans danger.
+
+EN: A strange but benign metal construct, analysing raw ambient magical energy. If destroyed and disrupted by sufficiently mighty magic, its ever-burning energy will harmlessly disperse.
+FR: Une étrange construction de métal, mais bénigne, qui analyse l’énergie magique ambiante brute. Si elle est détruite et perturbée par une magie suffisamment puissante, son énergie éternellement ardente se dissipera sans danger.
+
+EN: A strange but benign metal construct, analysing raw ambient magical energy. If destroyed and disrupted by sufficiently mighty magic, its chilling cold energy will harmlessly disperse.
+FR: Une étrange construction de métal, mais bénigne, qui analyse l’énergie magique ambiante brute. Si elle est détruite et perturbée par une magie suffisamment puissante, son énergie de froid glaçant se dissipera sans danger.
+
+EN: A strange but benign metal construct, analysing raw ambient magical energy. If destroyed and disrupted by sufficiently mighty magic, its seismic energy will harmlessly disperse.
+FR: Une étrange construction de métal, mais bénigne, qui analyse l’énergie magique ambiante brute. Si elle est détruite et perturbée par une magie suffisamment puissante, son énergie sismique se dissipera sans danger.
+
+EN: A strange but benign metal construct, analysing raw ambient magical energy. If destroyed and disrupted by sufficiently mighty magic, its crackling energy will harmlessly disperse.
+FR: Une étrange construction de métal, mais bénigne, qui analyse l’énergie magique ambiante brute. Si elle est détruite et perturbée par une magie suffisamment puissante, son énergie crépitante se dissipera sans danger.
+
+EN: A coruscating spark gap of twin electrodes of impenetrably advanced technology. These are used to forge and power thaumaturgical constructs, though despite the constant crackling, this one is used up and unable to do much more than harmlessly dance with the joy of creating life.
+FR: Un éclateur scintillant de deux électrodes d’une technologie d’une avance impénétrable. Elles servent à forger et alimenter des constructions thaumaturgiques ; malgré les crépitements constants, celle-ci est épuisée et ne peut guère faire plus que danser sans danger de la joie de créer la vie.
+
+EN: A small decorative plot of flowers penned in by cobblestone.
+FR: Une petite parcelle décorative de fleurs encadrée de pavés.
+
+EN: A bed of hardy wildflowers, thriving in this place despite everything.
+FR: Un parterre de fleurs sauvages robustes, prospérant en ce lieu malgré tout.
+
+EN: A mop and bucket, useful for keeping one's environs orderly and clean. Too bad you're here now.
+FR: Une serpillière et un seau, utiles pour garder son environnement net et propre. Dommage que vous soyez là maintenant.
+
+EN: A grooming brush laid to rest beside a pile of tangled, matted yak fur.
+FR: Une brosse de toilettage laissée à côté d’un tas de poils de yak emmêlés et feutrés.
+
+EN: A mix of various alcoholic drinks with worn-down labels. Unfortunately, the preservative magic sealing each bottle makes it impossible to sample from them without smashing their bottles open.
+FR: Un assortiment de spiritueux en bouteille aux étiquettes usées. Malheureusement, la magie de conservation qui scelle chaque bouteille rend impossible d’y goûter sans fracasser les bouteilles.
+
+EN: A drum ensemble whose rhythm serves as peaceful recreation here in the depths of the earth.
+FR: Un ensemble de djembés dont le rythme sert de paisible loisir ici dans les profondeurs de la terre.
+
+EN: A murky flag of dark conquest shimmering with vile energies, planted in the name of some grand despoiling crusade.
+FR: Un sombre étendard flottant de conquête ténébreuse, miroitant d’énergies viles, planté au nom de quelque grande croisade de dévastation.
+
+EN: Bones are a common sight in the Dungeon, but skulls left impaled in a shrike's manner on display send a more deliberate message to trespassers: the pike has room for one more skull, and whoever set it up is happy to help relieve its owner of theirs.
+FR: Les os sont un spectacle courant dans le Donjon, mais des crânes empalés exposés à la manière d’une pie-grièche envoient un message plus délibéré aux intrus : la pique a de la place pour un crâne de plus, et celui qui l’a dressée se fera un plaisir de soulager quelqu’un du sien.
+
+EN: A scattered mess of fragmented, crumbling garbage, caked in ashes and dirt.
+FR: Un fouillis épars de détritus fragmentés et en miettes, couverts de cendres et de saleté.
+
+EN: A delicate arrangement, smashed to pieces and consigned to slow starvation.
+FR: Un arrangement délicat, brisé en morceaux et condamné à mourir lentement de faim.
+
+EN: A strangely slime-free stone wall, with strange lights twinkling within its airy confines. Mystical runes are scattered across its surface, seemingly referring to a 'Royal Jelly'.
+FR: Un mur de pierre étrangement exempt de vase, avec d’étranges lumières scintillant dans ses confins aériens. Des runes mystiques sont éparpillées sur sa surface, semblant faire référence à une « Gelée royale ».
+
+EN: This area is wreathed by an umbra, improving your stealth if you are attuned to the shadows, and decreasing the accuracy of attacks by those unattuned to the shadows.
+FR: Cette zone est enveloppée d’une ombre, améliorant votre discrétion si vous êtes accordé aux ombres, et diminuant la précision des attaques de ceux qui ne le sont pas.
+
+EN: The ground here is liquefied, making movement slow and causing any attempts to attack in melee to sometimes fail.
+FR: Le sol ici est liquéfié, ralentissant le mouvement et faisant échouer parfois toute tentative d’attaque en mêlée.
+
+EN: This area is bathed in translocational energy, causing creatures to blink away from the originator of the energy with an increasing chance the closer they are to the caster.
+FR: Cette zone est baignée d’énergie de translocation, faisant clignoter les créatures loin de l’émetteur de l’énergie avec une chance croissante à mesure qu’elles sont proches du lanceur.
+
+EN: This tree has been temporarily enchanted to grant it some limited motility, allowing it to lash out out at any adjacent enemies of the creature who awoke it.
+FR: Cet arbre a été temporairement enchanté pour lui accorder une mobilité limitée, lui permettant de frapper tous les ennemis adjacents de la créature qui l’a éveillé.
+
+EN: It is susceptible to bolts of lightning and to sufficiently intense sources of fire. The resulting blaze can flare up, spreading to areas nearby and igniting other trees.
+FR: Il est sensible aux éclairs et aux sources de feu suffisamment intenses. L’incendie qui en résulte peut s’embraser, se propager aux zones proches et enflammer d’autres arbres.
+
+EN: It is susceptible to bolts of lightning and to sufficiently intense sources of fire. Mangroves do not burn as vigorously as normal trees, due to growing on swampy terrain, and leave behind shallow water after they smoulder.
+FR: Il est sensible aux éclairs et aux sources de feu suffisamment intenses. Les palétuviers ne brûlent pas aussi vigoureusement que les arbres normaux, car ils poussent en terrain marécageux, et laissent de l’eau peu profonde après avoir couvé.
+
+EN: It is susceptible to bolts of lightning and to sufficiently intense sources of fire. Burning this tree releases a cloud of pure chaos instead of flames.
+FR: Il est sensible aux éclairs et aux sources de feu suffisamment intenses. Brûler cet arbre libère un nuage de chaos pur au lieu de flammes.

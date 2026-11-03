@@ -1,0 +1,1148 @@
+EN: A demonic guardian rushes to your aid.
+FR: Un gardien démoniaque accourt à votre aide.
+
+EN: A fragile, slimy shroud covers you, deflecting attacks.
+FR: Une fine enveloppe visqueuse vous recouvre et dévie les attaques.
+
+EN: A frigid envelope surrounds you and freezes all who hurt you.
+FR: Une enveloppe glaciale vous entoure et gèle tous ceux qui vous blessent.
+
+EN: A meltable icy envelope protects you from harm. (AC +
+FR: Une enveloppe glacée et fondante vous protège des dégâts. (AC +
+
+EN: A meltable shield of frost defends you. (SH +
+FR: Un bouclier de givre fondant vous protège. (SH +
+
+EN: A powerful demonic guardian rushes to your aid.
+FR: Un puissant gardien démoniaque accourt à votre aide.
+
+EN: A shield forms around you when casting spells or using Invocations. (SH +7)
+FR: Un bouclier se forme autour de vous lorsque vous lancez des sorts ou utilisez des invocations. (SH +7)
+
+EN: A thick, meltable icy envelope protects you from harm. (AC +
+FR: Une épaisse enveloppe glacée et fondante vous protège des dégâts. (AC +
+
+EN: A weak demonic guardian rushes to your aid.
+FR: Un faible gardien démoniaque accourt à votre aide.
+
+EN: Armour fits poorly on your large pseudopods.
+FR: Les armures s'adaptent mal à vos gros pseudopodes.
+
+EN: Armour fits poorly on your massive pseudopods.
+FR: Les armures s'adaptent mal à vos énormes pseudopodes.
+
+EN: Armour fits poorly on your pseudopods.
+FR: Les armures s'adaptent mal à vos pseudopodes.
+
+EN: Armour fits poorly on your strangely shaped body.
+FR: Les armures s'adaptent mal à votre corps aux formes étranges.
+
+EN: It takes a long time for you to wield or remove held weapons.
+FR: Il vous faut beaucoup de temps pour manier ou retirer les armes que vous tenez.
+
+EN: One of your tentacles bears a large vicious spike.
+FR: L'un de vos tentacules porte une grosse pointe meurtrière.
+
+EN: One of your tentacles bears a nasty spike.
+FR: L'un de vos tentacules porte une vilaine pointe.
+
+EN: One of your tentacles bears a spike.
+FR: L'un de vos tentacules porte une pointe.
+
+EN: Potions are less effective at restoring your health.
+FR: Les potions restaurent moins efficacement votre santé.
+
+EN: Potions cannot restore your health.
+FR: Les potions ne peuvent pas restaurer votre santé.
+
+EN: Removed mutation
+FR: Mutation supprimée
+
+EN: Spells you cast and wands you use may paralyse nearby enemies.
+FR: Les sorts que vous lancez et les baguettes que vous utilisez peuvent paralyser les ennemis proches.
+
+EN: Spells you cast cost 1 less MP (to a minimum of 1).
+FR: Les sorts que vous lancez coûtent 1 MP de moins (minimum 1).
+
+EN: Spells you cast cost 2 less MP (to a minimum of 1).
+FR: Les sorts que vous lancez coûtent 2 MP de moins (minimum 1).
+
+EN: Spells you cast may paralyse adjacent enemies.
+FR: Les sorts que vous lancez peuvent paralyser les ennemis adjacents.
+
+EN: Spells you cast may paralyse nearby enemies.
+FR: Les sorts que vous lancez peuvent paralyser les ennemis proches.
+
+EN: When hurt, damage is shared between your health and your magic reserves.
+FR: Lorsque vous êtes blessé, les dégâts sont répartis entre vos points de vie et vos réserves de magie.
+
+EN: When low on magic, you restore magic in place of health.
+FR: Lorsque votre magie est faible, vous récupérez de la magie à la place de points de vie.
+
+EN: When seriously injured, your blood forms armour. (AC +
+FR: Lorsque vous êtes grièvement blessé, votre sang forme une armure. (AC +
+
+EN: When seriously injured, your blood forms thick armour. (AC +
+FR: Lorsque vous êtes grièvement blessé, votre sang forme une armure épaisse. (AC +
+
+EN: When seriously injured, your blood forms very thick armour. (AC +
+FR: Lorsque vous êtes grièvement blessé, votre sang forme une armure très épaisse. (AC +
+
+EN: When you translocate, a monster is sometimes pulled along with you.
+FR: Lorsque vous vous téléportez, un monstre est parfois entraîné avec vous.
+
+EN: Whenever you drink a healing potion, you attack all around you.
+FR: Chaque fois que vous buvez une potion de soin, vous attaquez tout autour de vous.
+
+EN: You absorb twice as much mutagenic energy from being contaminated.
+FR: Vous absorbez deux fois plus d'énergie mutagène lorsque vous êtes contaminé.
+
+EN: You are agile. (Dex +4, Str/Int -1)
+FR: Vous êtes agile. (Dex +4, Str/Int -1)
+
+EN: You are almost entirely resistant to further mutation and mutation removal.
+FR: Vous êtes presque totalement résistant aux mutations supplémentaires et à leur suppression.
+
+EN: You are almost immune to the effects of cold. (rC+++)
+FR: Vous êtes presque immunisé contre les effets du froid. (rC+++)
+
+EN: You are almost immune to the effects of heat. (rF+++)
+FR: Vous êtes presque immunisé contre les effets de la chaleur. (rF+++)
+
+EN: You are camouflaged when in or above water. (Stealth+)
+FR: Vous êtes camouflé lorsque vous êtes dans ou au-dessus de l'eau. (Stealth+)
+
+EN: You are clumsy. (Dex -3)
+FR: Vous êtes maladroit. (Dex -3)
+
+EN: You are cold resistant. (rC+)
+FR: Vous résistez au froid. (rC+)
+
+EN: You are cold-blooded and may be slowed by cold attacks.
+FR: Vous êtes à sang froid et les attaques de froid peuvent vous ralentir.
+
+EN: You are completely attuned to the shadows.
+FR: Vous êtes totalement lié aux ombres.
+
+EN: You are completely covered in icy blue scales. (AC +4, rC+)
+FR: Vous êtes entièrement couvert d'écailles bleu glacé. (AC +4, rC+)
+
+EN: You are completely covered in iridescent scales. (AC +6)
+FR: Vous êtes entièrement couvert d'écailles irisées. (AC +6)
+
+EN: You are completely covered in large bone plates. (SH +8)
+FR: Vous êtes entièrement couvert de grandes plaques osseuses. (SH +8)
+
+EN: You are completely covered in molten scales. (AC +4, rF+)
+FR: Vous êtes entièrement couvert d'écailles en fusion. (AC +4, rF+)
+
+EN: You are completely covered in razor-sharp scales. (AC +3, Slay +3)
+FR: Vous êtes entièrement couvert d'écailles tranchantes comme des rasoirs. (AC +3, Slay +3)
+
+EN: You are completely covered in rugged brown scales. (AC +3, +7% HP)
+FR: Vous êtes entièrement couvert d'écailles brunes robustes. (AC +3, +7% HP)
+
+EN: You are completely covered in sharp spines.
+FR: Vous êtes entièrement couvert d'épines acérées.
+
+EN: You are completely covered in slimy green scales. (AC +4, rPois)
+FR: Vous êtes entièrement couvert d'écailles vertes visqueuses. (AC +4, rPois)
+
+EN: You are completely covered in thin metallic scales. (AC +4, rElec)
+FR: Vous êtes entièrement couvert de fines écailles métalliques. (AC +4, rElec)
+
+EN: You are completely covered in yellow scales. (AC +4, rCorr)
+FR: Vous êtes entièrement couvert d'écailles jaunes. (AC +4, rCorr)
+
+EN: You are covered in fur. (AC +1)
+FR: Vous êtes couvert de fourrure. (AC +1)
+
+EN: You are covered in slimy tendrils that may disarm your opponents.
+FR: Vous êtes couvert de vrilles visqueuses qui peuvent désarmer vos adversaires.
+
+EN: You are covered in thick fur. (AC +2)
+FR: Vous êtes couvert d'une épaisse fourrure. (AC +2)
+
+EN: You are darkly shadowed, frequently releasing foul flame when damaged in melee.
+FR: Vous êtes profondément entouré d'ombres et libérez fréquemment des flammes immondes lorsque vous êtes blessé au corps à corps.
+
+EN: You are dopey. (Int -3)
+FR: Vous êtes benêt. (Int -3)
+
+EN: You are easily found by Zot.
+FR: Vous êtes facilement repérable par Zot.
+
+EN: You are empowered by your non-innate mutations. (+
+FR: Vos mutations non innées vous confèrent de la puissance. (+
+
+EN: You are extremely frail. (-30% HP)
+FR: Vous êtes extrêmement frêle. (-30% HP)
+
+EN: You are extremely inexperienced. (-3 XL)
+FR: Vous êtes extrêmement inexpérimenté. (-3 XL)
+
+EN: You are extremely robust. (+30% HP)
+FR: Vous êtes extrêmement robuste. (+30% HP)
+
+EN: You are extremely strong-willed. (Will+++)
+FR: Vous avez une volonté extrêmement forte. (Will+++)
+
+EN: You are extremely unskilled. (-3 Apt)
+FR: Vous manquez cruellement d'aptitude. (-3 Apt)
+
+EN: You are extremely vulnerable to cold. (rC---)
+FR: Vous êtes extrêmement vulnérable au froid. (rC---)
+
+EN: You are extremely vulnerable to heat. (rF---)
+FR: Vous êtes extrêmement vulnérable à la chaleur. (rF---)
+
+EN: You are extremely weak-willed. (Will---)
+FR: Votre volonté est extrêmement faible. (Will---)
+
+EN: You are faintly shadowed, very rarely releasing foul flame when damaged in melee.
+FR: Vous êtes légèrement entouré d'ombres et libérez très rarement des flammes immondes lorsque vous êtes blessé au corps à corps.
+
+EN: You are frail. (-10% HP)
+FR: Vous êtes frêle. (-10% HP)
+
+EN: You are hated by all.
+FR: Vous êtes haï de tous.
+
+EN: You are heat resistant. (rF+)
+FR: Vous résistez à la chaleur. (rF+)
+
+EN: You are highly strong-willed. (Will++)
+FR: Vous avez une très forte volonté. (Will++)
+
+EN: You are immune to clouds of flame.
+FR: Vous êtes immunisé contre les nuages de flammes.
+
+EN: You are immune to freezing clouds.
+FR: Vous êtes immunisé contre les nuages glacés.
+
+EN: You are immune to negative energy. (rN+++)
+FR: Vous êtes immunisé contre l'énergie négative. (rN+++)
+
+EN: You are immune to the effects of steam.
+FR: Vous êtes immunisé contre les effets de la vapeur.
+
+EN: You are immune to unholy pain and torment.
+FR: Vous êtes immunisé contre la douleur et les tourments impies.
+
+EN: You are in touch with the powers of death.
+FR: Vous êtes en contact avec les pouvoirs de la mort.
+
+EN: You are incapable of wielding weapons or throwing items.
+FR: Vous êtes incapable de manier des armes ou de lancer des objets.
+
+EN: You are inexperienced. (-2 XL)
+FR: Vous êtes inexpérimenté. (-2 XL)
+
+EN: You are missing a hand.
+FR: Il vous manque une main.
+
+EN: You are missing an eye, making it more difficult to aim.
+FR: Il vous manque un œil, ce qui rend la visée plus difficile.
+
+EN: You are mostly covered in icy blue scales. (AC +3)
+FR: Vous êtes en grande partie couvert d'écailles bleu glacé. (AC +3)
+
+EN: You are mostly covered in iridescent scales. (AC +4)
+FR: Vous êtes en grande partie couvert d'écailles irisées. (AC +4)
+
+EN: You are mostly covered in large bone plates. (SH +6)
+FR: Vous êtes en grande partie couvert de grandes plaques osseuses. (SH +6)
+
+EN: You are mostly covered in molten scales. (AC +3)
+FR: Vous êtes en grande partie couvert d'écailles en fusion. (AC +3)
+
+EN: You are mostly covered in razor-sharp scales. (AC +2, Slay +2)
+FR: Vous êtes en grande partie couvert d'écailles tranchantes comme des rasoirs. (AC +2, Slay +2)
+
+EN: You are mostly covered in rugged brown scales. (AC +2, +5% HP)
+FR: Vous êtes en grande partie couvert d'écailles brunes robustes. (AC +2, +5% HP)
+
+EN: You are mostly covered in sharp spines.
+FR: Vous êtes en grande partie couvert d'épines acérées.
+
+EN: You are mostly covered in slimy green scales. (AC +3)
+FR: Vous êtes en grande partie couvert d'écailles vertes visqueuses. (AC +3)
+
+EN: You are mostly covered in thin metallic scales. (AC +3)
+FR: Vous êtes en grande partie couvert de fines écailles métalliques. (AC +3)
+
+EN: You are mostly covered in yellow scales. (AC +3)
+FR: Vous êtes en grande partie couvert d'écailles jaunes. (AC +3)
+
+EN: You are occasionally teleported next to monsters.
+FR: Vous êtes parfois téléporté à côté de monstres.
+
+EN: You are often teleported next to monsters.
+FR: Vous êtes souvent téléporté à côté de monstres.
+
+EN: You are partially covered in icy blue scales. (AC +2)
+FR: Vous êtes partiellement couvert d'écailles bleu glacé. (AC +2)
+
+EN: You are partially covered in iridescent scales. (AC +2)
+FR: Vous êtes partiellement couvert d'écailles irisées. (AC +2)
+
+EN: You are partially covered in large bone plates. (SH +4)
+FR: Vous êtes partiellement couvert de grandes plaques osseuses. (SH +4)
+
+EN: You are partially covered in molten scales. (AC +2)
+FR: Vous êtes partiellement couvert d'écailles en fusion. (AC +2)
+
+EN: You are partially covered in razor-sharp scales. (AC +1, Slay +1)
+FR: Vous êtes partiellement couvert d'écailles tranchantes comme des rasoirs. (AC +1, Slay +1)
+
+EN: You are partially covered in rugged brown scales. (AC +1, +3% HP)
+FR: Vous êtes partiellement couvert d'écailles brunes robustes. (AC +1, +3% HP)
+
+EN: You are partially covered in sharp spines.
+FR: Vous êtes partiellement couvert d'épines acérées.
+
+EN: You are partially covered in slimy green scales. (AC +2)
+FR: Vous êtes partiellement couvert d'écailles vertes visqueuses. (AC +2)
+
+EN: You are partially covered in thin metallic scales. (AC +2)
+FR: Vous êtes partiellement couvert de fines écailles métalliques. (AC +2)
+
+EN: You are partially covered in yellow scales. (AC +2)
+FR: Vous êtes partiellement couvert d'écailles jaunes. (AC +2)
+
+EN: You are powered by pain.
+FR: Vous tirez votre puissance de la douleur.
+
+EN: You are quite resistant to negative energy. (rN++)
+FR: Vous résistez assez bien à l'énergie négative. (rN++)
+
+EN: You are resistant to acid. (rCorr)
+FR: Vous résistez à l'acide. (rCorr)
+
+EN: You are resistant to electric shocks. (rElec)
+FR: Vous résistez aux décharges électriques. (rElec)
+
+EN: You are resistant to poisons. (rPois)
+FR: Vous résistez aux poisons. (rPois)
+
+EN: You are resistant to unholy torment.
+FR: Vous résistez aux tourments impies.
+
+EN: You are robust. (+10% HP)
+FR: Vous êtes robuste. (+10% HP)
+
+EN: You are sensitive to extremes of temperature. (rF-, rC-)
+FR: Vous êtes sensible aux températures extrêmes. (rF-, rC-)
+
+EN: You are shadowed, sometimes releasing foul flame when damaged in melee.
+FR: Vous êtes entouré d'ombres et libérez parfois des flammes immondes lorsque vous êtes blessé au corps à corps.
+
+EN: You are significantly more attuned to the shadows.
+FR: Vous êtes nettement plus lié aux ombres.
+
+EN: You are slightly more attuned to the shadows.
+FR: Vous êtes légèrement plus lié aux ombres.
+
+EN: You are slightly weak-willed. (Will-)
+FR: Votre volonté est légèrement faible. (Will-)
+
+EN: You are somewhat inexperienced. (-1 XL)
+FR: Vous êtes quelque peu inexpérimenté. (-1 XL)
+
+EN: You are somewhat resistant to both further mutation and mutation removal.
+FR: Vous résistez quelque peu aux mutations supplémentaires ainsi qu'à leur suppression.
+
+EN: You are somewhat resistant to further mutation.
+FR: Vous résistez quelque peu aux mutations supplémentaires.
+
+EN: You are somewhat unskilled. (-1 Apt)
+FR: Vous manquez un peu d'aptitude. (-1 Apt)
+
+EN: You are strong. (Str +4, Int/Dex -1)
+FR: Vous êtes fort. (Str +4, Int/Dex -1)
+
+EN: You are strongly in touch with the powers of death.
+FR: Vous êtes profondément en contact avec les pouvoirs de la mort.
+
+EN: You are strong-willed. (Will+)
+FR: Vous avez une forte volonté. (Will+)
+
+EN: You are surrounded by a mild repulsion field. (EV +2)
+FR: Vous êtes entouré d'un léger champ de répulsion. (EV +2)
+
+EN: You are surrounded by a moderate repulsion field. (EV +3)
+FR: Vous êtes entouré d'un champ de répulsion modéré. (EV +3)
+
+EN: You are surrounded by a strong repulsion field. (EV +4, RMsl)
+FR: Vous êtes entouré d'un puissant champ de répulsion. (EV +4, RMsl)
+
+EN: You are surrounded by an aura of silence.
+FR: Vous êtes entouré d'une aura de silence.
+
+EN: You are unskilled. (-2 Apt)
+FR: Vous manquez d'aptitude. (-2 Apt)
+
+EN: You are very agile. (Dex +8, Str/Int -2)
+FR: Vous êtes très agile. (Dex +8, Str/Int -2)
+
+EN: You are very clumsy. (Dex -6)
+FR: Vous êtes très maladroit. (Dex -6)
+
+EN: You are very cold resistant. (rC++)
+FR: Vous résistez fortement au froid. (rC++)
+
+EN: You are very dopey. (Int -6)
+FR: Vous êtes très benêt. (Int -6)
+
+EN: You are very frail. (-20% HP)
+FR: Vous êtes très frêle. (-20% HP)
+
+EN: You are very heat resistant. (rF++)
+FR: Vous résistez fortement à la chaleur. (rF++)
+
+EN: You are very nimble when in or above water. (Stealth+, EV+, Speed+++)
+FR: Vous êtes très agile lorsque vous êtes dans ou au-dessus de l'eau. (Stealth+, EV+, Speed+++)
+
+EN: You are very robust. (+20% HP)
+FR: Vous êtes très robuste. (+20% HP)
+
+EN: You are very strong. (Str +8, Int/Dex -2)
+FR: Vous êtes très fort. (Str +8, Int/Dex -2)
+
+EN: You are very vulnerable to cold. (rC--)
+FR: Vous êtes très vulnérable au froid. (rC--)
+
+EN: You are very vulnerable to heat. (rF--)
+FR: Vous êtes très vulnérable à la chaleur. (rF--)
+
+EN: You are very weak. (Str -6)
+FR: Vous êtes très faible. (Str -6)
+
+EN: You are vulnerable to cold. (rC-)
+FR: Vous êtes vulnérable au froid. (rC-)
+
+EN: You are vulnerable to electric shocks. (rElec-)
+FR: Vous êtes vulnérable aux décharges électriques. (rElec-)
+
+EN: You are vulnerable to heat. (rF-)
+FR: Vous êtes vulnérable à la chaleur. (rF-)
+
+EN: You are weak. (Str -3)
+FR: Vous êtes faible. (Str -3)
+
+EN: You are weak-willed. (Will--)
+FR: Votre volonté est faible. (Will--)
+
+EN: You bear the Mark of Annihilation.
+FR: Vous portez la Marque de l'Anéantissement.
+
+EN: You bear the Mark of Atrocity.
+FR: Vous portez la Marque de l'Atrocité.
+
+EN: You bear the Mark of Carnage.
+FR: Vous portez la Marque du Carnage.
+
+EN: You bear the Mark of Execution.
+FR: Vous portez la Marque de l'Exécution.
+
+EN: You bear the Mark of Haemoclasm.
+FR: Vous portez la Marque de l'Hémoclasme.
+
+EN: You bear the Mark of the Celebrant.
+FR: Vous portez la Marque du Célébrant.
+
+EN: You bear the Mark of the Fanatic.
+FR: Vous portez la Marque du Fanatique.
+
+EN: You bear the Mark of the Legion.
+FR: Vous portez la Marque de la Légion.
+
+EN: You bear the Mark of the Tyrant.
+FR: Vous portez la Marque du Tyran.
+
+EN: You can enhance your damage-dealing spells by burning harvested memories.
+FR: Vous pouvez renforcer vos sorts infligeant des dégâts en brûlant les souvenirs récoltés.
+
+EN: You can equip up to 6 pieces of aux armour in any combination and unleash them.
+FR: Vous pouvez équiper jusqu'à 6 pièces d'armure auxiliaire, dans n'importe quelle combinaison, et les déchaîner.
+
+EN: You can equip up to 6 pieces of aux armour in any combination.
+FR: Vous pouvez équiper jusqu'à 6 pièces d'armure auxiliaire, dans n'importe quelle combinaison.
+
+EN: You can exhale a cloud of poison.
+FR: Vous pouvez exhaler un nuage de poison.
+
+EN: You can hop long distances, but move slowly.
+FR: Vous pouvez bondir sur de longues distances, mais vous vous déplacez lentement.
+
+EN: You can hop short distances, but move slowly.
+FR: Vous pouvez bondir sur de courtes distances, mais vous vous déplacez lentement.
+
+EN: You can hurl damnation.
+FR: Vous pouvez lancer la damnation.
+
+EN: You can magically evade attacks while moving or waiting.
+FR: Vous pouvez esquiver magiquement les attaques lorsque vous vous déplacez ou attendez.
+
+EN: You can regularly gain power from killing poisoned or drained foes.
+FR: Vous pouvez régulièrement gagner en puissance en tuant des ennemis empoisonnés ou drainés.
+
+EN: You can sometimes gain power from killing poisoned or drained foes.
+FR: Vous pouvez parfois gagner en puissance en tuant des ennemis empoisonnés ou drainés.
+
+EN: You can speak a Word of Chaos.
+FR: Vous pouvez prononcer un Mot du Chaos.
+
+EN: You can spit poison.
+FR: Vous pouvez cracher du poison.
+
+EN: You can use scrolls of enchantment on lesser artefacts.
+FR: Vous pouvez utiliser des parchemins d'enchantement sur des artefacts mineurs.
+
+EN: You can wield a second weapon in your off-hand.
+FR: Vous pouvez manier une seconde arme dans votre main secondaire.
+
+EN: You cannot be stealthy.
+FR: Vous ne pouvez pas être furtif.
+
+EN: You cannot drink.
+FR: Vous ne pouvez pas boire.
+
+EN: You cannot equip rings or amulets.
+FR: Vous ne pouvez pas équiper d'anneaux ni d'amulettes.
+
+EN: You cannot study or cast Air magic.
+FR: Vous ne pouvez pas étudier ni lancer de sorts d'Air.
+
+EN: You cannot study or cast Alchemy magic.
+FR: Vous ne pouvez pas étudier ni lancer de sorts d'Alchimie.
+
+EN: You cannot study or cast Conjurations magic.
+FR: Vous ne pouvez pas étudier ni lancer de sorts de Conjuration.
+
+EN: You cannot study or cast Earth magic.
+FR: Vous ne pouvez pas étudier ni lancer de sorts de Terre.
+
+EN: You cannot study or cast Fire magic.
+FR: Vous ne pouvez pas étudier ni lancer de sorts de Feu.
+
+EN: You cannot study or cast Forgecraft magic.
+FR: Vous ne pouvez pas étudier ni lancer de sorts de Forgecraft.
+
+EN: You cannot study or cast Hexes magic.
+FR: Vous ne pouvez pas étudier ni lancer de sorts de Maléfices.
+
+EN: You cannot study or cast Ice magic.
+FR: Vous ne pouvez pas étudier ni lancer de sorts de Glace.
+
+EN: You cannot study or cast Necromancy magic.
+FR: Vous ne pouvez pas étudier ni lancer de sorts de Nécromancie.
+
+EN: You cannot study or cast Summoning magic.
+FR: Vous ne pouvez pas étudier ni lancer de sorts d'Invocation.
+
+EN: You cannot study or cast Translocations magic.
+FR: Vous ne pouvez pas étudier ni lancer de sorts de Translocation.
+
+EN: You cannot study or use magical devices.
+FR: Vous ne pouvez pas étudier ni utiliser les objets magiques.
+
+EN: You cannot train Armour skill.
+FR: Vous ne pouvez pas entraîner la compétence Armure.
+
+EN: You cannot train Dodging skill.
+FR: Vous ne pouvez pas entraîner la compétence Esquive.
+
+EN: You cannot voluntarily change form.
+FR: Vous ne pouvez pas changer volontairement de forme.
+
+EN: You cannot wear armour.
+FR: Vous ne pouvez pas porter d'armure.
+
+EN: You cover ground extremely slowly.
+FR: Vous parcourez le terrain extrêmement lentement.
+
+EN: You cover ground slowly.
+FR: Vous parcourez le terrain lentement.
+
+EN: You cover ground very slowly.
+FR: Vous parcourez le terrain très lentement.
+
+EN: You discover more artefacts.
+FR: Vous découvrez davantage d'artefacts.
+
+EN: You discover slightly more artefacts.
+FR: Vous découvrez légèrement plus d'artefacts.
+
+EN: You do not regenerate when monsters are visible.
+FR: Vous ne régénérez pas lorsque des monstres sont visibles.
+
+EN: You do not regenerate.
+FR: Vous ne régénérez pas.
+
+EN: You draw destruction from the endless fires of Gehenna.
+FR: Vous puisez la destruction dans les feux éternels de la Géhenne.
+
+EN: You draw destruction from the frigid wastes of Cocytus.
+FR: Vous puisez la destruction dans les terres glacées de Cocytus.
+
+EN: You draw destruction from the ruthless spite of Dis.
+FR: Vous puisez la destruction dans la cruauté implacable de Dis.
+
+EN: You draw destruction from the wailing grief of Tartarus.
+FR: Vous puisez la destruction dans le deuil hurlant du Tartare.
+
+EN: You expend magic power (3 MP) to strengthen your wands.
+FR: Vous dépensez 3 MP pour renforcer vos baguettes.
+
+EN: You float through the air rather than walking.
+FR: Vous flottez dans les airs au lieu de marcher.
+
+EN: You frequently emit foul miasma when damaged in melee.
+FR: Vous émettez fréquemment un miasme immonde lorsque vous êtes blessé au corps à corps.
+
+EN: You frequently pull newly seen creatures towards you.
+FR: Vous attirez fréquemment vers vous les créatures nouvellement découvertes.
+
+EN: You frequently scream uncontrollably at those who injure you.
+FR: Vous hurlez fréquemment de façon incontrôlable sur ceux qui vous blessent.
+
+EN: You gain AC when you inflict magical misfortune on nearby enemies.
+FR: Vous gagnez de l'AC lorsque vous infligez un malheur magique aux ennemis proches.
+
+EN: You gain doubled healing and magic from potions.
+FR: Les potions vous rendent deux fois plus de santé et de magie.
+
+EN: You gain extra lives every three experience levels.
+FR: Vous gagnez des vies supplémentaires tous les trois niveaux d'expérience.
+
+EN: You have a beak for a mouth.
+FR: Vous avez un bec à la place de la bouche.
+
+EN: You have a considerably increased reservoir of magic. (+20% MP)
+FR: Votre réserve de magie est considérablement augmentée. (+20% MP)
+
+EN: You have a greatly increased reservoir of magic. (+30% MP)
+FR: Votre réserve de magie est fortement augmentée. (+30% MP)
+
+EN: You have a heavy armoured tail.
+FR: Vous avez une queue blindée et lourde.
+
+EN: You have a moderately thin skeletal structure. (Dex +4, Stealth++)
+FR: Vous avez une structure osseuse modérément fine. (Dex +4, Stealth++)
+
+EN: You have a pair of antennae on your head.
+FR: Vous avez une paire d'antennes sur la tête.
+
+EN: You have a pair of horns on your head.
+FR: Vous avez une paire de cornes sur la tête.
+
+EN: You have a pair of large antennae on your head. (SInv)
+FR: Vous avez une paire de grandes antennes sur la tête. (SInv)
+
+EN: You have a pair of large horns on your head.
+FR: Vous avez une paire de grandes cornes sur la tête.
+
+EN: You have a pair of small antennae on your head.
+FR: Vous avez une paire de petites antennes sur la tête.
+
+EN: You have a pair of small horns on your head.
+FR: Vous avez une paire de petites cornes sur la tête.
+
+EN: You have a sharp stinger which inflicts weakening toxins.
+FR: Vous avez un dard acéré qui inflige des toxines affaiblissantes.
+
+EN: You have a small jelly attached to you that may absorb projectiles.
+FR: Vous avez une petite gelée attachée à vous qui peut absorber les projectiles.
+
+EN: You have a small jelly attached to you that senses nearby items.
+FR: Vous avez une petite gelée attachée à vous qui détecte les objets proches.
+
+EN: You have a small tail.
+FR: Vous avez une petite queue.
+
+EN: You have a somewhat thin skeletal structure. (Dex +2, Stealth+)
+FR: Vous avez une structure osseuse quelque peu fine. (Dex +2, Stealth+)
+
+EN: You have a special connection with the divine. (Faith)
+FR: Vous avez un lien particulier avec le divin. (Faith)
+
+EN: You have a tail ending in a sharp stinger.
+FR: Vous avez une queue terminée par un dard acéré.
+
+EN: You have acidic saliva.
+FR: Vous avez une salive acide.
+
+EN: You have an absolutely massive brain. (Int +6, Wiz)
+FR: Vous avez un cerveau absolument gigantesque. (Int +6, Wiz)
+
+EN: You have an armoured tail.
+FR: Vous avez une queue blindée.
+
+EN: You have an extended range of vision and can be seen from far away.
+FR: Votre champ de vision est étendu et vous pouvez être vu de loin.
+
+EN: You have an extremely huge brain. (Int +4)
+FR: Vous avez un cerveau extrêmement volumineux. (Int +4)
+
+EN: You have an increased reservoir of magic. (+10% MP)
+FR: Votre réserve de magie est augmentée. (+10% MP)
+
+EN: You have an uncanny knack for detecting items.
+FR: Vous avez un don étrange pour détecter les objets.
+
+EN: You have an unnaturally thin skeletal structure. (Dex +6, Stealth+++)
+FR: Vous avez une structure osseuse anormalement fine. (Dex +6, Stealth+++)
+
+EN: You have an unusually large brain. (Int +2)
+FR: Vous avez un cerveau inhabituellement gros. (Int +2)
+
+EN: You have claws for feet.
+FR: Vous avez des griffes à la place des pieds.
+
+EN: You have claws for hands.
+FR: Vous avez des griffes à la place des mains.
+
+EN: You have exceptionally superior vitality. (+12 MHP)
+FR: Vous avez une vitalité exceptionnellement supérieure. (+12 MHP)
+
+EN: You have extremely sharp teeth.
+FR: Vous avez des dents extrêmement acérées.
+
+EN: You have extremely tough skin. (AC +3)
+FR: Vous avez une peau extrêmement résistante. (AC +3)
+
+EN: You have great hidden genetic potential.
+FR: Vous avez un grand potentiel génétique caché.
+
+EN: You have hidden genetic defects.
+FR: Vous avez des défauts génétiques cachés.
+
+EN: You have hidden genetic potential.
+FR: Vous avez un potentiel génétique caché.
+
+EN: You have hoof-like feet.
+FR: Vous avez des pieds semblables à des sabots.
+
+EN: You have hooves in place of feet.
+FR: Vous avez des sabots à la place des pieds.
+
+EN: You have large cloven feet.
+FR: Vous avez de grands pieds fourchus.
+
+EN: You have much superior vitality. (+8 MHP)
+FR: Vous avez une vitalité bien supérieure. (+8 MHP)
+
+EN: You have razor-sharp teeth.
+FR: Vous avez des dents acérées comme des rasoirs.
+
+EN: You have razor-sharp toenails.
+FR: Vous avez des ongles d'orteils acérés comme des rasoirs.
+
+EN: You have sharp fingernails.
+FR: Vous avez des ongles acérés.
+
+EN: You have sharp toenails.
+FR: Vous avez des ongles d'orteils acérés.
+
+EN: You have slow reflexes. (EV -10)
+FR: Vous avez des réflexes lents. (EV -10)
+
+EN: You have somewhat slow reflexes. (EV -5)
+FR: Vous avez des réflexes quelque peu lents. (EV -5)
+
+EN: You have superior vitality. (+4 MHP)
+FR: Vous avez une vitalité supérieure. (+4 MHP)
+
+EN: You have supernaturally acute vision. (SInv)
+FR: Vous avez une vision surnaturellement perçante. (SInv)
+
+EN: You have tentacles for arms and can constrict enemies.
+FR: Vous avez des tentacules à la place des bras et pouvez étreindre vos ennemis.
+
+EN: You have terrible hidden genetic defects.
+FR: Vous avez de terribles défauts génétiques cachés.
+
+EN: You have tough skin. (AC +1)
+FR: Vous avez une peau résistante. (AC +1)
+
+EN: You have very sharp fingernails.
+FR: Vous avez des ongles très acérés.
+
+EN: You have very sharp teeth.
+FR: Vous avez des dents très acérées.
+
+EN: You have very slow reflexes. (EV -15)
+FR: Vous avez des réflexes très lents. (EV -15)
+
+EN: You have very tough skin. (AC +2)
+FR: Vous avez une peau très résistante. (AC +2)
+
+EN: You heal very quickly.
+FR: Vous guérissez très rapidement.
+
+EN: You learn spells naturally, not from books.
+FR: Vous apprenez naturellement les sorts, et non dans des livres.
+
+EN: You may rarely emit foul miasma when damaged in melee.
+FR: Vous pouvez rarement émettre un miasme immonde lorsque vous êtes blessé au corps à corps.
+
+EN: You may spread the effect of potions you drink to nearby monsters.
+FR: Vous pouvez propager l'effet des potions que vous buvez aux monstres proches.
+
+EN: You move with supernatural speed. (Speed+)
+FR: Vous vous déplacez à une vitesse surnaturelle. (Speed+)
+
+EN: You move with supernatural speed. (Speed++)
+FR: Vous vous déplacez à une vitesse surnaturelle. (Speed++)
+
+EN: You move with supernatural speed. (Speed+++)
+FR: Vous vous déplacez à une vitesse surnaturelle. (Speed+++)
+
+EN: You occasionally shout uncontrollably at those who injure you.
+FR: Vous criez parfois de façon incontrôlable sur ceux qui vous blessent.
+
+EN: You passively map a large area around you.
+FR: Vous cartographiez passivement une vaste zone autour de vous.
+
+EN: You passively map the area around you.
+FR: Vous cartographiez passivement la zone autour de vous.
+
+EN: You perform a melee attack whenever you cast damage-dealing spells.
+FR: Vous effectuez une attaque au corps à corps chaque fois que vous lancez un sort infligeant des dégâts.
+
+EN: You possess an exceptional clarity of mind.
+FR: Vous possédez une clarté d'esprit exceptionnelle.
+
+EN: You punish those that try to bend your will. (Will+)
+FR: Vous punissez ceux qui tentent de plier votre volonté. (Will+)
+
+EN: You read scrolls incredibly loudly when enemies are in sight.
+FR: Vous lisez les parchemins incroyablement fort lorsque des ennemis sont en vue.
+
+EN: You recover more slowly from Doom and Banes.
+FR: Vous récupérez plus lentement de Doom et des Banes.
+
+EN: You reflexively headbutt those who attack you in melee.
+FR: Vous donnez par réflexe des coups de tête à ceux qui vous attaquent au corps à corps.
+
+EN: You refuse to drink potions in combat unless seriously injured.
+FR: Vous refusez de boire des potions au combat, sauf si vous êtes grièvement blessé.
+
+EN: You refuse to read scrolls in combat unless seriously injured.
+FR: Vous refusez de lire des parchemins au combat, sauf si vous êtes grièvement blessé.
+
+EN: You regain HP and MP as you explore.
+FR: Vous récupérez des HP et des MP en explorant.
+
+EN: You regenerate a little health from kills.
+FR: Vous régénérez un peu de santé en tuant.
+
+EN: You regenerate a lot of health from kills.
+FR: Vous régénérez beaucoup de santé en tuant.
+
+EN: You regenerate health from kills.
+FR: Vous régénérez de la santé en tuant.
+
+EN: You regenerate magic and health when rolling toward enemies. (Rampage Regen)
+FR: Vous régénérez de la magie et de la santé en roulant vers les ennemis. (Rampage Regen)
+
+EN: You regenerate magic rapidly.
+FR: Vous régénérez rapidement votre magie.
+
+EN: You regenerate magic when rolling toward enemies. (Rampage MPRegen)
+FR: Vous régénérez de la magie en roulant vers les ennemis. (Rampage MPRegen)
+
+EN: You regenerate.
+FR: Vous régénérez.
+
+EN: You resist negative energy. (rN+)
+FR: Vous résistez à l'énergie négative. (rN+)
+
+EN: You shall have no god before yourself.
+FR: Vous n'aurez aucun dieu devant vous-même.
+
+EN: You sometimes emit foul miasma when damaged in melee.
+FR: Vous émettez parfois un miasme immonde lorsque vous êtes blessé au corps à corps.
+
+EN: You sometimes gain a little power by taking damage.
+FR: Vous gagnez parfois un peu de puissance en subissant des dégâts.
+
+EN: You sometimes gain power by taking damage.
+FR: Vous gagnez parfois de la puissance en subissant des dégâts.
+
+EN: You sometimes pull newly seen creatures towards you.
+FR: Vous attirez parfois vers vous les créatures nouvellement découvertes.
+
+EN: You take considerably more damage. (AC -15)
+FR: Vous subissez beaucoup plus de dégâts. (AC -15)
+
+EN: You take more damage. (AC -10)
+FR: Vous subissez davantage de dégâts. (AC -10)
+
+EN: You take slightly more damage. (AC -5)
+FR: Vous subissez légèrement plus de dégâts. (AC -5)
+
+EN: You thrive by killing the living.
+FR: Vous prospérez en tuant les vivants.
+
+EN: Your attacks are a little less effective. (Slay -3)
+FR: Vos attaques sont un peu moins efficaces. (Slay -3)
+
+EN: Your attacks are less effective. (Slay -5)
+FR: Vos attaques sont moins efficaces. (Slay -5)
+
+EN: Your attacks are much less effective. (Slay -7)
+FR: Vos attaques sont beaucoup moins efficaces. (Slay -7)
+
+EN: Your bite disrupts and absorbs the magic of your enemies.
+FR: Votre morsure perturbe et absorbe la magie de vos ennemis.
+
+EN: Your blood hastes a few of your allies when you are sufficiently damaged.
+FR: Votre sang accélère quelques-uns de vos alliés lorsque vous êtes suffisamment blessé.
+
+EN: Your blood hastes several of your allies when you are sufficiently damaged.
+FR: Votre sang accélère plusieurs de vos alliés lorsque vous êtes suffisamment blessé.
+
+EN: Your body has grown eyes which may confuse attackers. (Acc +3)
+FR: Votre corps a développé des yeux qui peuvent désorienter les attaquants. (Acc +3)
+
+EN: Your body has grown many eyes which may confuse attackers. (Acc +5)
+FR: Votre corps a développé de nombreux yeux qui peuvent désorienter les attaquants. (Acc +5)
+
+EN: Your body is covered in eyes which may confuse attackers. (Acc +7, SInv)
+FR: Votre corps est couvert d'yeux qui peuvent désorienter les attaquants. (Acc +7, SInv)
+
+EN: Your body sometimes grows weak and slow upon taking damage.
+FR: Votre corps s'affaiblit et ralentit parfois lorsque vous subissez des dégâts.
+
+EN: Your body sometimes grows weak upon taking damage.
+FR: Votre corps s'affaiblit parfois lorsque vous subissez des dégâts.
+
+EN: Your casting is disrupted.
+FR: Votre incantation est perturbée.
+
+EN: Your casting is seriously disrupted.
+FR: Votre incantation est gravement perturbée.
+
+EN: Your casting is slightly disrupted.
+FR: Votre incantation est légèrement perturbée.
+
+EN: Your cowardice makes you less effective in combat with threatening foes.
+FR: Votre lâcheté vous rend moins efficace au combat contre les ennemis menaçants.
+
+EN: Your demonic aura causes all spilled blood to erupt in flames.
+FR: Votre aura démoniaque fait s'embraser tout le sang répandu.
+
+EN: Your demonic aura often causes spilled blood to erupt in flames.
+FR: Votre aura démoniaque fait souvent s'embraser le sang répandu.
+
+EN: Your demonic aura sometimes causes spilled blood to erupt in flames.
+FR: Votre aura démoniaque fait parfois s'embraser le sang répandu.
+
+EN: Your divine heritage dramatically boosts your attributes as you level up.
+FR: Votre héritage divin augmente considérablement vos attributs à mesure que vous gagnez des niveaux.
+
+EN: Your experience applies equally to all skills.
+FR: Votre expérience s'applique à toutes les compétences de manière égale.
+
+EN: Your first few attacks do less damage.
+FR: Vos premières attaques infligent moins de dégâts.
+
+EN: Your four strong arms can wield two-handed weapons with a shield.
+FR: Vos quatre bras puissants vous permettent de manier des armes à deux mains avec un bouclier.
+
+EN: Your gelatinous body deflects attacks. (AC +3, EV +3)
+FR: Votre corps gélatineux dévie les attaques. (AC +3, EV +3)
+
+EN: Your health recovers twice as slowly from being drained.
+FR: Votre santé récupère deux fois plus lentement après avoir été drainée.
+
+EN: Your hexes are more powerful.
+FR: Vos maléfices sont plus puissants.
+
+EN: Your large and strong wings let you fly.
+FR: Vos ailes grandes et puissantes vous permettent de voler.
+
+EN: Your lower body shifts to a powerful aquatic tail in water.
+FR: Dans l'eau, votre bas du corps se transforme en une puissante queue aquatique.
+
+EN: Your magical and physical power is enhanced at high health.
+FR: Votre puissance magique et physique est renforcée lorsque vous avez beaucoup de santé.
+
+EN: Your magical and physical power is greatly enhanced at high health.
+FR: Votre puissance magique et physique est grandement renforcée lorsque vous avez beaucoup de santé.
+
+EN: Your magical and physical power is slightly enhanced at high health.
+FR: Votre puissance magique et physique est légèrement renforcée lorsque vous avez beaucoup de santé.
+
+EN: Your magical capacity is extremely low. (-30% MP)
+FR: Votre capacité magique est extrêmement faible. (-30% MP)
+
+EN: Your magical capacity is low. (-10% MP)
+FR: Votre capacité magique est faible. (-10% MP)
+
+EN: Your magical capacity is very low. (-20% MP)
+FR: Votre capacité magique est très faible. (-20% MP)
+
+EN: Your magical flight helps you evade attacks. (EV +4)
+FR: Votre vol magique vous aide à esquiver les attaques. (EV +4)
+
+EN: Your magical power and effects resist disruption.
+FR: Votre puissance et vos effets magiques résistent aux perturbations.
+
+EN: Your magical power is your life essence.
+FR: Votre puissance magique est votre essence vitale.
+
+EN: Your melee attacks may debilitate your foes.
+FR: Vos attaques au corps à corps peuvent affaiblir vos ennemis.
+
+EN: Your melee attacks may flood your foes with ooze.
+FR: Vos attaques au corps à corps peuvent inonder vos ennemis de vase.
+
+EN: Your metabolism doubles the duration of potion status effects.
+FR: Votre métabolisme double la durée des effets de statut des potions.
+
+EN: Your mind is acute. (Int +4, Str/Dex -1)
+FR: Votre esprit est vif. (Int +4, Str/Dex -1)
+
+EN: Your mind is very acute. (Int +8, Str/Dex -2)
+FR: Votre esprit est très vif. (Int +8, Str/Dex -2)
+
+EN: Your movements are less encumbered by armour. (ER -4)
+FR: Vos mouvements sont moins gênés par l'armure. (ER -4)
+
+EN: Your movements are significantly less encumbered by armour. (ER -6)
+FR: Vos mouvements sont nettement moins gênés par l'armure. (ER -6)
+
+EN: Your movements are slightly less encumbered by armour. (ER -2)
+FR: Vos mouvements sont légèrement moins gênés par l'armure. (ER -2)
+
+EN: Your natural rate of healing is unusually fast.
+FR: Votre vitesse naturelle de guérison est inhabituellement élevée.
+
+EN: Your paws help you pounce on unaware monsters.
+FR: Vos pattes vous aident à bondir sur les monstres qui ne vous ont pas remarqué.
+
+EN: Your pliable body absorbs attacks. (AC +2, EV +2)
+FR: Votre corps souple absorbe les attaques. (AC +2, EV +2)
+
+EN: Your presence sometimes corrodes or deforms those you injure.
+FR: Votre présence corrode ou déforme parfois ceux que vous blessez.
+
+EN: Your presence sometimes corrodes those you injure.
+FR: Votre présence corrode parfois ceux que vous blessez.
+
+EN: Your rubbery body absorbs attacks. (AC +1, EV +1)
+FR: Votre corps caoutchouteux absorbe les attaques. (AC +1, EV +1)
+
+EN: Your scales are fused with iron. (AC + 5)
+FR: Vos écailles sont fusionnées avec du fer. (AC + 5)
+
+EN: Your SH is halved, but you deal more damage with two-handed weapons.
+FR: Votre SH est divisé par deux, mais vous infligez plus de dégâts avec les armes à deux mains.
+
+EN: Your shed blood may rise up to attack you as a group.
+FR: Votre sang répandu peut se relever pour vous attaquer en groupe.
+
+EN: Your shed blood may rise up to attack you.
+FR: Votre sang répandu peut se relever pour vous attaquer.
+
+EN: Your skin blends seamlessly with your surroundings (Stealth++).
+FR: Votre peau se fond parfaitement dans votre environnement (Stealth++).
+
+EN: Your skin changes colour to match your surroundings (Stealth+).
+FR: Votre peau change de couleur pour se fondre dans votre environnement (Stealth+).
+
+EN: Your skin perfectly mimics your surroundings (Stealth+++).
+FR: Votre peau imite parfaitement votre environnement (Stealth+++).
+
+EN: Your snake-like lower body moves slowly, but can constrict enemies.
+FR: Votre bas du corps serpentin se déplace lentement, mais peut étreindre vos ennemis.
+
+EN: Your snake-like lower body moves slowly.
+FR: Votre bas du corps serpentin se déplace lentement.
+
+EN: Your spellcasting is much less encumbered by armour.
+FR: Votre lancement de sorts est beaucoup moins gêné par l'armure.
+
+EN: Your spells are a little easier to cast, but a little less powerful.
+FR: Vos sorts sont un peu plus faciles à lancer, mais un peu moins puissants.
+
+EN: Your spells are a little harder to cast, but a little more powerful.
+FR: Vos sorts sont un peu plus difficiles à lancer, mais un peu plus puissants.
+
+EN: Your spells are easier to cast, but less powerful.
+FR: Vos sorts sont plus faciles à lancer, mais moins puissants.
+
+EN: Your spells are harder to cast, but more powerful.
+FR: Vos sorts sont plus difficiles à lancer, mais plus puissants.
+
+EN: Your spells are much easier to cast, but much less powerful.
+FR: Vos sorts sont beaucoup plus faciles à lancer, mais beaucoup moins puissants.
+
+EN: Your spells are much harder to cast, but much more powerful.
+FR: Vos sorts sont beaucoup plus difficiles à lancer, mais beaucoup plus puissants.
+
+EN: Your stone body is resiliant and immune to petrification. (AC +
+FR: Votre corps de pierre est résistant et immunisé contre la pétrification. (AC +
+
+EN: Your tail ends in a sharp venomous barb.
+FR: Votre queue se termine par un aiguillon venimeux et tranchant.
+
+EN: Your tail ends in a venomous barb.
+FR: Votre queue se termine par un aiguillon venimeux.
+
+EN: Your tail ends in a wickedly sharp and venomous barb.
+FR: Votre queue se termine par un aiguillon extrêmement tranchant et venimeux.
+
+EN: Your thick and shaggy fur keeps you warm. (AC +3, rC+)
+FR: Votre fourrure épaisse et hirsute vous garde au chaud. (AC +3, rC+)
+
+EN: Your touch may inflict irresistible damage on your foes.
+FR: Votre contact peut infliger des dégâts irrésistibles à vos ennemis.
+
+EN: Your touch may inflict minor irresistible damage on your foes.
+FR: Votre contact peut infliger des dégâts mineurs et irrésistibles à vos ennemis.
+
+EN: Your touch may irresistibly damage your foes and sap their willpower.
+FR: Votre contact peut infliger des dégâts irrésistibles à vos ennemis et saper leur volonté.
+
+EN: Your translucent skin reduces your foes' accuracy. (Stealth+)
+FR: Votre peau translucide réduit la précision de vos ennemis. (Stealth+)
+
+EN: Your translucent skin slightly reduces your foes' accuracy. (Stealth+)
+FR: Votre peau translucide réduit légèrement la précision de vos ennemis. (Stealth+)
+
+EN: Your transparent skin significantly reduces your foes' accuracy. (Stealth+)
+FR: Votre peau transparente réduit considérablement la précision de vos ennemis. (Stealth+)
+
+EN: Spit poison (level 1/2)
+FR: Crachat de poison (niveau 1/2)
+
+EN: You can spit poison with 
+FR: Vous pouvez cracher du poison avec 
+
+EN: . The second level of this mutation intensifies the poison from a single glob into a large cloud.
+FR: . Le deuxième niveau de cette mutation intensifie le poison d'un simple projectile à un grand nuage.
+
+EN: Category: 
+FR: Catégorie : 
+
+EN: Your serpentine skin is tough. (AC +0)
+FR: Votre peau serpentine est résistante. (AC +0)
+
+EN: Your tail will grow strong enough to constrict your foes.
+FR: Votre queue deviendra assez puissante pour étreindre vos ennemis.
+
+EN: Innate Abilities, Weirdness & Mutations
+FR: Aptitudes innées, étrangetés et mutations
+
+EN: Gained at a future XL.
+FR: Obtenue à un niveau d’expérience ultérieur.
+
+EN: Your plain brown scales are hard. (AC +4)
+FR: Vos écailles brunes sont dures. (AC +4)
+
+EN: You cannot fit into any form of body armour or wear helmets.
+FR: Vous ne pouvez porter aucune armure corporelle ni aucun casque.

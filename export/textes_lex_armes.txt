@@ -1,0 +1,212 @@
+EN: A blessed trident moulded by cleansing flame, with three points symbolising the combined might of the three holy gods. It is a favoured weapon of the Shining One's servants.
+FR: Un trident béni, façonné par une flamme purificatrice, dont les trois pointes symbolisent la puissance combinée des trois dieux saints. C’est une arme de prédilection des serviteurs de L’Étincelant.
+
+EN: A blessed weapon, woven by the saints in Heaven and hated by the unholy. It is a favoured weapon of the Shining One's servants.
+FR: Une arme bénie, tissée par les saints du Paradis et haïe des impies. C’est une arme de prédilection des serviteurs de L’Étincelant.
+
+EN: A blunt striking weapon, essentially equivalent to a mace.
+FR: Une arme contondante, essentiellement équivalente à une masse.
+
+EN: A cloth cloak.
+FR: Une cape de tissu.
+
+EN: A cloth hat.
+FR: Un chapeau de tissu.
+
+EN: A crossbow with three strings arranged in series to provide exceptional power, initially designed as a siege weapon and then scaled down. It takes a considerable amount of time to load and fire.
+FR: Une arbalète à trois cordes disposées en série pour offrir une puissance exceptionnelle, conçue à l’origine comme arme de siège puis réduite. Elle prend un temps considérable à charger et à tirer.
+
+EN: A curved piece of wood and string, for shooting arrows.
+FR: Un morceau de bois courbé et une corde, pour tirer des flèches.
+
+EN: A curved, flat, throwing baton designed to return to its user.
+FR: Un bâton de jet plat et courbe, conçu pour revenir vers son lanceur.
+
+EN: A dagger with an uncanny enchantment upon it, allowing it to strike twice for every blow its wielder makes. It takes great skill to use to its full potential.
+FR: Une dague dotée d’un enchantement étrange, qui lui permet de frapper deux fois pour chaque coup de son porteur. Il faut une grande maîtrise pour l’utiliser pleinement.
+
+EN: A farm implement, usually only used by untrained mobs in combat. In practice, it's quite similar to a halberd.
+FR: Un outil agricole, généralement utilisé au combat seulement par des foules sans entraînement. En pratique, elle est très proche d’une hallebarde.
+
+EN: A fearsome weapon covered in dried blood and crude engravings of torture and death, bearing an enormous axehead.
+FR: Une arme redoutable couverte de sang séché et de gravures grossières de torture et de mort, dotée d’une énorme tête de hache.
+
+EN: A fearsome weapon with a forked, razor-sharp blade.
+FR: Une arme redoutable à la lame fourchue et tranchante comme un rasoir.
+
+EN: A fishing spear improved with a longer shaft and a three-pronged metal head.
+FR: Une lance de pêche améliorée, avec un manche plus long et un fer à trois pointes.
+
+EN: A flail with long spikes and a heavy head.
+FR: Un fléau aux longues pointes et à la lourde tête.
+
+EN: A formidable weapon created by a master craftsman. The blade of the sword forks into three great razor-sharp edges.
+FR: Une arme formidable créée par un maître artisan. La lame de l’épée se divise en trois grands tranchants acérés comme des rasoirs.
+
+EN: A full suit of solid metal plate: cuirass, pauldrons, vambraces, waist plate and greaves. It provides excellent protection.
+FR: Une armure complète de plaques de métal massif : cuirasse, épaulières, brassards, ceinture et jambières. Elle offre une excellente protection.
+
+EN: A giant lump of wood with sharp spikes at one end.
+FR: Un énorme morceau de bois muni de pointes acérées à une extrémité.
+
+EN: A giant lump of wood.
+FR: Un énorme morceau de bois.
+
+EN: A heavy piece of wood. While clubs are rather primitive weapons, bashing someone's skull in with one remains a very popular and effective means of dispute resolution.
+FR: Un lourd morceau de bois. Si les gourdins sont des armes plutôt primitives, fracasser le crâne de quelqu’un avec l’un d’eux reste un moyen très populaire et efficace de régler un différend.
+
+EN: A hunting weapon consisting of a wooden shaft with a pointed metal head fastened on one end.
+FR: Une arme de chasse composée d’un manche de bois et d’un fer pointu fixé à une extrémité.
+
+EN: A large piece of machinery used for firing bolts, braced with steel and cranked with a windlass. It takes some time to load and fire.
+FR: Une grosse machine servant à tirer des carreaux, renforcée d’acier et armée à l’aide d’un treuil. Elle prend du temps à charger et à tirer.
+
+EN: A large piece of thick skin covered in fur, cut from the corpse of an animal and worn as a primitive garment. It offers rudimentary protection against harm, but, having never been tanned, it carries a light stench of rotting flesh.
+FR: Un grand morceau de peau épaisse couverte de fourrure, découpé sur le cadavre d’un animal et porté comme vêtement primitif. Elle offre une protection rudimentaire, mais, n’ayant jamais été tannée, elle dégage une légère puanteur de chair en décomposition.
+
+EN: A large piece of wood and metal, to be strapped on one arm for defence.
+FR: Un grand morceau de bois et de métal, à attacher sur un bras pour se défendre.
+
+EN: A large war axe with a formidable double-sided head.
+FR: Une grande hache de guerre à la formidable tête à double tranchant.
+
+EN: A leather suit covered with metal plates attached to each other in overlapping rows to provide full protection, but at the cost of reduced freedom of movement.
+FR: Une tenue de cuir couverte de plaques de métal fixées entre elles en rangées qui se chevauchent, pour offrir une protection complète, mais au prix d’une moindre liberté de mouvement.
+
+EN: A length of stylish fabric. At its creation, enchantments were woven into it, and as such it cannot accept further enchantment.
+FR: Une longueur de tissu élégant. À sa création, des enchantements y ont été tissés, et il ne peut donc plus recevoir d’enchantement supplémentaire.
+
+EN: A lightweight penetrating spear, designed for throwing.
+FR: Une lance légère et perforante, conçue pour être lancée.
+
+EN: A long plaited strip of leather. Originally developed for use in disagreements with cattle, this simple weapon is now widely used to settle differences between all sorts of creatures.
+FR: Une longue lanière de cuir tressé. Développé à l’origine pour régler des désaccords avec le bétail, ce simple instrument est aujourd’hui largement utilisé pour régler les différends entre toutes sortes de créatures.
+
+EN: A long pole with an enormous, cleaving blade on one end.
+FR: Une longue perche dotée à une extrémité d’une énorme lame fendante.
+
+EN: A long polearm with sharp protrusions on either side of the spearhead.
+FR: Une longue arme d’hast aux saillies acérées de chaque côté du fer de lance.
+
+EN: A long single-edged sword with a slightly curved blade.
+FR: Une longue épée à un seul tranchant, à la lame légèrement courbe.
+
+EN: A long sword with a wide, curved blade.
+FR: Une épée longue à la large lame courbe.
+
+EN: A long, strong bow made of yew.
+FR: Un long arc solide en bois d’if.
+
+EN: A mace with a head covered in short spikes.
+FR: Une masse dont la tête est couverte de courtes pointes.
+
+EN: A mace with a short chain connecting the head to the haft.
+FR: Une masse dont la tête est reliée au manche par une courte chaîne.
+
+EN: A machine that fires metal slugs via applied thaumaturgy. Some enchant their projectiles to fall forward instead of down, others bewitch the slugs with a fatal attraction to their targets. All are slow, loud, and blast out thick smoke with each shot.
+FR: Une machine qui tire des balles de métal grâce à la thaumaturgie. Certains enchantent leurs projectiles pour qu’ils tombent vers l’avant plutôt que vers le bas, d’autres ensorcellent les balles d’une attirance fatale pour leurs cibles. Toutes sont lentes, bruyantes et crachent une épaisse fumée à chaque tir.
+
+EN: A mesh of ropes knotted together with weights around the edge, used to entangle and entrap targets. Struggling victims can eventually destroy the net and break free, if they live long enough.
+FR: Un filet de cordes nouées, lesté sur les bords, utilisé pour entraver et piéger les cibles. Les victimes qui se débattent peuvent finir par détruire le filet et se libérer, si elles vivent assez longtemps.
+
+EN: A pair of boots. They are worn on the feet, and cover all but the largest hooves and talons.
+FR: Une paire de bottes. On les porte aux pieds, et elles couvrent tout sauf les plus grands sabots et serres.
+
+EN: A pair of gloves. They are worn on the hands, and cover all but the largest claws.
+FR: Une paire de gants. On les porte aux mains, et ils couvrent tout sauf les plus grandes griffes.
+
+EN: A piece of cloth and leather for launching stones, adequate for hunting small game like rabbits or goblins.
+FR: Un morceau de tissu et de cuir pour lancer des pierres, suffisant pour chasser du petit gibier comme les lapins ou les gobelins.
+
+EN: A piece of metal headgear.
+FR: Un couvre-chef de métal.
+
+EN: A piece of wood and metal, to be strapped on one arm for defence.
+FR: Un morceau de bois et de métal, à attacher sur un bras pour se défendre.
+
+EN: A pole with a large, heavy blade on one end.
+FR: Une perche dotée à une extrémité d’une grande et lourde lame.
+
+EN: A polearm consisting of an axe blade topped with a spike, mounted on a long shaft.
+FR: Une arme d’hast composée d’une lame de hache surmontée d’une pointe, montée sur un long manche.
+
+EN: A recurved bow, crudely crafted from troll-bone and warg hair. The cave orcs' use of archery, so unlike their surface-dwelling ancestors, shows the influence of their elvish allies.
+FR: Un arc recourbé, grossièrement fabriqué avec des os de troll et des poils de warg. L’usage du tir à l’arc par les orcs des cavernes, si différent de leurs ancêtres de la surface, montre l’influence de leurs alliés elfes.
+
+EN: A sacred blade from the forges of Heaven, inhabited by a good spirit. It is a favoured weapon of the Shining One's servants.
+FR: Une lame sacrée sortie des forges du Paradis, habitée par un bon esprit. C’est une arme de prédilection des serviteurs de L’Étincelant.
+
+EN: A short club with a metal head.
+FR: Un gourdin court à la tête de métal.
+
+EN: A slender, sharply pointed sword, with an uncommonly elegant design.
+FR: Une épée fine et très pointue, au dessin d’une élégance peu commune.
+
+EN: A small axe.
+FR: Une petite hache.
+
+EN: A small chunk of dense but otherwise unremarkable natural mineral. It can be thrown to cause minor damage.
+FR: Un petit morceau de minéral naturel dense mais sans particularité. On peut le lancer pour causer de légers dégâts.
+
+EN: A small piece of wood and metal, to be strapped on one arm for defence.
+FR: Un petit morceau de bois et de métal, à attacher sur un bras pour se défendre.
+
+EN: A sphere of crystal, carried in place of a shield. Magic scintillates within its interior.
+FR: Une sphère de cristal, portée à la place d’un bouclier. La magie y scintille à l’intérieur.
+
+EN: A sturdy wooden pole, meant for fighting.
+FR: Une solide perche de bois, faite pour le combat.
+
+EN: A suit made from layers of tanned animal hide. It provides basic protection with almost no hindrance to spellcasting or stealthy movement.
+FR: Une tenue faite de couches de peau d’animal tannée. Elle offre une protection de base, presque sans gêner l’incantation ni les déplacements furtifs.
+
+EN: A suit of armour made entirely out of tiny metal rings.
+FR: Une armure faite entièrement de minuscules anneaux de métal.
+
+EN: A sword with a very long, heavy blade and a long handle.
+FR: Une épée à la très longue et lourde lame, avec une longue poignée.
+
+EN: A terrible three-pronged weapon, moulded by fire and brimstone.
+FR: Une terrible arme à trois pointes, façonnée par le feu et le soufre.
+
+EN: A terrible weapon, forged in the fires of Hell.
+FR: Une arme terrible, forgée dans les feux de l’Enfer.
+
+EN: A terrible weapon, woven in the depths of the inferno.
+FR: Une terrible arme, tissée dans les profondeurs de l’inferno.
+
+EN: A very large and very heavy stone.
+FR: Une pierre très grande et très lourde.
+
+EN: A very rare and extremely effective weapon, featuring a pole with half-moon blades at both ends.
+FR: Une arme très rare et extrêmement efficace, composée d’une perche dotée de lames en demi-lune aux deux extrémités.
+
+EN: An axe with langets, spikes, a lengthed haft and a single-bladed crescent head.
+FR: Une hache à pattes, à pointes, au manche allongé et à la tête en croissant à lame unique.
+
+EN: An enormous metal war club, of great cumbrousness.
+FR: Un énorme gourdin de métal, d’une grande lourdeur.
+
+EN: An incredibly heavy but extremely effective suit of crystalline armour.
+FR: Une armure de cristal incroyablement lourde mais extrêmement efficace.
+
+EN: An ornate and bewitched ritual knife. Even just wielding it will cost a small piece of your health, but blows made with it against those suffering negative statuses (other than poison) have increased base damage, up to +4 for two such baleful ailments.
+FR: Un couteau rituel orné et ensorcelé. Le simple fait de le manier coûte un peu de votre santé, mais les coups portés avec lui contre ceux qui souffrent d’états négatifs (autres que le poison) ont des dégâts de base accrus, jusqu’à +4 pour deux de ces funestes afflictions.
+
+EN: Armour for the scaly midsections of nagas and centaurs.
+FR: Une armure pour la partie écailleuse du ventre des nagas et des centaures.
+
+EN: It will pass through the targets it hits, potentially hitting all targets in its path until it reaches maximum range.
+FR: Elle traverse les cibles qu’elle touche et peut toucher toutes les cibles sur son chemin jusqu’à sa portée maximale.
+
+EN: Only large creatures are capable of throwing it.
+FR: Seules les grandes créatures sont capables de la lancer.
+
+EN: The opposite of a morningstar. A balanced mace with a long shaft and a metal head covered in lethal spikes.
+FR: L’opposé d’un morgenstern. Une masse équilibrée au long manche et à la tête de métal couverte de pointes mortelles.
+
+EN: The stiff and knobbly skin of a troll. It magically regenerates its wearer's flesh, once attuned to the wearer's body at full health.
+FR: La peau raide et noueuse d’un troll. Elle régénère par magie la chair de son porteur, une fois accordée à son corps en pleine santé.
+
+EN: Unfortunately, it is too long and awkward for you to use.
+FR: Malheureusement, elle est trop longue et trop encombrante pour que vous puissiez l’utiliser.

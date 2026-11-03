@@ -1,0 +1,1178 @@
+EN: Hurls an explosive ball of corrosive acid.
+FR: Lance une boule explosive d’acide corrosif.
+
+EN: Cuts the health of an adjacent creature in half. This damage is never directly lethal.
+FR: Réduit de moitié la santé d’une créature adjacente. Ces dégâts ne sont jamais directement mortels.
+
+EN: Constructs a mobile and combat-capable alchemical manufactory. It uses the friction of melee combat to brew a variety of useful potions, venting clouds of their toxic byproducts at whatever it punches. When it has built up enough heat to complete its synthesis, it will automatically dispense the finished potions to nearby allies before falling apart.
+FR: Construit une manufacture alchimique mobile, capable de combattre. Elle utilise la friction du combat au corps à corps pour brasser diverses potions utiles, en rejetant des nuages de leurs sous-produits toxiques sur ce qu’elle frappe. Quand elle a accumulé assez de chaleur pour achever sa synthèse, elle distribue automatiquement les potions terminées aux alliés proches avant de s’effondrer.
+
+EN: Afflicts nearby foes with supernatural anguish, causing all damage they deal to rebound on them for the duration of the effect. Strong-willed foes can resist the necromantic visions of pain and suffering, and mindless creatures are unaffected.
+FR: Afflige les ennemis proches d’une angoisse surnaturelle : tous les dégâts qu’ils infligent se retournent contre eux pendant la durée de l’effet. Les ennemis à la volonté forte peuvent résister à ces visions nécromantiques de douleur et de souffrance, et les créatures sans esprit y échappent.
+
+EN: Causes the target's magic to leak into the air, as though they were hit by an antimagic weapon, with no direct line of fire required.
+FR: Fait fuir la magie de la cible dans l’air, comme si elle avait été frappée par une arme antimagie, sans besoin de ligne de tir directe.
+
+EN: Pulls all items at a given location on the floor towards the caster.
+FR: Attire vers le lanceur tous les objets posés au sol à un endroit donné.
+
+EN: With low power, items might not be moved all the way to the caster's position.
+FR: Avec une faible puissance, les objets peuvent ne pas être amenés jusqu’à la position du lanceur.
+
+EN: Extremely powerful magical items, such as the Orb of Zot, may actively resist the pull of this spell.
+FR: Les objets magiques extrêmement puissants, comme l’Orbe de Zot, peuvent résister activement à l’attraction de ce sort.
+
+EN: Sends a wave of electricity through everything adjacent or near-adjacent to the caster. The electricity continues to arc through everything in a connected chain, though the caster themself is unaffected. The damage dealt bypasses half of defenders' armour.
+FR: Envoie une onde d’électricité à travers tout ce qui est adjacent ou presque adjacent au lanceur. L’électricité continue de s’arquer à travers tout ce qui forme une chaîne connectée, sans jamais atteindre le lanceur lui-même. Les dégâts ignorent la moitié de l’armure des défenseurs.
+
+EN: Sings a powerfully haunting song. Adventurers who fail to resist will become unable to move away from the singer (and will sometimes be drawn closer involuntarily), while other creatures will become dazed outright.
+FR: Chante un chant envoûtant et puissant. Les aventuriers qui échouent à résister ne pourront plus s’éloigner du chanteur (et seront parfois attirés malgré eux), tandis que les autres créatures seront purement et simplement hébétées.
+
+EN: In addition, it may call forth drowned souls from any nearby bodies of deep water.
+FR: De plus, il peut faire surgir des âmes noyées de toute étendue d’eau profonde proche.
+
+EN: Leaving the caster's line of sight will end the movement-controlling effect.
+FR: Quitter la ligne de vue du lanceur met fin à l’effet de contrôle des mouvements.
+
+EN: Draws upon the memory of your worn armour to manifest an echo of it that fights alongside you. This echo moves slowly, but the power of its blows increases dramatically with the weight of the armour used to form it. It possesses all the defensive properties of the armour itself.
+FR: Puise dans le souvenir de votre armure portée pour en faire apparaître un écho qui combat à vos côtés. Cet écho se déplace lentement, mais la puissance de ses coups augmente fortement avec le poids de l’armure qui lui a servi de modèle. Il possède toutes les propriétés défensives de l’armure elle-même.
+
+EN: Spellpower increases its durability.
+FR: La puissance du sort augmente sa résistance.
+
+EN: Channels a surge of chaotic energy through each pile of flesh in the caster's sight, animating them into empowered large abominations and dealing chaos damage to any foes unfortunate enough to be standing next to them.
+FR: Fait passer une onde d’énergie chaotique à travers chaque tas de chair en vue du lanceur, les animant en grandes abominations renforcées et infligeant des dégâts de chaos aux ennemis assez malchanceux pour se trouver à côté d’eux.
+
+EN: Causes vines to grow from the ground. The vines will reach out and grab interlopers, dragging them towards any nearby trees.
+FR: Fait pousser des lianes du sol. Les lianes s’étendent pour saisir les intrus et les traîner vers les arbres proches.
+
+EN: Banishes a creature into the Abyss.
+FR: Bannit une créature dans l’Abysse.
+
+EN: Inspires nearby allies of the caster to fight more aggressively, increasing the strength of their blows.
+FR: Inspire les alliés proches du lanceur à combattre plus agressivement, augmentant la force de leurs coups.
+
+EN: Twists the air around a creature to both deal damage and attempt to pull them closer to the caster.
+FR: Tord l’air autour d’une créature pour lui infliger des dégâts et tenter de l’attirer vers le lanceur.
+
+EN: Causes a nearby ally to fly into a berserk rage. Going berserk temporarily increases health, speed, and damage dealt in melee.
+FR: Fait entrer un allié proche dans une rage berserk. Le berserk augmente temporairement la santé, la vitesse et les dégâts infligés au corps à corps.
+
+EN: Temporarily grants numerous nearby allies a magical weapon from within the armoury, so long as the souls holding it together remain intact.
+FR: Accorde temporairement une arme magique tirée de l’arsenal à de nombreux alliés proches, tant que les âmes qui la maintiennent ensemble restent intactes.
+
+EN: Bestows an enchantment on other nearby living creatures that causes them to rise as simulacra after being slain.
+FR: Confère aux autres créatures vivantes proches un enchantement qui les fait renaître en simulacres après leur mort.
+
+EN: Blinks allies in sight of the caster away from a nearby enemy.
+FR: Fait clignoter au loin d’un ennemi proche les alliés en vue du lanceur.
+
+EN: Translocates a number of allies in the caster's sight to surround a targeted enemy.
+FR: Translocalise plusieurs alliés en vue du lanceur pour qu’ils encerclent un ennemi ciblé.
+
+EN: Translocates the caster to a location further away from a targeted enemy.
+FR: Translocalise le lanceur à un endroit plus éloigné d’un ennemi ciblé.
+
+EN: Translocates the caster to a location further away from a targeted enemy, but still within sight of the target.
+FR: Translocalise le lanceur à un endroit plus éloigné d’un ennemi ciblé, mais toujours en vue de celui-ci.
+
+EN: Randomly translocates the caster a short distance. After translocating in this way, the spell cannot be cast again for a short period of time depending on spell power.
+FR: Translocalise le lanceur aléatoirement sur une courte distance. Après une telle translocation, le sort ne peut pas être relancé pendant un court délai dépendant de la puissance du sort.
+
+EN: Transforms the caster into a penetrating lightning bolt, and translocates the caster to the bolt's destination.
+FR: Transforme le lanceur en éclair perforant et le translocalise à la destination de l’éclair.
+
+EN: Fires a penetrating bolt of ontologically-paradoxical antimagic, draining its victims' reserves of magic.
+FR: Tire un rayon perforant d’antimagie ontologiquement paradoxale, drainant les réserves de magie de ses victimes.
+
+EN: Enhances the caster's physical form, greatly increasing the damage they deal in melee as well as their resistance to all elements.
+FR: Renforce la forme physique du lanceur, augmentant fortement les dégâts qu’il inflige au corps à corps ainsi que sa résistance à tous les éléments.
+
+EN: Fires a penetrating bolt of grief and heartache that cuts its victims' willpower in half.
+FR: Tire un rayon perforant de chagrin et de peine qui réduit de moitié la volonté de ses victimes.
+
+EN: Fires a penetrating barrage of conjured flesh, which will briefly remain as a pile on the ground at the end of its path.
+FR: Tire une salve perforante de chair conjurée, qui reste brièvement en tas au sol à la fin de sa trajectoire.
+
+EN: Fires a pentrating ray of searing light, which may blind any living, demonic, or holy creature it strikes.
+FR: Tire un rayon perforant de lumière brûlante, qui peut aveugler toute créature vivante, démoniaque ou sainte qu’il touche.
+
+EN: Blasts an iron ball toward a target. The force of the blast often sends the caster staggering backwards.
+FR: Projette une boule de fer vers une cible. La force de l’explosion fait souvent reculer le lanceur en titubant.
+
+EN: Calls forth hands from corpses interred beneath the dungeon floor long ago. Enemies caught in the area will be held in place and constricted until they break free.
+FR: Fait surgir des mains de cadavres enterrés depuis longtemps sous le sol du donjon. Les ennemis pris dans la zone sont immobilisés et étranglés jusqu’à ce qu’ils se libèrent.
+
+EN: Drains a small amount of a visible enemy's mind and a proportion of their magic, with no direct line of fire required. If the enemy has near-emptied magic reserves, they will take doubled damage.
+FR: Draine un peu de l’esprit d’un ennemi visible ainsi qu’une partie de sa magie, sans besoin de ligne de tir directe. Si l’ennemi a presque vidé ses réserves de magie, il subit des dégâts doublés.
+
+EN: Unleashes a massive rolling boulder in a given compass direction. This boulder damages any creature it hits, rolling over those who perish beneath it and pushing any others helplessly backwards (along with anyone else unfortunate enough to be standing behind them).
+FR: Lâche un énorme rocher roulant dans une direction cardinale donnée. Ce rocher blesse toute créature qu’il heurte, écrase celles qui périssent sous lui et repousse les autres sans qu’elles puissent y faire quoi que ce soit (avec quiconque est assez malchanceux pour se trouver derrière elles).
+
+EN: Its size and reckless locomotion make it difficult to use in confined areas; if launched down narrow passages, it will rapidly abrade against the walls and fall apart. It will also crumble if it leaves the caster's sight or strikes a wall or otherwise unmoveable creature.
+FR: Sa taille et sa locomotion désordonnée le rendent difficile à utiliser dans les zones exiguës ; lancé dans un passage étroit, il s’use vite contre les murs et se désagrège. Il s’effrite aussi s’il quitte la vue du lanceur ou heurte un mur ou une créature impossible à déplacer.
+
+EN: Causes walls of thorny brambles to grow rapidly in a ring around all nearby enemies. The caster's allies may fire projectiles through these briars without hinderance, but anyone else may find removing them rather painful.
+FR: Fait pousser rapidement des murs de ronces épineuses en anneau autour de tous les ennemis proches. Les alliés du lanceur peuvent tirer des projectiles à travers ces ronces sans gêne, mais quiconque d’autre trouvera douloureux de les retirer.
+
+EN: Summons an inugami to the caster's aid. These mystical canines form a bond with their summoner, strengthening them in direct proportion with the caster's spellpower.
+FR: Convoque un inugami pour aider le lanceur. Ces canidés mystiques nouent un lien avec leur invocateur et se renforcent en proportion de la puissance du sort.
+
+EN: Recasting this spell while your familiar is nearby will imbue it with additional magic, mending some of its wounds, cleansing it of poison, and causing its next attack to strike more quickly and cleave adjacent foes.
+FR: Relancer ce sort quand votre familier est proche lui insuffle de la magie supplémentaire : il soigne une partie de ses blessures, le purge du poison et fait que sa prochaine attaque frappe plus vite et fende les ennemis adjacents.
+
+EN: Blasts a targeted enemy with damnation, with no direct line of fire required. These unholy forces harm the victim and anyone adjacent, and are not affected by any means of protection, such as armour or resistances. However, certain creatures, usually those able to invoke damnation themselves, are entirely unscathed by damnation.
+FR: Frappe un ennemi ciblé de damnation, sans besoin de ligne de tir directe. Ces forces impies blessent la victime et tous ceux qui sont adjacents, et ne sont affectées par aucun moyen de protection, comme l’armure ou les résistances. Toutefois, certaines créatures, généralement celles capables d’invoquer elles-mêmes la damnation, y sont totalement insensibles.
+
+EN: Blasts a targeted enemy with lightning, with no direct line of fire required. The targeting magics need distance to function, so enemies that are adjacent or nearly adjacent cannot be struck by this.
+FR: Frappe un ennemi ciblé de foudre, sans besoin de ligne de tir directe. La magie de ciblage a besoin de distance pour fonctionner : les ennemis adjacents ou presque adjacents ne peuvent donc pas être touchés.
+
+EN: Calls forth a minor demon from the pits of Hell, equipped with a spear with which to jab at the caster's enemies. The quality of the imp's weaponry rises with spell power.
+FR: Fait surgir des profondeurs de l’Enfer un démon mineur, armé d’une lance pour harceler les ennemis du lanceur. La qualité de son armement augmente avec la puissance du sort.
+
+EN: Summons some necromantic spectres. These lost souls can enter the bodies of more powerful undead to bring them back from brink of demise, or turn dying living creatures into ghostly versions of themselves.
+FR: Convoque des spectres nécromantiques. Ces âmes perdues peuvent entrer dans le corps de morts-vivants plus puissants pour les ramener du bord de la destruction, ou transformer des créatures vivantes mourantes en versions fantomatiques d’elles-mêmes.
+
+EN: Calls upon the powers of chaos to empower nearby allies, granting them haste, might, doubled vigour, or improved resistances. The chaotic magic may occasionally backfire and cause allies to instead lose their willpower or be berserked, polymorphed, or filled with inner flame.
+FR: Invoque les puissances du chaos pour renforcer les alliés proches, leur accordant hâte, puissance, vigueur doublée ou résistances améliorées. La magie chaotique peut parfois se retourner et leur faire perdre leur volonté, les rendre berserk, les polymorpher ou les remplir de flamme intérieure.
+
+EN: Allows the caster to affect the tidal phase of all water within a large distance. Soon after calling it, the waters on the whole level will reach high tide. Waters near the caster will reach even higher levels than they would normally.
+FR: Permet au lanceur d’agir sur la phase des marées de toutes les eaux dans un grand rayon. Peu après le lancement, les eaux de tout l’étage atteindront la marée haute. Les eaux proches du lanceur monteront encore plus haut que la normale.
+
+EN: Casts one of a number of minor spells, aimed at trying to bolster the caster's morale. They have no noticeable effect.
+FR: Lance l’un des nombreux petits sorts destinés à remonter le moral du lanceur. Ils n’ont aucun effet notable.
+
+EN: Causes fear in those near to the caster, causing those affected to be unable to approach the caster, and to sometimes fail to attack them in melee. Leaving the caster's line of sight will end the effect.
+FR: Fait naître la peur chez ceux qui sont proches du lanceur : les créatures touchées ne peuvent plus s’approcher de lui et échouent parfois à l’attaquer au corps à corps. Quitter la ligne de vue du lanceur met fin à l’effet.
+
+EN: Creates an arc of pure chaos, striking nearby creatures with unpredictable effects. The arc can touch upon the caster without harming them.
+FR: Crée un arc de chaos pur qui frappe les créatures proches avec des effets imprévisibles. L’arc peut toucher le lanceur sans lui faire de mal.
+
+EN: Causes an otherwise hostile creature to fight on the caster's side for a while. Adventurers, set on their quest for the ORB, instead suffer momentary confusion.
+FR: Fait combattre pour un temps aux côtés du lanceur une créature autrement hostile. Les aventuriers, lancés dans leur quête de l’ORBE, subissent à la place un instant de confusion.
+
+EN: Exhales a large cloud of fumes filled with the very essence of chaos.
+FR: Souffle un grand nuage de vapeurs emplies de l’essence même du chaos.
+
+EN: Magically accelerates the decay of damaged living tissue, causing great clouds of miasma to billow forth from a targeted victim's wounds over several turns which may slow and heavily poison any living creature who stands in them. Air currents will prevent this pestilence from forming wherever the caster is standing, but they are not otherwise protected from its effects.
+FR: Accélère magiquement la décomposition des tissus vivants blessés : de grands nuages de miasme s’échappent pendant plusieurs tours des blessures de la victime ciblée et peuvent ralentir et empoisonner gravement toute créature vivante qui s’y tient. Des courants d’air empêchent cette pestilence de se former là où se tient le lanceur, mais il n’est pas autrement protégé de ses effets.
+
+EN: This spell may only be cast on a living creature who is at least heavily wounded, and channelling such necrotic energies will leave the caster's own health temporarily drained (though spellpower will reduce the intensity of this side-effect).
+FR: Ce sort ne peut être lancé que sur une créature vivante au moins gravement blessée, et canaliser de telles énergies nécrotiques draine temporairement la santé du lanceur (même si la puissance du sort réduit l’intensité de cet effet secondaire).
+
+EN: Invokes a huge blast of divine fury centered on the user, severely damaging undead and demons and dealing damage to all other hostile creatures.
+FR: Invoque une immense explosion de fureur divine centrée sur le lanceur, infligeant de lourds dégâts aux morts-vivants et aux démons et des dégâts à toutes les autres créatures hostiles.
+
+EN: Exhales a focused blast of icy-cold air.
+FR: Souffle un jet concentré d’air glacial.
+
+EN: Intensifies the natural venom of the target monster. Poisonous bites and spit become intense enough to slow and asphyxiate.
+FR: Intensifie le venin naturel du monstre ciblé. Ses morsures et crachats empoisonnés deviennent assez intenses pour ralentir et asphyxier.
+
+EN: Induces a state of bewilderment and confusion in a creature's mind, with no direct line of fire required.
+FR: Plonge l’esprit d’une créature dans le trouble et la confusion, sans besoin de ligne de tir directe.
+
+EN: Creates a pack of ball lightnings, which seek out the nearest enemy before exploding in a huge blast of electricity. The damage dealt bypasses half of defenders' armour. Casters are advised to use caution; the lightning is not mindful of what it may hit.
+FR: Crée une meute de foudres globulaires qui cherchent l’ennemi le plus proche avant d’exploser dans une immense décharge électrique. Les dégâts ignorent la moitié de l’armure des défenseurs. Les lanceurs sont invités à la prudence : la foudre ne se soucie pas de ce qu’elle peut toucher.
+
+EN: The magic which keeps ball lightnings cohesive has limited range, so they may dissipate harmlessly if allowed to drift too far away from their caster before exploding.
+FR: La magie qui maintient la cohésion des foudres globulaires a une portée limitée : elles peuvent se dissiper sans effet si on les laisse trop s’éloigner de leur lanceur avant d’exploser.
+
+EN: Creates several living, autonomous spells, which cast themselves at the first foe to enter their range. Once cast, they dissipate.
+FR: Crée plusieurs sorts vivants et autonomes, qui se lancent d’eux-mêmes sur le premier ennemi entrant dans leur portée. Une fois lancés, ils se dissipent.
+
+EN: Constructs a simple mechanical trap within an adjacent wall which repeatedly skewers random adjacent enemies. Protected by the wall itself, it is invulnerable to most forms of damage, but will fall apart if the caster leaves its vicinity.
+FR: Construit un simple piège mécanique dans un mur adjacent, qui embroche à répétition des ennemis adjacents au hasard. Protégé par le mur lui-même, il est invulnérable à la plupart des dégâts, mais s’effondre si le lanceur s’éloigne de ses environs.
+
+EN: Fires a penetrating bolt of highly-corrosive acid.
+FR: Tire un rayon perforant d’acide très corrosif.
+
+EN: Unleashes Abyssal energies in the immediate vicinity. This changes the appearance of the affected area and temporarily summons creatures from the Abyss. This cannot be used in the Abyss itself.
+FR: Libère des énergies abyssales dans les environs immédiats. Cela modifie l’apparence de la zone affectée et convoque temporairement des créatures de l’Abysse. Impossible à utiliser dans l’Abysse lui-même.
+
+EN: Instills a corruption within all visible targets, temporarily mutating their bodies in an adverse fashion. It cannot affect artificial beings, and the undead will decompose if affected.
+FR: Instille une corruption dans toutes les cibles visibles, mutant temporairement leur corps de manière néfaste. Elle ne peut affecter les êtres artificiels, et les morts-vivants se décomposent s’ils sont touchés.
+
+EN: Calls forth freezing cold from the walls. Any enemies of the caster standing next to the walls will be frozen and will find their movements slowed. Cold resistance will reduce damage, but not prevent the freezing effect.
+FR: Fait surgir un froid glacial des murs. Tout ennemi du lanceur se tenant près des murs est gelé et voit ses mouvements ralentis. La résistance au froid réduit les dégâts, mais n’empêche pas l’effet de gel.
+
+EN: Calls forth shadows from the corners of nearby walls to strike at all of the caster's enemies standing adjacent to them.
+FR: Fait surgir des ombres des coins des murs proches pour frapper tous les ennemis du lanceur qui s’y tiennent adjacents.
+
+EN: Hurls a large and heavy shard of crystal. It may render a creature's body structure as brittle and fragile as shattered and unrefined crystal, increasing the damage they take from all sources.
+FR: Lance un grand et lourd éclat de cristal. Il peut rendre le corps d’une créature aussi cassant et fragile qu’un cristal brut brisé, augmentant les dégâts qu’elle subit de toutes sources.
+
+EN: Curses a foe, halving their remaining health after each of the next two times that the caster strikes them in melee.
+FR: Maudit un ennemi : sa santé restante est réduite de moitié après chacun des deux prochains coups que le lanceur lui porte au corps à corps.
+
+EN: Exhales the essence of the dying, creating clouds of noxious miasma.
+FR: Exhale l’essence des mourants, créant des nuages de miasme nocif.
+
+EN: Envelops the caster in a repulsion field, greatly increasing their evasion against all types of projectile - even while otherwise incapacitated.
+FR: Enveloppe le lanceur d’un champ répulsif, augmentant fortement son évasion contre tout type de projectile, même quand il est par ailleurs incapable d’agir.
+
+EN: Affixes a volatile catalyst to the caster's fists or melee weapon, causing each of their strikes to release a fiery explosion at its primary target. The caster and their allies are protected from the explosion's effects. The activity of the catalyst may be prolonged indefinitely as long as the caster continues to attack, but it rapidly loses potency when they take other actions. The base damage of the caster's weapon and the caster's spellpower each increase the explosion's damage.
+FR: Fixe un catalyseur volatil aux poings ou à l’arme de mêlée du lanceur : chacun de ses coups libère une explosion de feu sur sa cible principale. Le lanceur et ses alliés sont protégés des effets de l’explosion. L’activité du catalyseur peut être prolongée indéfiniment tant que le lanceur continue d’attaquer, mais elle s’affaiblit vite quand il fait autre chose. Les dégâts de base de l’arme du lanceur et la puissance du sort augmentent chacun les dégâts de l’explosion.
+
+EN: Forges up to four razor-sharp sawblades at fixed positions around the caster which shred any enemies adjacent to them over several turns.
+FR: Forge jusqu’à quatre lames de scie tranchantes à des positions fixes autour du lanceur, qui déchiquettent pendant plusieurs tours les ennemis qui leur sont adjacents.
+
+EN: Blocks any translocations attempted by the affected target, be they voluntary or not. This includes even some cross-plane effects, although notably not Banishment.
+FR: Bloque toute translocation tentée par la cible affectée, volontaire ou non. Cela inclut même certains effets inter-plans, mais pas le Bannissement.
+
+EN: Weaves a link between the caster's weaponry and a chosen target. Whenever the caster fires or throws something at a *different* enemy, a matching projectile will be teleported at the target. Spellpower increases their accuracy.
+FR: Tisse un lien entre l’armement du lanceur et une cible choisie. Chaque fois que le lanceur tire ou lance quelque chose sur un *autre* ennemi, un projectile identique est téléporté sur la cible. La puissance du sort augmente leur précision.
+
+EN: Irresistibly weakens the power of an enemy's spells for a period of time.
+FR: Affaiblit irrésistiblement la puissance des sorts d’un ennemi pendant un temps.
+
+EN: Harms an undead creature greatly by interfering with the forces binding it together.
+FR: Blesse gravement une créature morte-vivante en perturbant les forces qui la maintiennent ensemble.
+
+EN: Manifests the caster's faith as a spiritual weapon, which will fight and slay the caster's enemies under its own power.
+FR: Manifeste la foi du lanceur sous forme d’arme spirituelle, qui combat et tue les ennemis du lanceur par sa propre puissance.
+
+EN: As it is a direct reflection of the caster's unique zeal, the weapon they receive from their god will be the same each time.
+FR: Comme elle reflète directement le zèle unique du lanceur, l’arme que lui accorde son dieu sera la même à chaque fois.
+
+EN: Attempts to forcibly change the allegiance of all nearby undead which are not already loyal to the caster.
+FR: Tente de changer de force l’allégeance de tous les morts-vivants proches qui ne sont pas déjà fidèles au lanceur.
+
+EN: Adventurers, being famously headstrong, cannot be fully controlled by this spell. They will instead lash out randomly for the duration of its effect, attacking nearby friend and foe alike before regaining their wits.
+FR: Les aventuriers, réputés têtus, ne peuvent être entièrement contrôlés par ce sort. Ils frapperont à la place au hasard pendant la durée de l’effet, attaquant amis et ennemis proches avant de reprendre leurs esprits.
+
+EN: This spell can be broken prematurely by the death of its caster.
+FR: Ce sort peut être rompu prématurément par la mort de son lanceur.
+
+EN: Foretells a terrible future, inflicting Doom equal to half of what it would take for you to reach 100%. Upon the caster's death, a sliver of this fate will come to pass in the form of an ambush; several well-hidden enemies from the floor will seek out your position unerringly and all stairs will temporarily be sealed.
+FR: Prédit un avenir terrible, infligeant une Fatalité égale à la moitié de ce qu’il faudrait pour atteindre 100 %. À la mort du lanceur, une parcelle de ce destin s’accomplira sous la forme d’une embuscade : plusieurs ennemis bien cachés de l’étage retrouveront infailliblement votre position et tous les escaliers seront temporairement scellés.
+
+EN: Can only be cast a single time, but even slaying the messenger in their sleep will not avoid what fate has in store for you.
+FR: Ne peut être lancé qu’une seule fois, mais même tuer le messager dans son sommeil n’évitera pas ce que le destin vous réserve.
+
+EN: Fires a penetrating bolt of accursed malice which inflicts Doom.
+FR: Tire un rayon perforant de malveillance maudite qui inflige la Fatalité.
+
+EN: Unleashes a piercing howl that catches and echoes in victims' minds. While those echoes linger, nightmarish creatures will hear and track them to their source. It can only be used once by a given creature.
+FR: Pousse un hurlement perçant qui s’accroche et résonne dans l’esprit des victimes. Tant que ces échos persistent, des créatures cauchemardesques les entendent et les traquent jusqu’à leur source. Ne peut être utilisé qu’une fois par une même créature.
+
+EN: Issues a powerful call to a draconic realm, beckoning forth dragon after dragon to engage the summoner's enemies. The spell is taxing to maintain, and each new dragon which answers the call will further drain the summoner's magical reserves. After the call ends, it cannot be issued again for a short time. The duration of the call and the species of dragons called depend on spell power.
+FR: Lance un puissant appel vers un royaume draconique, faisant venir dragon après dragon pour affronter les ennemis de l’invocateur. Le sort est épuisant à maintenir, et chaque nouveau dragon qui répond à l’appel draine un peu plus les réserves magiques de l’invocateur. Après la fin de l’appel, il ne peut être relancé avant un court délai. La durée de l’appel et l’espèce des dragons appelés dépendent de la puissance du sort.
+
+EN: Allows the caster to tap into ley lines of elemental energy which pervade the dungeon and channel their destructive power against enemies. Casting it exposes up to four dragon veins on adjacent floor tiles - one corresponding to each of fire, ice, air, and earth magic. Stepping onto any of them will trigger an immediate destructive spellcast at the cost of 1 MP, targeting up to 3 random enemies with an additional property that depends on the element tapped into:
+FR: Permet au lanceur de puiser dans les lignes de force d’énergie élémentaire qui parcourent le donjon pour en canaliser la puissance destructrice contre ses ennemis. Le lancer révèle jusqu’à quatre veines de dragon sur les cases adjacentes, une pour chacune des magies du feu, de la glace, de l’air et de la terre. Marcher sur l’une d’elles déclenche immédiatement un sort destructeur pour 1 PM, visant jusqu’à 3 ennemis au hasard avec une propriété supplémentaire qui dépend de l’élément exploité :
+
+EN: Fire (West): Prioritises enemies with the least health. Leaves behind brief fire clouds when it kills something.
+FR: Feu (Ouest) : vise en priorité les ennemis ayant le moins de santé. Laisse brièvement des nuages de feu quand il tue quelque chose.
+
+EN: Ice (East): Prioritises enemies with the most health. Briefly freezes them, slowing their movement.
+FR: Glace (Est) : vise en priorité les ennemis ayant le plus de santé. Les gèle brièvement, ralentissant leurs mouvements.
+
+EN: Air (North): Prioritises the most distant enemies. Unlike the other 3 elements, does full damage even to distant targets.
+FR: Air (Nord) : vise en priorité les ennemis les plus éloignés. Contrairement aux 3 autres éléments, inflige tous ses dégâts même aux cibles distantes.
+
+EN: Earth (South): Prioritises the closest enemies. Strikes one fewer target and does greatly reduced damage to flying creatures, but enemies hit at close range may be staggered.
+FR: Terre (Sud) : vise en priorité les ennemis les plus proches. Frappe une cible de moins et inflige des dégâts très réduits aux créatures volantes, mais les ennemis touchés de près peuvent être chancelants.
+
+EN: You may channel from up to two of these dragon veins before the spell expires.
+FR: Vous pouvez puiser dans jusqu’à deux de ces veines de dragon avant l’expiration du sort.
+
+EN: Drains the life force from all nearby enemies, healing the user proportional to the damage dealt.
+FR: Draine la force vitale de tous les ennemis proches, soignant l’utilisateur proportionnellement aux dégâts infligés.
+
+EN: Causes the target's magic to leak into the air, as though they were hit by an antimagic weapon.
+FR: Fait fuir la magie de la cible dans l’air, comme si elle avait été frappée par une arme antimagie.
+
+EN: Fills a living creature with negative energy, draining them for a fraction of their maximum health. This spell requires line of sight but not line of fire.
+FR: Emplit une créature vivante d’énergie négative, la drainant d’une fraction de sa santé maximale. Ce sort nécessite une ligne de vue mais pas de ligne de tir.
+
+EN: Overwhelms the target with soporific dream dust, putting them to sleep with an enchanting visual display. Additional dream sheep will increase the strength and duration of this effect.
+FR: Submerge la cible d’une poussière de rêve soporifique, l’endormant dans un spectacle visuel enchanteur. Des moutons de rêve supplémentaires augmentent la force et la durée de cet effet.
+
+EN: Recalls woodland creatures from elsewhere on the same level.
+FR: Rappelle des créatures sylvestres venues d’ailleurs sur le même étage.
+
+EN: Throws a penetrating bolt of electricity at the target, with high accuracy.
+FR: Lance un rayon perforant d’électricité sur la cible, avec une grande précision.
+
+EN: Overwhelms an enemy with malignant energies, irresistibly weakening their melee attacks and reducing the power of their spells. It will additionally daze and blind any foe that fails to resist the full force of the curse - even those without visual senses!
+FR: Submerge un ennemi d’énergies malignes, affaiblissant irrésistiblement ses attaques de mêlée et réduisant la puissance de ses sorts. Il hébète et aveugle en outre tout ennemi qui échoue à résister à toute la force de la malédiction, même ceux sans sens visuel !
+
+EN: Corrodes the target, with no direct line of fire required.
+FR: Corrode la cible, sans besoin de ligne de tir directe.
+
+EN: Causes the caster to release a torrent of sludge that transforms nearby areas into a toxic bog. The sludge damages and poisons all monsters, even those resistant to poison. The bog cannot form on areas adjacent to multiple solid features, nor on areas that lack solid floor, like deep water or lava. The transformation is temporary and cannot be sustained out of the caster's sight. Spellpower will increase how long the bog lingers.
+FR: Le lanceur libère un torrent de boue qui transforme les zones proches en bourbier toxique. La boue blesse et empoisonne tous les monstres, même ceux résistants au poison. Le bourbier ne peut se former sur les zones adjacentes à plusieurs éléments solides, ni sur celles sans sol solide, comme l’eau profonde ou la lave. La transformation est temporaire et ne peut être maintenue hors de la vue du lanceur. La puissance du sort augmente la durée du bourbier.
+
+EN: Summons a toothy crocodile to assault an adjacent enemy. The crocodile will appear beneath the caster in a surge of murky water and perform an empowered attack against the chosen target, dragging both it and the caster backward before allowing the latter to dismount safely behind it. It cannot be recast while the crocodile is still active.
+FR: Convoque un crocodile aux dents acérées pour assaillir un ennemi adjacent. Le crocodile apparaît sous le lanceur dans un jaillissement d’eau trouble et porte une attaque renforcée à la cible choisie, l’entraînant en arrière avec le lanceur avant de laisser ce dernier descendre sans risque derrière elle. Impossible à relancer tant que le crocodile est actif.
+
+EN: Splits the earth to draw up a localised, short-lived volcano under the target.
+FR: Fend la terre pour faire surgir sous la cible un volcan localisé et éphémère.
+
+EN: Fires a magical seed, entangling victims in quick-growing tree roots. Those entangled will be painfully constricted until they escape or the roots wither away. The roots will only sprout from solid ground.
+FR: Tire une graine magique, emprisonnant les victimes dans des racines d’arbre à croissance rapide. Les créatures prises sont étranglées douloureusement jusqu’à ce qu’elles s’échappent ou que les racines se flétrissent. Les racines ne poussent que sur un sol solide.
+
+EN: Opens painful illusionary wounds on the target's body, which disappear after a short time or on the death of the caster. This cannot kill directly, and is ineffective against unnatural targets.
+FR: Ouvre de douloureuses blessures illusoires sur le corps de la cible, qui disparaissent après un court délai ou à la mort du lanceur. Elles ne peuvent pas tuer directement et sont inefficaces contre les cibles non naturelles.
+
+EN: Breathes a blast of fire at a targeted creature.
+FR: Souffle une déflagration de feu sur une créature ciblée.
+
+EN: Hurls an explosive ball of fire.
+FR: Lance une boule de feu explosive.
+
+EN: Blasts the caster's surroundings with a wave of fire. If the caster maintains focus and supplies the spell with magical power (by waiting in place and not taking any other actions), more and larger flame waves will radiate outward.
+FR: Frappe les alentours du lanceur d’une vague de feu. Si le lanceur garde sa concentration et alimente le sort en puissance magique (en attendant sur place sans faire d’autre action), des vagues de flammes plus nombreuses et plus grandes rayonnent vers l’extérieur.
+
+EN: Conjures up a large cloud of roaring flames.
+FR: Conjure un grand nuage de flammes rugissantes.
+
+EN: Freezes the air around a target, causing significant harm and slowing the target's movement for a short time. Half of its damage bypasses cold resistance.
+FR: Gèle l’air autour d’une cible, lui causant de lourds dégâts et ralentissant ses mouvements pendant un court moment. La moitié de ses dégâts ignore la résistance au froid.
+
+EN: A single soul from within the armoury leaps out, striking with their weapon and then duelling independently for a short time before returning to the maelstrom once more.
+FR: Une unique âme de l’arsenal jaillit, frappe de son arme puis duelle indépendamment pendant un court instant avant de retourner dans le maelström.
+
+EN: Calls forth winds to increase the caster's movement speed for a short duration.
+FR: Appelle des vents qui augmentent la vitesse de déplacement du lanceur pendant une courte durée.
+
+EN: Summons some creatures from one of the Snake Pit, the Spider Nest, the Swamp, the Shoals, the Elven Halls, the Vaults, or the Crypt; the specific branch varies with the caster.
+FR: Convoque des créatures de la Fosse aux serpents, du Nid d’araignées, du Marais, des Hauts-fonds, des Salles elfiques, des Caveaux ou de la Crypte ; la branche précise varie selon le lanceur.
+
+EN: Constructs a shell of slag iron around a volatile elemental spark. It is capable of raining down powerful blows on its creator's adversaries - so powerful that the golem itself is often damaged by their impact.
+FR: Construit une coque de scories de fer autour d’une étincelle élémentaire instable. Il est capable d’abattre de puissants coups sur les adversaires de son créateur, si puissants que le golem lui-même est souvent endommagé par l’impact.
+
+EN: Only tenuously independent of its creator's magic, the flames within it will rapidly go dormant if the two ever leave each other's side. If its shell is destroyed while the golem is still active, its exposed core will violently detonate a moment later.
+FR: À peine indépendantes de la magie de leur créateur, les flammes qu’il contient s’éteindront rapidement si les deux s’éloignent l’un de l’autre. Si sa coque est détruite alors que le golem est encore actif, son cœur exposé explose violemment un instant plus tard.
+
+EN: It gains greater explosive damage at higher power.
+FR: Il inflige de plus gros dégâts d’explosion à puissance élevée.
+
+EN: Constructs an immobile lightning spire at a nearby location. This spire irregularly discharges bolts of electricity at the caster's foes, prioritizing whichever of them is most distant from it.
+FR: Construit une flèche de foudre immobile à proximité. Cette flèche décharge irrégulièrement des éclairs sur les ennemis du lanceur, visant en priorité le plus éloigné d’elle.
+
+EN: Constructs a flying incendiary factory, packed to the brim with cluster bomblets which it can deploy both in melee and launch at range. While the monarch's bomblets have no attack of their own, they will pursue the caster's enemies until given the signal to explode.
+FR: Construit une usine incendiaire volante, bourrée de petites bombes à fragmentation qu’elle peut déployer au corps à corps et lancer à distance. Bien que les bombinettes du monarque n’aient aucune attaque propre, elles poursuivent les ennemis du lanceur jusqu’au signal d’explosion.
+
+EN: Recasting this spell while anything it has created is still active will detonate the monarch bomb and all bomblets, dealing a combination of fire and physical damage to everything adjacent to them besides the caster themselves.
+FR: Relancer ce sort alors que quoi que ce soit qu’il a créé est encore actif fait détoner la bombe monarque et toutes les bombinettes, infligeant un mélange de dégâts de feu et physiques à tout ce qui leur est adjacent, sauf le lanceur lui-même.
+
+EN: Constructs a small mechanical guardian which bolsters its creator's armour class for as long as it remains adjacent to them.
+FR: Construit un petit gardien mécanique qui renforce la classe d’armure de son créateur tant qu’il reste adjacent à lui.
+
+EN: While also capable of biting foes, the phalanx beetle will never voluntarily leave its creator's side, and if forcibly separated, will prioritise returning to them over any other concern.
+FR: Bien qu’il puisse aussi mordre les ennemis, le scarabée phalange ne quittera jamais volontairement son créateur et, s’il en est séparé de force, s’empressera de le rejoindre avant toute autre chose.
+
+EN: Spellpower increases the magnitude of the AC increase, as well as the beetle's own durability.
+FR: La puissance du sort augmente l’ampleur du bonus de CA ainsi que la solidité du scarabée.
+
+EN: Draws upon the caster's own physical integrity to create a kinetic shockwave that damages foes in a large area. The caster is locked in place for several turns as the shockwave starts to form, and the spell will be cancelled if they are displaced during that time, but they may otherwise perform other actions freely.
+FR: Puise dans l’intégrité physique du lanceur pour créer une onde de choc cinétique qui blesse les ennemis dans une grande zone. Le lanceur est bloqué sur place pendant plusieurs tours le temps que l’onde se forme, et le sort est annulé s’il est déplacé pendant ce temps, mais il peut sinon agir librement.
+
+EN: Spellpower causes the spell to complete more quickly, but the damage depends entirely upon the caster's AC.
+FR: La puissance du sort accélère l’achèvement du sort, mais les dégâts dépendent uniquement de la CA du lanceur.
+
+EN: Conjures two balls of burning swamp gas adjacent to the caster. The balls will rapidly seek the nearest monster and burn them. They will dissipate harmlessly if unable to reach a target or if the caster swaps places with them.
+FR: Conjure deux boules de gaz de marais enflammé adjacentes au lanceur. Les boules cherchent rapidement le monstre le plus proche et le brûlent. Elles se dissipent sans effet si elles ne peuvent atteindre une cible ou si le lanceur échange sa place avec elles.
+
+EN: Fires a penetrating bolt of frigid air that leaves clouds of lethally cold vapour in its wake.
+FR: Tire un rayon perforant d’air glacial qui laisse dans son sillage des nuages de vapeur mortellement froide.
+
+EN: Encases surrounding walls with ice for a short time. Foes that wander near the icy walls will be damaged, and this may temporarily slow cold-blooded creatures. Each victim is only ever affected by one icy wall at a time.
+FR: Enrobe de glace les murs environnants pendant un court moment. Les ennemis qui s’approchent des murs glacés sont blessés, et cela peut ralentir temporairement les créatures à sang froid. Chaque victime n’est affectée que par un seul mur de glace à la fois.
+
+EN: The ice will crack and fall away if the caster moves to a new position.
+FR: La glace se fissure et tombe si le lanceur change de position.
+
+EN: Calls out to the lingering remnants of the long dead. While active, each non-summoned enemy the caster or their allies slays attracts more vengeful souls into the caster's weapon, temporarily enhancing their melee and ranged effectiveness. When this bonus reaches its maximum, every hit will unleash a glimmer of the dead's suffering, causing pain damage to each other foe adjacent to your target.
+FR: Appelle les vestiges persistants des morts depuis longtemps. Tant que le sort est actif, chaque ennemi non convoqué tué par le lanceur ou ses alliés attire davantage d’âmes vengeresses dans l’arme du lanceur, améliorant temporairement son efficacité au corps à corps et à distance. Quand ce bonus atteint son maximum, chaque coup libère un éclat de la souffrance des morts, causant des dégâts de douleur à chaque autre ennemi adjacent à votre cible.
+
+EN: Recasting this spell will release your grip on the souls you've attracted, resetting any bonus you've accumulated, and the cacophonous wailing of the dead may attract unwanted attention even while you maintain it.
+FR: Relancer ce sort relâche votre emprise sur les âmes attirées, réinitialisant tout bonus accumulé, et les lamentations cacophoniques des morts peuvent attirer une attention indésirable même pendant que vous le maintenez.
+
+EN: A magnum opus of reckless chemistry, this spell conjures up a surfeit of volatile reagents to rain down upon your enemies. For the next several turns, up to 3 random enemies in sight will be struck by an exploding beaker that inflicts either fire, cold, electric, or poison damage. If any of these explosions overlap each other, the resulting reaction will inflict even greater irresistible damage and sometimes apply a random deleterious status on whoever is caught in the blast.
+FR: Chef-d’œuvre de chimie imprudente, ce sort conjure un surplus de réactifs volatils qui s’abattent sur vos ennemis. Pendant les prochains tours, jusqu’à 3 ennemis au hasard en vue sont frappés par un bécher explosif infligeant des dégâts de feu, de froid, d’électricité ou de poison. Si certaines de ces explosions se chevauchent, la réaction qui en résulte inflige des dégâts irrésistibles encore plus grands et applique parfois un statut néfaste aléatoire à ceux pris dans l’explosion.
+
+EN: This spell costs a small amount of the caster's magical energy each turn to maintain, and while it will never aim an explosion where it could hurt the caster, the caster's allies (and anything else in the general vicinity) are not so fortunate.
+FR: Ce sort coûte un peu d’énergie magique au lanceur à chaque tour pour être maintenu, et s’il ne vise jamais une explosion qui pourrait blesser le lanceur, les alliés du lanceur (et tout le reste aux alentours) n’ont pas cette chance.
+
+EN: A ritual chant that briefly rouses several nearby undead allies to move more swiftly and strike with greater might.
+FR: Un chant rituel qui réveille brièvement plusieurs alliés morts-vivants proches pour qu’ils se déplacent plus vite et frappent plus fort.
+
+EN: Briefly reorients local gravity to be in a cardinal direction of the caster's choosing, causing all creatures in sight to tumble a short distance in that direction.
+FR: Réoriente brièvement la gravité locale vers une direction cardinale choisie par le lanceur, faisant dégringoler sur une courte distance toutes les créatures en vue dans cette direction.
+
+EN: The caster is not immune to the gravitational effects of this spell, but will be cushioned so they take no collision damage. Other creatures are not so fortunate, and the abrupt impact will batter anything which was not already standing beside its new 'floor'.
+FR: Le lanceur n’est pas immunisé aux effets gravitationnels de ce sort, mais il est amorti et ne subit aucun dégât de collision. Les autres créatures n’ont pas cette chance : l’impact brutal malmène tout ce qui ne se tenait pas déjà à côté de son nouveau « sol ».
+
+EN: It takes a short time for gravity to stabilise enough to recast this spell, though more powerful mages are able to do so more frequently.
+FR: Il faut un court moment pour que la gravité se stabilise assez pour relancer ce sort, bien que les mages plus puissants y parviennent plus souvent.
+
+EN: Hurls an exploding ball of negative energy which drains any living creature it engulfs.
+FR: Lance une boule explosive d’énergie négative qui draine toute créature vivante qu’elle engloutit.
+
+EN: Uses an ally's motivating essence to create a blast of negative energy, draining any living creature it engulfs. The being used to fuel the spell, no matter whether living or construct, is consumed and unmade in the process.
+FR: Utilise l’essence motivante d’un allié pour créer une explosion d’énergie négative, drainant toute créature vivante qu’elle engloutit. L’être utilisé pour alimenter le sort, vivant ou artificiel, est consommé et défait dans l’opération.
+
+EN: Conjures forth a mighty blast of ice. Creatures within its cone-shaped area of effect take damage, with higher damage being dealt to those close to the caster. Those hit by the blast are encased in ice, slowing their movement, and those killed by the blast may be frozen into solid blocks of ice. Half of its damage bypasses cold resistance.
+FR: Fait jaillir une puissante explosion de glace. Les créatures dans sa zone en cône subissent des dégâts, plus élevés pour celles proches du lanceur. Celles qui sont touchées sont prises dans la glace, ce qui ralentit leurs mouvements, et celles qui sont tuées peuvent être figées en blocs de glace solide. La moitié de ses dégâts ignore la résistance au froid.
+
+EN: Emits a wave of pernicious gloom which attempts to smother the light around nearby creatures. Any living, demonic or holy creature caught in the effect may briefly lose their eyesight and be left stumbling blindly.
+FR: Émet une vague de pénombre pernicieuse qui tente d’étouffer la lumière autour des créatures proches. Toute créature vivante, démoniaque ou sainte prise dans l’effet peut perdre brièvement la vue et se retrouver à tituber à l’aveugle.
+
+EN: Willpower is useless against this spell, but stronger creatures may still shrug off its effects.
+FR: La volonté est inutile contre ce sort, mais les créatures plus fortes peuvent tout de même en ignorer les effets.
+
+EN: Calls giant grasping roots from deep underground that hold and constrict their victim. The roots will retreat if the victim breaks free or if the caller moves out of view.
+FR: Fait surgir de grandes racines agrippantes des profondeurs du sol, qui retiennent et étranglent leur victime. Les racines se retirent si la victime se libère ou si l’invocateur sort de la vue.
+
+EN: Calls forth the spite of the recently dead to skewer a targeted enemy with shards of bone. This spell never misses, and will pin its target in place for several turns, but casting it rapidly consumes the remnants of death that linger upon the caster.
+FR: Fait surgir la rancune des morts récents pour embrocher un ennemi ciblé avec des éclats d’os. Ce sort ne rate jamais et cloue sa cible sur place pendant plusieurs tours, mais le lancer consomme rapidement les restes de mort qui s’attardent sur le lanceur.
+
+EN: You can stockpile enough malice to cast this spell at most three times, and this can only be replenished by causing the death of a sufficient number of living beings.
+FR: Vous pouvez accumuler assez de malveillance pour lancer ce sort au plus trois fois, et elle ne se reconstitue qu’en causant la mort d’un nombre suffisant d’êtres vivants.
+
+EN: Summons a major demon.
+FR: Convoque un démon majeur.
+
+EN: Shoots a stream of webbing at a creature, ensnaring them in a sticky web and scattering additional webs nearby that dissolve after a short length of time.
+FR: Tire un jet de toile sur une créature, l’empêtrant dans une toile collante et éparpillant d’autres toiles à proximité qui se dissolvent après un court moment.
+
+EN: Conjures a cannonade of hail, battering nearby creatures that fail to dodge. The eye of the storm is wide enough that monsters adjacent to the caster are unaffected. Due to the strong impact and cutting edges, half of its damage bypasses cold resistance.
+FR: Conjure une cannonade de grêle qui martèle les créatures proches incapables de l’esquiver. L’œil de la tempête est assez large pour que les monstres adjacents au lanceur soient épargnés. À cause de la force des impacts et des arêtes coupantes, la moitié de ses dégâts ignore la résistance au froid.
+
+EN: Speeds the actions of a nearby ally.
+FR: Accélère les actions d’un allié proche.
+
+EN: Fires a long and flexible barbed mass. The ensnared victim will either be pulled adjacent to the caster or collide with anything blocking the way.
+FR: Tire une longue masse barbelée et flexible. La victime prise est soit tirée à côté du lanceur, soit projetée contre ce qui bloque le chemin.
+
+EN: Speeds the actions of the caster.
+FR: Accélère les actions du lanceur.
+
+EN: Summons demons of flame and damnation.
+FR: Convoque des démons de flamme et de damnation.
+
+EN: Splits apart the ground in front of the caster and sculpts a terrifying weapon out of molten rock. This mortar will move slowly along the lava-filled chasm, autonomously launching gouts of magma at the caster's enemies as it does so.
+FR: Fend le sol devant le lanceur et sculpte une arme terrifiante dans la roche en fusion. Ce mortier avance lentement le long de la crevasse emplie de lave, lançant de lui-même des jets de magma sur les ennemis du lanceur.
+
+EN: When it reaches the end of its path, or is obstructed in its movement by another creature, it will sink back into the lava, and the chasm will seal itself shut shortly thereafter.
+FR: Quand il atteint la fin de son parcours, ou si un autre être gêne son déplacement, il s’enfonce de nouveau dans la lave, et la crevasse se referme peu après.
+
+EN: Heals a nearby ally.
+FR: Soigne un allié proche.
+
+EN: Inspires nearby allies to quicken their movement.
+FR: Inspire les alliés proches pour qu’ils accélèrent leurs déplacements.
+
+EN: Conjures a focused blast of highly toxic sludge, poisoning the victim and drenching their surroundings. The sludge damages and poisons all monsters, even those resistant to poison.
+FR: Conjure un jet concentré de boue très toxique qui empoisonne la victime et détrempe ses environs. La boue blesse et empoisonne tous les monstres, même ceux résistants au poison.
+
+EN: Fires a shard of ice that coats whatever it hits with a layer of brittle frost which slows their movement.
+FR: Tire un éclat de glace qui recouvre ce qu’il touche d’une couche de givre cassant qui ralentit ses mouvements.
+
+EN: Each shot fired will deplete the cannon's remaining durability, but if it survives to fire 5 times, the final shot will fragment to hit all enemies around the primary target for additional damage.
+FR: Chaque tir épuise la durabilité restante du canon, mais s’il survit pour tirer 5 fois, le dernier tir se fragmente pour toucher tous les ennemis autour de la cible principale et leur infliger des dégâts supplémentaires.
+
+EN: Sculpts a pair of icy cannons that assail the caster's enemies from long range. The frigid shards they fire rapidly coat their targets with a layer of brittle frost which slows their movement.
+FR: Sculpte une paire de canons de glace qui harcèlent les ennemis du lanceur de loin. Les éclats glacés qu’ils tirent recouvrent rapidement leurs cibles d’une couche de givre cassant qui ralentit leurs mouvements.
+
+EN: The cannons are short-lived and consume a part of themselves with every shard they fire, but if they survive to fire their final salvo without interference, it will be extra-powerful.
+FR: Les canons ont une vie brève et consomment une partie d’eux-mêmes à chaque éclat tiré, mais s’ils survivent jusqu’à leur dernière salve sans être gênés, celle-ci sera extra puissante.
+
+EN: Hurls a gout of umbral torchlight which deals irresistible damage to living, demonic, and holy beings. The torchlight will also briefly empower any friendly undead caught in its blast, increasing their melee damage and granting them one free action.
+FR: Lance un jet de lumière de torche ombreuse qui inflige des dégâts irrésistibles aux êtres vivants, démoniaques et saints. La lumière renforce aussi brièvement les morts-vivants alliés pris dans son explosion, augmentant leurs dégâts de mêlée et leur accordant une action gratuite.
+
+EN: It is harmless to those who worship Yredelemnul.
+FR: Elle est inoffensive pour ceux qui vénèrent Yredelemnul.
+
+EN: Fires a large mass of ice, which explodes on impact. Half of its damage bypasses cold resistance.
+FR: Tire une grosse masse de glace qui explose à l’impact. La moitié de ses dégâts ignore la résistance au froid.
+
+EN: Causes a ring of sharp icy thorns to sprout from the ground around a targeted enemy. These thorns deal damage to any non-flying creature which steps on them and then crumble away.
+FR: Fait jaillir du sol un anneau d’épines de glace tranchantes autour d’un ennemi ciblé. Ces épines blessent toute créature non volante qui marche dessus, puis s’effritent.
+
+EN: The caster can step onto their own thorns without harm (but they will still crumble when doing so).
+FR: Le lanceur peut marcher sur ses propres épines sans mal (mais elles s’effritent tout de même).
+
+EN: All foes in the caster's surroundings are engulfed in balls of fire. The caster and their allies are protected from the fire and will never be harmed by this spell.
+FR: Tous les ennemis aux alentours du lanceur sont engloutis dans des boules de feu. Le lanceur et ses alliés sont protégés du feu et ne sont jamais blessés par ce sort.
+
+EN: Bends the weave of fate against a target, inflicting significant Doom. Cannot be used if there are any obstructions between the caster and their target.
+FR: Tord la trame du destin contre une cible, infligeant une Fatalité importante. Ne peut être utilisé s’il y a un obstacle entre le lanceur et sa cible.
+
+EN: Calls forth a plague of scarabs, infesting affected creatures for a duration depending on power and causing death scarabs to grow and burst from them upon death.
+FR: Fait surgir une plaie de scarabées, infestant les créatures affectées pendant une durée dépendant de la puissance et faisant pousser des scarabées de la mort qui éclatent de leur corps à leur mort.
+
+EN: Reflects damage taken for a short duration, hurting attackers whenever the caster takes any damage. After the duration wears off, the caster cannot cast this spell again for a short while.
+FR: Reflète les dégâts subis pendant une courte durée, blessant les attaquants chaque fois que le lanceur subit des dégâts. Une fois la durée écoulée, le lanceur ne peut plus lancer ce sort avant un moment.
+
+EN: Releases a thick cloud of ink to obscure vision.
+FR: Libère un épais nuage d’encre qui obscurcit la vue.
+
+EN: Turns the caster invisible and randomly displaces them a short distance away.
+FR: Rend le lanceur invisible et le déplace aléatoirement à courte distance.
+
+EN: While an enemy is invisible to you, your accuracy against them is reduced and you suffer a major penalty to your evasion and ability to block any attacks they make against you.
+FR: Tant qu’un ennemi vous est invisible, votre précision contre lui est réduite et vous subissez une lourde pénalité à votre évasion et à votre capacité à bloquer ses attaques contre vous.
+
+EN: Turns a nearby ally invisible.
+FR: Rend un allié proche invisible.
+
+EN: Hurls a large and heavy metal shot.
+FR: Lance une grosse et lourde boule de métal.
+
+EN: Transmutes an ultra-thin layer of the caster's skin (or equivalent) directly into pure magical energy, blasting adjacent creatures. It may heavily deform its victims, weakening them and reducing their armour. The caster is not left entirely unaffected; some of the magic lingers, enough to leave them dangerously contaminated after a few castings.
+FR: Transmute une couche ultra-fine de la peau du lanceur (ou équivalent) directement en pure énergie magique, frappant les créatures adjacentes. Elle peut déformer gravement ses victimes, les affaiblissant et réduisant leur armure. Le lanceur n’en sort pas indemne : une partie de la magie persiste, assez pour le laisser dangereusement contaminé après quelques lancers.
+
+EN: Conjures a small globe of destructive energy. Each time its creator casts a offensive spell, the battlesphere will also fire an unerring volley of energy at the most injured nearby foe it can reach.
+FR: Conjure un petit globe d’énergie destructrice. Chaque fois que son créateur lance un sort offensif, la sphère de bataille tire aussi une volée d’énergie infaillible sur l’ennemi proche le plus blessé qu’elle peut atteindre.
+
+EN: The battlesphere's creator can freely fire through its position without harming it.
+FR: Le créateur de la sphère de bataille peut tirer librement à travers sa position sans la blesser.
+
+EN: Calls the attention of trickster spirits. While it holds, the spirits will follow up on the caster's attacks. If the spell overcomes victims' willpower, they will suffer minor damage and be drained by the sprites' playful malice.
+FR: Attire l’attention d’esprits farceurs. Tant que le sort dure, les esprits enchaînent sur les attaques du lanceur. Si le sort vient à bout de la volonté des victimes, elles subissent des dégâts mineurs et sont drainées par la malice joueuse des lutins.
+
+EN: Fae assistance is fickle, however; they cannot be beckoned unless a susceptible victim is visible, and will depart rapidly once no more remain. Calling on the fae also reduces the caster's own willpower for a time.
+FR: L’aide des fées est capricieuse, cependant : on ne peut les appeler que si une victime sensible est visible, et elles repartent vite quand il n’en reste plus. Appeler les fées réduit aussi la volonté du lanceur pendant un temps.
+
+EN: Weaves a thin kinetic filament around the caster's melee weapon and launches the other end of it at a nearby enemy. If this grapnel successfully hits and does damage, it will become lodged in them, allowing the next melee attack the caster performs against them to strike with perfect accuracy and a small slaying bonus.
+FR: Tisse un mince filament cinétique autour de l’arme de mêlée du lanceur et lance l’autre bout vers un ennemi proche. Si ce grappin touche et inflige des dégâts, il se fiche dans la cible, permettant à la prochaine attaque de mêlée du lanceur contre elle de frapper avec une précision parfaite et un petit bonus de tuerie.
+
+EN: Brings forth a cloud of volatile blastmotes around the caster. These explode on contact with open flame or with creatures - including any caster foolish enough to linger in them! The explosion is concussive, knocking adjacent creatures away. Damage done rises with the spell's power.
+FR: Fait apparaître autour du lanceur un nuage de particules explosives instables. Elles explosent au contact d’une flamme nue ou de créatures, y compris tout lanceur assez fou pour s’y attarder ! L’explosion est commotionnelle et repousse les créatures adjacentes. Les dégâts augmentent avec la puissance du sort.
+
+EN: Violently fractures the landscape, causing rubble to fall upon several nearby enemies and also the ground behind them - obstructing their path to flee the caster.
+FR: Fracture violemment le paysage, faisant tomber des gravats sur plusieurs ennemis proches ainsi que sur le sol derrière eux, ce qui leur barre le chemin pour fuir le lanceur.
+
+EN: Fires a bomblet on a ballistic trajectory that ignores line of fire, dealing minor damage to a single target within range and deploying the bomblet near it.
+FR: Tire une bombinette sur une trajectoire balistique qui ignore la ligne de tir, infligeant des dégâts mineurs à une cible unique à portée et déposant la bombinette près d’elle.
+
+EN: Cannot target enemies adjacent to the caster or those with no nearby room for the bomblet to land.
+FR: Ne peut pas viser les ennemis adjacents au lanceur ni ceux sans place à proximité où la bombinette puisse atterrir.
+
+EN: Constructs a mechanical bee and winds its clockwork mechanisms over several turns before unleashing it against a targeted foe. The bee is swift and powerful, but its clockwork quickly winds down as it attacks, eventually leaving it helpless and unable to move.
+FR: Construit une abeille mécanique et remonte ses mécanismes pendant plusieurs tours avant de la lâcher sur un ennemi ciblé. L’abeille est rapide et puissante, mais son mécanisme se déroule vite pendant qu’elle attaque, la laissant finalement sans défense et incapable de bouger.
+
+EN: The caster may repair and rewind a dormant bee by attempting to move into it, at the cost of 1 MP.
+FR: Le lanceur peut réparer et remonter une abeille inactive en essayant de se déplacer sur elle, pour 1 PM.
+
+EN: Spellpower increases the number of attacks the bee may perform before going dormant.
+FR: La puissance du sort augmente le nombre d’attaques que l’abeille peut effectuer avant de s’immobiliser.
+
+EN: Launches a caustic sporangium which will pursue any intriguing sources of nutrients - such as yourself - and engulf them in a massive acidic explosion. Nascent plasmodia, capable of firing acid of their own, may take root on any walls this explosion touches - though none within 2 tiles of any other.
+FR: Lance un sporange caustique qui poursuit toute source de nutriments intéressante, comme vous, et l’engloutit dans une énorme explosion acide. Des plasmodes naissants, capables de tirer leur propre acide, peuvent prendre racine sur les murs touchés par cette explosion, mais jamais à moins de 2 cases d’un autre.
+
+EN: Liquefies the ground around the caster, making it difficult to move through. Any movement through liquefied ground will be slowed, and creatures stuck in the liquefied ground will be unable to fly. Attempts to attack the caster in melee may fail.
+FR: Liquéfie le sol autour du lanceur, rendant le déplacement difficile. Tout mouvement dans le sol liquéfié est ralenti, et les créatures coincées dedans ne peuvent pas voler. Les attaques de mêlée contre le lanceur peuvent échouer.
+
+EN: The effect starts out with a radius depending on power, which will then shrink, eventually covering only the caster, before it times out. Maintaining the connection to the ground slows the caster's movement, even if they are flying.
+FR: L’effet commence avec un rayon dépendant de la puissance, qui rétrécit ensuite jusqu’à ne plus couvrir que le lanceur avant de se terminer. Maintenir le lien avec le sol ralentit le lanceur, même s’il vole.
+
+EN: Fragments a wall or a suitably brittle visible monster into an explosion of deadly shrapnel. It can be used on monsters made of ice, bone, or any wall-like substance, as well as those turned to stone by petrification. Its damage is strongly reduced by armour.
+FR: Fragmente un mur ou un monstre visible suffisamment cassant en une explosion d’éclats mortels. Peut être utilisé sur les monstres de glace, d’os ou de toute substance semblable à un mur, ainsi que sur ceux pétrifiés. Ses dégâts sont fortement réduits par l’armure.
+
+EN: Targets made from rock, stone, ice or bone will cause a small explosion. Metal targets will cause a small but more damaging explosion, and targets made from crystal will cause a large and more damaging explosion.
+FR: Les cibles en roche, pierre, glace ou os causent une petite explosion. Les cibles métalliques causent une explosion petite mais plus dommageable, et les cibles en cristal une grande explosion encore plus dommageable.
+
+EN: Conjures two explosive magical effects in instant succession. The effects can be any mix of Fireball, Iceblast, and Ghostly Fireball.
+FR: Conjure deux effets magiques explosifs en succession instantanée. Les effets peuvent être n’importe quelle combinaison de Boule de feu, d’Explosion de glace et de Boule de feu fantomatique.
+
+EN: Beckons the target forward, attempting to place them adjacent to the caster.
+FR: Attire la cible vers l’avant, tentant de la placer adjacente au lanceur.
+
+EN: Fires a mighty penetrating bolt of lightning. Its damage bypasses half of defenders' armour, and it can be bounced off walls to hit targets twice.
+FR: Tire un puissant rayon perforant de foudre. Ses dégâts ignorent la moitié de l’armure des défenseurs, et il peut rebondir sur les murs pour toucher les cibles deux fois.
+
+EN: Fires penetrating bolts of molten rock at up to two different enemy targets. Half of its damage bypasses fire resistance.
+FR: Tire des rayons perforants de roche en fusion sur jusqu’à deux ennemis différents. La moitié de ses dégâts ignore la résistance au feu.
+
+EN: Envelops a target in a thin layer of magnetically charged metal fragments, then unleashes a powerful surge of electricity that arcs unerringly towards every visible target coated in these fragments - firing an additional beam at each target thus marked.
+FR: Enveloppe une cible d’une fine couche de fragments métalliques chargés magnétiquement, puis libère une puissante décharge électrique qui s’arque infailliblement vers chaque cible visible recouverte de ces fragments, tirant un rayon supplémentaire sur chaque cible ainsi marquée.
+
+EN: Magnetised creatures are additionally unable to evade attacks and will be revealed if invisible. If they die while still coated, they will leave behind a short-lived cloud of electrified metal that will continue to serve as a lightning rod for this spell.
+FR: Les créatures magnétisées ne peuvent en outre plus esquiver les attaques et sont révélées si elles sont invisibles. Si elles meurent encore recouvertes, elles laissent un nuage éphémère de métal électrifié qui continue de servir de paratonnerre pour ce sort.
+
+EN: Shoots a random harmful beam or explosion at the targeted creature.
+FR: Tire un rayon ou une explosion nuisible au hasard sur la créature ciblée.
+
+EN: Warps space into paradoxical configurations to strike many visible foes with one melee attack. Power increases the number of foes attacked with one cast, though unarmed attacks strike only half as many targets at once, as additional care must be taken when warping one's own limbs.
+FR: Déforme l’espace en configurations paradoxales pour frapper de nombreux ennemis visibles d’une seule attaque de mêlée. La puissance augmente le nombre d’ennemis attaqués par lancer, bien que les attaques à mains nues ne frappent que moitié moins de cibles à la fois, car il faut prendre un soin supplémentaire en déformant ses propres membres.
+
+EN: The time taken for the attack is exactly the same as a normal melee attack. Attacks performed this way never miss, but the exact spot struck cannot be controlled precisely, making them unable to do extra damage against unsuspecting foes.
+FR: Le temps nécessaire à l’attaque est exactement le même qu’une attaque de mêlée normale. Les attaques ainsi faites ne ratent jamais, mais l’endroit exact frappé ne peut être contrôlé précisément, ce qui les empêche d’infliger des dégâts supplémentaires aux ennemis sans méfiance.
+
+EN: Weaves illusions of the caster. Such illusions have the same physical prowess as the original, and can cast the same spells.
+FR: Tisse des illusions du lanceur. Ces illusions ont la même prouesse physique que l’original et peuvent lancer les mêmes sorts.
+
+EN: Conjures a stream of stolen suffering, leaving clouds of excruciating misery in its wake and around its targets. These clouds of negative energy will rapidly drain the living of small fractions of their maximum health.
+FR: Conjure un flot de souffrance volée, laissant dans son sillage et autour de ses cibles des nuages de misère déchirante. Ces nuages d’énergie négative drainent rapidement de petites fractions de la santé maximale des êtres vivants.
+
+EN: Conjures two balls of burning swamp gas adjacent to the caster. The balls will rapidly seek the nearest monster and burn them. Wizards attempted to copy this with the spell 'Foxfire', but their version is much less powerful.
+FR: Conjure deux boules de gaz de marais enflammé adjacentes au lanceur. Les boules cherchent rapidement le monstre le plus proche et le brûlent. Des magiciens ont tenté de copier cela avec le sort « Feu follet », mais leur version est bien moins puissante.
+
+EN: Beckons forth the soul of a long-dead martyr to shield your allies for a time. This soul suffers a portion of the damage your allies would otherwise receive.
+FR: Fait venir l’âme d’un martyr mort depuis longtemps pour protéger vos alliés un temps. Cette âme subit une partie des dégâts que vos alliés recevraient autrement.
+
+EN: If it is slain (again!), it will transform into a flayed ghost, inflicting illusory wounds on foes. Such wounds are fleeting, and will disappear when the ghost departs - unless you kill its victims first.
+FR: Si elle est tuée (à nouveau !), elle se transforme en fantôme écorché, infligeant des blessures illusoires aux ennemis. Ces blessures sont éphémères et disparaissent quand le fantôme s’en va, à moins que vous ne tuiez d’abord ses victimes.
+
+EN: Causes all allied monsters nearby to rapidly regenerate over a short period of time. This regeneration is proportional to each of those creature's maximum health.
+FR: Fait régénérer rapidement tous les monstres alliés proches pendant un court moment. Cette régénération est proportionnelle à la santé maximale de chacune de ces créatures.
+
+EN: Gradually builds up electric charge in the caster, so long as they maintain focus (by waiting in place and not taking any other actions). When a threshold is reached, the charge couples with the nearest visible foe, vaporising them instantly. Higher spell power will allow the caster to accumulate charge more rapidly. The spell requires a visible target to begin accumulating charge, though a different foe may be affected when the charge is released.
+FR: Accumule peu à peu une charge électrique dans le lanceur, tant qu’il garde sa concentration (en attendant sur place sans faire d’autre action). Quand un seuil est atteint, la charge se couple à l’ennemi visible le plus proche et le vaporise instantanément. Une puissance de sort plus élevée permet au lanceur d’accumuler la charge plus vite. Le sort exige une cible visible pour commencer à accumuler la charge, mais un autre ennemi peut être touché quand la charge est libérée.
+
+EN: Compresses an envelope of space around the caster and an adjacent enemy (or a contiguous line of enemies), then allows it to decompress abruptly, propelling everyone forward until the unfortunate being at the far end collides with something solid, inflicting damage on them proportional to the distance travelled.
+FR: Comprime une enveloppe d’espace autour du lanceur et d’un ennemi adjacent (ou d’une ligne continue d’ennemis), puis la laisse se décompresser brutalement, propulsant tout le monde vers l’avant jusqu’à ce que le malheureux au bout heurte quelque chose de solide, lui infligeant des dégâts proportionnels à la distance parcourue.
+
+EN: Conjures a fragile flask that explodes into short-lived clouds of noxious fumes. These clouds may cause confusion in any creature not resistant to poison. Tougher, more experienced creatures are less likely to be affected.
+FR: Conjure une fiole fragile qui explose en nuages éphémères de vapeurs nocives. Ces nuages peuvent causer de la confusion chez toute créature non résistante au poison. Les créatures plus robustes et expérimentées sont moins susceptibles d’être touchées.
+
+EN: Attempts to entrance all enemies in sight. Adventurers who fail to resist will become unable to move away from the caster, while other creatures will become dazed outright.
+FR: Tente de fasciner tous les ennemis en vue. Les aventuriers qui échouent à résister ne pourront plus s’éloigner du lanceur, tandis que les autres créatures seront purement et simplement hébétées.
+
+EN: Creates a large cloud of foul pestilence, poisoning and sometimes slowing any living creatures it touches.
+FR: Crée un grand nuage de pestilence immonde, empoisonnant et parfois ralentissant toute créature vivante qu’il touche.
+
+EN: Significantly increases a nearby ally's damage dealt in melee.
+FR: Augmente considérablement les dégâts de mêlée d’un allié proche.
+
+EN: Significantly increases the caster's damage in melee.
+FR: Augmente considérablement les dégâts de mêlée du lanceur.
+
+EN: Launches a psychic attack. If it overcomes the victim's willpower, it 'blows their mind' in a violently literal fashion, dealing damage that bypasses their armour entirely. It is useless against mindless creatures.
+FR: Lance une attaque psychique. Si elle vient à bout de la volonté de la victime, elle lui « fait exploser l’esprit » de façon violemment littérale, infligeant des dégâts qui ignorent entièrement son armure. Inutile contre les créatures sans esprit.
+
+EN: Summons a powerful exotic creature to the caster's aid: either a manticore, a lindwurm, or a sphinx marauder.
+FR: Convoque une puissante créature exotique pour aider le lanceur : une manticore, un lindwurm ou un maraudeur sphinx.
+
+EN: Conjures an arrow of elemental mercury which deals direct poison damage to whatever it hits and may also weaken their melee attacks for a short while.
+FR: Conjure une flèche de mercure élémentaire qui inflige des dégâts de poison directs à ce qu’elle touche et peut aussi affaiblir ses attaques de mêlée pendant un court moment.
+
+EN: The physical force of the arrow inflicts a small amount of damage even to those immune to poison, and the weakening effect can splash to adjacent targets and ignores poison resistance altogether.
+FR: La force physique de la flèche inflige un peu de dégâts même aux cibles immunisées au poison, et l’effet d’affaiblissement peut se propager aux cibles adjacentes et ignore totalement la résistance au poison.
+
+EN: Exhales a stream of forgotten grief, leaving clouds of excruciating misery in its wake but skipping past creatures that would be vulnerable to it. These clouds of negative energy will rapidly drain the living of small fractions of their maximum health.
+FR: Exhale un flot de chagrin oublié, laissant dans son sillage des nuages de misère déchirante mais évitant les créatures qui y seraient vulnérables. Ces nuages d’énergie négative drainent rapidement de petites fractions de la santé maximale des êtres vivants.
+
+EN: Summons some glowmurk ghasts, which spread both magical contamination and shallow water in a single attack before disappearing.
+FR: Convoque des goules de la vase lumineuse, qui répandent à la fois contamination magique et eau peu profonde en une seule attaque avant de disparaître.
+
+EN: Causes mutagenic energy to accumulate in a target, eventually reaching levels high enough to cause harmful mutations or explosions of unstable magical energy.
+FR: Fait s’accumuler de l’énergie mutagène dans une cible, jusqu’à atteindre des niveaux assez élevés pour causer des mutations néfastes ou des explosions d’énergie magique instable.
+
+EN: This spell requires line of sight but not line of fire.
+FR: Ce sort nécessite une ligne de vue mais pas de ligne de tir.
+
+EN: Manifests a magical hammer that repairs and temporarily augments the offensive capabilities of any nearby construct - be it golem or phalanx beetle or even dancing weapon. This process results in a flurry of sparks, slag, and concussive shockwaves that do considerable damage to any enemies adjacent to the targeted construct, but it cannot be recast upon the same object until the enhancement wears off.
+FR: Fait apparaître un marteau magique qui répare et renforce temporairement les capacités offensives de tout artefact mécanique proche, qu’il s’agisse d’un golem, d’un scarabée phalange ou même d’une arme dansante. Cela produit une pluie d’étincelles, de scories et d’ondes de choc qui infligent de lourds dégâts aux ennemis adjacents à la cible, mais le sort ne peut être relancé sur le même objet tant que le renforcement n’a pas disparu.
+
+EN: Manifests a magical hammer that repairs and temporarily augments the offensive capabilities of any construct that was created by the caster's own Forgecraft spells. This process results in a flurry of sparks, slag, and concussive shockwaves that do considerable damage to any enemies adjacent to the targeted construct, but it cannot be recast upon the same object until the enhancement wears off.
+FR: Fait apparaître un marteau magique qui répare et renforce temporairement les capacités offensives de toute construction créée par les propres sorts de Forge du lanceur. Cela produit une pluie d’étincelles, de scories et d’ondes de choc qui infligent de lourds dégâts aux ennemis adjacents à la cible, mais le sort ne peut être relancé sur le même objet tant que le renforcement n’a pas disparu.
+
+EN: Creates a large cloud of noxious fumes, which may cause confusion.
+FR: Crée un grand nuage de vapeurs nocives, qui peuvent causer de la confusion.
+
+EN: Causes the caster to radiate toxic energy, continuously inflicting poison on everything in line of sight for as long as the spell lasts.
+FR: Fait rayonner de l’énergie toxique autour du lanceur, empoisonnant en continu tout ce qui est en ligne de vue tant que le sort dure.
+
+EN: Hurls a crackling orb of electrical energy, creating a huge explosion on impact. Its damage bypasses half of defenders' armour.
+FR: Lance un orbe crépitant d’énergie électrique, créant une énorme explosion à l’impact. Ses dégâts ignorent la moitié de l’armure des défenseurs.
+
+EN: Isolates a target from the divine - temporarily reducing their piety in the eyes of whichever god they worship and denying them access to any divine abilities that piety would allow. Being repeatedly affected by this spell will reduce the one's effective piety further and further, but can never directly lead to excommunication.
+FR: Isole une cible du divin : réduit temporairement sa piété aux yeux du dieu qu’elle vénère et lui refuse l’accès à toute aptitude divine que cette piété permettrait. Être affecté à répétition par ce sort réduit de plus en plus la piété effective, mais ne peut jamais mener directement à l’excommunication.
+
+EN: This effect will slowly wear off as the afflicted being gains experience, eventually restoring access to the full piety they once possessed.
+FR: Cet effet s’estompe lentement à mesure que l’être affligé gagne de l’expérience, lui rendant finalement accès à toute la piété qu’il possédait.
+
+EN: Envelops the caster's body in a protective layer of thick ice, granting a substantial bonus to armour as long as they remain in their current location. The ice will crack and fall away if the caster moves to a new position. The spell decreases in effectiveness in heavier armour, granting a lower bonus the higher the encumbrance rating of the caster's armour.
+FR: Enveloppe le corps du lanceur d’une épaisse couche de glace protectrice, accordant un bonus substantiel d’armure tant qu’il reste à sa position actuelle. La glace se fissure et tombe si le lanceur change de position. Le sort perd en efficacité avec les armures lourdes : le bonus est plus faible plus l’indice d’encombrement de l’armure du lanceur est élevé.
+
+EN: Turns the air bitterly cold, freezing all other creatures in line of sight. This is less effective against creatures packed tightly together - those adjacent to their allies will be partly insulated from the cold, taking less damage.
+FR: Rend l’air terriblement froid, gelant toutes les autres créatures en ligne de vue. C’est moins efficace contre des créatures serrées les unes contre les autres : celles adjacentes à leurs alliés sont partiellement isolées du froid et subissent moins de dégâts.
+
+EN: Irresistibly prevents a creature from taking any action for a short time, requiring multiple charges but not line of fire.
+FR: Empêche irrésistiblement une créature d’agir pendant un court moment ; nécessite plusieurs charges mais pas de ligne de tir.
+
+EN: Calls on the ancient cold lurking within the earth to emerge - violently. The force of its emergence blasts rock from the ceiling, smashing into the target with unavoidable force. The cold itself is brief but unbearably bitter, bypassing armour entirely as it freezes the target and their neighbours.
+FR: Appelle le froid ancestral tapi dans la terre à surgir, violemment. La force de sa sortie arrache de la roche du plafond, qui s’écrase sur la cible avec une force inévitable. Le froid lui-même est bref mais insupportablement mordant, ignorant totalement l’armure en gelant la cible et ses voisines.
+
+EN: It will always attempt to blast the largest concentration of foes in sight, and never explodes next to the caster.
+FR: Il vise toujours la plus grande concentration d’ennemis en vue et n’explose jamais à côté du lanceur.
+
+EN: Exhales calcifying dust, which petrifies anyone affected for longer than a brief moment.
+FR: Exhale une poussière calcifiante qui pétrifie quiconque y est exposé plus d’un bref instant.
+
+EN: Weaves and fires a phantom copy of the caster with great force. Such phantoms have the same martial and mystic prowess as the caster, and an impromptu night parade of illusions may overwhelm the caster's victims.
+FR: Tisse et lance avec grande force une copie fantôme du lanceur. Ces fantômes ont la même prouesse martiale et mystique que le lanceur, et une parade nocturne improvisée d’illusions peut submerger les victimes du lanceur.
+
+EN: Creates a phantom copy of a creature. The copy will be somewhat fragile, but otherwise almost indistinguishable from the original.
+FR: Crée une copie fantôme d’une créature. La copie est assez fragile, mais presque indiscernable de l’original.
+
+EN: Shifts the caster's body slighty out of phase with normal space, causing their exact position to become blurry and indistinct. Any attackers without supernaturally acute vision will have a much harder time hitting them and also be unable to assess the degree of their injuries.
+FR: Décale légèrement le corps du lanceur hors phase de l’espace normal, rendant sa position exacte floue et indistincte. Tout attaquant sans vision surnaturellement aiguë aura bien plus de mal à le toucher et ne pourra pas évaluer l’étendue de ses blessures.
+
+EN: Overlays part of an adjacent reality onto this one, causing random local monsters to appear elsewhere on the floor. The first time this is used, multiple monsters will arrive at once; afterward, they will appear at a slow, steady rate.
+FR: Superpose une partie d’une réalité adjacente à celle-ci, faisant apparaître ailleurs sur l’étage des monstres locaux au hasard. La première utilisation en fait arriver plusieurs d’un coup ; ensuite, ils apparaissent à un rythme lent et régulier.
+
+EN: After a considerable amount of time has passed, these monsters may even appear near the player.
+FR: Après un temps considérable, ces monstres peuvent même apparaître près du joueur.
+
+EN: Summons some of the greater threats from one of the Pits of Slime, the Elven Halls, the Vaults, the Crypt, the Tomb of Ancients, or the Realm of Zot; the specific branch varies with each cast of the spell.
+FR: Convoque certaines des plus grandes menaces des Fosses de vase, des Salles elfiques, des Caveaux, de la Crypte, du Tombeau des Anciens ou du Royaume de Zot ; la branche précise varie à chaque lancer du sort.
+
+EN: Fires a penetrating beam of plasma at one of the caster's most distant visible foes. The ionised beam bypasses half of defenders' armour, and a second beam of fire follows in its wake.
+FR: Tire un rayon perforant de plasma sur l’un des ennemis visibles les plus éloignés du lanceur. Le rayon ionisé ignore la moitié de l’armure des défenseurs, et un second rayon de feu suit dans son sillage.
+
+EN: Constructs a gleaming metal champion whose prowess rivals that of the greatest living warriors. It is resistant to all forms of magic and wields a perfect replica of any artefact melee weapon the caster chooses.
+FR: Construit un champion de métal étincelant dont la prouesse rivalise avec celle des plus grands guerriers vivants. Il résiste à toutes les formes de magie et manie une réplique parfaite de l’arme de mêlée artefact choisie par le lanceur.
+
+EN: It creates a damaging shockwave around itself when first deployed and slowly gains charge as it attacks enemies. When it has gained sufficient charge, the spell may be recast to overload the paragon, unleashing a flurry of attacks in a wide area which inflict increased damage, but destroying the paragon in the process.
+FR: Il crée une onde de choc dévastatrice autour de lui à son déploiement et accumule lentement de la charge en attaquant des ennemis. Quand il a accumulé assez de charge, le sort peut être relancé pour surcharger le parangon, déchaînant une rafale d’attaques sur une grande zone qui infligent des dégâts accrus, mais détruisant le parangon.
+
+EN: Due to the magical link it maintains with its creator, it will perform an extra attack whenever they do, and will sometimes even parry attacks directed at them, if they are close enough together.
+FR: Grâce au lien magique qu’il entretient avec son créateur, il effectue une attaque supplémentaire chaque fois que ce dernier en fait une, et parera même parfois les attaques dirigées contre lui, s’ils sont assez proches.
+
+EN: Transmutes a small amount of the air around a target into toxic vapours, poisoning anyone unfortunate enough to breathe them in. The quantity of air affected is small and it will not persist beyond the turn in which it is cast.
+FR: Transmute un peu de l’air autour d’une cible en vapeurs toxiques, empoisonnant quiconque a le malheur de les respirer. La quantité d’air affectée est faible et ne persiste pas au-delà du tour où le sort est lancé.
+
+EN: It cannot affect those with any resistance to poison.
+FR: Il ne peut pas affecter ceux qui ont une quelconque résistance au poison.
+
+EN: Turns the air around the caster into a freezing vortex, doing tremendous damage to everyone caught in it that can only be half-mitigated by resistance to cold. Those affected will also be swept up into the air and tossed around. Only the eye of the storm is a safe place, and it follows the caster. The spell's effectiveness is greatly diminished in closed areas. After the vortex fades, it cannot be called forth again for a short time.
+FR: Transforme l’air autour du lanceur en un tourbillon glacial, infligeant d’énormes dégâts à tous ceux qui y sont pris, que la résistance au froid ne peut réduire que de moitié. Les créatures touchées sont aussi emportées dans les airs et ballottées. Seul l’œil de la tempête est sûr, et il suit le lanceur. L’efficacité du sort est fortement réduite dans les zones fermées. Une fois le tourbillon dissipé, il ne peut être rappelé avant un court moment.
+
+EN: Transforms the target into a pig. The target moves swiftly but cannot cast spells. The caster's demise will cause the transformation to end.
+FR: Transforme la cible en cochon. La cible se déplace vite mais ne peut plus lancer de sorts. La mort du lanceur met fin à la transformation.
+
+EN: Teleports a fired or thrown missile at a targeted enemy.
+FR: Téléporte un projectile tiré ou lancé sur un ennemi ciblé.
+
+EN: Empowers the magic of nearby wizard allies of the caster, allowing them to cast their magic more powerfully and more often.
+FR: Renforce la magie des alliés magiciens proches du lanceur, leur permettant de lancer leurs sorts plus puissamment et plus souvent.
+
+EN: Conjures a torrent of water that may knock back the target, and creates a pool of shallow water for a short duration.
+FR: Conjure un torrent d’eau qui peut repousser la cible et crée une flaque d’eau peu profonde pendant un court moment.
+
+EN: Launches a glob of liquid fire that clings to a targeted creature, dealing armour-ignoring fire damage over multiple turns. The victim can put the fire out much more quickly by moving.
+FR: Lance une masse de feu liquide qui colle à une créature ciblée, lui infligeant des dégâts de feu ignorant l’armure sur plusieurs tours. La victime peut éteindre le feu beaucoup plus vite en se déplaçant.
+
+EN: If the target is insubstantial, the liquid fire will fail to stick.
+FR: Si la cible est immatérielle, le feu liquide ne colle pas.
+
+EN: Draws searing flames from lava. Any enemies of the caster standing next to or above lava will be burned.
+FR: Tire des flammes brûlantes de la lave. Tout ennemi du lanceur se tenant à côté ou au-dessus de la lave est brûlé.
+
+EN: Ignites a memory from the nimbus which surrounds Nobody, temporarily granting them the knowledge of a powerful spell and healing their injuries.
+FR: Allume un souvenir du nimbe qui entoure Personne, lui accordant temporairement la connaissance d’un puissant sort et soignant ses blessures.
+
+EN: This power is fleeting and will be extinguished after taking any significant amount of damage, but so long as any other memories remain, they cannot be put to rest for good.
+FR: Ce pouvoir est éphémère et s’éteint après avoir subi des dégâts importants, mais tant qu’il reste d’autres souvenirs, ils ne peuvent être définitivement mis au repos.
+
+EN: Fires a penetrating bolt of dispelling energy at a targeted creature, possibly removing some of its enchantments.
+FR: Tire un rayon perforant d’énergie dissipatrice sur une créature ciblée, pouvant retirer certains de ses enchantements.
+
+EN: Unleashes a torrent of vampire bats, filling the air around a target.
+FR: Libère un torrent de chauves-souris vampires, emplissant l’air autour d’une cible.
+
+EN: These vampires will gnaw on anything which isn't undead with a voracious hunger, and their bites will eventually even lull their victims to sleep, leaving them easy prey.
+FR: Ces vampires rongent tout ce qui n’est pas mort-vivant avec une faim vorace, et leurs morsures finissent même par endormir leurs victimes, les laissant sans défense.
+
+EN: Fires a penetrating bolt of energetic flames that can bounce off walls to hit targets twice.
+FR: Tire un rayon perforant de flammes énergiques qui peut rebondir sur les murs pour toucher les cibles deux fois.
+
+EN: Fires a penetrating bolt of energetic cold that can bounce off walls to hit targets twice.
+FR: Tire un rayon perforant de froid énergique qui peut rebondir sur les murs pour toucher les cibles deux fois.
+
+EN: Causes another creature to rapidly regenerate over a short period of time. This regeneration is proportional to that creature's maximum health.
+FR: Fait régénérer rapidement une autre créature pendant un court moment. Cette régénération est proportionnelle à la santé maximale de cette créature.
+
+EN: Condenses the caster's magical energy into the form of a violently crackling blade. Each time the caster successfully hits with a melee attack while the spell is active, this blade will rend a path back and forth through nearby foes, dealing irresistible damage.
+FR: Condense l’énergie magique du lanceur sous la forme d’une lame violemment crépitante. Chaque fois que le lanceur touche avec une attaque de mêlée pendant que le sort est actif, cette lame déchire un chemin d’avant en arrière à travers les ennemis proches, infligeant des dégâts irrésistibles.
+
+EN: Casting this spell temporarily drains *all* of the caster's remaining magical power to constitute the blade, but this energy will be returned to them as soon as the blade ceases to exist. Each point of magical power sequestered this way slightly increases the damage the blade inflicts.
+FR: Lancer ce sort draine temporairement *toute* la puissance magique restante du lanceur pour constituer la lame, mais cette énergie lui est rendue dès que la lame cesse d’exister. Chaque point de puissance magique ainsi mis de côté augmente légèrement les dégâts de la lame.
+
+EN: Calls a surge of power from the earth, striking an enemy within the caster's sight. The spell cascades through nearby constructs, growing in strength with each one standing near the target.
+FR: Appelle une montée de puissance de la terre, frappant un ennemi en vue du lanceur. Le sort se propage à travers les constructions proches, gagnant en force pour chacune se tenant près de la cible.
+
+EN: Afflicts a creature (and up to two others near it) with a magical plague that slowly freezes them from the inside out. Victims take AC-ignoring cold damage each turn, and as the disease progresses, shards of crystalline ice will start erupting violently from their body, damaging nearby enemies. When they finally succumb, the plague may spread to those around them.
+FR: Afflige une créature (et jusqu’à deux autres près d’elle) d’une peste magique qui la gèle lentement de l’intérieur. Les victimes subissent chaque tour des dégâts de froid ignorant la CA et, à mesure que la maladie progresse, des éclats de glace cristalline jaillissent violemment de leur corps, blessant les ennemis proches. Quand elles succombent enfin, la peste peut se propager à leur entourage.
+
+EN: In living, holy, or demonic creatures, the disease is especially virulent, feeding off the necromantic energies released by its host's suffering. As they approach the point of death, it will accelerate rapidly, devouring the last vestiges of their body and leaving nothing behind but a twisted pillar of stygian ice.
+FR: Chez les créatures vivantes, saintes ou démoniaques, la maladie est particulièrement virulente, se nourrissant des énergies nécromantiques libérées par la souffrance de son hôte. À l’approche de la mort, elle s’accélère rapidement, dévorant les dernières traces de leur corps et ne laissant qu’un pilier tordu de glace stygienne.
+
+EN: Roll into a ball, granting the boulder beetle tremendous speed as well as double melee damage. The roll may only be performed when at distance from a foe, and the beetle will always unroll after an attempted roll attack.
+FR: Se roule en boule, accordant au scarabée rocheux une vitesse énorme ainsi que des dégâts de mêlée doublés. La roulade ne peut être effectuée qu’à distance d’un ennemi, et le scarabée se déroule toujours après une tentative d’attaque en roulant.
+
+EN: Taints a targeted creature's ability to cast spells. Casting a spell while afflicted with this condition causes the target to lose access to their magic, briefly preventing them from casting any further spells.
+FR: Souille la capacité d’une créature ciblée à lancer des sorts. Lancer un sort sous cet état fait perdre à la cible l’accès à sa magie, l’empêchant brièvement de lancer d’autres sorts.
+
+EN: Scorches a random visible foe. Those injured by this have their resistance to fire burned away for a short time.
+FR: Brûle un ennemi visible au hasard. Ceux qui sont blessés ainsi voient leur résistance au feu consumée pendant un court moment.
+
+EN: Forms icy simulacra of an adjacent living, demonic, or holy creature. These fragile doppelgangers will take shape over a short period of time, eventually gaining the ability to move and attack the caster's enemies.
+FR: Forme des simulacres de glace d’une créature adjacente vivante, démoniaque ou sainte. Ces doubles fragiles prennent forme sur un court laps de temps et finissent par pouvoir se déplacer et attaquer les ennemis du lanceur.
+
+EN: The good gods frown on this spell, as it works blood and ichor into unnatural facsimiles.
+FR: Les bons dieux désapprouvent ce sort, qui façonne sang et ichor en facsimilés contre nature.
+
+EN: You can maintain up to 5 simulacra simultaneously.
+FR: Vous pouvez maintenir jusqu’à 5 simulacres simultanément.
+
+EN: Imparts seals on nearby doors and stairs, preventing those not allied with the caster from traversing them.
+FR: Appose des sceaux sur les portes et escaliers proches, empêchant ceux qui ne sont pas alliés du lanceur de les franchir.
+
+EN: Breathes a blast of fire at a targeted creature, leaving a cloud of flames at the endpoint.
+FR: Souffle une déflagration de feu sur une créature ciblée, laissant un nuage de flammes au point d’arrivée.
+
+EN: Stomps heavily upon the ground, sending out violent shockwaves that fracture the ground beneath multiple nearby enemies. Flying creatures take greatly reduced damage from this attack, but those on the ground may sometimes to lose their footing altogether, delaying their next action as they struggle to regain balance on the uneven terrain.
+FR: Piétine lourdement le sol, envoyant de violentes ondes de choc qui fracturent le sol sous plusieurs ennemis proches. Les créatures volantes subissent des dégâts très réduits, mais celles au sol peuvent parfois perdre pied, retardant leur prochaine action le temps de retrouver l’équilibre sur le terrain inégal.
+
+EN: Violently collapses a nearby simulacrum into a large mass of ice, which explodes on impact. The ice affects even cold-resistant creatures somewhat, due to the strong impact and cutting edges.
+FR: Fait s’effondrer violemment un simulacre proche en une grande masse de glace qui explose à l’impact. La glace affecte un peu même les créatures résistantes au froid, à cause de la force des impacts et des arêtes coupantes.
+
+EN: Hurls a ball of flickering shadows, which explodes in a small area.
+FR: Lance une boule d’ombres vacillantes qui explose sur une petite zone.
+
+EN: Fires a penetrating beam of shadow.
+FR: Tire un rayon perforant d’ombre.
+
+EN: Pins several random nearby enemies to their own shadows, briefly preventing them from moving. At higher spellpower, it affects more enemies at once.
+FR: Cloue plusieurs ennemis proches au hasard à leur propre ombre, les empêchant brièvement de bouger. À plus haute puissance, il affecte plus d’ennemis à la fois.
+
+EN: Creates replicas of creatures native to the caster's current location, weaving them from shadows and threads of Abyssal matter.
+FR: Crée des répliques de créatures natives de l’endroit où se trouve le lanceur, les tissant d’ombres et de fils de matière abyssale.
+
+EN: Forcefully steals a sliver from the shadows of all nearby enemies, causing damage which bypasses the victim's armour entirely.
+FR: Dérobe de force un fragment de l’ombre de tous les ennemis proches, causant des dégâts qui ignorent entièrement l’armure de la victime.
+
+EN: Conjures a shadowy prism which will unleash a violent blast of shadows after a short duration. If destroyed prematurely, this blast will be much weaker.
+FR: Conjure un prisme d’ombre qui libère une violente explosion d’ombres après un court délai. S’il est détruit prématurément, cette explosion est bien plus faible.
+
+EN: Summons a servant of living shadow to harass and constrict the caster's enemies. The strength of its attacks is directly increased by spellpower.
+FR: Convoque un serviteur d’ombre vivante pour harceler et étrangler les ennemis du lanceur. La force de ses attaques augmente directement avec la puissance du sort.
+
+EN: Fires a shard of hardened shadow at a single enemy.
+FR: Tire un éclat d’ombre durcie sur un seul ennemi.
+
+EN: Fires a small bullet of hardened shadow at a single enemy.
+FR: Tire une petite balle d’ombre durcie sur un seul ennemi.
+
+EN: Calls down shadowy lightning upon up to half of all visible enemies, dealing irresistible damage to them.
+FR: Fait tomber une foudre d’ombre sur jusqu’à la moitié de tous les ennemis visibles, leur infligeant des dégâts irrésistibles.
+
+EN: Saps the energy from a line of enemies, slowing them for a short while. Spellpower increases the duration of this effect, but stronger creatures may shake off their lethargy more quickly.
+FR: Draine l’énergie d’une ligne d’ennemis, les ralentissant un court moment. La puissance du sort augmente la durée de cet effet, mais les créatures plus fortes peuvent se défaire de leur léthargie plus vite.
+
+EN: Forms a stationary turret of solidified shadow that repeatedly fires upon the caster's enemies.
+FR: Forme une tourelle d’ombre solidifiée, immobile, qui tire à répétition sur les ennemis du lanceur.
+
+EN: Summons weapons from far and wide - a dagger newly forged, a sword long-rusted in a moldering tomb, an axe still steaming with the blood of its victim - animating them and sending them out to attack.
+FR: Convoque des armes de partout : une dague fraîchement forgée, une épée rouillée depuis longtemps dans une tombe moisie, une hache encore fumante du sang de sa victime. Il les anime et les envoie attaquer.
+
+EN: Spins in place, dealing grievous damage to adjacent enemies with its serrated body.
+FR: Tournoie sur place, infligeant de terribles dégâts aux ennemis adjacents avec son corps dentelé.
+
+EN: Creates two sigils nearby. Anyone who passes over them will be bound, able to act and dodge normally but unable to move away. For bound creatures other than the caster, their movement speed will rebound when the effect wears off, giving them temporary swiftness. Swiftness from any source grants immunity to binding.
+FR: Crée deux sceaux à proximité. Quiconque passe dessus est entravé : il peut agir et esquiver normalement mais ne peut plus s’éloigner. Pour les créatures entravées autres que le lanceur, leur vitesse de déplacement rebondit quand l’effet se dissipe, leur donnant une célérité temporaire. La célérité de toute source donne l’immunité à l’entrave.
+
+EN: Only one set of sigils can be maintained at a time, and they will expire prematurely if they leave your sight.
+FR: Un seul jeu de sceaux peut être maintenu à la fois, et ils expirent prématurément s’ils sortent de votre vue.
+
+EN: Inflicts the sign of ruin upon a group of enemies, condemning their bodies to inexorable decay and collapse. Whenever anything bearing this sign receives damage from a melee attack, they will suffer heavy draining and may additionally become either slow, weak, or blind.
+FR: Inflige le signe de la ruine à un groupe d’ennemis, condamnant leur corps à une décomposition et un effondrement inexorables. Chaque fois que quelque chose portant ce signe subit des dégâts d’une attaque de mêlée, il subit un fort drain et peut en outre devenir lent, faible ou aveugle.
+
+EN: Eliminates all sound near the caster. This makes reading scrolls, casting spells, invoking divine abilities, or shouting impossible in the caster's vicinity.
+FR: Élimine tout son près du lanceur. Cela rend impossible la lecture de parchemins, le lancer de sorts, l’invocation d’aptitudes divines ou les cris dans les environs du lanceur.
+
+EN: Certain monsters have innate magical or special abilities which will still be usable while silenced.
+FR: Certains monstres ont des capacités magiques ou spéciales innées qui restent utilisables sous silence.
+
+EN: The effect starts out with a radius depending on power, which will then shrink, eventually covering only the caster, before it times out.
+FR: L’effet commence avec un rayon dépendant de la puissance, qui rétrécit ensuite jusqu’à ne plus couvrir que le lanceur avant de se terminer.
+
+EN: Torments nearby living foes, cutting their health in half. This damage is never directly lethal. The pain inflicted then heals the user.
+FR: Tourmente les ennemis vivants proches, réduisant leur santé de moitié. Ces dégâts ne sont jamais directement mortels. La douleur infligée soigne ensuite l’utilisateur.
+
+EN: Sings a haunting song that mesmerises nearby listeners. Adventurers who fail to resist will become unable to move away from the singer, while other creatures will become dazed outright.
+FR: Chante un chant envoûtant qui hypnotise les auditeurs proches. Les aventuriers qui échouent à résister ne pourront plus s’éloigner du chanteur, tandis que les autres créatures seront purement et simplement hébétées.
+
+EN: Causes the air around a creature to twist itself into a whirling vortex of frigid meteorological fury, encasing the victim in ice and slowing their movement briefly. It does more damage to targets surrounded by empty space and half of its damage bypasses cold resistance.
+FR: Tord l’air autour d’une créature en un tourbillon de fureur météorologique glaciale, emprisonnant la victime dans la glace et ralentissant brièvement ses mouvements. Il inflige plus de dégâts aux cibles entourées de vide, et la moitié de ses dégâts ignore la résistance au froid.
+
+EN: Fires a sharp dart of hardened chitin.
+FR: Tire un dard acéré de chitine durcie.
+
+EN: Smites any targeted enemy within sight, with no direct line of fire required.
+FR: Foudroie tout ennemi ciblé en vue, sans besoin de ligne de tir directe.
+
+EN: Breathes a penetrating and unstable bijection burst. If it hits, it may teleport victims after a short delay. For particularly interesting morsels of adventurers such as yourself, this teleport will translocate those victims towards the caster's allies and bring the caster along for the ride, if possible.
+FR: Souffle une rafale de bijection perforante et instable. Si elle touche, elle peut téléporter les victimes après un court délai. Pour les morceaux particulièrement intéressants comme les aventuriers tels que vous, cette téléportation transporte les victimes vers les alliés du lanceur et emmène le lanceur avec elles, si possible.
+
+EN: Unleashes a gust of searingly hot wind, burning up to 3 adjacent creatures and blowing them backwards. Alas, the capricious winds left swirling around those creatures will also speed their movements for several turns afterward.
+FR: Libère une bourrasque de vent brûlant, incendiant jusqu’à 3 créatures adjacentes et les repoussant en arrière. Hélas, les vents capricieux restés autour de ces créatures accélèrent aussi leurs mouvements pendant plusieurs tours ensuite.
+
+EN: This spell cannot be recast for several turns and moving will delay its recharge.
+FR: Ce sort ne peut être relancé avant plusieurs tours, et se déplacer retarde sa recharge.
+
+EN: Attempts to force a tiny fragment of a living, holy, or demonic being's soul to take leave of their body and manifest as a soul wisp. This wisp is nominally under the necromancer's control, but will focus its attacks foremost on the creature it was created from, instinctually trying to return to its proper home once more. The victim will be weakened until the wisp reverts to where it belongs.
+FR: Tente de forcer un minuscule fragment de l’âme d’un être vivant, saint ou démoniaque à quitter son corps et à se manifester sous forme de volute d’âme. Cette volute est nominalement sous le contrôle du nécromant, mais concentre ses attaques avant tout sur la créature dont elle est issue, tentant d’instinct de regagner sa vraie demeure. La victime reste affaiblie jusqu’à ce que la volute retourne là où elle doit être.
+
+EN: Wisps created from more powerful souls have more damaging attacks, but are always fragile.
+FR: Les volutes créées à partir d’âmes plus puissantes ont des attaques plus dévastatrices, mais restent toujours fragiles.
+
+EN: Extends large tentacles to attack nearby enemies.
+FR: Étend de grands tentacules pour attaquer les ennemis proches.
+
+EN: Creates a cloud of spectral mist, dealing minor damage to all creatures other than the undead. Dangerous but short-lived spectral undead creatures will coalesce from the mist over time.
+FR: Crée un nuage de brume spectrale, infligeant des dégâts mineurs à toutes les créatures sauf aux morts-vivants. Des morts-vivants spectraux dangereux mais éphémères se forment peu à peu à partir de la brume.
+
+EN: Constructs a metallic servant with a spark of the caster's own arcane knowledge at its core. This spark allows the servitor to unleash some of the destructive spells known to its creator, though the strongest and most volatile of magics cannot be imbued in this fashion. The strength of the servitor increases with spell power.
+FR: Construit un serviteur métallique avec en son cœur une étincelle du savoir arcanique du lanceur. Cette étincelle permet au serviteur de libérer certains des sorts destructeurs connus de son créateur, bien que les magies les plus fortes et volatiles ne puissent être instillées ainsi. La force du serviteur augmente avec la puissance du sort.
+
+EN: (While you know this spell, you may choose which of your eligible spells it will cast with the Imbue Servitor ability.)
+FR: (Tant que vous connaissez ce sort, vous pouvez choisir lequel de vos sorts éligibles il lancera avec l’aptitude Imprégner le serviteur.)
+
+EN: Summons a pair of riddling sphinxes - one guardian and one marauder - to debilitate the caster's enemies with hexes and batter them with violent winds.
+FR: Convoque une paire de sphinx à énigmes, un gardien et un maraudeur, pour affaiblir les ennemis du lanceur avec des maléfices et les frapper de vents violents.
+
+EN: Spell power increases the sphinxes' durability and the power of their spells.
+FR: La puissance du sort augmente la solidité des sphinx et la puissance de leurs sorts.
+
+EN: Spits acid at a targeted creature.
+FR: Crache de l’acide sur une créature ciblée.
+
+EN: Spits lava at a targeted creature. Half of its damage bypasses fire resistance.
+FR: Crache de la lave sur une créature ciblée. La moitié de ses dégâts ignore la résistance au feu.
+
+EN: Constructs a frangible shell of reinforced ice in a half-circle around the caster, pushing creatures out of the way to make space for it, if possible.
+FR: Construit une coque fragile de glace renforcée en demi-cercle autour du lanceur, repoussant si possible les créatures pour lui faire de la place.
+
+EN: This barricade is durable, and whenever a segment of it is destroyed, will fracture into a salvo of icy projectiles launched at whatever destroyed it.
+FR: Cette barricade est solide et, chaque fois qu’un de ses segments est détruit, il se fracture en une salve de projectiles de glace lancés sur ce qui l’a détruit.
+
+EN: If the caster strays too far away from their barrier, it will melt rapidly.
+FR: Si le lanceur s’éloigne trop de sa barrière, elle fond rapidement.
+
+EN: Fires a burst of wooden splinters. Its damage is strongly reduced by armour.
+FR: Tire une rafale d’éclats de bois. Ses dégâts sont fortement réduits par l’armure.
+
+EN: Releases a fast, gas-filled floating spore. After seeking out its foe, the spore will explode, damaging anything caught in the blast and further confusing living creatures.
+FR: Libère une spore flottante rapide, emplie de gaz. Après avoir cherché son ennemi, la spore explose, blessant tout ce qui est pris dans l’explosion et confondant davantage les créatures vivantes.
+
+EN: Charges rapidly in a straight line towards a foe. The user will move at double speed in that direction each turn afterward, attacking any enemies in their path with increased damage and accuracy and pushing them backward, until they either become unable to move or have overshot their target.
+FR: Charge rapidement en ligne droite vers un ennemi. L’utilisateur se déplace ensuite à double vitesse dans cette direction à chaque tour, attaquant les ennemis sur son chemin avec des dégâts et une précision accrus et les repoussant en arrière, jusqu’à ne plus pouvoir bouger ou avoir dépassé sa cible.
+
+EN: Can only be used while their target is standing in a compass direction from the user.
+FR: Ne peut être utilisé que si la cible se trouve dans une direction cardinale par rapport à l’utilisateur.
+
+EN: Releases penetrating bolts of fire from the caster in every direction.
+FR: Libère des rayons perforants de feu depuis le lanceur dans toutes les directions.
+
+EN: Casts forth sticks and transforms them into snakes. Stronger casters will always create stronger snakes.
+FR: Jette des bâtons et les transforme en serpents. Les lanceurs plus puissants créent toujours des serpents plus puissants.
+
+EN: Unleashes a short-ranged spray of incendiary goo that clings to an adjacent creature and deals armour-ignoring fire damage over several turns. If the victim is allowed to move, it will put out the fire prematurely.
+FR: Libère un jet à courte portée de goudron incendiaire qui colle à une créature adjacente et inflige des dégâts de feu ignorant l’armure sur plusieurs tours. Si la victime peut bouger, elle éteindra le feu prématurément.
+
+EN: Brings the air into unnatural stillness across a huge area, preventing anything short of a polar vortex from breaking the calm. The effect takes concentration to maintain, and only lasts a short time; if the caster is killed, clouds will begin to form again as normal.
+FR: Plonge l’air dans une immobilité surnaturelle sur une zone immense, empêchant quoi que ce soit d’autre qu’un vortex polaire de rompre le calme. L’effet demande de la concentration pour être maintenu et ne dure que peu de temps ; si le lanceur est tué, les nuages recommencent à se former normalement.
+
+EN: Conjures a jagged shard of crystallised toxins. The stinger's impact will always poison a susceptible target. Even resistant targets have a chance to be poisoned and immune monsters will still be damaged by the physical impact of the stinger.
+FR: Conjure un éclat dentelé de toxines cristallisées. L’impact du dard empoisonne toujours une cible sensible. Même les cibles résistantes ont une chance d’être empoisonnées, et les monstres immunisés subissent tout de même les dégâts physiques de l’impact du dard.
+
+EN: Adds malice to hellish fires, binding it with flame into a creeping inferno.
+FR: Ajoute de la malveillance aux feux infernaux, les liant à la flamme en un brasier rampant.
+
+EN: Fires a sharp spine of rock.
+FR: Tire une pointe acérée de roche.
+
+EN: Greatly reduces the target's willpower, making them more vulnerable to a variety of magical effects.
+FR: Réduit fortement la volonté de la cible, la rendant plus vulnérable à divers effets magiques.
+
+EN: Fires a weak electrical burst which, on impact, causes very brief paralysis. Willpower is of no use against this effect, but resistance to electricity can sometimes prevent it.
+FR: Tire une faible décharge électrique qui, à l’impact, cause une très brève paralysie. La volonté est sans effet contre elle, mais la résistance à l’électricité peut parfois l’empêcher.
+
+EN: Converts some of the caster's blood into magical energy. The process is painful but never directly lethal. The efficiency of the conversion increases with the spell's power.
+FR: Convertit une partie du sang du lanceur en énergie magique. Le procédé est douloureux mais jamais directement mortel. L’efficacité de la conversion augmente avec la puissance du sort.
+
+EN: Summons a warrior from a particularly prickly tribe. Foes that strike these giants in melee are in for a painful surprise! When cast at a higher power, older, more robust warriors will answer the call.
+FR: Convoque un guerrier d’une tribu particulièrement hérissée. Les ennemis qui frappent ces géants au corps à corps vont avoir une douloureuse surprise ! Lancé à plus haute puissance, des guerriers plus âgés et plus robustes répondent à l’appel.
+
+EN: Opens a gate to the realm of Pandemonium and draws forth one of its inhabitants to serve the caster for a time.
+FR: Ouvre une porte vers le royaume du Pandémonium et en tire un habitant pour servir le lanceur pendant un temps.
+
+EN: Summons and binds a powerful dragon to perform the caster's bidding. At high power it may summon particularly deadly varieties of dragon, or multiple lesser dragons at once.
+FR: Convoque et lie un puissant dragon pour exécuter les ordres du lanceur. À haute puissance, il peut convoquer des variétés de dragons particulièrement mortelles, ou plusieurs dragons inférieurs à la fois.
+
+EN: Summons multiple drakes and lindwurms.
+FR: Convoque plusieurs dracs et lindwurms.
+
+EN: Summons multiple noble and monstrous emperor scorpions.
+FR: Convoque plusieurs nobles et monstrueux scorpions empereurs.
+
+EN: Summons multiple Executioners to tear apart foes of the caster.
+FR: Convoque plusieurs Bourreaux pour déchiqueter les ennemis du lanceur.
+
+EN: Summons multiple floating eyeballs that may be able to vitrify, polymorph, confuse, mutate or disintegrate.
+FR: Convoque plusieurs globes oculaires flottants qui peuvent vitrifier, polymorpher, confondre, muter ou désintégrer.
+
+EN: Forcefully intersects a forested plane with this world. It requires open space to succeed. While the spell holds, a spirit of the forest will be called forth, and the trees of the forest will be awakened to deal damage to nearby enemies. Spell power increases the duration, size, and thickness of the intersected plane; as well as the strength of the spirit.
+FR: Fait se croiser de force un plan forestier avec ce monde. Il faut de l’espace libre pour réussir. Tant que le sort tient, un esprit de la forêt est appelé et les arbres de la forêt s’éveillent pour blesser les ennemis proches. La puissance du sort augmente la durée, la taille et l’épaisseur du plan croisé, ainsi que la force de l’esprit.
+
+EN: Calls forth one of the greater demons of Pandemonium to serve the caster.
+FR: Fait venir l’un des grands démons du Pandémonium pour servir le lanceur.
+
+EN: Summons a deadly sin beast.
+FR: Convoque une redoutable bête du péché.
+
+EN: Summons a Hell Sentinel, a nightmarish edifice of animated hate.
+FR: Convoque une Sentinelle infernale, édifice cauchemardesque de haine animée.
+
+EN: Calls forth divine warriors to aid the caster.
+FR: Fait venir des guerriers divins pour aider le lanceur.
+
+EN: Calls forth a beast of ice to serve the caster. The strength of the beast depends on spell power.
+FR: Fait venir une bête de glace pour servir le lanceur. La force de la bête dépend de la puissance du sort.
+
+EN: Summons a violet-scaled serpent whose bite can swiftly drain the magical reserves of nearly any foe. At higher power, the antimagic properties of the viper's bite grow even stronger.
+FR: Convoque un serpent aux écailles violettes dont la morsure peut vider rapidement les réserves magiques de presque n’importe quel ennemi. À plus haute puissance, les propriétés antimagiques de la morsure de la vipère deviennent encore plus fortes.
+
+EN: Calls forth one of the mightiest and fastest mortal champions of the Shining One. In this Dungeon, spriggan defenders and deep elf blademasters will answer the call.
+FR: Fait venir l’un des plus puissants et rapides champions mortels de l’Être Radieux. Dans ce Donjon, des défenseurs spriggans et des maîtres de lame elfes profonds répondront à l’appel.
+
+EN: Summons wandering mushrooms and deathcaps next to a targeted creature.
+FR: Convoque des champignons errants et des amanites près d’une créature ciblée.
+
+EN: Calls forth a swarm of death scarabs.
+FR: Fait venir un essaim de scarabées de la mort.
+
+EN: Calls forth a swarm of venomous scorpions.
+FR: Fait venir un essaim de scorpions venimeux.
+
+EN: Summons the egg of a brutish lizard, just on the verge of hatching. So long as there are visible foes nearby and the caster remains adjacent to the egg, it will hatch several turns after being summoned to wreak havoc upon its summoner's foes.
+FR: Convoque l’œuf d’un lézard brutal, sur le point d’éclore. Tant qu’il y a des ennemis visibles à proximité et que le lanceur reste adjacent à l’œuf, il éclôt plusieurs tours après avoir été convoqué pour semer le chaos chez les ennemis de son invocateur.
+
+EN: Even as a juvenile, a seismosaurus is a force to be reckoned with. It is nearly as hardy as a mountain, and its footfalls are capable of creating violent seismic shockwaves. Each shockwave deals considerable damage to non-flying enemies, and may sometimes even cause them to lose their footing altogether.
+FR: Même juvénile, un séismosaure est une force avec laquelle il faut compter. Il est presque aussi robuste qu’une montagne, et ses pas sont capables de créer de violentes ondes de choc sismiques. Chaque onde inflige de lourds dégâts aux ennemis non volants et peut parfois leur faire perdre pied.
+
+EN: Spell power increases the egg's durability and the strength of the seismosaur within, but not the time it takes to hatch.
+FR: La puissance du sort augmente la solidité de l’œuf et la force du séismosaure à l’intérieur, mais pas le temps d’éclosion.
+
+EN: Summons one or more spiders.
+FR: Convoque une ou plusieurs araignées.
+
+EN: Summons a tzitzimitl, a demon of disease and despair.
+FR: Convoque un tzitzimitl, démon de la maladie et du désespoir.
+
+EN: Summons multiple undead monsters, creating various ghosts, vampires, wraiths and other lesser undead.
+FR: Convoque plusieurs monstres morts-vivants, créant divers fantômes, vampires, spectres et autres morts-vivants mineurs.
+
+EN: Summons multiple rats, spiders, worms, and frogs.
+FR: Convoque plusieurs rats, araignées, vers et grenouilles.
+
+EN: Calls on the powers of darkness to cause agonising injury to any living or holy thing in the caster's vicinity, cutting their health in half (partially resisted by negative energy resistance). This damage is never directly lethal.
+FR: Invoque les puissances des ténèbres pour causer des blessures atroces à toute créature vivante ou sainte dans les environs du lanceur, réduisant sa santé de moitié (partiellement résisté par la résistance à l’énergie négative). Ces dégâts ne sont jamais directement mortels.
+
+EN: Attempts to teleport a targeted creature out of the caster's sight, after a short delay.
+FR: Tente de téléporter une créature ciblée hors de la vue du lanceur, après un court délai.
+
+EN: Throws a nearby ally at the monster's foe, doing minimal damage and landing the thrown monster nearby.
+FR: Lance un allié proche sur l’ennemi du monstre, infligeant des dégâts minimes et faisant atterrir le monstre lancé à proximité.
+
+EN: Fires a volley of barbs at the target, skewering them and making movement painful.
+FR: Tire une volée de barbes sur la cible, l’embrochant et rendant ses mouvements douloureux.
+
+EN: Hurls a colossal bolas at the target, wrapping around even the largest of foes and binding them in place.
+FR: Lance un bolas colossal sur la cible, qui s’enroule même autour des plus grands ennemis et les immobilise.
+
+EN: Throws a small puff of flame.
+FR: Lance un petit souffle de flamme.
+
+EN: Throws a small puff of frost.
+FR: Lance un petit souffle de givre.
+
+EN: Fires a shard of ice. Due to its strong impact and cutting edges, half of its damage bypasses cold resistance.
+FR: Tire un éclat de glace. À cause de la force de son impact et de ses arêtes coupantes, la moitié de ses dégâts ignore la résistance au froid.
+
+EN: Throws a harmful yet strangely delicious pie that can inflict its victim with a number of irresistible and debilitating temporary effects. These include inducing vertigo, silence, fire vulnerability, fragility, blindness, or an aversion to drinking potions.
+FR: Lance une tarte nocive mais étrangement délicieuse qui peut infliger à sa victime plusieurs effets temporaires irrésistibles et handicapants : vertige, silence, vulnérabilité au feu, fragilité, cécité ou aversion pour les potions.
+
+EN: Unmoors a random nearby ally from space, granting it Manifold Assault as a natural ability (which permits it to strike many distant foes with a single melee attack that can't miss), and also giving it a chance to blink when it uses such.
+FR: Détache de l’espace un allié proche au hasard, lui accordant l’Assaut multiple comme aptitude naturelle (qui lui permet de frapper de nombreux ennemis distants d’une seule attaque de mêlée qui ne peut pas rater), et lui donnant aussi une chance de clignoter quand il l’utilise.
+
+EN: Conjures forth a fragment of the caster's essence and twists it into a fragment of death, painfully draining the victim. The caster, too, will find their health reduced, until they gain enough experience to recover.
+FR: Fait surgir un fragment de l’essence du lanceur et le tord en fragment de mort, drainant douloureusement la victime. Le lanceur voit lui aussi sa santé réduite, jusqu’à ce qu’il gagne assez d’expérience pour se rétablir.
+
+EN: Animates the weapon of a targeted foe, ripping it from their hands and causing it to attack them relentlessly. Once the target dies, the weapon will fall to the ground shortly thereafter.
+FR: Anime l’arme d’un ennemi ciblé, l’arrachant de ses mains et la faisant l’attaquer sans relâche. Une fois la cible morte, l’arme retombe au sol peu après.
+
+EN: Certain powerful named artefacts cannot be animated, and any properties that require skill in evocations will not be active.
+FR: Certains puissants artefacts nommés ne peuvent pas être animés, et toute propriété nécessitant de la compétence en évocations ne sera pas active.
+
+EN: Calls on the forces of nature to blast a small area with magma, ice, wind, or rubble.
+FR: Fait appel aux forces de la nature pour frapper une petite zone de magma, de glace, de vent ou de gravats.
+
+EN: Steals the life force from an adjacent creature and grants it to the caster.
+FR: Vole la force vitale d’une créature adjacente pour la donner au lanceur.
+
+EN: Calls out to the lingering souls of orcs who died in earlier ages, and, for a brief moment, gives them purpose in battle once again.
+FR: Appelle les âmes persistantes d’orcs morts à des âges anciens et, un bref instant, leur redonne un but au combat.
+
+EN: More anchored to their past lives than most spectrals, they wield polearms with living skill, and will encircle their quarry with cold efficiency.
+FR: Plus ancrés dans leurs vies passées que la plupart des spectres, ils manient les armes d’hast avec une habileté vivante et encerclent leur proie avec une efficacité glaciale.
+
+EN: Fires a penetrating bolt of poison.
+FR: Tire un rayon perforant de poison.
+
+EN: Attempts to cloud the target's mind with thoughtless frustration, forcing them to spend several turns doing nothing but attacking nearby spaces (whether those spaces are empty or even contain their allies).
+FR: Tente d’embrouiller l’esprit de la cible d’une frustration irréfléchie, la forçant à passer plusieurs tours à ne faire qu’attaquer les cases voisines (qu’elles soient vides ou même occupées par ses alliés).
+
+EN: Makes a targeted creature more vulnerable to poison.
+FR: Rend une créature ciblée plus vulnérable au poison.
+
+EN: Blasts a target with energy borrowed from the caster's own future movement. For a short time afterward, the caster will be left immotile - unable to walk, fly around, slither, etc. Only motile creatures can cast this spell.
+FR: Frappe une cible avec de l’énergie empruntée au futur mouvement du lanceur. Pendant un court moment ensuite, le lanceur reste immobile : incapable de marcher, voler, ramper, etc. Seules les créatures mobiles peuvent lancer ce sort.
+
+EN: Sends the caster hurtling at a chosen nearby enemy, launching a high-accuracy melee attack on arrival. Additional electric damage will be dealt based on the length of the charge, the power of the spell, and the physical damage of the attack. The caster is wrapped in an envelope of twisted space, allowing them to safely pass through creatures, traps, and harmful terrain, and to displace creatures at their destination. The time taken by the spell is the greater of the time normally needed to cast a spell or that needed to launch one melee attack.
+FR: Projette le lanceur sur un ennemi proche choisi, lançant une attaque de mêlée très précise à l’arrivée. Des dégâts électriques supplémentaires sont infligés selon la longueur de la charge, la puissance du sort et les dégâts physiques de l’attaque. Le lanceur est enveloppé d’une enveloppe d’espace tordu, lui permettant de traverser sans risque créatures, pièges et terrain nuisible, et de déplacer les créatures à destination. Le temps pris par le sort est le plus grand entre celui normalement nécessaire pour lancer un sort et celui nécessaire pour une attaque de mêlée.
+
+EN: Sends the caster hurtling at a chosen nearby enemy, launching a high-accuracy melee attack on arrival, with additional electrical damage based on spellpower. The caster is wrapped in an envelope of twisted space, allowing them to safely pass through creatures, traps, and harmful terrain, and to displace creatures at their destination.
+FR: Projette le lanceur sur un ennemi proche choisi, lançant une attaque de mêlée très précise à l’arrivée, avec des dégâts électriques supplémentaires selon la puissance du sort. Le lanceur est enveloppé d’une enveloppe d’espace tordu, lui permettant de traverser sans risque créatures, pièges et terrain nuisible, et de déplacer les créatures à destination.
+
+EN: Renders a creature's body structure as brittle and fragile as glass, increasing the damage they take from all sources.
+FR: Rend le corps d’une créature aussi cassant et fragile que du verre, augmentant les dégâts qu’elle subit de toutes sources.
+
+EN: Irresistibly renders a creature's body structure as brittle and fragile as glass, increasing the damage they take from all sources. It requires line of sight but not line of fire.
+FR: Rend irrésistiblement le corps d’une créature aussi cassant et fragile que du verre, augmentant les dégâts qu’elle subit de toutes sources. Nécessite une ligne de vue mais pas de ligne de tir.
+
+EN: Generates a loud noise, alerting nearby enemies.
+FR: Génère un bruit fort qui alerte les ennemis proches.
+
+EN: Twists a creature's body with mutagenic corruption, doing a small amount of damage and inflicting a transient mutation. If the target is already suffering from multiple transient mutations, it will inflict Vitrify instead.
+FR: Tord le corps d’une créature d’une corruption mutagène, infligeant quelques dégâts et une mutation transitoire. Si la cible subit déjà plusieurs mutations transitoires, elle subit Vitrification à la place.
+
+EN: Creates a brief but violent rift in space, damaging everything caught in its wake and sometimes blinking them a short distance away.
+FR: Crée une brève mais violente déchirure de l’espace, blessant tout ce qui se trouve sur son passage et le faisant parfois clignoter à courte distance.
+
+EN: Causes the water around or under the target to violently swirl, dealing damage. It can affect targets standing in or flying above water.
+FR: Fait tourbillonner violemment l’eau autour ou sous la cible, infligeant des dégâts. Peut affecter des cibles debout dans l’eau ou volant au-dessus.
+
+EN: Irresistibly weakens a creature's melee attacks for a period of time, requiring line of sight but not line of fire.
+FR: Affaiblit irrésistiblement les attaques de mêlée d’une créature pendant un temps ; nécessite une ligne de vue mais pas de ligne de tir.
+
+EN: Causes a strong gust of wind, pushing away creatures and clouds in a cone. If this causes a creature to collide with something, it will take damage.
+FR: Provoque une forte rafale de vent, repoussant créatures et nuages dans un cône. Si cela fait heurter une créature contre quelque chose, elle subit des dégâts.
+
+EN: Draws on the vitality of leaf and bark to heal a large amount of damage. Cannot be cast without a tree adjacent.
+FR: Puise dans la vitalité des feuilles et de l’écorce pour soigner de nombreux dégâts. Impossible à lancer sans arbre adjacent.
+
+EN: Recalls intelligent allies from elsewhere on the same level to the caster, after a short delay.
+FR: Rappelle auprès du lanceur des alliés intelligents d’ailleurs sur le même étage, après un court délai.
+
+EN: If cast upon a creature already blessed (or cursed) with magical enchantments, those enchantments will be torn apart, transforming into a spray of destructive mutagenic radiation. The victim and anyone adjacent will be blasted and heavily deformed, weakening them and reducing their armour. Summoned creatures are particularly vulnerable, as the enchantments binding them to this plane will unravel and cause them to be dismissed immediately.
+FR: Si lancé sur une créature déjà bénie (ou maudite) par des enchantements magiques, ceux-ci sont déchirés et se transforment en une gerbe de radiations mutagènes destructrices. La victime et quiconque est adjacent sont frappés et gravement déformés, ce qui les affaiblit et réduit leur armure. Les créatures convoquées sont particulièrement vulnérables, car les enchantements qui les lient à ce plan se défont et les renvoient immédiatement.

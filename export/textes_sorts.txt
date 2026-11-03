@@ -1,0 +1,1253 @@
+EN: Cause Fear
+FR: Terreur
+
+EN: Magic Dart
+FR: Dard magique
+
+EN: Fireball
+FR: Boule de feu
+
+EN: Apportation
+FR: Apport
+
+EN: Volatile Blastmotes
+FR: Particules explosives
+
+EN: Dig
+FR: Creusement
+
+EN: Bolt of Fire
+FR: Rayon de feu
+
+EN: Bolt of Cold
+FR: Rayon de froid
+
+EN: Lightning Bolt
+FR: Éclair
+
+EN: Arcjolt
+FR: Secousse électrique
+
+EN: Plasma Beam
+FR: Rayon de plasma
+
+EN: Permafrost Eruption
+FR: Éruption de pergélisol
+
+EN: Blinkbolt
+FR: Éclair-clignement
+
+EN: Vhi's Electric Charge
+FR: Charge électrique de Vhi
+
+EN: Vhi's Electrolunge
+FR: Électro-fente de Vhi
+
+EN: Bolt of Magma
+FR: Rayon de magma
+
+EN: Polymorph
+FR: Polymorphie
+
+EN: Slow
+FR: Ralentissement
+
+EN: Haste
+FR: Hâte
+
+EN: Petrify
+FR: Pétrification
+
+EN: Confuse
+FR: Confusion
+
+EN: Invisibility
+FR: Invisibilité
+
+EN: Throw Flame
+FR: Jet de flammes
+
+EN: Throw Frost
+FR: Jet de givre
+
+EN: Disjunction
+FR: Disjonction
+
+EN: Freezing Cloud
+FR: Nuage glacial
+
+EN: Freezing Gust
+FR: Rafale glaciale
+
+EN: Mephitic Cloud
+FR: Nuage méphitique
+
+EN: Venom Bolt
+FR: Rayon de venin
+
+EN: Olgreb's Toxic Radiance
+FR: Radiance toxique d’Olgreb
+
+EN: Teleport Other
+FR: Téléportation d’autrui
+
+EN: Death's Door
+FR: Porte de la Mort
+
+EN: Mass Confusion
+FR: Confusion de masse
+
+EN: Smiting
+FR: Châtiment
+
+EN: Summon Small Mammal
+FR: Convocation de petit mammifère
+
+EN: Abjuration
+FR: Abjuration
+
+EN: Bolt of Draining
+FR: Rayon de drain
+
+EN: Lehudib's Crystal Spear
+FR: Lance de cristal de Lehudib
+
+EN: Polar Vortex
+FR: Vortex polaire
+
+EN: Poisonous Cloud
+FR: Nuage empoisonné
+
+EN: Fire Storm
+FR: Tempête de feu
+
+EN: Call Down Damnation
+FR: Appel de la damnation
+
+EN: Call Down Lightning
+FR: Appel de la foudre
+
+EN: Blink
+FR: Clignement
+
+EN: Blink Range
+FR: Portée de clignement
+
+EN: Blink Away
+FR: Clignement d’évasion
+
+EN: Blink Close
+FR: Clignement rapproché
+
+EN: Iskenderun's Mystic Blast
+FR: Explosion mystique d’Iskenderun
+
+EN: Summon Horrible Things
+FR: Convocation de choses horribles
+
+EN: Malign Gateway
+FR: Porte maligne
+
+EN: Charm
+FR: Charme
+
+EN: Animate Dead
+FR: Animation des morts
+
+EN: Pain
+FR: Douleur
+
+EN: Soul Splinter
+FR: Éclat d’âme
+
+EN: Vampiric Draining
+FR: Drain vampirique
+
+EN: Haunt
+FR: Hantise
+
+EN: Martyr's Knell
+FR: Glas du martyr
+
+EN: Borgnjor's Revivification
+FR: Revivification de Borgnjor
+
+EN: Freeze
+FR: Gel
+
+EN: Ozocubu's Refrigeration
+FR: Réfrigération d’Ozocubu
+
+EN: Sticky Flame
+FR: Flamme collante
+
+EN: Summon Ice Beast
+FR: Convocation de bête de glace
+
+EN: Ozocubu's Armour
+FR: Armure d’Ozocubu
+
+EN: Call Imp
+FR: Appel d’un diablotin
+
+EN: Deflect Missiles
+FR: Déviation des projectiles
+
+EN: Berserker Rage
+FR: Rage berserker
+
+EN: Dispel Undead
+FR: Renvoi des morts-vivants
+
+EN: Poison Arrow
+FR: Flèche empoisonnée
+
+EN: Banishment
+FR: Bannissement
+
+EN: Sting
+FR: Piqûre
+
+EN: Sublimation of Blood
+FR: Sublimation du sang
+
+EN: Tukima's Dance
+FR: Danse de Tukima
+
+EN: Summon Demon
+FR: Convocation de démon
+
+EN: Summon Greater Demon
+FR: Convocation de grand démon
+
+EN: Cigotuvi's Putrefaction
+FR: Putréfaction de Cigotuvi
+
+EN: Iron Shot
+FR: Tir de fer
+
+EN: Bombard
+FR: Bombardement
+
+EN: Stone Arrow
+FR: Flèche de pierre
+
+EN: Shock
+FR: Choc
+
+EN: Swiftness
+FR: Célérité
+
+EN: Agonising Touch
+FR: Toucher d’agonie
+
+EN: Curse of Agony
+FR: Malédiction d’agonie
+
+EN: Mindburst
+FR: Explosion mentale
+
+EN: Death Channel
+FR: Canal de mort
+
+EN: Symbol of Torment
+FR: Symbole du tourment
+
+EN: Siphon Essence
+FR: Siphon d’essence
+
+EN: Throw Icicle
+FR: Jet de stalactite
+
+EN: Airstrike
+FR: Frappe aérienne
+
+EN: Momentum Strike
+FR: Frappe d’élan
+
+EN: Shadow Creatures
+FR: Créatures d’ombre
+
+EN: Confusing Touch
+FR: Toucher confusant
+
+EN: Passwall
+FR: Passe-muraille
+
+EN: Ignite Poison
+FR: Inflammation du poison
+
+EN: Call Canine Familiar
+FR: Appel d’un familier canin
+
+EN: Summon Dragon
+FR: Convocation de dragon
+
+EN: Ensorcelled Hibernation
+FR: Hibernation ensorcelée
+
+EN: Metabolic Englaciation
+FR: Englacement métabolique
+
+EN: Silence
+FR: Silence
+
+EN: Shatter
+FR: Fracas
+
+EN: Dispersal
+FR: Dispersion
+
+EN: Static Discharge
+FR: Décharge statique
+
+EN: Corona
+FR: Couronne
+
+EN: Alistair's Intoxication
+FR: Intoxication d’Alistair
+
+EN: Lee's Rapid Deconstruction
+FR: Déconstruction rapide de Lee
+
+EN: Sandblast
+FR: Jet de sable
+
+EN: Sculpt Simulacrum
+FR: Sculpture de simulacre
+
+EN: Conjure Ball Lightning
+FR: Conjuration de foudre globulaire
+
+EN: Chain Lightning
+FR: Foudre en chaîne
+
+EN: Portal Projectile
+FR: Projectile-portail
+
+EN: Monstrous Menagerie
+FR: Ménagerie monstrueuse
+
+EN: Passage of Golubria
+FR: Passage de Golubria
+
+EN: Fulminant Prism
+FR: Prisme fulminant
+
+EN: Paralyse
+FR: Paralysie
+
+EN: Minor Healing
+FR: Soin mineur
+
+EN: Major Healing
+FR: Soin majeur
+
+EN: Woodweal
+FR: Bien-être du bois
+
+EN: Hurl Damnation
+FR: Lancer de damnation
+
+EN: Brain Bite
+FR: Morsure cérébrale
+
+EN: Noxious Cloud
+FR: Nuage nocif
+
+EN: Steam Ball
+FR: Boule de vapeur
+
+EN: Ufetubi Swarm
+FR: Essaim d’Ufetubi
+
+EN: Summon Sin Beast
+FR: Convocation de bête du péché
+
+EN: Bolt of Devastation
+FR: Rayon de dévastation
+
+EN: Spit Poison
+FR: Crachat de poison
+
+EN: Summon Undead
+FR: Convocation de mort-vivant
+
+EN: Cantrip
+FR: Tour de magie
+
+EN: Quicksilver Bolt
+FR: Rayon de vif-argent
+
+EN: Metal Splinters
+FR: Éclats de métal
+
+EN: Splinterspray
+FR: Gerbe d’éclats
+
+EN: Miasma Breath
+FR: Souffle de miasme
+
+EN: Summon Drakes
+FR: Convocation de dracs
+
+EN: Blink Other
+FR: Clignement d’autrui
+
+EN: Blink Other Close
+FR: Clignement d’autrui rapproché
+
+EN: Summon Mushrooms
+FR: Convocation de champignons
+
+EN: Spit Acid
+FR: Crachat d’acide
+
+EN: Caustic Breath
+FR: Souffle caustique
+
+EN: Pyre Arrow
+FR: Flèche de bûcher
+
+EN: Fire Breath
+FR: Souffle de feu
+
+EN: Searing Breath
+FR: Souffle brûlant
+
+EN: Chaos Breath
+FR: Souffle du chaos
+
+EN: Cold Breath
+FR: Souffle de froid
+
+EN: Glacial Breath
+FR: Souffle glacial
+
+EN: Summon Water Elementals
+FR: Convocation d’élémentaires d’eau
+
+EN: Porkalator
+FR: Porcinisation
+
+EN: Spawn Tentacles
+FR: Génération de tentacules
+
+EN: Summon Eyeballs
+FR: Convocation de globes oculaires
+
+EN: Haste Other
+FR: Hâte d’autrui
+
+EN: Touch of Paradox
+FR: Toucher du paradoxe
+
+EN: Summon Earth Elementals
+FR: Convocation d’élémentaires de terre
+
+EN: Summon Air Elementals
+FR: Convocation d’élémentaires d’air
+
+EN: Summon Fire Elementals
+FR: Convocation d’élémentaires de feu
+
+EN: Sleep
+FR: Sommeil
+
+EN: Mara Summon
+FR: Convocation de Mara
+
+EN: Summon Illusion
+FR: Convocation d’illusion
+
+EN: Primal Wave
+FR: Vague primordiale
+
+EN: Call Tide
+FR: Appel de la marée
+
+EN: Orb of Destruction
+FR: Orbe de destruction
+
+EN: Ink Cloud
+FR: Nuage d’encre
+
+EN: Might
+FR: Puissance
+
+EN: Might Other
+FR: Puissance d’autrui
+
+EN: Awaken Forest
+FR: Éveil de la forêt
+
+EN: Druid's Call
+FR: Appel du druide
+
+EN: Brothers in Arms
+FR: Frères d’armes
+
+EN: Trog's Hand
+FR: Main de Trog
+
+EN: Summon Mortal Champion
+FR: Convocation de champion mortel
+
+EN: Vanquished Vanguard
+FR: Avant-garde vaincue
+
+EN: Summon Holies
+FR: Convocation de saints
+
+EN: Heal Other
+FR: Soin d’autrui
+
+EN: Holy Flames
+FR: Flammes sacrées
+
+EN: Holy Breath
+FR: Souffle sacré
+
+EN: Injury Mirror
+FR: Miroir de blessure
+
+EN: Drain Life
+FR: Drain de vie
+
+EN: Leda's Liquefaction
+FR: Liquéfaction de Leda
+
+EN: Summon Hydra
+FR: Convocation d’hydre
+
+EN: Mesmerise
+FR: Fascination
+
+EN: Hellfire Court
+FR: Cour du feu infernal
+
+EN: Petrifying Cloud
+FR: Nuage pétrifiant
+
+EN: Inner Flame
+FR: Flamme intérieure
+
+EN: Ensnare
+FR: Piégeage
+
+EN: Greater Ensnare
+FR: Grand piégeage
+
+EN: Thunderbolt
+FR: Foudroiement
+
+EN: Iskenderun's Battlesphere
+FR: Sphère de bataille d’Iskenderun
+
+EN: Summon Minor Demon
+FR: Convocation de démon mineur
+
+EN: Sticks to Snakes
+FR: Bâtons en serpents
+
+EN: Malmutate
+FR: Malmutation
+
+EN: Gloom
+FR: Pénombre
+
+EN: Beckoning Gale
+FR: Rafale d’appel
+
+EN: Force Lance
+FR: Lance de force
+
+EN: Sentinel's Mark
+FR: Marque de la sentinelle
+
+EN: Word of Recall
+FR: Mot de rappel
+
+EN: Injury Bond
+FR: Lien de blessure
+
+EN: Spectral Cloud
+FR: Nuage spectral
+
+EN: Ghostly Fireball
+FR: Boule de feu fantomatique
+
+EN: Call Lost Souls
+FR: Appel des âmes perdues
+
+EN: Dimension Anchor
+FR: Ancre dimensionnelle
+
+EN: Blink Allies Encircling
+FR: Clignement d’alliés en cercle
+
+EN: Awaken Vines
+FR: Éveil des lianes
+
+EN: Volley of Thorns
+FR: Volée d’épines
+
+EN: Cage of Brambles
+FR: Cage de ronces
+
+EN: Waterstrike
+FR: Frappe d’eau
+
+EN: Wind Blast
+FR: Coup de vent
+
+EN: Strip Willpower
+FR: Retrait de volonté
+
+EN: Fugue of the Fallen
+FR: Fugue des déchus
+
+EN: Summon Vermin
+FR: Convocation de vermine
+
+EN: Malign Offering
+FR: Offrande maligne
+
+EN: Searing Ray
+FR: Rayon brûlant
+
+EN: Discord
+FR: Discorde
+
+EN: Invisibility Other
+FR: Invisibilité d’autrui
+
+EN: Virulence
+FR: Virulence
+
+EN: Orb of Electricity
+FR: Orbe d’électricité
+
+EN: Flash Freeze
+FR: Gel éclair
+
+EN: Creeping Frost
+FR: Givre rampant
+
+EN: Legendary Destruction
+FR: Destruction légendaire
+
+EN: Forceful Invitation
+FR: Invitation forcée
+
+EN: Plane Rend
+FR: Déchirure du plan
+
+EN: Chain of Chaos
+FR: Chaîne du chaos
+
+EN: Call of Chaos
+FR: Appel du chaos
+
+EN: Sign of Ruin
+FR: Signe de ruine
+
+EN: Sap Magic
+FR: Sape-magie
+
+EN: Major Destruction
+FR: Destruction majeure
+
+EN: Blink Allies Away
+FR: Clignement d’alliés au loin
+
+EN: Summon Forest
+FR: Convocation de forêt
+
+EN: Forge Lightning Spire
+FR: Forge de flèche de foudre
+
+EN: Forge Blazeheart Golem
+FR: Forge de golem cœur-de-braise
+
+EN: Rebounding Blaze
+FR: Brasier rebondissant
+
+EN: Rebounding Chill
+FR: Froid rebondissant
+
+EN: Glaciate
+FR: Glaciation
+
+EN: Dragon's Call
+FR: Appel du dragon
+
+EN: Spellspark Servitor
+FR: Serviteur d’étincelle de sort
+
+EN: Summon Mana Viper
+FR: Convocation de vipère de mana
+
+EN: Phantom Mirror
+FR: Miroir fantôme
+
+EN: Diminish Spells
+FR: Amoindrissement des sorts
+
+EN: Corrosive Bolt
+FR: Rayon corrosif
+
+EN: Bolt of Light
+FR: Rayon de lumière
+
+EN: Bolt of Antimagic
+FR: Rayon d’antimagie
+
+EN: Bolt of Flesh
+FR: Rayon de chair
+
+EN: Awaken Flesh
+FR: Éveil de la chair
+
+EN: Summon Emperor Scorpions
+FR: Convocation de scorpions empereurs
+
+EN: Irradiate
+FR: Irradiation
+
+EN: Spit Lava
+FR: Crachat de lave
+
+EN: Electrical Bolt
+FR: Rayon électrique
+
+EN: Flaming Cloud
+FR: Nuage enflammé
+
+EN: Throw Barbs
+FR: Jet de barbes
+
+EN: Battlecry
+FR: Cri de guerre
+
+EN: Warning Cry
+FR: Cri d’alerte
+
+EN: Hunting Call
+FR: Appel de chasse
+
+EN: Funeral Dirge
+FR: Chant funèbre
+
+EN: Seal Doors
+FR: Scellement des portes
+
+EN: Flay
+FR: Écorchement
+
+EN: Berserk Other
+FR: Berserk d’autrui
+
+EN: Corrupting Pulse
+FR: Pulsation corruptrice
+
+EN: Siren Song
+FR: Chant de sirène
+
+EN: Avatar Song
+FR: Chant de l’avatar
+
+EN: Murky Legion
+FR: Légion trouble
+
+EN: Paralysis Gaze
+FR: Regard paralysant
+
+EN: Confusion Gaze
+FR: Regard confusant
+
+EN: Antimagic Gaze
+FR: Regard antimagique
+
+EN: Draining Gaze
+FR: Regard drainant
+
+EN: Weakening Gaze
+FR: Regard affaiblissant
+
+EN: Mourning Wail
+FR: Lamentation de deuil
+
+EN: Death Rattle
+FR: Râle de mort
+
+EN: March of Sorrows
+FR: Marche des douleurs
+
+EN: Summon Scarabs
+FR: Convocation de scarabées
+
+EN: Throw Ally
+FR: Lancer d’allié
+
+EN: Cleansing Flame
+FR: Flamme purificatrice
+
+EN: Gell's Gravitas
+FR: Gravité de Gell
+
+EN: Yara's Violent Unravelling
+FR: Défaire violent de Yara
+
+EN: Entropic Weave
+FR: Tissage entropique
+
+EN: Summon Executioners
+FR: Convocation de bourreaux
+
+EN: Oblivion Howl
+FR: Hurlement d’oubli
+
+EN: Prayer of Brilliance
+FR: Prière de brillance
+
+EN: Iceblast
+FR: Explosion de glace
+
+EN: Slug Dart
+FR: Dard de limace
+
+EN: Fleetfoot
+FR: Pied léger
+
+EN: Infernal Servant
+FR: Serviteur infernal
+
+EN: Bind Souls
+FR: Lien des âmes
+
+EN: Infestation
+FR: Infestation
+
+EN: Still Winds
+FR: Vents calmes
+
+EN: Resonance Strike
+FR: Frappe de résonance
+
+EN: Ghostly Sacrifice
+FR: Sacrifice fantomatique
+
+EN: Dream Dust
+FR: Poussière de rêve
+
+EN: Lesser Beckoning
+FR: Appel mineur
+
+EN: Upheaval
+FR: Bouleversement
+
+EN: Mercury Arrow
+FR: Flèche de mercure
+
+EN: Poisonous Vapours
+FR: Vapeurs empoisonnées
+
+EN: Ignition
+FR: Ignition
+
+EN: Borgnjor's Vile Clutch
+FR: Étreinte vile de Borgnjor
+
+EN: Fastroot
+FR: Racine rapide
+
+EN: Warp Space
+FR: Distorsion de l’espace
+
+EN: Sojourning Bolt
+FR: Rayon voyageur
+
+EN: Harpoon Shot
+FR: Tir de harpon
+
+EN: Grasping Roots
+FR: Racines agrippantes
+
+EN: Throw Bolas
+FR: Jet de bolas
+
+EN: Throw Klown Pie
+FR: Jet de tarte de clown
+
+EN: Sporulate
+FR: Sporulation
+
+EN: Launch Sporangium
+FR: Lancer de sporange
+
+EN: Starburst
+FR: Explosion d’étoiles
+
+EN: Foxfire
+FR: Feu follet
+
+EN: Marshlight
+FR: Lumière des marais
+
+EN: Hailstorm
+FR: Tempête de grêle
+
+EN: Eringya's Noxious Bog
+FR: Bourbier nocif d’Eringya
+
+EN: Agony
+FR: Agonie
+
+EN: Dispel Undead Range
+FR: Renvoi des morts-vivants à distance
+
+EN: Frozen Ramparts
+FR: Remparts gelés
+
+EN: Maxwell's Capacitive Coupling
+FR: Couplage capacitif de Maxwell
+
+EN: Roll
+FR: Roulade
+
+EN: Hurl Sludge
+FR: Lancer de vase
+
+EN: Summon Tzitzimitl
+FR: Convocation de Tzitzimitl
+
+EN: Summon Hell Sentinel
+FR: Convocation de sentinelle infernale
+
+EN: Awaken Armour
+FR: Éveil de l’armure
+
+EN: Manifold Assault
+FR: Assaut multiple
+
+EN: Concentrate Venom
+FR: Concentration du venin
+
+EN: Eruption
+FR: Éruption
+
+EN: Pyroclastic Surge
+FR: Déferlante pyroclastique
+
+EN: Stunning Burst
+FR: Salve étourdissante
+
+EN: Corrupt
+FR: Corruption
+
+EN: Conjure Living Spells
+FR: Conjuration de sorts vivants
+
+EN: Summon Cactus Giant
+FR: Convocation de cactus géant
+
+EN: Stoke Flames
+FR: Attisement des flammes
+
+EN: Seracfall
+FR: Chute de séracs
+
+EN: Scorch
+FR: Brûlure
+
+EN: Flame Wave
+FR: Vague de flammes
+
+EN: Enfeeble
+FR: Affaiblissement
+
+EN: Summon Spiders
+FR: Convocation d’araignées
+
+EN: Anguish
+FR: Angoisse
+
+EN: Summon Scorpions
+FR: Convocation de scorpions
+
+EN: Sheza's Dance
+FR: Danse de Sheza
+
+EN: Divine Armament
+FR: Armement divin
+
+EN: Kiss of Death
+FR: Baiser de la mort
+
+EN: Jinxbite
+FR: Morsure maudite
+
+EN: Sigil of Binding
+FR: Sceau d’entrave
+
+EN: Dimensional Bullseye
+FR: Cible dimensionnelle
+
+EN: Brom's Barrelling Boulder
+FR: Rocher dévalant de Brom
+
+EN: Vitrify
+FR: Vitrification
+
+EN: Vitrifying Gaze
+FR: Regard vitrifiant
+
+EN: Crystallising Shot
+FR: Tir cristallisant
+
+EN: Tremorstone
+FR: Pierre de tremblement
+
+EN: Regenerate Other
+FR: Régénération d’autrui
+
+EN: Mass Regeneration
+FR: Régénération de masse
+
+EN: Noxious Breath
+FR: Souffle nocif
+
+EN: Unleash Destruction
+FR: Déchaînement de destruction
+
+EN: Hurl Torchlight
+FR: Lancer de lumière de torche
+
+EN: Combustion Breath
+FR: Souffle de combustion
+
+EN: Nullifying Breath
+FR: Souffle annulant
+
+EN: Steam Breath
+FR: Souffle de vapeur
+
+EN: Mud Breath
+FR: Souffle de boue
+
+EN: Galvanic Breath
+FR: Souffle galvanique
+
+EN: Maxwell's Portable Piledriver
+FR: Sonnette portable de Maxwell
+
+EN: Gell's Gavotte
+FR: Gavotte de Gell
+
+EN: Magnavolt
+FR: Magnavolt
+
+EN: Fulsome Fusillade
+FR: Fusillade abondante
+
+EN: Rimeblight
+FR: Givrure
+
+EN: Hoarfrost Cannonade
+FR: Canonnade de givre
+
+EN: Seismic Stomp
+FR: Piétinement sismique
+
+EN: Hoarfrost Bullet
+FR: Balle de givre
+
+EN: Flashing Balestra
+FR: Balestra fulgurante
+
+EN: Phantom Blitz
+FR: Blitz fantôme
+
+EN: Bestow Arms
+FR: Don d’armes
+
+EN: Hellfire Mortar
+FR: Mortier de feu infernal
+
+EN: Shadow Shard
+FR: Éclat d’ombre
+
+EN: Shadow Beam
+FR: Rayon d’ombre
+
+EN: Shadowball
+FR: Boule d’ombre
+
+EN: Creeping Shadow
+FR: Ombre rampante
+
+EN: Shadow Tempest
+FR: Tempête d’ombre
+
+EN: Shadow Prism
+FR: Prisme d’ombre
+
+EN: Shadow Puppet
+FR: Marionnette d’ombre
+
+EN: Shadow Turret
+FR: Tourelle d’ombre
+
+EN: Shadow Shot
+FR: Tir d’ombre
+
+EN: Shadow Bind
+FR: Entrave d’ombre
+
+EN: Shadow Torpor
+FR: Torpeur d’ombre
+
+EN: Shadow Draining
+FR: Drain d’ombre
+
+EN: Grave Claw
+FR: Griffe de la tombe
+
+EN: Launch Clockwork Bee
+FR: Lancer d’abeille mécanique
+
+EN: Construct Spike Launcher
+FR: Construction de lance-pointes
+
+EN: Kinetic Grapnel
+FR: Grappin cinétique
+
+EN: Diamond Sawblades
+FR: Lames de scie en diamant
+
+EN: Shred
+FR: Lacération
+
+EN: Eringya's Surprising Crocodile
+FR: Crocodile surprise d’Eringya
+
+EN: Platinum Paragon
+FR: Parangon de platine
+
+EN: Alistair's Walking Alembic
+FR: Alambic ambulant d’Alistair
+
+EN: Forge Monarch Bomb
+FR: Forge de bombe monarque
+
+EN: Launch Bomblet
+FR: Lancer de bombinette
+
+EN: Splinterfrost Shell
+FR: Coque d’éclats de givre
+
+EN: Nazja's Percussive Tempering
+FR: Trempe percussive de Nazja
+
+EN: Nazja's All-Purpose Tempering
+FR: Trempe polyvalente de Nazja
+
+EN: Fortress Blast
+FR: Explosion de forteresse
+
+EN: Summon Seismosaurus Egg
+FR: Convocation d’œuf de séismosaure
+
+EN: Forge Phalanx Beetle
+FR: Forge de scarabée phalange
+
+EN: Rending Blade
+FR: Lame déchirante
+
+EN: Magma Barrage
+FR: Barrage de magma
+
+EN: Vex
+FR: Vexation
+
+EN: Ravenous Swarm
+FR: Essaim vorace
+
+EN: Dominate Undead
+FR: Domination des morts-vivants
+
+EN: Detonation Catalyst
+FR: Catalyseur de détonation
+
+EN: Rust Breath
+FR: Souffle de rouille
+
+EN: Golden Breath
+FR: Souffle doré
+
+EN: Sphinx Sisters
+FR: Sœurs sphinx
+
+EN: Ill Omen
+FR: Mauvais présage
+
+EN: Doom Bolt
+FR: Rayon de fatalité
+
+EN: Warp Body
+FR: Distorsion du corps
+
+EN: Ostracise
+FR: Ostracisme
+
+EN: Mutagenic Gaze
+FR: Regard mutagène
+
+EN: Acid Ball
+FR: Boule d’acide
+
+EN: Pyrrhic Recollection
+FR: Souvenir pyrrhique
+
+EN: Planar Overlay
+FR: Superposition planaire
+
+EN: Doomsaying
+FR: Prophétie de malheur
+
+EN: Sleetstrike
+FR: Frappe de grésil
+
+EN: Landbreaker
+FR: Briseur de terre
+
+EN: Stampede
+FR: Débandade
+
+EN: Bolster
+FR: Renfort
+
+EN: Phase Shift
+FR: Déphasage
+
+EN: Dragon Veins
+FR: Veines de dragon
+
+EN: Dragon Vein (Fire)
+FR: Veine de dragon (feu)
+
+EN: Dragon Vein (Ice)
+FR: Veine de dragon (glace)
+
+EN: Dragon Vein (Air)
+FR: Veine de dragon (air)
+
+EN: Dragon Vein (Earth)
+FR: Veine de dragon (terre)
+
+EN: Ice Thorns
+FR: Épines de glace
+
+EN: Sirocco
+FR: Sirocco

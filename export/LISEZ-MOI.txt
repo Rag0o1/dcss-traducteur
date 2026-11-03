@@ -1,0 +1,26 @@
+EXPORT DES TRADUCTIONS (français, DCSS 0.34) — pour les réutiliser sans l'extension
+====================================================================================
+Ces fichiers sont générés automatiquement par  node outils/exporter.js  : ils reflètent exactement ce que traduit l'extension.
+
+Format : des blocs de deux lignes, séparés par une ligne vide.
+    EN: <texte anglais exact du jeu>
+    FR: <traduction française>
+(Les retours à la ligne d'un texte sont écrits \n.)
+
+Fichiers
+  textes_*.txt              Textes fixes par catégorie : descriptions (monstres, sorts, objets, dieux, capacités, mutations, statuts,
+                            décors, astuces), menus, libellés, messages complets... (~10 600 textes au total, avec les messages à trous)
+  messages_a_trous.txt      Phrases dont certains mots varient (monstre, objet...). Les trous :
+                              {A} un monstre ou « you »     {I} possessif (« the jackal's »)   {Y} un objet à vous
+                              {X} texte quelconque          {Z} un projectile / effet de sort   {p} pronom   {s} « s » facultatif
+                              {v:grab} verbe accordé        {is} is/are
+                            Dans le français : {S1} sujet (« Le chacal »), {o1} complément (« le chacal »), {d1} « du chacal »,
+                            {a1} « au chacal », {e1} « e » si féminin, {x2} le trou n°2 traduit. Le signe « ¦ » sépare la version
+                            « monstre » de la version « vous ». Détails : donnees/messages/variables.js (en-tête).
+  vocabulaire_monstres.txt  Noms de monstres (anglais -> français). vocabulaire_projectiles.txt : projectiles et effets de sorts.
+  non_traduit_0.34.txt      Ce qui reste à traduire (descriptions) d'après le code du jeu 0.34.
+  tout.json                 Tout, en JSON, pour les programmes.
+
+Pour traduire dans une autre langue : copiez un fichier, gardez les lignes EN:, remplacez les lignes FR:. Gardez les trous {…} tels quels
+(ou adaptez l'ordre, c'est de la grammaire propre à chaque langue). Les noms de sorts restent en anglais par défaut (option nomsDeSorts).
+Pour une nouvelle version du jeu : voir outils/GUIDE-NOUVELLE-VERSION.txt.

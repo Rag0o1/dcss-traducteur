@@ -1,0 +1,89 @@
+EN: Abyssal Knight
+FR: Chevalier abyssal
+
+EN: Air Elementalist
+FR: Élémentaliste de l’air
+
+EN: Alchemist
+FR: Alchimiste
+
+EN: Artificer
+FR: Artificier
+
+EN: Assassin
+FR: Assassin
+
+EN: Berserker
+FR: Berserker
+
+EN: Brigand
+FR: Brigand
+
+EN: Chaos Knight
+FR: Chevalier du Chaos
+
+EN: Cinder Acolyte
+FR: Acolyte des Cendres
+
+EN: Conjurer
+FR: Conjurateur
+
+EN: Delver
+FR: Fouilleur
+
+EN: Earth Elementalist
+FR: Élémentaliste de la terre
+
+EN: Enchanter
+FR: Enchanteur
+
+EN: Fighter
+FR: Combattant
+
+EN: Fire Elementalist
+FR: Élémentaliste du feu
+
+EN: Forgewright
+FR: Forgeron
+
+EN: Gladiator
+FR: Gladiateur
+
+EN: Hedge Wizard
+FR: Sorcier de fortune
+
+EN: Hexslinger
+FR: Lanceur de maléfices
+
+EN: Hunter
+FR: Chasseur
+
+EN: Ice Elementalist
+FR: Élémentaliste de la glace
+
+EN: Monk
+FR: Moine
+
+EN: Necromancer
+FR: Nécromancien
+
+EN: Shapeshifter
+FR: Métamorphe
+
+EN: Summoner
+FR: Invocateur
+
+EN: Transmuter
+FR: Transmutateur
+
+EN: Venom Mage
+FR: Mage du venin
+
+EN: Wanderer
+FR: Vagabond
+
+EN: Warper
+FR: Translocateur
+
+EN: Wizard
+FR: Magicien

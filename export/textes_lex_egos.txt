@@ -1,0 +1,245 @@
+EN: After you perform multiple consecutive attacks, its next attack will deal greatly increased damage and also cleave into targets an extra space away.
+FR: Après plusieurs attaques consécutives, sa prochaine attaque inflige des dégâts très accrus et fend aussi les cibles situées une case plus loin.
+
+EN: Any ammunition fired by it continues flying after striking targets, potentially hitting everything in its path until it leaves sight.
+FR: Toute munition tirée avec elle continue de voler après avoir touché des cibles, pouvant toucher tout ce qui se trouve sur son chemin jusqu’à sortir de la vue.
+
+EN: Any ammunition fired from it deals dramatically more damage, but attacks with it are much slower.
+FR: Toute munition tirée avec elle inflige beaucoup plus de dégâts, mais les attaques avec elle sont bien plus lentes.
+
+EN: Any living, holy, or demonic foe damaged by it may be temporarily reanimated upon death as a friendly spectral, with an increasing chance as more damage is dealt.
+FR: Tout ennemi vivant, sacré ou démoniaque blessé par elle peut être temporairement ranimé à sa mort en spectre allié, avec une chance croissante à mesure que les dégâts augmentent.
+
+EN: Attacks with it are significantly faster.
+FR: Les attaques avec elle sont nettement plus rapides.
+
+EN: Each hit from it has a different, random effect.
+FR: Chaque coup qu’elle porte a un effet aléatoire différent.
+
+EN: It allows you to see invisible things.
+FR: Elle vous permet de voir les choses invisibles.
+
+EN: It berserks you when you make melee attacks (20% chance).
+FR: Elle vous met en berserk quand vous effectuez des attaques de mêlée (20 % de chances).
+
+EN: It burns victims, dealing an additional one-quarter of any damage that pierces defenders' armour.
+FR: Elle brûle les victimes, infligeant un quart supplémentaire des dégâts qui traversent l’armure des défenseurs.
+
+EN: It burns victims, dealing an additional one-quarter of any damage that pierces defenders' armour. Big, fiery blades are also staple armaments of hydra-hunters.
+FR: Elle brûle les victimes, infligeant un quart supplémentaire des dégâts qui traversent l’armure des défenseurs. Les grandes lames de feu sont aussi les armes de prédilection des chasseurs d’hydres.
+
+EN: It causes any target it hits to become temporarily untethered in space, blinking away from you for several turns and taking minor damage each time it does so.
+FR: Toute cible qu’elle touche est temporairement détachée de l’espace, s’éloignant de vous par clignements pendant plusieurs tours en subissant de légers dégâts à chaque fois.
+
+EN: It causes any target it hits to blink, with a tendency towards blinking further away from you.
+FR: Toute cible qu’elle touche clignote, avec une tendance à s’éloigner de vous.
+
+EN: It causes incoming damage to be divided between your reserves of health and magic.
+FR: Elle répartit les dégâts reçus entre vos réserves de santé et de magie.
+
+EN: It causes one to take an extra step when moving towards enemies, briefly stunning them if this results in an attack.
+FR: Elle fait faire un pas supplémentaire quand on se déplace vers les ennemis, en les étourdissant brièvement si cela mène à une attaque.
+
+EN: It causes witnesses of your kills to go into a frenzy, attacking everything nearby with great strength and speed.
+FR: Elle plonge les témoins de vos meurtres dans une frénésie, les poussant à attaquer tout ce qui les entoure avec une grande force et une grande vitesse.
+
+EN: It conjures a barrage of shooting stars the first time you spend MP to use a spell or ability each battle, recharging only when your MP is restored and no more enemies remain. Your Evocations skill increases the number and damage of the stars and MP spent further increases damage.
+FR: Elle fait pleuvoir une salve d’étoiles filantes la première fois que vous dépensez des MP pour un sort ou une capacité à chaque combat, et ne se recharge que lorsque vos MP sont restaurés et qu’il ne reste plus d’ennemis. Votre compétence Évocations augmente le nombre d’étoiles et leurs dégâts, et les MP dépensés augmentent encore les dégâts.
+
+EN: It deals dramatically more damage, but attacks with it are much slower.
+FR: Elle inflige beaucoup plus de dégâts, mais les attaques avec elle sont bien plus lentes.
+
+EN: It deals increased damage compared to normal missiles and substantially increased damage to chaotic and magically transformed beings. It also inflicts extra damage against mutated beings, depending on how mutated they are.
+FR: Elle inflige plus de dégâts que les projectiles normaux, et nettement plus de dégâts aux êtres chaotiques et magiquement transformés. Elle inflige aussi des dégâts supplémentaires aux êtres mutés, selon leur degré de mutation.
+
+EN: It empowers each of your melee hits with a small part of your magic.
+FR: Elle renforce chacun de vos coups de mêlée avec une petite partie de votre magie.
+
+EN: It empowers your Necromancy spells and improves their success rate. When you cast a Necromancy spell, it may drain the life force of susceptible adjacent enemies to heal you; the chance and power of this effect depend on the spell's level.
+FR: Elle renforce vos sorts de Nécromancie et améliore leur taux de réussite. Quand vous lancez un sort de Nécromancie, elle peut drainer la force vitale des ennemis adjacents vulnérables pour vous soigner ; la chance et la puissance de cet effet dépendent du niveau du sort.
+
+EN: It enhances your Air magic.
+FR: Elle renforce votre Magie de l’Air.
+
+EN: It enhances your Earth magic.
+FR: Elle renforce votre Magie de la Terre.
+
+EN: It enhances your Fire magic and may unleash a blast of flames around you whenever you kill an enemy by any means other than an attack. The explosion chance and damage both scale with Evocations and it may trigger no more than once each turn.
+FR: Elle renforce votre Magie du Feu et peut déclencher un souffle de flammes autour de vous chaque fois que vous tuez un ennemi autrement que par une attaque. La chance d’explosion et ses dégâts augmentent avec Évocations, et elle ne peut se déclencher qu’une fois par tour.
+
+EN: It enhances your Fire magic.
+FR: Elle renforce votre Magie du Feu.
+
+EN: It enhances your Ice magic.
+FR: Elle renforce votre Magie de la Glace.
+
+EN: It enhances your stealth.
+FR: Elle améliore votre discrétion.
+
+EN: It fires a beam of energy whenever it strikes an enemy while its wielder has no less than 80% of their maximum hit points remaining. Unwielding it will briefly Weaken its wielder.
+FR: Elle tire un rayon d’énergie à chaque fois qu’elle frappe un ennemi alors que son porteur a au moins 80 % de ses points de vie maximaux. La retirer affaiblit brièvement son porteur.
+
+EN: It freezes victims, dealing an additional one-quarter of any damage that pierces defenders' armour. It may also slow down cold-blooded creatures.
+FR: Elle gèle les victimes, infligeant un quart supplémentaire des dégâts qui traversent l’armure des défenseurs. Elle peut aussi ralentir les créatures à sang froid.
+
+EN: It grants you flight.
+FR: Elle vous accorde le vol.
+
+EN: It grants you temporary protection after it strikes (+7 AC).
+FR: Elle vous accorde une protection temporaire après avoir frappé (+7 AC).
+
+EN: It has an increased chance to perform stab attacks against vulnerable targets, and temporarily increases the wielder's EV and slaying each time they do so.
+FR: Elle a plus de chances d’effectuer des attaques sournoises contre les cibles vulnérables, et augmente temporairement l’EV et les dégâts bonus de son porteur à chaque fois.
+
+EN: It has been blessed by the Shining One, dealing an additional three-quarters of any damage that pierces undead and demons' armour. Undead and demons cannot use this.
+FR: Elle a été bénie par L’Étincelant, infligeant trois quarts supplémentaires des dégâts qui traversent l’armure des morts-vivants et des démons. Les morts-vivants et les démons ne peuvent pas l’utiliser.
+
+EN: It has been infused with foul flame, dealing an additional three-quarters damage to holy beings, an additional one-quarter damage to undead and demons, and an additional half damage to all others, so long as it pierces armour. Holy beings and good god worshippers cannot use this.
+FR: Elle est imprégnée de flamme impie, infligeant trois quarts de dégâts supplémentaires aux êtres sacrés, un quart supplémentaire aux morts-vivants et aux démons, et la moitié supplémentaire à tous les autres, tant qu’elle traverse l’armure. Les êtres sacrés et les fidèles des bons dieux ne peuvent pas l’utiliser.
+
+EN: It has one-third the normal encumbrance for the purpose of ranged combat, and slightly increases ranged damage depending on the wearer's armour skill.
+FR: Son encombrement n’est que d’un tiers pour le combat à distance, et elle augmente légèrement les dégâts à distance selon la compétence Armure de son porteur.
+
+EN: It helps you evade both magical and non-magical projectiles (EV +15).
+FR: Elle vous aide à esquiver les projectiles magiques comme non magiques (EV +15).
+
+EN: It improves the power and success of your Summoning spells in proportion to your Armour skill.
+FR: Elle améliore la puissance et la réussite de vos sorts de Convocation en proportion de votre compétence Armure.
+
+EN: It improves the success rate of your Forgecraft spells, and enhances your melee attacks proportionally to your Forgecraft skill when you melee an enemy that is adjacent to one of your constructs.
+FR: Elle améliore le taux de réussite de vos sorts de Forge et renforce vos attaques de mêlée en proportion de votre compétence Forge quand vous frappez un ennemi adjacent à l’une de vos constructions.
+
+EN: It improves your accuracy and damage with thrown weapons, such as rocks and javelins (Slay +4).
+FR: Elle améliore votre précision et vos dégâts avec les armes de jet, comme les pierres et les javelots (Dégâts +4).
+
+EN: It increases damage dealt and taken.
+FR: Elle augmente les dégâts infligés et subis.
+
+EN: It increases the power of your magical spells.
+FR: Elle augmente la puissance de vos sorts magiques.
+
+EN: It increases your damage by an additional 50% with ranged and thrown weapons against incapacitated targets. Incapacitated targets are those that are asleep, paralysed, petrified, confused or caught in a net.
+FR: Elle augmente de 50 % supplémentaires vos dégâts avec les armes à distance et de jet contre les cibles incapacitées. Les cibles incapacitées sont celles qui dorment, sont paralysées, pétrifiées, confuses ou prises dans un filet.
+
+EN: It increases your dexterity (Dex +3).
+FR: Elle augmente votre dextérité (Dex +3).
+
+EN: It increases your intelligence (Int +3).
+FR: Elle augmente votre intelligence (Int +3).
+
+EN: It increases your strength (Str +3).
+FR: Elle augmente votre force (For +3).
+
+EN: It increases your willpower, protecting against certain magical effects.
+FR: Elle augmente votre volonté, vous protégeant de certains effets magiques.
+
+EN: It inflicts extra damage on living creatures proportional to your Necromancy skill.
+FR: Elle inflige des dégâts supplémentaires aux créatures vivantes, proportionnels à votre compétence Nécromancie.
+
+EN: It is coated with poison.
+FR: Elle est enduite de poison.
+
+EN: It is tipped with a substance that causes asphyxiation, dealing direct damage as well as poisoning and slowing those it strikes. It is twice as likely to be destroyed on impact as other darts.
+FR: Elle est enduite d’une substance qui provoque l’asphyxie, infligeant des dégâts directs en plus d’empoisonner et de ralentir ceux qu’elle touche. Elle a deux fois plus de chances d’être détruite à l’impact que les autres fléchettes.
+
+EN: It is tipped with a substance that causes blindness and brief confusion. The chance of successfully applying its effect increases with your Throwing and Stealth skill.
+FR: Elle est enduite d’une substance qui provoque la cécité et une brève confusion. La chance d’appliquer son effet augmente avec vos compétences Lancer et Discrétion.
+
+EN: It is tipped with a substance that sends those it hits into a mindless frenzy, attacking friend and foe alike. The chance of successfully applying its effect increases with your Throwing and Stealth skill.
+FR: Elle est enduite d’une substance qui plonge ceux qu’elle touche dans une frénésie aveugle, les faisant attaquer amis et ennemis sans distinction. La chance d’appliquer son effet augmente avec vos compétences Lancer et Discrétion.
+
+EN: It is very cumbersome, slowing your movement.
+FR: Elle est très encombrante et ralentit vos déplacements.
+
+EN: It may return the magic spent to cast spells, but lowers their success rate. It always returns the magic spent on miscasts. The spell refund chance is increased by your Evocations skill.
+FR: Elle peut vous restituer la magie dépensée pour lancer des sorts, mais diminue leur taux de réussite. Elle restitue toujours la magie dépensée sur les échecs. La chance de remboursement est augmentée par votre compétence Évocations.
+
+EN: It may vitrify enemies when you injure them, making them more vulnerable to further damage. Your Evocations skill increases the likelihood and duration of vitrification.
+FR: Elle peut vitrifier les ennemis quand vous les blessez, les rendant plus vulnérables aux dégâts suivants. Votre compétence Évocations augmente la probabilité et la durée de la vitrification.
+
+EN: It occasionally heals you for a portion of the damage dealt when it wounds a living creature.
+FR: Elle vous soigne occasionnellement d’une partie des dégâts infligés quand elle blesse une créature vivante.
+
+EN: It poisons victims.
+FR: Elle empoisonne les victimes.
+
+EN: It protects you from cold.
+FR: Elle vous protège du froid.
+
+EN: It protects you from fire.
+FR: Elle vous protège du feu.
+
+EN: It protects you from most sources of damage (AC +3).
+FR: Elle vous protège de la plupart des sources de dégâts (AC +3).
+
+EN: It protects you from poison.
+FR: Elle vous protège du poison.
+
+EN: It protects you from the effects of acid and corrosion.
+FR: Elle vous protège des effets de l’acide et de la corrosion.
+
+EN: It protects you from the effects of both fire and cold.
+FR: Elle vous protège des effets du feu et du froid.
+
+EN: It protects you from the effects of negative energy.
+FR: Elle vous protège des effets de l’énergie négative.
+
+EN: It pushes those it hits backwards, briefly stunning them in the process. If it pushes them into a solid feature, they will instead take an additional one-third of any damage that pierces their armour.
+FR: Elle repousse ceux qu’elle touche et les étourdit brièvement. Si elle les projette contre un élément solide, ils subissent à la place un tiers supplémentaire des dégâts qui traversent leur armure.
+
+EN: It reduces the distance you can be seen at and can see.
+FR: Elle réduit la distance à laquelle vous pouvez être vu et voir.
+
+EN: It reduces your magical energy, and disrupts the spells and magical abilities of those it strikes. Natural abilities and divine invocations are not affected.
+FR: Elle réduit votre énergie magique et perturbe les sorts et les capacités magiques de ceux qu’elle frappe. Les capacités naturelles et les invocations divines ne sont pas affectées.
+
+EN: It reflects blocked missile attacks.
+FR: Elle renvoie les projectiles bloqués.
+
+EN: It shields the wearer if their last action was a melee attack (+10 SH) and redirects blocked melee attacks to other nearby enemies.
+FR: Elle protège son porteur si sa dernière action était une attaque de mêlée (+10 SH) et redirige les attaques de mêlée bloquées vers d’autres ennemis proches.
+
+EN: It shields you if your last action was a melee attack. The shielding is half as effective if your offhand is occupied by an item other than a weapon.
+FR: Elle vous protège si votre dernière action était une attaque de mêlée. La protection est deux fois moins efficace si votre main libre tient un objet autre qu’une arme.
+
+EN: It sometimes constricts those it attacks with vines. (1/2 chance, 2-4 damage).
+FR: Elle enserre parfois ceux qu’elle attaque dans des lianes (1 chance sur 2, 2 à 4 dégâts).
+
+EN: It sometimes drains living victims (1/2 chance). This deals an additional one-quarter of any damage that pierces defenders' armour as well as a flat 2-4 damage, and also weakens them slightly.
+FR: Elle draine parfois les victimes vivantes (1 chance sur 2). Cela inflige un quart supplémentaire des dégâts qui traversent l’armure des défenseurs, plus 2 à 4 dégâts fixes, et les affaiblit légèrement.
+
+EN: It sometimes electrocutes victims (1/4 chance, 8-20 damage).
+FR: Elle électrocute parfois les victimes (1 chance sur 4, 8 à 20 dégâts).
+
+EN: It splashes victims with acid (2d4 damage, Corrosion).
+FR: Elle éclabousse les victimes d’acide (2d4 dégâts, Corrosion).
+
+EN: It surrounds you with a glowing halo, revealing invisible creatures, increasing accuracy against all within it other than you, and reducing your stealth.
+FR: Elle vous entoure d’un halo lumineux qui révèle les créatures invisibles, augmente la précision contre tous ceux qui s’y trouvent sauf vous, et réduit votre discrétion.
+
+EN: It warps and distorts space around it, and may blink, banish, or inflict extra damage upon those it strikes. Unwielding it can teleport you to foes or banish you to the Abyss.
+FR: Elle déforme l’espace autour d’elle, et peut faire clignoter, bannir ou infliger des dégâts supplémentaires à ceux qu’elle frappe. La retirer peut vous téléporter auprès d’ennemis ou vous bannir dans l’Abysse.
+
+EN: It weakens both your willpower and the willpower of everyone you hex, the latter of which is increased by your Evocations skill.
+FR: Elle affaiblit votre volonté ainsi que celle de tous ceux que vous maudissez, cette dernière étant augmentée par votre compétence Évocations.
+
+EN: Trog prevents you from unleashing this effect.
+FR: Trog vous empêche de libérer cet effet.
+
+EN: When activated, it grants you temporary invisibility, but also drains your maximum health.
+FR: Une fois activée, elle vous rend temporairement invisible, mais draine aussi votre santé maximale.
+
+EN: When thrown, it has a random effect.
+FR: Lancée, elle a un effet aléatoire.
+
+EN: When worn alongside a magical staff, it doubles the effectiveness of that staff's primary enhancer and causes melee attacks made with it to restore a small amount of MP.
+FR: Portée avec un bâton magique, elle double l’efficacité de l’amplificateur principal de ce bâton et fait que les attaques de mêlée avec lui restituent un peu de MP.
+
+EN: When you are struck in melee, it briefly dazes all nearby enemies, then must recharge by standing still for a while. Its duration, radius, and recharge speed are improved by your Evocations skill. It goes briefly dormant whenever you enter a different floor.
+FR: Quand vous êtes frappé en mêlée, elle étourdit brièvement tous les ennemis proches, puis doit se recharger en restant immobile un moment. Sa durée, son rayon et sa vitesse de recharge sont améliorés par votre compétence Évocations. Elle se met brièvement en sommeil chaque fois que vous changez d’étage.
+
+EN: When you attack with it, this weapon's spirit leaps out and launches a second, slightly weaker strike. The spirit shares part of any damage it takes with you.
+FR: Quand vous attaquez avec elle, l’esprit de cette arme jaillit et lance une seconde frappe, un peu plus faible. L’esprit partage avec vous une partie des dégâts qu’il subit.
+
+EN: Your inability to study Necromancy prevents you from drawing on the full power of this weapon.
+FR: Votre incapacité à étudier la Nécromancie vous empêche de tirer toute la puissance de cette arme.

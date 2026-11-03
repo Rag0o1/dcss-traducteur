@@ -1,0 +1,764 @@
+EN: (If you entered the Abyss now, you could be pulled as deep as Abyss:1.)
+FR: (Si vous entriez dans l’Abysse maintenant, vous pourriez être entraîné jusqu’à Abysse:1.)
+
+EN: (If you're not sure, you can check in-game with '?v'.)
+FR: (Si vous n’êtes pas sûr, vous pouvez vérifier en jeu avec « ?v ».)
+
+EN: * Dir.
+FR: * Dir.
+
+EN: - Ashenzari
+FR: - Ashenzari
+
+EN: - Beogh
+FR: - Beogh
+
+EN: - Cheibriados
+FR: - Cheibriados
+
+EN: - Dithmenos
+FR: - Dithmenos
+
+EN: - Elyvilon
+FR: - Elyvilon
+
+EN: - Fedhas
+FR: - Fedhas
+
+EN: - Gozag
+FR: - Gozag
+
+EN: - Hepliaklqana
+FR: - Hepliaklqana
+
+EN: - Ignis
+FR: - Ignis
+
+EN: - Jiyva
+FR: - Jiyva
+
+EN: - Kikubaaqudgha
+FR: - Kikubaaqudgha
+
+EN: - Lugonu
+FR: - Lugonu
+
+EN: - Makhleb
+FR: - Makhleb
+
+EN: - Nemelex Xobeh
+FR: - Nemelex Xobeh
+
+EN: - Okawaru
+FR: - Okawaru
+
+EN: - Qazlal
+FR: - Qazlal
+
+EN: - Sif Muna
+FR: - Sif Muna
+
+EN: - Trog
+FR: - Trog
+
+EN: - Uskayaw
+FR: - Uskayaw
+
+EN: - Vehumet
+FR: - Vehumet
+
+EN: - Wu Jian
+FR: - Wu Jian
+
+EN: - Xom
+FR: - Xom
+
+EN: - Yredelemnul
+FR: - Yredelemnul
+
+EN: - Zin
+FR: - Zin
+
+EN: - ashenzari
+FR: - Ashenzari
+
+EN: - beogh
+FR: - Beogh
+
+EN: - cheibriados
+FR: - Cheibriados
+
+EN: - dithmenos
+FR: - Dithmenos
+
+EN: - elyvilon
+FR: - Elyvilon
+
+EN: - fedhas
+FR: - Fedhas
+
+EN: - gozag
+FR: - Gozag
+
+EN: - hepliaklqana
+FR: - Hepliaklqana
+
+EN: - ignis
+FR: - Ignis
+
+EN: - jiyva
+FR: - Jiyva
+
+EN: - kikubaaqudgha
+FR: - Kikubaaqudgha
+
+EN: - lugonu
+FR: - Lugonu
+
+EN: - makhleb
+FR: - Makhleb
+
+EN: - nemelex xobeh
+FR: - Nemelex Xobeh
+
+EN: - okawaru
+FR: - Okawaru
+
+EN: - qazlal
+FR: - Qazlal
+
+EN: - sif muna
+FR: - Sif Muna
+
+EN: - trog
+FR: - Trog
+
+EN: - uskayaw
+FR: - Uskayaw
+
+EN: - vehumet
+FR: - Vehumet
+
+EN: - wu jian
+FR: - Wu Jian
+
+EN: - xom
+FR: - Xom
+
+EN: - yredelemnul
+FR: - Yredelemnul
+
+EN: - zin
+FR: - Zin
+
+EN: / Dir.
+FR: / Dir.
+
+EN: A cloud of coloured smoke. Harmless, except to the asthmatic.
+FR: Un nuage de fumée colorée. Inoffensif, sauf pour les asthmatiques.
+
+EN: A cloud of freezing air. Any creature not entirely immune to cold will be hurt by time spent inside.
+FR: Un nuage d’air glacial. Toute créature qui n’est pas totalement immunisée contre le froid sera blessée si elle y reste.
+
+EN: A cloud of ink, completely filling the water.
+FR: Un nuage d’encre qui remplit entièrement l’eau.
+
+EN: A cloud of sparse dust. Atmospheric, but harmless.
+FR: Un nuage de poussière clairsemée. Il crée une ambiance, mais reste inoffensif.
+
+EN: A cloud of thin mist. Atmospheric, but harmless.
+FR: Un nuage de brume légère. Il crée une ambiance, mais reste inoffensif.
+
+EN: A dungeon features only one of the Shoals and Swamp branches.
+FR: Un donjon ne contient qu’une seule des branches Hauts-fonds et Marais.
+
+EN: A dungeon features only one of the Snake Pit and Spider Nest branches.
+FR: Un donjon ne contient qu’une seule des branches Fosse aux serpents et Nid des Araignées.
+
+EN: A dungeon features only one of the Spider Nest and Snake Pit branches.
+FR: Un donjon ne contient qu’une seule des branches Nid des Araignées et Fosse aux serpents.
+
+EN: A dungeon features only one of the Swamp and Shoals branches.
+FR: Un donjon ne contient qu’une seule des branches Marais et Hauts-fonds.
+
+EN: A haze of aerosolised moonshine so thick that creatures can become drunk just walking through it.
+FR: Une brume d’alcool de contrebande vaporisé, si épaisse que les créatures peuvent s’enivrer rien qu’en la traversant.
+
+EN: A trail of electric sparks. Atmospheric, but harmless.
+FR: Une traînée d’étincelles électriques. Elle crée une ambiance, mais reste inoffensive.
+
+EN: A trail of sparks and wisps of flame. Atmospheric, but harmless.
+FR: Une traînée d’étincelles et de volutes de flammes. Elle crée une ambiance, mais reste inoffensive.
+
+EN: A white, fluffy cloud. Not actually solid enough to use as a pillow, and yet still oddly peaceful.
+FR: Un nuage blanc et moelleux. Pas assez solide pour servir d’oreiller, mais étrangement paisible.
+
+EN: A: Press '+'!
+FR: R : Appuyez sur « + » !
+
+EN: A: There isn't any such option, and we're not planning to add one, either.
+FR: R : Il n’existe aucune option de ce genre, et nous ne prévoyons pas d’en ajouter.
+
+EN: As for specific differences, the most important are probably the following:
+FR: Quant aux différences précises, les plus importantes sont probablement les suivantes :
+
+EN: Being skilled in Air Magic increases the success rate and spell power of spells in this school. Many spells belong to a combination of several schools, in which case spellcasting success and power will depend on the average skill in these schools.
+FR: Être compétent en Magie de l’Air augmente le taux de réussite et la puissance des sorts de cette école. De nombreux sorts appartiennent à une combinaison de plusieurs écoles ; dans ce cas, la réussite et la puissance dépendent de la compétence moyenne dans ces écoles.
+
+EN: Being skilled in Alchemy increases the success rate and spell power of spells in this school. Many spells belong to a combination of several schools, in which case spellcasting success and power will depend on the average skill in these schools.
+FR: Être compétent en Alchimie augmente le taux de réussite et la puissance des sorts de cette école. De nombreux sorts appartiennent à une combinaison de plusieurs écoles ; dans ce cas, la réussite et la puissance dépendent de la compétence moyenne dans ces écoles.
+
+EN: Being skilled in Earth Magic increases the success rate and spell power of spells in this school. Many spells belong to a combination of several schools, in which case spellcasting success and power will depend on the average skill in these schools.
+FR: Être compétent en Magie de la Terre augmente le taux de réussite et la puissance des sorts de cette école. De nombreux sorts appartiennent à une combinaison de plusieurs écoles ; dans ce cas, la réussite et la puissance dépendent de la compétence moyenne dans ces écoles.
+
+EN: Being skilled in Fire Magic increases the success rate and spell power of spells in this school. Many spells belong to a combination of several schools, in which case spellcasting success and power will depend on the average skill in these schools.
+FR: Être compétent en Magie du Feu augmente le taux de réussite et la puissance des sorts de cette école. De nombreux sorts appartiennent à une combinaison de plusieurs écoles ; dans ce cas, la réussite et la puissance dépendent de la compétence moyenne dans ces écoles.
+
+EN: Being skilled in Forgecraft increases the success rate and spell power of spells in this school. Many spells belong to a combination of several schools, in which case spellcasting success and power will depend on the average skill in these schools.
+FR: Être compétent en Forge augmente le taux de réussite et la puissance des sorts de cette école. De nombreux sorts appartiennent à une combinaison de plusieurs écoles ; dans ce cas, la réussite et la puissance dépendent de la compétence moyenne dans ces écoles.
+
+EN: Being skilled in Ice Magic increases the success rate and spell power of spells in this school. Many spells belong to a combination of several schools, in which case spellcasting success and power will depend on the average skill in these schools.
+FR: Être compétent en Magie de la Glace augmente le taux de réussite et la puissance des sorts de cette école. De nombreux sorts appartiennent à une combinaison de plusieurs écoles ; dans ce cas, la réussite et la puissance dépendent de la compétence moyenne dans ces écoles.
+
+EN: Clouds of this kind an adventurer makes will vanish almost instantly once outside their sight.
+FR: Les nuages de ce type créés par un aventurier disparaissent presque instantanément dès qu’ils sortent de son champ de vision.
+
+EN: Clouds of this kind an adventurer makes will vanish quickly once outside their sight.
+FR: Les nuages de ce type créés par un aventurier disparaissent rapidement dès qu’ils sortent de son champ de vision.
+
+EN: Ctrl-A
+FR: Ctrl-A
+
+EN: Ctrl-C
+FR: Ctrl-C
+
+EN: Ctrl-D
+FR: Ctrl-D
+
+EN: Ctrl-Dir.
+FR: Ctrl-Dir.
+
+EN: Ctrl-E
+FR: Ctrl-E
+
+EN: Ctrl-F
+FR: Ctrl-F
+
+EN: Ctrl-O
+FR: Ctrl-O
+
+EN: Ctrl-P
+FR: Ctrl-P
+
+EN: Ctrl-Q
+FR: Ctrl-Q
+
+EN: Ctrl-R
+FR: Ctrl-R
+
+EN: Ctrl-S
+FR: Ctrl-S
+
+EN: Ctrl-T
+FR: Ctrl-T
+
+EN: Ctrl-W
+FR: Ctrl-W
+
+EN: Ctrl-X
+FR: Ctrl-X
+
+EN: Describe a bane; partial names and regexps are fine. Describe what?
+FR: Décrire un fléau ; les noms partiels et les expressions régulières sont acceptés. Décrire quoi ?
+
+EN: Describe a feature; partial names and regexps are fine. Describe what?
+FR: Décrire un élément du décor ; les noms partiels et les expressions régulières sont acceptés. Décrire quoi ?
+
+EN: Describe a missile ego; partial names and regexps are fine. Describe what?
+FR: Décrire un ego de projectile ; les noms partiels et les expressions régulières sont acceptés. Décrire quoi ?
+
+EN: Describe a monster; partial names and regexps are fine. Enter a single letter to list monsters displayed by that symbol. Describe what?
+FR: Décrire un monstre ; les noms partiels et les expressions régulières sont acceptés. Entrez une seule lettre pour lister les monstres affichés avec ce symbole. Décrire quoi ?
+
+EN: Describe a mutation; partial names and regexps are fine. Describe what?
+FR: Décrire une mutation ; les noms partiels et les expressions régulières sont acceptés. Décrire quoi ?
+
+EN: Describe a passive; partial names and regexps are fine. Describe what?
+FR: Décrire un passif ; les noms partiels et les expressions régulières sont acceptés. Décrire quoi ?
+
+EN: Describe a spell; partial names and regexps are fine. Preface with '@' to search by school. Describe what?
+FR: Décrire un sort ; les noms partiels et les expressions régulières sont acceptés. Commencez par « @ » pour chercher par école. Décrire quoi ?
+
+EN: Describe a weapon ego; partial names and regexps are fine. Describe what?
+FR: Décrire un ego d’arme ; les noms partiels et les expressions régulières sont acceptés. Décrire quoi ?
+
+EN: Describe an ability; partial names and regexps are fine. Describe what?
+FR: Décrire une capacité ; les noms partiels et les expressions régulières sont acceptés. Décrire quoi ?
+
+EN: Describe an armour ego; partial names and regexps are fine. Describe what?
+FR: Décrire un ego d’armure ; les noms partiels et les expressions régulières sont acceptés. Décrire quoi ?
+
+EN: Describe an item; partial names and regexps are fine. Enter a single letter to list items displayed by that symbol. Describe what?
+FR: Décrire un objet ; les noms partiels et les expressions régulières sont acceptés. Entrez une seule lettre pour lister les objets affichés avec ce symbole. Décrire quoi ?
+
+EN: Describe which?
+FR: Décrire lequel ?
+
+EN: Drawing this card can grant great speed to allies or terrible slowness to foes.
+FR: Piocher cette carte peut accorder une grande vitesse à vos alliés ou une terrible lenteur à vos ennemis.
+
+EN: Drawing this card rapidly restores the user's health and magic.
+FR: Piocher cette carte restaure rapidement la santé et la magie de son utilisateur.
+
+EN: Drawing this card unleashes a necromantic attack spell.
+FR: Piocher cette carte déchaîne un sort d’attaque nécromantique.
+
+EN: Drawing this card unleashes one or possibly more destructive orbs of pure magic.
+FR: Piocher cette carte déchaîne un ou plusieurs orbes destructeurs de magie pure.
+
+EN: Drawing this card will cause agonising injury to the user.
+FR: Piocher cette carte inflige une blessure atroce à son utilisateur.
+
+EN: Drawing this card will drain the user.
+FR: Piocher cette carte draine son utilisateur.
+
+EN: Drawing this card will draw a god's wrath against the user.
+FR: Piocher cette carte attire sur son utilisateur la colère d’un dieu.
+
+EN: Drawing this card will make its user turn pink and root for truffles.
+FR: Piocher cette carte rend son utilisateur tout rose et lui fait fouiller le sol à la recherche de truffes.
+
+EN: Drawing this card will summon an illusion of the user. Its power will depend upon one's own.
+FR: Piocher cette carte invoque une illusion de son utilisateur. Sa puissance dépend de la vôtre.
+
+EN: Drawing this card will summon bees.
+FR: Piocher cette carte invoque des abeilles.
+
+EN: Drawing this card will summon several archers.
+FR: Piocher cette carte invoque plusieurs archers.
+
+EN: Drawing this card will summon three beasts of the four elements.
+FR: Piocher cette carte invoque trois bêtes issues des quatre éléments.
+
+EN: Drawing this card will unleash a corrosive attack spell.
+FR: Piocher cette carte déchaîne un sort d’attaque corrosif.
+
+EN: If placed near or over water, the heat will generate steam nearby.
+FR: Placée près de l’eau ou au-dessus, la chaleur produira de la vapeur à proximité.
+
+EN: It is found in decks of destruction.
+FR: On la trouve dans les jeux de destruction.
+
+EN: It is found in decks of escape.
+FR: On la trouve dans les jeux d’évasion.
+
+EN: It is found in decks of summoning.
+FR: On la trouve dans les jeux d’invocation.
+
+EN: It is only found in Nemelex Xobeh's deck of punishment.
+FR: On ne la trouve que dans le jeu de punition de Nemelex Xobeh.
+
+EN: Long-range teleports are impossible in Gauntlets.
+FR: Les téléportations à longue portée sont impossibles dans les Épreuves.
+
+EN: Many portals to the Abyss can be found corrupting one floor late in the Dungeon.
+FR: De nombreux portails vers l’Abysse corrompent un étage tardif du Donjon.
+
+EN: Mutation
+FR: Mutation
+
+EN: Neither of these types can be enchanted or branded, either temporarily or permanently.
+FR: Aucun de ces deux types ne peut être enchanté ni marqué d’un ego, ni temporairement ni de façon permanente.
+
+EN: No fewer than five runes of Zot can be found in Pandemonium:
+FR: Pas moins de cinq runes de Zot se trouvent dans le Pandémonium :
+
+EN: Okawaru's most favoured followers are granted access to the Arena to duel against their foes.
+FR: Les disciples préférés d’Okawaru ont accès à l’Arène pour y affronter leurs ennemis en duel.
+
+EN: Please report bugs on github (https://github.com/crawl/crawl/issues).
+FR: Merci de signaler les bogues sur GitHub (https://github.com/crawl/crawl/issues).
+
+EN: Portals to Pandemonium are found abundantly in the Depths.
+FR: Les portails vers le Pandémonium sont nombreux dans les Profondeurs.
+
+EN: Q: How can I avoid dying all the time? Can you give me some playing tips?
+FR: Q : Comment éviter de mourir tout le temps ? Pouvez-vous me donner quelques conseils de jeu ?
+
+EN: Q: I can't find any downstairs. Am I missing something?
+FR: Q : Je ne trouve aucun escalier descendant. Est-ce que je rate quelque chose ?
+
+EN: Q: I can't find my save files, morgue and character dumps. Where are they?
+FR: Q : Je ne retrouve pas mes sauvegardes, mes morgues ni mes fiches de personnage. Où sont-elles ?
+
+EN: Q: I keep getting murdered by my own ghosts. Can I deactivate them?
+FR: Q : Je me fais sans cesse tuer par mes propres fantômes. Puis-je les désactiver ?
+
+EN: Q: I'd like to help improve the game. What can I do?
+FR: Q : J’aimerais aider à améliorer le jeu. Que puis-je faire ?
+
+EN: Q: I've got a cool idea! What can I do with it?
+FR: Q : J’ai une super idée ! Qu’est-ce que je peux en faire ?
+
+EN: Q: I've got two cool weapons. How can I tell which one is better?
+FR: Q : J’ai deux armes sympas. Comment savoir laquelle est la meilleure ?
+
+EN: Q: I've somehow ended up in a place called "Abyss". How do I get out of here?
+FR: Q : Je me suis retrouvé dans un endroit appelé « Abysse ». Comment en sortir ?
+
+EN: Q: Is there a cheating mode to Crawl where I can play without dying?
+FR: Q : Existe-t-il un mode triche dans Crawl pour jouer sans mourir ?
+
+EN: Q: Is there a way for me to interact with other players?
+FR: Q : Puis-je interagir avec d’autres joueurs ?
+
+EN: Q: Is there a way for me to play the new version before it is released?
+FR: Q : Puis-je jouer à la nouvelle version avant sa sortie ?
+
+EN: Q: The Tiles version is awfully slow! How can I improve that?
+FR: Q : La version Tiles est affreusement lente ! Comment l’améliorer ?
+
+EN: Q: The game keeps crashing. / I think I found a bug. What do I do?
+FR: Q : Le jeu plante sans arrêt. / Je crois avoir trouvé un bogue. Que faire ?
+
+EN: Q: What are the biggest differences to other popular roguelike games?
+FR: Q : Quelles sont les plus grandes différences avec les autres roguelikes populaires ?
+
+EN: Q: What did you change in the most recent version?
+FR: Q : Qu’avez-vous changé dans la version la plus récente ?
+
+EN: Q: What do the terms "randart" and "unrandart" signify?
+FR: Q : Que signifient les termes « randart » et « unrandart » ?
+
+EN: Q: What exactly is the goal of this game?
+FR: Q : Quel est exactement le but de ce jeu ?
+
+EN: Q: When will development reach the "stable" version 1.0?
+FR: Q : Quand le développement atteindra-t-il la version « stable » 1.0 ?
+
+EN: Q: Which gods would you recommend to a beginning player?
+FR: Q : Quels dieux recommanderiez-vous à un joueur débutant ?
+
+EN: Qazlal grants you and your divine allies immunity to clouds.
+FR: Qazlal vous accorde, à vous et à vos alliés divins, l’immunité aux nuages.
+
+EN: Shift-Dir.
+FR: Shift-Dir.
+
+EN: Shift-Tab
+FR: Shift-Tab
+
+EN: Thanks a lot for your support!
+FR: Merci beaucoup pour votre soutien !
+
+EN: Thanks in advance!
+FR: Merci d’avance !
+
+EN: The acrid smoke renders scrolls unreadable.
+FR: La fumée âcre rend les parchemins illisibles.
+
+EN: The all-pervading rot saps visitors' willpower.
+FR: La pourriture omniprésente sape la volonté des visiteurs.
+
+EN: The card depicts a bear surrounded by a swarm of bees. It hums ominously.
+FR: La carte représente un ours entouré d’un essaim d’abeilles. Elle bourdonne de façon sinistre.
+
+EN: The card depicts a dragon whose scales are sloughing off, revealing a sheep underneath.
+FR: La carte représente un dragon dont les écailles tombent, révélant un mouton en dessous.
+
+EN: The card depicts a figure surrounded by floating, glowing orbs of energy.
+FR: La carte représente une silhouette entourée d’orbes d’énergie lumineux et flottants.
+
+EN: The card depicts a pointy wizard's hat, scorched and resting on a pile of ashes.
+FR: La carte représente un chapeau pointu de magicien, roussi, posé sur un tas de cendres.
+
+EN: The card depicts a royal crypt, its entrance sealed by a heavy stone slab.
+FR: La carte représente une crypte royale dont l’entrée est scellée par une lourde dalle de pierre.
+
+EN: The card depicts a screaming figure being tortured on the rack.
+FR: La carte représente une silhouette hurlante torturée sur le chevalet.
+
+EN: The card depicts a ship at sea sinking in a thunderstorm.
+FR: La carte représente un navire qui sombre en mer dans un orage.
+
+EN: The card depicts a smug smile formed out of nine chalices.
+FR: La carte représente un sourire suffisant formé de neuf calices.
+
+EN: The card depicts absolutely nothing.
+FR: La carte ne représente absolument rien.
+
+EN: The card depicts an arrow in a bull's-eye, which has been split by a second arrow.
+FR: La carte représente une flèche plantée en plein centre d’une cible, fendue par une seconde flèche.
+
+EN: The card depicts an empty, well-worn pair of boots. Sand, ashes, and turf coat the boots' soles.
+FR: La carte représente une paire de bottes vide et usée. Du sable, des cendres et de la terre recouvrent les semelles.
+
+EN: The card depicts an extravagantly-dressed, masked figure dancing alone in a vast room.
+FR: La carte représente un personnage masqué, vêtu avec extravagance, qui danse seul dans une vaste salle.
+
+EN: The card depicts an iron gate enshrouded in mist.
+FR: La carte représente une grille de fer enveloppée de brume.
+
+EN: The card depicts an iron wheel, menacing with spikes and rusted with blood.
+FR: La carte représente une roue de fer, menaçante avec ses pointes, rouillée de sang.
+
+EN: The card depicts an oklob plant, dripping with its distinctive corrosive sap.
+FR: La carte représente une plante oklob, dégoulinante de sa sève corrosive caractéristique.
+
+EN: The card depicts ceaseless hands from a yawning portal overcoming a panicked figure.
+FR: La carte représente des mains incessantes, jaillies d’un portail béant, qui submergent une silhouette paniquée.
+
+EN: The card depicts cultists marking out a ritual pentagram on the floor.
+FR: La carte représente des cultistes traçant un pentagramme rituel sur le sol.
+
+EN: The card depicts several feral hogs wallowing in a mud pit.
+FR: La carte représente plusieurs sangliers sauvages se vautrant dans une fosse de boue.
+
+EN: The card depicts someone standing in a hall of mirrors, surrounded by their own reflections.
+FR: La carte représente quelqu’un debout dans une galerie des glaces, entouré de ses propres reflets.
+
+EN: The card depicts the figures of great beasts lurking in a sandstorm.
+FR: La carte représente les silhouettes de grandes bêtes qui rôdent dans une tempête de sable.
+
+EN: The card depicts the hand of the divine, reaching down from the heavens to hurl furious lightning.
+FR: La carte représente la main du divin, qui s’étend du ciel pour lancer une foudre furieuse.
+
+EN: The entrance to this branch can be found between levels 13 and 14 of the Dungeon.
+FR: L’entrée de cette branche se trouve entre les niveaux 13 et 14 du Donjon.
+
+EN: The entrance to this branch can be found between levels 2 and 3 of the Lair of Beasts.
+FR: L’entrée de cette branche se trouve entre les niveaux 2 et 3 de l’Antre des Bêtes.
+
+EN: The entrance to this branch can be found between levels 2 and 3 of the Vaults.
+FR: L’entrée de cette branche se trouve entre les niveaux 2 et 3 des Chambres Fortes.
+
+EN: The entrance to this branch can be found between levels 4 and 5 of the Lair of Beasts.
+FR: L’entrée de cette branche se trouve entre les niveaux 4 et 5 de l’Antre des Bêtes.
+
+EN: The entrance to this branch can be found between levels 4 and 7 of the Dungeon.
+FR: L’entrée de cette branche se trouve entre les niveaux 4 et 7 du Donjon.
+
+EN: The entrance to this branch can be found between levels 8 and 11 of the Dungeon.
+FR: L’entrée de cette branche se trouve entre les niveaux 8 et 11 du Donjon.
+
+EN: The entrance to this branch can be found between levels 9 and 12 of the Dungeon.
+FR: L’entrée de cette branche se trouve entre les niveaux 9 et 12 du Donjon.
+
+EN: The entrance to this branch can be found in the Vestibule of Hell.
+FR: L’entrée de cette branche se trouve dans le Vestibule de l’Enfer.
+
+EN: The entrance to this branch can be found on level 15 of the Dungeon.
+FR: L’entrée de cette branche se trouve au niveau 15 du Donjon.
+
+EN: The entrance to this branch can be found on level 2 of the Orcish Mines.
+FR: L’entrée de cette branche se trouve au niveau 2 des Mines Orques.
+
+EN: The entrance to this branch can be found on level 3 of the Crypt.
+FR: L’entrée de cette branche se trouve au niveau 3 de la Crypte.
+
+EN: The entrance to this branch can be found on level 4 of the Depths.
+FR: L’entrée de cette branche se trouve au niveau 4 des Profondeurs.
+
+EN: The frigid cold congeals potions.
+FR: Le froid glacial fige les potions.
+
+EN: The malice of this metal realm corrodes equipment.
+FR: La malveillance de ce royaume de métal corrode l’équipement.
+
+EN: The saves/ directory can be found in the same directory as the morgue/ one.
+FR: Le dossier saves/ se trouve dans le même dossier que morgue/.
+
+EN: The storm surrounding you is powerful enough to repel missiles.
+FR: La tempête qui vous entoure est assez puissante pour repousser les projectiles.
+
+EN: The wake of some highly concentrated magical energy, itself entirely harmless.
+FR: Le sillage d’une énergie magique très concentrée, entièrement inoffensif en lui-même.
+
+EN: This branch can only be entered while carrying at least 3 runes of Zot.
+FR: On ne peut entrer dans cette branche qu’en portant au moins 3 runes de Zot.
+
+EN: This branch can only be exited while carrying at least 1 rune of Zot.
+FR: On ne peut sortir de cette branche qu’en portant au moins 1 rune de Zot.
+
+EN: This branch contains the abyssal rune of Zot.
+FR: Cette branche contient la rune abyssale de Zot.
+
+EN: This branch contains the barnacled rune of Zot.
+FR: Cette branche contient la rune incrustée de bernacles de Zot.
+
+EN: This branch contains the bone rune of Zot.
+FR: Cette branche contient la rune d’os de Zot.
+
+EN: This branch contains the decaying rune of Zot.
+FR: Cette branche contient la rune putrescente de Zot.
+
+EN: This branch contains the demonic, glowing, magical, fiery and dark runes of Zot.
+FR: Cette branche contient les runes démoniaque, luisante, magique, ardente et sombre de Zot.
+
+EN: This branch contains the entrance to the Crypt.
+FR: Cette branche contient l’entrée de la Crypte.
+
+EN: This branch contains the entrance to the Elven Halls.
+FR: Cette branche contient l’entrée des Halls Elfiques.
+
+EN: This branch contains the entrance to the Tomb of the Ancients.
+FR: Cette branche contient l’entrée de la Tombe des Anciens.
+
+EN: This branch contains the entrances to the Ecumenical Temple, the Lair of Beasts, the Orcish Mines, the Vaults and the Depths.
+FR: Cette branche contient les entrées du Temple Œcuménique, de l’Antre des Bêtes, des Mines Orques, des Chambres Fortes et des Profondeurs.
+
+EN: This branch contains the entrances to the Iron City of Dis, Gehenna, Cocytus and Tartarus.
+FR: Cette branche contient les entrées de la Cité de Fer de Dis, de la Géhenne, du Cocyte et du Tartare.
+
+EN: This branch contains the entrances to the Realm of Zot and a ziggurat.
+FR: Cette branche contient les entrées du Royaume de Zot et d’une ziggourat.
+
+EN: This branch contains the golden rune of Zot.
+FR: Cette branche contient la rune dorée de Zot.
+
+EN: This branch contains the gossamer rune of Zot.
+FR: Cette branche contient la rune arachnéenne de Zot.
+
+EN: This branch contains the icy rune of Zot.
+FR: Cette branche contient la rune glacée de Zot.
+
+EN: This branch contains the iron rune of Zot.
+FR: Cette branche contient la rune de fer de Zot.
+
+EN: This branch contains the obsidian rune of Zot.
+FR: Cette branche contient la rune d’obsidienne de Zot.
+
+EN: This branch contains the serpentine rune of Zot.
+FR: Cette branche contient la rune serpentine de Zot.
+
+EN: This branch contains the silver rune of Zot.
+FR: Cette branche contient la rune d’argent de Zot.
+
+EN: This branch contains the slimy rune of Zot.
+FR: Cette branche contient la rune visqueuse de Zot.
+
+EN: This branch is 15 levels deep.
+FR: Cette branche compte 15 niveaux.
+
+EN: This branch is 2 levels deep.
+FR: Cette branche compte 2 niveaux.
+
+EN: This branch is 3 levels deep.
+FR: Cette branche compte 3 niveaux.
+
+EN: This branch is 4 levels deep.
+FR: Cette branche compte 4 niveaux.
+
+EN: This branch is 5 levels deep.
+FR: Cette branche compte 5 niveaux.
+
+EN: This branch is 7 levels deep.
+FR: Cette branche compte 7 niveaux.
+
+EN: This branch is noisy: sounds don't travel as far here.
+FR: Cette branche est bruyante : les sons portent moins loin ici.
+
+EN: This branch is unnaturally silent: sounds travel farther here.
+FR: Cette branche est anormalement silencieuse : les sons portent plus loin ici.
+
+EN: This cloud is opaque; one tile will not block vision, but multiple will.
+FR: Ce nuage est opaque ; une case ne bloque pas la vue, mais plusieurs la bloquent.
+
+EN: This portal is 27 levels deep.
+FR: Ce portail compte 27 niveaux.
+
+EN: With your current stats and equipment, training 1 level of this skill would increase your EV by 0.5.
+FR: Avec vos caractéristiques et votre équipement actuels, entraîner cette compétence d’un niveau augmenterait votre EV de 0,5.
+
+EN: With your current stats and equipment, training 1 level of this skill would increase your SH by 0.0.
+FR: Avec vos caractéristiques et votre équipement actuels, entraîner cette compétence d’un niveau augmenterait votre SH de 0,0.
+
+EN: Yredelemnul likes it when you kill living or demonic beings while their torch is lit. Yredelemnul especially likes it when you kill holy or unique beings while their torch is lit.
+FR: Yredelemnul apprécie que vous tuiez des êtres vivants ou démoniaques tant que leur torche est allumée. Yredelemnul apprécie tout particulièrement que vous tuiez des êtres sacrés ou uniques tant que leur torche est allumée.
+
+EN: numpad-5
+FR: numpad-5
+
+EN: • 'Ctrl-F', to find and travel to items you've seen before ('Ctrl-F?')
+FR: • « Ctrl-F » pour trouver des objets déjà vus et s’y rendre (« Ctrl-F? »)
+
+EN: • 'G', for automatic travel to another level ('G?' for help)
+FR: • « G » pour voyager automatiquement vers un autre niveau (« G? » pour l’aide)
+
+EN: • 'Tab', to move towards or attack the nearest monster
+FR: • « Tab » pour se diriger vers le monstre le plus proche ou l’attaquer
+
+EN: • 'X', to access the level map for travelling and other tasks ('X?')
+FR: • « X » pour accéder à la carte du niveau afin de voyager ou d’effectuer d’autres tâches (« X? »)
+
+EN: • 'o', for automatic exploration of an unknown level
+FR: • « o » pour explorer automatiquement un niveau inconnu
+
+EN: • Bones files only contain ghosts, never their equipment or cause of death.
+FR: • Les fichiers bones ne contiennent que des fantômes, jamais leur équipement ni leur cause de mort.
+
+EN: • Console or tiles?
+FR: • Console ou tiles ?
+
+EN: • Don't stick around to fight; move as much as possible!
+FR: • Ne restez pas pour combattre ; bougez autant que possible !
+
+EN: • If you have it, use defensive equipment (weapons of protection, etc.).
+FR: • Si vous en avez, utilisez de l’équipement défensif (armes de protection, etc.).
+
+EN: • It doesn't fit into the Crawl world as we see it.
+FR: • Cela ne cadre pas avec le monde de Crawl tel que nous le voyons.
+
+EN: • It violates Crawl's philosophy to avoid grinding and spoiler-heavy stuff.
+FR: • Cela va à l’encontre de la philosophie de Crawl, qui évite le grind et les éléments reposant sur les spoilers.
+
+EN: • Most importantly, what version are you playing?
+FR: • Surtout, à quelle version jouez-vous ?
+
+EN: • Resistances can be gained via mutations or items, never through eating.
+FR: • Les résistances s’obtiennent par des mutations ou des objets, jamais en mangeant.
+
+EN: • Species is *much* more important than the character background (or "class").
+FR: • L’espèce compte *beaucoup* plus que le métier (ou « classe ») du personnage.
+
+EN: • We just don't think it's interesting enough to ever be implemented.
+FR: • Nous ne pensons simplement pas que ce soit assez intéressant pour être un jour implémenté.
+
+EN: • What did you expect to happen, what happened instead, etc.
+FR: • Qu’attendiez-vous, que s’est-il passé à la place, etc.
+
+EN: • What were you doing at the time?
+FR: • Que faisiez-vous à ce moment-là ?
+
+EN: • You cannot sell items to shops or elsewhere.
+FR: • Vous ne pouvez pas vendre d’objets aux boutiques ni ailleurs.
+
+EN: • You need to find a gateway leading out of the Abyss. These are rare!
+FR: • Vous devez trouver une porte menant hors de l’Abysse. Elles sont rares !
+
+EN: • maps/vaults (see dat/ directory, docs/develop/levels/introduction.txt)
+FR: • cartes/chambres fortes (voir le dossier dat/, docs/develop/levels/introduction.txt)
+
+EN: • monster speech (see dat/database/, docs/develop/monster_speech.txt)
+FR: • répliques des monstres (voir dat/database/, docs/develop/monster_speech.txt)
+
+EN: • monster/item/spell descriptions (see dat/descript/)
+FR: • descriptions de monstres/objets/sorts (voir dat/descript/)
+
+EN: • the dark rune is hidden in the shadowy abode of Gloorx Vloq
+FR: • la rune sombre est cachée dans la demeure ténébreuse de Gloorx Vloq
+
+EN: • the demonic rune exists in multiple places, owned by less famous lords
+FR: • la rune démoniaque existe en plusieurs endroits, aux mains de seigneurs moins célèbres
+
+EN: • the fiery rune resides in the blazing realm of Cerebov
+FR: • la rune ardente réside dans le royaume embrasé de Cerebov
+
+EN: • the glowing rune can be found in the contaminated domain of Mnoleg
+FR: • la rune luisante se trouve dans le domaine contaminé de Mnoleg
+
+EN: • the magical rune is guarded by the arcane powers of Lom Lobon
+FR: • la rune magique est gardée par les pouvoirs arcaniques de Lom Lobon
+
+EN: • tiles (see source/rltiles/, docs/develop/tiles_creation.txt)
+FR: • tuiles graphiques (voir source/rltiles/, docs/develop/tiles_creation.txt)

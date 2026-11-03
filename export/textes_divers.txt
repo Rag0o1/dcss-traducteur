@@ -1,0 +1,1157 @@
+EN: A freezing mist starts to gather...
+FR: Une brume glaciale commence à se former…
+
+EN: A rock wall.
+FR: Un mur de roche.
+
+EN: Some deep water.
+FR: De l’eau profonde.
+
+EN: An escape hatch in the floor.
+FR: Une trappe de secours dans le sol.
+
+EN: A sentinel's mark forms upon you.
+FR: La marque d’une sentinelle se forme sur vous.
+
+EN: As you read the scroll of blinking, it crumbles to dust.
+FR: Alors que vous lisez le parchemin de clignotement, il s’effrite en poussière.
+
+EN: Barbed spikes become lodged in your body.
+FR: Des pointes barbelées se logent dans votre corps.
+
+EN: More barbed spikes become lodged in your body.
+FR: D’autres pointes barbelées se logent dans votre corps.
+
+EN: The barbed spikes dig painfully into your body as you move.
+FR: Les pointes barbelées s’enfoncent douloureusement dans votre corps quand vous bougez.
+
+EN: The barbs in your skin will harm you if you move. Continue?
+FR: Les barbes dans votre peau vous blesseront si vous bougez. Continuer ?
+
+EN: You carefully extract the barbed spikes from your body.
+FR: Vous extrayez avec précaution les pointes barbelées de votre corps.
+
+EN: Clouds condense from the air!
+FR: Des nuages se condensent dans l’air !
+
+EN: The Realm of Zot is guarded by orbs of entropy.
+FR: Le Royaume de Zot est gardé par des orbes d’entropie.
+
+EN: The air twists around and strikes you!
+FR: L’air se tord autour de vous et vous frappe !
+
+EN: The alarm trap emits a blaring wail!
+FR: Le piège d’alarme émet un hurlement strident !
+
+EN: The condenser dries out!
+FR: Le condenseur se tarit !
+
+EN: The current training targets, if any.
+FR: Les objectifs d’entraînement actuels, le cas échéant.
+
+EN: The liquid fire burns you. You resist.
+FR: Le feu liquide vous brûle. Vous résistez.
+
+EN: The relative cost of raising each skill is in
+FR: Le coût relatif d’amélioration de chaque compétence est en
+
+EN: The fauns go into a battle-frenzy!
+FR: Les faunes entrent dans une frénésie de combat !
+
+EN: The flask of dizzying concoctions shatters into a vile cloud!
+FR: La fiole de mixtures étourdissantes se brise en un nuage infect !
+
+EN: The mirror clouds!
+FR: Le miroir se couvre de buée !
+
+EN: The now-empty wand crumbles to dust.
+FR: La baguette désormais vide s’effrite en poussière.
+
+EN: The open air twists around violently and strikes you!
+FR: L’air libre se tord violemment et vous frappe !
+
+EN: The open air twists around violently and strikes you!!
+FR: L’air libre se tord violemment et vous frappe !!
+
+EN: The sentinel's mark upon you fades away.
+FR: La marque de la sentinelle sur vous s’estompe.
+
+EN: The shadowy forms in the deep grow still as others approach.
+FR: Les formes d’ombre dans les profondeurs s’immobilisent à l’approche d’autres.
+
+EN: The shadowy forms in the deep grow still as others approach. x2
+FR: Les formes d’ombre dans les profondeurs s’immobilisent à l’approche d’autres. x2
+
+EN: The teleport trap disappears.
+FR: Le piège de téléportation disparaît.
+
+EN: The water rises up and strikes you!
+FR: L’eau se dresse et vous frappe !
+
+EN: The water rises up and strikes you.
+FR: L’eau se dresse et vous frappe.
+
+EN: Found two stone staircases leading up.
+FR: Deux escaliers de pierre montants repérés.
+
+EN: Your life force feels restored.
+FR: Votre force vitale vous semble restaurée.
+
+EN: Y - Yes
+FR: Y - Oui
+
+EN: X - Renounce Religion None 0%
+FR: X - Renier sa religion Aucun 0 %
+
+EN: The percentage of incoming experience used to train each skill is in 
+FR: Le pourcentage d’expérience reçue servant à entraîner chaque compétence est en 
+
+EN: Skills enhanced by cross-training are in 
+FR: Les compétences améliorées par l’entraînement croisé sont en 
+
+EN: Help
+FR: Aide
+
+EN: set skill target
+FR: définir un objectif
+
+EN: clear selected target
+FR: effacer l’objectif choisi
+
+EN: all skills
+FR: toutes
+
+EN: all skills
+FR: toutes
+
+EN: cost
+FR: coût
+
+EN: base
+FR: base
+
+EN: auto
+FR: auto
+
+EN: mode
+FR: mode
+
+EN: skills
+FR: compétences
+
+EN: (=)adjust
+FR: (=)ajuster
+
+EN: (d)rop
+FR: (d)époser
+
+EN: (i)nscribe
+FR: (i)nscrire
+
+EN: (s)kill target
+FR: (s) objectif de compétence
+
+EN: (helmet unavailable)
+FR: (casque indisponible)
+
+EN: (no amulet)
+FR: (pas d’amulette)
+
+EN: (no offhand)
+FR: (pas de main gauche)
+
+EN: (no ring)
+FR: (pas d’anneau)
+
+EN: (nimble swimmer 1)
+FR: (nageur agile 1)
+
+EN: (You are camouflaged when in or above water. (Stealth+))
+FR: (Vous êtes camouflé dans l’eau ou au-dessus. (Discrétion+))
+
+EN: : Suppressed.
+FR:  : Supprimé.
+
+EN: A gate leading back out of this place.
+FR: Une porte menant hors de cet endroit.
+
+EN: A huge open translucent gate.
+FR: Un immense portail translucide ouvert.
+
+EN: A magic dart appears from out of thin air!
+FR: Une fléchette magique surgit de nulle part !
+
+EN: A metal wall.
+FR: Un mur de métal.
+
+EN: A shop.
+FR: Une boutique.
+
+EN: A stone wall.
+FR: Un mur de pierre.
+
+EN: A translucent stone wall.
+FR: Un mur de pierre translucide.
+
+EN: A transporter.
+FR: Un transporteur.
+
+EN: An alarm trap.
+FR: Un piège d’alarme.
+
+EN: A phantom.
+FR: Un fantôme.
+
+EN: An ogre.
+FR: Un ogre.
+
+EN: Asleep:
+FR: Endormi :
+
+EN: Class: Natural
+FR: Classe : Naturel
+
+EN: Class: Undead
+FR: Classe : Mort-vivant
+
+EN: Description
+FR: Description
+
+EN: Description |
+FR: Description |
+
+EN: Description | Status |
+FR: Description | Statut |
+
+EN: | Quote
+FR: | Citation
+
+EN: | Status | Quote
+FR: | Statut | Citation
+
+EN: Quote
+FR: Citation
+
+EN: Attack Max Damage
+FR: Attaque Dégâts max
+
+EN: Attack Max Damage After Damaging Hits
+FR: Attaque Dégâts max après coups blessants
+
+EN: Gold:
+FR: Or :
+
+EN: Health:
+FR: Santé :
+
+EN: Magic:
+FR: Magie :
+
+EN: Next:
+FR: Suivant :
+
+EN: Threat: High
+FR: Menace : Élevée
+
+EN: Threat: Lethal
+FR: Menace : Mortelle
+
+EN: Size: Large
+FR: Taille : Grande
+
+EN: Size: Medium
+FR: Taille : Moyenne
+
+EN: Int: Human
+FR: Int : Humain
+
+EN: It can fly.
+FR: Il peut voler.
+
+EN: It can open doors.
+FR: Il peut ouvrir les portes.
+
+EN: It is insubstantial and immune to ensnarement.
+FR: Il est immatériel et immunisé contre l’entrave.
+
+EN: It is immune to torment; and resistant to miasma and drowning.
+FR: Il est immunisé au tourment ; et résistant au miasme et à la noyade.
+
+EN: It is immune to torment; and resistant to acid and corrosion, miasma and drowning.
+FR: Il est immunisé au tourment ; et résistant à l’acide et à la corrosion, au miasme et à la noyade.
+
+EN: Level annotation: Menkaure
+FR: Annotation de niveau : Menkaure
+
+EN: Level annotation: exclusion: 2 ogres
+FR: Annotation de niveau : exclusion : 2 ogres
+
+EN: Level annotation: exclusion: ribbon worm
+FR: Annotation de niveau : exclusion : ver ruban
+
+EN: Placed new exclusion.
+FR: Nouvelle exclusion placée.
+
+EN: Removed exclusion.
+FR: Exclusion retirée.
+
+EN: Reduced exclusion size to a single square.
+FR: Taille d’exclusion réduite à une seule case.
+
+EN: Stopped running for exclusion.
+FR: Course interrompue à cause d’une exclusion.
+
+EN: Partly explored, unvisited transporter.
+FR: Exploré en partie, transporteur non visité.
+
+EN: Press the letter of a skill to read its description.
+FR: Appuyez sur la lettre d’une compétence pour lire sa description.
+
+EN: Press: ? - help, . - travel
+FR: Appuyez : ? - aide, . - voyager
+
+EN: Press: ? - help, . - travel, g - get item
+FR: Appuyez : ? - aide, . - voyager, g - ramasser
+
+EN: There are many items here.
+FR: Il y a beaucoup d’objets ici.
+
+EN: There is a collapsed entrance here.
+FR: Il y a une entrée effondrée ici.
+
+EN: There is a gate leading back out of this place here.
+FR: Il y a ici une porte menant hors de cet endroit.
+
+EN: There is a huge open translucent gate here.
+FR: Il y a ici un immense portail translucide ouvert.
+
+EN: There is a mourning vase here.
+FR: Il y a un vase de deuil ici.
+
+EN: There is a transporter here.
+FR: Il y a un transporteur ici.
+
+EN: There is an empty arch of ancient stone here.
+FR: Il y a ici une arche vide de pierre ancienne.
+
+EN: There is an escape hatch in the floor here.
+FR: Il y a une trappe de secours dans le sol ici.
+
+EN: Welcome back to the Dungeon!
+FR: Bon retour dans le Donjon !
+
+EN: You are a hypnotic gecko-hybrid.
+FR: Vous êtes un hybride de gecko hypnotique.
+
+EN: You are amphibious.
+FR: Vous êtes amphibie.
+
+EN: You are immune to blinding.
+FR: Vous êtes immunisé contre l’aveuglement.
+
+EN: You begin transforming.
+FR: Vous commencez à vous transformer.
+
+EN: You continue transforming.
+FR: Vous continuez à vous transformer.
+
+EN: Your transformation has ended.
+FR: Votre transformation est terminée.
+
+EN: You can access your shopping list by pressing '$'.
+FR: Vous pouvez accéder à votre liste d’achats en appuyant sur « $ ».
+
+EN: You can wear up to eight rings at the same time.
+FR: Vous pouvez porter jusqu’à huit anneaux en même temps.
+
+EN: You can't see that place.
+FR: Vous ne voyez pas cet endroit.
+
+EN: You cannot wear most types of armour.
+FR: Vous ne pouvez pas porter la plupart des armures.
+
+EN: You climb upwards.
+FR: Vous montez.
+
+EN: You close the large door.
+FR: Vous fermez la grande porte.
+
+EN: You open the large door.
+FR: Vous ouvrez la grande porte.
+
+EN: You condense the dungeon air into a potion of mist.
+FR: Vous condensez l’air du donjon en une potion de brume.
+
+EN: You create potions of mist as you explore.
+FR: Vous créez des potions de brume en explorant.
+
+EN: You drain its power.
+FR: Vous drainez sa puissance.
+
+EN: You enter the deep water.
+FR: Vous entrez dans l’eau profonde.
+
+EN: You enter the transporter and appear at another place.
+FR: Vous entrez dans le transporteur et apparaissez ailleurs.
+
+EN: You feel agile.
+FR: Vous vous sentez agile.
+
+EN: You feel invigorated.
+FR: Vous vous sentez revigoré.
+
+EN: You feel the doom around you dissipate.
+FR: Vous sentez la fatalité autour de vous se dissiper.
+
+EN: Your doom draws closer.
+FR: Votre fatalité se rapproche.
+
+EN: You grip the centipede bauble in your tentacle and it winds around your tentacle and fuses with it.
+FR: Vous saisissez la babiole mille-pattes dans votre tentacule ; elle s’enroule autour et fusionne avec lui.
+
+EN: You have 6 tentacles available for constriction.
+FR: Vous avez 6 tentacules disponibles pour étreindre.
+
+EN: You have tentacles for arms and can constrict up to eight enemies at once.
+FR: Vous avez des tentacules à la place des bras et pouvez étreindre jusqu’à huit ennemis à la fois.
+
+EN: You hear a howl!
+FR: Vous entendez un hurlement !
+
+EN: You hear a loud, deep croak!
+FR: Vous entendez un fort coassement grave !
+
+EN: You hear some strange, mumbled words.
+FR: Vous entendez d’étranges paroles marmonnées.
+
+EN: You hit something.
+FR: Vous frappez quelque chose.
+
+EN: You need to enable at least one skill for training.
+FR: Vous devez activer au moins une compétence à entraîner.
+
+EN: You need to enable at least one skill.
+FR: Vous devez activer au moins une compétence.
+
+EN: You reach to attack!
+FR: Vous tendez le bras pour attaquer !
+
+EN: Your weapon can't reach that far!
+FR: Votre arme ne porte pas aussi loin !
+
+EN: Your assassin centipede leaps free of your tentacle with a hiss!
+FR: Votre mille-pattes assassin se libère de votre tentacule d’un bond en sifflant !
+
+EN: Your head dissolves into a mane of billowing mist!
+FR: Votre tête se dissout en une crinière de brume ondoyante !
+
+EN: Your head is a mane of billowing mist.
+FR: Votre tête est une crinière de brume ondoyante.
+
+EN: Your helmet is melded.
+FR: Votre casque est fusionné.
+
+EN: Melds: Helmet
+FR: Fusionne : Casque
+
+EN: Your movement speed is average.
+FR: Votre vitesse de déplacement est moyenne.
+
+EN: Your spells take twice as long to cast.
+FR: Vos sorts prennent deux fois plus de temps à lancer.
+
+EN: Your tail finishes growing back.
+FR: Votre queue finit de repousser.
+
+EN: Your teeth grow very long and razor-sharp.
+FR: Vos dents deviennent très longues et tranchantes comme des rasoirs.
+
+EN: Drinking potions allow you to spray harmful clouds.
+FR: Boire des potions vous permet de projeter des nuages nocifs.
+
+EN: potion clouds, gather mist, slow casting, almost no armour, amphibious, 8 rings, camouflage 1, gelatinous body 1,
+FR: nuages de potions, collecte de brume, lancer lent, presque aucune armure, amphibie, 8 anneaux, camouflage 1, corps gélatineux 1,
+
+EN: mistmane-form
+FR: forme de crinière de brume
+
+EN: mist talisman
+FR: talisman de brume
+
+EN: no passive effects
+FR: aucun effet passif
+
+EN: heavily damaged
+FR: lourdement endommagé
+
+EN: lightly damaged
+FR: légèrement endommagé
+
+EN: moderately damaged
+FR: modérément endommagé
+
+EN: severely damaged
+FR: gravement endommagé
+
+EN: Speed: 100% (attack: 66%)
+FR: Vitesse : 100 % (attaque : 66 %)
+
+EN: Skill Cloud range Cloud duration Distill rate
+FR: Compétence Portée du nuage Durée du nuage Taux de distillation
+
+EN: Melee attacks you make against this creature will deal greatly increased
+FR: Vos attaques de mêlée contre cette créature infligeront des dégâts considérablement accrus
+
+EN: damage, especially if made with a short blade.
+FR: dégâts, surtout avec une lame courte.
+
+EN: deal increased damage.
+FR: infligeront des dégâts accrus.
+
+EN: will awaken it, though melee attacks against it (even by other monsters) will
+FR: le réveillera, mais les attaques de mêlée contre elle (même par d’autres monstres)
+
+EN: This creature is unable to move, act, block, or dodge. Any hostile action
+FR: Cette créature est incapable de bouger, d’agir, de bloquer ou d’esquiver. Toute action hostile
+
+EN: However, the lack of typical mouth parts makes it difficult to pronounce incantations, greatly slowing the speed at which they cast spells.
+FR: Cependant, l’absence de pièces buccales typiques rend difficile la prononciation d’incantations, ce qui ralentit grandement la vitesse à laquelle ils lancent des sorts.
+
+EN: for a general explanation of skilling and the various toggles.
+FR: pour une explication générale de l’entraînement et des divers réglages.
+
+EN: to set 14.0 as a target for Shapeshifting.
+FR: pour fixer 14.0 comme objectif pour Métamorphose.
+
+EN: Gear: 13/52 gear slots (Left/Right/Tab to switch category)
+FR: Équipement : 13/52 emplacements (Gauche/Droite/Tab pour changer de catégorie)
+
+EN: Enter
+FR: Entrée
+
+EN: Missiles (go to first with
+FR: Projectiles (aller au premier avec
+
+EN: Talismans (go to first with
+FR: Talismans (aller au premier avec
+
+EN: Jewellery (go to first with
+FR: Bijoux (aller au premier avec
+
+EN: Magical Staves (go to first with
+FR: Bâtons magiques (aller au premier avec
+
+EN: Scrolls (select first with
+FR: Parchemins (sélectionner le premier avec
+
+EN: ] buy shopping list [
+FR: ] acheter la liste d’achats [
+
+EN: ] choose item
+FR: ] choisir l’objet
+
+EN: ] exit [
+FR: ] quitter [
+
+EN: ] mark item for purchase [
+FR: ] marquer l’objet à acheter [
+
+EN: ] put item on shopping list
+FR: ] mettre l’objet dans la liste d’achats
+
+EN: ] skill descriptions
+FR: ] descriptions des compétences
+
+EN: ] sort (type) [
+FR: ] trier (type) [
+
+EN: ] to target/travel)
+FR: ] pour viser/voyager)
+
+EN: |examine items [
+FR: |examiner les objets [
+
+EN: |examine|delete items [
+FR: |examiner|supprimer les objets [
+
+EN: Welcome to Fatsuqij's Magic Scroll Boutique! What would you like to do?
+FR: Bienvenue à la Boutique de parchemins magiques de Fatsuqij ! Que souhaitez-vous faire ?
+
+EN: Welcome to Joxeinia's Assorted Antiques! What would you like to do?
+FR: Bienvenue aux Antiquités variées de Joxeinia ! Que souhaitez-vous faire ?
+
+EN: Found Fatsuqij's Magic Scroll Boutique.
+FR: Boutique de parchemins magiques de Fatsuqij repérée.
+
+EN: Found Joxeinia's Assorted Antiques.
+FR: Antiquités variées de Joxeinia repérées.
+
+EN: There is an entrance to Fatsuqij's Magic Scroll Boutique here.
+FR: Il y a ici l’entrée de la Boutique de parchemins magiques de Fatsuqij.
+
+EN: There is an entrance to Joxeinia's Assorted Antiques here.
+FR: Il y a ici l’entrée des Antiquités variées de Joxeinia.
+
+EN: Found a gate leading back out of this place.
+FR: Porte menant hors de cet endroit repérée.
+
+EN: Found a book of Armaments.
+FR: Livre d’Armements repéré.
+
+EN: Found a parchment of Magnavolt.
+FR: Parchemin de Magnavolt repéré.
+
+EN: An invisible orc wizard is probably nearby! (Press *t to temporarily disregard this.)
+FR: Un sorcier orc invisible est probablement proche ! (Appuyez sur *t pour l’ignorer temporairement.)
+
+EN: You now have enough gold to buy a ring of willpower on D:5.
+FR: Vous avez maintenant assez d’or pour acheter un anneau de volonté sur D:5.
+
+EN: You pick up a book of Armaments and begin reading...
+FR: Vous ramassez un livre d’Armements et commencez à lire...
+
+EN: You add the spells Stone Arrow, Rending Blade and Lehudib's Crystal Spear to your library.
+FR: Vous ajoutez les sorts Stone Arrow, Rending Blade et Lehudib's Crystal Spear à votre bibliothèque.
+
+EN: The +9 dagger of Kutorph {holy, rN++ Will+ Stlth-} softly glows with a divine radiance!
+FR: La dague +9 de Kutorph {holy, rN++ Will+ Stlth-} luit doucement d’un éclat divin !
+
+EN: The +9 dagger of Kutorph {holy, rN++ Will+ Stlth-} stops glowing.
+FR: La dague +9 de Kutorph {holy, rN++ Will+ Stlth-} cesse de briller.
+
+EN: You unwield the +9 dagger of Kutorph {holy, rN++ Will+ Stlth-}.
+FR: Vous rangez la dague +9 de Kutorph {holy, rN++ Will+ Stlth-}.
+
+EN: The orc wizard flickers and vanishes!
+FR: Le sorcier orc vacille et disparaît !
+
+EN: The vampire bat convulses!
+FR: La chauve-souris vampire a des convulsions !
+
+EN: The vampire bat struggles to escape constriction. x2
+FR: La chauve-souris vampire se débat pour échapper à l’étreinte. x2
+
+EN: The hound barks!
+FR: Le chien aboie !
+
+EN: The iguana hisses menacingly.
+FR: L’iguane siffle d’un air menaçant.
+
+EN: The bullfrog croaks.
+FR: La grenouille-taureau coasse.
+
+EN: Something shouts, "Repent, thou erky dizzy-eyed bandersnitch!"
+FR: Quelque chose crie : « Repens-toi, misérable bandersnatch aux yeux vertigineux ! »
+
+EN: The apparition of TCC the Sneak, a novice Vine Stalker Stalker of Uskayaw.
+FR: L’apparition de TCC le Furtif, Rôdeur-des-vignes Rôdeur novice d’Uskayaw.
+
+EN: The apparition of rago the Trooper, a novice Demonspawn Monk of Makhleb.
+FR: L’apparition de rago le Soldat, Moine Rejeton-démon novice de Makhleb.
+
+EN: Rago's ghost shrieks, "They lied to you. The Dungeon just goes down and down forever."
+FR: Le fantôme de Rago hurle : « Ils vous ont menti. Le Donjon descend, descend, à jamais. »
+
+EN: TCC's ghost whispers, "The ORB doesn't exist."
+FR: Le fantôme de TCC murmure : « L’ORBE n’existe pas. »
+
+EN: Rago's ghost shrieks, "They lied to you.
+FR: Le fantôme de Rago hurle : « Ils vous ont menti.
+
+EN: Rago's ghost.
+FR: Le fantôme de Rago.
+
+EN: TCC's ghost.
+FR: Le fantôme de TCC.
+
+EN: Rago's ghost attacks as it pursues you!
+FR: Le fantôme de Rago attaque en vous poursuivant !
+
+EN: Rago's ghost is lightly damaged.
+FR: Le fantôme de Rago est légèrement endommagé.
+
+EN: Rago's ghost is moderately damaged.
+FR: Le fantôme de Rago est modérément endommagé.
+
+EN: Lugonu accepts your kill.
+FR: Lugonu accepte votre mise à mort.
+
+EN: Lugonu claims a new guest.
+FR: Lugonu accueille un nouvel invité.
+
+EN: Lugonu's Hand of Corruption reaches out!
+FR: La Main de Corruption de Lugonu se tend !
+
+EN: Please select a direction to dig.
+FR: Choisissez une direction pour creuser.
+
+EN: Press } to see all the runes you have collected.
+FR: Appuyez sur } pour voir toutes les runes collectées.
+
+EN: There are no items here.
+FR: Il n’y a aucun objet ici.
+
+EN: There's nothing to open nearby.
+FR: Il n’y a rien à ouvrir à proximité.
+
+EN: That would be overly suicidal.
+FR: Ce serait beaucoup trop suicidaire.
+
+EN: Done waiting.
+FR: Attente terminée.
+
+EN: You start resting.
+FR: Vous commencez à vous reposer.
+
+EN: You start waiting.
+FR: Vous commencez à attendre.
+
+EN: Welcome back to the Lair of Beasts!
+FR: Bon retour dans l’Antre des Bêtes !
+
+EN: Welcome back to the Spider Nest!
+FR: Bon retour dans le Nid d’Araignées !
+
+EN: Welcome to the Spider Nest!
+FR: Bienvenue dans le Nid d’Araignées !
+
+EN: What level of the Spider Nest? (default 1, ? - help)
+FR: Quel niveau du Nid d’Araignées ? (1 par défaut, ? - aide)
+
+EN: You are a living statue of rough stone.
+FR: Vous êtes une statue vivante de pierre brute.
+
+EN: You are afflicted by dizzying energies!
+FR: Vous êtes frappé par des énergies étourdissantes !
+
+EN: You are confused.
+FR: Vous êtes confus.
+
+EN: You are covered in intense liquid fire! Move or burn!
+FR: Vous êtes couvert de feu liquide intense ! Bougez ou brûlez !
+
+EN: You are even more covered in intense liquid fire!
+FR: Vous êtes encore plus couvert de feu liquide intense !
+
+EN: You are flying.
+FR: Vous volez.
+
+EN: You are no longer glowing.
+FR: Vous ne brillez plus.
+
+EN: You are no longer mesmerised.
+FR: Vous n’êtes plus hypnotisé.
+
+EN: You are no longer terrified.
+FR: Vous n’êtes plus terrifié.
+
+EN: You are on fire!
+FR: Vous êtes en feu !
+
+EN: You are outlined in light.
+FR: Vous êtes cerné de lumière.
+
+EN: You assume a fearsome visage.
+FR: Vous prenez un visage effrayant.
+
+EN: You become entangled in the net!
+FR: Vous vous empêtrez dans le filet !
+
+EN: You bump into the rock wall.
+FR: Vous heurtez le mur de roche.
+
+EN: You can't carry that many items.
+FR: Vous ne pouvez pas porter autant d’objets.
+
+EN: You easily resist.
+FR: Vous résistez facilement.
+
+EN: You feel a bit more experienced.
+FR: Vous vous sentez un peu plus expérimenté.
+
+EN: You feel better.
+FR: Vous vous sentez mieux.
+
+EN: You feel drained.
+FR: Vous vous sentez drainé.
+
+EN: You feel less confused.
+FR: Vous êtes moins confus.
+
+EN: You feel much better.
+FR: Vous vous sentez bien mieux.
+
+EN: You feel you are being watched by something.
+FR: Vous sentez que quelque chose vous observe.
+
+EN: You feel your power leaking away.
+FR: Vous sentez votre puissance s’échapper.
+
+EN: You fly downwards.
+FR: Vous volez vers le bas.
+
+EN: You fly upwards.
+FR: Vous volez vers le haut.
+
+EN: You partially resist.
+FR: Vous résistez en partie.
+
+EN: You pick up the barnacled rune and feel its power.
+FR: Vous ramassez la rune incrustée de bernacles et sentez son pouvoir.
+
+EN: You pick your way through the web.
+FR: Vous vous frayez un chemin à travers la toile.
+
+EN: You reach down and open the door.
+FR: Vous vous penchez et ouvrez la porte.
+
+EN: You resist with almost no effort.
+FR: Vous résistez presque sans effort.
+
+EN: You resist with some effort.
+FR: Vous résistez avec un certain effort.
+
+EN: You shake off some of the fire as you move.
+FR: Vous secouez une partie du feu en bougeant.
+
+EN: You shake off the liquid fire.
+FR: Vous vous débarrassez du feu liquide.
+
+EN: You shout for attention!
+FR: Vous criez pour attirer l’attention !
+
+EN: You shred the net and break free!
+FR: Vous déchirez le filet et vous libérez !
+
+EN: You struggle against the net.
+FR: Vous vous débattez contre le filet.
+
+EN: Your attack delay is about 1.0.
+FR: Votre délai d’attaque est d’environ 1.0.
+
+EN: Your flying speed is very slow.
+FR: Votre vitesse de vol est très lente.
+
+EN: Your pack is full.
+FR: Votre sac est plein.
+
+EN: Your willpower is stripped away!
+FR: Votre volonté est arrachée !
+
+EN: You are knocked back by the gust of wind.
+FR: Vous êtes repoussé par la rafale de vent.
+
+EN: There is a web here.
+FR: Il y a une toile ici.
+
+EN: There is a large open door here.
+FR: Il y a une grande porte ouverte ici.
+
+EN: Found an escape hatch in the ceiling.
+FR: Trappe de secours dans le plafond repérée.
+
+EN: Found an escape hatch in the floor.
+FR: Trappe de secours dans le sol repérée.
+
+EN: Found a stone staircase leading up and a stone staircase leading down.
+FR: Escalier de pierre montant et escalier de pierre descendant repérés.
+
+EN: There is an escape hatch in the ceiling here.
+FR: Il y a une trappe de secours dans le plafond ici.
+
+EN: There is a stone staircase leading up, spattered with blood here.
+FR: Il y a un escalier de pierre montant, éclaboussé de sang, ici.
+
+EN: Spell assigned to 'l'.
+FR: Sort assigné à « l ».
+
+EN: Blink to where?
+FR: Clignoter vers où ?
+
+EN: Cast which spell? (? or * to list)
+FR: Quel sort lancer ? (? ou * pour lister)
+
+EN: Drink which item?
+FR: Boire quel objet ?
+
+EN: Read which item?
+FR: Lire quel objet ?
+
+EN: Evoke which item?
+FR: Évoquer quel objet ?
+
+EN: Identify which item? (\ to view known items)
+FR: Identifier quel objet ? (\ pour voir les objets connus)
+
+EN: Really rampage into that cloud of flame?
+FR: Vraiment foncer dans ce nuage de flammes ?
+
+EN: Confirm with . or Enter, or press ? or * to list all spells.
+FR: Confirmez avec . ou Entrée, ou appuyez sur ? ou * pour lister tous les sorts.
+
+EN: You see here
+FR: Vous voyez ici
+
+EN: Item here:
+FR: Objet ici :
+
+EN: Items here:
+FR: Objets ici :
+
+EN: Here:
+FR: Ici :
+
+EN: Look:
+FR: Regarder :
+
+EN: Dungeon Overview and Level Annotations
+FR: Aperçu du donjon et annotations de niveaux
+
+EN: Partly explored, can't reach some items.
+FR: Exploré en partie, certains objets sont inaccessibles.
+
+EN: Level annotation: corrupted
+FR: Annotation de niveau : corrompu
+
+EN: Level annotation: exclusion: hydra
+FR: Annotation de niveau : exclusion : hydre
+
+EN: *You can no longer be shafted in this branch
+FR: *Vous ne pouvez plus être précipité dans un puits dans cette branche
+
+EN: Altars:
+FR: Autels :
+
+EN: Branches:
+FR: Branches :
+
+EN: Portals:
+FR: Portails :
+
+EN: Shops:
+FR: Boutiques :
+
+EN: Annotations:
+FR: Annotations :
+
+EN: Casting:
+FR: Lancer :
+
+EN: Aiming:
+FR: Visée :
+
+EN: Activating:
+FR: Activation :
+
+EN: Invocations -
+FR: Invocations -
+
+EN: almost dead
+FR: presque mort
+
+EN: heavily wounded
+FR: gravement blessé
+
+EN: severely wounded
+FR: sévèrement blessé
+
+EN: moderately wounded
+FR: modérément blessé
+
+EN: lightly wounded
+FR: légèrement blessé
+
+EN: mildly dangerous
+FR: faiblement dangereux
+
+EN: useful
+FR: utile
+
+EN: useless & duplicates [
+FR: inutiles et doublons [
+
+EN: Monsters
+FR: Monstres
+
+EN: Visible Monsters
+FR: Monstres visibles
+
+EN: Visible Monsters/Items
+FR: Monstres/objets visibles
+
+EN: Potions
+FR: Potions
+
+EN: Scrolls
+FR: Parchemins
+
+EN: Wands
+FR: Baguettes
+
+EN: Jewellery
+FR: Bijoux
+
+EN: Magical Staves
+FR: Bâtons magiques
+
+EN: Miscellaneous
+FR: Divers
+
+EN: Other Items
+FR: Autres objets
+
+EN: Baubles
+FR: Babioles
+
+EN: Carrion
+FR: Charogne
+
+EN: Hand Weapons (select all with
+FR: Armes de mêlée (tout sélectionner avec
+
+EN: Hand Weapons (go to first with
+FR: Armes de mêlée (aller à la première avec
+
+EN: Potions (select all with
+FR: Potions (tout sélectionner avec
+
+EN: Potions (select first with
+FR: Potions (sélectionner la première avec
+
+EN: Scrolls (select all with
+FR: Parchemins (tout sélectionner avec
+
+EN: Wands (select all with
+FR: Baguettes (tout sélectionner avec
+
+EN: Jewellery (select all with
+FR: Bijoux (tout sélectionner avec
+
+EN: Magical Staves (select all with
+FR: Bâtons magiques (tout sélectionner avec
+
+EN: Miscellaneous (select all with
+FR: Divers (tout sélectionner avec
+
+EN: Missiles (select all with
+FR: Projectiles (tout sélectionner avec
+
+EN: Talismans (select all with
+FR: Talismans (tout sélectionner avec
+
+EN: Armour (select all with
+FR: Armures (tout sélectionner avec
+
+EN: Cloak :
+FR: Cape :
+
+EN: Helmet :
+FR: Casque :
+
+EN: Offhand :
+FR: Main gauche :
+
+EN: [Armour melded]
+FR: [Armure fusionnée]
+
+EN: [Boots melded]
+FR: [Bottes fusionnées]
+
+EN: [Gloves melded]
+FR: [Gants fusionnés]
+
+EN: Skill Level Cost Apt Skill Level Cost Apt
+FR: Compétence Niveau Coût Apt Compétence Niveau Coût Apt
+
+EN: Skill Level Target Apt Skill Level Target Apt
+FR: Compétence Niveau Objectif Apt Compétence Niveau Objectif Apt
+
+EN: Skills enhanced by cross-training and wildshape are in
+FR: Les compétences améliorées par l’entraînement croisé et la métamorphose sont en
+
+EN: Search for what [Enter for "."]?
+FR: Chercher quoi ? [Entrée pour « . »]
+
+EN: Press: ? - help,
+FR: Appuyez : ? - aide,
+
+EN: Press: ? - help, Dir - look around, f - activate
+FR: Appuyez : ? - aide, Dir - regarder autour, f - activer
+
+EN: Press: ? - help, Dir - move target
+FR: Appuyez : ? - aide, Dir - déplacer la cible
+
+EN: Press: ? - help, Shift-Dir - straight line
+FR: Appuyez : ? - aide, Maj-Dir - ligne droite
+
+EN: Press: ? - help, v - describe, . - travel
+FR: Appuyez : ? - aide, v - décrire, . - voyager
+
+EN: 1 match
+FR: 1 résultat
+
+EN: 3 matches
+FR: 3 résultats
+
+EN: 4 matches
+FR: 4 résultats
+
+EN: 37 matches
+FR: 37 résultats
+
+EN: 18 spell levels left
+FR: 18 niveaux de sorts restants
+
+EN: Memorise
+FR: Mémoriser
+
+EN: equip
+FR: équiper
+
+EN: evoke
+FR: évoquer
+
+EN: quaff
+FR: boire
+
+EN: wield
+FR: brandir
+
+EN: travel
+FR: voyager
+
+EN: training
+FR: entraînement
+
+EN: manual
+FR: manuel
+
+EN: targets
+FR: objectifs
+
+EN: enhanced
+FR: amélioré
+
+EN: level
+FR: niveau
+
+EN: demon
+FR: démon
+
+EN: teleport
+FR: téléportation
+
+EN: curing
+FR: guérison
+
+EN: (visited)
+FR: (visité)
+
+EN: (improved by +1).
+FR: (amélioré de +1).
+
+EN: (3% risk of failure)
+FR: (3 % de risque d’échec)
+
+EN: risk of failure)
+FR: risque d’échec)

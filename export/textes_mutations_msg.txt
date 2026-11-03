@@ -1,0 +1,2237 @@
+EN: iron-fused scales
+FR: écailles fusionnées au fer
+
+EN: Iron fuses itself to your scales.
+FR: Le fer se fond à vos écailles.
+
+EN: The iron flakes away from your scales.
+FR: Le fer s’effrite de vos écailles.
+
+EN: Iron will fuse itself to your scales. (AC + 5)
+FR: Le fer se fondra à vos écailles. (CA + 5)
+
+EN: inviolate magic
+FR: magie inviolable
+
+EN: Your magical power grows resistant to disruption.
+FR: Votre pouvoir magique devient résistant aux perturbations.
+
+EN: Your magical power loses its resistance to disruption.
+FR: Votre pouvoir magique perd sa résistance aux perturbations.
+
+EN: Your magical power will grow resistant to disruption.
+FR: Votre pouvoir magique deviendra résistant aux perturbations.
+
+EN: tough skin
+FR: peau coriace
+
+EN: Your skin toughens.
+FR: Votre peau s’endurcit.
+
+EN: Your skin feels delicate.
+FR: Votre peau devient délicate.
+
+EN: strong
+FR: fort
+
+EN: clever
+FR: astucieux
+
+EN: poison resistance
+FR: résistance au poison
+
+EN: You feel resistant to poisons.
+FR: Vous vous sentez résistant aux poisons.
+
+EN: You feel less resistant to poisons.
+FR: Vous vous sentez moins résistant aux poisons.
+
+EN: fire resistance
+FR: résistance au feu
+
+EN: You feel resistant to heat.
+FR: Vous vous sentez résistant à la chaleur.
+
+EN: You feel more resistant to heat.
+FR: Vous vous sentez plus résistant à la chaleur.
+
+EN: You no longer feel heat resistant.
+FR: Vous ne vous sentez plus résistant à la chaleur.
+
+EN: You feel less heat resistant.
+FR: Vous vous sentez moins résistant à la chaleur.
+
+EN: cold resistance
+FR: résistance au froid
+
+EN: You feel resistant to cold.
+FR: Vous vous sentez résistant au froid.
+
+EN: You feel more resistant to cold.
+FR: Vous vous sentez plus résistant au froid.
+
+EN: You no longer feel cold resistant.
+FR: Vous ne vous sentez plus résistant au froid.
+
+EN: You feel less cold resistant.
+FR: Vous vous sentez moins résistant au froid.
+
+EN: heat vulnerability
+FR: vulnérabilité à la chaleur
+
+EN: You feel vulnerable to heat.
+FR: Vous vous sentez vulnérable à la chaleur.
+
+EN: You no longer feel vulnerable to heat.
+FR: Vous ne vous sentez plus vulnérable à la chaleur.
+
+EN: You feel less vulnerable to heat.
+FR: Vous vous sentez moins vulnérable à la chaleur.
+
+EN: cold vulnerability
+FR: vulnérabilité au froid
+
+EN: You feel vulnerable to cold.
+FR: Vous vous sentez vulnérable au froid.
+
+EN: You no longer feel vulnerable to cold.
+FR: Vous ne vous sentez plus vulnérable au froid.
+
+EN: You feel less vulnerable to cold.
+FR: Vous vous sentez moins vulnérable au froid.
+
+EN: demonic guardian
+FR: gardien démoniaque
+
+EN: You feel the presence of a demonic guardian.
+FR: Vous sentez la présence d’un gardien démoniaque.
+
+EN: Your guardian grows in power.
+FR: Votre gardien gagne en puissance.
+
+EN: Your demonic guardian is gone.
+FR: Votre gardien démoniaque a disparu.
+
+EN: Your demonic guardian is weakened.
+FR: Votre gardien démoniaque s’affaiblit.
+
+EN: electricity resistance
+FR: résistance à l’électricité
+
+EN: You feel insulated.
+FR: Vous vous sentez isolé.
+
+EN: You feel conductive.
+FR: Vous vous sentez conducteur.
+
+EN: electricity vulnerability
+FR: vulnérabilité à l’électricité
+
+EN: You feel vulnerable to electricity.
+FR: Vous vous sentez vulnérable à l’électricité.
+
+EN: You feel less vulnerable to electricity.
+FR: Vous vous sentez moins vulnérable à l’électricité.
+
+EN: regeneration
+FR: régénération
+
+EN: You begin to heal more quickly.
+FR: Vous commencez à guérir plus vite.
+
+EN: You begin to regenerate.
+FR: Vous commencez à régénérer.
+
+EN: Your rate of healing slows.
+FR: Votre rythme de guérison ralentit.
+
+EN: inhibited regeneration
+FR: régénération inhibée
+
+EN: Your regeneration stops near monsters.
+FR: Votre régénération s’arrête près des monstres.
+
+EN: You begin to regenerate regardless of the presence of monsters.
+FR: Vous commencez à régénérer malgré la présence de monstres.
+
+EN: feed off suffering
+FR: se nourrir de la souffrance
+
+EN: Vile energies swirl pleasantly through your soul.
+FR: De viles énergies tourbillonnent agréablement dans votre âme.
+
+EN: The vile energy whirls more vigorously through your soul.
+FR: L’énergie vile tourbillonne plus vigoureusement dans votre âme.
+
+EN: The vile energy swirling through your soul dissipates.
+FR: L’énergie vile qui tourbillonnait dans votre âme se dissipe.
+
+EN: The vile energy whirling through your soul weakens.
+FR: L’énergie vile qui tourbillonne dans votre âme s’affaiblit.
+
+EN: spark swarm
+FR: essaim d’étincelles
+
+EN: Foes burned or shocked in your presence may be outlined in light.
+FR: Les ennemis brûlés ou électrocutés en votre présence peuvent être cernés de lumière.
+
+EN: Foes burned or shocked in your presence are regularly outlined in light.
+FR: Les ennemis brûlés ou électrocutés en votre présence sont régulièrement cernés de lumière.
+
+EN: A subtle swarm of sparks and cinders bursts forth and dances around you.
+FR: Un subtil essaim d’étincelles et de braises jaillit et danse autour de vous.
+
+EN: Your quiet swarm of sparks and cinders mildly raises in intensity.
+FR: Votre calme essaim d’étincelles et de braises gagne légèrement en intensité.
+
+EN: Your faint swarm of sparks and cinders peters out.
+FR: Votre faible essaim d’étincelles et de braises s’éteint.
+
+EN: Your quiet swarm of sparks and cinders starts to taper off.
+FR: Votre calme essaim d’étincelles et de braises commence à décliner.
+
+EN: lucky
+FR: chanceux
+
+EN: You feel fortune smile upon you.
+FR: Vous sentez la fortune vous sourire.
+
+EN: You feel fortune smile more brightly upon you.
+FR: Vous sentez la fortune vous sourire plus largement.
+
+EN: You feel like your luck has run out.
+FR: Vous sentez que votre chance est épuisée.
+
+EN: You feel a little less lucky.
+FR: Vous vous sentez un peu moins chanceux.
+
+EN: weak
+FR: faible
+
+EN: dopey
+FR: balourd
+
+EN: clumsy
+FR: maladroit
+
+EN: meek
+FR: docile
+
+EN: You feel meek.
+FR: Vous vous sentez docile.
+
+EN: You feel even more meek.
+FR: Vous vous sentez encore plus docile.
+
+EN: You feel meek as a lamb.
+FR: Vous vous sentez doux comme un agneau.
+
+EN: You feel aggression return to you.
+FR: Vous sentez l’agressivité vous revenir.
+
+EN: You feel a little less meek.
+FR: Vous vous sentez un peu moins docile.
+
+EN: teleportitis
+FR: téléportite
+
+EN: You feel weirdly uncertain.
+FR: Vous vous sentez étrangement incertain.
+
+EN: You feel even more weirdly uncertain.
+FR: Vous vous sentez encore plus étrangement incertain.
+
+EN: You feel stable.
+FR: Vous vous sentez stable.
+
+EN: persistent drain
+FR: drain persistant
+
+EN: You begin to recover more slowly from draining effects.
+FR: Vous récupérez plus lentement des effets de drain.
+
+EN: You recover from draining at a normal speed again.
+FR: Vous récupérez du drain à une vitesse normale à nouveau.
+
+EN: contamination susceptible
+FR: sensible à la contamination
+
+EN: You feel more susceptible to contamination.
+FR: Vous vous sentez plus sensible à la contamination.
+
+EN: You feel less susceptible to contamination.
+FR: Vous vous sentez moins sensible à la contamination.
+
+EN: strong-willed
+FR: volonté de fer
+
+EN: You feel strong-willed.
+FR: Vous vous sentez d’une forte volonté.
+
+EN: You feel more strong-willed.
+FR: Vous vous sentez d’une volonté encore plus forte.
+
+EN: You feel your will become almost unbreakable.
+FR: Vous sentez votre volonté devenir presque incassable.
+
+EN: You no longer feel strong-willed.
+FR: Vous ne vous sentez plus d’une forte volonté.
+
+EN: You feel less strong-willed.
+FR: Vous vous sentez d’une volonté moins forte.
+
+EN: speed
+FR: vitesse
+
+EN: You feel quick.
+FR: Vous vous sentez rapide.
+
+EN: You feel sluggish.
+FR: Vous vous sentez lent.
+
+EN: slowness
+FR: lenteur
+
+EN: see invisible
+FR: voir l’invisible
+
+EN: Your vision sharpens.
+FR: Votre vue s’aiguise.
+
+EN: Your vision seems duller.
+FR: Votre vue semble plus terne.
+
+EN: deformed body
+FR: corps difforme
+
+EN: Your body twists and deforms.
+FR: Votre corps se tord et se déforme.
+
+EN: Your body's shape seems more normal.
+FR: La forme de votre corps semble plus normale.
+
+EN: spit poison
+FR: cracher du poison
+
+EN: There is a nasty taste in your mouth for a moment.
+FR: Il y a un mauvais goût dans votre bouche un instant.
+
+EN: You feel an ache in your throat.
+FR: Vous sentez une douleur dans la gorge.
+
+EN: screaming
+FR: hurlement
+
+EN: You feel the urge to shout.
+FR: Vous ressentez l’envie de crier.
+
+EN: You feel a strong urge to scream.
+FR: Vous ressentez une forte envie de hurler.
+
+EN: Your urge to shout disappears.
+FR: Votre envie de crier disparaît.
+
+EN: Your urge to scream lessens.
+FR: Votre envie de hurler diminue.
+
+EN: clarity
+FR: clarté d’esprit
+
+EN: Your thoughts seem clearer.
+FR: Vos pensées semblent plus claires.
+
+EN: Your thinking seems confused.
+FR: Votre pensée semble confuse.
+
+EN: poor constitution
+FR: constitution fragile
+
+EN: You feel your constitution weaken.
+FR: Vous sentez votre constitution s’affaiblir.
+
+EN: You feel your constitution grow even weaker.
+FR: Vous sentez votre constitution s’affaiblir encore plus.
+
+EN: You feel your constitution return to normal.
+FR: Vous sentez votre constitution revenir à la normale.
+
+EN: You feel your constitution improve a little.
+FR: Vous sentez votre constitution s’améliorer un peu.
+
+EN: mutation resistance
+FR: résistance aux mutations
+
+EN: You feel genetically stable.
+FR: Vous vous sentez génétiquement stable.
+
+EN: You feel genetically immutable.
+FR: Vous vous sentez génétiquement immuable.
+
+EN: You feel genetically unstable.
+FR: Vous vous sentez génétiquement instable.
+
+EN: evolution
+FR: évolution
+
+EN: You feel a hidden potential growing inside you.
+FR: Vous sentez un potentiel caché grandir en vous.
+
+EN: Your hidden genetic potential grows.
+FR: Votre potentiel génétique caché grandit.
+
+EN: You no longer feel a hidden potential within.
+FR: Vous ne sentez plus de potentiel caché en vous.
+
+EN: Your hidden genetic potential wanes.
+FR: Votre potentiel génétique caché décroît.
+
+EN: devolution
+FR: dévolution
+
+EN: You feel a hidden malignance growing inside you.
+FR: Vous sentez une malignité cachée grandir en vous.
+
+EN: The malignance inside you grows.
+FR: La malignité en vous grandit.
+
+EN: You no longer feel a malignance within.
+FR: Vous ne sentez plus de malignité en vous.
+
+EN: Your genetic malignance weakens.
+FR: Votre malignité génétique s’affaiblit.
+
+EN: protean grace
+FR: grâce protéiforme
+
+EN: Mutagenic power surges through your limbs.
+FR: Un pouvoir mutagène déferle dans vos membres.
+
+EN: The mutagenic power surging through your limbs dissipates.
+FR: Le pouvoir mutagène qui déferlait dans vos membres se dissipe.
+
+EN: frail
+FR: frêle
+
+EN: You feel frail.
+FR: Vous vous sentez frêle.
+
+EN: You feel robust.
+FR: Vous vous sentez robuste.
+
+EN: robust
+FR: robuste
+
+EN: torment resistance
+FR: résistance au tourment
+
+EN: You feel a strange anaesthesia.
+FR: Vous ressentez une étrange anesthésie.
+
+EN: You feel a very strange anaesthesia.
+FR: Vous ressentez une très étrange anesthésie.
+
+EN: negative energy resistance
+FR: résistance à l’énergie négative
+
+EN: You feel resistant to negative energy.
+FR: Vous vous sentez résistant à l’énergie négative.
+
+EN: You feel more resistant to negative energy.
+FR: Vous vous sentez plus résistant à l’énergie négative.
+
+EN: in touch with death
+FR: en contact avec la mort
+
+EN: You feel more in touch with the powers of death.
+FR: Vous vous sentez plus en contact avec les pouvoirs de la mort.
+
+EN: evasive flight
+FR: vol évasif
+
+EN: Your magical nature develops, letting you fly evasively.
+FR: Votre nature magique se développe, vous permettant de voler de façon évasive.
+
+EN: Your magical flight will help you evade attacks. (EV + 4)
+FR: Votre vol magique vous aidera à esquiver les attaques. (EV + 4)
+
+EN: acrobatic
+FR: acrobatique
+
+EN: off-hand wielding
+FR: maniement de la main gauche
+
+EN: slow wielding
+FR: maniement lent
+
+EN: initially attractive
+FR: d’abord séduisant
+
+EN: You feel strangely attractive.
+FR: Vous vous sentez étrangement séduisant.
+
+EN: You feel even more attractive.
+FR: Vous vous sentez encore plus séduisant.
+
+EN: You feel less attractive.
+FR: Vous vous sentez moins séduisant.
+
+EN: You feel a little less attractive.
+FR: Vous vous sentez un peu moins séduisant.
+
+EN: warmup strikes
+FR: coups d’échauffement
+
+EN: no jewellery
+FR: aucun bijou
+
+EN: hurl damnation
+FR: projeter la damnation
+
+EN: You smell a hint of brimstone.
+FR: Vous sentez une pointe de soufre.
+
+EN: horns
+FR: cornes
+
+EN: A pair of horns grows on your head!
+FR: Une paire de cornes pousse sur votre tête !
+
+EN: The horns on your head grow some more.
+FR: Les cornes sur votre tête grandissent encore.
+
+EN: The horns on your head shrink away.
+FR: Les cornes sur votre tête rétrécissent.
+
+EN: The horns on your head shrink a bit.
+FR: Les cornes sur votre tête raccourcissent un peu.
+
+EN: beak
+FR: bec
+
+EN: Your mouth lengthens and hardens into a beak!
+FR: Votre bouche s’allonge et durcit en un bec !
+
+EN: Your beak shortens and softens into a mouth.
+FR: Votre bec raccourcit et s’adoucit en une bouche.
+
+EN: claws
+FR: griffes
+
+EN: Your fingernails lengthen.
+FR: Vos ongles s’allongent.
+
+EN: Your fingernails sharpen.
+FR: Vos ongles s’aiguisent.
+
+EN: Your hands twist into claws.
+FR: Vos mains se tordent en griffes.
+
+EN: Your fingernails shrink to normal size.
+FR: Vos ongles reprennent leur taille normale.
+
+EN: Your fingernails look duller.
+FR: Vos ongles semblent plus ternes.
+
+EN: Your hands feel fleshier.
+FR: Vos mains deviennent plus charnues.
+
+EN: fangs
+FR: crocs
+
+EN: Your teeth lengthen and sharpen.
+FR: Vos dents s’allongent et s’aiguisent.
+
+EN: Your teeth lengthen and sharpen some more.
+FR: Vos dents s’allongent et s’aiguisent encore.
+
+EN: Your teeth shrink to normal size.
+FR: Vos dents reprennent leur taille normale.
+
+EN: Your teeth shrink and become duller.
+FR: Vos dents rétrécissent et s’émoussent.
+
+EN: hooves
+FR: sabots
+
+EN: Your feet thicken and deform.
+FR: Vos pieds s’épaississent et se déforment.
+
+EN: Your feet have mutated into hooves.
+FR: Vos pieds se sont mutés en sabots.
+
+EN: Your hooves expand and flesh out into feet!
+FR: Vos sabots s’étendent et redeviennent des pieds !
+
+EN: Your hooves look more like feet.
+FR: Vos sabots ressemblent davantage à des pieds.
+
+EN: antennae
+FR: antennes
+
+EN: A pair of antennae grows on your head!
+FR: Une paire d’antennes pousse sur votre tête !
+
+EN: The antennae on your head grow some more.
+FR: Les antennes sur votre tête grandissent encore.
+
+EN: The antennae on your head shrink away.
+FR: Les antennes sur votre tête rétrécissent.
+
+EN: The antennae on your head shrink a bit.
+FR: Les antennes sur votre tête raccourcissent un peu.
+
+EN: talons
+FR: serres
+
+EN: Your toenails lengthen and sharpen.
+FR: Vos ongles d’orteil s’allongent et s’aiguisent.
+
+EN: Your feet stretch into talons.
+FR: Vos pieds s’étirent en serres.
+
+EN: Your talons dull and shrink into feet.
+FR: Vos serres s’émoussent et rétrécissent en pieds.
+
+EN: Your talons look more like feet.
+FR: Vos serres ressemblent davantage à des pieds.
+
+EN: tentacle spike
+FR: pointe de tentacule
+
+EN: One of your lower tentacles grows a sharp spike.
+FR: L’un de vos tentacules inférieurs se hérisse d’une pointe acérée.
+
+EN: Your tentacle spike grows bigger.
+FR: Votre pointe de tentacule grossit.
+
+EN: Your tentacle spike grows even bigger.
+FR: Votre pointe de tentacule grossit encore.
+
+EN: Your tentacle spike disappears.
+FR: Votre pointe de tentacule disparaît.
+
+EN: Your tentacle spike becomes smaller.
+FR: Votre pointe de tentacule rétrécit.
+
+EN: Your tentacle spike recedes somewhat.
+FR: Votre pointe de tentacule régresse un peu.
+
+EN: naga tail
+FR: queue de naga
+
+EN: Your lower body turns into a snake tail.
+FR: Votre bas du corps se transforme en queue de serpent.
+
+EN: Your tail grows strong enough to constrict your enemies.
+FR: Votre queue devient assez forte pour enserrer vos ennemis.
+
+EN: Your lower body returns to normal.
+FR: Votre bas du corps redevient normal.
+
+EN: Your snake tail weakens and can no longer constrict your enemies.
+FR: Votre queue de serpent s’affaiblit et ne peut plus enserrer vos ennemis.
+
+EN: stinger
+FR: dard
+
+EN: A venomous barb forms on the end of your tail.
+FR: Un aiguillon venimeux se forme au bout de votre queue.
+
+EN: The barb on your tail looks sharper.
+FR: L’aiguillon de votre queue semble plus acéré.
+
+EN: The barb on your tail looks very sharp.
+FR: L’aiguillon de votre queue semble très acéré.
+
+EN: The barb on your tail disappears.
+FR: L’aiguillon de votre queue disparaît.
+
+EN: The barb on your tail seems less sharp.
+FR: L’aiguillon de votre queue semble moins acéré.
+
+EN: big wings
+FR: grandes ailes
+
+EN: Your wings grow larger and stronger.
+FR: Vos ailes grandissent et se renforcent.
+
+EN: Your wings shrivel and weaken.
+FR: Vos ailes se ratatinent et s’affaiblissent.
+
+EN: frog-like legs
+FR: jambes de grenouille
+
+EN: Your legs feel stronger.
+FR: Vos jambes se sentent plus fortes.
+
+EN: armoured tail
+FR: queue blindée
+
+EN: stampede
+FR: charge
+
+EN: You stampede swiftly towards enemies and can push them backward.
+FR: Vous chargez rapidement vers vos ennemis et pouvez les repousser.
+
+EN: You become able to stampede towards enemies.
+FR: Vous devenez capable de charger vers vos ennemis.
+
+EN: Your stampede becomes supported by the winds.
+FR: Votre charge est portée par les vents.
+
+EN: You can no longer stampede toward enemies.
+FR: Vous ne pouvez plus charger vers vos ennemis.
+
+EN: One of the Four Winds will empower you as you Stampede.
+FR: L’un des Quatre Vents vous renforcera pendant votre charge.
+
+EN: shaggy fur
+FR: fourrure hirsute
+
+EN: Fur sprouts all over your body.
+FR: Une fourrure pousse sur tout votre corps.
+
+EN: Your fur grows into a thick mane.
+FR: Votre fourrure se transforme en épaisse crinière.
+
+EN: Your thick fur grows shaggy and warm.
+FR: Votre épaisse fourrure devient hirsute et chaude.
+
+EN: You shed all your fur.
+FR: Vous perdez toute votre fourrure.
+
+EN: Your thick fur recedes somewhat.
+FR: Votre épaisse fourrure régresse un peu.
+
+EN: Your shaggy fur recedes somewhat.
+FR: Votre fourrure hirsute régresse un peu.
+
+EN: Your shaggy fur will keep you warm. (AC + 3, rC+)
+FR: Votre fourrure hirsute vous gardera au chaud. (CA + 3, rF+)
+
+EN: high MP
+FR: PM élevés
+
+EN: You feel more energetic.
+FR: Vous vous sentez plus énergique.
+
+EN: You feel less energetic.
+FR: Vous vous sentez moins énergique.
+
+EN: low MP
+FR: PM faibles
+
+EN: wild magic
+FR: magie sauvage
+
+EN: You feel less in control of your magic.
+FR: Vous sentez que vous contrôlez moins bien votre magie.
+
+EN: You feel your magical power running wild!
+FR: Vous sentez votre pouvoir magique devenir incontrôlable !
+
+EN: You regain control of your magic.
+FR: Vous reprenez le contrôle de votre magie.
+
+EN: You feel more in control of your magic.
+FR: Vous sentez que vous contrôlez mieux votre magie.
+
+EN: subdued magic
+FR: magie atténuée
+
+EN: Your connection to magic feels subdued.
+FR: Votre lien avec la magie semble atténué.
+
+EN: Your connection to magic feels more subdued.
+FR: Votre lien avec la magie semble plus atténué.
+
+EN: Your connection to magic feels nearly dormant.
+FR: Votre lien avec la magie semble presque dormant.
+
+EN: Your magic regains its normal vibrancy.
+FR: Votre magie retrouve sa vitalité normale.
+
+EN: Your connection to magic feels less subdued.
+FR: Votre lien avec la magie semble moins atténué.
+
+EN: efficient magic
+FR: magie efficace
+
+EN: You gain a new grip on the flow of your magic.
+FR: Vous maîtrisez mieux le flux de votre magie.
+
+EN: Your grip strengthens on the flow of your magic.
+FR: Votre emprise sur le flux de votre magie se renforce.
+
+EN: The flow of your magic slips from your grasp.
+FR: Le flux de votre magie vous échappe.
+
+EN: The flow of your magic starts slipping from your grasp.
+FR: Le flux de votre magie commence à vous échapper.
+
+EN: ephemeral shield
+FR: bouclier éphémère
+
+EN: Ambient excess energy starts collecting around you.
+FR: L’excès d’énergie ambiante commence à s’accumuler autour de vous.
+
+EN: The ambient excess energy around you dissipates.
+FR: L’excès d’énergie ambiante autour de vous se dissipe.
+
+EN: time-warped blood
+FR: sang distordu par le temps
+
+EN: The flow of your blood desyncs from the flow of time itself.
+FR: Le flux de votre sang se désynchronise du flux du temps lui-même.
+
+EN: The flow of your blood has become unstuck from time.
+FR: Le flux de votre sang s’est détaché du temps.
+
+EN: Your blood flow once more matches the normal passage of time.
+FR: Le flux de votre sang correspond de nouveau au cours normal du temps.
+
+EN: Your blood flow starts aligning itself with the normal passage of time.
+FR: Le flux de votre sang commence à s’aligner sur le cours normal du temps.
+
+EN: demonic magic
+FR: magie démoniaque
+
+EN: A menacing aura infuses your magic.
+FR: Une aura menaçante imprègne votre magie.
+
+EN: Your magic grows more menacing.
+FR: Votre magie devient plus menaçante.
+
+EN: Your wands become infused with your menacing aura.
+FR: Vos baguettes s’imprègnent de votre aura menaçante.
+
+EN: forlorn
+FR: abandonné
+
+EN: You feel forlorn.
+FR: Vous vous sentez abandonné.
+
+EN: You feel more spiritual.
+FR: Vous vous sentez plus spirituel.
+
+EN: sense surroundings
+FR: perception des environs
+
+EN: You feel a strange attunement to the structure of the dungeons.
+FR: Vous ressentez une étrange harmonie avec la structure des donjons.
+
+EN: Your attunement to dungeon structure grows further.
+FR: Votre harmonie avec la structure du donjon grandit encore.
+
+EN: You feel slightly disoriented.
+FR: Vous vous sentez légèrement désorienté.
+
+EN: icemail
+FR: cotte de glace
+
+EN: An icy envelope takes form around you.
+FR: Une enveloppe glacée se forme autour de vous.
+
+EN: Your icy envelope grows thicker.
+FR: Votre enveloppe glacée s’épaissit.
+
+EN: condensation shield
+FR: bouclier de condensation
+
+EN: Frost condenses into a shield before you.
+FR: Le givre se condense en un bouclier devant vous.
+
+EN: passive freeze
+FR: gel passif
+
+EN: Your skin feels very cold.
+FR: Votre peau est très froide.
+
+EN: Your skin warms up.
+FR: Votre peau se réchauffe.
+
+EN: nightstalker
+FR: rôdeur nocturne
+
+EN: You slip into the darkness of the dungeon.
+FR: Vous vous glissez dans l’obscurité du donjon.
+
+EN: You slip further into the darkness.
+FR: Vous vous enfoncez davantage dans l’obscurité.
+
+EN: You are surrounded by darkness.
+FR: Vous êtes entouré de ténèbres.
+
+EN: Your affinity for the darkness vanishes.
+FR: Votre affinité avec les ténèbres disparaît.
+
+EN: Your affinity for the darkness weakens.
+FR: Votre affinité avec les ténèbres s’affaiblit.
+
+EN: spiny
+FR: épineux
+
+EN: Sharp spines emerge from parts of your body.
+FR: Des épines acérées jaillissent de certaines parties de votre corps.
+
+EN: Sharp spines emerge from more of your body.
+FR: Des épines acérées jaillissent de plus de parties de votre corps.
+
+EN: Sharp spines emerge from your entire body.
+FR: Des épines acérées jaillissent de tout votre corps.
+
+EN: Your sharp spines disappear entirely.
+FR: Vos épines acérées disparaissent entièrement.
+
+EN: Your sharp spines retract somewhat.
+FR: Vos épines acérées se rétractent un peu.
+
+EN: powered by death
+FR: alimenté par la mort
+
+EN: A wave of death washes over you.
+FR: Une vague de mort déferle sur vous.
+
+EN: The wave of death grows in power.
+FR: La vague de mort gagne en puissance.
+
+EN: Your control of surrounding life forces is gone.
+FR: Votre emprise sur les forces vitales environnantes a disparu.
+
+EN: Your control of surrounding life forces weakens.
+FR: Votre emprise sur les forces vitales environnantes s’affaiblit.
+
+EN: powered by pain
+FR: alimenté par la douleur
+
+EN: You feel energised by your suffering.
+FR: Votre souffrance vous donne de l’énergie.
+
+EN: You feel even more energised by your suffering.
+FR: Votre souffrance vous donne encore plus d’énergie.
+
+EN: You feel completely energised by your suffering.
+FR: Votre souffrance vous remplit entièrement d’énergie.
+
+EN: You feel power flowing into your body.
+FR: Vous sentez un pouvoir affluer dans votre corps.
+
+EN: You feel power rushing into your body.
+FR: Vous sentez un pouvoir se déverser dans votre corps.
+
+EN: You feel saturated with power.
+FR: Vous vous sentez saturé de pouvoir.
+
+EN: magic shield
+FR: bouclier magique
+
+EN: You feel your magical essence form a protective shroud around your flesh.
+FR: Vous sentez votre essence magique former un voile protecteur autour de votre chair.
+
+EN: magic regeneration
+FR: régénération magique
+
+EN: Your magic begins to regenerate rapidly.
+FR: Votre magie commence à se régénérer rapidement.
+
+EN: magic link
+FR: lien magique
+
+EN: You feel your life force and your magical essence meld.
+FR: Vous sentez votre force vitale et votre essence magique fusionner.
+
+EN: gelatinous body
+FR: corps gélatineux
+
+EN: Your body becomes stretchy.
+FR: Votre corps devient élastique.
+
+EN: Your body becomes more malleable.
+FR: Votre corps devient plus malléable.
+
+EN: Your body becomes viscous.
+FR: Votre corps devient visqueux.
+
+EN: Your body returns to its normal consistency.
+FR: Votre corps retrouve sa consistance normale.
+
+EN: Your body becomes less malleable.
+FR: Votre corps devient moins malléable.
+
+EN: Your body becomes less viscous.
+FR: Votre corps devient moins visqueux.
+
+EN: eyeballs
+FR: globes oculaires
+
+EN: Eyeballs grow over part of your body.
+FR: Des globes oculaires poussent sur une partie de votre corps.
+
+EN: Eyeballs cover a large portion of your body.
+FR: Des globes oculaires couvrent une grande partie de votre corps.
+
+EN: Eyeballs cover you completely.
+FR: Des globes oculaires vous couvrent entièrement.
+
+EN: The eyeballs on your body disappear.
+FR: Les globes oculaires de votre corps disparaissent.
+
+EN: The eyeballs on your body recede somewhat.
+FR: Les globes oculaires de votre corps régressent un peu.
+
+EN: translucent skin
+FR: peau translucide
+
+EN: Your skin becomes partially translucent.
+FR: Votre peau devient partiellement translucide.
+
+EN: Your skin becomes more translucent.
+FR: Votre peau devient plus translucide.
+
+EN: Your skin becomes completely transparent.
+FR: Votre peau devient complètement transparente.
+
+EN: Your skin returns to its normal opacity.
+FR: Votre peau retrouve son opacité normale.
+
+EN: Your skin's translucency fades.
+FR: La translucidité de votre peau s’estompe.
+
+EN: Your skin's transparency fades.
+FR: La transparence de votre peau s’estompe.
+
+EN: pseudopods
+FR: pseudopodes
+
+EN: Pseudopods emerge from your body.
+FR: Des pseudopodes sortent de votre corps.
+
+EN: Your pseudopods grow in size.
+FR: Vos pseudopodes grandissent.
+
+EN: Your pseudopods retract into your body.
+FR: Vos pseudopodes se rétractent dans votre corps.
+
+EN: Your pseudopods become smaller.
+FR: Vos pseudopodes rapetissent.
+
+EN: acidic bite
+FR: morsure acide
+
+EN: Acid begins to drip from your mouth.
+FR: De l’acide commence à dégouliner de votre bouche.
+
+EN: Your mouth feels dry.
+FR: Votre bouche est sèche.
+
+EN: slime shroud
+FR: voile de gelée
+
+EN: A thin film of slime covers your body.
+FR: Une fine pellicule de gelée recouvre votre corps.
+
+EN: Your film of slime dries up.
+FR: Votre pellicule de gelée sèche.
+
+EN: antimagic bite
+FR: morsure antimagie
+
+EN: You feel a sudden thirst for magic.
+FR: Vous ressentez soudain une soif de magie.
+
+EN: Your magical appetite wanes.
+FR: Votre appétit magique diminue.
+
+EN: efficient metabolism
+FR: métabolisme efficace
+
+EN: Your body churns, leaving you strangely parched.
+FR: Votre corps se contracte, vous laissant étrangement assoiffé.
+
+EN: Your body churns, leaving you strangely quenched.
+FR: Votre corps se contracte, vous laissant étrangement désaltéré.
+
+EN: no potion heal
+FR: pas de soin par potion
+
+EN: Your system partially rejects the healing effects of potions.
+FR: Votre organisme rejette en partie les effets de soin des potions.
+
+EN: Your system completely rejects the healing effects of potions.
+FR: Votre organisme rejette complètement les effets de soin des potions.
+
+EN: Your system completely accepts the healing effects of potions.
+FR: Votre organisme accepte complètement les effets de soin des potions.
+
+EN: Your system partly accepts the healing effects of potions.
+FR: Votre organisme accepte en partie les effets de soin des potions.
+
+EN: reckless
+FR: téméraire
+
+EN: You feel a sudden disregard for your own safety.
+FR: Vous ressentez soudain un mépris pour votre propre sécurité.
+
+EN: You feel a little less reckless.
+FR: Vous vous sentez un peu moins téméraire.
+
+EN: spatial entanglement
+FR: intrication spatiale
+
+EN: You feel space start to knot itself around you.
+FR: Vous sentez l’espace se nouer autour de vous.
+
+EN: You feel space untangle itself from you.
+FR: Vous sentez l’espace se dénouer de vous.
+
+EN: repulsion field
+FR: champ répulsif
+
+EN: You begin to radiate repulsive energy.
+FR: Vous commencez à émettre une énergie répulsive.
+
+EN: Your repulsive radiation grows stronger.
+FR: Votre rayonnement répulsif se renforce.
+
+EN: You feel less repulsive.
+FR: Vous vous sentez moins répulsif.
+
+EN: icy blue scales
+FR: écailles bleu glacier
+
+EN: Icy blue scales grow over part of your body.
+FR: Des écailles bleu glacier poussent sur une partie de votre corps.
+
+EN: Icy blue scales spread over more of your body.
+FR: Des écailles bleu glacier s’étendent sur plus de votre corps.
+
+EN: Icy blue scales cover your body completely.
+FR: Des écailles bleu glacier recouvrent entièrement votre corps.
+
+EN: Your icy blue scales disappear.
+FR: Vos écailles bleu glacier disparaissent.
+
+EN: Your icy blue scales recede somewhat.
+FR: Vos écailles bleu glacier régressent un peu.
+
+EN: iridescent scales
+FR: écailles irisées
+
+EN: Iridescent scales grow over part of your body.
+FR: Des écailles irisées poussent sur une partie de votre corps.
+
+EN: Iridescent scales spread over more of your body.
+FR: Des écailles irisées s’étendent sur plus de votre corps.
+
+EN: Iridescent scales cover your body completely.
+FR: Des écailles irisées recouvrent entièrement votre corps.
+
+EN: Your iridescent scales disappear.
+FR: Vos écailles irisées disparaissent.
+
+EN: Your iridescent scales recede somewhat.
+FR: Vos écailles irisées régressent un peu.
+
+EN: large bone plates
+FR: grandes plaques d’os
+
+EN: Large bone plates grow over parts of your arms.
+FR: De grandes plaques d’os poussent sur certaines parties de vos bras.
+
+EN: Large bone plates spread over more of your arms.
+FR: De grandes plaques d’os s’étendent sur plus de vos bras.
+
+EN: Large bone plates cover your arms completely.
+FR: De grandes plaques d’os recouvrent entièrement vos bras.
+
+EN: Your large bone plates disappear.
+FR: Vos grandes plaques d’os disparaissent.
+
+EN: Your large bone plates recede somewhat.
+FR: Vos grandes plaques d’os régressent un peu.
+
+EN: molten scales
+FR: écailles en fusion
+
+EN: Molten scales grow over part of your body.
+FR: Des écailles en fusion poussent sur une partie de votre corps.
+
+EN: Molten scales spread over more of your body.
+FR: Des écailles en fusion s’étendent sur plus de votre corps.
+
+EN: Molten scales cover your body completely.
+FR: Des écailles en fusion recouvrent entièrement votre corps.
+
+EN: Your molten scales disappear.
+FR: Vos écailles en fusion disparaissent.
+
+EN: Your molten scales recede somewhat.
+FR: Vos écailles en fusion régressent un peu.
+
+EN: rugged brown scales
+FR: écailles brunes rugueuses
+
+EN: Rugged brown scales grow over part of your body.
+FR: Des écailles brunes rugueuses poussent sur une partie de votre corps.
+
+EN: Rugged brown scales spread over more of your body.
+FR: Des écailles brunes rugueuses s’étendent sur plus de votre corps.
+
+EN: Rugged brown scales cover your body completely.
+FR: Des écailles brunes rugueuses recouvrent entièrement votre corps.
+
+EN: Your rugged brown scales disappear.
+FR: Vos écailles brunes rugueuses disparaissent.
+
+EN: Your rugged brown scales recede somewhat.
+FR: Vos écailles brunes rugueuses régressent un peu.
+
+EN: slimy green scales
+FR: écailles vertes visqueuses
+
+EN: Slimy green scales grow over part of your body.
+FR: Des écailles vertes visqueuses poussent sur une partie de votre corps.
+
+EN: Slimy green scales spread over more of your body.
+FR: Des écailles vertes visqueuses s’étendent sur plus de votre corps.
+
+EN: Slimy green scales cover your body completely.
+FR: Des écailles vertes visqueuses recouvrent entièrement votre corps.
+
+EN: Your slimy green scales disappear.
+FR: Vos écailles vertes visqueuses disparaissent.
+
+EN: Your slimy green scales recede somewhat.
+FR: Vos écailles vertes visqueuses régressent un peu.
+
+EN: thin metallic scales
+FR: fines écailles métalliques
+
+EN: Thin metallic scales grow over part of your body.
+FR: De fines écailles métalliques poussent sur une partie de votre corps.
+
+EN: Thin metallic scales spread over more of your body.
+FR: De fines écailles métalliques s’étendent sur plus de votre corps.
+
+EN: Thin metallic scales cover your body completely.
+FR: De fines écailles métalliques recouvrent entièrement votre corps.
+
+EN: Your thin metallic scales disappear.
+FR: Vos fines écailles métalliques disparaissent.
+
+EN: Your thin metallic scales recede somewhat.
+FR: Vos fines écailles métalliques régressent un peu.
+
+EN: thin skeletal structure
+FR: structure squelettique fine
+
+EN: Your bones become slightly less dense.
+FR: Vos os deviennent légèrement moins denses.
+
+EN: Your bones become somewhat less dense.
+FR: Vos os deviennent un peu moins denses.
+
+EN: Your bones become less dense.
+FR: Vos os deviennent moins denses.
+
+EN: Your skeletal structure returns to normal.
+FR: Votre structure squelettique redevient normale.
+
+EN: Your skeletal structure densifies.
+FR: Votre structure squelettique se densifie.
+
+EN: yellow scales
+FR: écailles jaunes
+
+EN: Yellow scales grow over part of your body.
+FR: Des écailles jaunes poussent sur une partie de votre corps.
+
+EN: Yellow scales spread over more of your body.
+FR: Des écailles jaunes s’étendent sur plus de votre corps.
+
+EN: Yellow scales cover your body completely.
+FR: Des écailles jaunes recouvrent entièrement votre corps.
+
+EN: Your yellow scales disappear.
+FR: Vos écailles jaunes disparaissent.
+
+EN: Your yellow scales recede somewhat.
+FR: Vos écailles jaunes régressent un peu.
+
+EN: sharp scales
+FR: écailles tranchantes
+
+EN: Sharp scales grow over part of your body.
+FR: Des écailles tranchantes poussent sur une partie de votre corps.
+
+EN: Sharp scales spread over more of your body.
+FR: Des écailles tranchantes s’étendent sur plus de votre corps.
+
+EN: Sharp scales cover your body completely.
+FR: Des écailles tranchantes recouvrent entièrement votre corps.
+
+EN: Your sharp scales disappear.
+FR: Vos écailles tranchantes disparaissent.
+
+EN: Your sharp scales recede somewhat.
+FR: Vos écailles tranchantes régressent un peu.
+
+EN: sturdy frame
+FR: ossature robuste
+
+EN: You feel less encumbered by your armour.
+FR: Vous vous sentez moins encombré par votre armure.
+
+EN: You feel more encumbered by your armour.
+FR: Vous vous sentez plus encombré par votre armure.
+
+EN: sanguine armour
+FR: armure sanguine
+
+EN: You feel your blood ready itself to protect you.
+FR: Vous sentez votre sang se préparer à vous protéger.
+
+EN: You feel your blood thicken.
+FR: Vous sentez votre sang s’épaissir.
+
+EN: You feel your blood become entirely quiescent.
+FR: Vous sentez votre sang devenir entièrement quiescent.
+
+EN: You feel your blood thin.
+FR: Vous sentez votre sang s’éclaircir.
+
+EN: big brain
+FR: gros cerveau
+
+EN: Your brain expands.
+FR: Votre cerveau se développe.
+
+EN: Your brain expands to incredible size.
+FR: Votre cerveau se développe jusqu’à une taille incroyable.
+
+EN: Your brain returns to normal size.
+FR: Votre cerveau retrouve sa taille normale.
+
+EN: Your brain shrinks.
+FR: Votre cerveau rétrécit.
+
+EN: Your skin functions as natural camouflage.
+FR: Votre peau sert de camouflage naturel.
+
+EN: Your natural camouflage becomes more effective.
+FR: Votre camouflage naturel devient plus efficace.
+
+EN: Your skin no longer functions as natural camouflage.
+FR: Votre peau ne sert plus de camouflage naturel.
+
+EN: Your natural camouflage becomes less effective.
+FR: Votre camouflage naturel devient moins efficace.
+
+EN: ignite blood
+FR: sang enflammé
+
+EN: Your blood heats up.
+FR: Votre sang chauffe.
+
+EN: Your blood runs red-hot!
+FR: Votre sang devient rouge brûlant !
+
+EN: Your blood burns even hotter!
+FR: Votre sang brûle encore plus fort !
+
+EN: foul stench
+FR: puanteur infecte
+
+EN: You begin to emit a foul stench of rot and decay.
+FR: Vous commencez à dégager une puanteur infecte de pourriture et de décomposition.
+
+EN: Your foul stench grows more powerful.
+FR: Votre puanteur infecte s’intensifie.
+
+EN: You begin to radiate miasma.
+FR: Vous commencez à émettre des miasmes.
+
+EN: tendrils
+FR: vrilles
+
+EN: Thin, slimy tendrils emerge from your body.
+FR: De fines vrilles visqueuses sortent de votre corps.
+
+EN: Your tendrils retract into your body.
+FR: Vos vrilles se rétractent dans votre corps.
+
+EN: jelly sensing items
+FR: gelée détectrice d’objets
+
+EN: Your body partially splits into a small jelly.
+FR: Votre corps se divise en partie en une petite gelée.
+
+EN: The jelly growth is reabsorbed into your body.
+FR: L’excroissance de gelée est réabsorbée par votre corps.
+
+EN: jelly absorbing missiles
+FR: gelée absorbant les projectiles
+
+EN: stone body
+FR: corps de pierre
+
+EN: Your body vibrates.
+FR: Votre corps vibre.
+
+EN: You briefly stop moving.
+FR: Vous cessez brièvement de bouger.
+
+EN: black mark
+FR: marque noire
+
+EN: An ominous black mark forms on your body.
+FR: Une sinistre marque noire se forme sur votre corps.
+
+EN: aura of silence
+FR: aura de silence
+
+EN: An unnatural silence shrouds you.
+FR: Un silence surnaturel vous enveloppe.
+
+EN: bedevilling
+FR: tourmenteur
+
+EN: You feel devilish.
+FR: Vous vous sentez diabolique.
+
+EN: corrupting presence
+FR: présence corruptrice
+
+EN: You feel corrupt.
+FR: Vous vous sentez corrompu.
+
+EN: Your corrupting presence intensifies.
+FR: Votre présence corruptrice s’intensifie.
+
+EN: word of chaos
+FR: mot du chaos
+
+EN: Your tongue twists.
+FR: Votre langue se tord.
+
+EN: demonic willpower
+FR: volonté démoniaque
+
+EN: You feel wilful.
+FR: Vous vous sentez déterminé.
+
+EN: weakness stinger
+FR: dard d’affaiblissement
+
+EN: You grow a small tail.
+FR: Vous faites pousser une petite queue.
+
+EN: Your tail grows a sharp stinger.
+FR: Votre queue développe un dard acéré.
+
+EN: Your stinger grows larger and begins to produce weakening toxins.
+FR: Votre dard grossit et commence à produire des toxines affaiblissantes.
+
+EN: demonic touch
+FR: toucher démoniaque
+
+EN: Your hands begin to faintly glow with unholy energy.
+FR: Vos mains commencent à luire faiblement d’une énergie impie.
+
+EN: Your hands glow brighter with unholy energy.
+FR: Vos mains luisent plus fort d’une énergie impie.
+
+EN: Your hands twist and begin to emit a powerful aura of unholy energy.
+FR: Vos mains se tordent et émettent une puissante aura d’énergie impie.
+
+EN: cold-blooded
+FR: sang froid
+
+EN: You feel cold-blooded.
+FR: Vous avez le sang froid.
+
+EN: You feel warm-blooded.
+FR: Vous avez le sang chaud.
+
+EN: flame cloud immunity
+FR: immunité aux nuages de flammes
+
+EN: You feel less concerned about heat.
+FR: Vous vous souciez moins de la chaleur.
+
+EN: freezing cloud immunity
+FR: immunité aux nuages de gel
+
+EN: You feel less concerned about cold.
+FR: Vous vous souciez moins du froid.
+
+EN: renounce potions
+FR: renoncement aux potions
+
+EN: You renounce the hedonism of uninhibited drinking.
+FR: Vous renoncez à l’hédonisme de la boisson sans retenue.
+
+EN: You feel willing to use your potions freely once again.
+FR: Vous vous sentez de nouveau prêt à utiliser vos potions librement.
+
+EN: renounce scrolls
+FR: renoncement aux parchemins
+
+EN: You renounce the frivolity of worldly writings.
+FR: Vous renoncez à la frivolité des écrits mondains.
+
+EN: You feel willing to use your scrolls freely once again.
+FR: Vous vous sentez de nouveau prêt à utiliser vos parchemins librement.
+
+EN: missing a hand
+FR: main manquante
+
+EN: One of your hands has vanished, leaving only a stump!
+FR: L’une de vos mains a disparu, ne laissant qu’un moignon !
+
+EN: Your stump has regrown into a hand!
+FR: Votre moignon a repoussé en une main !
+
+EN: booming voice
+FR: voix tonitruante
+
+EN: You feel your voice swell to a thunderous volume.
+FR: Vous sentez votre voix enfler jusqu’à un volume de tonnerre.
+
+EN: You voice quiets to a reasonable volume.
+FR: Votre voix redescend à un volume raisonnable.
+
+EN: potion fungus
+FR: champignon à potions
+
+EN: A symbiotic fungus spreads across your body.
+FR: Un champignon symbiotique se répand sur votre corps.
+
+EN: The fungus across your body shrivels and falls away.
+FR: Le champignon sur votre corps se ratatine et tombe.
+
+EN: no stealth
+FR: aucune discrétion
+
+EN: You can no longer be stealthy.
+FR: Vous ne pouvez plus être discret.
+
+EN: You can once more be stealthy.
+FR: Vous pouvez de nouveau être discret.
+
+EN: inability to use devices
+FR: incapacité à utiliser les dispositifs
+
+EN: You can no longer study or use magical devices.
+FR: Vous ne pouvez plus étudier ni utiliser les dispositifs magiques.
+
+EN: You can once more study and use magical devices.
+FR: Vous pouvez de nouveau étudier et utiliser les dispositifs magiques.
+
+EN: hated by all
+FR: haï de tous
+
+EN: You are now hated by all.
+FR: Vous êtes maintenant haï de tous.
+
+EN: You are no longer hated by all.
+FR: Vous n’êtes plus haï de tous.
+
+EN: cowardly
+FR: lâche
+
+EN: You have lost your courage.
+FR: Vous avez perdu votre courage.
+
+EN: You have regained your courage.
+FR: Vous avez retrouvé votre courage.
+
+EN: inability to train dodging
+FR: incapacité à entraîner l’esquive
+
+EN: You can no longer train Dodging skill.
+FR: Vous ne pouvez plus entraîner la compétence Esquive.
+
+EN: You can once more train Dodging skill.
+FR: Vous pouvez de nouveau entraîner la compétence Esquive.
+
+EN: inability to train armour
+FR: incapacité à entraîner l’armure
+
+EN: You can no longer train Armour skill.
+FR: Vous ne pouvez plus entraîner la compétence Armure.
+
+EN: You can once more train Armour skill.
+FR: Vous pouvez de nouveau entraîner la compétence Armure.
+
+EN: no air magic
+FR: pas de magie de l’Air
+
+EN: You can no longer study or cast Air magic.
+FR: Vous ne pouvez plus étudier ni lancer la magie de l’Air.
+
+EN: You can once more study and cast Air magic.
+FR: Vous pouvez de nouveau étudier et lancer la magie de l’Air.
+
+EN: no conjurations magic
+FR: pas de magie de Conjuration
+
+EN: You can no longer study or cast Conjurations magic.
+FR: Vous ne pouvez plus étudier ni lancer la magie de Conjuration.
+
+EN: You can once more study and cast Conjurations magic.
+FR: Vous pouvez de nouveau étudier et lancer la magie de Conjuration.
+
+EN: no earth magic
+FR: pas de magie de la Terre
+
+EN: You can no longer study or cast Earth magic.
+FR: Vous ne pouvez plus étudier ni lancer la magie de la Terre.
+
+EN: You can once more study and cast Earth magic.
+FR: Vous pouvez de nouveau étudier et lancer la magie de la Terre.
+
+EN: no fire magic
+FR: pas de magie du Feu
+
+EN: You can no longer study or cast Fire magic.
+FR: Vous ne pouvez plus étudier ni lancer la magie du Feu.
+
+EN: You can once more study and cast Fire magic.
+FR: Vous pouvez de nouveau étudier et lancer la magie du Feu.
+
+EN: no hexes magic
+FR: pas de magie des Maléfices
+
+EN: You can no longer study or cast Hexes magic.
+FR: Vous ne pouvez plus étudier ni lancer la magie des Maléfices.
+
+EN: You can once more study and cast Hexes magic.
+FR: Vous pouvez de nouveau étudier et lancer la magie des Maléfices.
+
+EN: no ice magic
+FR: pas de magie de Glace
+
+EN: You can no longer study or cast Ice magic.
+FR: Vous ne pouvez plus étudier ni lancer la magie de Glace.
+
+EN: You can once more study and cast Ice magic.
+FR: Vous pouvez de nouveau étudier et lancer la magie de Glace.
+
+EN: no necromancy magic
+FR: pas de magie de Nécromancie
+
+EN: You can no longer study or cast Necromancy magic.
+FR: Vous ne pouvez plus étudier ni lancer la magie de Nécromancie.
+
+EN: You can once more study and cast Necromancy magic.
+FR: Vous pouvez de nouveau étudier et lancer la magie de Nécromancie.
+
+EN: no alchemy magic
+FR: pas de magie d’Alchimie
+
+EN: You can no longer study or cast Alchemy magic.
+FR: Vous ne pouvez plus étudier ni lancer la magie d’Alchimie.
+
+EN: You can once more study and cast Alchemy magic.
+FR: Vous pouvez de nouveau étudier et lancer la magie d’Alchimie.
+
+EN: no forgecraft magic
+FR: pas de magie de Forge
+
+EN: You can no longer study or cast Forgecraft magic.
+FR: Vous ne pouvez plus étudier ni lancer la magie de Forge.
+
+EN: You can once more study and cast Forgecraft magic.
+FR: Vous pouvez de nouveau étudier et lancer la magie de Forge.
+
+EN: no summoning magic
+FR: pas de magie d’Invocation
+
+EN: You can no longer study or cast Summoning magic.
+FR: Vous ne pouvez plus étudier ni lancer la magie d’Invocation.
+
+EN: You can once more study and cast Summoning magic.
+FR: Vous pouvez de nouveau étudier et lancer la magie d’Invocation.
+
+EN: no translocations magic
+FR: pas de magie de Translocation
+
+EN: You can no longer study or cast Translocations magic.
+FR: Vous ne pouvez plus étudier ni lancer la magie de Translocation.
+
+EN: You can once more study and cast Translocations magic.
+FR: Vous pouvez de nouveau étudier et lancer la magie de Translocation.
+
+EN: reduced AC
+FR: CA réduite
+
+EN: You feel more vulnerable to harm.
+FR: Vous vous sentez plus vulnérable aux blessures.
+
+EN: You no longer feel extra vulnerable to harm.
+FR: Vous ne vous sentez plus particulièrement vulnérable aux blessures.
+
+EN: You feel less vulnerable to harm.
+FR: Vous vous sentez moins vulnérable aux blessures.
+
+EN: reduced EV
+FR: EV réduite
+
+EN: Your reflexes slow.
+FR: Vos réflexes ralentissent.
+
+EN: Your reflexes slow further.
+FR: Vos réflexes ralentissent encore.
+
+EN: You reflexes return to normal.
+FR: Vos réflexes redeviennent normaux.
+
+EN: You reflexes speed back up.
+FR: Vos réflexes s’accélèrent de nouveau.
+
+EN: weak-willed
+FR: volonté faible
+
+EN: You feel weak-willed.
+FR: Vous vous sentez de volonté faible.
+
+EN: You feel more weak-willed.
+FR: Vous vous sentez de volonté encore plus faible.
+
+EN: You no longer feel weak-willed.
+FR: Vous ne vous sentez plus de volonté faible.
+
+EN: You feel less weak-willed.
+FR: Vous vous sentez de volonté moins faible.
+
+EN: disrupted magic
+FR: magie perturbée
+
+EN: Your ability to control magic is disrupted.
+FR: Votre capacité à contrôler la magie est perturbée.
+
+EN: Your ability to control magic is more disrupted.
+FR: Votre capacité à contrôler la magie est davantage perturbée.
+
+EN: Your ability to control magic is no longer disrupted.
+FR: Votre capacité à contrôler la magie n’est plus perturbée.
+
+EN: Your ability to control magic is less disrupted.
+FR: Votre capacité à contrôler la magie est moins perturbée.
+
+EN: MP-powered wands
+FR: baguettes alimentées par les PM
+
+EN: You feel your magical essence link to the dungeon's wands.
+FR: Vous sentez votre essence magique se lier aux baguettes du donjon.
+
+EN: Your magical essence no longer links to wands of the dungeon.
+FR: Votre essence magique n’est plus liée aux baguettes du donjon.
+
+EN: unskilled
+FR: inexpérimenté
+
+EN: You feel less skilled.
+FR: Vous vous sentez moins habile.
+
+EN: You regain all your skill.
+FR: Vous retrouvez toute votre habileté.
+
+EN: You regain some skill.
+FR: Vous retrouvez une partie de votre habileté.
+
+EN: inexperienced
+FR: novice
+
+EN: You feel less experienced.
+FR: Vous vous sentez moins expérimenté.
+
+EN: You regain all your potential.
+FR: Vous retrouvez tout votre potentiel.
+
+EN: You regain some potential.
+FR: Vous retrouvez une partie de votre potentiel.
+
+EN: stealthy paws
+FR: pattes furtives
+
+EN: missing an eye
+FR: œil manquant
+
+EN: Your right eye vanishes! The world loses its depth.
+FR: Votre œil droit disparaît ! Le monde perd sa profondeur.
+
+EN: Your right eye suddenly reappears! The world regains its depth.
+FR: Votre œil droit réapparaît soudain ! Le monde retrouve sa profondeur.
+
+EN: temperature sensitive
+FR: sensible à la température
+
+EN: You feel sensitive to extremes of temperature.
+FR: Vous vous sentez sensible aux températures extrêmes.
+
+EN: You no longer feel sensitive to extremes of temperature
+FR: Vous ne vous sentez plus sensible aux températures extrêmes
+
+EN: no forms
+FR: pas de formes
+
+EN: You can no longer voluntarily change form.
+FR: Vous ne pouvez plus changer de forme volontairement.
+
+EN: You can once more change form.
+FR: Vous pouvez de nouveau changer de forme.
+
+EN: no regeneration
+FR: pas de régénération
+
+EN: You stop regenerating.
+FR: Vous cessez de régénérer.
+
+EN: You start regenerating.
+FR: Vous commencez à régénérer.
+
+EN: treasure sense
+FR: sens du trésor
+
+EN: You suddenly feel aware of treasure.
+FR: Vous percevez soudain les trésors.
+
+EN: You no longer feel aware of treasure.
+FR: Vous ne percevez plus les trésors.
+
+EN: acid resistance
+FR: résistance à l’acide
+
+EN: You feel resistant to acid.
+FR: Vous vous sentez résistant à l’acide.
+
+EN: You feel less resistant to acid.
+FR: Vous vous sentez moins résistant à l’acide.
+
+EN: four strong arms
+FR: quatre bras puissants
+
+EN: Two of your arms shrink away.
+FR: Deux de vos bras rétrécissent et disparaissent.
+
+EN: You grow two extra arms.
+FR: Vous faites pousser deux bras supplémentaires.
+
+EN: no potions
+FR: pas de potions
+
+EN: Your mouth dries to ashes.
+FR: Votre bouche se dessèche comme de la cendre.
+
+EN: You gain the ability to drink.
+FR: Vous gagnez la capacité de boire.
+
+EN: faith
+FR: foi
+
+EN: You feel connected to something greater than you.
+FR: Vous vous sentez lié à quelque chose de plus grand que vous.
+
+EN: You feel rebellious.
+FR: Vous vous sentez rebelle.
+
+EN: retaliatory headbutt
+FR: coup de tête en représailles
+
+EN: Your retaliatory reflexes feel sharp.
+FR: Vos réflexes de représailles sont aiguisés.
+
+EN: Your retaliatory reflexes feel dull.
+FR: Vos réflexes de représailles s’émoussent.
+
+EN: steam resistance
+FR: résistance à la vapeur
+
+EN: You are now immune to the effects of steam.
+FR: Vous êtes maintenant immunisé contre les effets de la vapeur.
+
+EN: You are no longer immune to the effects of steam.
+FR: Vous n’êtes plus immunisé contre les effets de la vapeur.
+
+EN: no weapons or thrown items
+FR: pas d’armes ni d’objets lancés
+
+EN: You can no longer grasp objects.
+FR: Vous ne pouvez plus saisir d’objets.
+
+EN: You can now grasp objects.
+FR: Vous pouvez maintenant saisir des objets.
+
+EN: no armour
+FR: pas d’armure
+
+EN: You can no longer wear armour.
+FR: Vous ne pouvez plus porter d’armure.
+
+EN: You can now wear armour.
+FR: Vous pouvez maintenant porter une armure.
+
+EN: multi-lived
+FR: multi-vies
+
+EN: You are no longer multi-lived.
+FR: Vous n’avez plus plusieurs vies.
+
+EN: You can now gain extra lives.
+FR: Vous pouvez maintenant gagner des vies supplémentaires.
+
+EN: distributed training
+FR: entraînement réparti
+
+EN: nimble swimmer
+FR: nageur agile
+
+EN: You feel comfortable near water.
+FR: Vous vous sentez à l’aise près de l’eau.
+
+EN: You feel very comfortable near water.
+FR: Vous vous sentez très à l’aise près de l’eau.
+
+EN: You feel less comfortable near water.
+FR: Vous vous sentez moins à l’aise près de l’eau.
+
+EN: tentacles
+FR: tentacules
+
+EN: Your arms feel tentacular.
+FR: Vos bras ressemblent à des tentacules.
+
+EN: Your arms no longer feel tentacular.
+FR: Vos bras ne ressemblent plus à des tentacules.
+
+EN: mertail
+FR: queue de sirène
+
+EN: Your legs feel aquatic.
+FR: Vos jambes deviennent aquatiques.
+
+EN: Your legs no longer feel aquatic.
+FR: Vos jambes ne sont plus aquatiques.
+
+EN: float
+FR: flotter
+
+EN: You feel both weightless and legless.
+FR: Vous vous sentez à la fois sans poids et sans jambes.
+
+EN: You feel dragged down by the weight of the world.
+FR: Vous vous sentez tiré vers le bas par le poids du monde.
+
+EN: innate caster
+FR: lanceur de sorts inné
+
+EN: You feel mystic power welling inside you.
+FR: Vous sentez un pouvoir mystique jaillir en vous.
+
+EN: You feel a greater respect for book-learning.
+FR: Vous ressentez un plus grand respect pour le savoir des livres.
+
+EN: HP casting
+FR: lancer de sorts avec les PV
+
+EN: Your magical power and health merge together.
+FR: Votre pouvoir magique et votre santé fusionnent.
+
+EN: Your life and magic unlink.
+FR: Votre vie et votre magie se dissocient.
+
+EN: extra vitality
+FR: vitalité supplémentaire
+
+EN: You feel more vital.
+FR: Vous vous sentez plus vital.
+
+EN: You feel less vital.
+FR: Vous vous sentez moins vital.
+
+EN: ooze flood
+FR: déluge de vase
+
+EN: You begin exuding ooze.
+FR: Vous commencez à suinter de la vase.
+
+EN: You stop exuding ooze.
+FR: Vous cessez de suinter de la vase.
+
+EN: The darkness flees at your approach.
+FR: Les ténèbres fuient à votre approche.
+
+EN: The shadows grow bolder once more.
+FR: Les ombres redeviennent plus audacieuses.
+
+EN: divine attributes
+FR: attributs divins
+
+EN: You feel more divine.
+FR: Vous vous sentez plus divin.
+
+EN: You feel more mortal.
+FR: Vous vous sentez plus mortel.
+
+EN: devour on kill
+FR: dévorer à la mise à mort
+
+EN: You feel hungry for flesh.
+FR: Vous avez faim de chair.
+
+EN: You feel less hungry for flesh.
+FR: Vous avez moins faim de chair.
+
+EN: otherworldly
+FR: d’un autre monde
+
+EN: You feel your time running out.
+FR: Vous sentez votre temps s’épuiser.
+
+EN: You feel long-lived.
+FR: Vous vous sentez d’une longue vie.
+
+EN: foul shadow
+FR: ombre infecte
+
+EN: You are faintly shadowed, rarely releasing foul flame when damaged in melee.
+FR: Vous êtes faiblement enténébré et libérez rarement une flamme infecte lorsque vous êtes blessé en mêlée.
+
+EN: You are darkly shadowed, often releasing foul flame when damaged in melee.
+FR: Vous êtes sombrement enténébré et libérez souvent une flamme infecte lorsque vous êtes blessé en mêlée.
+
+EN: Your body darkens with foul flame.
+FR: Votre corps s’assombrit d’une flamme infecte.
+
+EN: Your body becomes darker with foul flame.
+FR: Votre corps s’assombrit davantage d’une flamme infecte.
+
+EN: Your body's darkness fades completely.
+FR: L’obscurité de votre corps s’estompe complètement.
+
+EN: Your body's darkness fades.
+FR: L’obscurité de votre corps s’estompe.
+
+EN: explore regen
+FR: régénération en explorant
+
+EN: You feel a fierce wanderlust.
+FR: Vous ressentez une farouche envie de voyager.
+
+EN: You feel like a homebody.
+FR: Vous vous sentez casanier.
+
+EN: double potion healing
+FR: double soin des potions
+
+EN: You heal twice as much from potions.
+FR: Vous vous soignez deux fois plus avec les potions.
+
+EN: You no longer heal twice as much from potions.
+FR: Vous ne vous soignez plus deux fois plus avec les potions.
+
+EN: drunken brawling
+FR: bagarre éthylique
+
+EN: Whenever you drink a potion, you attack all enemies around you.
+FR: Chaque fois que vous buvez une potion, vous attaquez tous les ennemis autour de vous.
+
+EN: You brawl whenever you drink a potion.
+FR: Vous vous bagarrez chaque fois que vous buvez une potion.
+
+EN: You no longer brawl whenever you drink a potion.
+FR: Vous ne vous bagarrez plus chaque fois que vous buvez une potion.
+
+EN: artefact enchanting
+FR: enchantement d’artefacts
+
+EN: You can now use scrolls of enchantment on lesser artefacts.
+FR: Vous pouvez maintenant utiliser des parchemins d’enchantement sur les artefacts mineurs.
+
+EN: You can no longer use scrolls of enchantment on lesser artefacts.
+FR: Vous ne pouvez plus utiliser de parchemins d’enchantement sur les artefacts mineurs.
+
+EN: runic magic
+FR: magie runique
+
+EN: Your spellcasting becomes less encumbered by armour.
+FR: Votre lancer de sorts est moins gêné par l’armure.
+
+EN: Your spellcasting no longer less encumbered by armour.
+FR: Votre lancer de sorts n’est plus moins gêné par l’armure.
+
+EN: formless
+FR: informe
+
+EN: You feel ready to unleash a true cacophony.
+FR: Vous vous sentez prêt à déchaîner une véritable cacophonie.
+
+EN: You will be able to unleash your equipped armour.
+FR: Vous pourrez déchaîner l’armure que vous portez.
+
+EN: trickster
+FR: filou
+
+EN: mnemnophage
+FR: mnémophage
+
+EN: Your flames flicker hungrily.
+FR: Vos flammes vacillent avec avidité.
+
+EN: Your flames grow less ravenous.
+FR: Vos flammes deviennent moins voraces.
+
+EN: You will be able to burn memories to enhance your damage-dealing spells.
+FR: Vous pourrez brûler des souvenirs pour renforcer vos sorts de dégâts.
+
+EN: spellclaws
+FR: griffes à sorts
+
+EN: You feel destructive magic coursing through your claws.
+FR: Vous sentez une magie destructrice parcourir vos griffes.
+
+EN: You no longer feel destructive magic coursing through your claws.
+FR: Vous ne sentez plus de magie destructrice dans vos griffes.
+
+EN: accursed
+FR: maudit
+
+EN: You feel accursed.
+FR: Vous vous sentez maudit.
+
+EN: You feel less accursed.
+FR: Vous vous sentez moins maudit.
+
+EN: spiteful blood
+FR: sang rancunier
+
+EN: You feel a willful anger gathering in your blood.
+FR: Vous sentez une colère obstinée s’accumuler dans votre sang.
+
+EN: You feel your blood grow even more spiteful.
+FR: Vous sentez votre sang devenir encore plus rancunier.
+
+EN: Your blood calms down again.
+FR: Votre sang se calme de nouveau.
+
+EN: Your blood feels a little less spiteful.
+FR: Votre sang est un peu moins rancunier.
+
+EN: North Wind's embodiment
+FR: incarnation du Vent du Nord
+
+EN: The North Wind lets you shrug off injuries taken while stampeding.
+FR: Le Vent du Nord vous permet d’ignorer les blessures subies en chargeant.
+
+EN: You feel the indomitable North Wind bolstering your fortitude.
+FR: Vous sentez l’indomptable Vent du Nord renforcer votre vigueur.
+
+EN: The winds are changing....
+FR: Les vents changent....
+
+EN: South Wind's embodiment
+FR: incarnation du Vent du Sud
+
+EN: The South Wind quickens your rampage movements after stabbing.
+FR: Le Vent du Sud accélère vos mouvements de ruée après un coup porté.
+
+EN: You feel the capricious South Wind quickening your steps.
+FR: Vous sentez le capricieux Vent du Sud accélérer vos pas.
+
+EN: West Wind's embodiment
+FR: incarnation du Vent d’Ouest
+
+EN: The West Wind empowers your ranged attacks as you Rampage.
+FR: Le Vent d’Ouest renforce vos attaques à distance pendant votre ruée.
+
+EN: You feel the generous West Wind guiding your aim.
+FR: Vous sentez le généreux Vent d’Ouest guider votre visée.
+
+EN: East Wind's embodiment
+FR: incarnation du Vent d’Est
+
+EN: The East Wind leaves your foes to susceptible to magic after you Rampage.
+FR: Le Vent d’Est rend vos ennemis sensibles à la magie après votre ruée.
+
+EN: You feel the spiteful East Wind laying your enemies bare.
+FR: Vous sentez le rancunier Vent d’Est mettre vos ennemis à nu.
+
+EN: Gehenna destruction
+FR: destruction de Gehenna
+
+EN: You feel your soul grow hot with the fiery destruction of Gehenna.
+FR: Vous sentez votre âme brûler de la destruction ardente de Gehenna.
+
+EN: Cocytus destruction
+FR: destruction de Cocytus
+
+EN: You feel your soul grow cold with the frigid destruction of Cocytus.
+FR: Vous sentez votre âme se glacer de la destruction glaciale de Cocytus.
+
+EN: Tartarus destruction
+FR: destruction de Tartarus
+
+EN: You feel your soul grow tainted with the deathly destruction of Tartarus.
+FR: Vous sentez votre âme se souiller de la destruction mortelle de Tartarus.
+
+EN: Dis destruction
+FR: destruction de Dis
+
+EN: You feel your soul grow bitter with the corrosive destruction of Dis.
+FR: Vous sentez votre âme s’aigrir de la destruction corrosive de Dis.
+
+EN: Mark of Haemoclasm
+FR: Marque de l’Hémoclasme
+
+EN: Gore shall rain upon your enemies.
+FR: Le sang pleuvra sur vos ennemis.
+
+EN: Mark of the Legion
+FR: Marque de la Légion
+
+EN: The armies of chaos are now yours to lead.
+FR: Les armées du chaos sont désormais à vous de les mener.
+
+EN: Mark of Carnage
+FR: Marque du Carnage
+
+EN: Your servants grow eager to unleash destruction.
+FR: Vos serviteurs brûlent de déchaîner la destruction.
+
+EN: Mark of Annihilation
+FR: Marque de l’Annihilation
+
+EN: You feel the destructive energies within you surge violently.
+FR: Vous sentez les énergies destructrices en vous se soulever violemment.
+
+EN: Mark of the Tyrant
+FR: Marque du Tyran
+
+EN: Even fiends shall kneel before you now.
+FR: Même les démons s’agenouilleront devant vous.
+
+EN: Mark of the Celebrant
+FR: Marque du Célébrant
+
+EN: Your suffering will be repaid in blood.
+FR: Votre souffrance sera payée en sang.
+
+EN: Mark of Execution
+FR: Marque de l’Exécution
+
+EN: Murder takes root in your soul.
+FR: Le meurtre prend racine dans votre âme.
+
+EN: Mark of Atrocity
+FR: Marque de l’Atrocité
+
+EN: You will scour this world clean.
+FR: Vous purgerez ce monde.
+
+EN: Mark of the Fanatic
+FR: Marque du Fanatique
+
+EN: You will become an instrument of Makhleb's will.
+FR: Vous deviendrez un instrument de la volonté de Makhleb.

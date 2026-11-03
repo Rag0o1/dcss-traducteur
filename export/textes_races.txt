@@ -1,0 +1,110 @@
+EN: Armataur
+FR: Armataur
+
+EN: Barachi
+FR: Barachi
+
+EN: Coglin
+FR: Coglin
+
+EN: Deep Dwarf
+FR: Nain des profondeurs
+
+EN: Deep Elf
+FR: Elfe des profondeurs
+
+EN: Demigod
+FR: Demi-dieu
+
+EN: Demonspawn
+FR: Rejeton démoniaque
+
+EN: Djinni
+FR: Djinn
+
+EN: Draconian
+FR: Draconien
+
+EN: Red Draconian
+FR: Draconien rouge
+
+EN: White Draconian
+FR: Draconien blanc
+
+EN: Green Draconian
+FR: Draconien vert
+
+EN: Yellow Draconian
+FR: Draconien jaune
+
+EN: Grey Draconian
+FR: Draconien gris
+
+EN: Black Draconian
+FR: Draconien noir
+
+EN: Purple Draconian
+FR: Draconien violet
+
+EN: Pale Draconian
+FR: Draconien pâle
+
+EN: Felid
+FR: Félin
+
+EN: Formicid
+FR: Formicide
+
+EN: Gargoyle
+FR: Gargouille
+
+EN: Gnoll
+FR: Gnoll
+
+EN: Hill Orc
+FR: Orc des collines
+
+EN: Human
+FR: Humain
+
+EN: Kobold
+FR: Kobold
+
+EN: Merfolk
+FR: Ondin
+
+EN: Minotaur
+FR: Minotaure
+
+EN: Mummy
+FR: Momie
+
+EN: Naga
+FR: Naga
+
+EN: Octopode
+FR: Octopode
+
+EN: Ogre
+FR: Ogre
+
+EN: Oni
+FR: Oni
+
+EN: Poltergeist
+FR: Poltergeist
+
+EN: Spriggan
+FR: Spriggan
+
+EN: Tengu
+FR: Tengu
+
+EN: Troll
+FR: Troll
+
+EN: Vampire
+FR: Vampire
+
+EN: Vine Stalker
+FR: Traqueur-liane

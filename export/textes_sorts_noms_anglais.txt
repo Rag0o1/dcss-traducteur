@@ -1,0 +1,38 @@
+EN: Air Elementalists have learned the Shock spell. Their electrical magic can harm groups of foes, while their air spells assist in fighting or fleeing enemies.
+FR: Les Élementalistes de l'Air ont appris le sort Shock. Plus tard, le livre de l'Air leur fournira la flexibilité nécessaire à leur survie.
+
+EN: Necromancers start out with the Soul Splinter spell. Eventually, they can turn the dead into allies and use the life force of the living to restore themselves.
+FR: Les Nécromanciens sont des sorciers spécialisés dans la magie des morts. Ils connaissent le sort Soul Splinter.
+
+EN: When you kill a living monster with a stab attack, they may rise again to serve you as a vampiric thrall. Thralls possess all the abilities they had in life, but are undead, and gain a vampiric bite attack as well as increased melee damage against sleeping foes. Spellcaster thralls will also gain knowledge of the Vampiric Draining spell. You can only create a thrall if you do not have one already, and they will inevitably turn to dust after a short time.
+FR: Lorsque vous tuez un monstre vivant par une attaque sournoise, il peut se relever pour vous servir comme esclave vampirique. Les esclaves possèdent toutes les capacités qu’ils avaient de leur vivant, mais sont morts-vivants, et gagnent une morsure vampirique ainsi que des dégâts de mêlée accrus contre les ennemis endormis. Les esclaves lanceurs de sorts connaîtront aussi le sort Vampiric Draining. Vous ne pouvez créer un esclave que si vous n’en avez pas déjà un, et il tombera inévitablement en poussière après peu de temps.
+
+EN: Your Infernal Servant ability is replaced with Infernal Legion, allowing you to call in a small army of demons over time. While individually short-lived, their numbers are inexhaustible for as long as the status lasts, and they will never be hostile to you. You may also unleash Makhleb's Destruction through your summoned allies without harming them.
+FR: Votre capacité Infernal Servant est remplacée par Infernal Legion, qui vous permet d’appeler une petite armée de démons au fil du temps. Bien que chacun ait une vie brève, leur nombre est inépuisable tant que le statut dure, et ils ne vous seront jamais hostiles. Vous pouvez aussi déchaîner la Destruction de Makhleb à travers vos alliés invoqués sans leur nuire.
+
+EN: Your Unleash Destruction is empowered the more times you use it consecutively without pause, increasing in both damage and health cost. Upon using it a fourth time in a row, you will automatically unleash a wild barrage of additional bolts aimed at random targets and reset this boost.
+FR: Votre Unleash Destruction est renforcé chaque fois que vous l’utilisez consécutivement sans pause, augmentant à la fois les dégâts et le coût en santé. À la quatrième utilisation d’affilée, vous déchaînez automatiquement un tir de barrage sauvage de traits supplémentaires visant des cibles aléatoires et ce bonus est réinitialisé.
+
+EN: Whenever you first spot a monster, it has a chance to become Touched by Paradox, giving it the ability to use Manifold Assault as a natural ability (and a small chance to blink randomly after doing so).
+FR: Chaque fois que vous repérez un monstre pour la première fois, il a une chance d’être Touché par le Paradoxe, ce qui lui donne la capacité d’utiliser Manifold Assault comme capacité naturelle (et une petite chance de se téléporter au hasard après l’avoir fait).
+
+EN: Conjures two explosive magical effects in instant succession. The effects can be any mix of Fireball, Iceblast, and Ghostly Fireball.
+FR: Conjure deux effets magiques explosifs en succession instantanée. Les effets peuvent être n’importe quelle combinaison de Fireball, d’Iceblast et de Ghostly Fireball.
+
+EN: Conjures two balls of burning swamp gas adjacent to the caster. The balls will rapidly seek the nearest monster and burn them. Wizards attempted to copy this with the spell 'Foxfire', but their version is much less powerful.
+FR: Conjure deux boules de gaz de marais enflammé adjacentes au lanceur. Les boules cherchent rapidement le monstre le plus proche et le brûlent. Des magiciens ont tenté de copier cela avec le sort « Foxfire », mais leur version est bien moins puissante.
+
+EN: Unmoors a random nearby ally from space, granting it Manifold Assault as a natural ability (which permits it to strike many distant foes with a single melee attack that can't miss), and also giving it a chance to blink when it uses such.
+FR: Détache de l’espace un allié proche au hasard, lui accordant Manifold Assault comme aptitude naturelle (qui lui permet de frapper de nombreux ennemis distants d’une seule attaque de mêlée qui ne peut pas rater), et lui donnant aussi une chance de clignoter quand il l’utilise.
+
+EN: Reavers start with a weapon of their choice and deadly magic to supplement it when in need. They start with the Kiss of Death spell.
+FR: Les Saccageurs commencent avec l’arme de leur choix et une magie mortelle pour la compléter en cas de besoin. Ils commencent avec le sort Kiss of Death.
+
+EN: ~Reavers start with a weapon of their choice and deadly magic to supplement it when in need. They start with the Kiss of Death spell.
+FR: Les Saccageurs commencent avec l’arme de leur choix et une magie mortelle pour la compléter en cas de besoin. Ils commencent avec le sort Kiss of Death.
+
+EN: ~Your Infernal Servant ability is replaced with Globe of Annihilation, allowing you to hurl slow-moving spheres of intense destructive force that detonate in an enormous blast of your characteristic Destruction.
+FR: Votre capacité Infernal Servant est remplacée par Globe of Annihilation, qui vous permet de lancer des sphères lentes d’une intense force destructrice qui détonent en une énorme explosion de votre Destruction caractéristique.
+
+EN: A parchment of Blink.
+FR: Un parchemin de Blink.
