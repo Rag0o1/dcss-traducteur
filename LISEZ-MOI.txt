@@ -111,7 +111,7 @@ Ne dupliquez pas un texte déjà présent : modifiez-le sur place.
 
 INSTALLATION
 ------------
-Voir INSTALLATION.md : Firefox, Chrome, Edge, Brave, Opera, Vivaldi, Safari, téléphone, autre serveur, dépannage.
+Voir le wiki (https://github.com/Rag0o1/dcss-traducteur/wiki/Installation) : Firefox, Chrome, Edge, Brave, Opera, Vivaldi, Safari, téléphone, autre serveur, dépannage.
 Résumé Firefox : about:debugging > "Ce Firefox" > "Charger un module complémentaire temporaire" > manifest.json, puis F5.
 Résumé Chrome/Edge/Brave : page des extensions > Mode développeur > "Charger l'extension non empaquetée" > dossier contenant manifest.json, puis F5.
 Vérification : F12 > Console doit afficher "Base de traduction chargée" sans erreur rouge.

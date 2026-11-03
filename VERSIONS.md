@@ -24,7 +24,7 @@ Chaque version est décrite ci-dessous, la plus récente en premier.
 ## 0.14 — le moteur de gabarits connaît les monstres
 - `moteur/gabarits.js` comprend maintenant les **monstres** (`@The_monster@`… ; en français `@M_S@ @M_o@ @M_d@ @M_a@ @M_e@`), les phrases **sans ponctuation finale** (le jeu ajoute « . » ou « ! ») et des morceaux typés (mains, possessifs).
 - Nouveaux fichiers de gabarits : `magie_rates.js` (tous les ratés de magie : joueur, monstres, lanceur invisible ; toutes les écoles) et `cris.js` (cris et bruits des monstres).
-- Ajout de `CONTRIBUTING.md`, du guide d'installation pour chaque navigateur et des releases GitHub automatiques.
+- Ajout du guide pour participer, du guide d'installation pour chaque navigateur et des releases GitHub automatiques.
 
 ## 0.13 — changement de fonctionnement
 - **Nouveau moteur `moteur/gabarits.js`** : traduit les phrases de la base de données du jeu (`dat/database`), qui sont écrites avec des morceaux variables (`@couleur@`, `@The_feature@`, `[variante a|variante b]`). Il sait traduire les couleurs, les parties du corps, les décors, les objets du joueur, les truites de Xom, etc.
