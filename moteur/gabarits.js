@@ -72,6 +72,11 @@
         subjective: x => ({ it: "il", he: "il", she: "elle", they: "ils" })[x] || null,
         something: x => /^something$/i.test(x) ? "quelque chose" : null,
         possessive_God: x => x.replace(/['’]s$/, ""),
+        quote: x => T1(x) || x,
+        to_foe: x => { const a = acteur(x.replace(/^to /, "")); return a ? a.a : /^you$/i.test(x.replace(/^to /, "")) ? "à vous" : null; },
+        at_foe: x => { const a = acteur(x.replace(/^at /, "")); return a ? "vers " + a.o : /^you$/i.test(x.replace(/^at /, "")) ? "vers vous" : null; },
+        objective: x => ({ it: "le", him: "le", her: "la", them: "les" })[x] || null,
+        Subjective: x => ({ It: "Cela", He: "Il", She: "Elle", They: "Ils" })[x] || null,
         arms: MACROS.body, beam: x => { const r = T1("a " + x) || T1(x); return r && r !== x && r !== "a " + x ? r.replace(/^(?:un|une|le|la|l’|des|les) ?/, "") : null; },
         weapon_noise: x => T1(x) || x, player_genus: x => ({ human: "humains", elf: "elfes", dwarf: "nains", orc: "orques", draconian: "draconiens", demonspawn: "démonspawns", gnoll: "gnolls", felid: "félins" })[x] || x,
     };
@@ -100,7 +105,8 @@
         if (!/[.!?"”»:]$/.test(en)) { src += "([.!]?)"; parts.push({ type: "punct" }); }
         src += "$";
         const debut = /^[A-Za-z"'’]+/.exec(en); // premier mot littéral (sert à classer les gabarits)
-        return { regex: new RegExp(src), parts, fr, tete: debut && !/^[@\[]/.test(en) ? debut[0].toLowerCase() : "", lit: plusLong };
+        const apres = /^@[^@\s]+@(?:'s)? ([a-z]+)/.exec(en); // mot qui suit un début à trou (ex. « @The_monster@ says » -> « says »)
+        return { regex: new RegExp(src), parts, fr, tete: debut && !/^[@\[]/.test(en) ? debut[0].toLowerCase() : "", apres: apres ? apres[1] : "", lit: plusLong };
     }
     function appliquer(g, m) {
         let ia = 0; const macros = {}; let i = 1;
@@ -111,20 +117,21 @@
         sortie = g.fr.replace(/\[([^\]]*)\]/g, (tout, liste) => { const a = alts[ia++]; const o = liste.split("|"); if (!a) return o[0]; const n = a.p.opts.indexOf(a.v); const r = o[Math.min(n < 0 ? 0 : n, o.length - 1)]; return r === undefined ? o[0] : r; });
         let ok = true;
         sortie = sortie.replace(/@M_([SodaeA])@/g, (t, k) => mon ? (mon[k] || "") : t);
-        sortie = sortie.replace(/@([^@\s]+)@/g, (tout, nom) => { if (/^M_/.test(nom)) { ok = false; return tout; } const v = macros[nom.replace(/^~/, "")] !== undefined ? macros[nom.replace(/^~/, "")] : nom === "T_o" ? ["target", "foe"].map(k => macros[k]).find(x => x !== undefined) : nom === "sur" || nom === "vers" ? macros.at : undefined; if (v === undefined) { ok = false; return tout; } const f = FONCTION[nom === "T_o" ? (macros.target !== undefined ? "target" : "foe") : nom]; const r = nom === "sur" ? (v === "past" ? "à côté de" : "sur") : nom === "vers" ? (v === "past" ? "à côté de" : "vers") : f ? f(v) : v; if (r === null || r === undefined) { ok = false; return v; } return r; });
+        sortie = sortie.replace(/@TF([12])@/g, (tt, k) => { const tf = macros.to_foe; if (tf === undefined) { ok = false; return tt; } const a = FONCTION.to_foe(tf); if (!a) { ok = false; return tt; } const toi = /^à vous$/.test(a); return k === "1" ? (toi ? "vous " : "") : (toi ? "" : " " + a); });
+        sortie = sortie.replace(/@([^@\s]+)@/g, (tout, nom) => { if (/^M_/.test(nom)) { ok = false; return tout; } let v = macros[nom.replace(/^~/, "")] !== undefined ? macros[nom.replace(/^~/, "")] : nom === "T_o" ? ["target", "foe", "at_foe", "to_foe"].map(k => macros[k]).find(x => x !== undefined) : nom === "sur" || nom === "vers" ? macros.at : undefined; if (v === undefined) { ok = false; return tout; } const f = FONCTION[nom === "T_o" ? (macros.target !== undefined ? "target" : "foe") : nom]; if (nom === "T_o") v = String(v).replace(/^(?:at|to) /, ""); const r = nom === "sur" ? (v === "past" ? "à côté de" : "sur") : nom === "vers" ? (v === "past" ? "à côté de" : "vers") : f ? f(v) : v; if (r === null || r === undefined) { ok = false; return v; } return r; });
         if (ok) sortie = sortie.replace(/\bde ([aeiouyàâéèêîôûœ])/g, "d’$1") + punct;
         return ok ? sortie : null;
     }
 
     let index = null;
     function construire() {
-        index = { par: new Map(), libres: [] };
+        index = { par: new Map(), apres: new Map(), libres: [] };
         for (const bloc of globalThis.DCSS_GABARITS_TEXTES || []) {
             for (const entree of String(bloc).split(/\n\s*\n/)) {
                 const l = entree.split("\n").map(x => x.trim()).filter(Boolean);
                 if (l.length < 2) continue;
                 const g = compiler(l[0], l[1]);
-                if (g.tete) { if (!index.par.has(g.tete)) index.par.set(g.tete, []); index.par.get(g.tete).push(g); } else index.libres.push(g);
+                if (g.tete) { if (!index.par.has(g.tete)) index.par.set(g.tete, []); index.par.get(g.tete).push(g); } else if (g.apres) { if (!index.apres.has(g.apres)) index.apres.set(g.apres, []); index.apres.get(g.apres).push(g); } else index.libres.push(g);
             }
         }
     }
@@ -133,6 +140,8 @@
         const t = texte.trim(); if (t.length < 6 || t.length > 400) return null;
         const mot = /^[A-Za-z"'’]+/.exec(t); const listes = [];
         if (mot && index.par.has(mot[0].toLowerCase())) listes.push(index.par.get(mot[0].toLowerCase()));
+        const mots = t.split(/[^A-Za-z]+/).slice(1, 9), vus = new Set();
+        for (const w of mots) if (!vus.has(w) && index.apres.has(w)) { vus.add(w); listes.push(index.apres.get(w)); }
         listes.push(index.libres);
         for (const lst of listes) for (const g of lst) {
             if (g.lit && g.lit.length > 3 && !t.includes(g.lit)) continue;

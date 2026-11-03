@@ -11,6 +11,11 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.16 — paroles et gestes des monstres
+- Nouveau fichier `monstres_paroles.js` (`dat/database/monspeak.txt`) : tous les cadres de paroles (« Le gobelin dit : « … » », « … à vous : », « … vers l’orc : ») pour une cinquantaine de verbes, plus une centaine de gestes (sourires, regards, yeux qui luisent, etc.). La citation est traduite si elle est connue, sinon elle reste en anglais.
+- Le moteur de gabarits connaît `@quote@`, `@to_foe@`, `@at_foe@`, `@objective@`, `@Subjective@` et classe les gabarits qui commencent par un monstre selon le mot suivant (la vitesse reste bonne).
+- Couverture de la base de données : `monspeak` 11 % → 60 %.
+
 ## 0.15 — le moteur de gabarits connaît les cibles de sorts
 - `moteur/gabarits.js` comprend `@at@` (« sur » / « à côté de » si le sort rate), `@target@`, `@foe@`, `@reflexive@`, `@subjective@`, `@something@`, `@beam@`, les noms de dieux et `@arms@`.
 - Nouveau fichier `monstres_sorts.js` : ce que disent et font les monstres en lançant un sort (`dat/database/monspell.txt`) : gestes, chants, prières, souffles, lanceurs invisibles (« Vous entendez … »). Couverture de ce fichier : 24 % → 63 %.
