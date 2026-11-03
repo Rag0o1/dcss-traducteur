@@ -10,6 +10,8 @@ Current version: **0.13**
 
 ## Install
 
+Download the latest **zip** from the [Releases page](https://github.com/Rag0o1/dcss-traducteur/releases) (one release per version, created automatically), unzip it somewhere permanent.
+
 Works in **Firefox** and in every **Chromium-based browser** (Chrome, Edge, Brave, Opera, Vivaldi). Quick version:
 
 * **Firefox**: `about:debugging` → *This Firefox* → *Load Temporary Add-on…* → pick `manifest.json`. (Temporary: repeat after restarting Firefox.)

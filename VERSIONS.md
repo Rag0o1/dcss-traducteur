@@ -7,6 +7,8 @@
 
 The number is kept identical in: `manifest.json` (`"version"`), `README.md` ("Current version"), this file, and the zip name (`DCSS-Traducteur-vX.Y.zip`).
 
+A GitHub Action (`.github/workflows/release.yml`) creates the GitHub Release and attaches the zip automatically whenever the version in `manifest.json` changes on `main` (it can also be started by hand from the *Actions* tab).
+
 Each version is described below, newest first. (The French branch `fr` has the original, more detailed French history.)
 
 ## 0.13 — new engine
