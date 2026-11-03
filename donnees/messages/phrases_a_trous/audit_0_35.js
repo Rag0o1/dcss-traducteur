@@ -313,7 +313,9 @@
         const garde = []; const t = txt.replace(/\{[^}]*\}/g, b => { garde.push(b); return "\u0001" + (garde.length - 1) + "\u0001"; });
         const items = t.split(/, | and /); const out = [];
         for (const it of items) {
-            const r = T1(it.trim()); if (!r || r === it.trim()) return null;
+            let r = T1(it.trim());
+            if ((!r || r === it.trim()) && /^[a-z -]+s$/.test(it.trim())) { const r2 = T1("2 " + it.trim()); if (r2 && r2 !== "2 " + it.trim()) r = r2.replace(/^2 /, ""); }
+            if (!r || r === it.trim()) return null;
             out.push(r.replace(/\u0001(\d+)\u0001/g, (_, i) => garde[+i]));
         }
         return out.length < 2 ? out[0] : out.slice(0, -1).join(", ") + " et " + out[out.length - 1];
@@ -323,7 +325,8 @@
         const segs = m[2].split(/ and (?=wearing |carrying |quivering )|, (?=wearing |carrying |quivering )/); const fr = [];
         for (const sg of segs) {
             const k = /^(wielding|wearing|carrying|quivering) (.+)$/.exec(sg); if (!k) return null;
-            const o = objets(k[2]); if (!o) return null;
+            let o = objets(k[2]); if (!o) return null;
+            if (!/^(?:des|un|une|le|la|l’|les|\d)/.test(o)) o = "des " + o;
             fr.push({ wielding: "maniant", wearing: "portant", carrying: "transportant", quivering: "avec en carquois" }[k[1]] + " " + o);
         }
         let fin = "";

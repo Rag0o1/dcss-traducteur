@@ -11,6 +11,11 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.17.3 — mineure
+
+- Monstres examinés avec des objets pluriels au carquois (« avec en carquois des boomerangs »).
+- Texte long de l’escalier vers une branche (Antre des Bêtes, etc.).
+
 ## 0.17.2 — mineure
 
 - Lutins du sort « Jinxbite », accord des amulettes, explosions, essences d’âmes, bienvenue et construction des branches, « trouvé au niveau… ».

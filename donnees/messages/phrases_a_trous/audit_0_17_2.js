@@ -94,8 +94,9 @@
     R.push({ regex: /^building (the .+|Pandemonium)$/, translate: m => { const b = brTrad(m[1]); return b ? `construction ${deBr(b)}` : null; } });
 
     // --- Description d'un escalier (le jeu ajoute « While standing here… ») ---
-    R.push({ regex: /^(A staircase leading to .+?\.) (.+?\.) While standing here, you can traverse (the staircase|the escape hatch|the .+?) with the(?: .*)?$/, translate: m => {
-        const a = traduit(m[1]), b = traduit(m[2]); if (!a || !b) return null; const e = traduit(m[3]); if (!e) return null;
+    R.push({ regex: /^(A staircase leading to .+?\.) (.+\.) While standing here, you can traverse (the staircase|the escape hatch|the gate|the portal) with the$/, translate: m => {
+        const a = traduit(m[1]), b = traduit(m[2]); if (!a || !b) return null;
+        const e = { "the staircase": "l’escalier", "the escape hatch": "la trappe de secours", "the gate": "la porte", "the portal": "le portail" }[m[3]];
         return `${a} ${b} Quand vous vous tenez ici, vous pouvez emprunter ${e} avec la touche`; } });
     R.push({ regex: /^key\. You have not yet explored it and cannot tell where it leads\.$/, translate: () => "Vous ne l’avez pas encore explorée et ne savez pas où elle mène." });
     R.push({ regex: /^key\.$/, translate: () => null });
