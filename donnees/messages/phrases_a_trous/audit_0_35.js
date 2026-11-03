@@ -347,6 +347,39 @@
     R.push({ regex: /^HPRegen ([\d.]+)\/turn MPRegen ([\d.]+)\/turn$/, translate: m => `Régén. PV ${m[1].replace(".", ",")}/tour Régén. PM ${m[2].replace(".", ",")}/tour` });
     R.push({ regex: /^Gear: (\d+)\/(\d+) gear slots \(Left\/Right\/Tab to switch category\)$/, translate: m => `Équipement : ${m[1]}/${m[2]} emplacements (Gauche/Droite/Tab pour changer de catégorie)` });
     R.push({ regex: /^(\w+'s ghost)\.$/, translate: m => { const a = AC(m[1]); return a ? a.S + "." : null; } });
+    // --- Messages du code source avec trous (0.12.1) ---
+    const SRC = {
+        "Angry insects surge out from beneath {I} foliage!": "Des insectes en colère surgissent du feuillage {d1} !",
+        "Poisonous fumes billow around {A}!": "Des fumées toxiques tourbillonnent autour {d1} ! ¦ Des fumées toxiques tourbillonnent autour de vous !",
+        "Rot billows forth from {I} wounds!": "La pourriture jaillit des blessures {d1} !",
+        "Shards of ice erupt from {I} body!": "Des éclats de glace jaillissent du corps {d1} !",
+        "Terrible wounds open up all over {I} body!": "De terribles blessures s’ouvrent sur tout le corps {d1} !",
+        "Terrible wounds spread across more of {I} body!": "De terribles blessures s’étendent sur une plus grande partie du corps {d1} !",
+        "The terrible wounds on {I} body vanish.": "Les terribles blessures du corps {d1} disparaissent.",
+        "Thorns of ice sprout around {A}.": "Des épines de glace poussent autour {d1}. ¦ Des épines de glace poussent autour de vous.",
+        "Magical energy flows from {A} into your mind!": "L’énergie magique de {o1} afflue dans votre esprit !",
+        "The light of Elyvilon comforts {A}.": "La lumière d’Elyvilon réconforte {o1}. ¦ La lumière d’Elyvilon vous réconforte.",
+        "The light of Elyvilon almost touches upon {A}.": "La lumière d’Elyvilon touche presque {o1}. ¦ La lumière d’Elyvilon vous touche presque.",
+        "The light of Elyvilon fails to reach {A}.": "La lumière d’Elyvilon n’atteint pas {o1}. ¦ La lumière d’Elyvilon ne vous atteint pas.",
+        "You devour {A}!": "Vous dévorez {o1} !",
+        "You attack {A}.": "Vous attaquez {o1}.",
+        "You pounce on {A} with bestial fury!": "Vous bondissez sur {o1} avec une fureur bestiale !",
+        "You swear to avenge {I} death!": "Vous jurez de venger la mort {d1} !",
+        "You wrap your dark will around {I} soul!": "Vous enroulez votre sombre volonté autour de l’âme {d1} !",
+        "Your grip on {I} soul is slipping...": "Votre emprise sur l’âme {d1} faiblit…",
+        "You lose your grip on {I} soul.": "Vous perdez votre emprise sur l’âme {d1}.",
+        "Your paragon deflects {I} attack away from you.": "Votre parangon détourne l’attaque {d1} loin de vous.",
+        "Your unholy armour drains life force from {A}.": "Votre armure impie draine la force vitale de {o1}.",
+        "Zin imprisons {A} with walls of pure silver!": "Zin emprisonne {o1} dans des murs d’argent pur !",
+        "You focus your ray upon {A}.": "Vous concentrez votre rayon sur {o1}.",
+        "You lock target on {A} and prepare to deploy your bee.": "Vous verrouillez la cible sur {o1} et préparez le déploiement de votre abeille.",
+        "You need more space to imprison {A}.": "Il vous faut plus d’espace pour emprisonner {o1}.",
+        "You welcome {A} into your grasp.": "Vous accueillez {o1} dans votre étreinte.",
+        "You turn to {A}.": "Vous vous tournez vers {o1}.",
+        "You also have {X} vouchers.": "Vous avez aussi {x1} bons d’achat.",
+        "You also have {X} voucher.": "Vous avez aussi {x1} bon d’achat."
+    };
+    for (const [en, fr] of Object.entries(SRC)) if (!(en in T)) T[en] = fr;
     T["{A} is wielding {X} and wearing {X}."] = "{S1} manie {x2} et porte {x3}.";
     T["{A} is wielding {X}, wearing {X} and carrying {X}."] = "{S1} manie {x2}, porte {x3} et transporte {x4}.";
     T["{A} is carrying {X}, wearing {X}."] = "{S1} transporte {x2} et porte {x3}.";

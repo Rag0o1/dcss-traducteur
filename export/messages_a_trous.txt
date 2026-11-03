@@ -7369,6 +7369,66 @@ FR: T - Temple
 EN: Hit
 FR: Coup
 
+EN: Poisonous fumes billow around {A}!
+FR: Des fumées toxiques tourbillonnent autour {d1} ! ¦ Des fumées toxiques tourbillonnent autour de vous !
+
+EN: Rot billows forth from {I} wounds!
+FR: La pourriture jaillit des blessures {d1} !
+
+EN: Shards of ice erupt from {I} body!
+FR: Des éclats de glace jaillissent du corps {d1} !
+
+EN: Thorns of ice sprout around {A}.
+FR: Des épines de glace poussent autour {d1}. ¦ Des épines de glace poussent autour de vous.
+
+EN: Magical energy flows from {A} into your mind!
+FR: L’énergie magique de {o1} afflue dans votre esprit !
+
+EN: The light of Elyvilon comforts {A}.
+FR: La lumière d’Elyvilon réconforte {o1}. ¦ La lumière d’Elyvilon vous réconforte.
+
+EN: The light of Elyvilon almost touches upon {A}.
+FR: La lumière d’Elyvilon touche presque {o1}. ¦ La lumière d’Elyvilon vous touche presque.
+
+EN: The light of Elyvilon fails to reach {A}.
+FR: La lumière d’Elyvilon n’atteint pas {o1}. ¦ La lumière d’Elyvilon ne vous atteint pas.
+
+EN: You devour {A}!
+FR: Vous dévorez {o1} !
+
+EN: You attack {A}.
+FR: Vous attaquez {o1}.
+
+EN: You pounce on {A} with bestial fury!
+FR: Vous bondissez sur {o1} avec une fureur bestiale !
+
+EN: Your unholy armour drains life force from {A}.
+FR: Votre armure impie draine la force vitale de {o1}.
+
+EN: Zin imprisons {A} with walls of pure silver!
+FR: Zin emprisonne {o1} dans des murs d’argent pur !
+
+EN: You focus your ray upon {A}.
+FR: Vous concentrez votre rayon sur {o1}.
+
+EN: You lock target on {A} and prepare to deploy your bee.
+FR: Vous verrouillez la cible sur {o1} et préparez le déploiement de votre abeille.
+
+EN: You need more space to imprison {A}.
+FR: Il vous faut plus d’espace pour emprisonner {o1}.
+
+EN: You welcome {A} into your grasp.
+FR: Vous accueillez {o1} dans votre étreinte.
+
+EN: You turn to {A}.
+FR: Vous vous tournez vers {o1}.
+
+EN: You also have {X} vouchers.
+FR: Vous avez aussi {x1} bons d’achat.
+
+EN: You also have {X} voucher.
+FR: Vous avez aussi {x1} bon d’achat.
+
 EN: {A} is wielding {X} and wearing {X}.
 FR: {S1} manie {x2} et porte {x3}.
 

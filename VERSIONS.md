@@ -9,6 +9,9 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.12.1 — changement mineur
+- ~25 messages du jeu avec trous relevés dans le code source (fumées toxiques, lumière d'Elyvilon, âme, blessures, dévorer, bondir…) dans `phrases_a_trous/audit_0_35.js`.
+
 ## 0.12 — rangement des fichiers de phrases
 - Les fichiers `variables_a.js` … `variables_k.js` sont renommés **par sujet** et rangés dans `donnees/messages/phrases_a_trous/` (avec un `LISEZ-MOI.txt` qui dit quel fichier contient quoi). `projectiles.js` et `tutoriel.js` y sont aussi.
 - Le moteur des trous (`variables.js`) devient `moteur/phrases_a_trous.js` : tout le code est dans `moteur/`, les traductions dans `donnees/`.
