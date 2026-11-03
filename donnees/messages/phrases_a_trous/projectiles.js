@@ -1,7 +1,7 @@
 // =====================================================================
 //  projectiles.js : noms des projectiles / effets de sorts vus dans les messages (« The bolt of fire hits... »).
 //  Forme : "nom anglais sans « The »": ["nom français sans article", "m" | "f" | "p" (pluriel)].
-//  Utilisé par le trou {Z} de variables.js (voir variables_i.js). Ajouter ici un projectile = toutes les phrases le gèrent.
+//  Utilisé par le trou {Z} de moteur/phrases_a_trous.js (voir projectiles_et_capacites.js). Ajouter ici un projectile = toutes les phrases le gèrent.
 // =====================================================================
 globalThis.DCSS_PROJECTILES = Object.assign(globalThis.DCSS_PROJECTILES || {}, {
  "acid spray": ["jet d’acide", "m"], "agony": ["agonie", "f"], "arc of electricity": ["arc électrique", "m"],

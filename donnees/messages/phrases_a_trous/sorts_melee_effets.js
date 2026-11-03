@@ -1,5 +1,5 @@
 // Messages à variables, partie C : sorts de monstres, armes uniques, mêlée, effets différés, contraintes.
-// Format et trous : voir variables.js. « ¦ » : la 2e version sert quand le sujet est « You ».
+// Format et trous : voir moteur/phrases_a_trous.js. « ¦ » : la 2e version sert quand le sujet est « You ».
 Object.assign(globalThis.DCSS_VARIABLES = globalThis.DCSS_VARIABLES || {}, {
     // --- Lancer de sorts (le nom du sort reste tel quel en mode « noms anglais ») ---
     "{A} casts a spell.": "{S1} lance un sort. ¦ Vous lancez un sort.",

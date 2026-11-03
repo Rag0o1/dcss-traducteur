@@ -1,5 +1,5 @@
 // Messages à variables, partie B : monstres (état, objets volés), objets, équipement, potions, Xom, déplacements.
-// Format et trous : voir variables.js.
+// Format et trous : voir moteur/phrases_a_trous.js.
 Object.assign(globalThis.DCSS_VARIABLES = globalThis.DCSS_VARIABLES || {}, {
     // --- Monstres ---
     "{A} picks up {X}.": "{S1} ramasse {x2}.",

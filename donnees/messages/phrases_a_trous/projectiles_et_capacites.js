@@ -1,5 +1,5 @@
 // Messages à variables, partie I (0.10) : projectiles ({Z}) et sorts / capacités de monstres relevés dans le vrai jeu (arène).
-// Format et trous : voir variables.js. Les noms de projectiles sont dans projectiles.js.
+// Format et trous : voir moteur/phrases_a_trous.js. Les noms de projectiles sont dans projectiles.js.
 (() => {
     const T = {};
     const fin = p => (p === "!" ? " !" : ".");

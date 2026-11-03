@@ -8,7 +8,7 @@ PASSER À UNE NOUVELLE VERSION DU JEU (ex. 0.35)
      un fichier de donnees/ (par exemple donnees/interface/complements.js). Un texte MODIFIÉ garde son ancienne
      traduction tant qu'on n'a pas mis à jour la clé : repérer la ligne et corriger.
    - un message à trous (NOUVEAU MESSAGE) -> ajouter une ligne dans donnees/messages/variables_*.js (voir le mode d'emploi
-     en tête de variables.js).
+     en tête de moteur/phrases_a_trous.js).
 5. node outils/couverture.js extraction_0.35.json  : vérifier que le pourcentage remonte.
 6. Mettre à jour "version" dans manifest.json et noter les changements dans VERSIONS.md.
 Astuce : le dossier dat/descript/fr du dépôt contient la traduction communautaire officielle ; elle est souvent en retard

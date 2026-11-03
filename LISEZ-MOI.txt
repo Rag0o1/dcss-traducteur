@@ -1,4 +1,4 @@
-DCSS TRADUCTEUR (version 0.11.2)
+DCSS TRADUCTEUR (version 0.12)
 ==============================
 
 Extension Navigateur qui traduit DCSS Web en français. Elle ne modifie pas le jeu :
@@ -55,10 +55,8 @@ donnees/               Les traductions
     messages_fixes.js      936 messages sans variable (sorts, pièges, refus, ambiance).
     monstres/              Descriptions longues : descriptions.js (monstres), capacites.js, decors.js, statuts.js, passives.js.
     combat.js              Messages de combat et lignes « monstre en vue » (gabarits GABARITS, verbes VERBES, effets EFFETS).
-    variables.js           Moteur des messages à « trous » (monstre, objet, nombre...) : mode d'emploi en tête du fichier.
-    variables_g.js, _h.js, _i.js  Phrases ajoutées en 0.10 (_i = sorts et capacités de monstres vus en jeu) ; projectiles.js = noms de projectiles (trou {Z}).
-    variables_a.js ... f.js  Les phrases à trous : a = monstres/pièges/dieux, b = objets/potions/déplacements, c = sorts/mêlée, f = actions longues/compétences,
-                           d = « le monstre + verbe » (statuts), e = messages des dieux. Une ligne = une phrase.
+    phrases_a_trous/       Les messages à « trous » (monstre, objet, nombre...), un fichier par sujet. Voir phrases_a_trous/LISEZ-MOI.txt.
+                           Le moteur qui les applique est moteur/phrases_a_trous.js (mode d'emploi des trous en tête du fichier).
     divers.js              Inventaire (bijoux, baguettes, bâtons, talismans, inscriptions), bruits, « Vous voyez ici », objectifs.
     sorts/textes_noms_anglais.js  Textes qui citent un sort (mode noms anglais). Ne pas toucher.
     complements.js         (dans interface/) Descriptions ajoutées en 0.10 : capacités, terrains, mutations, astuces, noms de terrains/autels/portes.
@@ -95,11 +93,11 @@ Cas 3 : la FORME de la phrase est mauvaise (ordre des mots, accord, article)
   ou envoyez-la moi.
 
 Cas 3 bis : un message avec un MONSTRE ou un OBJET dedans est mal traduit (« Le chacal gèle le gobelin »...)
-  -> cherchez un mot de la phrase dans donnees/messages/variables_a.js ... variables_e.js. Chaque ligne a la forme
+  -> cherchez un mot de la phrase dans donnees/messages/phrases_a_trous/ (voir le LISEZ-MOI.txt de ce dossier pour trouver le bon fichier). Chaque ligne a la forme
         "phrase anglaise avec {A} (monstre) {X} (autre mot)": "phrase française avec {S1} {x2}",
   Les numéros suivent l'ordre des trous. {S1} = « Le chacal », {o1} = « le chacal », {d1} = « du chacal »,
   {a1} = « au chacal », {e1} = « e » si le monstre est féminin. « ¦ » sépare la version « monstre » de la version « vous ».
-  Le mode d'emploi complet est en tête de donnees/messages/variables.js.
+  Le mode d'emploi complet est en tête de moteur/phrases_a_trous.js.
 
 Cas 4 : un NOM DE SORT ne vous plaît pas
   -> donnees/sorts/noms.js : changez le français après les « : » (ou mettez le nom anglais).

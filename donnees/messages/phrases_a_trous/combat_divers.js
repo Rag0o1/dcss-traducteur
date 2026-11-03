@@ -1,5 +1,5 @@
 // Messages à variables, partie G (0.10) : écrasement, tête coupée, attaques de Wu Jian, esquives, gemmes, moutons de rêve...
-// Format et trous : voir variables.js. Les « !! » / « !!! » finaux sont gérés automatiquement (comme « ! »).
+// Format et trous : voir moteur/phrases_a_trous.js. Les « !! » / « !!! » finaux sont gérés automatiquement (comme « ! »).
 Object.assign(globalThis.DCSS_VARIABLES = globalThis.DCSS_VARIABLES || {}, {
     // --- Mêlée et effets de coups ---
     "You sink your fangs into {A} and drink {p} blood.": "Vous plantez vos crocs dans {o1} et buvez son sang.",

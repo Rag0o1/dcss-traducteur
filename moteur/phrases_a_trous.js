@@ -1,5 +1,5 @@
 // =====================================================================
-//  variables.js : messages du jeu qui contiennent des mots variables (monstre, objet, nombre...).
+//  moteur/phrases_a_trous.js : messages du jeu qui contiennent des mots variables (monstre, objet, nombre...).
 //
 //  Les phrases sont dans les fichiers variables_*.js (table DCSS_VARIABLES). Une ligne =
 //     "phrase anglaise avec des trous": "phrase française avec les mêmes trous",

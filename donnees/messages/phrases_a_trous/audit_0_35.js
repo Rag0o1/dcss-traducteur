@@ -1,5 +1,5 @@
 // Messages à variables, partie K (0.10) : relevés par l'audit en jeu (version 0.35) : armes dansantes, états des monstres,
-// projectiles repoussés, cris et sorts de monstres, boutiques, Nécropole, messages divers. Format et trous : voir variables.js.
+// projectiles repoussés, cris et sorts de monstres, boutiques, Nécropole, messages divers. Format et trous : voir moteur/phrases_a_trous.js.
 (() => {
     const T = globalThis.DCSS_VARIABLES = globalThis.DCSS_VARIABLES || {};
 

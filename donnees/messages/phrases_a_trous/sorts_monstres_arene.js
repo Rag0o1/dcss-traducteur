@@ -1,5 +1,5 @@
 // Messages à variables, partie H (0.10) : sorts et capacités des monstres vus en jeu (arène) : souffles, projectiles,
-// invocations de dieux, vortex, racines, etc. Format et trous : voir variables.js.
+// invocations de dieux, vortex, racines, etc. Format et trous : voir moteur/phrases_a_trous.js.
 (() => {
     const T = {};
     T["The wavering orb of destruction weakly hits {A}!"] = "L’orbe de destruction vacillant touche faiblement {o1} ! ¦ L’orbe de destruction vacillant vous touche faiblement !";

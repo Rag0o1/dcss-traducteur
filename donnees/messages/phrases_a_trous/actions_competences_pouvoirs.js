@@ -1,5 +1,5 @@
 // Messages à variables, partie F : actions en plusieurs tours, compétences, pouvoirs de dieux, divers.
-// Format et trous : voir variables.js.
+// Format et trous : voir moteur/phrases_a_trous.js.
 (() => {
     const T = globalThis.DCSS_VARIABLES = globalThis.DCSS_VARIABLES || {};
     // --- Mettre / retirer un équipement (délais) ---

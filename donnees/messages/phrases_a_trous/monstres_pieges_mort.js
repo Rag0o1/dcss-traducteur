@@ -1,5 +1,5 @@
 // Messages à variables, partie A : monstres, pièges, statuts de monstres, aptitudes, dieux, mort.
-// Format et trous : voir variables.js.
+// Format et trous : voir moteur/phrases_a_trous.js.
 Object.assign(globalThis.DCSS_VARIABLES = globalThis.DCSS_VARIABLES || {}, {
     // --- Capacités de monstres (mon-abil) ---
     "{A} separates from {A}.": "{S1} se sépare {d2}.",

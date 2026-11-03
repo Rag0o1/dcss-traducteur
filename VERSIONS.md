@@ -9,25 +9,31 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.12 — rangement des fichiers de phrases
+- Les fichiers `variables_a.js` … `variables_k.js` sont renommés **par sujet** et rangés dans `donnees/messages/phrases_a_trous/` (avec un `LISEZ-MOI.txt` qui dit quel fichier contient quoi). `projectiles.js` et `tutoriel.js` y sont aussi.
+- Le moteur des trous (`variables.js`) devient `moteur/phrases_a_trous.js` : tout le code est dans `moteur/`, les traductions dans `donnees/`.
+- **Contenu et ordre de chargement inchangés** : 0 différence sur 25 805 textes (modes anglais et français), 73/73 tests, export identique.
+- Sauvegarde de la version précédente : étiquette Git `v0.11.2`.
+
 ## 0.11.2 — changement mineur
 - 276 messages du jeu sans variable, relevés dans le code source de Crawl (`donnees/messages/messages_jeu.js`) : dieux, états, bruits, pièges, capacités. Messages sans variable traduits : 68 % → 86 % (le reste est surtout du débogage).
 
 ## 0.11.1 — suite de la 0.10, avec des changements de moteur
 - **Moteur** : nouveau trou `{K}` (nom de touche, recopié tel quel) dans les phrases à trous ; noms de monstres fabriqués par le jeu étendus (armes dansantes `dancing +2 flail of holy wrath`, tailles de gelées, préfixe `ghostly`) ; règles pour les « !! » multiples, « Vous rencontrez… », les lignes d'examen de monstres (équipement + états + chances de toucher), les boutiques, les objets non identifiés (`a glowing hat`), les parchemins et potions « nus » (`Scroll of Blinking`).
-- **Nouveaux fichiers** : `donnees/messages/variables_k.js` (audit en jeu 0.35), `donnees/messages/tutoriel.js` (64 textes du tutoriel).
+- **Nouveaux fichiers** : `donnees/messages/audit_0_35.js` (audit en jeu 0.35), `donnees/messages/phrases_a_trous/tutoriel.js` (64 textes du tutoriel).
 - **Données** : projectiles (`gout of fire`, `torrent of electricity`…), uniques (Louise), Hauts-fonds harmonisés partout.
 - **Dépôt** : export des traductions en fichiers texte simples dans `export/` (`node outils/exporter.js`).
 
 ## 0.10 — suite : leçons du vrai jeu (arène + mode magicien)
 - Le jeu 0.34 a été compilé et lancé en mode arène (outils/arene/) : ~18 000 phrases différentes ont servi de test.
-- variables_h.js / variables_i.js : ~400 nouvelles phrases de monstres (souffles, projectiles, invocations de dieux, racines, bolas...).
+- sorts_monstres_arene.js / projectiles_et_capacites.js : ~400 nouvelles phrases de monstres (souffles, projectiles, invocations de dieux, racines, bolas...).
 - projectiles.js + trou {Z} : ~170 noms de projectiles et d'effets de sorts (« The bolt of fire hits you » -> « Le rayon de feu vous touche »).
 - Correction d'un défaut : « The bolt of fire hits you. » devenait « Le bolt of fire vous frappe. » (demi-anglais). Les règles de
   combat de regles.js laissent désormais la phrase intacte quand un nom de monstre est inconnu.
 - combat.js reconnaît les noms fabriqués par le jeu : draconiens colorés + classe, hydres/slymdras à N têtes, bêtes mutantes
   (larvaire... primordiale), choses laides colorées, « spectral X », « bound X », « X zombie / skeleton / draugr ».
 - Nouveaux monstres/armes : ice fiend, brimstone fiend, executioner, hell sentinel, tzitzimitl, scythe (faux).
-- Mode joueur (wizard) : tous les dieux ont été « joués » dans le vrai jeu. variables_j.js : accueil / désertion / apaisement des dieux,
+- Mode joueur (wizard) : tous les dieux ont été « joués » dans le vrai jeu. dieux_pouvoirs_dons.js : accueil / désertion / apaisement des dieux,
   tous les pouvoirs gagnés ou perdus (« Vous pouvez désormais... »), dons et protections des dieux, messages de caractéristiques
   (« Vous vous sentez stupide »), cartes de Nemelex, ajout de sorts à la bibliothèque, « Votre arme luit d’un éclat rouge ».
 - variables.js : les noms propres avec accents (Edmée) ne bloquent plus la traduction.
@@ -40,11 +46,11 @@ Chaque version est décrite ci-dessous, la plus récente en premier.
 - moteur/content.js : lignes du menu des sorts protégées des règles génériques ; élision « d’ » ; parchemins de sorts.
 - Mode « francais » : résultat identique à la v0.9 (vérifié sur 23 013 textes).
 - Non inclus : optimisations de vitesse proposées (à décider après test dans Firefox).
-- variables_c.js : phrases de lancer de sort des monstres : « Le magicien orc lance un sort. », « Le mage ogre lance « Haste Other » à l’orc ! »,
+- sorts_melee_effets.js : phrases de lancer de sort des monstres : « Le magicien orc lance un sort. », « Le mage ogre lance « Haste Other » à l’orc ! »,
   « Sigmund vous lance « Blink » » (nom du sort tel quel en mode anglais), sortilèges mineurs.
 - donnees/interface/complements.js : ~290 textes qui manquaient (descriptions de capacités, de terrains, de mutations, de monstres, d’astuces, nuage de flammes, etc.) et les NOMS de ~285 terrains (autels, portes, escaliers, portails, pièges, statues, conduits...).
-- variables_f.js : une quinzaine de messages de plus (apparitions, blocage d’un projectile, chaînes d’Ashenzari, souvenirs des alliés de Hepliaklqana...).
-- variables_g.js : ~40 messages de plus (écrasement contre un mur, tête coupée, poison de l’arme d’Olgreb, attaques de Wu Jian, moutons de rêve, dos tourné...). Les « !! » et « !!! » (coups forts) sont gérés. Correction : « Vous écrasez le X against the wall » ne se mélange plus.
+- actions_competences_pouvoirs.js : une quinzaine de messages de plus (apparitions, blocage d’un projectile, chaînes d’Ashenzari, souvenirs des alliés de Hepliaklqana...).
+- combat_divers.js : ~40 messages de plus (écrasement contre un mur, tête coupée, poison de l’arme d’Olgreb, attaques de Wu Jian, moutons de rêve, dos tourné...). Les « !! » et « !!! » (coups forts) sont gérés. Correction : « Vous écrasez le X against the wall » ne se mélange plus.
 - complements.js : +300 descriptions de la 0.34 : 12 espèces, 2 écoles de magie, 50 nouveaux sorts, 201 statuts, 102 artefacts uniques.
 - Nouveau dossier outils/ : extraction des textes du jeu, mesure de couverture (87 % des descriptions ; ~94 % hors citations), comparaison entre deux versions du jeu, guides « nouvelle version » et « autre langue ».
 - Non traduit : citations littéraires (quotes), mode tutoriel (72 textes), ~360 messages à trou libre à confirmer en jeu.
@@ -60,7 +66,7 @@ Chaque version est décrite ci-dessous, la plus récente en premier.
   statuts de monstres, pièges, vols, objets, équipement, potions, Zot, sorts de monstres, mêlée, messages des dieux, runes et joyaux.
   Une phrase dont un trou resterait en anglais est laissée entièrement en anglais plutôt que mélangée.
 - Non traduit : messages de débogage, d'erreur et d'options ; tableaux de résistances/attaques ; textes à code Lua.
-- variables_f.js : actions en plusieurs tours (mettre/retirer un équipement), compétences, pouvoirs de dieux (~90 phrases de plus).
+- actions_competences_pouvoirs.js : actions en plusieurs tours (mettre/retirer un équipement), compétences, pouvoirs de dieux (~90 phrases de plus).
 
 ## 0.9 — mutations, astuces, messages fixes
 - donnees/personnage/mutations_msg.js : 746 noms courts et messages de mutation (gain / perte / « vous aurez »).

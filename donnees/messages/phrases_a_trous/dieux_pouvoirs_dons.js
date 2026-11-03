@@ -1,9 +1,9 @@
 // Messages de dieux (partie J, 0.10) : accueil, désertion, apaisement, et les pouvoirs gagnés / perdus (« You can now ... »).
-// Textes relevés dans le vrai jeu (mode wizard) et dans religion.cc. Format : voir variables.js ; {x1} = nom du dieu.
+// Textes relevés dans le vrai jeu (mode wizard) et dans religion.cc. Format : voir moteur/phrases_a_trous.js ; {x1} = nom du dieu.
 (() => {
     const T = globalThis.DCSS_VARIABLES = globalThis.DCSS_VARIABLES || {};
 
-    // --- Phrases « <Dieu> + verbe » (comme variables_e.js) ---
+    // --- Phrases « <Dieu> + verbe » (comme dieux_verbe.js) ---
     const VERBE = {
         "welcomes you!": "{x1} vous accueille !",
         "welcomes you back!": "{x1} vous accueille de nouveau !",

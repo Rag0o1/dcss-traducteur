@@ -689,7 +689,7 @@
     } };
     const regle = { regex: /^(?!\s*$)[\s\S]{3,260}$/, translate: m => { const r = traduire(m); return typeof r === "string" ? r : m[0]; } };
     globalThis.DCSS_TRADUCTION_REGLES = (globalThis.DCSS_TRADUCTION_REGLES || []).concat([fragmentEtats, regle]);
-    // Pour variables.js : formes françaises (S, o, d, a, e) d'un groupe nominal anglais seul (« the jackal », « a goblin »...)
+    // Pour moteur/phrases_a_trous.js : formes françaises (S, o, d, a, e) d'un groupe nominal anglais seul (« the jackal », « a goblin »...)
     function acteurTexte(t) {
         const d = decouper(t.replace(/^(An?|The) /, x => x.toLowerCase()));
         if (d.squelette !== "{M}" || d.acteurs.length !== 1) return null;
