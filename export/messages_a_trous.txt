@@ -7651,6 +7651,60 @@ FR: Pour lire une description, appuyez sur la touche indiquée ci-dessus. (AdB) 
 EN: The species aptitude is in
 FR: L’aptitude de l’espèce est en
 
+EN: 'Of energy': It may return the magic spent to cast spells, but lowers their
+FR: « D’énergie » : Elle peut restituer la magie dépensée pour lancer des sorts, mais diminue leur
+
+EN: success rate. It always returns the magic spent on miscasts. The
+FR: taux de réussite. Elle restitue toujours la magie dépensée sur les échecs. La
+
+EN: spell refund chance is increased by your Evocations skill.
+FR: chance de remboursement est augmentée par votre compétence Évocations.
+
+EN: (w)ear
+FR: porter (w)
+
+EN: |wear|put on [
+FR: |porter|mettre [
+
+EN: - - Unarmed
+FR: - - Mains nues
+
+EN: Results at your position
+FR: Résultats à votre position
+
+EN: Results elsewhere
+FR: Résultats ailleurs
+
+EN: Choose an item to acquire.
+FR: Choisissez un objet à acquérir.
+
+EN: [offhand occupied]
+FR: [main secondaire occupée]
+
+EN: [toggle:
+FR: [basculer :
+
+EN: ] equip|
+FR: ] équiper|
+
+EN: ] select item for acquirement
+FR: ] choisir l’objet à acquérir
+
+EN: ] to cycle)
+FR: ] pour parcourir)
+
+EN: ] toggle selected [
+FR: ] basculer la sélection [
+
+EN: acquire
+FR: acquérir
+
+EN: studying 5 skills
+FR: étude de 5 compétences
+
+EN: wizardry (x1)
+FR: sorcellerie (x1)
+
 EN: Describe
 FR: Décrire
 

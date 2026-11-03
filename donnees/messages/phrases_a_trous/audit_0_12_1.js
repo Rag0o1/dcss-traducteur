@@ -55,6 +55,14 @@
             "Pour lire une description, appuyez sur la touche indiquée ci-dessus. (AdB) indique les dégâts (la somme de A dés à B faces), (x%) indique la chance de vaincre votre Volonté, et (y) indique la portée du sort ; affichée en rouge si vous êtes à portée.",
         "The species aptitude is in": "L’aptitude de l’espèce est en",
         // Fragments de menus et d'aide (touches entre crochets)
+        "'Of energy': It may return the magic spent to cast spells, but lowers their": "« D’énergie » : Elle peut restituer la magie dépensée pour lancer des sorts, mais diminue leur",
+        "success rate. It always returns the magic spent on miscasts. The": "taux de réussite. Elle restitue toujours la magie dépensée sur les échecs. La",
+        "spell refund chance is increased by your Evocations skill.": "chance de remboursement est augmentée par votre compétence Évocations.",
+        "(w)ear": "porter (w)", "|wear|put on [": "|porter|mettre [", "- - Unarmed": "- - Mains nues", "Results at your position": "Résultats à votre position",
+        "Results elsewhere": "Résultats ailleurs", "Choose an item to acquire.": "Choisissez un objet à acquérir.", "[offhand occupied]": "[main secondaire occupée]",
+        "[toggle:": "[basculer :", "] equip|": "] équiper|", "] select item for acquirement": "] choisir l’objet à acquérir", "] to cycle)": "] pour parcourir)",
+        "] toggle selected [": "] basculer la sélection [", "acquire": "acquérir", "studying 5 skills": "étude de 5 compétences",
+        "wizardry (x1)": "sorcellerie (x1)",
         "Describe": "Décrire", "] Memorise|": "] Mémoriser|", "] equip|wield|": "] équiper|manier|", "] equip|wield|wear|": "] équiper|manier|porter|",
         "] help [": "] aide [", "] read|": "] lire|", "] search [": "] chercher [", "] select": "] sélectionner", "] toggle selected": "] basculer la sélection",
         "] toggle spell headers": "] basculer les en-têtes de sorts", "] toggle spell headers [": "] basculer les en-têtes de sorts [",
@@ -89,6 +97,45 @@
         const fem = /^(?:la |l’(?:armure|robe|cotte|cuirasse|cape|écharpe|cagoule))/.test(o);
         return `${o.charAt(0).toUpperCase()}${o.slice(1)} est assez intact${fem ? "e" : ""} pour être porté${fem ? "e" : ""}.`; } });
 
+
+
+    // --- Audit du 03/11 : acquisition, objets à accolades, résumé de personnage ---
+    const OBJ = x => { // « the +9 lajatang of Goehean {freeze, rC+} » -> « le lajatang +9 de Goehean {freeze, rC+} »
+        const b = /^(.*?)( \{.*\})?$/.exec(x); let nom = b[1]; const acc = b[2] || "";
+        let r = T1(/^(?:the|an?) /.test(nom) ? nom : "the " + nom);
+        if (!r || r === nom || r === "the " + nom) { const m = /^(?:the )?(.+?) of the ([A-Z][\w-]+)$/.exec(nom); if (!m) return null;
+            let base = T1("the " + m[1]);
+            if (!base || base === "the " + m[1]) { const E = { necromancy: "nécromancie", fire: "feu", ice: "glace", air: "air", earth: "terre", conjuration: "conjuration", alchemy: "alchimie", summoning: "invocation", poison: "poison", death: "mort", cold: "froid", energy: "énergie", wizardry: "sorcellerie" };
+                const st = /^(\w+) staff$/.exec(m[1]); if (st && E[st[1]]) base = `le bâton de ${E[st[1]]}`; else if (m[1] === "ring") base = "l’anneau"; else if (m[1] === "amulet") base = "l’amulette"; else return null; }
+            r = `${base} ${/^[AEIOUY]/.test(m[2]) ? "de l’" : "du "}${m[2]}`; }
+        return r + acc; };
+    R.push({ regex: /^Acquire (.+)\? \(y\/N\)$/, translate: m => { const o = OBJ(m[1]); return o ? `Acquérir ${o} ? (y/N)` : null; } });
+    R.push({ regex: /^([a-z]) - (the .+)$/, translate: m => { const o = OBJ(m[2]); return o ? `${m[1]} - ${o}` : null; } });
+    R.push({ regex: /^(the .+ \{.*\})$/, translate: m => OBJ(m[1]) });
+    R.push({ regex: /^Your damage rating with (.+) is about (\d+) \(Base (\d+) x (\d+)% \(Str\) x (\d+)% \(Skill\) \+ (\d+) \(Ench\)\)\.$/, translate: m => {
+        const o = OBJ(m[1]); return o ? `Votre potentiel de dégâts avec ${o} est d’environ ${m[2]} (Base ${m[3]} x ${m[4]} % (For) x ${m[5]} % (Compétence) + ${m[6]} (Ench.)).` : null; } });
+    R.push({ regex: /^(\d+) matches$/, translate: m => `${m[1]} résultat${+m[1] > 1 ? "s" : ""}` });
+    R.push({ regex: /^Spell refund chance: (\d+)% \(max (\d+)%\)$/, translate: m => `Chance de remboursement des sorts : ${m[1]} % (max ${m[2]} %)` });
+    R.push({ regex: /^Your spell failure would worsen by up to (\d+)% \(press '!' for details\)\.$/, translate: m =>
+        `Votre taux d’échec des sorts augmenterait de ${m[1]} % au maximum (appuyez sur « ! » pour les détails).` });
+    R.push({ regex: /^You are studying (.+)\.$/, translate: m => {
+        const l = m[1].split(/, | and /).map(x => T1(x) || x); const ll = l.length < 2 ? l[0] : l.slice(0, -1).join(", ") + " et " + l[l.length - 1];
+        return `Vous étudiez ${ll}.`; } });
+    const DE = x => /^le /.test(x) ? "du " + x.slice(3) : /^les /.test(x) ? "des " + x.slice(4) : /^la /.test(x) ? "de la " + x.slice(3) : /^l’/.test(x) ? "de l’" + x.slice(2) : "de " + x;
+    R.push({ regex: /^You found it on level (\d+) of (.+)\.$/, translate: m => { const BR = { Dungeon: "du Donjon", Lair: "de l’Antre", "Orcish Mines": "des Mines orques" }; const b = BR[m[2].replace(/^the /, "")]; if (b) return `Vous l’avez trouvé au niveau ${m[1]} ${b}.`;
+        const t = T1(m[2].replace(/^the /, "")); return t && t !== m[2].replace(/^the /, "") ? `Vous l’avez trouvé au niveau ${m[1]} ${DE("le " + t)}.` : null; } });
+    R.push({ regex: /^(.+ \([A-Za-z]{4}\)) Turns: (\d+), Time: ([\d:]+)$/, translate: m => `${m[1]} Tours : ${m[2]}, Durée : ${m[3]}` });
+    R.push({ regex: /^(\d+\/\d+) runes: (.+)$/, translate: m => { const RU = { decaying: "putrescente", serpentine: "serpentine" };
+        return `${m[1]} runes : ${m[2].split(", ").map(r => RU[r] || r).join(", ")}`; } });
+    const MUT = { "mud breath": "souffle de boue", "mud-swimmer": "nageur de boue", amphibious: "amphibie", "unfitting armour": "armure inadaptée", "cold-blooded": "sang froid" };
+    R.push({ regex: /^[a-zA-Z][\w+ -]*(?:, [a-zA-Z][\w+ -]*)+$/, translate: m => {
+        const out = []; let n = 0;
+        for (const e of m.input.split(", ")) { let f = MUT[e];
+            if (!f) { const a = /^AC (\+\d+)$/.exec(e); if (a) f = `CA ${a[1]}`; }
+            if (!f) { const q = /^armoured tail (\d)$/.exec(e); if (q) f = `queue blindée ${q[1]}`; }
+            if (!f) { const t = T1(e); if (t && t !== e) f = t; }
+            if (f) n++; out.push(f || e); }
+        return n >= 3 ? out.join(", ") : null; } });
 
     // --- Menu des compétences : « m - Conjurations 11.0 -- » ---
     const COMP = { Conjurations: "Conjurations", Translocations: "Translocations", Summonings: "Convocations", Hexes: "Maléfices", Necromancy: "Nécromancie" };

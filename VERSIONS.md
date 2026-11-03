@@ -9,6 +9,9 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.12.6 — changement mineur
+- Audit du 03/11 : acquisition (« Acquire … ? »), objets à accolades (« the ring of the Giraffataur {…} »), potentiel de dégâts, étude de compétences, chance de remboursement, résultats de recherche, runes, liste de mutations, résumé « Turns / Time », aides de touches.
+
 ## 0.12.5 — changement mineur
 - Menu des compétences (« a - Fighting 3.5 » → « a - Combat 3.5 ») et exclusions de déplacement (« exclusions: hydra and staircase » → « exclusions : hydre et escalier »).
 
