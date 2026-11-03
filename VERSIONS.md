@@ -12,8 +12,8 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
 ## 0.17 — les répliques des monstres
-- Nouveau dossier `donnees/messages/citations/` : 1 728 répliques de monstres traduites (`monspeak.txt` : menaces, blagues, prières, insultes, répliques de personnages). Combinées aux cadres de la 0.16, la phrase complète est en français (« Le gobelin vous dit : « Vous ferez un beau sacrifice. » »).
-- Traduites en parallèle par six relecteurs automatiques en six lots de ~290 répliques ; à relire et améliorer librement (une réplique = une ligne `"anglais": "français"`).
+- Nouveau dossier `donnees/messages/citations/` : 1733 répliques de monstres traduites une à une à la main (`monspeak.txt` : menaces, blagues, prières, répliques de personnages). Combinées aux cadres de la 0.16, la phrase complète est en français (« Le gobelin vous dit : « Vous ferez un beau sacrifice. » »).
+- Les variantes entre crochets du jeu (`[a|b]`) sont toutes écrites. Une réplique = une ligne `"anglais": "français"`, facile à améliorer.
 
 ## 0.16 — paroles et gestes des monstres
 - Nouveau fichier `monstres_paroles.js` (`dat/database/monspeak.txt`) : tous les cadres de paroles (« Le gobelin dit : « … » », « … à vous : », « … vers l’orc : ») pour une cinquantaine de verbes, plus une centaine de gestes (sourires, regards, yeux qui luisent, etc.). La citation est traduite si elle est connue, sinon elle reste en anglais.
