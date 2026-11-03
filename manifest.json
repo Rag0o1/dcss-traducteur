@@ -34,6 +34,7 @@
         "donnees/messages/variables_h.js",
         "donnees/messages/variables_i.js",
         "donnees/messages/variables_j.js",
+        "donnees/messages/variables_k.js",
         "donnees/messages/divers.js",
         "donnees/interface/commandes_aide.js",
         "donnees/interface/libelles.js",

@@ -55,6 +55,8 @@ globalThis.DCSS_PROJECTILES = Object.assign(globalThis.DCSS_PROJECTILES || {}, {
  "unravelling": ["effilochage", "m"], "volatile concoction": ["mixture volatile", "f"], "volley of spikes": ["volée de pointes", "f"],
  "volley of thorns": ["volée d’épines", "f"], "wave of devouring shadow": ["vague d’ombre dévorante", "f"], "whirling bolas": ["bolas tournoyantes", "p"],
  
+ "gout of fire": ["jet de feu", "m"], "gout of magma": ["jet de magma", "m"], "torrent of electricity": ["torrent d’électricité", "m"],
+ "wail of negative energy": ["plainte d’énergie négative", "f"], "whirl of blades": ["tourbillon de lames", "m"], "arrow": ["flèche", "f"], "dart": ["fléchette", "f"],
  "caustic explosion": ["explosion caustique", "f"], "howling sorrow": ["chagrin hurlant", "m"], "crystal spear": ["lance de cristal", "f"],
  "slug": ["balle de plomb", "f"], "bolt": ["carreau", "m"], "bolt of lightning": ["éclair", "m"], "creeping inferno residue": ["résidu d’enfer rampant", "m"],
  "golden flame": ["flamme dorée", "f"], "flurry of pyrophoric scales": ["rafale d’écailles pyrophoriques", "f"], "blast of putrescent gases": ["souffle de gaz putrescents", "m"],

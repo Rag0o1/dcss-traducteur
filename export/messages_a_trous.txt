@@ -5,7 +5,7 @@ EN: {A} splits.
 FR: {S1} se divise.
 
 EN: Two slime creatures merge to form {A}.
-FR: Deux créatures de gelée fusionnent pour former {o1}.
+FR: Deux créatures de vase fusionnent pour former {o1}.
 
 EN: {A} merges with something you can't see.
 FR: {S1} fusionne avec quelque chose que vous ne voyez pas.
@@ -134,7 +134,7 @@ EN: {A} is now too close for your liking.
 FR: {S1} est maintenant trop proche à votre goût.
 
 EN: {A} comes into view.
-FR: {S1} apparaît dans votre champ de vision.
+FR: {S1} apparaît.
 
 EN: {A} abandons {p} pursuit.
 FR: {S1} abandonne sa poursuite.
@@ -3626,19 +3626,19 @@ EN: {I} fulminant prism crackles loudly.
 FR: Le prisme fulminant {d1} crépite bruyamment.
 
 EN: The {Z} hits {A}.
-FR: {S1} touche{n1} {o2}. ¦ {S1} vous touche{n1}.
+FR: {S1} touche{n1} {o2}.
 
 EN: The {Z} hits {A} but does no damage.
 FR: {S1} touche{n1} {o2} sans lui infliger de dégâts. ¦ {S1} vous touche{n1} sans vous infliger de dégâts.
 
 EN: The {Z} hits {A}!
-FR: {S1} touche{n1} {o2} ! ¦ {S1} vous touche{n1} !
+FR: {S1} touche{n1} {o2} !
 
 EN: The {Z} hits {A} but does no damage!
 FR: {S1} touche{n1} {o2} sans lui infliger de dégâts ! ¦ {S1} vous touche{n1} sans vous infliger de dégâts !
 
 EN: The {Z} misses {A}.
-FR: {S1} rate{n1} {o2}. ¦ {S1} vous rate{n1}.
+FR: {S1} rate{n1} {o2}.
 
 EN: The {Z} misses {A}!
 FR: {S1} rate{n1} {o2} ! ¦ {S1} vous rate{n1} !
@@ -6576,3 +6576,825 @@ FR: Vous avez maintenant {x1} cartes d’évasion et {x2} cartes de destruction.
 
 EN: You now have {X} escape cards, {X} destruction cards and {X} summoning cards.
 FR: Vous avez maintenant {x1} cartes d’évasion, {x2} cartes de destruction et {x3} cartes d’invocation.
+
+EN: {A} is almost dead.
+FR: {S1} est presque mort{e1}.
+
+EN: {A} is heavily wounded.
+FR: {S1} est gravement blessé{e1}.
+
+EN: {A} is severely wounded.
+FR: {S1} est sévèrement blessé{e1}.
+
+EN: {A} is moderately wounded.
+FR: {S1} est modérément blessé{e1}.
+
+EN: {A} is lightly wounded.
+FR: {S1} est légèrement blessé{e1}.
+
+EN: {A} shouts!
+FR: {S1} crie !
+
+EN: {A} is attracted toward you.
+FR: {S1} est attiré{e1} vers vous.
+
+EN: {A} is nearby!
+FR: {S1} est à proximité !
+
+EN: {A} answers the call of your blood!
+FR: {S1} répond à l’appel de votre sang !
+
+EN: {A} assembles itself!
+FR: {S1} s’assemble !
+
+EN: {A} appears in a shower of sparks.
+FR: {S1} apparaît dans une gerbe d’étincelles.
+
+EN: {A} materialises.
+FR: {S1} se matérialise.
+
+EN: {A} beckons forth restless souls!
+FR: {S1} appelle des âmes agitées !
+
+EN: {A} gurgles horribly!
+FR: {S1} gargouille horriblement !
+
+EN: {A} growls angrily.
+FR: {S1} grogne avec colère.
+
+EN: {A} trumpets!
+FR: {S1} barrit !
+
+EN: {A} howls an incantation.
+FR: {S1} hurle une incantation.
+
+EN: {A} stares into your soul.
+FR: {S1} vous fixe jusqu’au fond de l’âme.
+
+EN: {A} shrieks in your mind.
+FR: {S1} hurle dans votre esprit.
+
+EN: {A} stares at you with tortured malice.
+FR: {S1} vous fixe avec une malice tourmentée.
+
+EN: {A} gestures next to you while chanting.
+FR: {S1} fait un geste à côté de vous en psalmodiant.
+
+EN: {A} points next to you and mumbles some strange words.
+FR: {S1} pointe à côté de vous et marmonne d’étranges paroles.
+
+EN: {A} calls down Lugonu's blessing.
+FR: {S1} invoque la bénédiction de Lugonu.
+
+EN: {A} fiercely shimmers while chanting indecipherable hymns.
+FR: {S1} miroite farouchement en psalmodiant d’indéchiffrables hymnes.
+
+EN: {A} invokes a beneficient rending in the name of Lugonu.
+FR: {S1} invoque un déchirement bénéfique au nom de Lugonu.
+
+EN: {A} begins to recite a word of recall!
+FR: {S1} commence à réciter un mot de rappel !
+
+EN: {A} calls freezing cold from the walls.
+FR: {S1} fait surgir un froid glacial des murs.
+
+EN: {A} blows a loud note on a signal horn!
+FR: {S1} sonne une note puissante dans un cor de signal !
+
+EN: {A} roars a perplexing riddle with a strange tongue.
+FR: {S1} rugit une énigme déroutante dans une langue étrange.
+
+EN: {A} glows turbulently.
+FR: {S1} luit de façon turbulente.
+
+EN: {A} pulses with an eldritch light!
+FR: {S1} pulse d’une lumière surnaturelle !
+
+EN: {A} revs up and whimsically whirls.
+FR: {S1} s’emballe et tournoie capricieusement.
+
+EN: {A} launches the last of itself at you with a shrill rumble.
+FR: {S1} se lance tout entier sur vous dans un grondement strident.
+
+EN: {A} blinks away.
+FR: {S1} clignote au loin.
+
+EN: {A} blinks toward you.
+FR: {S1} clignote vers vous.
+
+EN: {A} blinks.
+FR: {S1} clignote.
+
+EN: {A} gestures.
+FR: {S1} fait un geste.
+
+EN: {A} blocks your attack.
+FR: {S1} bloque votre attaque.
+
+EN: {A} becomes momentarily stuck in the liquid earth.
+FR: {S1} se retrouve coincé{e1} un instant dans la terre liquide.
+
+EN: {A} is engulfed in flames!
+FR: {S1} est englouti{e1} par les flammes !
+
+EN: {A} can see invisible.
+FR: {S1} voit l’invisible.
+
+EN: {A} gestures, and weapons take to the air!
+FR: {S1} fait un geste, et des armes s’élèvent dans les airs !
+
+EN: {A} laughs, "Think you're sharper than me?"
+FR: {S1} rit : « Vous croyez être plus affûté que moi ? »
+
+EN: {A} howls, "I'll flense you until there's nothing left!"
+FR: {S1} hurle : « Je vous écorcherai jusqu’à ce qu’il ne reste plus rien ! »
+
+EN: {A} cries, "Feel what I felt!"
+FR: {S1} s’écrie : « Ressentez ce que j’ai ressenti ! »
+
+EN: {A} cries, "Suffer as I suffered!"
+FR: {S1} s’écrie : « Souffrez comme j’ai souffert ! »
+
+EN: {A} shouts, "You must be punished!"
+FR: {S1} crie : « Vous devez être puni ! »
+
+EN: {A} says, "I shall send you to the shadows!"
+FR: {S1} dit : « Je vous enverrai dans les ombres ! »
+
+EN: The {Z} is repelled.
+FR: {S1} est repoussé{e1}.
+
+EN: You block the {Z}.
+FR: Vous bloquez {o1}.
+
+EN: {A} repels the {Z}!
+FR: {S1} repousse {o2} !
+
+EN: {A} is knocked back by the {Z}.
+FR: {S1} est repoussé{e1} par {o2}.
+
+EN: You are knocked back by the {Z}.
+FR: Vous êtes repoussé par {o1}.
+
+EN: A blast of power from the earth and {A} strikes you!
+FR: Un souffle de puissance venu de la terre et {o1} vous frappent !
+
+EN: {A} is wielding {X}.
+FR: {S1} manie {x2}.
+
+EN: {A} is carrying {X}.
+FR: {S1} porte {x2}.
+
+EN: {A} is wearing {X}.
+FR: {S1} porte {x2}.
+
+EN: {A} wields {X}.
+FR: {S1} prend {x2} en main.
+
+EN: {A} unwields {X}.
+FR: {S1} range {x2}.
+
+EN: {A} hits {A} with {X}!
+FR: {S1} frappe {o2} avec {x3} !
+
+EN: {A} hits {A} with {X}.
+FR: {S1} frappe {o2} avec {x3}.
+
+EN: {I} hands start to glow.
+FR: Les mains {d1} se mettent à briller.
+
+EN: A cold fog rises from {A}.
+FR: Un brouillard froid s’élève {d1}.
+
+EN: A wild whirl of fire shoots out from {A} at you.
+FR: Un tourbillon de feu sauvage jaillit {d1} vers vous.
+
+EN: {A} dies!
+FR: {S1} meurt !
+
+EN: Water drips from {I} barrel.
+FR: De l’eau goutte du canon {d1}.
+
+EN: You hit {A}.
+FR: Vous touchez {o1}.
+
+EN: You hit {A} but do no damage.
+FR: Vous touchez {o1} sans lui infliger de dégâts.
+
+EN: You hit {A}!
+FR: Vous touchez {o1} !
+
+EN: You hit {A} but do no damage!
+FR: Vous touchez {o1} sans lui infliger de dégâts !
+
+EN: You slash {A}.
+FR: Vous tailladez {o1}.
+
+EN: You slash {A} but do no damage.
+FR: Vous tailladez {o1} sans lui infliger de dégâts.
+
+EN: You slash {A}!
+FR: Vous tailladez {o1} !
+
+EN: You slash {A} but do no damage!
+FR: Vous tailladez {o1} sans lui infliger de dégâts !
+
+EN: You slice {A}.
+FR: Vous tranchez {o1}.
+
+EN: You slice {A} but do no damage.
+FR: Vous tranchez {o1} sans lui infliger de dégâts.
+
+EN: You slice {A}!
+FR: Vous tranchez {o1} !
+
+EN: You slice {A} but do no damage!
+FR: Vous tranchez {o1} sans lui infliger de dégâts !
+
+EN: You stab {A}.
+FR: Vous poignardez {o1}.
+
+EN: You stab {A} but do no damage.
+FR: Vous poignardez {o1} sans lui infliger de dégâts.
+
+EN: You stab {A}!
+FR: Vous poignardez {o1} !
+
+EN: You stab {A} but do no damage!
+FR: Vous poignardez {o1} sans lui infliger de dégâts !
+
+EN: You pierce {A}.
+FR: Vous transpercez {o1}.
+
+EN: You pierce {A} but do no damage.
+FR: Vous transpercez {o1} sans lui infliger de dégâts.
+
+EN: You pierce {A}!
+FR: Vous transpercez {o1} !
+
+EN: You pierce {A} but do no damage!
+FR: Vous transpercez {o1} sans lui infliger de dégâts !
+
+EN: You shred {A}.
+FR: Vous déchiquetez {o1}.
+
+EN: You shred {A} but do no damage.
+FR: Vous déchiquetez {o1} sans lui infliger de dégâts.
+
+EN: You shred {A}!
+FR: Vous déchiquetez {o1} !
+
+EN: You shred {A} but do no damage!
+FR: Vous déchiquetez {o1} sans lui infliger de dégâts !
+
+EN: You bash {A}.
+FR: Vous frappez {o1}.
+
+EN: You bash {A} but do no damage.
+FR: Vous frappez {o1} sans lui infliger de dégâts.
+
+EN: You bash {A}!
+FR: Vous frappez {o1} !
+
+EN: You bash {A} but do no damage!
+FR: Vous frappez {o1} sans lui infliger de dégâts !
+
+EN: You whack {A}.
+FR: Vous frappez {o1}.
+
+EN: You whack {A} but do no damage.
+FR: Vous frappez {o1} sans lui infliger de dégâts.
+
+EN: You whack {A}!
+FR: Vous frappez {o1} !
+
+EN: You whack {A} but do no damage!
+FR: Vous frappez {o1} sans lui infliger de dégâts !
+
+EN: You bludgeon {A}.
+FR: Vous matraquez {o1}.
+
+EN: You bludgeon {A} but do no damage.
+FR: Vous matraquez {o1} sans lui infliger de dégâts.
+
+EN: You bludgeon {A}!
+FR: Vous matraquez {o1} !
+
+EN: You bludgeon {A} but do no damage!
+FR: Vous matraquez {o1} sans lui infliger de dégâts !
+
+EN: You crush {A}.
+FR: Vous écrasez {o1}.
+
+EN: You crush {A} but do no damage.
+FR: Vous écrasez {o1} sans lui infliger de dégâts.
+
+EN: You crush {A}!
+FR: Vous écrasez {o1} !
+
+EN: You crush {A} but do no damage!
+FR: Vous écrasez {o1} sans lui infliger de dégâts !
+
+EN: You pummel {A}.
+FR: Vous martelez {o1}.
+
+EN: You pummel {A} but do no damage.
+FR: Vous martelez {o1} sans lui infliger de dégâts.
+
+EN: You pummel {A}!
+FR: Vous martelez {o1} !
+
+EN: You pummel {A} but do no damage!
+FR: Vous martelez {o1} sans lui infliger de dégâts !
+
+EN: You punch {A}.
+FR: Vous frappez {o1}.
+
+EN: You punch {A} but do no damage.
+FR: Vous frappez {o1} sans lui infliger de dégâts.
+
+EN: You punch {A}!
+FR: Vous frappez {o1} !
+
+EN: You punch {A} but do no damage!
+FR: Vous frappez {o1} sans lui infliger de dégâts !
+
+EN: You nick {A}.
+FR: Vous entaillez {o1}.
+
+EN: You nick {A} but do no damage.
+FR: Vous entaillez {o1} sans lui infliger de dégâts.
+
+EN: You nick {A}!
+FR: Vous entaillez {o1} !
+
+EN: You nick {A} but do no damage!
+FR: Vous entaillez {o1} sans lui infliger de dégâts !
+
+EN: You impale {A}.
+FR: Vous empalez {o1}.
+
+EN: You impale {A} but do no damage.
+FR: Vous empalez {o1} sans lui infliger de dégâts.
+
+EN: You impale {A}!
+FR: Vous empalez {o1} !
+
+EN: You impale {A} but do no damage!
+FR: Vous empalez {o1} sans lui infliger de dégâts !
+
+EN: You maul {A}.
+FR: Vous lacérez {o1}.
+
+EN: You maul {A} but do no damage.
+FR: Vous lacérez {o1} sans lui infliger de dégâts.
+
+EN: You maul {A}!
+FR: Vous lacérez {o1} !
+
+EN: You maul {A} but do no damage!
+FR: Vous lacérez {o1} sans lui infliger de dégâts !
+
+EN: You claw {A}.
+FR: Vous griffez {o1}.
+
+EN: You claw {A} but do no damage.
+FR: Vous griffez {o1} sans lui infliger de dégâts.
+
+EN: You claw {A}!
+FR: Vous griffez {o1} !
+
+EN: You claw {A} but do no damage!
+FR: Vous griffez {o1} sans lui infliger de dégâts !
+
+EN: You bite {A}.
+FR: Vous mordez {o1}.
+
+EN: You bite {A} but do no damage.
+FR: Vous mordez {o1} sans lui infliger de dégâts.
+
+EN: You bite {A}!
+FR: Vous mordez {o1} !
+
+EN: You bite {A} but do no damage!
+FR: Vous mordez {o1} sans lui infliger de dégâts !
+
+EN: You tail-slap {A}.
+FR: Vous frappez de votre queue {o1}.
+
+EN: You tail-slap {A} but do no damage.
+FR: Vous frappez de votre queue {o1} sans lui infliger de dégâts.
+
+EN: You tail-slap {A}!
+FR: Vous frappez de votre queue {o1} !
+
+EN: You tail-slap {A} but do no damage!
+FR: Vous frappez de votre queue {o1} sans lui infliger de dégâts !
+
+EN: You kick {A}.
+FR: Vous donnez un coup de pied à {o1}.
+
+EN: You kick {A} but do no damage.
+FR: Vous donnez un coup de pied à {o1} sans lui infliger de dégâts.
+
+EN: You kick {A}!
+FR: Vous donnez un coup de pied à {o1} !
+
+EN: You kick {A} but do no damage!
+FR: Vous donnez un coup de pied à {o1} sans lui infliger de dégâts !
+
+EN: You butt {A}.
+FR: Vous donnez un coup de tête à {o1}.
+
+EN: You butt {A} but do no damage.
+FR: Vous donnez un coup de tête à {o1} sans lui infliger de dégâts.
+
+EN: You butt {A}!
+FR: Vous donnez un coup de tête à {o1} !
+
+EN: You butt {A} but do no damage!
+FR: Vous donnez un coup de tête à {o1} sans lui infliger de dégâts !
+
+EN: You slice {A} like a ripe choko.
+FR: Vous tranchez {o1} comme un choko mûr.
+
+EN: You kill {A}.
+FR: Vous tuez {o1}.
+
+EN: You destroy {A}.
+FR: Vous détruisez {o1}.
+
+EN: You barely miss {A}.
+FR: Vous manquez {o1} de peu.
+
+EN: You closely miss {A}.
+FR: Vous ratez {o1} de justesse.
+
+EN: You completely miss {A}.
+FR: Vous manquez complètement {o1}.
+
+EN: You miss {A}.
+FR: Vous manquez {o1}.
+
+EN: You rampage towards {A}.
+FR: Vous foncez sur {o1}.
+
+EN: You slice {A} like a ripe choko!
+FR: Vous tranchez {o1} comme un choko mûr !
+
+EN: You kill {A}!
+FR: Vous tuez {o1} !
+
+EN: You destroy {A}!
+FR: Vous détruisez {o1} !
+
+EN: You barely miss {A}!
+FR: Vous manquez {o1} de peu !
+
+EN: You closely miss {A}!
+FR: Vous ratez {o1} de justesse !
+
+EN: You completely miss {A}!
+FR: Vous manquez complètement {o1} !
+
+EN: You miss {A}!
+FR: Vous manquez {o1} !
+
+EN: You rampage towards {A}!
+FR: Vous foncez sur {o1} !
+
+EN: You block {I} attack.
+FR: Vous bloquez l’attaque {d1}.
+
+EN: Your tail-slap misses {A}.
+FR: Votre coup de queue rate {o1}.
+
+EN: Your whirl of blades misses {A}.
+FR: Votre tourbillon de lames rate {o1}.
+
+EN: Your whirl of blades hits {A}.
+FR: Votre tourbillon de lames touche {o1}.
+
+EN: Your whirl of blades hits {A}!
+FR: Votre tourbillon de lames touche {o1} !
+
+EN: "Another! And another! And another!"
+FR: « Un autre ! Et un autre ! Et encore un autre ! »
+
+EN: "Everything deserves to die!"
+FR: « Tout mérite de mourir ! »
+
+EN: "Kill. Kill. Kill!"
+FR: « Tue. Tue. Tue ! »
+
+EN: "More. More. More!"
+FR: « Encore. Encore. Encore ! »
+
+EN: "Slaughter. Them. All!"
+FR: « Massacre. Les. Tous ! »
+
+EN: A chorus of shrieks assaults your mind.
+FR: Un chœur de cris assaille votre esprit.
+
+EN: A deafening chorus of shrieks assaults your mind!
+FR: Un chœur assourdissant de cris assaille votre esprit !
+
+EN: A whirlwind of blades manifests around you!
+FR: Un tourbillon de lames se manifeste autour de vous !
+
+EN: A malevolent force fills the Vaults...
+FR: Une force maléfique emplit les Chambres Fortes…
+
+EN: As you read the scroll of fog, it dissolves into smoke.
+FR: Alors que vous lisez le parchemin de brouillard, il se dissout en fumée.
+
+EN: Can't find anything matching that.
+FR: Rien ne correspond à cela.
+
+EN: Could not explore, unopened runed door.
+FR: Exploration impossible : porte runique fermée.
+
+EN: Partly explored, can't reach some places.
+FR: Exploration partielle : certains endroits sont inaccessibles.
+
+EN: Press: ? - help, v - describe, . - travel, g - get item
+FR: Appuyez sur : ? - aide, v - décrire, . - aller, g - ramasser
+
+EN: Put on or remove which piece of jewellery?
+FR: Mettre ou retirer quel bijou ?
+
+EN: Wear or take off which item?
+FR: Mettre ou retirer quel objet ?
+
+EN: Really walk into that cloud of flame?
+FR: Vraiment marcher dans ce nuage de flammes ?
+
+EN: Search for what [? for help]?
+FR: Chercher quoi [? pour l’aide] ?
+
+EN: That would be pointless.
+FR: Ce serait inutile.
+
+EN: Something unseen opens the door.
+FR: Quelque chose d’invisible ouvre la porte.
+
+EN: Something unseen opens the large door.
+FR: Quelque chose d’invisible ouvre la grande porte.
+
+EN: To do this, you must remove one of the following items:
+FR: Pour cela, vous devez retirer l’un des objets suivants :
+
+EN: Terrible wounds open up all over your body!
+FR: De terribles blessures s’ouvrent sur tout votre corps !
+
+EN: Terrible wounds spread across more of your body!
+FR: De terribles blessures s’étendent sur une plus grande partie de votre corps !
+
+EN: The terrible wounds on your body vanish.
+FR: Les terribles blessures de votre corps disparaissent.
+
+EN: Welcome back to the Elven Halls!
+FR: Bon retour dans les Halls Elfiques !
+
+EN: Welcome back to the Orcish Mines!
+FR: Bon retour dans les Mines orques !
+
+EN: Welcome back to the Vaults!
+FR: Bon retour dans les Chambres Fortes !
+
+EN: Welcome to the Vaults!
+FR: Bienvenue dans les Chambres Fortes !
+
+EN: You are cast into the Abyss!
+FR: Vous êtes projeté dans l’Abîme !
+
+EN: You are encased in ice.
+FR: Vous êtes pris dans la glace.
+
+EN: The ice encasing you melts away.
+FR: La glace qui vous enserre fond.
+
+EN: The frost grips you.
+FR: Le givre vous saisit.
+
+EN: You are engulfed in blazing flames.
+FR: Vous êtes englouti par des flammes ardentes.
+
+EN: You are engulfed in flames!
+FR: Vous êtes englouti par les flammes !
+
+EN: You are no longer corroded.
+FR: Vous n’êtes plus corrodé.
+
+EN: You are unimpeded by mud.
+FR: La boue ne vous gêne pas.
+
+EN: You can act again.
+FR: Vous pouvez de nouveau agir.
+
+EN: You can breathe torrents of mud.
+FR: Vous pouvez cracher des torrents de boue.
+
+EN: You spew a torrent of mud.
+FR: Vous crachez un torrent de boue.
+
+EN: You die...
+FR: Vous mourez…
+
+EN: You resist.
+FR: Vous résistez.
+
+EN: You hold your ground!
+FR: Vous tenez bon !
+
+EN: You enter an ornate necropolis!
+FR: Vous entrez dans une Nécropole ornée !
+
+EN: You fade into invisibility!
+FR: Vous vous fondez dans l’invisibilité !
+
+EN: You flicker back into view.
+FR: Vous réapparaissez.
+
+EN: You flicker for a moment.
+FR: Vous vacillez un instant.
+
+EN: You feel a little less murderous for the moment.
+FR: Vous vous sentez un peu moins meurtrier pour l’instant.
+
+EN: You feel power welling in your lungs.
+FR: Vous sentez la puissance monter dans vos poumons.
+
+EN: You feel the corruption within you wane completely.
+FR: Vous sentez la corruption en vous disparaître complètement.
+
+EN: You feel the corruption within you wane somewhat.
+FR: Vous sentez la corruption en vous s’affaiblir quelque peu.
+
+EN: You feel your attacks grow feeble.
+FR: Vous sentez vos attaques s’affaiblir.
+
+EN: Your attacks no longer feel as feeble.
+FR: Vos attaques ne vous semblent plus aussi faibles.
+
+EN: You feel your health improve.
+FR: Vous sentez votre santé s’améliorer.
+
+EN: You go down through the gate.
+FR: Vous descendez par le portail.
+
+EN: You open the gate.
+FR: Vous ouvrez le portail.
+
+EN: You open the huge gate.
+FR: Vous ouvrez l’immense portail.
+
+EN: You hear a bark!
+FR: Vous entendez un aboiement !
+
+EN: You hear a horrible gurgling sound!
+FR: Vous entendez un horrible gargouillis !
+
+EN: You hear a roar!
+FR: Vous entendez un rugissement !
+
+EN: You hear a sizzling sound!
+FR: Vous entendez un grésillement !
+
+EN: You hear a trumpeting!
+FR: Vous entendez un barrissement !
+
+EN: You hear the lone wailing of a funeral chant nearby.
+FR: Vous entendez la lamentation solitaire d’un chant funèbre à proximité.
+
+EN: You hear the lone wailing of a funeral chant very nearby.
+FR: Vous entendez la lamentation solitaire d’un chant funèbre tout près.
+
+EN: You hear the solemn chanting of funerary rites.
+FR: Vous entendez le chant solennel de rites funéraires.
+
+EN: You reach down and sample some spriggan biscuits. Delicious.
+FR: Vous vous penchez et goûtez des biscuits de spriggan. Délicieux.
+
+EN: You start removing your armour.
+FR: Vous commencez à retirer votre armure.
+
+EN: Your extra speed is starting to run out.
+FR: Votre vitesse supplémentaire commence à s’épuiser.
+
+EN: Your magical effects are unravelling.
+FR: Vos effets magiques se défont.
+
+EN: Hepliaklqana delivers you to your ancestors.
+FR: Hepliaklqana vous conduit auprès de vos ancêtres.
+
+EN: It has mastered the following spells, which are affected by silence and antimagic:
+FR: Il maîtrise les sorts suivants, affectés par le silence et l’antimagie :
+
+EN: It can see invisible.
+FR: Il voit l’invisible.
+
+EN: [Your body sometimes grows weak upon taking damage.]
+FR: [Votre corps s’affaiblit parfois lorsque vous subissez des dégâts.]
+
+EN: [Your health recovers twice as slowly from being drained.]
+FR: [Votre santé récupère deux fois plus lentement lorsque vous êtes drainé.]
+
+EN: [Y]es or [N]o only, please.
+FR: [O]ui ou [N]on seulement, s’il vous plaît.
+
+EN: No status effects
+FR: Aucun effet de statut
+
+EN: no status effects
+FR: aucun effet de statut
+
+EN: There is an entrance to the Necropolis on this level. Hurry and find it before the portal closes!
+FR: Il y a une entrée vers la Nécropole sur ce niveau. Dépêchez-vous de la trouver avant que le portail ne se ferme !
+
+EN: There is an entrance to the Necropolis on this level. Hurry and find it before
+FR: Il y a une entrée vers la Nécropole sur ce niveau. Dépêchez-vous de la trouver avant que
+
+EN: the portal closes!
+FR: le portail ne se ferme !
+
+EN: The shards fragment into shrapnel!
+FR: Les éclats se fragmentent en shrapnel !
+
+EN: The sphere of damnation explodes!
+FR: La sphère de damnation explose !
+
+EN: The arrow is repelled.
+FR: La flèche est repoussée.
+
+EN: The dart is repelled.
+FR: La fléchette est repoussée.
+
+EN: The bolt is repelled.
+FR: Le carreau est repoussé.
+
+EN: You block the bolt.
+FR: Vous bloquez le carreau.
+
+EN: Letters toggle
+FR: Lettres (basculer)
+
+EN: Dormant:
+FR: Dormant :
+
+EN: Transient mutations.
+FR: Mutations transitoires.
+
+EN: : Transient mutations.
+FR: : Mutations transitoires.
+
+EN: Was an Initiate of Hepliaklqana.
+FR: Était un Initié d’Hepliaklqana.
+
+EN: Slain by an orc
+FR: Tué par un orc
+
+EN: Best Crawlers -
+FR: Meilleurs explorateurs -
+
+EN: examine
+FR: examiner
+
+EN: put on
+FR: mettre
+
+EN: T - Temple
+FR: T - Temple
+
+EN: Hit
+FR: Coup
+
+EN: {A} is wielding {X} and wearing {X}.
+FR: {S1} manie {x2} et porte {x3}.
+
+EN: {A} is wielding {X}, wearing {X} and carrying {X}.
+FR: {S1} manie {x2}, porte {x3} et transporte {x4}.
+
+EN: {A} is carrying {X}, wearing {X}.
+FR: {S1} transporte {x2} et porte {x3}.
+
+EN: {A} assumes the form of {A} and becomes anchored to this world!
+FR: {S1} prend la forme {d2} et s’ancre dans ce monde !
+
+EN: {A} assumes the form of {A}.
+FR: {S1} prend la forme {d2}.
+
+EN: The floor, spattered with blood.
+FR: Le sol, maculé de sang.
+
+EN: almost destroyed
+FR: presque détruit
+
+EN: heavily damaged
+FR: gravement endommagé
+
+EN: moderately damaged
+FR: modérément endommagé
+
+EN: lightly damaged
+FR: légèrement endommagé

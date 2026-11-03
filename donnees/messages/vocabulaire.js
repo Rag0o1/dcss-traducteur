@@ -62,6 +62,7 @@
         "ice fiend": { name: "démon de glace", gender: "m", article: "le " },
         "brimstone fiend": { name: "démon de soufre", gender: "m", article: "le " },
         "executioner": { name: "bourreau", gender: "m", article: "le " },
+        "Executioner": { name: "bourreau", gender: "m", article: "le " },
         "hell sentinel": { name: "sentinelle de l’Enfer", gender: "f", article: "la " },
         "tzitzimitl": { name: "tzitzimitl", gender: "m", article: "le " },
         "herald of the abyss": { name: "héraut de l’Abysse", gender: "m", article: "le " },

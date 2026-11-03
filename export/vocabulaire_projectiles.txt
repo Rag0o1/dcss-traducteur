@@ -448,6 +448,27 @@ FR: vague d’ombre dévorante
 EN: whirling bolas
 FR: bolas tournoyantes
 
+EN: gout of fire
+FR: jet de feu
+
+EN: gout of magma
+FR: jet de magma
+
+EN: torrent of electricity
+FR: torrent d’électricité
+
+EN: wail of negative energy
+FR: plainte d’énergie négative
+
+EN: whirl of blades
+FR: tourbillon de lames
+
+EN: arrow
+FR: flèche
+
+EN: dart
+FR: fléchette
+
 EN: caustic explosion
 FR: explosion caustique
 

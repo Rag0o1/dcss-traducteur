@@ -160,6 +160,9 @@ FR: démon de soufre
 EN: executioner
 FR: bourreau
 
+EN: Executioner
+FR: bourreau
+
 EN: hell sentinel
 FR: sentinelle de l’Enfer
 

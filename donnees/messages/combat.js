@@ -389,7 +389,8 @@
         "Wiglaf": ["Wiglaf", "m"],
         "Xak'krixis": ["Xak'krixis", "m"],
         "Xtahua": ["Xtahua", "m"],
-        "Zenata": ["Zenata", "m"]
+        "Zenata": ["Zenata", "m"],
+        "Louise": ["Louise", "f"]
     };
     const ACCORD = [" \"", " x"];
 
@@ -405,10 +406,16 @@
     const COUL_DRAC = { black: "noir", yellow: "jaune", white: "blanc", green: "vert", purple: "violet", red: "rouge", grey: "gris", pale: "pâle", mottled: "tacheté" };
     const COUL_LAID = { red: "rouge", brown: "marron", green: "verte", cyan: "cyan", purple: "violette", white: "blanche" };
     const TIERS = { larval: "larvaire", juvenile: "juvénile", mature: "adulte", elder: "ancienne", primal: "primordiale" };
+    // Armes dansantes (0.35) : « dancing +2 flail of holy wrath » -> « arme dansante (fléau de courroux sacré +2) »
+    const ADJ_ARME = "hand|heavy|antimagic|devious|quick|great|giant|long|short|broad|war|double|triple|dire|demon|sacred|eudemon";
+    const ARMES_DANS = "dagger|blade|sword|rapier|falchion|scimitar|club|whip|mace|flail|morningstar|eveningstar|scourge|axe|battleaxe|spear|trident|halberd|scythe|glaive|bardiche|lajatang|partisan|pike|sling|bow|longbow|shortbow|crossbow|arbalest|trishula|lance|staff|quarterstaff|knife|katana|tulwar|hammer|sabre|cutlass|shield";
+    const TAILLES_SLIME = { "very large": "très grande", large: "grande", enormous: "énorme", titanic: "titanesque" };
     const FABRIQUES = "(?:" + Object.keys(COUL_DRAC).join("|") + ") draconian (?:" + Object.keys(CLASSES_DRAC).join("|") + ")"
         + "|(?:" + NB + ")-headed (?:lernaean hydra|slymdra|hydra)"
         + "|(?:" + Object.keys(COUL_LAID).join("|") + ") (?:very )?ugly thing"
-        + "|(?:" + Object.keys(TIERS).join("|") + ") (?:(?:sting|bat|fire|weird|shock|ox)+ )?beast";
+        + "|(?:" + Object.keys(TIERS).join("|") + ") (?:(?:sting|bat|fire|weird|shock|ox)+ )?beast"
+        + "|dancing [+-]\\d+ (?:(?:" + ADJ_ARME + ") )*(?:" + ARMES_DANS + ")(?: of (?:holy wrath|[a-z]+))?"
+        + "|(?:very large|large|enormous|titanic) slime creature";
     const fabrique = nom => {
         let m;
         if ((m = /^(\w+) draconian (\w+)$/.exec(nom))) return { name: CLASSES_DRAC[m[2]] + " draconien " + COUL_DRAC[m[1]], gender: "m", article: /^[aeiouy]/i.test(CLASSES_DRAC[m[2]]) ? "l’" : "le " };
@@ -419,9 +426,17 @@
         }
         if ((m = /^(\w+) (very )?ugly thing$/.exec(nom))) return { name: "chose " + (m[2] ? "très laide" : "laide") + " " + COUL_LAID[m[1]], gender: "f", article: "la " };
         if ((m = /^(\w+) ((?:sting|bat|fire|weird|shock|ox)+ )?beast$/.exec(nom))) return { name: "bête " + (m[2] ? m[2].trim() + " " : "mutante ") + TIERS[m[1]], gender: "f", article: "la " };
+        if ((m = /^dancing ([+-]\d+) (.+)$/.exec(nom))) {
+            const T1 = globalThis.DCSS_TRADUIRE_CHAINE;
+            let arme = T1 ? T1("the " + m[1] + " " + m[2]) : null;
+            if (!arme || /^the /.test(arme)) arme = m[1] + " " + m[2];
+            arme = arme.replace(/^(?:le |la |l’|un |une )/, "");
+            return { name: "arme dansante (" + arme + ")", gender: "f", article: "l’" };
+        }
+        if ((m = /^(very large|large|enormous|titanic) slime creature$/.exec(nom))) return { name: TAILLES_SLIME[m[1]] + " créature de vase", gender: "f", article: "la " };
         return null;
     };
-    const reActeur = new RegExp("\\b(?:(?<det>The|the|An?|an?|Your|your|a nearby|the nearby) (?<imp>helpless |wavering )?(?<pre>spectral |bound )?(?<nom>" + FABRIQUES + "|" + alternance + ")(?<suf> simulacrum| zombie| skeleton| draugr)?(?![\\w-])|(?<fant>[A-Za-z0-9][\\w.-]*)'s ghost(?![\\w-])|(?<uniq>" + alternanceUniq + ")(?![\\w-]))", "g");
+    const reActeur = new RegExp("\\b(?:(?<det>The|the|An?|an?|Your|your|a nearby|the nearby) (?<imp>helpless |wavering )?(?<pre>spectral |bound |ghostly )?(?<nom>" + FABRIQUES + "|" + alternance + ")(?<suf> simulacrum| zombie| skeleton| draugr)?(?![\\w-])|(?<fant>[A-Za-z0-9][\\w.-]*)'s ghost(?![\\w-])|(?<uniq>" + alternanceUniq + ")(?![\\w-]))", "g");
 
     const entite = nom => {
         if (monsters[nom]) return monsters[nom];
@@ -444,7 +459,7 @@
             nom = t + " " + (voy ? "d’" : "de ") + nom;
             genre = "m"; article = "le ";
         }
-        if (acteur.prefixe) nom += acteur.prefixe === "spectral" ? (genre === "f" ? " spectrale" : " spectral") : (genre === "f" ? " liée" : " lié");
+        if (acteur.prefixe) nom += acteur.prefixe === "spectral" ? (genre === "f" ? " spectrale" : " spectral") : acteur.prefixe === "ghostly" ? (genre === "f" ? " fantomatique" : " fantomatique") : (genre === "f" ? " liée" : " lié");
         if (acteur.impuissant) nom += acteur.impuissant === "wavering" ? (genre === "f" ? " vacillante" : " vacillant") : " sans défense";
         const possessif = acteur.det === "your";
         const indefini = acteur.det === "a";
