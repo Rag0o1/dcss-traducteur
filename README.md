@@ -7,7 +7,7 @@ Version actuelle : **0.17**
 ## Les guides sont dans le wiki
 - [Installation](https://github.com/Rag0o1/dcss-traducteur/wiki/Installation) (chaque navigateur)
 - [Fonctionnement et corrections](https://github.com/Rag0o1/dcss-traducteur/wiki/Fonctionnement-et-corrections)
-- [Outils et mise à jour](https://github.com/Rag0o1/dcss-traducteur/wiki/Outils-et-mise-à-jour) (nouvelle version du jeu, autre langue)
+- [Outils et nouvelles versions](https://github.com/Rag0o1/dcss-traducteur/wiki/Outils-et-nouvelles-versions) (nouvelle version du jeu, autre langue)
 - [Participer](https://github.com/Rag0o1/dcss-traducteur/wiki/Participer) (sans coder)
 - [Historique des versions](VERSIONS.md)
 - [English: about this project](https://github.com/Rag0o1/dcss-traducteur/wiki/English)
