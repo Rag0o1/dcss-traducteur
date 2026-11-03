@@ -11,6 +11,10 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.17.1 — mineure
+- « Vous rencontrez le Maggie » : les monstres uniques (Maggie, Sigmund, Grum…) n'ont plus d'article, et « You encounter a goblin » donne « un gobelin » (et non « le gobelin »).
+- Cadavres et squelettes de monstres uniques : « Vous voyez ici le cadavre de Maggie. »
+
 ## 0.17 — les répliques des monstres
 - Nouveau dossier `donnees/messages/citations/` : 1733 répliques de monstres traduites une à une à la main (`monspeak.txt` : menaces, blagues, prières, répliques de personnages). Combinées aux cadres de la 0.16, la phrase complète est en français (« Le gobelin vous dit : « Vous ferez un beau sacrifice. » »).
 - Les variantes entre crochets du jeu (`[a|b]`) sont toutes écrites. Une réplique = une ligne `"anglais": "français"`, facile à améliorer.

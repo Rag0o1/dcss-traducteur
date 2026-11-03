@@ -183,6 +183,9 @@
         const s = src.trim();
         let m;
 
+        if ((m = s.match(/^([A-Z][\w-]*)['’]s (corpse|skeleton)$/))) { // monstre unique : « Maggie's corpse »
+            return { fr: `${m[2] === "corpse" ? "cadavre" : "squelette"} de ${m[1]}`, genre: "m" };
+        }
         if ((m = s.match(/^(.+?) (corpse|skeleton)$/i))) {
             const mob = monstre(m[1]);
             const nom = m[2].toLowerCase() === "corpse" ? "cadavre" : "squelette";
@@ -472,6 +475,9 @@
         R(/^You now have (\d+) gold pieces(?: \(gained (\d+)\))?\.$/i, m => `Vous avez maintenant ${m[1]} pièces d’or${m[2] ? ` (gagné ${m[2]})` : ""}.`),
         R(/^You pick up a parchment of (.+) and begin reading\.\.\.$/i, m => `Vous ramassez un parchemin ${deNom(spells[m[1]] || m[1])} et commencez à le lire…`),
         R(/^You pick up (.+?)\.?$/i, m => avecObjet(m[1], o => `Vous ramassez ${o.replace(/[.]$/, "")}.`)),
+        // Cadavre d'un monstre unique : « Maggie's corpse » (un nom propre, donc « le cadavre de Maggie »)
+        R(/^You see here ([A-Z][\w-]*)['’]s (corpse|skeleton)\.$/, m => `Vous voyez ici le ${m[2] === "corpse" ? "cadavre" : "squelette"} de ${m[1]}.`),
+        R(/^([A-Z][\w-]*)['’]s (corpse|skeleton)$/, m => `le ${m[2] === "corpse" ? "cadavre" : "squelette"} de ${m[1]}`),
         R(/^You see here (.+?)\.?$/i, m => avecObjet(m[1], o => `Vous voyez ici ${o.replace(/[.]$/, "")}.`)),
         R(/^There is (.+) here\.$/i, m => avecObjet(m[1], o => `Il y a ${o} ici.`)),
 
@@ -486,7 +492,10 @@
         // Monstres en vue
         R(/^A[n]? (.+) is nearby!$/i, m => { const mob = monstre(m[1]); return `${mob.gender === "f" ? "Une" : "Un"} ${mob.name} est à proximité !`; }),
         R(/^A[n]? (.+) comes into view\.$/i, m => { const mob = monstre(m[1]); return `${mob.gender === "f" ? "Une" : "Un"} ${mob.name} apparaît.`; }),
-        R(/^You encounter (?:an? )?(.+?)(?:\.)?$/i, m => `Vous rencontrez ${objetDirect(m[1].replace(/\.\s*It is wielding .+$/i, ""))}.`),
+        R(/^You encounter (?:an? )?(.+?)(?:\.)?$/i, m => { // les monstres (et les uniques comme Maggie, sans article) sont traités par audit_0_35.js
+            const C = globalThis.DCSS_COMBAT, tete = m[1].split(/, | and /)[0];
+            if (/^[A-Z]/.test(m[1]) || (C && C.acteurTexte && C.acteurTexte("a " + tete.replace(/^\d+ /, "")))) return null;
+            return `Vous rencontrez ${objetDirect(m[1].replace(/\.\s*It is wielding .+$/i, ""))}.`; }),
 
         // Attaques des monstres
         R(/^The (.+?) barely misses you([.!])?$/i, m => `${sujetMonstre(m[1])} vous manque de peu${ponct(m[2])}`),
