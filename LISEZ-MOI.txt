@@ -1,7 +1,7 @@
 DCSS TRADUCTEUR (version 0.10)
 ==============================
 
-Extension Firefox qui traduit DCSS Web en français. Elle ne modifie pas le jeu :
+Extension Navigateur qui traduit DCSS Web en français. Elle ne modifie pas le jeu :
 elle remplace seulement les textes affichés. Aucune clé API, aucun service externe.
 
 NOMS DES SORTS (nouveau en 0.10)
