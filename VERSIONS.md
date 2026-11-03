@@ -11,6 +11,11 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.17.2 — mineure
+
+- Lutins du sort « Jinxbite », accord des amulettes, explosions, essences d’âmes, bienvenue et construction des branches, « trouvé au niveau… ».
+- Descriptions d’armes et d’objets (dont « Of guile »), états des monstres dans l’examen, aides de touches et menus.
+
 ## 0.17.1 — mineure
 - « Vous rencontrez le Maggie » : les monstres uniques (Maggie, Sigmund, Grum…) n'ont plus d'article, et « You encounter a goblin » donne « un gobelin » (et non « le gobelin »).
 - Cadavres et squelettes de monstres uniques : « Vous voyez ici le cadavre de Maggie. »

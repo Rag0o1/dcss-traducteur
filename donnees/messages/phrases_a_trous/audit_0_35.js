@@ -289,9 +289,21 @@
         "covering ground slowly": "couvre le terrain lentement", "out of phase": "hors phase", slow: "lent", asleep: "endormi", sleeping: "endormi",
         paralysed: "paralysé", confused: "confus", frightened: "effrayé", berserk: "enragé", poisoned: "empoisonné", invisible: "invisible",
         "dormant ghost": "fantôme dormant", "heavily drained": "fortement drainé", "moderately drained": "modérément drainé" };
+    Object.assign(ETATS, { "ally target": "cible alliée", susceptible: "vulnérable", "inner flame": "flamme intérieure", friendly: "allié",
+        "noxious fumes": "vapeurs nocives", "black smoke": "fumée noire", "purple smoke": "fumée violette", lava: "lave", "sparse dust": "poussière clairsemée",
+        water: "eau", "shallow water": "eau peu profonde", "deep water": "eau profonde", flame: "flammes", thunder: "orage", "catching its breath": "reprend son souffle",
+        "heavily wounded": "gravement blessé", "badly wounded": "gravement blessé" });
+    const etatUn = e => {
+        if (ETATS[e]) return ETATS[e];
+        let m;
+        if ((m = /^chance to call a sprite on attack: (\d+)%$/.exec(e))) return `${m[1]} % de chances d’appeler un lutin à l’attaque`;
+        if ((m = /^chance to affect: (\d+)%$/.exec(e))) return `${m[1]} % de chances d’affecter`;
+        if ((m = /^(\d+)% to hit$/.exec(e))) return `${m[1]} % de chances de toucher`;
+        return null;
+    };
     const etats = liste => {
         const out = [];
-        for (const e of liste.split(", ")) { const t = ETATS[e]; if (!t) return null; out.push(t); }
+        for (const e of liste.split(", ")) { const t = etatUn(e); if (!t) return null; out.push(t); }
         return out;
     };
     R.push({ regex: /^((?:, [a-z' -]+)+), (\d+)% to hit\)$/, translate: m => {
@@ -324,6 +336,16 @@
     R.push({ regex: /^((?:an? |the )?[a-z][\w' -]*?) \((.*?)(?:, )?(\d+)% to hit\)$/, translate: m => {
         const a = AC(m[1].replace(/^the /, "a ")); if (!a) return null; const l = m[2] ? etats(m[2]) : []; if (!l) return null; l.push(m[3] + " % de chances de toucher");
         return `${a.o} (${l.join(", ")})`; } });
+    // Lignes d'examen coupées par le retour à la ligne : « a lava snake (lava, » / « , poisoned, susceptible) » / « a kobold (chance to affect: 56%) »
+    R.push({ regex: /^((?:an? |the )?[a-z][\w' -]*?) \((.+?),$/, translate: m => {
+        const a = AC(m[1].replace(/^the /, "a ")); if (!a) return null; const l = etats(m[2]); if (!l) return null; return `${a.o} (${l.join(", ")},`; } });
+    R.push({ regex: /^((?:an? |the )?[a-z][\w' -]*?) \((.+)\)$/, translate: m => {
+        const a = AC(m[1].replace(/^the /, "a ")); if (!a) return null; const l = etats(m[2]); if (!l) return null; return `${a.o} (${l.join(", ")})`; } });
+    R.push({ regex: /^, ((?:[a-z' :%\d-]+, )*[a-z' :%\d-]+)\)$/, translate: m => { const l = etats(m[1]); return l ? `, ${l.join(", ")})` : null; } });
+    R.push({ regex: /^((?:an? |the )?[A-Za-z][\w' -]*?|[A-Z][\w'-]+), (wielding .+?|wearing .+?|carrying .+?|quivering .+?) \((.+),$/, translate: m => {
+        const r = T1(`${m[1]}, ${m[2]} (${m[3]}, 1% to hit)`); if (!r || !/ \(.*, 1 % de chances de toucher\)$/.test(r)) return null;
+        return r.replace(/, 1 % de chances de toucher\)$/, ",");
+    } });
     R.push({ regex: /^What level of the (.+)\? \(default (\d+), \? - help\)$/, translate: m => { const b = T1(m[1]); return `Quel niveau de ${b && b !== m[1] ? b : m[1]} ? (par défaut ${m[2]}, ? - aide)`; } });
     R.push({ regex: /^Where to\? \(Tab\/Enter - (.+), \? - help\)$/, translate: m => `Où aller ? (Tab/Entrée - ${m[1]}, ? - aide)` });
 
