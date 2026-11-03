@@ -8,7 +8,7 @@ Extension Firefox (manifest v3) qui traduit en français l'interface web de **Du
 - **Toutes les traductions en fichiers texte simples** (réutilisables pour d'autres langues) : dossier [`export/`](export/)
 - **Outils** (mesure de couverture, comparaison de versions du jeu, récolte en arène) : dossier [`outils/`](outils/)
 
-Version actuelle : **0.13**
+Version actuelle : **0.14**
 
 ## Copier les textes non traduits
 Dans le jeu : F12 > Console, puis :

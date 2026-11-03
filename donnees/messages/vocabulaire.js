@@ -1,7 +1,7 @@
 // =====================================================================
 //  vocabulaire.js : TABLES de vocabulaire utilisées par les règles de messages.js
 //  C'est ici qu'on corrige un nom de monstre, d'arme, d'armure, d'ego, de décor,
-//  de couleur de potion, de lieu, etc. (voir LISEZ-MOI.txt, « Corriger une traduction »).
+//  de couleur de potion, de lieu, etc. (voir docs/EDITING-TRANSLATIONS.md).
 //  Gardez la forme "anglais": "français".
 // =====================================================================
 (() => {

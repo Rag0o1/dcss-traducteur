@@ -69,8 +69,16 @@
         weapon_noise: x => T1(x) || x, player_genus: x => ({ human: "humains", elf: "elfes", dwarf: "nains", orc: "orques", draconian: "draconiens", demonspawn: "démonspawns", gnoll: "gnolls", felid: "félins" })[x] || x,
     };
 
+    function acteur(t) {
+        if (/^something$/i.test(t)) return { S: "Quelque chose", o: "quelque chose", d: "de quelque chose", a: "à quelque chose", e: "" };
+        if (/^it$/i.test(t)) return { S: "Cela", o: "cela", d: "de cela", a: "à cela", e: "" };
+        const C = globalThis.DCSS_COMBAT; if (!C || !C.acteurTexte) return null;
+        return C.acteurTexte(t) || (/^(an?|the|your) /i.test(t) ? null : C.acteurTexte("the " + t));
+    }
+
     // --- Compilation d'un gabarit anglais en expression régulière ---
     function compiler(en, fr) {
+        const PAT = { the_monster_possessive: "(.+?(?:'s|’s)|its|his|her|their)", The_monster_possessive: "(.+?(?:'s|’s)|its|his|her|their)", hands: "([a-z-]+)", hand: "([a-z-]+)", head: "([a-z-]+)", feet: "([a-z-]+)" };
         const parts = []; let src = "^"; let lit = ""; let plusLong = "";
         const re = /\[([^\]]*)\]|@([^@\s]+)@/g; let dernier = 0, m;
         const flush = t => { if (t) { src += esc(t); if (t.length > plusLong.length) plusLong = t; } };
@@ -79,21 +87,25 @@
             if (m[1] !== undefined) {
                 if (m[1].includes("@")) { const nom = /@([^@\s]+)@/.exec(m[1])[1]; src += "(.+?)"; parts.push({ type: "macro", nom }); }
                 else { const opts = m[1].split("|"); src += "(" + opts.map(esc).join("|") + ")"; parts.push({ type: "alt", opts }); }
-            } else { src += "(.+?)"; parts.push({ type: "macro", nom: m[2] }); }
+            } else { src += PAT[m[2]] || "(.+?)"; parts.push({ type: "macro", nom: m[2] }); }
         }
-        flush(en.slice(dernier)); src += "$";
+        flush(en.slice(dernier));
+        if (!/[.!?"”»:]$/.test(en)) { src += "([.!]?)"; parts.push({ type: "punct" }); }
+        src += "$";
         const debut = /^[A-Za-z"'’]+/.exec(en); // premier mot littéral (sert à classer les gabarits)
         return { regex: new RegExp(src), parts, fr, tete: debut && !/^[@\[]/.test(en) ? debut[0].toLowerCase() : "", lit: plusLong };
     }
     function appliquer(g, m) {
         let ia = 0; const macros = {}; let i = 1;
-        const alts = []; for (const p of g.parts) { const v = m[i++]; if (p.type === "alt") alts.push({ p, v }); else if (!(p.nom in macros)) macros[p.nom] = v; }
+        const alts = []; let punct = ""; for (const p of g.parts) { const v = m[i++]; if (p.type === "alt") alts.push({ p, v }); else if (p.type === "punct") punct = v || ""; else if (!(p.nom in macros)) macros[p.nom] = v; }
+        let mon = null; for (const k of ["The_monster", "the_monster", "The_monster_possessive", "the_monster_possessive"]) if (k in macros) { mon = acteur(macros[k].replace(/'s$/, "")); if (!mon) return null; break; }
         let sortie;
         // choix des variantes (même ordre que l'anglais)
-        sortie = g.fr.replace(/\[([^\]]*)\]/g, (tout, liste) => { const a = alts[ia++]; const o = liste.split("|"); return a ? (o[Math.min(a.p.opts.indexOf(a.v), o.length - 1)] || o[0]) : o[0]; });
+        sortie = g.fr.replace(/\[([^\]]*)\]/g, (tout, liste) => { const a = alts[ia++]; const o = liste.split("|"); if (!a) return o[0]; const n = a.p.opts.indexOf(a.v); const r = o[Math.min(n < 0 ? 0 : n, o.length - 1)]; return r === undefined ? o[0] : r; });
         let ok = true;
-        sortie = sortie.replace(/@([^@\s]+)@/g, (tout, nom) => { const v = macros[nom.replace(/^~/, "")]; if (v === undefined) { ok = false; return tout; } const f = FONCTION[nom]; const r = f ? f(v) : v; if (r === null || r === undefined) { ok = false; return v; } return r; });
-        if (ok) sortie = sortie.replace(/\bde ([aeiouyàâéèêîôûœ])/g, "d’$1");
+        sortie = sortie.replace(/@M_([SodaeA])@/g, (t, k) => mon ? (mon[k] || "") : t);
+        sortie = sortie.replace(/@([^@\s]+)@/g, (tout, nom) => { if (/^M_/.test(nom)) { ok = false; return tout; } const v = macros[nom.replace(/^~/, "")]; if (v === undefined) { ok = false; return tout; } const f = FONCTION[nom]; const r = f ? f(v) : v; if (r === null || r === undefined) { ok = false; return v; } return r; });
+        if (ok) sortie = sortie.replace(/\bde ([aeiouyàâéèêîôûœ])/g, "d’$1") + punct;
         return ok ? sortie : null;
     }
 

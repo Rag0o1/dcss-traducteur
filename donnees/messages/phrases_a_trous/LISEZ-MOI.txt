@@ -16,6 +16,7 @@ L'ordre de chargement (dans manifest.json) compte : en cas de phrase en double, 
  projectiles_et_capacites.js     Phrases avec projectile ({Z}) + capacités de monstres vues en arène.
  dieux_pouvoirs_dons.js          Accueil / désertion des dieux, pouvoirs gagnés ou perdus, dons, règles parchemins de sorts.
  audit_0_35.js                   Relevés de l'audit en jeu (version 0.35) : armes dansantes, états, boutiques, Nécropole, examen des monstres.
+  audit_0_12_1.js                 Audit de la 0.12.1 et suivants : mains de zombie, aides de touches, menu des compétences, acquisition, résumés.
  tutoriel.js                     Les 64 textes du tutoriel ({K} = nom de touche).
 
 Où ajouter une phrase nouvelle ? Dans le fichier du SUJET. En cas de doute : audit_0_35.js (relevés récents).

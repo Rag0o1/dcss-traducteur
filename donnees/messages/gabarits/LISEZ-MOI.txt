@@ -1,10 +1,14 @@
 Phrases « à gabarit » de la base de données du jeu (dat/database/*.txt).
 
 Format d'un fichier : une ligne anglaise, la ligne française juste en dessous, puis une ligne vide.
-  - @nom@ : morceau choisi par le jeu (couleur, partie du corps, décor, objet...). Il est traduit par moteur/gabarits.js (table FONCTION).
+  - @nom@ : morceau choisi par le jeu (couleur, partie du corps, décor, objet...). Traduit par moteur/gabarits.js (table FONCTION).
   - [a|b] : variantes. La ligne française doit avoir le même nombre de variantes dans le même ordre.
   - @~nom@ : le morceau avec « votre » / « vos » devant (parties du corps).
+  - @M_S@ @M_o@ @M_d@ @M_a@ @M_e@ : le monstre de la ligne anglaise (@The_monster@...) : « Le chacal », « le chacal », « du chacal », « au chacal », « e » si féminin.
+  - Une ligne anglaise sans « . » ou « ! » final reconnaît aussi la version avec (le jeu l'ajoute).
 Ajouter une phrase = ajouter deux lignes. Ajouter un nouveau morceau variable (nouvelle couleur...) = l'ajouter dans moteur/gabarits.js.
 
 Fichiers :
-  dieux_xom.js : Xom (événements aléatoires, rires, cadeaux...) et phrases des dieux (godspeak.txt).
+  dieux_xom.js    : Xom (événements aléatoires, rires, cadeaux...) et phrases des dieux (godspeak.txt).
+  magie_rates.js  : ratés de magie (miscast.txt).
+  cris.js         : cris et bruits des monstres (shout.txt).
