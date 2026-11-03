@@ -8,14 +8,15 @@ The project is built to be a **translation base for DCSS 0.34 / 0.35** and to be
 
 Current version: **0.13**
 
-## Install (Firefox)
+## Install
 
-1. Download this repository (or a release zip) and unzip it.
-2. In Firefox open `about:debugging` → **This Firefox** → **Load Temporary Add-on…** → choose `manifest.json`. (If it is already loaded, click **Reload**.)
-3. Open (or reload with `F5`) the WebTiles game page.
-4. Press `F12` → Console. You should see `Base de traduction chargée` with no red error.
+Works in **Firefox** and in every **Chromium-based browser** (Chrome, Edge, Brave, Opera, Vivaldi). Quick version:
 
-The add-on is temporary: Firefox removes it when it closes, so repeat step 2 next time (or sign/package it yourself).
+* **Firefox**: `about:debugging` → *This Firefox* → *Load Temporary Add-on…* → pick `manifest.json`. (Temporary: repeat after restarting Firefox.)
+* **Chrome / Edge / Brave / Opera / Vivaldi**: open `chrome://extensions` (or `edge://…`, `brave://…`), enable *Developer mode* → *Load unpacked* → pick the folder that contains `manifest.json`. (Stays installed.)
+* Then reload the game page (`F5`) and check `F12` → Console shows `Base de traduction chargée` with no red error.
+
+Full guide for every browser (permanent Firefox install, Safari, mobile, adding another WebTiles server, troubleshooting): [`docs/INSTALL.md`](docs/INSTALL.md).
 
 ## Settings
 
@@ -51,6 +52,7 @@ The list of untranslated texts (one per line) is now in your clipboard — paste
 
 | File | Content |
 |---|---|
+| [`docs/INSTALL.md`](docs/INSTALL.md) | Installation for each browser, other servers, troubleshooting. |
 | [`docs/HOW-IT-WORKS.md`](docs/HOW-IT-WORKS.md) | Architecture: how a text is found and translated, the three engines, load order, file map. |
 | [`docs/EDITING-TRANSLATIONS.md`](docs/EDITING-TRANSLATIONS.md) | How to correct or add translations (5 cases). |
 | [`docs/TOOLS-AND-UPDATING.md`](docs/TOOLS-AND-UPDATING.md) | Coverage tools, updating to a new game version, making another language. |
