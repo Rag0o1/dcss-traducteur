@@ -1,0 +1,33 @@
+# Creates a GitHub Release (with the zip attached) automatically whenever the version in manifest.json changes on main.
+name: Release zip
+on:
+  push:
+    branches: [main]
+    paths: [manifest.json]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Read version
+        id: v
+        run: echo "version=$(python3 -c "import json;print(json.load(open('manifest.json'))['version'])")" >> "$GITHUB_OUTPUT"
+      - name: Build zip
+        run: |
+          V="${{ steps.v.outputs.version }}"
+          mkdir -p /tmp/pkg && rsync -a --exclude='.git' --exclude='.github' ./ "/tmp/pkg/dcss-traducteur/"
+          (cd /tmp/pkg && zip -qr "$GITHUB_WORKSPACE/DCSS-Traducteur-v${V}.zip" dcss-traducteur)
+      - name: Create release if missing
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          V="v${{ steps.v.outputs.version }}"
+          if gh release view "$V" >/dev/null 2>&1; then
+            gh release upload "$V" "DCSS-Traducteur-${V}.zip" --clobber
+          else
+            NOTES=$(awk -v v="${V#v}" '$0 ~ "^## "v" " {f=1; next} /^## / {f=0} f' VERSIONS.md)
+            gh release create "$V" "DCSS-Traducteur-${V}.zip" --title "$V" --notes "${NOTES:-See VERSIONS.md}" --target main
+          fi
