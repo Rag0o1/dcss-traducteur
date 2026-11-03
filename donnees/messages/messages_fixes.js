@@ -937,5 +937,8 @@ globalThis.DCSS_TRADUCTIONS.messages_fixes = {
 "Zot's power touches on you...": "Le pouvoir de Zot vous touche...",
 "[Hit ESC to exit interpreter.]": "[Appuyez sur Échap pour quitter l’interpréteur.]",
 " Waypoints:": " Points de passage :",
-"Waypoints:": "Points de passage :"
+"Waypoints:": "Points de passage :",
+"read|": "lire|",
+"read": "lire",
+"quaff|": "boire|"
 };

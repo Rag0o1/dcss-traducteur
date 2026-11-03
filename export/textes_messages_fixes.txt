@@ -2805,3 +2805,12 @@ FR:  Points de passage :
 
 EN: Waypoints:
 FR: Points de passage :
+
+EN: read|
+FR: lire|
+
+EN: read
+FR: lire
+
+EN: quaff|
+FR: boire|

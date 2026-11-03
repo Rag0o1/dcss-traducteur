@@ -279,5 +279,11 @@
     const noms = lst => lst.split(/, | and /).map(n => { const T1 = globalThis.DCSS_TRADUIRE_CHAINE; const r = T1 ? T1(n) : n; return r || n; });
     const joindre = l => l.length < 2 ? l.join("") : l.slice(0, -1).join(", ") + " et " + l[l.length - 1];
     const regle = { regex: /^You add the (spells?) (.+) to your library\.$/, translate: m => `Vous ajoutez ${m[1] === "spell" ? "le sort" : "les sorts"} ${joindre(noms(m[2]))} à votre bibliothèque.` };
-    globalThis.DCSS_TRADUCTION_REGLES = (globalThis.DCSS_TRADUCTION_REGLES || []).concat([regle]);
+    // « parchment of Blink » (parchemin de sort) : singulier / pluriel, avec ou sans lettre d'inventaire. Le nom du sort suit l'option nomsDeSorts.
+    const parch = { regex: /^((?:[a-zA-Z] - )?)(?:(\d+) parchments|(?:an? |the )?parchment) of ([A-Z][^.,()!]*?)(\.?)$/, translate: m => {
+        const T1 = globalThis.DCSS_TRADUIRE_CHAINE; const nom = T1 ? (T1(m[3]) || m[3]) : m[3];
+        const reste = m[0].replace(/^[a-zA-Z] - /, "");
+        const det = m[2] ? m[2] + " parchemins" : /^the /.test(reste) ? "le parchemin" : /^an? /.test(reste) ? "un parchemin" : "parchemin";
+        return `${m[1]}${det} de ${nom}${m[4]}`; } };
+    globalThis.DCSS_TRADUCTION_REGLES = (globalThis.DCSS_TRADUCTION_REGLES || []).concat([regle, parch]);
 })();
