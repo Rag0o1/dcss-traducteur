@@ -3626,19 +3626,19 @@ EN: {I} fulminant prism crackles loudly.
 FR: Le prisme fulminant {d1} crépite bruyamment.
 
 EN: The {Z} hits {A}.
-FR: {S1} touche{n1} {o2}.
+FR: {S1} touche{n1} {o2}. ¦ {S1} vous touche{n1}.
 
 EN: The {Z} hits {A} but does no damage.
 FR: {S1} touche{n1} {o2} sans lui infliger de dégâts. ¦ {S1} vous touche{n1} sans vous infliger de dégâts.
 
 EN: The {Z} hits {A}!
-FR: {S1} touche{n1} {o2} !
+FR: {S1} touche{n1} {o2} ! ¦ {S1} vous touche{n1} !
 
 EN: The {Z} hits {A} but does no damage!
 FR: {S1} touche{n1} {o2} sans lui infliger de dégâts ! ¦ {S1} vous touche{n1} sans vous infliger de dégâts !
 
 EN: The {Z} misses {A}.
-FR: {S1} rate{n1} {o2}.
+FR: {S1} rate{n1} {o2}. ¦ {S1} vous rate{n1}.
 
 EN: The {Z} misses {A}!
 FR: {S1} rate{n1} {o2} ! ¦ {S1} vous rate{n1} !
@@ -4922,7 +4922,7 @@ EN: Zombie hands grab {A} from below!
 FR: Des mains de zombie agrippent {o1} par en dessous ! ¦ Des mains de zombie vous agrippent par en dessous !
 
 EN: The zombie hands constrict {A}!
-FR: Les mains de zombie étreignent {o1} ! ¦ Les mains de zombie vous étreignent !
+FR: Les mains de zombie étreignent {o1} !
 
 EN: The water swirls and strikes {A}!
 FR: L’eau tourbillonne et frappe {o1} ! ¦ L’eau tourbillonne et vous frappe !
@@ -7458,6 +7458,285 @@ FR: modérément endommagé
 
 EN: lightly damaged
 FR: légèrement endommagé
+
+EN: {A} slams into the orcish idol!
+FR: {S1} percute l’idole orque !
+
+EN: {A} breaks free of the zombie hands!
+FR: {S1} se libère des mains de zombie !
+
+EN: The zombie hands constrict {A}.
+FR: Les mains de zombie étreignent {o1}.
+
+EN: {A} brushes some snowflakes from their robe.
+FR: {S1} secoue quelques flocons de neige de sa robe.
+
+EN: {A} calls upon Beogh to heal {A}.
+FR: {S1} invoque Beogh pour soigner {o2}.
+
+EN: {A} calls upon Zin to heal {A}.
+FR: {S1} invoque Zin pour soigner {o2}.
+
+EN: {A} calls upon Yredelemnul to heal {A}.
+FR: {S1} invoque Yredelemnul pour soigner {o2}.
+
+EN: {A} calls upon Makhleb to heal {A}.
+FR: {S1} invoque Makhleb pour soigner {o2}.
+
+EN: {A} calls upon Trog to heal {A}.
+FR: {S1} invoque Trog pour soigner {o2}.
+
+EN: {A} calls upon Okawaru to heal {A}.
+FR: {S1} invoque Okawaru pour soigner {o2}.
+
+EN: {A} calls upon Kikubaaqudgha to heal {A}.
+FR: {S1} invoque Kikubaaqudgha pour soigner {o2}.
+
+EN: {A} calls upon Lugonu to heal {A}.
+FR: {S1} invoque Lugonu pour soigner {o2}.
+
+EN: {A} calls upon Xom to heal {A}.
+FR: {S1} invoque Xom pour soigner {o2}.
+
+EN: {A} calls upon Vehumet to heal {A}.
+FR: {S1} invoque Vehumet pour soigner {o2}.
+
+EN: {A} calls upon Sif Muna to heal {A}.
+FR: {S1} invoque Sif Muna pour soigner {o2}.
+
+EN: {A} calls upon Jiyva to heal {A}.
+FR: {S1} invoque Jiyva pour soigner {o2}.
+
+EN: {A} attacks as he pursues you!
+FR: {S1} attaque en vous poursuivant !
+
+EN: {A} spurs his mount on.
+FR: {S1} éperonne sa monture.
+
+EN: {A} attacks as she pursues you!
+FR: {S1} attaque en vous poursuivant !
+
+EN: {A} spurs her mount on.
+FR: {S1} éperonne sa monture.
+
+EN: {A} attacks as it pursues you!
+FR: {S1} attaque en vous poursuivant !
+
+EN: {A} spurs its mount on.
+FR: {S1} éperonne sa monture.
+
+EN: {A} wobbles up and down alarmingly.
+FR: {S1} oscille de haut en bas de façon alarmante.
+
+EN: {A}'s face is buffeted by something unseen.
+FR: Le visage {d1} est malmené par quelque chose d’invisible.
+
+EN: You are splashed with acid!
+FR: Vous êtes éclaboussé d’acide !
+
+EN: You sock {A}.
+FR: Vous boxez {o1}.
+
+EN: You sock {A}!
+FR: Vous boxez {o1} !
+
+EN: You thump {A}.
+FR: Vous cognez {o1}.
+
+EN: You thump {A}!
+FR: Vous cognez {o1} !
+
+EN: A malevolent force fills the Orcish Mines...
+FR: Une force malveillante emplit les Mines orques...
+
+EN: Welcome to the Orcish Mines!
+FR: Bienvenue dans les Mines orques !
+
+EN: The Realm of Zot is guarded by orbs of winter.
+FR: Le Royaume de Zot est gardé par des orbes d’hiver.
+
+EN: You hear a deafening roar!
+FR: Vous entendez un rugissement assourdissant !
+
+EN: You hear an angry growl.
+FR: Vous entendez un grognement furieux.
+
+EN: You cannot affect that.
+FR: Vous ne pouvez pas affecter cela.
+
+EN: Some shallow water.
+FR: De l’eau peu profonde.
+
+EN: [the floor.]
+FR: [le sol.]
+
+EN: dangerous
+FR: dangereux
+
+EN: Vehumet supports the use of this spell.
+FR: Vehumet soutient l’utilisation de ce sort.
+
+EN: (M)emorise this spell.
+FR: (M)émoriser ce sort.
+
+EN: Fragment what (e.g. wall or brittle monster)?:
+FR: Fragmenter quoi (ex. : mur ou monstre fragile) ?:
+
+EN: Goji, Who Cannot Be Seen
+FR: Goji, Celui Qu’On Ne Peut Voir
+
+EN: And Goji? Well. He's also here.
+FR: Et Goji ? Eh bien. Il est là aussi.
+
+EN: Goji shouts, "Stealth is key to winning *all* battles."
+FR: Goji crie : « La discrétion est la clé pour gagner *toutes* les batailles. »
+
+EN: Something shouts, "Escape, thou fragile dismal-dreaming toady!"
+FR: Quelque chose crie : « Fuis, fragile crapaud aux sombres rêves ! »
+
+EN: An intrepid goblin who has somehow managed to tame a ghost moth as his mount. While the elaborate snarl of ropes he is using to remain upright on it surely undermines the moth's own mobility, even a hobbled ghost moth can be a deadly adversary.
+FR: Un gobelin intrépide qui a réussi, on ne sait comment, à dompter un papillon fantôme pour en faire sa monture. Si l’enchevêtrement de cordes qu’il utilise pour rester en selle gêne sûrement la mobilité du papillon, même un papillon fantôme entravé peut être un adversaire mortel.
+
+EN: He possesses the following magical abilities, which are affected by antimagic (but not silence):
+FR: Il possède les capacités magiques suivantes, affectées par l’antimagie (mais pas par le silence) :
+
+EN: He can fly.
+FR: Il peut voler.
+
+EN: She can fly.
+FR: Elle peut voler.
+
+EN: It can fly.
+FR: Il peut voler.
+
+EN: He can open doors.
+FR: Il peut ouvrir les portes.
+
+EN: She can open doors.
+FR: Elle peut ouvrir les portes.
+
+EN: It can open doors.
+FR: Il peut ouvrir les portes.
+
+EN: Size: Small
+FR: Taille : petite
+
+EN: Size: Tiny
+FR: Taille : minuscule
+
+EN: Size: Medium
+FR: Taille : moyenne
+
+EN: Size: Large
+FR: Taille : grande
+
+EN: Size: Little
+FR: Taille : petite
+
+EN: Size: Giant
+FR: Taille : gigantesque
+
+EN: Will: ++
+FR: Volonté : ++
+
+EN: Will: +
+FR: Volonté : +
+
+EN: Will: +++
+FR: Volonté : +++
+
+EN: To read a description, press the key listed above. (AdB) indicates damage (the sum of A B-sided dice), (x%) indicates the chance to defeat your Will, and (y) indicates the spell range; shown in red if you are in range.
+FR: Pour lire une description, appuyez sur la touche indiquée ci-dessus. (AdB) indique les dégâts (la somme de A dés à B faces), (x%) indique la chance de vaincre votre Volonté, et (y) indique la portée du sort ; affichée en rouge si vous êtes à portée.
+
+EN: The species aptitude is in
+FR: L’aptitude de l’espèce est en
+
+EN: Describe
+FR: Décrire
+
+EN: ] Memorise|
+FR: ] Mémoriser|
+
+EN: ] equip|wield|
+FR: ] équiper|manier|
+
+EN: ] equip|wield|wear|
+FR: ] équiper|manier|porter|
+
+EN: ] help [
+FR: ] aide [
+
+EN: ] read|
+FR: ] lire|
+
+EN: ] search [
+FR: ] chercher [
+
+EN: ] select
+FR: ] sélectionner
+
+EN: ] toggle selected
+FR: ] basculer la sélection
+
+EN: ] toggle spell headers
+FR: ] basculer les en-têtes de sorts
+
+EN: ] toggle spell headers [
+FR: ] basculer les en-têtes de sorts [
+
+EN: |Describe|Hide|Show [
+FR: |Décrire|Cacher|Montrer [
+
+EN: |Hide|Show [
+FR: |Cacher|Montrer [
+
+EN: |evoke [
+FR: |évoquer [
+
+EN: |put on [
+FR: |mettre [
+
+EN: |quaff|evoke [
+FR: |boire|évoquer [
+
+EN: |unequip
+FR: |retirer
+
+EN: skills [
+FR: compétences [
+
+EN: Letters toggle [
+FR: Lettres, basculer [
+
+EN: to add a new annotation)
+FR: pour ajouter une nouvelle annotation)
+
+EN: to cancel)
+FR: pour annuler)
+
+EN: to cast anyway.)
+FR: pour lancer quand même.)
+
+EN: for information about gods)
+FR: pour des informations sur les dieux)
+
+EN: for more information)
+FR: pour plus d’informations)
+
+EN: to reach them - yellow denotes antique shop)
+FR: pour les rejoindre - le jaune indique une boutique d’antiquités)
+
+EN: to reach them and
+FR: pour les rejoindre et
+
+EN: (press
+FR: (appuyez sur
+
+EN: You can't see any susceptible monsters within range! (Use
+FR: Vous ne voyez aucun monstre vulnérable à portée ! (Utilisez
+
+EN: Attacks Max Damage Range
+FR: Attaques Dégâts max Portée
 
 EN: You can reread all messages at any time with {K}. Also, press Space or left click with mouse to clear the --more-- prompts.
 FR: Vous pouvez relire tous les messages à tout moment avec {x1}. Appuyez aussi sur Espace ou cliquez avec la souris pour faire disparaître les invites --more--.

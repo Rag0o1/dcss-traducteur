@@ -4,6 +4,8 @@
 //  Utilisé par le trou {Z} de moteur/phrases_a_trous.js (voir projectiles_et_capacites.js). Ajouter ici un projectile = toutes les phrases le gèrent.
 // =====================================================================
 globalThis.DCSS_PROJECTILES = Object.assign(globalThis.DCSS_PROJECTILES || {}, {
+ "bolt": ["trait", "m"], "icy flash freeze": ["gel instantané glacial", "m"], "puff of frost": ["bouffée de givre", "f"],
+ "splash of acid": ["éclaboussure d’acide", "f"],
  "acid spray": ["jet d’acide", "m"], "agony": ["agonie", "f"], "arc of electricity": ["arc électrique", "m"],
  "ball of acid": ["boule d’acide", "f"], "ball of mud": ["boule de boue", "f"], "ball of steam": ["boule de vapeur", "f"],
  "beam of energy": ["rayon d’énergie", "m"], "beckoning": ["appel", "m"], "beckoning whirlwind": ["tourbillon d’appel", "m"],

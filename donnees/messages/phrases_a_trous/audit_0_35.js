@@ -54,9 +54,6 @@
     T["{A} repels the {Z}!"] = "{S1} repousse {o2} !";
     T["{A} is knocked back by the {Z}."] = "{S1} est repoussé{e1} par {o2}.";
     T["You are knocked back by the {Z}."] = "Vous êtes repoussé par {o1}.";
-    T["The {Z} hits {A}."] = "{S1} touche{n1} {o2}.";
-    T["The {Z} hits {A}!"] = "{S1} touche{n1} {o2} !";
-    T["The {Z} misses {A}."] = "{S1} rate{n1} {o2}.";
     T["A blast of power from the earth and {A} strikes you!"] = "Un souffle de puissance venu de la terre et {o1} vous frappent !";
     T["Two slime creatures merge to form {A}."] = "Deux créatures de vase fusionnent pour former {o1}.";
 

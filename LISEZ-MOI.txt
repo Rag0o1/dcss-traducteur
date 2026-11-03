@@ -1,4 +1,4 @@
-DCSS TRADUCTEUR (version 0.12.3)
+DCSS TRADUCTEUR (version 0.12.4)
 ==============================
 
 Extension Navigateur qui traduit DCSS Web en français. Elle ne modifie pas le jeu :
@@ -126,6 +126,13 @@ Monstres inconnus (leur nom apparaît en anglais dans les phrases) :
 Textes bruts de l'écran d'aide (quand il est ouvert) :
   JSON.parse(document.documentElement.dataset.dcssAide || "null")
 Pour copier une liste dans le presse-papiers, entourez-la de copy( ... ).
+
+COPIER LA LISTE DES TEXTES NON TRADUITS (un texte par ligne, prête à m'envoyer en fichier .txt) :
+  1. Jouez, ouvrez les menus qui vous intéressent, puis appuyez sur F12 > onglet Console.
+  2. Collez cette commande et appuyez sur Entrée :
+     copy(JSON.parse(document.documentElement.dataset.dcssTextesNonTraduits || "[]").join("\n"))
+  3. La liste est maintenant dans le presse-papiers : collez-la (Ctrl+V) dans un fichier .txt.
+  (Même commande dans outils/COMMANDE-AUDIT.txt.)
 
 LE MANUEL DU JEU
 ----------------

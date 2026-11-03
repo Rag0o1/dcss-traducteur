@@ -1,3 +1,15 @@
+EN: bolt
+FR: carreau
+
+EN: icy flash freeze
+FR: gel instantané glacial
+
+EN: puff of frost
+FR: souffle de givre
+
+EN: splash of acid
+FR: jet d’acide
+
 EN: acid spray
 FR: jet d’acide
 
@@ -241,9 +253,6 @@ FR: épines de glace
 EN: iceblast
 FR: explosion de glace
 
-EN: icy flash freeze
-FR: gel instantané glacial
-
 EN: iron shot
 FR: tir de fer
 
@@ -303,9 +312,6 @@ FR: gaz toxique
 
 EN: puff of flame
 FR: jet de flammes
-
-EN: puff of frost
-FR: souffle de givre
 
 EN: pyre arrow
 FR: flèche de bûcher
@@ -384,9 +390,6 @@ FR: fléchette de plomb
 
 EN: sonic wave
 FR: onde sonore
-
-EN: splash of acid
-FR: jet d’acide
 
 EN: splash of poison
 FR: jet de poison
@@ -480,9 +483,6 @@ FR: lance de cristal
 
 EN: slug
 FR: balle de plomb
-
-EN: bolt
-FR: carreau
 
 EN: creeping inferno residue
 FR: résidu d’enfer rampant

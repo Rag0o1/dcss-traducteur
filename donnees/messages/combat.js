@@ -436,7 +436,7 @@
         if ((m = /^(very large|large|enormous|titanic) slime creature$/.exec(nom))) return { name: TAILLES_SLIME[m[1]] + " créature de vase", gender: "f", article: "la " };
         return null;
     };
-    const reActeur = new RegExp("\\b(?:(?<det>The|the|An?|an?|Your|your|a nearby|the nearby) (?<imp>helpless |wavering )?(?<pre>spectral |bound |ghostly )?(?<nom>" + FABRIQUES + "|" + alternance + ")(?<suf> simulacrum| zombie| skeleton| draugr)?(?![\\w-])|(?<fant>[A-Za-z0-9][\\w.-]*)'s ghost(?![\\w-])|(?<uniq>" + alternanceUniq + ")(?![\\w-]))", "g");
+    const reActeur = new RegExp("\\b(?:(?<det>The|the|An?|an?|Your|your|a nearby|the nearby) (?<imp>helpless |wavering )?(?<pre>spectral |bound |ghostly |invisible )?(?<nom>" + FABRIQUES + "|" + alternance + ")(?<suf> simulacrum| zombie| skeleton| draugr)?(?![\\w-])|(?<fant>[A-Za-z0-9][\\w.-]*)'s ghost(?![\\w-])|(?<uniq>" + alternanceUniq + ")(?![\\w-]))", "g");
 
     const entite = nom => {
         if (monsters[nom]) return monsters[nom];
@@ -459,7 +459,7 @@
             nom = t + " " + (voy ? "d’" : "de ") + nom;
             genre = "m"; article = "le ";
         }
-        if (acteur.prefixe) nom += acteur.prefixe === "spectral" ? (genre === "f" ? " spectrale" : " spectral") : acteur.prefixe === "ghostly" ? (genre === "f" ? " fantomatique" : " fantomatique") : (genre === "f" ? " liée" : " lié");
+        if (acteur.prefixe) nom += acteur.prefixe === "spectral" ? (genre === "f" ? " spectrale" : " spectral") : acteur.prefixe === "ghostly" ? (genre === "f" ? " fantomatique" : " fantomatique") : acteur.prefixe === "invisible" ? (genre === "f" ? " invisible" : " invisible") : (genre === "f" ? " liée" : " lié");
         if (acteur.impuissant) nom += acteur.impuissant === "wavering" ? (genre === "f" ? " vacillante" : " vacillant") : " sans défense";
         const possessif = acteur.det === "your";
         const indefini = acteur.det === "a";

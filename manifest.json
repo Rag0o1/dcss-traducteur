@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "DCSS Traducteur",
-  "version": "0.12.3",
+  "version": "0.12.4",
   "description": "Couche de traduction française pour DCSS Web",
   "content_scripts": [
     {
@@ -36,6 +36,7 @@
         "donnees/messages/phrases_a_trous/projectiles_et_capacites.js",
         "donnees/messages/phrases_a_trous/dieux_pouvoirs_dons.js",
         "donnees/messages/phrases_a_trous/audit_0_35.js",
+        "donnees/messages/phrases_a_trous/audit_0_12_1.js",
         "donnees/messages/phrases_a_trous/tutoriel.js",
         "donnees/messages/divers.js",
         "donnees/interface/commandes_aide.js",
