@@ -9,6 +9,9 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.12.3 — changement mineur
+- Vérification des données tirées du jeu officiel : en mode noms de sorts anglais, le texte du Bannissement (Lugonu) garde maintenant « Banishment » au lieu de « Bannissement ». Les autres textes cités (Baiser de la mort, Serviteur infernal, Drain vampirique, Déchaînement de destruction, Assaut multiple) étaient déjà couverts.
+
 ## 0.12.2 — changement mineur
 - Parchemins de sorts : « A parchment of Blink. » est traduit en entier en mode noms de sorts français, et les phrases qui les contiennent (« Vous ramassez / Vous voyez ici / Vous lâchez un parchemin de … ») ne restent plus à moitié en anglais.
 

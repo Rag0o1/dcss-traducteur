@@ -36,3 +36,6 @@ FR: Votre capacité Infernal Servant est remplacée par Globe of Annihilation, q
 
 EN: A parchment of Blink.
 FR: Un parchemin de Blink.
+
+EN: Attempts to banish a creature into the Abyss. If the attempt succeeds, you gain some piety and the creature's full experience value. Even creatures that resist are left malmutated and weakened by the brush with the Abyss. Invocations skill makes Banishment harder to resist.
+FR: Tente de bannir une créature dans l’Abysse. Si la tentative réussit, vous gagnez de la piété et la totalité de la valeur d’expérience de la créature. Même les créatures qui résistent en sortent malmutées et affaiblies par ce contact avec l’Abysse. La compétence Invocations rend Banishment plus difficile à repousser.
