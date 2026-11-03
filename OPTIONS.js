@@ -1,8 +1,8 @@
 // =====================================================================
-//  OPTIONS.js : les réglages de l'extension (chargé en premier).
+//  OPTIONS.js : extension settings (loaded first).
 //
-//  nomsDeSorts : "anglais"  -> les noms de sorts restent en anglais (Fireball, Blink...) ; leurs DESCRIPTIONS sont en français.
-//                "francais" -> les noms de sorts sont traduits (Boule de feu, Clignement...).
-//  Après modification : about:debugging > "Recharger", puis F5 sur la page du jeu.
+//  nomsDeSorts : "anglais"  -> spell names stay in English (Fireball, Blink...); their DESCRIPTIONS are in French.
+//                "francais" -> spell names are translated (Boule de feu, Clignement...).
+//  After a change: about:debugging > "Reload", then F5 on the game page.
 // =====================================================================
 globalThis.DCSS_OPTIONS = { nomsDeSorts: "anglais" };

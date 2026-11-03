@@ -1,0 +1,8 @@
+Copy the list of texts still in English (one per line)
+======================================================
+1. In the game page press F12 and open the "Console" tab.
+2. Paste this command and press Enter:
+
+copy(JSON.parse(document.documentElement.dataset.dcssTextesNonTraduits || "[]").join("\n"))
+
+3. Paste the result (Ctrl+V) into a .txt file: this is the list to send for the next round of corrections.

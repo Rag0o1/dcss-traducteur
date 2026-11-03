@@ -1,8 +1,0 @@
-Copier la liste des textes encore en anglais (un par ligne)
-==========================================================
-1. Dans le jeu, appuyez sur F12 > onglet « Console ».
-2. Collez cette commande, puis Entrée :
-
-copy(JSON.parse(document.documentElement.dataset.dcssTextesNonTraduits || "[]").join("\n"))
-
-3. Collez le résultat (Ctrl+V) dans un fichier .txt : c'est la liste à envoyer pour la prochaine série de corrections.

@@ -1,21 +1,21 @@
 // =====================================================================
-//  MES-CORRECTIONS.js : VOS corrections personnelles (chargé en dernier : il gagne toujours)
+//  MES-CORRECTIONS.js ("my corrections"): YOUR personal corrections (loaded last: it always wins)
 //
-//  Comment corriger une traduction :
-//   1. Ouvrez la console du navigateur (F12) sur la page du jeu : l’audit liste les textes non traduits.
-//   2. Copiez le texte anglais EXACT, ajoutez-le ci-dessous avec votre traduction.
-//   3. Rechargez l’extension (about:debugging) puis la page.
+//  How to correct a translation:
+//   1. Open the browser console (F12) on the game page: the audit lists untranslated texts.
+//   2. Copy the EXACT English text and add it below with your translation.
+//   3. Reload the add-on (about:debugging) then the page.
 //
-//  Chaque ligne a la forme :   "texte anglais exact": "votre traduction",
-//  (n’oubliez pas la virgule à la fin ; utilisez ’ ou \" pour les guillemets dans le texte)
+//  Each line looks like:   "exact English text": "your translation",
+//  (do not forget the trailing comma; use ’ or \" for quotes inside the text)
 //
-//  Une entrée ici l’emporte sur TOUT le reste (officiel, lexique, règles de messages.js).
-//  Si le texte contient un nombre qui change (« 3 stones »), ce n’est pas un texte exact :
-//  corrigez plutôt le vocabulaire dans donnees/messages/vocabulaire.js (voir LISEZ-MOI.txt).
+//  An entry here beats EVERYTHING else (official texts, lexicon, message rules).
+//  If the text contains a number that changes ("3 stones"), it is not an exact text:
+//  fix the vocabulary in donnees/messages/vocabulaire.js instead (see docs/EDITING-TRANSLATIONS.md).
 // =====================================================================
 globalThis.DCSS_TRADUCTIONS = globalThis.DCSS_TRADUCTIONS || {};
 globalThis.DCSS_TRADUCTIONS.perso = {
-    // Exemples (supprimez les « // » devant une ligne pour l’activer) :
+    // Examples (remove the leading « // » to enable a line):
     // "Dungeon Crawl Help": "Aide Dungeon Crawl",
     // "You have no more potions.": "Vous n’avez plus de potions.",
 };

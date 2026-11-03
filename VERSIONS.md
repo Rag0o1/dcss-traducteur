@@ -1,162 +1,75 @@
-# Numérotation des versions
+# Version numbering
 
-| Type de changement | Ce qu'on change | Exemple |
+| Kind of change | What changes | Example |
 |---|---|---|
-| **Changement mineur** (corrections de traductions, quelques textes ajoutés, faute d'orthographe, mise à jour de l'export) | on ajoute **un chiffre après la dernière virgule/point** | `0.11.1` → `0.11.2` → `0.11.3` |
-| **Changement de fonctionnement** (le moteur change : nouveau type de trou dans les phrases, nouvelle règle de traduction, nouveau fichier de code, nouvelle option) | on **passe à la version suivante** | `0.11.3` → `0.12` |
+| **Minor change** (translation fixes, a few texts added, typo fixes, export refresh) | add **one digit after the last dot** | `0.12.1` → `0.12.2` → `0.12.3` |
+| **Change in how it works** (engine change: new hole type, new translation rule, new code file, new option) | **go to the next version** | `0.12.6` → `0.13` |
 
-Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` (`"version"`), la première ligne de `LISEZ-MOI.txt`, et le nom du zip (`DCSS-Traducteur-vX.Y.zip`).
+The number is kept identical in: `manifest.json` (`"version"`), `README.md` ("Current version"), this file, and the zip name (`DCSS-Traducteur-vX.Y.zip`).
 
-Chaque version est décrite ci-dessous, la plus récente en premier.
+Each version is described below, newest first. (The French branch `fr` has the original, more detailed French history.)
 
-## 0.13 — changement de fonctionnement
-- **Nouveau moteur `moteur/gabarits.js`** : traduit les phrases de la base de données du jeu (`dat/database`), qui sont écrites avec des morceaux variables (`@couleur@`, `@The_feature@`, `[variante a|variante b]`). Il sait traduire les couleurs, les parties du corps, les décors, les objets du joueur, les truites de Xom, etc.
-- **Premier fichier de gabarits : `donnees/messages/gabarits/dieux_xom.js`** : toutes les phrases de Xom (événements aléatoires du donjon, rires, cadeaux, bannissement, résurrection...) et les phrases des dieux (bienvenue, pénitence, mort, Zot). `godspeak.txt` passe de 3 % à ~80 % traduit.
-- Les autres fichiers de la base (insultes, cris, ratés de magie, graffitis, bruits d’armes, paroles des monstres) suivront avec le même moteur.
+## 0.13 — new engine
+* **New engine `moteur/gabarits.js`**: translates the phrases of the game's text database (`dat/database`), which are written with variable pieces (`@colour@`, `@The_feature@`, `[variant a|variant b]`). It translates colours, body parts, dungeon features, your items, Xom's trout, etc.
+* **First template file `donnees/messages/gabarits/dieux_xom.js`**: all of Xom's phrases (random dungeon events, laughter, gifts, banishment, resurrection…) and the gods' phrases (welcome, penance, death, Zot). `godspeak.txt` goes from 3 % to ~80 % translated.
+* The other database files (insults, shouts, miscast flavour, graffiti, weapon noises, monster speech) will follow with the same engine.
 
-## 0.12.6 — changement mineur
-- Audit du 03/11 : acquisition (« Acquire … ? »), objets à accolades (« the ring of the Giraffataur {…} »), potentiel de dégâts, étude de compétences, chance de remboursement, résultats de recherche, runes, liste de mutations, résumé « Turns / Time », aides de touches.
+## 0.12.6 — minor
+Audit of 03/11: acquirement (`Acquire … ?`), items with braces (`the ring of the Giraffataur {…}`), damage rating, skills being studied, spell refund chance, search results, runes, mutation list, `Turns / Time` summary, key hints.
 
-## 0.12.5 — changement mineur
-- Menu des compétences (« a - Fighting 3.5 » → « a - Combat 3.5 ») et exclusions de déplacement (« exclusions: hydra and staircase » → « exclusions : hydre et escalier »).
+## 0.12.5 — minor
+Skill menu (`a - Fighting 3.5`) and travel exclusions (`exclusions: hydra and staircase`).
 
-## 0.12.4 — changement mineur
-- Audit de la 0.12.1 : ~75 textes traités (mains de zombie, « sock/thump », projectiles « bolt / puff of frost / splash of acid », lignes d’examen d’un monstre « He can fly. », « Speed: … », « Will: ++ », aides de touches des menus, messages des Mines orques, etc.). Corrigé : « The flash freeze hits you. » (projectile + « vous ») ne se traduisait pas.
-- La commande pour copier la liste des textes non traduits est maintenant documentée (`LISEZ-MOI.txt`, `README.md`, `outils/COMMANDE-AUDIT.txt`).
+## 0.12.4 — minor
+Audit of 0.12.1: ~75 texts (zombie hands, `sock/thump`, projectiles `bolt / puff of frost / splash of acid`, monster examine lines `He can fly.`, `Speed: …`, `Will: ++`, menu key hints, Orcish Mines messages…). Fixed: `The flash freeze hits you.` (projectile + "you") was not translated. The "copy untranslated texts" console command is now documented.
 
-## 0.12.3 — changement mineur
-- Vérification des données tirées du jeu officiel : en mode noms de sorts anglais, le texte du Bannissement (Lugonu) garde maintenant « Banishment » au lieu de « Bannissement ». Les autres textes cités (Baiser de la mort, Serviteur infernal, Drain vampirique, Déchaînement de destruction, Assaut multiple) étaient déjà couverts.
+## 0.12.3 — minor
+Official-data check: in English-spell-names mode the Banishment (Lugonu) text keeps "Banishment". Other texts citing spells were already covered.
 
-## 0.12.2 — changement mineur
-- Parchemins de sorts : « A parchment of Blink. » est traduit en entier en mode noms de sorts français, et les phrases qui les contiennent (« Vous ramassez / Vous voyez ici / Vous lâchez un parchemin de … ») ne restent plus à moitié en anglais.
+## 0.12.2 — minor
+Spell scrolls: `A parchment of Blink.` fully translated in French-spell-names mode, and the sentences containing them.
 
-## 0.12.1 — changement mineur
-- ~25 messages du jeu avec trous relevés dans le code source (fumées toxiques, lumière d'Elyvilon, âme, blessures, dévorer, bondir…) dans `phrases_a_trous/audit_0_35.js`.
+## 0.12.1 — minor
+~25 game messages with holes found in the C++ source (toxic fumes, Elyvilon's light, soul, wounds, devour, leap…).
 
-## 0.12 — rangement des fichiers de phrases
-- Les fichiers `variables_a.js` … `variables_k.js` sont renommés **par sujet** et rangés dans `donnees/messages/phrases_a_trous/` (avec un `LISEZ-MOI.txt` qui dit quel fichier contient quoi). `projectiles.js` et `tutoriel.js` y sont aussi.
-- Le moteur des trous (`variables.js`) devient `moteur/phrases_a_trous.js` : tout le code est dans `moteur/`, les traductions dans `donnees/`.
-- **Contenu et ordre de chargement inchangés** : 0 différence sur 25 805 textes (modes anglais et français), 73/73 tests, export identique.
-- Sauvegarde de la version précédente : étiquette Git `v0.11.2`.
+## 0.12 — reorganisation
+`variables_a.js … variables_k.js` renamed **by topic** and moved to `donnees/messages/phrases_a_trous/` (with a README). The hole engine `variables.js` became `moteur/phrases_a_trous.js`. Content and load order unchanged: 0 differences over 25 805 texts, 73/73 tests. Previous version backed up as git tag `v0.11.2`.
 
-## 0.11.2 — changement mineur
-- 276 messages du jeu sans variable, relevés dans le code source de Crawl (`donnees/messages/messages_jeu.js`) : dieux, états, bruits, pièges, capacités. Messages sans variable traduits : 68 % → 86 % (le reste est surtout du débogage).
+## 0.11.2 — minor
+276 holeless game messages harvested from the Crawl source (`messages_jeu.js`): gods, states, noises, traps, abilities. Holeless messages translated: 68 % → 86 %.
 
-## 0.11.1 — suite de la 0.10, avec des changements de moteur
-- **Moteur** : nouveau trou `{K}` (nom de touche, recopié tel quel) dans les phrases à trous ; noms de monstres fabriqués par le jeu étendus (armes dansantes `dancing +2 flail of holy wrath`, tailles de gelées, préfixe `ghostly`) ; règles pour les « !! » multiples, « Vous rencontrez… », les lignes d'examen de monstres (équipement + états + chances de toucher), les boutiques, les objets non identifiés (`a glowing hat`), les parchemins et potions « nus » (`Scroll of Blinking`).
-- **Nouveaux fichiers** : `donnees/messages/audit_0_35.js` (audit en jeu 0.35), `donnees/messages/phrases_a_trous/tutoriel.js` (64 textes du tutoriel).
-- **Données** : projectiles (`gout of fire`, `torrent of electricity`…), uniques (Louise), Hauts-fonds harmonisés partout.
-- **Dépôt** : export des traductions en fichiers texte simples dans `export/` (`node outils/exporter.js`).
+## 0.11.1 — follow-up of 0.10 with engine changes
+New hole `{K}` (key name); generated monster names extended (dancing weapons, slime sizes, `ghostly`); rules for `!!`/`!!!`; new files for the in-game 0.35 audit and the tutorial (64 texts); more projectiles; the `export/` folder.
 
-## 0.10 — suite : leçons du vrai jeu (arène + mode magicien)
-- Le jeu 0.34 a été compilé et lancé en mode arène (outils/arene/) : ~18 000 phrases différentes ont servi de test.
-- sorts_monstres_arene.js / projectiles_et_capacites.js : ~400 nouvelles phrases de monstres (souffles, projectiles, invocations de dieux, racines, bolas...).
-- projectiles.js + trou {Z} : ~170 noms de projectiles et d'effets de sorts (« The bolt of fire hits you » -> « Le rayon de feu vous touche »).
-- Correction d'un défaut : « The bolt of fire hits you. » devenait « Le bolt of fire vous frappe. » (demi-anglais). Les règles de
-  combat de regles.js laissent désormais la phrase intacte quand un nom de monstre est inconnu.
-- combat.js reconnaît les noms fabriqués par le jeu : draconiens colorés + classe, hydres/slymdras à N têtes, bêtes mutantes
-  (larvaire... primordiale), choses laides colorées, « spectral X », « bound X », « X zombie / skeleton / draugr ».
-- Nouveaux monstres/armes : ice fiend, brimstone fiend, executioner, hell sentinel, tzitzimitl, scythe (faux).
-- Mode joueur (wizard) : tous les dieux ont été « joués » dans le vrai jeu. dieux_pouvoirs_dons.js : accueil / désertion / apaisement des dieux,
-  tous les pouvoirs gagnés ou perdus (« Vous pouvez désormais... »), dons et protections des dieux, messages de caractéristiques
-  (« Vous vous sentez stupide »), cartes de Nemelex, ajout de sorts à la bibliothèque, « Votre arme luit d’un éclat rouge ».
-- variables.js : les noms propres avec accents (Edmée) ne bloquent plus la traduction.
-- Dossier export/ : toutes les traductions en fichiers texte simples EN:/FR: (outil outils/exporter.js), pour les partager ou partir d'une autre langue.
+## 0.10 — lessons from the real game (arena + wizard mode)
+* DCSS 0.34 compiled and run in arena mode: ~18 000 distinct sentences used as tests.
+* ~400 new monster sentences, ~170 projectile/effect names (`{Z}` hole): `The bolt of fire hits you` → `Le rayon de feu vous touche`.
+* Combat recognises generated names (coloured draconians, N-headed hydras, mutant beasts, `spectral X`, `bound X`, zombies/skeletons).
+* All gods "played" in wizard mode: welcome/desertion/placation, gained and lost powers, gifts, stat messages, Nemelex cards.
+* **Spell names in English** option (`OPTIONS.js`, default) with rewritten texts that cite spells; French mode identical to 0.9 (checked on 23 013 texts).
+* ~290 missing texts (abilities, terrain, mutations, tips) + ~285 terrain/altar/door/trap names; +300 descriptions from 0.34 (12 species, 2 schools, 50 spells, 201 statuses, 102 unique artefacts).
+* New `outils/` folder: extraction of game texts, coverage measure (87 % of descriptions), version comparison, guides.
 
-## 0.10 — noms de sorts en anglais, dossier outils/
-- Nouveau OPTIONS.js : nomsDeSorts = "anglais" (défaut) ou "francais". En mode anglais, les noms de sorts et d'écoles (Fire, Hexes...) restent
-  en anglais ; descriptions, menus et messages restent en français et sont adaptés (« parchemin d'Apportation », « Votre souvenir d'Olgreb’s... »).
-- donnees/sorts/textes_noms_anglais.js : textes qui citent un sort, réécrits pour le mode anglais.
-- moteur/content.js : lignes du menu des sorts protégées des règles génériques ; élision « d’ » ; parchemins de sorts.
-- Mode « francais » : résultat identique à la v0.9 (vérifié sur 23 013 textes).
-- Non inclus : optimisations de vitesse proposées (à décider après test dans Firefox).
-- sorts_melee_effets.js : phrases de lancer de sort des monstres : « Le magicien orc lance un sort. », « Le mage ogre lance « Haste Other » à l’orc ! »,
-  « Sigmund vous lance « Blink » » (nom du sort tel quel en mode anglais), sortilèges mineurs.
-- donnees/interface/complements.js : ~290 textes qui manquaient (descriptions de capacités, de terrains, de mutations, de monstres, d’astuces, nuage de flammes, etc.) et les NOMS de ~285 terrains (autels, portes, escaliers, portails, pièges, statues, conduits...).
-- actions_competences_pouvoirs.js : une quinzaine de messages de plus (apparitions, blocage d’un projectile, chaînes d’Ashenzari, souvenirs des alliés de Hepliaklqana...).
-- combat_divers.js : ~40 messages de plus (écrasement contre un mur, tête coupée, poison de l’arme d’Olgreb, attaques de Wu Jian, moutons de rêve, dos tourné...). Les « !! » et « !!! » (coups forts) sont gérés. Correction : « Vous écrasez le X against the wall » ne se mélange plus.
-- complements.js : +300 descriptions de la 0.34 : 12 espèces, 2 écoles de magie, 50 nouveaux sorts, 201 statuts, 102 artefacts uniques.
-- Nouveau dossier outils/ : extraction des textes du jeu, mesure de couverture (87 % des descriptions ; ~94 % hors citations), comparaison entre deux versions du jeu, guides « nouvelle version » et « autre langue ».
-- Non traduit : citations littéraires (quotes), mode tutoriel (72 textes), ~360 messages à trou libre à confirmer en jeu.
+## 0.9 — lighter engine and messages with variables
+* Incremental translation (only changed nodes are reprocessed); catastrophic regex backtracking removed (~2× faster); the audit no longer re-examines a text.
+* New hole-phrase engine: ~850 messages translated by family (monster states, traps, theft, items, equipment, potions, Zot, monster spells, melee, gods, runes, gems). A phrase with a hole left in English is kept fully English rather than mixed.
+* 746 mutation short names/messages, 239 long mutation descriptions, 75+331 tips, 936 fixed game messages, unidentified wands/rings/amulets/staves.
+* 580 ordinary monsters, ~250 combat phrases, inventory lines, 388 long monster descriptions, 107 abilities, 95 terrain/traps, 141 monster statuses.
 
-## 0.9 — allègement du moteur et messages à variables
-- moteur/content.js : traduction incrémentale (seuls les nœuds modifiés dans les zones du jeu sont retraités, balayage complet seulement après
-  une rafale de plus de 400 changements ou 1,5 s de calme). Résultat identique à l'ancienne version (testé dans Chromium : historique, nouveau
-  message, texte modifié en place, fenêtre ajoutée d'un coup, rafale de 400 lignes). Ancienne version : archives/content_avant_allegement.js (hors zip).
-- donnees/messages/combat.js : expression régulière des états remplacée (backtracking catastrophique supprimé, ~2 fois plus rapide) ;
-  « de l’orc » corrigé (au lieu de « d’orc ») pour les monstres à article élidé.
-- moteur/diagnostic.js : un texte déjà examiné n'est plus réexaminé.
-- Nouveau moteur donnees/messages/variables.js + variables_a..e.js : ~850 messages à trous traduits par familles (acteur + phrase) :
-  statuts de monstres, pièges, vols, objets, équipement, potions, Zot, sorts de monstres, mêlée, messages des dieux, runes et joyaux.
-  Une phrase dont un trou resterait en anglais est laissée entièrement en anglais plutôt que mélangée.
-- Non traduit : messages de débogage, d'erreur et d'options ; tableaux de résistances/attaques ; textes à code Lua.
-- actions_competences_pouvoirs.js : actions en plusieurs tours (mettre/retirer un équipement), compétences, pouvoirs de dieux (~90 phrases de plus).
+## 0.8 — file reorganisation
+Files moved into `moteur/` (engine) and `donnees/` (data by category); `perso.js` became `MES-CORRECTIONS.js`.
 
-## 0.9 — mutations, astuces, messages fixes
-- donnees/personnage/mutations_msg.js : 746 noms courts et messages de mutation (gain / perte / « vous aurez »).
-- donnees/personnage/mutations_desc.js : 239 descriptions longues de mutations (menu des mutations).
-- donnees/interface/astuces.js : 75 astuces / aides contextuelles (celles sans touche intégrée).
-- Non traduit volontairement : textes contenant du code Lua ({{ }}) ou des touches variables ($cmd), car le jeu les compose à l'exécution.
-- donnees/interface/astuces_morceaux.js : 331 morceaux de phrases des astuces contenant des touches variables. Clé commençant par « ~ » = remplacement partiel (nouveau dans moteur/content.js).
-- donnees/interface/descriptions_diverses.js : cartes, nuages, historiques, branches, statuts, commandes, joyaux, Pakellas... + morceaux fixes des textes à code Lua (clés « ~ »).
-- moteur/content.js : les remplacements partiels « ~ » fonctionnent aussi sur les textes multi-lignes (espaces normalisées).
-- donnees/objets/apparences.js : baguettes, anneaux, amulettes et bâtons non identifiés (« une baguette en fer sertie de bijoux »). « silvery » ajouté aux potions. Artefacts « the Staff/Wand of X » traduits.
-- donnees/messages/messages_fixes.js : 936 messages du jeu sans variable (sorts, pièges, refus, ambiance).
-- Les libellés rFire / rElec restent en anglais (comme dans l'écran du jeu).
+## 0.7 — spells and command page
+Descriptions and names of all spells (also inside menus, keeping column width); command help page (`?` then `*`) translated; key letters stay English because they are the real keys.
 
-## 0.9 — monstres, combat, descriptions longues
-- 580 monstres ordinaires ajoutés (donnees/messages/vocabulaire.js).
-- Nouveau donnees/messages/combat.js : environ 250 phrases de combat (lancer un sort, chanceler, disparaître...),
-  attaques avec arme « de loin », simulacres, projectiles et effets, et lignes « un faune, maniant une fronde (endormi, 76 % de toucher) ».
-- Nouveau donnees/messages/divers.js : lignes d'inventaire avec inscriptions {!q}, [Shoals:4], (gained N), doublons,
-  rareté ; bijoux, baguettes, bâtons, talismans ; « Vous entendez... », « Vous voyez ici... », lignes de compétences, objectifs d'entraînement.
-- Reste en anglais volontairement : noms de dieux, de branches (Lair:2), noms de personnages uniques (Polyphemus...).
-- Ajout (liste d'audit n°3) : fantômes (« Rago's ghost »), 104 monstres uniques (sans article), étreintes (« grab and squeeze »),
-  boutiques et prix (« 22 gold »), liste d'achats, bruits et petites phrases ; tableau des compétences réaligné.
-- Descriptions longues du jeu (donnees/monstres/) : 388 monstres, 107 capacités, 95 décors et pièges, 141 textes de statuts de monstres,
-  16 capacités passives. Source : dat/descript/*.txt du jeu ; les textes qui contiennent du code Lua (variables du jeu) sont laissés en anglais.
+## 0.6 — items and file organisation
+Descriptions of all remaining items (potions, scrolls, wands, staves, rings, amulets, spellbooks, talismans, gems, dragon scales, decks, manuals); lexicon split into per-category files.
 
-## 0.8 — rangement des fichiers
-traductions.js -> moteur/assemblage.js ; content.js, diagnostic.js, manuel_moteur.js -> moteur/
+## 0.5b — item sheets
+Accuracy/damage/delay lines, skill training, weapon/armour descriptions. Literary quotes deliberately left untranslated.
 
-```
-traductions/perso.js -> MES-CORRECTIONS.js
-traductions/officiel.js -> donnees/officiel.js
-traductions/sorts.js -> donnees/sorts/noms.js ; sorts_desc.js -> donnees/sorts/descriptions.js
-traductions/lex_objets.js, lex_armes.js, lex_egos.js -> donnees/objets/objets.js, armes.js, egos.js
-traductions/races.js, metiers.js, lex_dieux.js, mutations.js -> donnees/personnage/ (races, metiers, dieux, mutations)
-traductions/aide.js -> donnees/interface/commandes_aide.js ; lex_libelles.js -> libelles.js ; lex_menus.js -> menus.js
-traductions/vocabulaire.js, messages.js (-> regles.js), lex_phrases.js (-> phrases.js), lex_textes_longs.js (-> textes_longs.js) -> donnees/messages/
-traductions/manuel_01..08.js -> donnees/manuel/
-Supprimés car vides : monstres.js, objets.js, dieux.js, interface.js (aucune donnée perdue).
-```
+## 0.5 — lexicon, gods, powers
+~1360 texts; god phrases built by the game ("X is neutral towards you", "X's wrath lasts…"); power costs, menus, character journal.
 
-## 0.7 — sorts et page des commandes
-- Descriptions de TOUS les sorts traduites (officiel.js + sorts_desc.js).
-- Noms de sorts traduits (sorts.js), y compris dans le menu des sorts : la largeur des colonnes est conservée.
-- Les sorts sont aussi traduits dans les listes (livre, mémoriser, oublier, « Cast: »), les confirmations et les noms d'écoles (Fire → Feu...).
-- Pas d'équivalent officiel : ce sont des traductions maison, à corriger librement.
-- Page des commandes (touche ? puis *) traduite (aide.js). Les lettres de touches restent en anglais (w = wield...) car ce sont les vraies touches.
-
-## 0.6 — objets et organisation en fichiers
-- Descriptions de tous les objets restants : potions, parchemins, baguettes, bâtons, anneaux, amulettes,
-  livres de sorts, talismans, joyaux, écailles de dragon, jeux de cartes, manuels... (lex_objets.js).
-- Organisation : lexique.js découpé en fichiers par catégorie (lex_*.js), tables de vocabulaire dans
-  vocabulaire.js, nouveau fichier perso.js pour vos corrections. Voir « CORRIGER UNE TRADUCTION À LA MAIN ».
-
-## 0.5b — fiches d'objets
-Précision/dégâts/délais d'attaque, entraînement des compétences, « Vous l'avez pris à… »,
-descriptions de quelques armes et armures : règles dans messages.js, textes dans lex_armes.js, lex_egos.js et lex_objets.js.
-Les CITATIONS (littérature, poèmes) qui s'affichent dans les fiches ne sont pas traduites,
-volontairement : elles restent dans leur langue d'origine. L'audit les listera quand même.
-
-## 0.5 — lexique, dieux, pouvoirs
-- lexique : environ 1360 textes, répartis en fichiers lex_*.js (liste d'audit, armes, marques, objets).
-- Phrases des dieux construites par le jeu (« X est neutre envers vous », « La colère de X dure... »,
-  « X apprécie que vous... ») : règles dans messages.js (tables DIEUX et CLAUSES).
-- Coûts de pouvoirs « (4 MP, Piety--) », menus « a - Nom », journal du personnage.
-- Pas encore traduit : la page de la liste complète des commandes (touche ?), car ses textes
-  sont sur deux colonnes ; et les titres de pages d'aide longs. À faire séparément.
-
-## 0.4 et avant — la base
-La base de départ (extension Firefox, moteur de remplacement de texte et premières traductions) a été **rago**. Le travail a ensuite consisté à l'adapter aux listes et descriptions officielles du dépôt DCSS (monstres, capacités, décors) puis à tout le reste décrit ci-dessus.
+## 0.4 and before — the base
+The starting base (Firefox extension, text-replacement engine and first translations) was provided by **rago**. The work then consisted of adapting it to the official lists and descriptions of the DCSS repository (monsters, abilities, terrain) and extending it.
