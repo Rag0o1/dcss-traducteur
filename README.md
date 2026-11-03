@@ -50,6 +50,10 @@ copy(JSON.parse(document.documentElement.dataset.dcssTextesNonTraduits || "[]").
 
 The list of untranslated texts (one per line) is now in your clipboard — paste it into a `.txt` file. Other lists: `dataset.dcssMonstresManquants` (unknown monsters), `dataset.dcssAide` (raw help screen text). Also in [`outils/AUDIT-COMMAND.txt`](outils/AUDIT-COMMAND.txt).
 
+## Contribute
+
+This is a community-style project: **anyone can help**, no coding needed. Report untranslated text, fix a wording, translate a block, or reuse the engine for another language — see [`CONTRIBUTING.md`](CONTRIBUTING.md).
+
 ## Documentation
 
 | File | Content |

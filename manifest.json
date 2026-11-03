@@ -49,6 +49,8 @@
         "donnees/messages/textes_longs.js",
         "moteur/phrases_a_trous.js",
         "donnees/messages/gabarits/dieux_xom.js",
+        "donnees/messages/gabarits/magie_rates.js",
+        "donnees/messages/gabarits/cris.js",
         "moteur/gabarits.js",
         "donnees/interface/menus.js",
         "donnees/objets/armes.js",
