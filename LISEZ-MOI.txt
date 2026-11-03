@@ -1,4 +1,4 @@
-DCSS TRADUCTEUR (version 0.12.6)
+DCSS TRADUCTEUR (version 0.13)
 ==============================
 
 Extension Navigateur qui traduit DCSS Web en français. Elle ne modifie pas le jeu :
@@ -56,6 +56,7 @@ donnees/               Les traductions
     monstres/              Descriptions longues : descriptions.js (monstres), capacites.js, decors.js, statuts.js, passives.js.
     combat.js              Messages de combat et lignes « monstre en vue » (gabarits GABARITS, verbes VERBES, effets EFFETS).
     phrases_a_trous/       Les messages à « trous » (monstre, objet, nombre...), un fichier par sujet. Voir phrases_a_trous/LISEZ-MOI.txt.
+    gabarits/              Les phrases de la base de données du jeu (Xom, dieux, bientôt insultes et cris) ; moteur : moteur/gabarits.js. Voir gabarits/LISEZ-MOI.txt.
                            Le moteur qui les applique est moteur/phrases_a_trous.js (mode d'emploi des trous en tête du fichier).
     divers.js              Inventaire (bijoux, baguettes, bâtons, talismans, inscriptions), bruits, « Vous voyez ici », objectifs.
     sorts/textes_noms_anglais.js  Textes qui citent un sort (mode noms anglais). Ne pas toucher.

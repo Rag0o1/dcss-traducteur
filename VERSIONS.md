@@ -9,6 +9,11 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.13 — changement de fonctionnement
+- **Nouveau moteur `moteur/gabarits.js`** : traduit les phrases de la base de données du jeu (`dat/database`), qui sont écrites avec des morceaux variables (`@couleur@`, `@The_feature@`, `[variante a|variante b]`). Il sait traduire les couleurs, les parties du corps, les décors, les objets du joueur, les truites de Xom, etc.
+- **Premier fichier de gabarits : `donnees/messages/gabarits/dieux_xom.js`** : toutes les phrases de Xom (événements aléatoires du donjon, rires, cadeaux, bannissement, résurrection...) et les phrases des dieux (bienvenue, pénitence, mort, Zot). `godspeak.txt` passe de 3 % à ~80 % traduit.
+- Les autres fichiers de la base (insultes, cris, ratés de magie, graffitis, bruits d’armes, paroles des monstres) suivront avec le même moteur.
+
 ## 0.12.6 — changement mineur
 - Audit du 03/11 : acquisition (« Acquire … ? »), objets à accolades (« the ring of the Giraffataur {…} »), potentiel de dégâts, étude de compétences, chance de remboursement, résultats de recherche, runes, liste de mutations, résumé « Turns / Time », aides de touches.
 

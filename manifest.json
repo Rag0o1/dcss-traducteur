@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "DCSS Traducteur",
-  "version": "0.12.6",
+  "version": "0.13",
   "description": "Couche de traduction française pour DCSS Web",
   "content_scripts": [
     {
@@ -48,6 +48,8 @@
         "donnees/messages/phrases.js",
         "donnees/messages/textes_longs.js",
         "moteur/phrases_a_trous.js",
+        "donnees/messages/gabarits/dieux_xom.js",
+        "moteur/gabarits.js",
         "donnees/interface/menus.js",
         "donnees/objets/armes.js",
         "donnees/objets/egos.js",
