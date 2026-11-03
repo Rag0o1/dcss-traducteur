@@ -66,6 +66,13 @@
         _xom_child_: x => ENFANT[x] || x, _trout_species_: x => TRUITE[x] || (x + " truite"),
         _xom_plaything_: x => ({ "teddy bear": "ours en peluche", toy: "jouet", plaything: "joujou" })[x] || x,
         staircase: x => ({ staircase: "escalier", stairs: "escalier", "escape hatch": "trappe", "down staircase": "escalier", "up staircase": "escalier" })[x] || T1(x) || x,
+        target: x => { const a = acteur(x); return a ? a.o : /^you$/i.test(x) ? "vous" : null; },
+        foe: x => { const a = acteur(x); return a ? a.o : /^you$/i.test(x) ? "vous" : null; },
+        reflexive: x => ({ itself: "lui-même", himself: "lui-même", herself: "elle-même", themselves: "eux-mêmes" })[x] || null,
+        subjective: x => ({ it: "il", he: "il", she: "elle", they: "ils" })[x] || null,
+        something: x => /^something$/i.test(x) ? "quelque chose" : null,
+        possessive_God: x => x.replace(/['’]s$/, ""),
+        arms: MACROS.body, beam: x => { const r = T1("a " + x) || T1(x); return r && r !== x && r !== "a " + x ? r.replace(/^(?:un|une|le|la|l’|des|les) ?/, "") : null; },
         weapon_noise: x => T1(x) || x, player_genus: x => ({ human: "humains", elf: "elfes", dwarf: "nains", orc: "orques", draconian: "draconiens", demonspawn: "démonspawns", gnoll: "gnolls", felid: "félins" })[x] || x,
     };
 
@@ -104,7 +111,7 @@
         sortie = g.fr.replace(/\[([^\]]*)\]/g, (tout, liste) => { const a = alts[ia++]; const o = liste.split("|"); if (!a) return o[0]; const n = a.p.opts.indexOf(a.v); const r = o[Math.min(n < 0 ? 0 : n, o.length - 1)]; return r === undefined ? o[0] : r; });
         let ok = true;
         sortie = sortie.replace(/@M_([SodaeA])@/g, (t, k) => mon ? (mon[k] || "") : t);
-        sortie = sortie.replace(/@([^@\s]+)@/g, (tout, nom) => { if (/^M_/.test(nom)) { ok = false; return tout; } const v = macros[nom.replace(/^~/, "")]; if (v === undefined) { ok = false; return tout; } const f = FONCTION[nom]; const r = f ? f(v) : v; if (r === null || r === undefined) { ok = false; return v; } return r; });
+        sortie = sortie.replace(/@([^@\s]+)@/g, (tout, nom) => { if (/^M_/.test(nom)) { ok = false; return tout; } const v = macros[nom.replace(/^~/, "")] !== undefined ? macros[nom.replace(/^~/, "")] : nom === "T_o" ? ["target", "foe"].map(k => macros[k]).find(x => x !== undefined) : nom === "sur" || nom === "vers" ? macros.at : undefined; if (v === undefined) { ok = false; return tout; } const f = FONCTION[nom === "T_o" ? (macros.target !== undefined ? "target" : "foe") : nom]; const r = nom === "sur" ? (v === "past" ? "à côté de" : "sur") : nom === "vers" ? (v === "past" ? "à côté de" : "vers") : f ? f(v) : v; if (r === null || r === undefined) { ok = false; return v; } return r; });
         if (ok) sortie = sortie.replace(/\bde ([aeiouyàâéèêîôûœ])/g, "d’$1") + punct;
         return ok ? sortie : null;
     }

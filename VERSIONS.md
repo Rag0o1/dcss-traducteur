@@ -11,6 +11,11 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.15 — le moteur de gabarits connaît les cibles de sorts
+- `moteur/gabarits.js` comprend `@at@` (« sur » / « à côté de » si le sort rate), `@target@`, `@foe@`, `@reflexive@`, `@subjective@`, `@something@`, `@beam@`, les noms de dieux et `@arms@`.
+- Nouveau fichier `monstres_sorts.js` : ce que disent et font les monstres en lançant un sort (`dat/database/monspell.txt`) : gestes, chants, prières, souffles, lanceurs invisibles (« Vous entendez … »). Couverture de ce fichier : 24 % → 63 %.
+- Réorganisation du dépôt : **le français est maintenant la branche principale** ; la documentation anglaise est sur la branche `en` (et dans le wiki).
+
 ## 0.14 — le moteur de gabarits connaît les monstres
 - `moteur/gabarits.js` comprend maintenant les **monstres** (`@The_monster@`… ; en français `@M_S@ @M_o@ @M_d@ @M_a@ @M_e@`), les phrases **sans ponctuation finale** (le jeu ajoute « . » ou « ! ») et des morceaux typés (mains, possessifs).
 - Nouveaux fichiers de gabarits : `magie_rates.js` (tous les ratés de magie : joueur, monstres, lanceur invisible ; toutes les écoles) et `cris.js` (cris et bruits des monstres).
