@@ -1,4 +1,5 @@
-# Creates a GitHub Release (with the zip attached) automatically whenever the version in manifest.json changes on main.
+# Creates a GitHub Release (with the zip attached) for every MAJOR version (0.13, 0.14...) and every 10th minor (0.13.10, 0.13.20...).
+# Other minor versions (0.13.1 ... 0.13.9) are not released on their own: their notes are included in the next release.
 name: Release zip
 on:
   push:
@@ -12,22 +13,44 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Read version
+      - name: Read version and decide
         id: v
-        run: echo "version=$(python3 -c "import json;print(json.load(open('manifest.json'))['version'])")" >> "$GITHUB_OUTPUT"
+        run: |
+          python3 - <<'PY' >> "$GITHUB_OUTPUT"
+          import json, re
+          v = json.load(open('manifest.json'))['version']
+          m = re.fullmatch(r'(\d+)\.(\d+)(?:\.(\d+))?', v)
+          release = bool(m) and (m.group(3) is None or int(m.group(3)) % 10 == 0)
+          print(f"version={v}")
+          print(f"release={'yes' if release else 'no'}")
+          PY
       - name: Build zip
+        if: steps.v.outputs.release == 'yes'
         run: |
           V="${{ steps.v.outputs.version }}"
           mkdir -p /tmp/pkg && rsync -a --exclude='.git' --exclude='.github' ./ "/tmp/pkg/dcss-traducteur/"
           (cd /tmp/pkg && zip -qr "$GITHUB_WORKSPACE/DCSS-Traducteur-v${V}.zip" dcss-traducteur)
-      - name: Create release if missing
+      - name: Create release
+        if: steps.v.outputs.release == 'yes'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           V="v${{ steps.v.outputs.version }}"
+          PREV=$(gh release list --limit 1 --json tagName --jq '.[0].tagName' 2>/dev/null || true)
+          python3 - "${V#v}" "${PREV#v}" > notes.md <<'PY'
+          import re, sys
+          cur, prev = sys.argv[1], sys.argv[2]
+          out, on = [], False
+          for line in open('VERSIONS.md', encoding='utf8'):
+              m = re.match(r'## (\d+(?:\.\d+)*)\b', line)
+              if m:
+                  if m.group(1) == cur: on = True
+                  elif m.group(1) == prev: on = False
+              if on: out.append(line)
+          print(''.join(out) or 'See VERSIONS.md')
+          PY
           if gh release view "$V" >/dev/null 2>&1; then
             gh release upload "$V" "DCSS-Traducteur-${V}.zip" --clobber
           else
-            NOTES=$(awk -v v="${V#v}" '$0 ~ "^## "v" " {f=1; next} /^## / {f=0} f' VERSIONS.md)
-            gh release create "$V" "DCSS-Traducteur-${V}.zip" --title "$V" --notes "${NOTES:-See VERSIONS.md}" --target main
+            gh release create "$V" "DCSS-Traducteur-${V}.zip" --title "$V" --notes-file notes.md --target main
           fi
