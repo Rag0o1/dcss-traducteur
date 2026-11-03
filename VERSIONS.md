@@ -7,6 +7,8 @@
 
 Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` (`"version"`), la première ligne de `LISEZ-MOI.txt`, et le nom du zip (`DCSS-Traducteur-vX.Y.zip`).
 
+**Releases GitHub** (zip joint) : créées automatiquement (`.github/workflows/release.yml`, sur la branche `main`) pour chaque version **majeure** (`0.13`, `0.14`…) et toutes les **10 versions mineures** (`0.13.10`, `0.13.20`…). Les notes des mineures intermédiaires sont reprises dans la release suivante.
+
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
 ## 0.13 — changement de fonctionnement
