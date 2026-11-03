@@ -285,5 +285,14 @@
         const reste = m[0].replace(/^[a-zA-Z] - /, "");
         const det = m[2] ? m[2] + " parchemins" : /^the /.test(reste) ? "le parchemin" : /^an? /.test(reste) ? "un parchemin" : "parchemin";
         return `${m[1]}${det} de ${nom}${m[4]}`; } };
-    globalThis.DCSS_TRADUCTION_REGLES = (globalThis.DCSS_TRADUCTION_REGLES || []).concat([regle, parch]);
+    // « Scroll of Blinking » / « scroll of blinking » / « Potion of Haste » seuls (titres, menus) : on passe par la forme avec article déjà traduite.
+    const nu = { regex: /^([Ss]crolls?|[Pp]otions?) of ([A-Za-z][A-Za-z' -]*?)(\.?)$/, translate: m => {
+        const T1 = globalThis.DCSS_TRADUIRE_CHAINE; if (!T1) return null;
+        const pl = /s$/.test(m[1]); const base = m[1].toLowerCase().replace(/s$/, "");
+        const r = T1((pl ? "2 " + base + "s" : "a " + base) + " of " + m[2].toLowerCase());
+        if (!r || /\b(of|scrolls?)\b/i.test(r)) return null;
+        let o = r.replace(/^(?:un|une|le|la|2)\s+/, ""); if (!o || o === r && !pl) return null;
+        if (/^[A-Z]/.test(m[1])) o = o[0].toUpperCase() + o.slice(1);
+        return o + m[3]; } };
+    globalThis.DCSS_TRADUCTION_REGLES = (globalThis.DCSS_TRADUCTION_REGLES || []).concat([regle, parch, nu]);
 })();
