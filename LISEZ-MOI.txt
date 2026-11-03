@@ -18,7 +18,7 @@ outils/arene/         Lancer des combats d'arène du vrai jeu pour récupérer s
 OPTIONS.js             Réglages (pour l'instant : noms de sorts en anglais ou en français).
 MES-CORRECTIONS.js     VOS corrections. COMMENCEZ TOUJOURS ICI (chargé en dernier : il gagne sur tout).
 manifest.json          Liste des fichiers chargés (l'ordre compte). Rien à y changer.
-HISTORIQUE.txt         Ce qui a changé version après version.
+VERSIONS.md            Numérotation des versions et ce qui a changé version après version.
 
 moteur/                Le programme (inutile d'y toucher pour corriger une traduction)
   content.js             Cherche la traduction et remplace le texte.
