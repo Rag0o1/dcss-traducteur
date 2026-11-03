@@ -89,5 +89,20 @@
         const fem = /^(?:la |l’(?:armure|robe|cotte|cuirasse|cape|écharpe|cagoule))/.test(o);
         return `${o.charAt(0).toUpperCase()}${o.slice(1)} est assez intact${fem ? "e" : ""} pour être porté${fem ? "e" : ""}.`; } });
 
+
+    // --- Menu des compétences : « m - Conjurations 11.0 -- » ---
+    const COMP = { Conjurations: "Conjurations", Translocations: "Translocations", Summonings: "Convocations", Hexes: "Maléfices", Necromancy: "Nécromancie" };
+    R.push({ regex: /^([a-zA-Z]) - ([A-Z][A-Za-z&' ]+?) (\d+(?:\.\d)?)( --)?$/, translate: m => {
+        const n = COMP[m[2]] || T1(m[2]); if (!n || n === m[2]) return null; return `${m[1]} - ${n} ${m[3]}${m[4] || ""}`; } });
+
+    // --- Exclusions de déplacement : « exclusions: hydra and staircase » ---
+    const EXCL = { staircase: "escalier", stairs: "escaliers", "down staircase": "escalier descendant", "up staircase": "escalier montant", portal: "portail", altar: "autel" };
+    const nomExcl = x => { if (EXCL[x]) return EXCL[x]; const C = globalThis.DCSS_COMBAT; const a = C && C.acteurTexte ? C.acteurTexte("a " + x) : null;
+        return a ? a.o.replace(/^(?:une?|l’|le|la) ?/, "") : null; };
+    R.push({ regex: /^exclusions?: (.+)$/, translate: m => {
+        const l = m[1].split(/, | and /).map(nomExcl); if (l.some(x => !x)) return null;
+        const ll = l.length < 2 ? l[0] : l.slice(0, -1).join(", ") + " et " + l[l.length - 1];
+        return `${/^exclusions/.test(m.input) ? "exclusions" : "exclusion"} : ${ll}`; } });
+
     globalThis.DCSS_TRADUCTION_REGLES = (globalThis.DCSS_TRADUCTION_REGLES || []).concat(R.filter(r => typeof r.translate === "function"));
 })();

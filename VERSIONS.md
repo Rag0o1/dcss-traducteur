@@ -9,6 +9,9 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.12.5 — changement mineur
+- Menu des compétences (« a - Fighting 3.5 » → « a - Combat 3.5 ») et exclusions de déplacement (« exclusions: hydra and staircase » → « exclusions : hydre et escalier »).
+
 ## 0.12.4 — changement mineur
 - Audit de la 0.12.1 : ~75 textes traités (mains de zombie, « sock/thump », projectiles « bolt / puff of frost / splash of acid », lignes d’examen d’un monstre « He can fly. », « Speed: … », « Will: ++ », aides de touches des menus, messages des Mines orques, etc.). Corrigé : « The flash freeze hits you. » (projectile + « vous ») ne se traduisait pas.
 - La commande pour copier la liste des textes non traduits est maintenant documentée (`LISEZ-MOI.txt`, `README.md`, `outils/COMMANDE-AUDIT.txt`).
