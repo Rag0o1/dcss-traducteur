@@ -280,10 +280,11 @@
     const joindre = l => l.length < 2 ? l.join("") : l.slice(0, -1).join(", ") + " et " + l[l.length - 1];
     const regle = { regex: /^You add the (spells?) (.+) to your library\.$/, translate: m => `Vous ajoutez ${m[1] === "spell" ? "le sort" : "les sorts"} ${joindre(noms(m[2]))} à votre bibliothèque.` };
     // « parchment of Blink » (parchemin de sort) : singulier / pluriel, avec ou sans lettre d'inventaire. Le nom du sort suit l'option nomsDeSorts.
-    const parch = { regex: /^((?:[a-zA-Z] - )?)(?:(\d+) parchments|(?:an? |the )?parchment) of ([A-Z][^.,()!]*?)(\.?)$/, translate: m => {
+    const parch = { regex: /^((?:[a-zA-Z] - )?)(?:(\d+) parchments|(?:[Aa]n? |[Tt]he )?[Pp]archment) of ([A-Z][^.,()!]*?)(\.?)$/, translate: m => {
         const T1 = globalThis.DCSS_TRADUIRE_CHAINE; const nom = T1 ? (T1(m[3]) || m[3]) : m[3];
         const reste = m[0].replace(/^[a-zA-Z] - /, "");
-        const det = m[2] ? m[2] + " parchemins" : /^the /.test(reste) ? "le parchemin" : /^an? /.test(reste) ? "un parchemin" : "parchemin";
+        let det = m[2] ? m[2] + " parchemins" : /^the /i.test(reste) ? "le parchemin" : /^an? /i.test(reste) ? "un parchemin" : "parchemin";
+        if (/^[A-Z]/.test(reste)) det = det.charAt(0).toUpperCase() + det.slice(1);
         return `${m[1]}${det} de ${nom}${m[4]}`; } };
     // « Scroll of Blinking » / « scroll of blinking » / « Potion of Haste » seuls (titres, menus) : on passe par la forme avec article déjà traduite.
     const nu = { regex: /^([Ss]crolls?|[Pp]otions?) of ([A-Za-z][A-Za-z' -]*?)(\.?)$/, translate: m => {
@@ -294,5 +295,17 @@
         let o = r.replace(/^(?:un|une|le|la|2)\s+/, ""); if (!o || o === r && !pl) return null;
         if (/^[A-Z]/.test(m[1])) o = o[0].toUpperCase() + o.slice(1);
         return o + m[3]; } };
-    globalThis.DCSS_TRADUCTION_REGLES = (globalThis.DCSS_TRADUCTION_REGLES || []).concat([regle, parch, nu]);
+    // Phrase contenant un parchemin de sort : « You pick up a parchment of Blink. », « You see here ... »
+    // Astuce : on remplace l'objet par un objet connu (« scroll of blinking »), on traduit la phrase, puis on remet le parchemin traduit.
+    const parchPhrase = { regex: /^(.+? )((?:an? |the |\d+ )?parchments? of [A-Z][^.,()!]*?)(\.?)$/, translate: m => {
+        const obj = m[2]; const n = /^(\d+) /.exec(obj);
+        const dt = /^the /i.test(obj) ? "the " : n ? n[1] + " " : "a ";
+        const pl = n && +n[1] > 1;
+        const marque = dt + (pl ? "scrolls" : "scroll") + " of blinking";
+        const r = globalThis.DCSS_TRADUIRE_CHAINE ? globalThis.DCSS_TRADUIRE_CHAINE(m[1] + marque + m[3]) : null;
+        const connu = pl ? n[1] + " parchemins de clignotement" : dt === "the " ? "le parchemin de clignotement" : "un parchemin de clignotement";
+        if (!r || r.indexOf(connu) === -1) return null;
+        const p = parch.translate(parch.regex.exec(obj));
+        return p ? r.replace(connu, p) : null; } };
+    globalThis.DCSS_TRADUCTION_REGLES = (globalThis.DCSS_TRADUCTION_REGLES || []).concat([regle, parch, parchPhrase, nu]);
 })();

@@ -9,6 +9,9 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.12.2 — changement mineur
+- Parchemins de sorts : « A parchment of Blink. » est traduit en entier en mode noms de sorts français, et les phrases qui les contiennent (« Vous ramassez / Vous voyez ici / Vous lâchez un parchemin de … ») ne restent plus à moitié en anglais.
+
 ## 0.12.1 — changement mineur
 - ~25 messages du jeu avec trous relevés dans le code source (fumées toxiques, lumière d'Elyvilon, âme, blessures, dévorer, bondir…) dans `phrases_a_trous/audit_0_35.js`.
 
