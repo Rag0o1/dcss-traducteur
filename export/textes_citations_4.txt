@@ -1,0 +1,866 @@
+EN: They wouldn't let me join their adventuring club without the Orb.
+FR: Ils n’ont pas voulu de moi dans leur club d’aventuriers sans l’Orbe.
+
+EN: I hate this place.
+FR: Je déteste cet endroit.
+
+EN: I hate you, too.
+FR: Moi aussi, je vous déteste.
+
+EN: My feet hurt.
+FR: J’ai mal aux pieds.
+
+EN: My hands hurt, too.
+FR: Et aux mains aussi.
+
+EN: I think I'm starting to get a cough. I hate that.
+FR: Je crois que je commence à tousser. Je déteste ça.
+
+EN: I've got a headache. I hate that.
+FR: J’ai mal à la tête. Je déteste ça.
+
+EN: That colour you're wearing? I hate that.
+FR: Cette couleur que vous portez ? Je déteste ça.
+
+EN: Like I always say, the jar is half empty.
+FR: Comme je dis toujours, le verre est à moitié vide.
+
+EN: And you think you've got it bad...
+FR: Et vous pensez avoir des problèmes...
+
+EN: I wonder if there's an end to this place.
+FR: Je me demande s’il y a une fin à cet endroit.
+
+EN: Is it turtles all the way down?
+FR: C’est des tortues jusqu’en bas ?
+
+EN: The people that built this place? They must be crazy.
+FR: Les gens qui ont construit cet endroit ? Ils doivent être fous.
+
+EN: The air in here stinks. I hate that.
+FR: L’air ici pue. Je déteste ça.
+
+EN: I bet the Orb isn't even all that great.
+FR: Je parie que l’Orbe n’est même pas si terrible.
+
+EN: So, what is this Orb thing, anyway?
+FR: Alors, c’est quoi cette histoire d’Orbe, au juste ?
+
+EN: I hope I haven't come all this way for a glorified paperweight.
+FR: J’espère que je n’ai pas fait tout ce chemin pour un simple presse-papier.
+
+EN: I don't get what's so special about the number twenty-seven.
+FR: Je ne comprends pas ce que le nombre vingt-sept a de si spécial.
+
+EN: The other people here are really rude.
+FR: Les autres gens ici sont vraiment mal élevés.
+
+EN: Maybe I'll visit Hell next.
+FR: Peut-être que j’irai visiter l’Enfer ensuite.
+
+EN: The Vaults look kind of boring.
+FR: Les Vaults ont l’air plutôt ennuyeux.
+
+EN: I can never work out what any of these scrolls mean.
+FR: Je n’arrive jamais à comprendre ce que veulent dire ces parchemins.
+
+EN: What lunatic would build a room out of doors?
+FR: Quel fou construirait une pièce faite de portes ?
+
+EN: Why would someone put a sword in a little box?
+FR: Pourquoi mettre une épée dans une petite boîte ?
+
+EN: I think I hate rivers, but I can't remember why.
+FR: Je crois que je déteste les rivières, mais je ne sais plus pourquoi.
+
+EN: That guy with the scythe is really mean.
+FR: Le type à la faux est vraiment méchant.
+
+EN: What kind of a name is Fauntleroy?
+FR: C’est quoi ce nom, Fauntleroy ?
+
+EN: What's the big idea?!
+FR: C’est quoi l’idée ?!
+
+EN: Roses are red / violets are blue / I hate many things / But most of all you!
+FR: Les roses sont rouges / les violettes sont bleues / je déteste plein de choses / mais vous, bien plus que tout !
+
+EN: I suppose everything's okay, then?
+FR: Je suppose que tout va bien, alors ?
+
+EN: Actually, I like you.
+FR: En fait, je vous aime bien.
+
+EN: Oh boy, oh boy, oh boy!
+FR: Oh là là, oh là là, oh là là !
+
+EN: Aw, phooey!
+FR: Zut, flûte !
+
+EN: But I've got a wife! And kids! Have I?
+FR: Mais j’ai une femme ! Et des enfants ! Non ?
+
+EN: My legs! My legs! What happened to my legs?
+FR: Mes jambes ! Mes jambes ! Qu’est-il arrivé à mes jambes ?
+
+EN: Don't use me like a cheap sock puppet. I hate that.
+FR: Ne m’utilisez pas comme une vulgaire marionnette en chaussette. Je déteste ça.
+
+EN: Everybody knows that one already. Try something more original.
+FR: Tout le monde connaît déjà celle-là. Essayez quelque chose de plus original.
+
+EN: I'm dying. I hate that.
+FR: Je meurs. Je déteste ça.
+
+EN: Banished to the Abyss. I hate that.
+FR: Banni dans l’Abysse. Je déteste ça.
+
+EN: I won. I... don't hate that.
+FR: J’ai gagné. Je... ne déteste pas ça.
+
+EN: Well, maybe you weren't so bad after all.
+FR: Eh bien, finalement vous n’étiez peut-être pas si mauvais.
+
+EN: Magic will overcome all!
+FR: La magie vaincra tout !
+
+EN: Her death will not be in vain!
+FR: Sa mort ne sera pas vaine !
+
+EN: How can I live without her?
+FR: Comment vivre sans elle ?
+
+EN: And she was my only...
+FR: Et elle était ma seule...
+
+EN: I will find her! I will get her back!
+FR: Je la retrouverai ! Je la ramènerai !
+
+EN: She won't be lost forever!
+FR: Elle ne sera pas perdue pour toujours !
+
+EN: I will find a way to undo this!
+FR: Je trouverai un moyen de défaire ça !
+
+EN: Turn her back! At once!
+FR: Rendez-la-moi ! Tout de suite !
+
+EN: My weaknesses are her strengths!
+FR: Mes faiblesses sont ses forces !
+
+EN: Stay away from my face!
+FR: Gardez vos distances avec mon visage !
+
+EN: Magic and the sword, together, will defeat you.
+FR: La magie et l’épée, ensemble, auront raison de vous.
+
+EN: It won't be long now.
+FR: Ça ne sera plus long maintenant.
+
+EN: Insulting my beauty only makes me fight harder!
+FR: Insulter ma beauté ne fait que me rendre plus combatif !
+
+EN: Where the sword fails, magic succeeds!
+FR: Là où l’épée échoue, la magie triomphe !
+
+EN: There's a certain beauty in death, don't you think?
+FR: Il y a une certaine beauté dans la mort, vous ne trouvez pas ?
+
+EN: Don't get delusional, you can't win!
+FR: Ne vous faites pas d’illusions, vous ne pouvez pas gagner !
+
+EN: You have made a grave mistake.
+FR: Vous avez commis une grave erreur.
+
+EN: The sword shall overcome grief!
+FR: L’épée vaincra le chagrin !
+
+EN: His death shall not be in vain!
+FR: Sa mort ne sera pas vaine !
+
+EN: I will avenge him!
+FR: Je le vengerai !
+
+EN: I will journey to Hell to retrieve him!
+FR: J’irai en Enfer pour le récupérer !
+
+EN: What have I done? What have I done?
+FR: Qu’ai-je fait ? Qu’ai-je fait ?
+
+EN: How can I live after this?
+FR: Comment vivre après ça ?
+
+EN: I will get him back!
+FR: Je le ramènerai !
+
+EN: No! What have I done?
+FR: Non ! Qu’ai-je fait ?
+
+EN: My weaknesses are his strengths!
+FR: Mes faiblesses sont ses forces !
+
+EN: Where magic fails, the sword succeeds!
+FR: Là où la magie échoue, l’épée triomphe !
+
+EN: When magic and the sword combine, nothing stands against them.
+FR: Quand la magie et l’épée s’unissent, rien ne leur résiste.
+
+EN: You can run, but you cannot escape us forever!
+FR: Vous pouvez courir, mais vous ne nous échapperez pas éternellement !
+
+EN: I don't care about looks, I care about technique!
+FR: Je me fiche de l’apparence, c’est la technique qui compte !
+
+EN: Did you see that move? Perfect!
+FR: Vous avez vu ce coup ? Parfait !
+
+EN: Beauty is only skin deep, and my weapons penetrate much further than that.
+FR: La beauté n’est que superficielle, et mes armes pénètrent bien plus profond.
+
+EN: Practise, practise, practise! One day you'll be as good as me.
+FR: Entraînez-vous, entraînez-vous, entraînez-vous ! Un jour vous serez aussi bon que moi.
+
+EN: No! How DARE you!
+FR: Non ! Comment OSEZ-vous !
+
+EN: NO! What have I done?
+FR: NON ! Qu’ai-je fait ?
+
+EN: You wouldn't believe how much I paid for this flail.
+FR: Vous n’imaginez pas ce que j’ai payé ce fléau d’armes.
+
+EN: Have you met my wondrous brother?
+FR: Avez-vous rencontré mon merveilleux frère ?
+
+EN: I might not be good at magic, but I can still kill you!
+FR: Je ne suis peut-être pas doué en magie, mais je peux quand même vous tuer !
+
+EN: People think my brother is the best. I think he's crazy.
+FR: Les gens pensent que mon frère est le meilleur. Moi, je pense qu’il est fou.
+
+EN: I'm quite good with sums, too.
+FR: Je me débrouille bien en calcul, aussi.
+
+EN: People accused me of being a cutpurse!
+FR: On m’a accusé d’être un coupeur de bourses !
+
+EN: A flail is better than a scythe, any day of the week!
+FR: Un fléau d’armes vaut mieux qu’une faux, n’importe quel jour de la semaine !
+
+EN: What use are spells, anyway?
+FR: À quoi servent les sorts, de toute façon ?
+
+EN: Who needs spells, anyway?
+FR: Qui a besoin de sorts, de toute façon ?
+
+EN: Everyone always remembers my brother. 'Who's Edmund?' they ask!
+FR: Tout le monde se souvient de mon frère. « Edmund, c’est qui ? » qu’ils disent !
+
+EN: People will remember me! They'll remember me and die!
+FR: Les gens se souviendront de moi ! Ils se souviendront de moi et ils mourront !
+
+EN: Maybe I'll buy a title. How does Count Edmund sound?
+FR: Je vais peut-être m’acheter un titre. Comte Edmund, ça vous dit ?
+
+EN: My parents never had time for me!
+FR: Mes parents n’ont jamais eu de temps pour moi !
+
+EN: That'll show my brother!
+FR: Ça va apprendre à mon frère !
+
+EN: I'd like to see a scythe do that!
+FR: J’aimerais bien voir une faux faire ça !
+
+EN: They better pay attention to me now!
+FR: Ils feraient mieux de me prêter attention maintenant !
+
+EN: I'm so much better than you.
+FR: Je suis tellement meilleur que vous.
+
+EN: I love to horrify, but killing's even better.
+FR: J’adore horrifier, mais tuer, c’est encore mieux.
+
+EN: Fast and perfect. Such is my way of killing.
+FR: Rapide et parfait. Telle est ma façon de tuer.
+
+EN: Your blood will spurt and your skin will burst!
+FR: Votre sang va jaillir et votre peau éclater !
+
+EN: Hurry, death AWAITS you!
+FR: Dépêchez-vous, la mort vous ATTEND !
+
+EN: I'll never tell where it is!
+FR: Je ne dirai jamais où elle est !
+
+EN: You'll never get it!
+FR: Vous ne l’aurez jamais !
+
+EN: The claw is nothing compared to the sucker!
+FR: La griffe n’est rien comparée à la ventouse !
+
+EN: If terror be the object, I am a masterpiece!
+FR: Si la terreur est le but, je suis un chef-d’œuvre !
+
+EN: Reason would be justified, if not for me!
+FR: La raison serait justifiée, si je n’existais pas !
+
+EN: Erolcha kill you!
+FR: Erolcha tuer vous !
+
+EN: Stand! Erolcha hit you!
+FR: Debout ! Erolcha frapper vous !
+
+EN: Erolcha crush your head!
+FR: Erolcha écraser tête de vous !
+
+EN: Erolcha happy to kill you!
+FR: Erolcha content de tuer vous !
+
+EN: Erolcha angry!
+FR: Erolcha fâché !
+
+EN: Wait! Erolcha supposed to do that!
+FR: Attendre ! Erolcha censé faire ça !
+
+EN: At last I'll have my revenge!
+FR: Enfin, j’aurai ma revanche !
+
+EN: Hey, you killed my favourite bat!
+FR: Hé, vous avez tué ma chauve-souris préférée !
+
+EN: Summoning is fun!
+FR: Invoquer, c’est amusant !
+
+EN: My allies will avenge me.
+FR: Mes alliés me vengeront.
+
+EN: This atrocity can only be purified with blood!
+FR: Cette atrocité ne peut être purifiée que par le sang !
+
+EN: I will die for my friends!
+FR: Je mourrai pour mes amis !
+
+EN: To hell with you, honourless miscreant!
+FR: Allez au diable, scélérat sans honneur !
+
+EN: How can you live without manners, virtues and honour?
+FR: Comment pouvez-vous vivre sans manières, sans vertus et sans honneur ?
+
+EN: Perjured traitor, DIE!
+FR: Traître parjure, MEURS !
+
+EN: I can call spirits from the vasty deep.
+FR: Je peux appeler les esprits du fond des abîmes.
+
+EN: Such is the fate of all honourless rascals.
+FR: Tel est le sort de tous les coquins sans honneur.
+
+EN: Show me proof of your conquests, and I will call you a great adventurer.
+FR: Montrez-moi la preuve de vos conquêtes, et je vous appellerai grand aventurier.
+
+EN: I command an army of devils. What do you command?
+FR: Je commande une armée de diables. Et vous, que commandez-vous ?
+
+EN: I value strength and power. I see none of this in you.
+FR: J’apprécie la force et la puissance. Je n’en vois aucune en vous.
+
+EN: I speak the language of demons!
+FR: Je parle la langue des démons !
+
+EN: I have seen worlds and universes beyond all imagining.
+FR: J’ai vu des mondes et des univers au-delà de toute imagination.
+
+EN: There is a strange beauty in the demonic, don't you think?
+FR: Il y a une étrange beauté dans le démoniaque, vous ne trouvez pas ?
+
+EN: Would you challenge me, knowing my power?
+FR: Oseriez-vous me défier, connaissant ma puissance ?
+
+EN: I am undefeated in single-handed combat.
+FR: Je suis invaincu au combat singulier.
+
+EN: Warriors are made for war and combat. Do you call yourself a warrior?
+FR: Les guerriers sont faits pour la guerre et le combat. Vous osez vous dire guerrier ?
+
+EN: Even the Halls of Hell could not contain me.
+FR: Même les Halls de l’Enfer ne pouvaient me contenir.
+
+EN: I will defeat you, of this I have no doubt!
+FR: Je vous vaincrai, je n’en ai aucun doute !
+
+EN: You didn't bring enough reinforcements. Come back later!
+FR: Vous n’avez pas amené assez de renforts. Revenez plus tard !
+
+EN: Pah! Those who rely on gods for strength get nowhere in life.
+FR: Pah ! Ceux qui comptent sur les dieux pour leur force n’arrivent à rien dans la vie.
+
+EN: Adventurers these days do not know how to walk, let alone fight.
+FR: Les aventuriers d’aujourd’hui ne savent pas marcher, encore moins se battre.
+
+EN: In my day, to be a hero meant something. Now, it just means you die quicker.
+FR: De mon temps, être un héros voulait dire quelque chose. Maintenant, ça veut juste dire mourir plus vite.
+
+EN: You call yourself an adventurer? Hah!
+FR: Vous vous prétendez aventurier ? Ha !
+
+EN: I've killed five 'adventurers' today. Will you be the sixth?
+FR: J’ai tué cinq « aventuriers » aujourd’hui. Serez-vous le sixième ?
+
+EN: Challenge me? You, and whose army?
+FR: Me défier ? Vous et quelle armée ?
+
+EN: Why should I even bother fighting the likes of you?
+FR: Pourquoi devrais-je même me donner la peine de combattre des gens comme vous ?
+
+EN: All of you adventurers look the same to me! Bumbling weaklings, the lot!
+FR: Vous les aventuriers, vous vous ressemblez tous ! Des empotés, des mauviettes, tous autant que vous êtes !
+
+EN: For you, today is the most challenging fight of your life. For me... well, I will have lunch shortly.
+FR: Pour vous, c’est aujourd’hui le combat le plus difficile de votre vie. Pour moi... eh bien, je déjeunerai bientôt.
+
+EN: Perhaps I should have been a lumberjack. The trees might put up more of a fight.
+FR: J’aurais peut-être dû être bûcheron. Les arbres résisteraient davantage.
+
+EN: Killing you would be a chore, not a joy.
+FR: Vous tuer serait une corvée, pas un plaisir.
+
+EN: They told me only worthy opponents would get this far.
+FR: On m’avait dit que seuls les adversaires dignes arriveraient jusqu’ici.
+
+EN: You didn't have a chance.
+FR: Vous n’aviez aucune chance.
+
+EN: Someday I'll have a real challenge.
+FR: Un jour, j’aurai un vrai défi.
+
+EN: What a chore.
+FR: Quelle corvée.
+
+EN: You don't even know how to die right.
+FR: Vous ne savez même pas mourir correctement.
+
+EN: Another waste of time.
+FR: Encore une perte de temps.
+
+EN: Your wits are somehow even duller than your claws.
+FR: Votre esprit est encore plus émoussé que vos griffes.
+
+EN: Willingly donning a god's shackles... pitiful.
+FR: Enfiler volontairement les chaînes d’un dieu... pitoyable.
+
+EN: Be happy - you can't get any slower than dead.
+FR: Réjouissez-vous : vous ne pouvez pas être plus lent que mort.
+
+EN: Time for you to vanish into the darkness.
+FR: Il est temps pour vous de disparaître dans les ténèbres.
+
+EN: Healer, heal thyself.
+FR: Médecin, guéris-toi toi-même.
+
+EN: You're grass, mortal.
+FR: Vous êtes de l’herbe, mortel.
+
+EN: Your greed held you back.
+FR: Votre cupidité vous a retenu.
+
+EN: Relying on the deeds of your ancestors brought you no glory.
+FR: Compter sur les exploits de vos ancêtres ne vous a apporté aucune gloire.
+
+EN: Foolish to worship a god whose flame is even dimmer than you.
+FR: Stupide d’adorer un dieu dont la flamme est encore plus faible que vous.
+
+EN: Our battle was as dull and shapeless as your god.
+FR: Notre combat fut aussi terne et informe que votre dieu.
+
+EN: Join the corpses you idolise, mortal.
+FR: Rejoignez les cadavres que vous idolâtrez, mortel.
+
+EN: A more permanent form of banishment for you, mortal.
+FR: Un bannissement plus permanent pour vous, mortel.
+
+EN: And take your demons with you.
+FR: Et emportez vos démons avec vous.
+
+EN: Looks like you fold, gambler.
+FR: On dirait que vous vous couchez, joueur.
+
+EN: Now do you deem me a worthy opponent?
+FR: Me jugez-vous enfin un adversaire digne de ce nom ?
+
+EN: Finally, I'll be able to get some peace and quiet.
+FR: Enfin, je vais pouvoir avoir un peu de paix et de tranquillité.
+
+EN: You gave up too much of yourself.
+FR: Vous avez trop sacrifié de vous-même.
+
+EN: Relying on the knowledge of others got you nowhere, mortal.
+FR: Compter sur le savoir des autres ne vous a mené nulle part, mortel.
+
+EN: I'm sure you'll make a fine angry ghost.
+FR: Je suis sûr que vous ferez un excellent fantôme en colère.
+
+EN: You've danced your last steps.
+FR: Vous avez dansé vos derniers pas.
+
+EN: A mage should rely only on their own abilities.
+FR: Un mage ne devrait compter que sur ses propres capacités.
+
+EN: You should only rely on techniques you've developed yourself.
+FR: On ne devrait compter que sur des techniques qu’on a soi-même développées.
+
+EN: Willingly giving yourself over as a plaything to Xom... strange behaviour.
+FR: Se donner volontairement comme jouet à Xom... comportement étrange.
+
+EN: Find comfort in joining the legions you worship.
+FR: Consolez-vous en rejoignant les légions que vous vénérez.
+
+EN: The only thing more annoying than a worshipper is a proselytiser.
+FR: La seule chose plus agaçante qu’un fidèle, c’est un prosélyte.
+
+EN: The adventurer who shines twice as bright burns out twice as fast.
+FR: L’aventurier qui brille deux fois plus fort s’éteint deux fois plus vite.
+
+EN: I shall freeze you to your soul!
+FR: Je vous glacerai jusqu’à l’âme !
+
+EN: An icy embrace awaits you...
+FR: Une étreinte glacée vous attend...
+
+EN: You will make a fine ice sculpture.
+FR: Vous ferez une belle sculpture de glace.
+
+EN: Does this not give you the chills?
+FR: Ça ne vous donne pas la chair de poule ?
+
+EN: I'll eat you, I will!
+FR: Je vais vous manger, oui !
+
+EN: A snack! A snack!
+FR: Un casse-croûte ! Un casse-croûte !
+
+EN: You're how I like my food. Fast!
+FR: Vous êtes comme j’aime ma nourriture. Rapide !
+
+EN: Slow down, so I can eat you.
+FR: Ralentissez, que je puisse vous manger.
+
+EN: Are you a wizard? Wizards taste nice...
+FR: Vous êtes magicien ? Les magiciens sont délicieux...
+
+EN: Huuuuuuuuuuungry!
+FR: Aaaaaaaaaffamé !
+
+EN: It's true, you are what you eat.
+FR: C’est vrai, on est ce qu’on mange.
+
+EN: I bet you'll be tasty.
+FR: Je parie que vous serez savoureux.
+
+EN: Time to dig in!
+FR: À table !
+
+EN: About time. I'm starving!
+FR: Il était temps. Je meurs de faim !
+
+EN: Let's see if you taste as good as that wizard did.
+FR: Voyons si vous êtes aussi bon que ce magicien.
+
+EN: All other rider will be jealous when they see me now. Except they can't!
+FR: Tous les autres cavaliers seront jaloux en me voyant. Sauf qu’ils pas pouvoir !
+
+EN: Stealth is key to winning *all* battles.
+FR: Discrétion est clé pour gagner *toutes* batailles.
+
+EN: Me always have element of surprise.
+FR: Moi toujours avoir effet de surprise.
+
+EN: Even shrike cannot dodge what it cannot see!
+FR: Même le shrike pas esquiver ce qu’il pas voir !
+
+EN: I make captain now for sure.
+FR: Moi devenir capitaine maintenant, c’est sûr.
+
+EN: Float like a butterfly, sting like... a butterfly with a spear!
+FR: Léger comme un papillon, piquer comme... un papillon avec une lance !
+
+EN: But I... could not... be seen....
+FR: Mais moi... pas pouvoir... être vu....
+
+EN: Goji even *more* invisible!
+FR: Goji encore *plus* invisible !
+
+EN: Silly ' .. you.species():lower() ..
+FR: Idiot ' .. you.species():lower() ..
+
+EN: You look like you could use a good racking.
+FR: Vous avez l’air d’avoir besoin d’un bon passage sur le chevalet.
+
+EN: I used to sell toenails on the black market.
+FR: Je vendais des ongles d’orteils au marché noir.
+
+EN: There's only one good use for a tongue: cutting it out.
+FR: Il n’y a qu’un seul bon usage pour une langue : la couper.
+
+EN: Mostly I couldn't keep them alive.
+FR: La plupart du temps, je n’arrivais pas à les garder en vie.
+
+EN: No one appreciates my work.
+FR: Personne n’apprécie mon travail.
+
+EN: Wait up.
+FR: Attendez.
+
+EN: Just stop there for a second...
+FR: Arrêtez-vous une seconde...
+
+EN: Don't move a muscle.
+FR: Ne bougez pas d’un cil.
+
+EN: Tell me all your secrets, or I'll kill you.
+FR: Dites-moi tous vos secrets, ou je vous tue.
+
+EN: Are you a fish?
+FR: Êtes-vous un poisson ?
+
+EN: What is the universe for?
+FR: À quoi sert l’univers ?
+
+EN: My boss said I was rubbish. His entrails said otherwise.
+FR: Mon patron disait que j’étais nul. Ses entrailles disaient le contraire.
+
+EN: Make like a tree!
+FR: Faites comme l’arbre !
+
+EN: Now the real fun starts!
+FR: Maintenant, le vrai plaisir commence !
+
+EN: Hey, I wasn't done torturing you yet!
+FR: Hé, je n’avais pas fini de vous torturer !
+
+EN: Dead already? I want a refund.
+FR: Déjà mort ? Je veux être remboursé.
+
+EN: I'll hound you night and day!
+FR: Je vous traquerai jour et nuit !
+
+EN: My dogs and I will have a feast tonight...
+FR: Mes chiens et moi allons faire un festin ce soir...
+
+EN: You look like good eating.
+FR: Vous avez l’air d’être bon à manger.
+
+EN: I'll squash you like a puppy.
+FR: Je vais vous écraser comme un chiot.
+
+EN: You ain't no friend of mine.
+FR: Vous n’êtes pas un ami à moi.
+
+EN: No dog meat for Grum tonight!
+FR: Pas de viande de chien pour Grum ce soir !
+
+EN: Time to put down the runt of the litter.
+FR: Il est temps d’abattre le moins bon de la portée.
+
+EN: You will fight me? This will be... rough!
+FR: Vous voulez me combattre ? Ça va être... rude !
+
+EN: Release the hounds!
+FR: Lâchez les chiens !
+
+EN: I'm selling these fine leather pelts.
+FR: Je vends ces belles peaux de cuir.
+
+EN: I don't need to eat anymore, but I'll make an exception for you.
+FR: Je n’ai plus besoin de manger, mais je ferai une exception pour vous.
+
+EN: Selling your soul isn't that bad. What the hell, right?
+FR: Vendre son âme, ce n’est pas si terrible. Après tout, au diable !
+
+EN: It's cold... so cold.
+FR: Il fait froid... si froid.
+
+EN: I don't have all day!
+FR: Je n’ai pas toute la journée !
+
+EN: Just give up already, I want to go home!
+FR: Abandonnez donc, je veux rentrer chez moi !
+
+EN: I was hoping my final job would be more of a challenge, but money is money.
+FR: J’espérais que mon dernier contrat serait plus relevé, mais un contrat est un contrat.
+
+EN: Can you die now? I had plans for the rest of the day!
+FR: Vous pouvez mourir maintenant ? J’avais des projets pour le reste de la journée !
+
+EN: Let's make it quick, okay? I've got mouths to feed.
+FR: Faisons ça vite, d’accord ? J’ai des bouches à nourrir.
+
+EN: Listen, it's nothing personal. It's just a job.
+FR: Écoutez, rien de personnel. C’est juste un boulot.
+
+EN: This is so exciting! What a great way to end my career!
+FR: C’est tellement excitant ! Quelle belle façon de finir ma carrière !
+
+EN: Ah, this is what I got into this business for!
+FR: Ah, c’est pour ça que je me suis lancé dans ce métier !
+
+EN: The price on your head will fill my nest egg nicely!
+FR: La prime sur votre tête garnira joliment mon bas de laine !
+
+EN: Try to look on the bright side. Your death will help put my children through school.
+FR: Voyez le bon côté des choses. Votre mort aidera à payer les études de mes enfants.
+
+EN: Bounty hunting has been great, but I can't wait to retire.
+FR: La chasse aux primes a été formidable, mais j’ai hâte de prendre ma retraite.
+
+EN: My wife will appreciate not having to wash blood out of my clothes anymore.
+FR: Ma femme sera ravie de ne plus avoir à laver le sang de mes vêtements.
+
+EN: I'm getting too old for this!
+FR: Je deviens trop vieux pour ça !
+
+EN: My... family...
+FR: Ma... famille...
+
+EN: But... this was my last day before retirement...
+FR: Mais... c’était mon dernier jour avant la retraite...
+
+EN: I wish I had worked less...
+FR: J’aurais dû travailler moins...
+
+EN: Can't wait to tell my little ones about this.
+FR: J’ai hâte de raconter ça à mes petits.
+
+EN: Time to retire.
+FR: L’heure de la retraite a sonné.
+
+EN: Oh yes! We are going to have fun!
+FR: Oh oui ! On va bien s’amuser !
+
+EN: Pain is my business; you will see!
+FR: La douleur, c’est mon affaire ; vous allez voir !
+
+EN: Off with your head!
+FR: Qu’on lui coupe la tête !
+
+EN: I enjoy death. I like the smell. I like the greasy feel of cooling blood.
+FR: J’aime la mort. J’aime l’odeur. J’aime la sensation grasse du sang qui refroidit.
+
+EN: I have to say that I admire beauty and perfection. I like to watch it die. The contrast as it decays is exquisite.
+FR: Je dois dire que j’admire la beauté et la perfection. J’aime les regarder mourir. Le contraste de leur décomposition est exquis.
+
+EN: 173 down. One million more to go.
+FR: 173 de fait. Un million à aller.
+
+EN: The death blow is fun, but the real pleasure is in torturing beforehand.
+FR: Le coup fatal est amusant, mais le vrai plaisir est de torturer avant.
+
+EN: No gallows around, so decapitation it is.
+FR: Pas de potence dans le coin, alors ce sera la décapitation.
+
+EN: Time for continue experiment!
+FR: Temps de continuer expérience !
+
+EN: Me wand stronger than you!
+FR: Moi baguette plus forte que vous !
+
+EN: It's all mine!
+FR: Tout à moi !
+
+EN: Level is mine! All mine!
+FR: Niveau est à moi ! Tout à moi !
+
+EN: Evocations
+FR: Évocations
+
+EN: Me learn from your wands next!
+FR: Moi apprendre de vos baguettes ensuite !
+
+EN: You look like good test subject!
+FR: Vous avoir l’air d’un bon cobaye !
+
+EN: Don't stand in way of progress!
+FR: Pas rester sur chemin du progrès !
+
+EN: Me am play god!
+FR: Moi jouer à être dieu !
+
+EN: They call me mad!
+FR: Ils me traiter de fou !
+
+EN: Me yet to meet anyone who can outsmart wand!
+FR: Moi pas encore rencontrer quelqu’un qui battre baguette en ruse !
+
+EN: I no like you!
+FR: Moi pas aimer vous !
+
+EN: Me head! Aaaah! Get out now!
+FR: Ma tête ! Aaaah ! Sortir maintenant !
+
+EN: Me give you whole level! Then you leave me be!
+FR: Moi donner vous niveau entier ! Après vous laisser moi tranquille !
+
+EN: Wand still stronger! You very nasty!
+FR: Baguette toujours plus forte ! Vous très méchant !
+
+EN: Science deserve better than this!
+FR: Science mériter mieux que ça !
+
+EN: Me be nice to you! Me promise!
+FR: Moi être gentil avec vous ! Moi promettre !
+
+EN: Me go back to drawing board!
+FR: Moi retourner à planche à dessin !
+
+EN: No nasty magic on me!
+FR: Pas de méchante magie sur moi !
+
+EN: Time for next experiment!
+FR: Temps pour prochaine expérience !
+
+EN: Good help so hard to find!
+FR: Si dur de trouver de bons assistants !
+
+EN: Won't you come swim with me?
+FR: Ne voulez-vous pas venir nager avec moi ?
+
+EN: Come on in, the water's fine.
+FR: Venez donc, l’eau est bonne.
+
+EN: To sleep, to sleep... mayhap to drown.
+FR: Dormir, dormir... peut-être se noyer.
+
+EN: It's lovely beneath the waves - you'll see!
+FR: C’est ravissant sous les vagues - vous verrez !
+
+EN: Do you dare to walk upon the beach?
+FR: Oserez-vous marcher sur la plage ?
+
+EN: Catch me, touch me, love me, feed me!
+FR: Attrapez-moi, touchez-moi, aimez-moi, nourrissez-moi !
+
+EN: Don't trust the tales, trust me!
+FR: Ne croyez pas les contes, croyez-moi !
+
+EN: There's nothing like you and me, on the beach...
+FR: Rien ne vaut vous et moi, sur la plage...
+
+EN: You're disturbing me! I'll have to kill you!
+FR: Vous me dérangez ! Je vais devoir vous tuer !
+
+EN: Why did you come here?
+FR: Pourquoi êtes-vous venu ici ?
+
+EN: I'm really upset.
+FR: Je suis vraiment contrarié.
+
+EN: I hate your company.
+FR: Je déteste votre compagnie.
+
+EN: I don't like beings like you!
+FR: Je n’aime pas les êtres comme vous !
+
+EN: Stop bothering me, or I'll kill you!
+FR: Arrêtez de m’importuner, ou je vous tue !
+
+EN: You are a ghastly nuisance!
+FR: Vous êtes une nuisance épouvantable !

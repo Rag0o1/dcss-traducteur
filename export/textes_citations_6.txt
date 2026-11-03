@@ -1,0 +1,857 @@
+EN: Now you see me, now you don't...
+FR: Tantôt je suis là, tantôt je n’y suis plus...
+
+EN: Don't worry, I'll kill you fast.
+FR: Ne vous inquiétez pas, je vous tuerai vite.
+
+EN: You will soon forget everything.
+FR: Vous aurez bientôt tout oublié.
+
+EN: Look into my eyes.
+FR: Regardez-moi dans les yeux.
+
+EN: I'm your fate.
+FR: Je suis votre destin.
+
+EN: Don't try to resist!
+FR: N’essayez pas de résister !
+
+EN: Time to reap what you sow.
+FR: Voici venu le temps de récolter ce que vous avez semé.
+
+EN: Do you like me?
+FR: Est-ce que je vous plais ?
+
+EN: You will never... NEVER!!!
+FR: Vous ne... JAMAIS !!!
+
+EN: I am the angel of ZOT!!!
+FR: Je suis l’ange de ZOT !!!
+
+EN: Only death can liberate you!
+FR: Seule la mort peut vous libérer !
+
+EN: You'll know eternity soon.
+FR: Vous connaîtrez bientôt l’éternité.
+
+EN: Ah, I'm absolutely famished!
+FR: Ah, je suis absolument affamé !
+
+EN: Ah, I could eat a centaur!
+FR: Ah, je mangerais un centaure !
+
+EN: This battle is not even a challenge!
+FR: Ce combat n’est même pas un défi !
+
+EN: Your form is terrible!
+FR: Votre posture est lamentable !
+
+EN: There are one thousand and one flaws in your strategy!
+FR: Il y a mille et un défauts dans votre stratégie !
+
+EN: Like a bolt from the blue, I'll bring death to you.
+FR: Comme la foudre dans un ciel bleu, je vous apporterai la mort.
+
+EN: Appear weak when you are strong, and strong when you are weak.
+FR: Paraissez faible quand vous êtes fort, et fort quand vous êtes faible.
+
+EN: Know thine enemy, and know thyself.
+FR: Connais ton ennemi, et connais-toi toi-même.
+
+EN: Let your plans be as dark and impenetrable as the night.
+FR: Que vos plans soient aussi sombres et impénétrables que la nuit.
+
+EN: All warfare is based on deception.
+FR: Toute guerre est fondée sur la ruse.
+
+EN: The wise warrior avoids unnecessary battles.
+FR: Le sage guerrier évite les batailles inutiles.
+
+EN: The whole secret lies in confusing the enemy.
+FR: Tout le secret consiste à désorienter l’ennemi.
+
+EN: Avoid what is strong, and strike at what is weak.
+FR: Évitez ce qui est fort, frappez ce qui est faible.
+
+EN: Attack is the secret of defence.
+FR: L’attaque est le secret de la défense.
+
+EN: The expert in battle moves the enemy, and is not moved by them.
+FR: L’expert au combat meut l’ennemi et n’est pas mû par lui.
+
+EN: Appear where you are not expected.
+FR: Apparaissez là où l’on ne vous attend pas.
+
+EN: Ponder and deliberate before you make a move.
+FR: Réfléchissez et délibérez avant de bouger.
+
+EN: The outcome was never in doubt.
+FR: L’issue n’a jamais fait de doute.
+
+EN: Just as planned.
+FR: Comme prévu.
+
+EN: I'm academy-trained, you know.
+FR: J’ai fait l’académie, vous savez.
+
+EN: Join me in the dance of death.
+FR: Rejoignez-moi dans la danse de la mort.
+
+EN: Hah! Missed me again!
+FR: Hah ! Raté, encore une fois !
+
+EN: The Royal Ballet doesn't accept kobolds. That's why I went into killing people.
+FR: Le Ballet royal n’accepte pas les kobolds. C’est pour ça que je me suis mis à tuer des gens.
+
+EN: If only old Madame Brzewit could see me now!
+FR: Si seulement la vieille Madame Brzewit pouvait me voir maintenant !
+
+EN: Some dancing partner you are!
+FR: Quel piètre partenaire de danse vous faites !
+
+EN: Someone hired me to kill you, but I'm not supposed to say who.
+FR: Quelqu’un m’a engagé pour vous tuer, mais je n’ai pas le droit de dire qui.
+
+EN: Show's over.
+FR: Le spectacle est terminé.
+
+EN: launch clockwork bee
+FR: lancement de l’abeille mécanique
+
+EN: Patent thief! You won\'t get away with this!
+FR: Voleur de brevets ! Vous ne vous en tirerez pas comme ça !
+
+EN: I thought of it first! Give it back!
+FR: J’y ai pensé le premier ! Rendez-le-moi !
+
+EN: I\'ll bet your bee is still using copper gearwork!
+FR: Je parie que votre abeille utilise encore des engrenages en cuivre !
+
+EN: Who\'s been selling my blueprints? Tell me!
+FR: Qui a vendu mes plans ? Dites-le-moi !
+
+EN: Allow me to demonstrate the bee of the future!
+FR: Permettez-moi de vous présenter l’abeille du futur !
+
+EN: It makes honey *and* kills pests. Ingenious!
+FR: Elle fait du miel *et* tue les nuisibles. Ingénieux !
+
+EN: Clockwork honey contains at least 35% more iron! Nutritious.
+FR: Le miel mécanique contient au moins 35 % de fer en plus ! Nutritif.
+
+EN: Chitin is about to be a thing of the past!
+FR: La chitine est sur le point de devenir de l’histoire ancienne !
+
+EN: Soon, every apiary\'s gonna want a piece of Sprozz!
+FR: Bientôt, tous les apiculteurs voudront leur part de Sprozz !
+
+EN: I need a test subject for my new stingers. I volunteer you.
+FR: J’ai besoin d’un sujet d’essai pour mes nouveaux dards. Je vous choisis.
+
+EN: Tell me how much this hurts, okay? I need more data.
+FR: Dites-moi à quel point ça fait mal, d’accord ? Il me faut plus de données.
+
+EN: Perhaps it could use a bit more zinc in the wings....
+FR: Peut-être faudrait-il un peu plus de zinc dans les ailes...
+
+EN: Next time I\'m using spur gears. Less buzzing.
+FR: La prochaine fois, j’utilise des engrenages droits. Moins de bourdonnement.
+
+EN: Pollen collection still 41% less efficient. Must improve.
+FR: Récolte de pollen toujours 41 % moins efficace. À améliorer.
+
+EN: Nectar collection still 37% less efficient. Must improve.
+FR: Récolte de nectar toujours 37 % moins efficace. À améliorer.
+
+EN: I *knew* mine was better!
+FR: Je *savais* que la mienne était meilleure !
+
+EN: Progress like this can\'t be stopped by anyone!
+FR: Un tel progrès ne peut être arrêté par personne !
+
+EN: I fought strong elephant-riders! You're not strong!
+FR: J’ai combattu de puissants cavaliers d’éléphants ! Vous n’êtes pas fort !
+
+EN: You're not a real warrior! I'll show you a warrior!
+FR: Vous n’êtes pas un vrai guerrier ! Je vais vous en montrer un !
+
+EN: I've sent legions of armataurs to their deaths. With their elephants.
+FR: J’ai envoyé des légions d’armataures à la mort. Avec leurs éléphants.
+
+EN: I hate armataurs! They have no honour!
+FR: Je déteste les armataures ! Ils n’ont aucun honneur !
+
+EN: I retired to this dungeon. Do you want to retire to the afterlife?
+FR: Je me suis retiré dans ce donjon. Voulez-vous vous retirer dans l’au-delà ?
+
+EN: I'm retired! Go away!
+FR: Je suis à la retraite ! Allez-vous-en !
+
+EN: I want to be left alone!
+FR: Je veux qu’on me laisse tranquille !
+
+EN: Your supposed skill won't protect you!
+FR: Votre prétendu talent ne vous protégera pas !
+
+EN: Where's your power now?!
+FR: Où est votre puissance, maintenant ?!
+
+EN: Stand, coward! You want a fight, show some honour!
+FR: Debout, lâche ! Vous voulez un combat, montrez un peu d’honneur !
+
+EN: I'm tired of war. But if you want blood, you'll get blood!
+FR: J’en ai assez de la guerre. Mais si vous voulez du sang, vous en aurez !
+
+EN: Get out, before I make you get out!
+FR: Sortez, avant que je vous y force !
+
+EN: I hate trespassers!
+FR: Je déteste les intrus !
+
+EN: I put up a 'Do Not Disturb' sign! Can't you read?!
+FR: J’ai mis une pancarte « Ne pas déranger » ! Vous ne savez pas lire ?!
+
+EN: Finally, peace and quiet.
+FR: Enfin, la paix et le calme.
+
+EN: And stay out!
+FR: Et ne revenez pas !
+
+EN: Win and live. Lose and die. It's the rule of life.
+FR: Gagne et vis. Perds et meurs. C’est la règle de la vie.
+
+EN: Honour does not prevent me from taking a tactical advantage.
+FR: L’honneur ne m’empêche pas de prendre un avantage tactique.
+
+EN: You're the ugliest harpy I ever saw.
+FR: Vous êtes la harpie la plus laide que j’aie jamais vue.
+
+EN: My one eye mightn't be all that good, but I can see you just fine with it, harpy.
+FR: Mon œil unique n’est peut-être pas fameux, mais il me suffit pour vous voir, harpie.
+
+EN: A harpy? Time to die, you blasted buzzard!
+FR: Une harpie ? L’heure de mourir, maudit volatile !
+
+EN: I know a harpy when I see one!
+FR: Je reconnais une harpie quand j’en vois une !
+
+EN: Close enough.
+FR: Ça ira.
+
+EN: Time to carve some turkeys.
+FR: Il est temps de plumer des dindons.
+
+EN: Bird-brain!
+FR: Cervelle d’oiseau !
+
+EN: Prepare for a defeathering!
+FR: Préparez-vous à être déplumée !
+
+EN: Revenge!
+FR: Vengeance !
+
+EN: Die, harpy!
+FR: Meurs, harpie !
+
+EN: All you harpies will die!
+FR: Vous mourrez toutes, harpies !
+
+EN: Payback for my eye!
+FR: Vous paierez pour mon œil !
+
+EN: Damn your eyes!
+FR: Maudits soient vos yeux !
+
+EN: I'm goin' to kill you! Now!
+FR: Je vais vous tuer ! Maintenant !
+
+EN: Your bloody kin took my one good eye. Now you die, harpy!
+FR: Votre sale engeance m’a pris mon seul bon œil. Maintenant, vous mourez, harpie !
+
+EN: You are already dead.
+FR: Vous êtes déjà morte.
+
+EN: Sometimes I wonder if they all really are harpies.
+FR: Parfois je me demande si elles sont vraiment toutes des harpies.
+
+EN: Revenge at last!
+FR: Enfin la vengeance !
+
+EN: One more harpy dead.
+FR: Une harpie de plus au tapis.
+
+EN: Right between the eyes...
+FR: En plein entre les yeux...
+
+EN: You'll make a fine pincushion.
+FR: Vous ferez une belle pelote à épingles.
+
+EN: Hold still for a moment. You're making this shot difficult.
+FR: Ne bougez pas un instant. Vous me compliquez ce tir.
+
+EN: You are a traitor to our kind!
+FR: Vous êtes un traître à notre espèce !
+
+EN: Heretic!
+FR: Hérétique !
+
+EN: Swear allegiance to our queen and you may yet be spared!
+FR: Jurez fidélité à notre reine et vous serez peut-être épargné !
+
+EN: We do not look kindly on intruders!
+FR: Nous n’aimons pas les intrus !
+
+EN: Headshot.
+FR: Tir à la tête.
+
+EN: Intruder eliminated.
+FR: Intrus éliminé.
+
+EN: All clear. Let's check for more.
+FR: Zone dégagée. Vérifions s’il y en a d’autres.
+
+EN: I'll gie ye a proper bath in magma.
+FR: Je vais vous offrir un vrai bain de magma.
+
+EN: By thae beards o' ma forefathars, ye wilnae live tae see tha morn'!
+FR: Par la barbe de mes ancêtres, vous ne verrez pas le jour se lever demain !
+
+EN: I got whit I came for, but wha passes up a proper rammy?
+FR: J’ai eu ce que j’étais venu chercher, mais qui refuserait une bonne bagarre ?
+
+EN: Ye nae take from a dwarf whit's his!
+FR: On ne prend pas à un nain ce qui lui appartient !
+
+EN: Hit me lik' ye mean it, ye dafty glaikit!
+FR: Frappez-moi pour de bon, espèce de gourde !
+
+EN: Och, ye'r asking fur it now.
+FR: Ah, vous le cherchez, maintenant.
+
+EN: Wee kobolds think thay ken whit a cannon is.
+FR: Les p’tits kobolds croient savoir ce qu’est un canon.
+
+EN: I'll break a bone for every stitch ye rip.
+FR: Je vous casserai un os pour chaque point de couture que vous déchirerez.
+
+EN: If ye must ken, mah gran stitched it fur me.
+FR: Si vous tenez à le savoir, c’est ma grand-mère qui me l’a cousu.
+
+EN: I havnae been down this way for yonks. They've redecorated.
+FR: Ça fait des lustres que je ne suis pas passé par ici. Ils ont refait la déco.
+
+EN: I hear the Orcs make a nippy scran these days.
+FR: Paraît que les orcs font un casse-croûte du tonnerre ces jours-ci.
+
+EN: Ye cannae match dwarven artillery.
+FR: Vous ne pouvez pas rivaliser avec l’artillerie naine.
+
+EN: Have ye nae fought a dwarf before?
+FR: Vous n’avez encore jamais combattu de nain ?
+
+EN: I'll be sure to include this battle in my report!
+FR: Je n’oublierai pas d’inclure ce combat dans mon rapport !
+
+EN: We all must contribute to the advancement of science.
+FR: Nous devons tous contribuer au progrès de la science.
+
+EN: You're giving me such wonderful data!
+FR: Vous me fournissez des données merveilleuses !
+
+EN: Ah, a fellow alchemist! Surely you'll appreciate what I've learned here.
+FR: Ah, un confrère alchimiste ! Vous apprécierez sûrement ce que j’ai appris ici.
+
+EN: Allow me to demonstrate my discoveries.
+FR: Permettez-moi de vous exposer mes découvertes.
+
+EN: Oh, to leap as freely as a jumping spider...
+FR: Oh, bondir aussi librement qu’une araignée sauteuse...
+
+EN: Oh, to fly as furtive as a ghost moth...
+FR: Oh, voler aussi furtivement qu’un papillon fantôme...
+
+EN: Oh, to shine as brightly as a sun moth...
+FR: Oh, briller aussi fort qu’un papillon solaire...
+
+EN: Oh, to be as impervious as an emperor scorpion...
+FR: Oh, être aussi invulnérable qu’un scorpion empereur...
+
+EN: Oh, to inspire such passion as a moth of wrath...
+FR: Oh, inspirer autant de passion qu’un papillon de la colère...
+
+EN: Oh, to ruin all my specimens like a blasted pharaoh ant...
+FR: Oh, ruiner tous mes spécimens comme une maudite fourmi pharaon...
+
+EN: I'll be sure to list you as a co-author when my work is published!
+FR: Je ne manquerai pas de vous citer comme coauteur quand mon travail sera publié !
+
+EN: YOU BORE ME SO.
+FR: VOUS M’ENNUYEZ TANT.
+
+EN: DIE, PUNY ONE!
+FR: MEUREZ, CHÉTIF !
+
+EN: FACE MY WRATH!
+FR: AFFRONTEZ MA COLÈRE !
+
+EN: COMING HERE WAS YOUR LAST MISTAKE!
+FR: VENIR ICI ÉTAIT VOTRE DERNIÈRE ERREUR !
+
+EN: I'VE KILLED HUNDREDS OF ADVENTURERS!
+FR: J’AI TUÉ DES CENTAINES D’AVENTURIERS !
+
+EN: YOU'RE BARELY A SNACK.
+FR: VOUS ÊTES À PEINE UN EN-CAS.
+
+EN: YOU LOOK DELICIOUS.
+FR: VOUS AVEZ L’AIR DÉLICIEUX.
+
+EN: I HATE BEING BOTHERED!
+FR: JE DÉTESTE QU’ON ME DÉRANGE !
+
+EN: I HOPE YOU'RE TASTY!
+FR: J’ESPÈRE QUE VOUS ÊTES SAVOUREUX !
+
+EN: BAH! BLOODY ADVENTURERS.
+FR: BAH ! SALES AVENTURIERS.
+
+EN: COMING HERE WAS YOUR LAST MISTAKE.
+FR: VENIR ICI ÉTAIT VOTRE DERNIÈRE ERREUR.
+
+EN: TIME FOR A NIBBLE.
+FR: L’HEURE DE GRIGNOTER.
+
+EN: BIG WORDS FOR SUCH A SMALL MORSEL!
+FR: DE GRANDS MOTS POUR UNE SI PETITE BOUCHÉE !
+
+EN: I'll flense you until there's nothing left!
+FR: Je vais vous écorcher jusqu’à ce qu’il ne reste plus rien !
+
+EN: I'll hammer you into slag!
+FR: Je vais vous marteler en scories !
+
+EN: I nearly understand... Get out of my way!
+FR: Je comprends presque... Écartez-vous de mon chemin !
+
+EN: Look what I've done to myself! Think you can do worse?
+FR: Regardez ce que je me suis fait ! Croyez-vous pouvoir faire pire ?
+
+EN: Think you're sharper than me?
+FR: Vous vous croyez plus affûté que moi ?
+
+EN: How can you challenge a perfect, immortal machine?
+FR: Comment osez-vous défier une machine parfaite et immortelle ?
+
+EN: When I cut you open, what secrets will I find?
+FR: Quand je vous ouvrirai, quels secrets y trouverai-je ?
+
+EN: I can hear her whispering... but she's dead. She's dead!
+FR: Je l’entends murmurer... mais elle est morte. Elle est morte !
+
+EN: I'll bring them back. Then they'll show me... everything...
+FR: Je les ramènerai. Alors ils me montreront... tout...
+
+EN: Just more dross for the fire.
+FR: Encore des scories pour le feu.
+
+EN: Let's see what's inside you.
+FR: Voyons ce que vous avez à l’intérieur.
+
+EN: If you're unwilling to [dance|bow], then I'll see you out.
+FR: Si vous refusez de [danser|vous incliner], je vous raccompagnerai à la sortie.
+
+EN: Come and play with me!
+FR: Venez jouer avec moi !
+
+EN: Trust me, I'm a doctor.
+FR: Faites-moi confiance, je suis médecin.
+
+EN: Young upstarts should know their place.
+FR: Les jeunes blancs-becs devraient connaître leur place.
+
+EN: You haven't even grown your second tail yet.
+FR: Vous n’avez même pas encore votre deuxième queue.
+
+EN: Grace and deceit. The only things anyone needs.
+FR: Grâce et duplicité. Tout ce dont on a besoin.
+
+EN: It's not just demons who despoil everything they cannot have.
+FR: Il n’y a pas que les démons qui souillent ce qu’ils ne peuvent posséder.
+
+EN: Nevermore!
+FR: Jamais plus !
+
+EN: Death awaits you!
+FR: La mort vous attend !
+
+EN: Everyone has to die sometime, and your time is now.
+FR: Chacun doit mourir un jour, et votre heure est venue.
+
+EN: You must die NOW!
+FR: Vous devez mourir MAINTENANT !
+
+EN: I'll crush your bones, one by one.
+FR: Je broierai vos os, un par un.
+
+EN: I will show you what pain is.
+FR: Je vais vous montrer ce qu’est la douleur.
+
+EN: You will wish to die when I get to you.
+FR: Vous souhaiterez mourir quand je m’occuperai de vous.
+
+EN: I know your fate. It's pain.
+FR: Je connais votre destin. C’est la douleur.
+
+EN: You will die horribly!
+FR: Vous mourrez dans d’atroces souffrances !
+
+EN: I am all your nightmares come true.
+FR: Je suis tous vos cauchemars devenus réalité.
+
+EN: I will drown you in your own blood.
+FR: Je vous noierai dans votre propre sang.
+
+EN: I will eat your liver.
+FR: Je mangerai votre foie.
+
+EN: I know a thousand and one ways to kill you.
+FR: Je connais mille et une façons de vous tuer.
+
+EN: I'll show you my torture chamber!
+FR: Je vais vous montrer ma chambre de torture !
+
+EN: Get ready! Throes of agony await you.
+FR: Tenez-vous prêt ! Les affres de l’agonie vous attendent.
+
+EN: Prepare for my thousand needles of pain!
+FR: Préparez-vous à mes mille aiguilles de douleur !
+
+EN: I'll tear you apart!
+FR: Je vais vous mettre en pièces !
+
+EN: Thou must remain pure in the battle against evil.
+FR: Vous devez rester pur dans la lutte contre le mal.
+
+EN: Continue thy quest, mortal!
+FR: Poursuivez votre quête, mortel !
+
+EN: Forge ahead, servant of Elyvilon!
+FR: Allez de l’avant, serviteur d’Elyvilon !
+
+EN: Carry on, mortal.
+FR: Continuez, mortel.
+
+EN: Beogh doesn't tell me what to do!
+FR: Beogh ne me dit pas quoi faire !
+
+EN: You're not the messiah, I am!
+FR: Vous n’êtes pas le messie, c’est moi !
+
+EN: You're NOT the saviour of the Orcs.
+FR: Vous n’êtes PAS le sauveur des orcs.
+
+EN: You're not even a proper Orc...
+FR: Vous n’êtes même pas un véritable orc...
+
+EN: How could Beogh possibly choose you?
+FR: Comment Beogh aurait-il pu vous choisir ?
+
+EN: Beogh will surely punish you for your arrogance!
+FR: Beogh vous punira sûrement pour votre arrogance !
+
+EN: You, the messiah? You don't even look the part!
+FR: Vous, le messie ? Vous n’en avez même pas l’allure !
+
+EN: The messiah will not be a {{ return you.race() }}!
+FR: Le messie ne sera pas un {{ return you.race() }} !
+
+EN: The messiah will be a true Orc!
+FR: Le messie sera un vrai orc !
+
+EN: Orcs don't need Beogh!
+FR: Les orcs n’ont pas besoin de Beogh !
+
+EN: Beogh's messiah is just a fairy-tale.
+FR: Le messie de Beogh n’est qu’un conte de fées.
+
+EN: Even if there were a messiah, it wouldn't be you.
+FR: Même s’il y avait un messie, ce ne serait pas vous.
+
+EN: You, our saviour!?
+FR: Vous, notre sauveur ?!
+
+EN: For a messiah, you look rather [sorry|pathetic|miserable].
+FR: Pour un messie, vous avez l’air plutôt [minable|pathétique|misérable].
+
+EN: Your [costumes|disguise|tricks] cannot [fool|deceive] me.
+FR: Vos [costumes|déguisements|astuces] ne peuvent pas me [duper|tromper].
+
+EN: I wonder, will Beogh raise you from the dead?
+FR: Je me demande si Beogh vous ressuscitera.
+
+EN: Orcs kill for Beogh, Orcs die for Beogh!
+FR: Les orcs tuent pour Beogh, les orcs meurent pour Beogh !
+
+EN: Your appearance changed my life!
+FR: Votre apparition a changé ma vie !
+
+EN: Dying for Beogh gives my life meaning.
+FR: Mourir pour Beogh donne un sens à ma vie.
+
+EN: Blood in Beogh's name!
+FR: Du sang au nom de Beogh !
+
+EN: All our enemies must die!
+FR: Tous nos ennemis doivent mourir !
+
+EN: Let's [kill|smash|burn|maim] whoever stands in our way!
+FR: [Tuons|Écrasons|Brûlons|Mutilons] quiconque se dresse sur notre chemin !
+
+EN: With Beogh's help we'll overthrow all the false gods!
+FR: Avec l’aide de Beogh, nous renverserons tous les faux dieux !
+
+EN: Take back everything that was taken from us!
+FR: Reprenons tout ce qui nous a été pris !
+
+EN: I'm proud to serve; I'm ready to die.
+FR: Je suis fier de servir ; je suis prêt à mourir.
+
+EN: Orcs will kill them all!
+FR: Les orcs les tueront tous !
+
+EN: Orcs rule!
+FR: Les orcs dominent !
+
+EN: Beogh doesn't mind all this killing, you know.
+FR: Beogh ne voit pas d’inconvénient à tous ces meurtres, vous savez.
+
+EN: I am so glad I met you.
+FR: Je suis si heureux de vous avoir rencontré.
+
+EN: I never had a vision before.
+FR: Je n’avais jamais eu de vision auparavant.
+
+EN: Our fallen brethren won't be forgotten.
+FR: Nos frères tombés ne seront pas oubliés.
+
+EN: I'm proud to be an orc.
+FR: Je suis fier d’être un orc.
+
+EN: I'm an Orc, you're an Orc, it's OK.
+FR: Je suis un orc, vous êtes un orc, tout va bien.
+
+EN: When this is all over, I'm going to start a fungus farm.
+FR: Quand tout ça sera fini, je lancerai une ferme de champignons.
+
+EN: Surely Beogh must have sent you!
+FR: Beogh vous a sûrement envoyé !
+
+EN: Are you our saviour?
+FR: Êtes-vous notre sauveur ?
+
+EN: I'm so glad you are here now.
+FR: Je suis si content que vous soyez là.
+
+EN: I'll follow you! Let me live!
+FR: Je vous suivrai ! Laissez-moi vivre !
+
+EN: You must be the Messiah, I see it now!
+FR: Vous devez être le Messie, je le vois maintenant !
+
+EN: I follow Beogh's word, I swear it!
+FR: Je suis la parole de Beogh, je le jure !
+
+EN: You have your revenge! Let me go!
+FR: Vous avez eu votre vengeance ! Laissez-moi partir !
+
+EN: Spare me, and you'll never see me again!
+FR: Épargnez-moi et vous ne me reverrez jamais !
+
+EN: I deserve death, but Beogh is merciful!
+FR: Je mérite la mort, mais Beogh est miséricordieux !
+
+EN: You saved me!
+FR: Vous m’avez sauvé !
+
+EN: You really are the Messiah.
+FR: Vous êtes vraiment le Messie.
+
+EN: I knew I could rely on you.
+FR: Je savais que je pouvais compter sur vous.
+
+EN: Now I can live to fight another day.
+FR: Maintenant je pourrai vivre pour combattre un autre jour.
+
+EN: Disloyal scoundrel, leave my sight!
+FR: Traître déloyal, hors de ma vue !
+
+EN: I'll spare you only if you run away! Begone!
+FR: Je ne vous épargnerai que si vous prenez la fuite ! Disparaissez !
+
+EN: Your faithless show of piety disgusts me!
+FR: Votre piété hypocrite me dégoûte !
+
+EN: Beogh may forgive you, but I don't!
+FR: Beogh vous pardonnera peut-être, mais pas moi !
+
+EN: You had your chance, apostate scum!
+FR: Vous aviez votre chance, sale apostat !
+
+EN: Beogh offers mercy even to people such as you. Join us and be reborn!
+FR: Beogh offre sa miséricorde même à des gens comme vous. Rejoignez-nous et renaissez !
+
+EN: The Pantheon deserves no one's loyalty. Let us show you the true path!
+FR: Le Panthéon ne mérite la loyauté de personne. Laissez-nous vous montrer la vraie voie !
+
+EN: Surrender to Beogh and we'll let you live!
+FR: Soumettez-vous à Beogh et nous vous laisserons la vie sauve !
+
+EN: Beogh's wrath is as vast as Beogh's mercy. Make your choice!
+FR: La colère de Beogh est aussi vaste que sa miséricorde. Faites votre choix !
+
+EN: I yield! You are indeed the chosen one!
+FR: Je me rends ! Vous êtes bien l’élu !
+
+EN: I yield! Victory is yours!
+FR: Je me rends ! La victoire est à vous !
+
+EN: I will never forget you!
+FR: Je ne vous oublierai jamais !
+
+EN: Not even the Unformed can stop the chosen ones of Beogh!
+FR: Même les Informes ne peuvent arrêter les élus de Beogh !
+
+EN: Who's laughing NOW?
+FR: Qui rit MAINTENANT ?
+
+EN: I think my head was attached to my elbow for a minute there...
+FR: Je crois que ma tête était fixée à mon coude pendant un moment...
+
+EN: I don't think I'll ever look at the stars the same way again.
+FR: Je ne crois pas que je regarderai de nouveau les étoiles de la même façon.
+
+EN: Just try that again; I dare you!
+FR: Essayez encore une fois, je vous en défie !
+
+EN: It was just one butterfly....
+FR: Ce n’était qu’un petit papillon...
+
+EN: Vengeance for the fallen!
+FR: Vengeance pour les morts !
+
+EN: Blood calls out to blood!
+FR: Le sang appelle le sang !
+
+EN: Kill them all! Beogh will know Beogh's own!
+FR: Tuez-les tous ! Beogh reconnaîtra les siens !
+
+EN: For our kin! And for all that died before them!
+FR: Pour les nôtres ! Et pour tous ceux qui sont morts avant eux !
+
+EN: Eye for eye, tooth for tooth, life for life!
+FR: Œil pour œil, dent pour dent, vie pour vie !
+
+EN: Return their pain upon them a hundredfold!
+FR: Rendez-leur leur douleur au centuple !
+
+EN: The pain, the pain!
+FR: La douleur, la douleur !
+
+EN: Please, just kill me!
+FR: Je vous en prie, tuez-moi !
+
+EN: What has happened to me?
+FR: Que m’est-il arrivé ?
+
+EN: What has been done to me?
+FR: Qu’a-t-on fait de moi ?
+
+EN: I think I died... I think I'm dead...
+FR: Je crois que je suis mort... je crois que je suis mort...
+
+EN: So itchy! Itchy, itchy, itchy! Always itchy!
+FR: Ça démange ! Ça démange, ça démange ! Toujours ça démange !
+
+EN: I will have my revenge on the monster who did this!
+FR: Je me vengerai du monstre qui m’a fait ça !
+
+EN: Took all my skin, all gone, all gone...
+FR: Ils ont pris toute ma peau, tout est parti, tout est parti...
+
+EN: I was beautiful once. Now look at me.
+FR: J’étais beau, autrefois. Regardez-moi maintenant.
+
+EN: I am only a sick, bizarre, defaced creation.
+FR: Je ne suis qu’une créature malade, bizarre et défigurée.
+
+EN: Know when to hold 'em, know when to fold 'em...
+FR: Savoir quand garder ses cartes, savoir quand les jeter...
+
+EN: Wait, this doesn't belong here!
+FR: Attendez, ça n’a rien à faire ici !
+
+EN: Wait, where'd this come from?
+FR: Attendez, d’où ça sort ?
+
+EN: So many ways to mutate things!
+FR: Tant de façons de muter les choses !
+
+EN: Orbs of destruction hurt!
+FR: Les orbes de destruction, ça fait mal !
+
+EN: Necromancy hurts!
+FR: La nécromancie, ça fait mal !
+
+EN: Thunder and lightning everywhere!
+FR: Du tonnerre et des éclairs partout !
+
+EN: Acid hurts!
+FR: L’acide, ça fait mal !
+
+EN: So many ways magic can go wrong!
+FR: Tant de façons dont la magie peut mal tourner !
+
+EN: No fresh air for enemies!
+FR: Pas d’air frais pour les ennemis !
+
+EN: Healing and magic? Woohoo!
+FR: Soins et magie ? Youpi !
+
+EN: The Abyss is a horrible place!
+FR: L’Abîme est un endroit horrible !
+
+EN: I don't want to be sealed in with no windows!
+FR: Je ne veux pas être enfermé sans fenêtres !
+
+EN: Know when to walk away, know when to run.
+FR: Savoir quand s’en aller, savoir quand courir.
+
+EN: Hope the weapon's aim is true!
+FR: Pourvu que l’arme vise juste !
+
+EN: Elemental beasts everywhere!
+FR: Des bêtes élémentaires partout !
+
+EN: I have a twin now!
+FR: J’ai un jumeau maintenant !
+
+EN: Hope the demon is friendly!
+FR: Pourvu que le démon soit amical !
+
+EN: New friends who can shoot!
+FR: De nouveaux amis qui savent tirer !
+
+EN: Bees, bees everywhere!
+FR: Des abeilles, des abeilles partout !
+
+EN: I'm a pig now!
+FR: Je suis un cochon, maintenant !
+
+EN: Half my health gone? Yikes!
+FR: La moitié de ma santé envolée ? Aïe !
+
+EN: Draining hurts!
+FR: Drainer, ça fait mal !
+
+EN: So many ways gods can punish you!
+FR: Tant de façons pour les dieux de vous punir !
