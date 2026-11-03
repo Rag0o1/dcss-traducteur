@@ -5,13 +5,12 @@ Traduction française communautaire de **Dungeon Crawl Stone Soup** (WebTiles). 
 Version actuelle : **0.16**
 
 ## Les guides sont dans le wiki
-| | Français | English |
-|---|---|---|
-| Installer (chaque navigateur) | [Installation](https://github.com/Rag0o1/dcss-traducteur/wiki/Installation) | [Installation](https://github.com/Rag0o1/dcss-traducteur/wiki/Installation-EN) |
-| Comment ça marche / corriger une traduction | [Fonctionnement et corrections](https://github.com/Rag0o1/dcss-traducteur/wiki/Fonctionnement-et-corrections) | [How it works](https://github.com/Rag0o1/dcss-traducteur/wiki/How-it-works-EN) · [Editing translations](https://github.com/Rag0o1/dcss-traducteur/wiki/Editing-translations-EN) |
-| Outils, nouvelle version du jeu, autre langue | [Outils et mise à jour](https://github.com/Rag0o1/dcss-traducteur/wiki/Outils-et-mise-à-jour) | [Tools and updating](https://github.com/Rag0o1/dcss-traducteur/wiki/Tools-and-updating-EN) |
-| Participer (sans coder) | [Participer](https://github.com/Rag0o1/dcss-traducteur/wiki/Participer) | [Contributing](https://github.com/Rag0o1/dcss-traducteur/wiki/Contributing-EN) |
-| Historique des versions | [VERSIONS.md](VERSIONS.md) | [Version history](https://github.com/Rag0o1/dcss-traducteur/wiki/Version-history-EN) |
+- [Installation](https://github.com/Rag0o1/dcss-traducteur/wiki/Installation) (chaque navigateur)
+- [Fonctionnement et corrections](https://github.com/Rag0o1/dcss-traducteur/wiki/Fonctionnement-et-corrections)
+- [Outils et mise à jour](https://github.com/Rag0o1/dcss-traducteur/wiki/Outils-et-mise-à-jour) (nouvelle version du jeu, autre langue)
+- [Participer](https://github.com/Rag0o1/dcss-traducteur/wiki/Participer) (sans coder)
+- [Historique des versions](VERSIONS.md)
+- [English: about this project](https://github.com/Rag0o1/dcss-traducteur/wiki/English)
 
 ## Dans ce dépôt
 - `LISEZ-MOI.txt` : le guide complet, fourni aussi dans le zip.
