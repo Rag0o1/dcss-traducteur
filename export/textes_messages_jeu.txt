@@ -1,0 +1,827 @@
+EN: Reflect upon your actions, mortal!
+FR: Réfléchissez à vos actes, mortel !
+
+EN: (Slaughtering mortal victims (and sometimes even demons) will eventually satisfy Makhleb and create an exit.)
+FR: (Massacrer des victimes mortelles (et parfois même des démons) finira par satisfaire Makhleb et créera une sortie.)
+
+EN: A divine halo surrounds you!
+FR: Un halo divin vous entoure !
+
+EN: A dragon tries to answer your call, but you don't have enough magical power!
+FR: Un dragon tente de répondre à votre appel, mais vous n’avez pas assez de puissance magique !
+
+EN: A draining tide of despair and horror washes over you and your surroundings!
+FR: Une marée épuisante de désespoir et d’horreur déferle sur vous et sur vos alentours !
+
+EN: A magic seal in the Gauntlet prevents you from opening a passage!
+FR: Un sceau magique du Défi vous empêche d’ouvrir un passage !
+
+EN: A shower of butterflies erupts from you!
+FR: Une pluie de papillons jaillit de vous !
+
+EN: A storm instantly forms around you!
+FR: Une tempête se forme instantanément autour de vous !
+
+EN: A wave of disorienting energy ripples outward as you feel the reach of Zot diminish.
+FR: Une vague d’énergie désorientante se propage tandis que vous sentez la portée de Zot diminuer.
+
+EN: All of your fellow slimes turn on you.
+FR: Tous vos compagnons gélatineux se retournent contre vous.
+
+EN: Arrived at first waypoint.
+FR: Premier point de passage atteint.
+
+EN: As the last of your armour is driven back to you, your cacophony ends.
+FR: Alors que la dernière de vos armures vous revient, votre cacophonie prend fin.
+
+EN: Beep! Your pager goes off! Use _ to check your messages.
+FR: Bip ! Votre bipeur sonne ! Utilisez _ pour consulter vos messages.
+
+EN: Beogh is disappointed with your cowardice.
+FR: Beogh est déçu par votre lâcheté.
+
+EN: Beogh sends your followers elsewhere.
+FR: Beogh envoie vos disciples ailleurs.
+
+EN: Beware, the minotaur awaits!
+FR: Prenez garde, le minotaure vous attend !
+
+EN: By Zin's power, all blood is cleared from the sanctuary.
+FR: Par le pouvoir de Zin, tout le sang est effacé du sanctuaire.
+
+EN: By Zin's power, all foul fumes within the sanctuary are swept away.
+FR: Par le pouvoir de Zin, toutes les fumées nauséabondes du sanctuaire sont balayées.
+
+EN: By Zin's power, the foul cloud within the sanctuary is swept away.
+FR: Par le pouvoir de Zin, le nuage nauséabond du sanctuaire est balayé.
+
+EN: Cast which spell?
+FR: Lancer quel sort ?
+
+EN: Memorise which spell?
+FR: Mémoriser quel sort ?
+
+EN: Cherry-coloured flames burn away your fire resistance!
+FR: Des flammes couleur cerise consument votre résistance au feu !
+
+EN: Clouds arounds you coalesce and take form!
+FR: Les nuages autour de vous se rassemblent et prennent forme !
+
+EN: Death has come for you....
+FR: La mort est venue vous chercher....
+
+EN: Doom befalls you....
+FR: Le destin funeste s’abat sur vous....
+
+EN: Extra life!
+FR: Vie supplémentaire !
+
+EN: Fall back!
+FR: Repliez-vous !
+
+EN: Follow me!
+FR: Suivez-moi !
+
+EN: Gozag's golden gift will leave your new mouth with nothing to eat.
+FR: Le cadeau doré de Gozag ne laissera rien à manger à votre nouvelle bouche.
+
+EN: Healing.
+FR: Soins.
+
+EN: If you continue, your game will not be scored!
+FR: Si vous continuez, votre partie ne sera pas comptabilisée !
+
+EN: It would be unfitting for someone so glorious to remove their crown in front of an audience.
+FR: Il serait déplacé pour quelqu’un d’aussi glorieux de retirer sa couronne devant un public.
+
+EN: Ka-crash!
+FR: Ka-crac !
+
+EN: Level map cleared.
+FR: Carte du niveau effacée.
+
+EN: Level map wiped.
+FR: Carte du niveau effacée.
+
+EN: Marked for pickup.
+FR: Marqué pour ramassage.
+
+EN: Nature churns violently around you!
+FR: La nature s’agite violemment autour de vous !
+
+EN: Piety increases by 1 due to piety pool.
+FR: La piété augmente de 1 grâce à la réserve de piété.
+
+EN: Piety pool is now empty.
+FR: La réserve de piété est maintenant vide.
+
+EN: Remembered map restored.
+FR: Carte mémorisée restaurée.
+
+EN: See you next game!
+FR: À la prochaine partie !
+
+EN: Sorry, but your quest for the Orb is now rather pointless. You quit...
+FR: Désolé, mais votre quête de l’Orbe n’a plus guère de sens. Vous abandonnez…
+
+EN: Space begins to contract around you, but something blocks your path.
+FR: L’espace commence à se contracter autour de vous, mais quelque chose bloque votre chemin.
+
+EN: Super healing.
+FR: Super soins.
+
+EN: That skill was removed.
+FR: Cette compétence a été supprimée.
+
+EN: The Abyss bends around you!
+FR: L’Abîme se courbe autour de vous !
+
+EN: The Orb lets out a furious burst of light!
+FR: L’Orbe émet un éclat de lumière furieux !
+
+EN: The Orb lets out an agonising shriek!
+FR: L’Orbe pousse un cri d’agonie !
+
+EN: The air is filled with shimmering golden clouds!
+FR: L’air se remplit de nuages dorés scintillants !
+
+EN: The black torch howls with new intensity!
+FR: La torche noire hurle avec une intensité renouvelée !
+
+EN: The buzzing within you returns to its normal rhythm.
+FR: Le bourdonnement en vous retrouve son rythme normal.
+
+EN: The cold chills your senses.
+FR: Le froid engourdit vos sens.
+
+EN: The divine experience confuses you!
+FR: L’expérience divine vous trouble !
+
+EN: The divine experience drains your vigour!
+FR: L’expérience divine draine votre vigueur !
+
+EN: The dungeon rumbles!
+FR: Le donjon gronde !
+
+EN: The dungeon rumbles... harmlessly?
+FR: Le donjon gronde… sans danger ?
+
+EN: The electricity makes your body seize.
+FR: L’électricité contracte votre corps.
+
+EN: The flames go out!
+FR: Les flammes s’éteignent !
+
+EN: The frozen ramparts melt away as you move.
+FR: Les remparts gelés fondent lorsque vous bougez.
+
+EN: The heat melts your icy armour.
+FR: La chaleur fait fondre votre armure de glace.
+
+EN: The heat overwhelms you.
+FR: La chaleur vous accable.
+
+EN: The heavenly storm settles.
+FR: La tempête céleste se calme.
+
+EN: The last of your harvested death is exhausted.
+FR: Le dernier reste de la mort que vous aviez récoltée s’épuise.
+
+EN: The last of your unstable energy dissipates and you return to your previous form.
+FR: Le dernier reste de votre énergie instable se dissipe et vous reprenez votre forme précédente.
+
+EN: The liquid fire falls away from your body.
+FR: Le feu liquide se détache de votre corps.
+
+EN: The liquid fire finally exhausts itself.
+FR: Le feu liquide finit par s’épuiser.
+
+EN: The lords of Pandemonium are not amused. Beware!
+FR: Les seigneurs du Pandémonium ne sont pas amusés. Prenez garde !
+
+EN: The mercury splashes!
+FR: Le mercure éclabousse !
+
+EN: The nature of this place prevents you from teleporting.
+FR: La nature de ce lieu vous empêche de vous téléporter.
+
+EN: The plants of the dungeon cease their hostilities.
+FR: Les plantes du donjon cessent leurs hostilités.
+
+EN: The plants of the dungeon turn on you.
+FR: Les plantes du donjon se retournent contre vous.
+
+EN: The roots around you sink back into the ground.
+FR: Les racines autour de vous s’enfoncent de nouveau dans le sol.
+
+EN: The sanctuary disappears.
+FR: Le sanctuaire disparaît.
+
+EN: The sanctuary starts shrinking.
+FR: Le sanctuaire commence à rétrécir.
+
+EN: The sign of ruin forms upon you!
+FR: Le signe de la ruine se forme sur vous !
+
+EN: The spiked barbs fall from your body.
+FR: Les barbes pointues tombent de votre corps.
+
+EN: The strain on the space-time continuum destroys the shaft!
+FR: La tension sur le continuum espace-temps détruit le puits !
+
+EN: The winds around you quicken.
+FR: Les vents autour de vous s’accélèrent.
+
+EN: The world leaves you behind!
+FR: Le monde vous laisse derrière lui !
+
+EN: The world spins around you!
+FR: Le monde tourne autour de vous !
+
+EN: The zombie hands constricting you return to the earth.
+FR: Les mains de zombie qui vous étreignent retournent à la terre.
+
+EN: There are no valid targets to list.
+FR: Il n’y a aucune cible valide à lister.
+
+EN: There is a horrible, sudden wrenching feeling in your soul!
+FR: Vous ressentez un horrible et soudain déchirement dans votre âme !
+
+EN: This spell is impossible to cast!
+FR: Ce sort est impossible à lancer !
+
+EN: This transporter is marked as excluded!
+FR: Ce transporteur est marqué comme exclu !
+
+EN: Thought so.
+FR: Je m’en doutais.
+
+EN: Uppercase letters only, please.
+FR: Majuscules uniquement, s’il vous plaît.
+
+EN: WARNING: ABOUT TO ENTER EXPLORE MODE!
+FR: ATTENTION : VOUS ALLEZ ENTRER EN MODE EXPLORATION !
+
+EN: Which direction?
+FR: Quelle direction ?
+
+EN: Without a target and with nowhere to land, your clockwork bee falls apart in a shower of cogs and coils.
+FR: Sans cible et sans endroit où se poser, votre abeille mécanique se désagrège en une pluie de rouages et de ressorts.
+
+EN: Without a target, your clockwork bee falls to the ground.
+FR: Sans cible, votre abeille mécanique tombe au sol.
+
+EN: Xom feels this floor is too known and too boring!
+FR: Xom trouve cet étage trop connu et trop ennuyeux !
+
+EN: You announce your regal presence to all who would look upon you.
+FR: Vous annoncez votre présence royale à tous ceux qui vous regardent.
+
+EN: You are already as afflicted as possible.
+FR: Vous êtes déjà aussi affligé que possible.
+
+EN: You are banished to a different region of the Abyss.
+FR: Vous êtes banni dans une autre région de l’Abîme.
+
+EN: You are cast deeper into the Abyss!
+FR: Vous êtes projeté plus profondément dans l’Abîme !
+
+EN: You are dazed by the spores!
+FR: Les spores vous étourdissent !
+
+EN: You are exhausted.
+FR: Vous êtes épuisé.
+
+EN: You are lethally poisoned!
+FR: Vous êtes empoisonné mortellement !
+
+EN: You are no longer on fire.
+FR: Vous ne brûlez plus.
+
+EN: You are ready to perform a blood rite again.
+FR: Vous êtes de nouveau prêt à accomplir un rite de sang.
+
+EN: You are shrouded in an aura of darkness!
+FR: Vous êtes enveloppé d’une aura de ténèbres !
+
+EN: You are slowing down.
+FR: Vous ralentissez.
+
+EN: You are suddenly pulled into a different region of the Abyss!
+FR: Vous êtes soudain aspiré dans une autre région de l’Abîme !
+
+EN: You bathe in the mists of the mutagenic serum and feel extremely strange.
+FR: Vous vous baignez dans les brumes du sérum mutagène et vous vous sentez extrêmement bizarre.
+
+EN: You become untethered in space!
+FR: Vous vous détachez de l’espace !
+
+EN: You become very slightly more insubstantial.
+FR: Vous devenez très légèrement plus immatériel.
+
+EN: You begin to dig a shaft.
+FR: Vous commencez à creuser un puits.
+
+EN: You begin to meditate on the wall.
+FR: Vous commencez à méditer sur le mur.
+
+EN: You begin untransforming.
+FR: Vous commencez à reprendre votre forme normale.
+
+EN: You continue untransforming.
+FR: Vous continuez à reprendre votre forme normale.
+
+EN: You body stops petrifying.
+FR: Votre corps cesse de se pétrifier.
+
+EN: You break open the mutation catalyst, and crackling magic pours forth!
+FR: Vous brisez le catalyseur de mutation, et une magie crépitante s’en déverse !
+
+EN: You call down Yredelemnul's inexorable grip.
+FR: Vous invoquez l’emprise inexorable de Yredelemnul.
+
+EN: You can now deal lightning-fast blows.
+FR: Vous pouvez désormais porter des coups d’une rapidité foudroyante.
+
+EN: You construct a shell of ice in front of yourself.
+FR: Vous bâtissez une coquille de glace devant vous.
+
+EN: You dip into the water, and the flames go out!
+FR: Vous plongez dans l’eau, et les flammes s’éteignent !
+
+EN: You emit a cloud of colourful smoke!
+FR: Vous émettez un nuage de fumée colorée !
+
+EN: You enter a dispersal trap!
+FR: Vous entrez dans un piège de dispersion !
+
+EN: You enter a teleport trap!
+FR: Vous entrez dans un piège de téléportation !
+
+EN: You fade completely from view now that you are no longer glowing from magical contamination.
+FR: Vous disparaissez complètement de la vue maintenant que vous ne brillez plus de contamination magique.
+
+EN: You feel a burst of inspiration! You are finally ready to make a one-of-a-kind gizmo!
+FR: Vous ressentez un éclair d’inspiration ! Vous êtes enfin prêt à fabriquer un gadget unique en son genre !
+
+EN: You feel a dangerous fate closing in on you...
+FR: Vous sentez un destin dangereux se refermer sur vous…
+
+EN: You feel a distressing malevolence running through your instability!
+FR: Vous sentez une malveillance angoissante parcourir votre instabilité !
+
+EN: You feel a strong urge to attack something.
+FR: Vous ressentez une forte envie d’attaquer quelque chose.
+
+EN: You feel a twinge of divine disapproval.
+FR: Vous ressentez une pointe de désapprobation divine.
+
+EN: You feel as though you will be slow longer.
+FR: Vous avez l’impression que vous resterez lent plus longtemps.
+
+EN: You feel as though you will be weak longer.
+FR: Vous avez l’impression que vous resterez faible plus longtemps.
+
+EN: You feel as though your fallen companions have been avenged.
+FR: Vous avez l’impression que vos compagnons tombés ont été vengés.
+
+EN: You feel as though your spells will be weakened for longer.
+FR: Vous avez l’impression que vos sorts resteront affaiblis plus longtemps.
+
+EN: You feel bolstered by spreading misfortune.
+FR: Vous vous sentez renforcé par le malheur qui se répand.
+
+EN: You feel devious.
+FR: Vous vous sentez sournois.
+
+EN: You feel extremely nervous for a moment...
+FR: Vous ressentez une extrême nervosité un instant…
+
+EN: You feel less pious.
+FR: Vous vous sentez moins pieux.
+
+EN: You feel like a meek peon again.
+FR: Vous vous sentez de nouveau comme un humble péon.
+
+EN: You feel limber!
+FR: Vous vous sentez souple !
+
+EN: You feel monstrous as your demonic heritage exerts itself.
+FR: Vous vous sentez monstrueux tandis que votre héritage démoniaque s’impose.
+
+EN: You feel nearly all of your power leaking away!
+FR: Vous sentez presque toute votre puissance s’échapper !
+
+EN: You feel odd for a moment.
+FR: Vous vous sentez bizarre un instant.
+
+EN: You feel overwhelmed by frustration!
+FR: Vous êtes submergé par la frustration !
+
+EN: You feel rather odd for a moment.
+FR: Vous vous sentez plutôt bizarre un instant.
+
+EN: You feel ready to drown your foes once more.
+FR: Vous vous sentez de nouveau prêt à noyer vos ennemis.
+
+EN: You feel ready to make another cacophony.
+FR: Vous vous sentez prêt à produire une nouvelle cacophonie.
+
+EN: You feel ready to scatter into bats once more.
+FR: Vous vous sentez de nouveau prêt à vous disperser en chauves-souris.
+
+EN: You feel something broadcast a psychic alarm.
+FR: Vous sentez quelque chose diffuser une alarme psychique.
+
+EN: You feel space start to destabilise around you!
+FR: Vous sentez l’espace commencer à se déstabiliser autour de vous !
+
+EN: You feel the Orb delaying your translocation!
+FR: Vous sentez l’Orbe retarder votre translocation !
+
+EN: You feel the Orb interfering with your translocation!
+FR: Vous sentez l’Orbe perturber votre translocation !
+
+EN: You feel the abyssal rune grow more distant.
+FR: Vous sentez la rune abyssale s’éloigner.
+
+EN: You feel the divine notice you fully once more.
+FR: Vous sentez le divin vous remarquer de nouveau pleinement.
+
+EN: You feel the power of Zot begin to gather its forces!
+FR: Vous sentez la puissance de Zot commencer à rassembler ses forces !
+
+EN: You feel the transmutational energy in your body is nearly expended.
+FR: Vous sentez que l’énergie de transmutation de votre corps est presque épuisée.
+
+EN: You feel the winds around you beginning to shift...
+FR: Vous sentez les vents autour de vous commencer à tourner…
+
+EN: You feel your anger nearly subside.
+FR: Vous sentez votre colère presque retomber.
+
+EN: You feel your defenses recover.
+FR: Vous sentez vos défenses se rétablir.
+
+EN: You feel your existence waver again.
+FR: Vous sentez votre existence vaciller de nouveau.
+
+EN: You feel your spells grow feeble.
+FR: Vous sentez vos sorts s’affaiblir.
+
+EN: You feel your strength returning.
+FR: Vous sentez vos forces revenir.
+
+EN: You feel your vulnerability to fire will last longer.
+FR: Vous avez l’impression que votre vulnérabilité au feu durera plus longtemps.
+
+EN: You have a vision of a gate.
+FR: Vous avez la vision d’un portail.
+
+EN: You have a vision of multiple gates.
+FR: Vous avez la vision de plusieurs portails.
+
+EN: You have lingered too long. Zot senses you. Dive deeper or flee this branch before you suffer!
+FR: Vous êtes resté trop longtemps. Zot vous sent. Plongez plus profondément ou fuyez cette branche avant de souffrir !
+
+EN: You have reached level 27, the final one!
+FR: Vous avez atteint le niveau 27, le dernier !
+
+EN: You hear a choir sing!
+FR: Vous entendez un chœur chanter !
+
+EN: You hear a deep rumble.
+FR: Vous entendez un grondement sourd.
+
+EN: You hear a grinding noise.
+FR: Vous entendez un grincement.
+
+EN: You hear a loud "Zot"!
+FR: Vous entendez un puissant « Zot » !
+
+EN: You hear a loud crackle.
+FR: Vous entendez un fort crépitement.
+
+EN: You hear a sizzling splash.
+FR: Vous entendez une éclaboussure grésillante.
+
+EN: You hear a snapping sound.
+FR: Vous entendez un claquement sec.
+
+EN: You hear a splashing noise.
+FR: Vous entendez un bruit d’éclaboussures.
+
+EN: You hear a squelching noise.
+FR: Vous entendez un bruit visqueux.
+
+EN: You hear a zap.
+FR: Vous entendez un zap.
+
+EN: You hear the crackle of electricity.
+FR: Vous entendez le crépitement de l’électricité.
+
+EN: You imbue your familiar with magical energy and its fangs glint viciously.
+FR: Vous imprégnez votre familier d’énergie magique et ses crocs brillent d’un éclat vicieux.
+
+EN: You lose access to your magic!
+FR: Vous perdez l’accès à votre magie !
+
+EN: You lose track of time!
+FR: Vous perdez la notion du temps !
+
+EN: You move over the binding sigil and are bound in place!
+FR: Vous passez sur le sceau de liaison et êtes immobilisé sur place !
+
+EN: You must return to life before you may mutate.
+FR: Vous devez revenir à la vie avant de pouvoir muter.
+
+EN: You need a visible target to rewind your bee! (Use ctrl+direction or * direction to deconstruct it instead.)
+FR: Il vous faut une cible visible pour rembobiner votre abeille ! (Utilisez Ctrl+direction ou * direction pour la démonter à la place.)
+
+EN: You need no library to learn spells.
+FR: Vous n’avez pas besoin de bibliothèque pour apprendre des sorts.
+
+EN: You offer yourself as an instrument of Makhleb's will and feel overwhelming power flowing through you!
+FR: Vous vous offrez comme instrument de la volonté de Makhleb et sentez une puissance écrasante couler en vous !
+
+EN: You pick up the Orb of Zot!
+FR: Vous ramassez l’Orbe de Zot !
+
+EN: You plunge deeper into the Abyss.
+FR: Vous plongez plus profondément dans l’Abîme.
+
+EN: You produce a hideous howling noise!
+FR: Vous produisez un hurlement hideux !
+
+EN: You reach the end of your prayer and your brethren are recalled.
+FR: Vous arrivez au terme de votre prière et vos frères sont rappelés.
+
+EN: You recall your battlesphere and imbue it with additional charge.
+FR: Vous rappelez votre sphère de combat et lui insufflez une charge supplémentaire.
+
+EN: You recover from your berserk rage.
+FR: Vous vous remettez de votre rage berserk.
+
+EN: You seem to hear sand running through an hourglass...
+FR: Vous croyez entendre du sable s’écouler dans un sablier…
+
+EN: You should not fight recklessly!
+FR: Vous ne devriez pas combattre imprudemment !
+
+EN: You snap out of your daze.
+FR: Vous sortez de votre hébétude.
+
+EN: You steady yourself in place and focus your resilience into a mighty blast.
+FR: Vous vous stabilisez sur place et concentrez votre résistance en une puissante explosion.
+
+EN: You stomp with the beat, sending a shockwave through the revellers around you!
+FR: Vous piétinez en rythme, envoyant une onde de choc à travers les fêtards autour de vous !
+
+EN: You suddenly feel drained of magical energy!
+FR: Vous vous sentez soudain vidé de votre énergie magique !
+
+EN: You wake up.
+FR: Vous vous réveillez.
+
+EN: You weave more energy into your solar ember.
+FR: Vous tissez plus d’énergie dans votre braise solaire.
+
+EN: You will have to take that off first.
+FR: Vous devrez d’abord retirer cela.
+
+EN: Your accumulated destruction dissipates without a target.
+FR: La destruction accumulée se dissipe faute de cible.
+
+EN: Your amulet flashes!
+FR: Votre amulette étincelle !
+
+EN: Your apostles return to your side.
+FR: Vos apôtres reviennent à vos côtés.
+
+EN: Your assassin centipede withers and dies.
+FR: Votre mille-pattes assassin se flétrit et meurt.
+
+EN: Your aura of darkness returns!
+FR: Votre aura de ténèbres revient !
+
+EN: Your battlesphere expends the last of its energy and dissipates.
+FR: Votre sphère de combat dépense son ultime énergie et se dissipe.
+
+EN: Your binding sigil disappears.
+FR: Votre sceau de liaison disparaît.
+
+EN: Your binding sigils disappear.
+FR: Vos sceaux de liaison disparaissent.
+
+EN: Your blood rage is quickly leaving you.
+FR: Votre rage de sang vous quitte rapidement.
+
+EN: Your body becomes as fragile as glass!
+FR: Votre corps devient fragile comme du verre !
+
+EN: Your body becomes insubstantial.
+FR: Votre corps devient immatériel.
+
+EN: Your body crumbles into a pile of gold.
+FR: Votre corps s’effondre en un tas d’or.
+
+EN: Your body decomposes!
+FR: Votre corps se décompose !
+
+EN: Your body momentarily shudders from a surge of wild energies until Zin's power calms it.
+FR: Votre corps frissonne un instant sous un afflux d’énergies sauvages, jusqu’à ce que le pouvoir de Zin le calme.
+
+EN: Your body shudders with the violent release of wild energies!
+FR: Votre corps frissonne sous la violente libération d’énergies sauvages !
+
+EN: Your cacophony subsides as you depart the area.
+FR: Votre cacophonie s’apaise quand vous quittez la zone.
+
+EN: Your capacity for spells is full, and you lose access to an earlier spell.
+FR: Votre capacité de sorts est pleine, et vous perdez l’accès à un sort antérieur.
+
+EN: Your clarity of mind shields you.
+FR: La clarté de votre esprit vous protège.
+
+EN: Your condensation shield dissipates!
+FR: Votre bouclier de condensation se dissipe !
+
+EN: Your demonic ancestry asserts itself...
+FR: Votre ascendance démoniaque s’affirme…
+
+EN: Your divine halo returns!
+FR: Votre halo divin revient !
+
+EN: Your divine shield fades away.
+FR: Votre bouclier divin s’estompe.
+
+EN: Your divine stamina fades away.
+FR: Votre endurance divine s’estompe.
+
+EN: Your divine vigour fades away.
+FR: Votre vigueur divine s’estompe.
+
+EN: Your existing bee falls apart.
+FR: Votre abeille actuelle se désagrège.
+
+EN: Your familiar is too far away to imbue with magic.
+FR: Votre familier est trop loin pour être imprégné de magie.
+
+EN: Your fire resistance burns away!
+FR: Votre résistance au feu se consume !
+
+EN: Your flames flare with remembrance!
+FR: Vos flammes s’embrasent de souvenirs !
+
+EN: Your flames quiet as the last of your memories are burnt away.
+FR: Vos flammes s’apaisent quand vos derniers souvenirs sont consumés.
+
+EN: Your fortress blast dissipates harmlessly.
+FR: Votre explosion de forteresse se dissipe sans dégâts.
+
+EN: Your icy armour cracks and falls away as you move.
+FR: Votre armure de glace se fissure et tombe quand vous bougez.
+
+EN: Your icy armour melts away.
+FR: Votre armure de glace fond.
+
+EN: Your icy defences dissipate!
+FR: Vos défenses glacées se dissipent !
+
+EN: Your life is in your own hands once again.
+FR: Votre vie est de nouveau entre vos mains.
+
+EN: Your lungs strain for air.
+FR: Vos poumons peinent à trouver de l’air.
+
+EN: Your magic returns to you!
+FR: Votre magie vous revient !
+
+EN: Your magical contamination has faded to a safe level.
+FR: Votre contamination magique est retombée à un niveau sans danger.
+
+EN: Your magnetic shrapnel fails to attach to any target and your spell fizzles.
+FR: Votre shrapnel magnétique ne s’accroche à aucune cible et votre sort fait long feu.
+
+EN: Your mantle thrums with power.
+FR: Votre manteau vibre de puissance.
+
+EN: Your messages:
+FR: Vos messages :
+
+EN: Your muscles tense, ready for explosive movement...
+FR: Vos muscles se tendent, prêts pour un mouvement explosif…
+
+EN: Your orb has finished recharging its magic.
+FR: Votre orbe a fini de recharger sa magie.
+
+EN: Your pain echoes through the poison around you!
+FR: Votre douleur résonne à travers le poison autour de vous !
+
+EN: Your paragon expends all of its energy in an overwhelming flurry of blows!
+FR: Votre parangon dépense toute son énergie dans un déluge de coups écrasant !
+
+EN: Your paragon has reached its maximum power!
+FR: Votre parangon a atteint sa puissance maximale !
+
+EN: Your paragon is now ready to unleash a masterful attack.
+FR: Votre parangon est prêt à déchaîner une attaque magistrale.
+
+EN: Your power is siphoned away!
+FR: Votre puissance est siphonnée !
+
+EN: Your rain of reagents ends.
+FR: Votre pluie de réactifs prend fin.
+
+EN: Your recitation is interrupted.
+FR: Votre récitation est interrompue.
+
+EN: Your resistance to cold fades away.
+FR: Votre résistance au froid s’estompe.
+
+EN: Your resistance to electricity fades away.
+FR: Votre résistance à l’électricité s’estompe.
+
+EN: Your resistance to fire fades away.
+FR: Votre résistance au feu s’estompe.
+
+EN: Your resistance to physical damage fades away.
+FR: Votre résistance aux dégâts physiques s’estompe.
+
+EN: Your skin feels tougher.
+FR: Votre peau semble plus résistante.
+
+EN: Your skin stops crawling.
+FR: Votre peau cesse de grouiller.
+
+EN: Your thirst for blood prevents you from unwielding your weapon!
+FR: Votre soif de sang vous empêche de ranger votre arme !
+
+EN: Your time-warped blood is ready to ripple again.
+FR: Votre sang distordu par le temps est prêt à onduler de nouveau.
+
+EN: Your tiny sun winks out.
+FR: Votre minuscule soleil s’éteint.
+
+EN: Your vision regains its divine sight.
+FR: Votre vision retrouve sa vue divine.
+
+EN: Your weapon gleams with eagerness.
+FR: Votre arme luit d’impatience.
+
+EN: Your will is overpowered!
+FR: Votre volonté est submergée !
+
+EN: Yredelemnul refuses to let your conquest be stopped by a trick of the earth!
+FR: Yredelemnul refuse que votre conquête soit arrêtée par un tour de la terre !
+
+EN: Zin cleanses your body of Beogh's taint.
+FR: Zin purifie votre corps de la souillure de Beogh.
+
+EN: Zin forbids you from drinking this foul brew!
+FR: Zin vous interdit de boire cette infâme mixture !
+
+EN: Zin's power protects your fellow warrior from evil magic!
+FR: Le pouvoir de Zin protège votre compagnon d’armes de la magie maléfique !
+
+EN: Zot draws nearer. Dive deeper or flee this branch before you suffer!
+FR: Zot se rapproche. Plongez plus profondément ou fuyez cette branche avant de souffrir !
+
+EN: Zot has nearly found you. Suffering is imminent. Descend or flee this branch!
+FR: Zot vous a presque trouvé. La souffrance est imminente. Descendez ou fuyez cette branche !
+
+EN: Adjust to which letter?
+FR: Ajuster à quelle lettre ?
+
+EN: Adjust which ability?
+FR: Ajuster quelle capacité ?
+
+EN: Adjust which spell?
+FR: Ajuster quel sort ?
+
+EN: Purchase which effect?
+FR: Acheter quel effet ?
+
+EN: Fund which merchant?
+FR: Financer quel marchand ?
+
+EN: Which rune (ESC to exit)?
+FR: Quelle rune (Échap pour quitter) ?
+
+EN: Create which feature?
+FR: Créer quelle caractéristique ?
+
+EN: Press 'a' to toggle all layers. Press any other key to exit.
+FR: Appuyez sur « a » pour basculer toutes les couches. Appuyez sur une autre touche pour quitter.
+
+EN: ...yet there is something new on the other side. You quickly turn back.
+FR: …pourtant il y a quelque chose de nouveau de l’autre côté. Vous faites rapidement demi-tour.
+
+EN: Additionally, it isn't alive.
+FR: De plus, il n’est pas vivant.
+
+EN: Both you and the monster are silenced, so you likely won't hear anything.
+FR: Vous et le monstre êtes réduits au silence : vous n’entendrez sans doute rien.
+
+EN: (A)ttack or (D)efence?
+FR: (A)ttaque ou (D)éfense ?

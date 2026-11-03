@@ -9,6 +9,9 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.11.2 — changement mineur
+- 276 messages du jeu sans variable, relevés dans le code source de Crawl (`donnees/messages/messages_jeu.js`) : dieux, états, bruits, pièges, capacités. Messages sans variable traduits : 68 % → 86 % (le reste est surtout du débogage).
+
 ## 0.11.1 — suite de la 0.10, avec des changements de moteur
 - **Moteur** : nouveau trou `{K}` (nom de touche, recopié tel quel) dans les phrases à trous ; noms de monstres fabriqués par le jeu étendus (armes dansantes `dancing +2 flail of holy wrath`, tailles de gelées, préfixe `ghostly`) ; règles pour les « !! » multiples, « Vous rencontrez… », les lignes d'examen de monstres (équipement + états + chances de toucher), les boutiques, les objets non identifiés (`a glowing hat`), les parchemins et potions « nus » (`Scroll of Blinking`).
 - **Nouveaux fichiers** : `donnees/messages/variables_k.js` (audit en jeu 0.35), `donnees/messages/tutoriel.js` (64 textes du tutoriel).
