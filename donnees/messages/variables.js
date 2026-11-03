@@ -10,6 +10,7 @@
 //     {p}  pronom (it, he, she, his...)         {s} un « s » facultatif     {is} is/are
 //     {v:grab} le verbe grab/grabs (accord du verbe)
 //     {n1} « nt » si le trou n°1 est un pluriel (touche{n1}) ; {c1} « t » ou « ssent » (engloutit / engloutissent)
+//     {K}  un nom de touche (« o », « Ctrl-P ») : recopié tel quel
 //     {Z}  un projectile / effet de sort connu (« bolt of fire », « lance of force »...) : voir projectiles.js
 //  Dans le français : {S1} sujet (« Le chacal », « Le rayon de feu »), {o1} complément (« le chacal »), {d1} « du chacal »,
 //     {a1} « au chacal », {e1} « e » si féminin, {x3} le trou n°3 traduit, {y2} idem pour un objet.
@@ -53,7 +54,7 @@
             const nette = cle.replace(/<\/?[a-z]+>/g, "").trim();
             const types = [];
             let n = 0, source = "", morceau = "", plusLong = "";
-            const re = /\{(A|I|Y|X|R|G|Z|p|s|is|v:[a-z ]+)\}/g;
+            const re = /\{(A|I|Y|X|K|R|G|Z|p|s|is|v:[a-z ]+)\}/g;
             let i = 0, m;
             const fin = () => { if (morceau.length > plusLong.length) plusLong = morceau; morceau = ""; };
             while ((m = re.exec(nette))) {
@@ -64,6 +65,7 @@
                 else if (t === "is") source += "(?:is|are)";
                 else if (t === "p") source += "(?:it|he|she|him|her|his|its|their|them|itself|himself|herself)";
                 else if (t.startsWith("v:")) source += formesVerbe(t.slice(2));
+                else if (t === "K") { source += "(\\S{1,20}?)"; types.push(t); fin(); }
                 else if (t === "Z") { source += "(" + alternanceProj() + ")"; types.push(t); fin(); }
                 else { source += "(.+?)"; types.push(t); fin(); }
                 if (t === "s" || t === "is" || t === "p" || t.startsWith("v:")) fin();
@@ -113,6 +115,8 @@
                 const z = infoProjectile(g);
                 if (z === null) return null;
                 info.push(z);
+            } else if (t === "K") {
+                info.push({ x: g });
             } else if (t === "R" || t === "G") {
                 const f = (t === "R" ? RUNES : JOYAUX)[g];
                 if (f === undefined) return null;
