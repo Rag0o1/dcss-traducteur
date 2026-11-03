@@ -8,4 +8,7 @@ Phrases from the game's `dat/database/*.txt`. File format: an English line, the 
 
 Add a phrase = add two lines. Add a new variable piece (a new colour…) = add it to `moteur/gabarits.js`.
 
-Files: `dieux_xom.js` — Xom (random events, laughter, gifts…) and the gods' phrases (`godspeak.txt`).
+* `@M_S@` `@M_o@` `@M_d@` `@M_a@` `@M_e@` — the monster found in the English line (`@The_monster@`…): "Le chacal", "le chacal", "du chacal", "au chacal", "e" if feminine.
+* A line without final `.`/`!` in English also matches with one (the game adds it).
+
+Files: `magie_rates.js` — spell miscast flavour (miscast.txt); `cris.js` — monster shouts (shout.txt); `dieux_xom.js` — Xom (random events, laughter, gifts…) and the gods' phrases (`godspeak.txt`).

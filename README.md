@@ -6,7 +6,7 @@ The project is built to be a **translation base for DCSS 0.34 / 0.35** and to be
 
 > 🇫🇷 La documentation en français est sur la branche [`fr`](https://github.com/Rag0o1/dcss-traducteur/tree/fr) (`LISEZ-MOI.txt`, `VERSIONS.md`...).
 
-Current version: **0.13**
+Current version: **0.14**
 
 ## Install
 

@@ -11,6 +11,11 @@ The number is kept identical in: `manifest.json` (`"version"`), `README.md` ("Cu
 
 Each version is described below, newest first. (The French branch `fr` has the original, more detailed French history.)
 
+## 0.14 — engine extension: monsters in templates
+* `moteur/gabarits.js` now understands **monsters** (`@The_monster@`, `@the_monster_possessive@`…, French tokens `@M_S@ @M_o@ @M_d@ @M_a@ @M_e@`), phrases **without final punctuation** (the game adds `.` or `!`), and typed variable pieces (hands, possessives).
+* New template files: `magie_rates.js` (all spell miscast flavour text for the player, monsters and unseen casters: conjuration, hexes, summoning, necromancy, translocation, fire, ice, air, earth, alchemy, forgecraft) and `cris.js` (monster shouts and noises: barks, roars, skitters, gazes…).
+* Added `CONTRIBUTING.md`, install guide for every browser (`docs/INSTALL.md`), automatic GitHub Releases.
+
 ## 0.13 — new engine
 * **New engine `moteur/gabarits.js`**: translates the phrases of the game's text database (`dat/database`), which are written with variable pieces (`@colour@`, `@The_feature@`, `[variant a|variant b]`). It translates colours, body parts, dungeon features, your items, Xom's trout, etc.
 * **First template file `donnees/messages/gabarits/dieux_xom.js`**: all of Xom's phrases (random dungeon events, laughter, gifts, banishment, resurrection…) and the gods' phrases (welcome, penance, death, Zot). `godspeak.txt` goes from 3 % to ~80 % translated.
