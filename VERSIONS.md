@@ -129,4 +129,4 @@ volontairement : elles restent dans leur langue d'origine. L'audit les listera q
   sont sur deux colonnes ; et les titres de pages d'aide longs. À faire séparément.
 
 ## 0.4 et avant — la base
-La base de départ (extension Firefox, moteur de remplacement de texte et premières traductions) a été **fournie par l'utilisateur**. Le travail a ensuite consisté à l'adapter aux listes et descriptions officielles du dépôt DCSS (monstres, capacités, décors) puis à tout le reste décrit ci-dessus.
+La base de départ (extension Firefox, moteur de remplacement de texte et premières traductions) a été **rago**. Le travail a ensuite consisté à l'adapter aux listes et descriptions officielles du dépôt DCSS (monstres, capacités, décors) puis à tout le reste décrit ci-dessus.
