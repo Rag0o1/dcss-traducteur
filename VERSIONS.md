@@ -11,6 +11,10 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.17.4 — mineure
+
+- Insultes des diablotins et des démons (« Fuis, gredin ahuri et lourdaud ! ») : environ 420 mots traduits, avec l’accord en genre.
+
 ## 0.17.3 — mineure
 
 - Monstres examinés avec des objets pluriels au carquois (« avec en carquois des boomerangs »).
