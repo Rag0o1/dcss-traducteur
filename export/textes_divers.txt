@@ -1061,10 +1061,10 @@ EN: [Gloves melded]
 FR: [Gants fusionnés]
 
 EN: Skill Level Cost Apt Skill Level Cost Apt
-FR: Compétence Niveau Coût Apt Compétence Niveau Coût Apt
+FR: Comp. Niv. Coût Apt Comp. Niv. Coût Apt
 
 EN: Skill Level Target Apt Skill Level Target Apt
-FR: Compétence Niveau Objectif Apt Compétence Niveau Objectif Apt
+FR: Comp. Niv. Obj. Apt Comp. Niv. Obj. Apt
 
 EN: Skills enhanced by cross-training and wildshape are in
 FR: Les compétences améliorées par l’entraînement croisé et la métamorphose sont en

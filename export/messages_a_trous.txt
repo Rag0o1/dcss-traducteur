@@ -2683,15 +2683,6 @@ FR: Vous continuez à retirer {y1}.
 EN: You finish taking off {Y}.
 FR: Vous finissez de retirer {y1}.
 
-EN: You start memorising the spell.
-FR: Vous commencez à mémoriser le sort.
-
-EN: You finish memorising.
-FR: Vous finissez de mémoriser.
-
-EN: You stop imbuing your servitor.
-FR: Vous cessez d’imprégner votre serviteur.
-
 EN: You finish imbuing your servitor.
 FR: Vous finissez d’imprégner votre serviteur.
 
@@ -2707,41 +2698,14 @@ FR: Vous finissez d’imprimer la structure physique {d1} sur votre parangon.
 EN: {X} removes the imprint of {A} from your paragon.
 FR: {x1} retire l’empreinte {d2} de votre parangon.
 
-EN: You stop transforming.
-FR: Vous cessez de vous transformer.
-
-EN: You stop digging.
-FR: Vous cessez de creuser.
-
 EN: You stop dropping stuff.
 FR: Vous cessez de lâcher des objets.
-
-EN: You stop ascending the stairs.
-FR: Vous cessez de monter l’escalier.
-
-EN: You stop descending the stairs.
-FR: Vous cessez de descendre l’escalier.
 
 EN: You finish merging with the rock.
 FR: Vous finissez de fusionner avec la roche.
 
-EN: You stop channelling waves of flame.
-FR: Vous cessez de canaliser des vagues de flammes.
-
-EN: You stop channelling your searing ray.
-FR: Vous cessez de canaliser votre rayon brûlant.
-
 EN: You finish channelling your searing ray.
 FR: Vous finissez de canaliser votre rayon brûlant.
-
-EN: You stop assembling your clockwork bee.
-FR: Vous cessez d’assembler votre abeille mécanique.
-
-EN: You start waiting.
-FR: Vous commencez à attendre.
-
-EN: You start resting.
-FR: Vous commencez à vous reposer.
 
 EN: You finish reciting {X}
 FR: Vous finissez de réciter {x1}
@@ -6142,17 +6106,11 @@ FR: Vous pouvez désormais gagner de la puissance en tuant les impies et les mal
 EN: You can no longer gain power from killing the unholy and evil.
 FR: Vous ne pouvez plus gagner de puissance en tuant les impies et les maléfiques.
 
-EN: You can gain power from killing the unholy and evil.
-FR: Vous pouvez gagner de la puissance en tuant les impies et les maléfiques.
-
 EN: The Shining One may bless your followers whenever you slay foes.
 FR: L’Étincelant peut bénir vos disciples chaque fois que vous terrassez des ennemis.
 
 EN: The Shining One will no longer blesses your followers when you slay foes.
 FR: L’Étincelant ne bénira plus vos disciples quand vous terrassez des ennemis.
-
-EN: The Shining One sometimes blesses your followers when you slay foes.
-FR: L’Étincelant bénit parfois vos disciples quand vous terrassez des ennemis.
 
 EN: The Shining One will bless your weapon with holy wrath... once.
 FR: L’Étincelant bénira votre arme d’une colère sacrée... une seule fois.
@@ -6174,9 +6132,6 @@ FR: Kikubaaqudgha vous protège désormais du tourment impie.
 
 EN: Kikubaaqudgha will no longer protect you from unholy torment.
 FR: Kikubaaqudgha ne vous protégera plus du tourment impie.
-
-EN: Kikubaaqudgha protects you from unholy torment.
-FR: Kikubaaqudgha vous protège du tourment impie.
 
 EN: Kikubaaqudgha will grant you forbidden knowledge or bloody your weapon with pain... once.
 FR: Kikubaaqudgha vous accordera un savoir interdit ou ensanglantera votre arme de douleur... une seule fois.
@@ -6207,9 +6162,6 @@ FR: Vehumet étend désormais la portée de vos sorts destructeurs.
 
 EN: Vehumet will no longer extend the range of your destructive spells.
 FR: Vehumet n’étendra plus la portée de vos sorts destructeurs.
-
-EN: Vehumet extends the range of your destructive spells.
-FR: Vehumet étend la portée de vos sorts destructeurs.
 
 EN: Okawaru requires that you fight alone, and prevents you from gaining allies.
 FR: Okawaru exige que vous combattiez seul, et vous empêche d’obtenir des alliés.
@@ -6265,9 +6217,6 @@ FR: Elyvilon vous empêche de nuire aux créatures neutres.
 EN: Lugonu protects you from the effects of unwielding distortion weapons.
 FR: Lugonu vous protège des effets du déséquipement des armes de distorsion.
 
-EN: Lugonu may banish nearby foes when other gods try to punish you.
-FR: Lugonu peut bannir les ennemis proches quand d’autres dieux tentent de vous punir.
-
 EN: Lugonu will corrupt your weapon with distortion... once.
 FR: Lugonu corrompra votre arme par la distorsion... une seule fois.
 
@@ -6280,20 +6229,11 @@ FR: Beogh n’enverra plus d’apôtres orcs vous défier au combat.
 EN: Beogh will send orc apostles to challenge you in battle as you gain piety.
 FR: Beogh envoie des apôtres orcs vous défier au combat à mesure que vous gagnez en piété.
 
-EN: You can recruit apostles that you defeat into your service.
-FR: Vous pouvez enrôler à votre service les apôtres que vous vainquez.
-
-EN: Your apostles are sometimes healed when you deal damage.
-FR: Vos apôtres sont parfois soignés quand vous infligez des dégâts.
-
 EN: Jiyva is now protecting you from corrosive effects.
 FR: Jiyva vous protège désormais des effets corrosifs.
 
 EN: Jiyva will no longer protect you from corrosive effects.
 FR: Jiyva ne vous protégera plus des effets corrosifs.
-
-EN: Jiyva protects you from corrosive effects.
-FR: Jiyva vous protège des effets corrosifs.
 
 EN: Jiyva will now mutate your body as you gain piety.
 FR: Jiyva mutera désormais votre corps à mesure que vous gagnez en piété.
@@ -6316,17 +6256,11 @@ FR: Vous n’expulserez plus de gelées quand vous êtes blessé.
 EN: You may expel jellies when seriously injured.
 FR: Vous pouvez expulser des gelées quand vous êtes gravement blessé.
 
-EN: You can walk through plants and fire through allied plants.
-FR: Vous pouvez traverser les plantes et tirer à travers les plantes alliées.
-
 EN: Cheibriados is now slowing the effects of poison on you.
 FR: Cheibriados ralentit désormais les effets du poison sur vous.
 
 EN: Cheibriados will no longer slow the effects of poison on you.
 FR: Cheibriados ne ralentira plus les effets du poison sur vous.
-
-EN: Cheibriados slows the effects of poison on you.
-FR: Cheibriados ralentit les effets du poison sur vous.
 
 EN: Ashenzari warns you of distant threats and treasures.
 FR: Ashenzari vous avertit des menaces et trésors lointains.
@@ -6336,9 +6270,6 @@ FR: Ashenzari identifiera désormais vos possessions.
 
 EN: Ashenzari will no longer identify your possessions.
 FR: Ashenzari n’identifiera plus vos possessions.
-
-EN: Ashenzari identifies your possessions.
-FR: Ashenzari identifie vos possessions.
 
 EN: Ashenzari will now reveal the unseen.
 FR: Ashenzari révélera désormais l’invisible.
@@ -6355,26 +6286,17 @@ FR: Ashenzari gardera désormais votre esprit clair.
 EN: Ashenzari will no longer keep your mind clear.
 FR: Ashenzari ne gardera plus votre esprit clair.
 
-EN: Ashenzari keeps your mind clear.
-FR: Ashenzari garde votre esprit clair.
-
 EN: Ashenzari will now protect you from the dungeon's malevolent forces.
 FR: Ashenzari vous protégera désormais des forces malveillantes du donjon.
 
 EN: Ashenzari no longer protects you from the dungeon's malevolent forces.
 FR: Ashenzari ne vous protège plus des forces malveillantes du donjon.
 
-EN: Ashenzari protects you from the dungeon's malevolent forces.
-FR: Ashenzari vous protège des forces malveillantes du donjon.
-
 EN: Ashenzari reveals the structure of the nearby dungeon.
 FR: Ashenzari révèle la structure du donjon environnant.
 
 EN: Ashenzari no longer reveals the structure of the nearby dungeon.
 FR: Ashenzari ne révèle plus la structure du donjon environnant.
-
-EN: Dithmenos quiets all noise in your surroundings.
-FR: Dithmenos étouffe tous les bruits autour de vous.
 
 EN: Dithmenos no longer quiets all noise in your surroundings.
 FR: Dithmenos n’étouffe plus les bruits autour de vous.
@@ -6384,9 +6306,6 @@ FR: Votre ombre imite désormais parfois vos actions de façon tangible.
 
 EN: Your shadow no longer tangibly mimics your actions.
 FR: Votre ombre n’imite plus vos actions de façon tangible.
-
-EN: Your shadow sometimes tangibly mimics your actions.
-FR: Votre ombre imite parfois vos actions de façon tangible.
 
 EN: Gozag turns your defeated foes' bodies to gold.
 FR: Gozag change en or le corps de vos ennemis vaincus.
@@ -6403,9 +6322,6 @@ FR: Une tempête vous entoure désormais.
 EN: Your storm dissipates completely.
 FR: Votre tempête se dissipe complètement.
 
-EN: You are surrounded by a storm.
-FR: Une tempête vous entoure.
-
 EN: Your storm instantly dissipates.
 FR: Votre tempête se dissipe instantanément.
 
@@ -6414,9 +6330,6 @@ FR: La tempête qui vous entoure est désormais assez puissante pour repousser l
 
 EN: The storm surrounding you is now too weak to repel missiles.
 FR: La tempête qui vous entoure est désormais trop faible pour repousser les projectiles.
-
-EN: The storm surrounding you is powerful enough to repel missiles.
-FR: La tempête qui vous entoure est assez puissante pour repousser les projectiles.
 
 EN: You will now adapt resistances upon receiving elemental damage.
 FR: Vous adapterez désormais vos résistances en recevant des dégâts élémentaires.
@@ -6427,9 +6340,6 @@ FR: Vous n’adapterez plus vos résistances en recevant des dégâts élémenta
 EN: You adapt resistances upon receiving elemental damage.
 FR: Vous adaptez vos résistances en recevant des dégâts élémentaires.
 
-EN: You now exude an aura of power that intimidates your foes.
-FR: Vous dégagez désormais une aura de puissance qui intimide vos ennemis.
-
 EN: You no longer exude an aura of power that intimidates your foes.
 FR: Vous ne dégagez plus d’aura de puissance qui intimide vos ennemis.
 
@@ -6439,23 +6349,11 @@ FR: Votre aura de puissance peut désormais frapper ceux qui vous blessent.
 EN: Your aura of power no longer strikes those that harm you.
 FR: Votre aura de puissance ne frappe plus ceux qui vous blessent.
 
-EN: Your aura of power can strike those that harm you.
-FR: Votre aura de puissance peut frapper ceux qui vous blessent.
-
-EN: Uskayaw will force your foes to helplessly watch your dance.
-FR: Uskayaw forcera vos ennemis à regarder votre danse, impuissants.
-
 EN: Uskayaw will no longer force your foes to helplessly watch your dance.
 FR: Uskayaw ne forcera plus vos ennemis à regarder votre danse, impuissants.
 
-EN: Uskayaw will force your foes to share their pain.
-FR: Uskayaw forcera vos ennemis à partager leur douleur.
-
 EN: Uskayaw will no longer force your foes to share their pain.
 FR: Uskayaw ne forcera plus vos ennemis à partager leur douleur.
-
-EN: Your ancestor manifests to aid you.
-FR: Votre ancêtre se manifeste pour vous aider.
 
 EN: You now drain nearby creatures when transferring your ancestor.
 FR: Vous drainez désormais les créatures proches quand vous transférez votre ancêtre.
@@ -6465,9 +6363,6 @@ FR: Vous ne drainez plus les créatures proches quand vous transférez votre anc
 
 EN: You drain nearby creatures when transferring your ancestor.
 FR: Vous drainez les créatures proches quand vous transférez votre ancêtre.
-
-EN: You are resistant to fire.
-FR: Vous résistez au feu.
 
 EN: Your divine halo fades away.
 FR: Votre halo divin s’estompe.
@@ -6516,9 +6411,6 @@ FR: Vous vous sentez affaibli.
 
 EN: You feel weaker.
 FR: Vous vous sentez plus faible.
-
-EN: You feel stronger.
-FR: Vous vous sentez plus fort.
 
 EN: You feel dopey.
 FR: Vous vous sentez abruti.
@@ -7606,17 +7498,11 @@ FR: Il peut voler.
 EN: She can fly.
 FR: Elle peut voler.
 
-EN: It can fly.
-FR: Il peut voler.
-
 EN: He can open doors.
 FR: Il peut ouvrir les portes.
 
 EN: She can open doors.
 FR: Elle peut ouvrir les portes.
-
-EN: It can open doors.
-FR: Il peut ouvrir les portes.
 
 EN: Size: Small
 FR: Taille : petite
@@ -7791,6 +7677,468 @@ FR: Vous ne voyez aucun monstre vulnérable à portée ! (Utilisez
 
 EN: Attacks Max Damage Range
 FR: Attaques Dégâts max Portée
+
+EN: {A} is electrocuted.
+FR: {S1} est électrocuté{e1}.
+
+EN: {A} is engulfed in a thunderstorm.
+FR: {S1} est englouti{e1} dans un orage.
+
+EN: The blast of metal fragments hits {A}!
+FR: Le souffle de fragments de métal touche {o1} !
+
+EN: The blast of metal fragments hits {A}.
+FR: Le souffle de fragments de métal touche {o1}.
+
+EN: The blast of metal fragments misses {A}!
+FR: Le souffle de fragments de métal rate {o1} !
+
+EN: The blast of metal fragments misses {A}.
+FR: Le souffle de fragments de métal rate {o1}.
+
+EN: The blast of metal fragments hits you!
+FR: Le souffle de fragments de métal vous touche !
+
+EN: The blast of metal fragments misses you!
+FR: Le souffle de fragments de métal vous rate !
+
+EN: {A} croaks regally.
+FR: {S1} coasse royalement.
+
+EN: The jinxing sprites lose interest in you.
+FR: Les lutins maléfiques se désintéressent de vous.
+
+EN: The sprites lose interest in your situation.
+FR: Les lutins se désintéressent de votre situation.
+
+EN: You beckon some vexing sprites to accompany your attacks.
+FR: Vous appelez quelques lutins tourmenteurs pour accompagner vos attaques.
+
+EN: You beckon more vexing sprites to accompany your attacks.
+FR: Vous appelez d’autres lutins tourmenteurs pour accompagner vos attaques.
+
+EN: There is nobody nearby that the sprites are interested in.
+FR: Il n’y a personne à proximité qui intéresse les lutins.
+
+EN: You feel your willpower being sapped.
+FR: Vous sentez votre volonté s’éroder.
+
+EN: You can sustain at most one creature summoned by this spell.
+FR: Vous ne pouvez maintenir qu’une seule créature invoquée par ce sort.
+
+EN: Miscasting this spell causes magic contamination and also either poisons you or corrodes you.
+FR: Rater ce sort provoque une contamination magique et, en plus, vous empoisonne ou vous corrode.
+
+EN: You hear an explosion!
+FR: Vous entendez une explosion !
+
+EN: You must harvest more living souls to recharge this spell.
+FR: Vous devez récolter davantage d’âmes vivantes pour recharger ce sort.
+
+EN: you must harvest more living souls to recharge this spell.
+FR: vous devez récolter davantage d’âmes vivantes pour recharger ce sort.
+
+EN: Your icy armour will break if you move. Continue?
+FR: Votre armure de glace se brisera si vous bougez. Continuer ?
+
+EN: Wearing a shield would reduce your attack speed with this weapon.
+FR: Porter un bouclier réduirait votre vitesse d’attaque avec cette arme.
+
+EN: Wearing heavy armour would reduce your attack speed with this weapon.
+FR: Porter une armure lourde réduirait votre vitesse d’attaque avec cette arme.
+
+EN: If you transformed using this talisman:
+FR: Si vous vous transformiez avec ce talisman :
+
+EN: It cannot be enchanted further.
+FR: Il ne peut pas être enchanté davantage.
+
+EN: This ancient artefact cannot be changed by magic or mundane means.
+FR: Cet artefact antique ne peut être modifié ni par la magie ni par des moyens ordinaires.
+
+EN: This creature has been created by magic and will cease to be once its creator
+FR: Cette créature a été créée par magie et cessera d’exister dès que son créateur
+
+EN: dies.
+FR: meurt.
+
+EN: This monster has been created by magic and is temporary. Killing it yields no experience or items; it is incapable of using stairs.
+FR: Ce monstre a été créé par magie et est temporaire. Le tuer ne rapporte ni expérience ni objets ; il est incapable d’utiliser les escaliers.
+
+EN: additional one-quarter of any damage that pierces defenders' armour
+FR: quart supplémentaire des dégâts qui percent l’armure du défenseur
+
+EN: Pain: It inflicts extra damage on living creatures proportional to your
+FR: Douleur : Inflige des dégâts supplémentaires aux créatures vivantes proportionnels à votre
+
+EN: Necromancy skill.
+FR: compétence en Nécromancie.
+
+EN: It weakens both your willpower and the willpower of everyone you
+FR: Il affaiblit à la fois votre volonté et celle de tous ceux que vous
+
+EN: hex, the latter of which is increased by your Evocations skill.
+FR: maudissez, ce dernier effet étant accru par votre compétence en Évocations.
+
+EN: It weakens both your willpower and the willpower of everyone you hex, the latter of which is increased by your Evocations skill.
+FR: Il affaiblit à la fois votre volonté et celle de tous ceux que vous maudissez, ce dernier effet étant accru par votre compétence en Évocations.
+
+EN: (q)uiver
+FR: (q) carquois
+
+EN: (w)ield
+FR: (w) manier
+
+EN: e(v)oke
+FR: (v) évoquer
+
+EN: Floor Items
+FR: Objets au sol
+
+EN: Inventory Items
+FR: Objets de l’inventaire
+
+EN: Equip or unequip which item?
+FR: Équiper ou retirer quel objet ?
+
+EN: Gang up on whom?
+FR: Se liguer contre qui ?
+
+EN: Inscribe with what?
+FR: Inscrire quoi ?
+
+EN: Generating dungeon...
+FR: Génération du donjon...
+
+EN: Space
+FR: Espace
+
+EN: Attack!
+FR: Attaquer !
+
+EN: Shout!
+FR: Crier !
+
+EN: t - Shout!
+FR: t - Crier !
+
+EN: Minion:
+FR: Sbire :
+
+EN: | Status
+FR: | Statut
+
+EN: |wield|wear|put on [
+FR: |manier|porter|mettre [
+
+EN: ] toggle between ability selection and description.
+FR: ] bascule entre la sélection d’une capacité et sa description.
+
+EN: - select action,
+FR: - choisir l’action,
+
+EN: - cycle Dir - look around, f - activate
+FR: - parcourir Dir - regarder autour, f - activer
+
+EN: - cycle Shift-Dir - straight line
+FR: - parcourir Maj-Dir - ligne droite
+
+EN: ] to select)
+FR: ] pour choisir)
+
+EN: Class: Nonliv.
+FR: Classe : Non-vivant.
+
+EN: Int: Mindless
+FR: Int : Sans esprit
+
+EN: A flower patch.
+FR: Un parterre de fleurs.
+
+EN: A walking alembic.
+FR: Un alambic ambulant.
+
+EN: A staircase to the Lair.
+FR: Un escalier vers l’Antre.
+
+EN: There is a cloud of sparse dust here.
+FR: Il y a un nuage de poussière clairsemée ici.
+
+EN: Upheaval
+FR: Bouleversement
+
+EN: Elemental Force
+FR: Force élémentaire
+
+EN: Eye of the Storm
+FR: Œil de la tempête
+
+EN: Prince Ribbit catches
+FR: Prince Ribbit attrape
+
+EN: boomerangs
+FR: des boomerangs
+
+EN: boomerang
+FR: un boomerang
+
+EN: Skill Regen Shed Tail HP Distraction Stab Chance
+FR: Compétence Régén. Perte de queue PV Distraction Chance de coup
+
+EN: ! - Random character
+FR: ! - Personnage aléatoire
+
+EN: # - Recommended character
+FR: # - Personnage recommandé
+
+EN: % - List aptitudes
+FR: % - Liste des aptitudes
+
+EN: * - Random background
+FR: * - Métier aléatoire
+
+EN: * - Random species
+FR: * - Espèce aléatoire
+
+EN: * - Random weapon
+FR: * - Arme aléatoire
+
+EN: + - Recommended background
+FR: + - Métier recommandé
+
+EN: + - Recommended random choice
+FR: + - Choix aléatoire recommandé
+
+EN: + - Recommended species
+FR: + - Espèce recommandée
+
+EN: Space - Change species
+FR: Espace - Changer d’espèce
+
+EN: Space - Pick background first
+FR: Espace - Choisir d’abord le métier
+
+EN: Bksp - Return to character menu
+FR: Retour arr. - Retour au menu du personnage
+
+EN: Welcome, rago.
+FR: Bienvenue, rago.
+
+EN: Please select your species.
+FR: Veuillez choisir votre espèce.
+
+EN: Please select your background.
+FR: Veuillez choisir votre métier.
+
+EN: Simple
+FR: Simple
+
+EN: Intermediate
+FR: Intermédiaire
+
+EN: Advanced
+FR: Avancé
+
+EN: Warrior
+FR: Guerrier
+
+EN: Warrior-mage
+FR: Guerrier-mage
+
+EN: Adventurer
+FR: Aventurier
+
+EN: Zealot
+FR: Zélote
+
+EN: Metamorph
+FR: Métamorphe
+
+EN: Mage
+FR: Mage
+
+EN: Lets you change your species choice.
+FR: Vous permet de changer votre choix d’espèce.
+
+EN: Lets you pick your background first.
+FR: Vous permet de choisir d’abord votre métier.
+
+EN: Lets you return back to Character choice menu
+FR: Vous permet de revenir au menu de choix du personnage
+
+EN: Lists the numerical skill train aptitudes for all races
+FR: Liste les aptitudes numériques d’entraînement des compétences pour toutes les espèces
+
+EN: Lists the numerical skill train aptitudes for all races.
+FR: Liste les aptitudes numériques d’entraînement des compétences pour toutes les espèces.
+
+EN: Opens the help screen
+FR: Ouvre l’écran d’aide
+
+EN: Opens the help screen.
+FR: Ouvre l’écran d’aide.
+
+EN: Picks a random background.
+FR: Choisit un métier au hasard.
+
+EN: Picks a random species.
+FR: Choisit une espèce au hasard.
+
+EN: Picks a random weapon
+FR: Choisit une arme au hasard
+
+EN: Picks a random recommended background based on your current species choice.
+FR: Choisit au hasard un métier recommandé selon l’espèce choisie.
+
+EN: Picks a random recommended species based on your current background choice.
+FR: Choisit au hasard une espèce recommandée selon le métier choisi.
+
+EN: Picks a random recommended weapon
+FR: Choisit au hasard une arme recommandée
+
+EN: Play a new game with your previous choice.
+FR: Lance une nouvelle partie avec votre choix précédent.
+
+EN: Shuffles through random character combinations until you accept one.
+FR: Parcourt des combinaisons de personnage au hasard jusqu’à ce que vous en acceptiez une.
+
+EN: Shuffles through random recommended character combinations until you accept one.
+FR: Parcourt des combinaisons de personnage recommandées au hasard jusqu’à ce que vous en acceptiez une.
+
+EN: You have a choice of weapons.
+FR: Vous avez le choix entre plusieurs armes.
+
+EN: Hand Weapons
+FR: Armes de mêlée
+
+EN: Brand which weapon?
+FR: Imprégner quelle arme ?
+
+EN: f - unarmed
+FR: f - à mains nues
+
+EN: g - unarmed
+FR: g - à mains nues
+
+EN: Gnolls are canine-like humanoids. They are unable to specialise in any single skill, but instead gradually become proficient in all at once.
+FR: Les Gnolls sont des humanoïdes canins. Incapables de se spécialiser dans une seule compétence, ils deviennent peu à peu compétents dans toutes à la fois.
+
+EN: Gnolls are canine-like humanoids. They are unable to specialise in any single skill, but instead gradually become proficient in toutes at once.
+FR: Les Gnolls sont des humanoïdes canins. Incapables de se spécialiser dans une seule compétence, ils deviennent peu à peu compétents dans toutes à la fois.
+
+EN: Will you prevail where others failed? Will you find the Orb of Zot?
+FR: Réussirez-vous là où d’autres ont échoué ? Trouverez-vous l’Orbe de Zot ?
+
+EN: (select to target/travel, [
+FR: (sélectionnez pour cibler/voyager, [
+
+EN: ] to examine)
+FR: ] pour examiner)
+
+EN: (u)nwield
+FR: (u) ranger l’arme
+
+EN: ) a stone staircase leading down (not visited)
+FR: ) un escalier de pierre descendant (non visité)
+
+EN: mode [
+FR: mode [
+
+EN: |quaff [
+FR: |boire [
+
+EN: |wield|wear [
+FR: |manier|porter [
+
+EN: manuel mode
+FR: mode manuel
+
+EN: base niveau
+FR: niveau de base
+
+EN: all skills
+FR: toutes les compétences
+
+EN: Features
+FR: Éléments du décor
+
+EN: Visible Items/Features
+FR: Objets et éléments visibles
+
+EN: Condensation shield
+FR: Bouclier de condensation
+
+EN: Key pressed, stopping travel.
+FR: Touche pressée, arrêt du déplacement.
+
+EN: Found a dagger, a robe,
+FR: Trouvé : une dague, une robe,
+
+EN: You are electrocuted!
+FR: Vous êtes électrocuté !
+
+EN: You are more poisoned.
+FR: Vous êtes davantage empoisonné.
+
+EN: You are no longer berserk.
+FR: Vous n’êtes plus en berserk.
+
+EN: You are rather mundane.
+FR: Vous êtes plutôt ordinaire.
+
+EN: You are splashed with acid.
+FR: Vous êtes éclaboussé d’acide.
+
+EN: You block the bolt with an invisible shield... and reflect it back!
+FR: Vous bloquez le carreau avec un bouclier invisible... et le renvoyez !
+
+EN: You block the splash of poison... and reflect it back!
+FR: Vous bloquez l’éclaboussure de poison... et la renvoyez !
+
+EN: You briefly stop to wash your hands.
+FR: Vous vous arrêtez brièvement pour vous laver les mains.
+
+EN: You feel less wooden.
+FR: Vous vous sentez moins ligneux.
+
+EN: You feel the effects of Trog's Hand fading.
+FR: Vous sentez les effets de la Main de Trog s’estomper.
+
+EN: You feel the power of Trog in you as your rage grows.
+FR: Vous sentez la puissance de Trog en vous tandis que votre rage grandit.
+
+EN: You start to feel less resistant.
+FR: Vous commencez à vous sentir moins résistant.
+
+EN: You turn into a banyan tree.
+FR: Vous vous transformez en banian.
+
+EN: Your hands burn!
+FR: Vos mains brûlent !
+
+EN: Your resistance to elements expires.
+FR: Votre résistance aux éléments expire.
+
+EN: Your skin crawls.
+FR: Votre peau frissonne.
+
+EN: Your transformation is almost over.
+FR: Votre transformation est presque terminée.
+
+EN: Jessica looks very angry.
+FR: Jessica a l’air très en colère.
+
+EN: {A} opens the door.
+FR: {S1} ouvre la porte.
+
+EN: {A} briefly extends {p} eye-stalks.
+FR: {S1} déploie brièvement ses pédoncules oculaires.
+
+EN: {A} magically shoots a bolt.
+FR: {S1} tire magiquement un carreau.
+
+EN: Trog's Hand
+FR: Main de Trog
 
 EN: You can reread all messages at any time with {K}. Also, press Space or left click with mouse to clear the --more-- prompts.
 FR: Vous pouvez relire tous les messages à tout moment avec {x1}. Appuyez aussi sur Espace ou cliquez avec la souris pour faire disparaître les invites --more--.

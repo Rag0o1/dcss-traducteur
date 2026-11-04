@@ -14,26 +14,26 @@
         T[`You finish ${en} {Y}.`] = `Vous finissez de ${infinitif} {y1}.`;
     }
     Object.assign(T, {
-        "You start memorising the spell.": "Vous commencez à mémoriser le sort.",
-        "You finish memorising.": "Vous finissez de mémoriser.",
-        "You stop imbuing your servitor.": "Vous cessez d’imprégner votre serviteur.",
+
+
+
         "You finish imbuing your servitor.": "Vous finissez d’imprégner votre serviteur.",
         "You begin to imbue your servitor with knowledge of {X}.": "Vous commencez à imprégner votre serviteur de la connaissance de {x1}.",
         "You begin to imprint {A} upon your paragon.": "Vous commencez à imprimer {o1} sur votre parangon.",
         "You finish imprinting the physical structure of {A} upon your paragon.": "Vous finissez d’imprimer la structure physique {d1} sur votre parangon.",
         "{X} removes the imprint of {A} from your paragon.": "{x1} retire l’empreinte {d2} de votre parangon.",
-        "You stop transforming.": "Vous cessez de vous transformer.",
-        "You stop digging.": "Vous cessez de creuser.",
+
+
         "You stop dropping stuff.": "Vous cessez de lâcher des objets.",
-        "You stop ascending the stairs.": "Vous cessez de monter l’escalier.",
-        "You stop descending the stairs.": "Vous cessez de descendre l’escalier.",
+
+
         "You finish merging with the rock.": "Vous finissez de fusionner avec la roche.",
-        "You stop channelling waves of flame.": "Vous cessez de canaliser des vagues de flammes.",
-        "You stop channelling your searing ray.": "Vous cessez de canaliser votre rayon brûlant.",
+
+
         "You finish channelling your searing ray.": "Vous finissez de canaliser votre rayon brûlant.",
-        "You stop assembling your clockwork bee.": "Vous cessez d’assembler votre abeille mécanique.",
-        "You start waiting.": "Vous commencez à attendre.",
-        "You start resting.": "Vous commencez à vous reposer.",
+
+
+
         "You finish reciting {X}": "Vous finissez de réciter {x1}",
         "You finish coughing all the {X} out of your lungs.": "Vous finissez de tousser tout le {x1} hors de vos poumons.",
         // --- Compétences ---

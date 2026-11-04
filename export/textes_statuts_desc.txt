@@ -1,6 +1,3 @@
-EN: This creature has temporarily gained the ability to cast specific spells. It will lose access to them again once sufficiently injured.
-FR: Cette créature a temporairement gagné la capacité de lancer des sorts spécifiques. Elle en perdra l’accès dès qu’elle sera suffisamment blessée.
-
 EN: After a short delay, this creature will be teleported to somewhere else on the current floor.
 FR: Après un court délai, cette créature sera téléportée ailleurs sur l’étage actuel.
 

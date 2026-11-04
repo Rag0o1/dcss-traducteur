@@ -32,7 +32,6 @@
         "a complex": "une truite complexe", "a polygonal": "une truite polygonale", "an imaginary": "une truite imaginaire", "an inverse": "une truite inversée", "an unlikely": "une truite improbable",
         "a used": "une truite usagée", "a second-hand": "une truite d’occasion", "a prohibited": "une truite interdite", "a challenging": "une truite difficile", "a delicious": "une truite délicieuse",
         "a mouldy": "une truite moisie", "a fake": "une truite factice", "a moist": "une truite humide", "a kilgore": "une truite Kilgore" };
-    const ENS = x => x.replace(/^(?:a|an) /, "");
     const DECORS = { lava: "la lave", "endless lava": "la lave sans fin", "shallow water": "l’eau peu profonde", "deep water": "l’eau profonde", mud: "la boue", "toxic bog": "le marécage toxique",
         "fountain of blood": "la fontaine de sang", "fountain of eyes": "la fontaine d’yeux", "fountain of sparkling water": "la fontaine d’eau pétillante", "fountain of clear blue water": "la fontaine d’eau bleue limpide",
         "dry fountain": "la fontaine à sec", "orcish idol": "l’idole orque", "metal statue": "la statue de métal", "granite statue": "la statue de granit", "zot statue": "la statue de Zot", tree: "l’arbre", mangrove: "le palétuvier",

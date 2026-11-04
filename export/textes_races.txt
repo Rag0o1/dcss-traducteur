@@ -61,6 +61,12 @@ FR: Gargouille
 EN: Gnoll
 FR: Gnoll
 
+EN: Mountain Dwarf
+FR: Nain des montagnes
+
+EN: Gale Centaur
+FR: Centaure de tempête
+
 EN: Hill Orc
 FR: Orc des collines
 

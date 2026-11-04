@@ -20,7 +20,6 @@ globalThis.DCSS_TRADUCTIONS.mutations = {
     "One of your tentacles bears a spike.": "L'un de vos tentacules porte une pointe.",
     "Potions are less effective at restoring your health.": "Les potions restaurent moins efficacement votre santé.",
     "Potions cannot restore your health.": "Les potions ne peuvent pas restaurer votre santé.",
-    "Removed mutation": "Mutation supprimée",
     "Spells you cast and wands you use may paralyse nearby enemies.": "Les sorts que vous lancez et les baguettes que vous utilisez peuvent paralyser les ennemis proches.",
     "Spells you cast cost 1 less MP (to a minimum of 1).": "Les sorts que vous lancez coûtent 1 MP de moins (minimum 1).",
     "Spells you cast cost 2 less MP (to a minimum of 1).": "Les sorts que vous lancez coûtent 2 MP de moins (minimum 1).",
@@ -382,6 +381,5 @@ globalThis.DCSS_TRADUCTIONS.mutations = {
     "Your tail will grow strong enough to constrict your foes.": "Votre queue deviendra assez puissante pour étreindre vos ennemis.",
     "Innate Abilities, Weirdness & Mutations": "Aptitudes innées, étrangetés et mutations",
     "Gained at a future XL.": "Obtenue à un niveau d’expérience ultérieur.",
-    "Your plain brown scales are hard. (AC +4)": "Vos écailles brunes sont dures. (AC +4)",
-    "You cannot fit into any form of body armour or wear helmets.": "Vous ne pouvez porter aucune armure corporelle ni aucun casque.",
+
 };

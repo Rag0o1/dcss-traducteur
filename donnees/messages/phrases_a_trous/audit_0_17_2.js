@@ -42,7 +42,6 @@
     // --- Sort « Jinxbite » : les lutins ---
     R.push({ regex: /^A giggling sprite leaps out and (.+)$/, translate: m => {
         const reste = m[1]; let r;
-        const dbl = x => x;
         if ((r = /^bonks (.+?) with (?:its|his|her|their) (.+)\.$/.exec(reste))) {
             const a = AC(r[1].replace(/^the /, "the ")), o = traduit("the " + r[2]); if (!a || !o) return null;
             return `Un lutin ricaneur surgit et frappe ${a.o} avec ${poss(o)}${sansArticle(o)}.`; }
@@ -76,7 +75,7 @@
         return `Vous ${{ start: "commencez à retirer", continue: "continuez à retirer", finish: "finissez de retirer" }[m[1]]} votre ${o}.`; } });
 
     // --- Puissance de sort, explosions, âmes ---
-    R.push({ regex: /^You feel (?:a|an) (slight |strong |huge )?surge of power([.!])$/, translate: m => `Vous sentez un ${{ "slight ": "léger ", "strong ": "fort ", "huge ": "énorme ", undefined: "" }[m[1]] || ""}afflux de puissance${m[2] === "!" ? " !" : "."}` });
+    R.push({ regex: /^You feel (?:a|an) (slight |strong |huge )?surge of power([.!])$/, translate: m => `Vous sentez un ${{ "slight ": "léger ",  "huge ": "énorme ", undefined: "" }[m[1]] || ""}afflux de puissance${m[2] === "!" ? " !" : "."}` });
     R.push({ regex: /^You feel (?:a|an) (extraordinarily |extremely )?numb sensation\.$/, translate: m => `Vous ressentez une sensation d’engourdissement${m[1] ? (/extra/.test(m[1]) ? " extraordinaire" : " extrême") : ""}.` });
     T["You hear an explosion!"] = "Vous entendez une explosion !";
     T["You must harvest more living souls to recharge this spell."] = "Vous devez récolter davantage d’âmes vivantes pour recharger ce sort.";

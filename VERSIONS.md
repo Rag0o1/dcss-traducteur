@@ -11,6 +11,13 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.17.6 — mineure (ménage)
+
+- 76 traductions en double (jamais utilisées, écrasées par une autre version) retirées des dictionnaires, et 41 phrases à trous identiques à une entrée du dictionnaire.
+- Variables de code inutilisées retirées. Le résultat des traductions est inchangé (vérifié sur les 25 832 textes du corpus : une seule description, celle d’une gemme, prend la version plus soignée).
+- Dossier `export/` régénéré.
+- Volontairement laissé : `officiel.js` (copie fidèle de la traduction officielle, qui sert de base et que nos versions écrasent par endroits).
+
 ## 0.17.5 — mineure
 
 - Écran de création du personnage : aides de touches, menus, noms d’espèces et de métiers manquants (Nain des montagnes, Centaure de tempête, Traqueur, Ravageur, Mystique), groupes de métiers.

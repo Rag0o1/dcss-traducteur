@@ -262,7 +262,6 @@
 ];
     for (const [en, fr] of TUTO) {
         const cmds = en.match(/\$cmd\[[A-Z_]+\]/g) || [];
-        let i = 0;
         const cle = en.replace(/\$cmd\[[A-Z_]+\]/g, () => "{K}");
         const sortie = fr.replace(/\$cmd\[[A-Z_]+\]/g, c => "{x" + (cmds.indexOf(c) + 1) + "}");
         T[cle] = sortie;

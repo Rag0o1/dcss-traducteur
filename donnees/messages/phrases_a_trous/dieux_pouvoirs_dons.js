@@ -129,10 +129,10 @@
         "Your summoned allies will not expire while fighting evil.": "Vos alliés invoqués ne disparaîtront pas tant qu’ils combattent le mal.",
         "You can now gain power from killing the unholy and evil.": "Vous pouvez désormais gagner de la puissance en tuant les impies et les maléfiques.",
         "You can no longer gain power from killing the unholy and evil.": "Vous ne pouvez plus gagner de puissance en tuant les impies et les maléfiques.",
-        "You can gain power from killing the unholy and evil.": "Vous pouvez gagner de la puissance en tuant les impies et les maléfiques.",
+
         "The Shining One may bless your followers whenever you slay foes.": "L’Étincelant peut bénir vos disciples chaque fois que vous terrassez des ennemis.",
         "The Shining One will no longer blesses your followers when you slay foes.": "L’Étincelant ne bénira plus vos disciples quand vous terrassez des ennemis.",
-        "The Shining One sometimes blesses your followers when you slay foes.": "L’Étincelant bénit parfois vos disciples quand vous terrassez des ennemis.",
+
         "The Shining One will bless your weapon with holy wrath... once.": "L’Étincelant bénira votre arme d’une colère sacrée... une seule fois.",
         "The Shining One is no longer ready to bless your weapon.": "L’Étincelant n’est plus prêt à bénir votre arme.",
         "Kikubaaqudgha is now protecting you from necromantic miscasts and death curses.": "Kikubaaqudgha vous protège désormais des ratés de nécromancie et des malédictions de mort.",
@@ -140,7 +140,7 @@
         "Kikubaaqudgha protects you from necromantic miscasts and death curses.": "Kikubaaqudgha vous protège des ratés de nécromancie et des malédictions de mort.",
         "Kikubaaqudgha is now protecting you from unholy torment.": "Kikubaaqudgha vous protège désormais du tourment impie.",
         "Kikubaaqudgha will no longer protect you from unholy torment.": "Kikubaaqudgha ne vous protégera plus du tourment impie.",
-        "Kikubaaqudgha protects you from unholy torment.": "Kikubaaqudgha vous protège du tourment impie.",
+
         "Kikubaaqudgha will grant you forbidden knowledge or bloody your weapon with pain... once.": "Kikubaaqudgha vous accordera un savoir interdit ou ensanglantera votre arme de douleur... une seule fois.",
         "Kikubaaqudgha will grant you forbidden knowledge.": "Kikubaaqudgha vous accordera un savoir interdit.",
         "Yredelemnul will now gift you temporary undead servants when you light the torch.": "Yredelemnul vous offrira désormais des serviteurs morts-vivants temporaires quand vous allumerez la torche.",
@@ -151,7 +151,7 @@
         "Vehumet aids your destructive spells.": "Vehumet soutient vos sorts destructeurs.",
         "Vehumet is now extending the range of your destructive spells.": "Vehumet étend désormais la portée de vos sorts destructeurs.",
         "Vehumet will no longer extend the range of your destructive spells.": "Vehumet n’étendra plus la portée de vos sorts destructeurs.",
-        "Vehumet extends the range of your destructive spells.": "Vehumet étend la portée de vos sorts destructeurs.",
+
         "Okawaru requires that you fight alone, and prevents you from gaining allies.": "Okawaru exige que vous combattiez seul, et vous empêche d’obtenir des alliés.",
         "Okawaru will now gift you throwing weapons as you gain piety.": "Okawaru vous offrira désormais des armes de jet à mesure que vous gagnez en piété.",
         "Okawaru will no longer gift you throwing weapons.": "Okawaru ne vous offrira plus d’armes de jet.",
@@ -170,16 +170,16 @@
         "Nemelex will gift you decks of power as you gain piety.": "Nemelex vous offre des paquets de puissance à mesure que vous gagnez en piété.",
         "Elyvilon prevents you from doing harm to neutral creatures.": "Elyvilon vous empêche de nuire aux créatures neutres.",
         "Lugonu protects you from the effects of unwielding distortion weapons.": "Lugonu vous protège des effets du déséquipement des armes de distorsion.",
-        "Lugonu may banish nearby foes when other gods try to punish you.": "Lugonu peut bannir les ennemis proches quand d’autres dieux tentent de vous punir.",
+
         "Lugonu will corrupt your weapon with distortion... once.": "Lugonu corrompra votre arme par la distorsion... une seule fois.",
         "Beogh will now send orc apostles to challenge you in battle as you gain piety.": "Beogh enverra désormais des apôtres orcs vous défier au combat à mesure que vous gagnez en piété.",
         "Beogh will no longer send orc apostles to challenge you in battle.": "Beogh n’enverra plus d’apôtres orcs vous défier au combat.",
         "Beogh will send orc apostles to challenge you in battle as you gain piety.": "Beogh envoie des apôtres orcs vous défier au combat à mesure que vous gagnez en piété.",
-        "You can recruit apostles that you defeat into your service.": "Vous pouvez enrôler à votre service les apôtres que vous vainquez.",
-        "Your apostles are sometimes healed when you deal damage.": "Vos apôtres sont parfois soignés quand vous infligez des dégâts.",
+
+
         "Jiyva is now protecting you from corrosive effects.": "Jiyva vous protège désormais des effets corrosifs.",
         "Jiyva will no longer protect you from corrosive effects.": "Jiyva ne vous protégera plus des effets corrosifs.",
-        "Jiyva protects you from corrosive effects.": "Jiyva vous protège des effets corrosifs.",
+
         "Jiyva will now mutate your body as you gain piety.": "Jiyva mutera désormais votre corps à mesure que vous gagnez en piété.",
         "Jiyva will no longer mutate your body.": "Jiyva ne mutera plus votre corps.",
         "Jiyva will mutate your body as you gain piety.": "Jiyva mute votre corps à mesure que vous gagnez en piété.",
@@ -187,57 +187,57 @@
         "You may now expel jellies when seriously injured.": "Vous pouvez désormais expulser des gelées quand vous êtes gravement blessé.",
         "You will no longer expel jellies when injured.": "Vous n’expulserez plus de gelées quand vous êtes blessé.",
         "You may expel jellies when seriously injured.": "Vous pouvez expulser des gelées quand vous êtes gravement blessé.",
-        "You can walk through plants and fire through allied plants.": "Vous pouvez traverser les plantes et tirer à travers les plantes alliées.",
+
         "Cheibriados is now slowing the effects of poison on you.": "Cheibriados ralentit désormais les effets du poison sur vous.",
         "Cheibriados will no longer slow the effects of poison on you.": "Cheibriados ne ralentira plus les effets du poison sur vous.",
-        "Cheibriados slows the effects of poison on you.": "Cheibriados ralentit les effets du poison sur vous.",
+
         "Ashenzari warns you of distant threats and treasures.": "Ashenzari vous avertit des menaces et trésors lointains.",
         "Ashenzari will now identify your possessions.": "Ashenzari identifiera désormais vos possessions.",
         "Ashenzari will no longer identify your possessions.": "Ashenzari n’identifiera plus vos possessions.",
-        "Ashenzari identifies your possessions.": "Ashenzari identifie vos possessions.",
+
         "Ashenzari will now reveal the unseen.": "Ashenzari révélera désormais l’invisible.",
         "Ashenzari will no longer reveal the unseen.": "Ashenzari ne révélera plus l’invisible.",
         "Ashenzari reveals the unseen.": "Ashenzari révèle l’invisible.",
         "Ashenzari will now keep your mind clear.": "Ashenzari gardera désormais votre esprit clair.",
         "Ashenzari will no longer keep your mind clear.": "Ashenzari ne gardera plus votre esprit clair.",
-        "Ashenzari keeps your mind clear.": "Ashenzari garde votre esprit clair.",
+
         "Ashenzari will now protect you from the dungeon's malevolent forces.": "Ashenzari vous protégera désormais des forces malveillantes du donjon.",
         "Ashenzari no longer protects you from the dungeon's malevolent forces.": "Ashenzari ne vous protège plus des forces malveillantes du donjon.",
-        "Ashenzari protects you from the dungeon's malevolent forces.": "Ashenzari vous protège des forces malveillantes du donjon.",
+
         "Ashenzari reveals the structure of the nearby dungeon.": "Ashenzari révèle la structure du donjon environnant.",
         "Ashenzari no longer reveals the structure of the nearby dungeon.": "Ashenzari ne révèle plus la structure du donjon environnant.",
-        "Dithmenos quiets all noise in your surroundings.": "Dithmenos étouffe tous les bruits autour de vous.",
+
         "Dithmenos no longer quiets all noise in your surroundings.": "Dithmenos n’étouffe plus les bruits autour de vous.",
         "Your shadow now sometimes tangibly mimics your actions.": "Votre ombre imite désormais parfois vos actions de façon tangible.",
         "Your shadow no longer tangibly mimics your actions.": "Votre ombre n’imite plus vos actions de façon tangible.",
-        "Your shadow sometimes tangibly mimics your actions.": "Votre ombre imite parfois vos actions de façon tangible.",
+
         "Gozag turns your defeated foes' bodies to gold.": "Gozag change en or le corps de vos ennemis vaincus.",
         "Your enemies may become distracted by gold.": "Vos ennemis peuvent se laisser distraire par l’or.",
         "Qazlal grants you and your divine allies immunity to clouds.": "Qazlal vous accorde, ainsi qu’à vos alliés divins, l’immunité aux nuages.",
         "You are now surrounded by a storm.": "Une tempête vous entoure désormais.",
         "Your storm dissipates completely.": "Votre tempête se dissipe complètement.",
-        "You are surrounded by a storm.": "Une tempête vous entoure.",
+
         "Your storm instantly dissipates.": "Votre tempête se dissipe instantanément.",
         "The storm surrounding you is now powerful enough to repel missiles.": "La tempête qui vous entoure est désormais assez puissante pour repousser les projectiles.",
         "The storm surrounding you is now too weak to repel missiles.": "La tempête qui vous entoure est désormais trop faible pour repousser les projectiles.",
-        "The storm surrounding you is powerful enough to repel missiles.": "La tempête qui vous entoure est assez puissante pour repousser les projectiles.",
+
         "You will now adapt resistances upon receiving elemental damage.": "Vous adapterez désormais vos résistances en recevant des dégâts élémentaires.",
         "You will no longer adapt resistances upon receiving elemental damage.": "Vous n’adapterez plus vos résistances en recevant des dégâts élémentaires.",
         "You adapt resistances upon receiving elemental damage.": "Vous adaptez vos résistances en recevant des dégâts élémentaires.",
-        "You now exude an aura of power that intimidates your foes.": "Vous dégagez désormais une aura de puissance qui intimide vos ennemis.",
+
         "You no longer exude an aura of power that intimidates your foes.": "Vous ne dégagez plus d’aura de puissance qui intimide vos ennemis.",
         "Your aura of power can now strike those that harm you.": "Votre aura de puissance peut désormais frapper ceux qui vous blessent.",
         "Your aura of power no longer strikes those that harm you.": "Votre aura de puissance ne frappe plus ceux qui vous blessent.",
-        "Your aura of power can strike those that harm you.": "Votre aura de puissance peut frapper ceux qui vous blessent.",
-        "Uskayaw will force your foes to helplessly watch your dance.": "Uskayaw forcera vos ennemis à regarder votre danse, impuissants.",
+
+
         "Uskayaw will no longer force your foes to helplessly watch your dance.": "Uskayaw ne forcera plus vos ennemis à regarder votre danse, impuissants.",
-        "Uskayaw will force your foes to share their pain.": "Uskayaw forcera vos ennemis à partager leur douleur.",
+
         "Uskayaw will no longer force your foes to share their pain.": "Uskayaw ne forcera plus vos ennemis à partager leur douleur.",
-        "Your ancestor manifests to aid you.": "Votre ancêtre se manifeste pour vous aider.",
+
         "You now drain nearby creatures when transferring your ancestor.": "Vous drainez désormais les créatures proches quand vous transférez votre ancêtre.",
         "You no longer drain nearby creatures when transferring your ancestor.": "Vous ne drainez plus les créatures proches quand vous transférez votre ancêtre.",
         "You drain nearby creatures when transferring your ancestor.": "Vous drainez les créatures proches quand vous transférez votre ancêtre.",
-        "You are resistant to fire.": "Vous résistez au feu.",
+
         "Your divine halo fades away.": "Votre halo divin s’estompe.",
         "Your aura of darkness fades away.": "Votre aura de ténèbres s’estompe.",
         "All of your followers decide to abandon you.": "Tous vos disciples décident de vous abandonner.",
@@ -258,7 +258,7 @@
     // --- Caractéristiques (player-stats.cc) : « You feel weakened/weaker/stronger... » ---
     Object.assign(T, {
         "You feel weakened.": "Vous vous sentez affaibli.", "You feel weaker.": "Vous vous sentez plus faible.",
-        "You feel stronger.": "Vous vous sentez plus fort.", "You feel dopey.": "Vous vous sentez abruti.",
+         "You feel dopey.": "Vous vous sentez abruti.",
         "You feel stupid.": "Vous vous sentez stupide.", "You feel clumsy.": "Vous vous sentez maladroit.",
         "You feel weak.": "Vous vous sentez faible.", "You feel very weak.": "Vous vous sentez très faible.",
         "You feel very strong.": "Vous vous sentez très fort.", "You feel very clumsy.": "Vous vous sentez très maladroit.",

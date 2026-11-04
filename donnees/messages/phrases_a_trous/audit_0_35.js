@@ -294,7 +294,7 @@
     Object.assign(ETATS, { "ally target": "cible alliée", susceptible: "vulnérable", "inner flame": "flamme intérieure", friendly: "allié",
         "noxious fumes": "vapeurs nocives", "black smoke": "fumée noire", "purple smoke": "fumée violette", lava: "lave", "sparse dust": "poussière clairsemée",
         water: "eau", "shallow water": "eau peu profonde", "deep water": "eau profonde", flame: "flammes", thunder: "orage", "catching its breath": "reprend son souffle",
-        "heavily wounded": "gravement blessé", "badly wounded": "gravement blessé" });
+         "badly wounded": "gravement blessé" });
     const etatUn = e => {
         if (ETATS[e]) return ETATS[e];
         let m;

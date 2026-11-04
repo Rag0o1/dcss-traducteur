@@ -1,9 +1,6 @@
 EN: Your bow and arrows are extremely powerful against distant monsters.
 FR: Votre arc et vos flèches sont extrêmement puissants contre les monstres distants.
 
-EN: The interface can be greatly customised. All options are explained in the file options_guide.txt which can be found in the docs directory. The options themselves are set in init.txt or .crawlrc. Crawl will complain if it can't find either file.
-FR: L’interface est très personnalisable. Toutes les options sont expliquées dans le fichier options_guide.txt, que vous trouverez dans le répertoire docs. Les options elles-mêmes se règlent dans init.txt ou .crawlrc. Crawl se plaindra s’il ne trouve aucun des deux fichiers.
-
 EN: You can ask other Crawl players for advice and help using any of the community resources described at http://crawl.develz.org/
 FR: Vous pouvez demander conseil et aide à d’autres joueurs de Crawl via les ressources communautaires décrites sur http://crawl.develz.org/
 
@@ -22,9 +19,6 @@ FR: Vous venez de vous convertir au culte d’Uskayaw. Contrairement aux autres 
 EN: You've just converted to worshipping Xom. As a follower of Xom, you'll be treated like a plaything, randomly helped or harmed for Xom's own amusement. There is no way to guarantee Xom remains in a good mood - the best any follower can hope for is to avoid letting Xom grow bored!
 FR: Vous venez de vous convertir au culte de Xom. En tant que fidèle de Xom, vous serez traité comme un jouet, aidé ou blessé au hasard pour l’amusement de Xom. Il n’y a aucun moyen de garantir que Xom reste de bonne humeur : le mieux que puisse espérer un fidèle est d’éviter que Xom s’ennuie !
 
-EN: Also, berserking might help you not to lose so much health in the first place. To use your abilities press a.
-FR: De plus, le berserk peut vous aider à ne pas perdre autant de santé dès le départ. Pour utiliser vos capacités, appuyez sur a.
-
 EN: You just discovered a trap. You'll occasionally find these nasty constructions.
 FR: Vous venez de découvrir un piège. Vous trouverez de temps en temps ces vilaines constructions.
 
@@ -37,9 +31,6 @@ FR: Maîtriser un type d’arme précis vous fera infliger un peu plus de dégâ
 EN: Being skilled with ranged weapons will let you deal slightly more damage and attack significantly faster with them. Remember that wearing heavy armour makes you attack more slowly with ranged weapons.
 FR: Maîtriser les armes à distance vous fera infliger un peu plus de dégâts et attaquer nettement plus vite avec elles. N’oubliez pas que porter une armure lourde ralentit vos attaques avec les armes à distance.
 
-EN: Upon gaining levels 3, 9, 15, etc., you get to choose an attribute to raise: strength, intelligence, or dexterity. Strength makes heavy armour less cumbersome and slightly increases most weapons' damage. Intelligence makes your spells more reliable and powerful. Dexterity increases your evasion and stealth, and slightly increases the damage of blades and ranged weapons.
-FR: Aux niveaux 3, 9, 15, etc., vous pouvez choisir un attribut à augmenter : force, intelligence ou dextérité. La Force rend les armures lourdes moins encombrantes et augmente légèrement les dégâts de la plupart des armes. L’Intelligence rend vos sorts plus fiables et plus puissants. La Dextérité augmente votre esquive et votre discrétion, et augmente légèrement les dégâts des lames et des armes à distance.
-
 EN: As you explore the dungeon and reveal new tiles, the malevolent forces of the dungeon may randomly cause bad things to happen to you. When this happens, pause, think carefully, and be ready to use consumables or abilities. Fight to survive!"
 FR: En explorant le donjon et en révélant de nouvelles cases, les forces malveillantes du donjon peuvent faire arriver de mauvaises choses au hasard. Quand cela se produit, faites une pause, réfléchissez bien et soyez prêt à utiliser consommables ou capacités. Battez-vous pour survivre !
 
@@ -48,9 +39,6 @@ FR: En explorant le donjon et en révélant de nouvelles cases, les forces malve
 
 EN: When you move away from an enemy, they have a small (1/3) chance of taking advantage and launching a free attack. Repositioning and retreating is often still good, but keep an eye out for those extra attacks.
 FR: Lorsque vous vous éloignez d’un ennemi, il a une petite chance (1/3) d’en profiter pour lancer une attaque gratuite. Se repositionner et battre en retraite reste souvent une bonne idée, mais prenez garde à ces attaques supplémentaires.
-
-EN: Walking around takes fewer keystrokes if you press Shift-direction or / direction. That will let you run until a monster comes into sight or your character sees something interesting.
-FR: Se déplacer demande moins de frappes si vous appuyez sur Maj-direction ou / direction. Vous courrez alors jusqu’à ce qu’un monstre apparaisse en vue ou que votre personnage voie quelque chose d’intéressant.
 
 EN: Your health is getting dangerously low. Retreating and/or quaffing a potion of heal wounds or curing might be a good idea.
 FR: Votre santé devient dangereusement basse. Battre en retraite et/ou boire une potion de soin des blessures ou de guérison peut être une bonne idée.
@@ -85,15 +73,6 @@ FR: Sinon, il vous faudra supporter le mécontentement de ce dieu jusqu’à ce 
 EN: Your console settings allowing, you'll always see a list of monsters somewhere on the screen.
 FR: Si les paramètres de votre console le permettent, vous verrez toujours une liste des monstres quelque part à l’écran.
 
-EN: However, as a hunter you will want to deal with it using your bow. If you have a look at your shortbow from your inventory, you'll find an explanation of how to do this.
-FR: Cependant, en tant que chasseur, vous voudrez vous en occuper avec votre arc. Si vous examinez votre arc court depuis votre inventaire, vous y trouverez une explication de la marche à suivre.
-
-EN: However, as a conjurer you will want to deal with it using magic. If you look at the help entry for the Memorisation screen you'll find an explanation of how to do this.
-FR: Cependant, en tant que conjurateur, vous voudrez vous en occuper avec la magie. Si vous consultez l’entrée d’aide de l’écran de mémorisation, vous y trouverez une explication de la marche à suivre.
-
-EN: However, it is only temporarily friendly, and will become dangerous again when this friendliness wears off.
-FR: Cependant, il n’est que temporairement amical et redeviendra dangereux lorsque cette amitié prendra fin.
-
 EN: Uh-oh, some monster noticed you, either one that's around a corner or one that's invisible. Plus, the noise it made will alert other monsters in the vicinity, who will come to check out what the commotion was about.
 FR: Aïe, un monstre vous a remarqué, soit un monstre derrière un angle, soit un monstre invisible. De plus, le bruit qu’il a fait alertera les autres monstres des environs, qui viendront voir de quoi il retourne.
 
@@ -121,29 +100,11 @@ FR: Se battre en eau peu profonde vous fera parfois glisser et rater votre attaq
 EN: You've found something new (but I don't know what)!
 FR: Vous avez trouvé quelque chose de nouveau (mais je ne sais pas quoi) !
 
-EN: This screen shows your character's set of talents. You can gain new abilities via certain items, through religion or by way of mutations. Activation of an ability usually comes at a cost, e.g. Magic power. Press '!' or '?' to toggle between ability selection and description.
-FR: Cet écran présente les talents de votre personnage. Vous pouvez gagner de nouvelles capacités grâce à certains objets, à la religion ou à des mutations. L’activation d’une capacité a généralement un coût, p. ex. du pouvoir magique. Appuyez sur « ! » ou « ? » pour basculer entre la sélection des capacités et leur description.
-
-EN: This screen shows the skill set of your character. The number next to the skill is your current level, the higher the better. Training displays training percentages. Costs displays relative training costs. Targets displays skill training targets. You can toggle which skills to train by pressing their slot letters. A grey skill will not be trained and ease the training of others.
-FR: Cet écran présente les compétences de votre personnage. Le nombre à côté de la compétence est son niveau actuel ; plus il est élevé, mieux c’est. Entraînement affiche les pourcentages d’entraînement. Coûts affiche les coûts d’entraînement relatifs. Objectifs affiche les objectifs d’entraînement des compétences. Vous pouvez choisir les compétences à entraîner en appuyant sur la lettre de leur emplacement. Une compétence grisée ne sera pas entraînée et facilitera l’entraînement des autres.
-
-EN: The training percentage (in brown) shows the relative amount of the experience gained which will be used to train each skill. It is automatically set depending on which skills you have used recently. Disabling a skill sets the training rate to 0.
-FR: Le pourcentage d’entraînement (en marron) indique la part relative de l’expérience gagnée qui servira à entraîner chaque compétence. Il est défini automatiquement selon les compétences que vous avez utilisées récemment. Désactiver une compétence fixe son taux d’entraînement à 0.
-
-EN: The training cost (in cyan) shows the experience cost to raise the given skill one level, relative to the cost of raising an aptitude zero skill from level zero to level one.
-FR: Le coût d’entraînement (en cyan) indique le coût en expérience pour faire monter la compétence donnée d’un niveau, relativement au coût pour faire passer une compétence d’aptitude nulle du niveau zéro au niveau un.
-
 EN: Press the letter of a skill to set a training target. When the target is reached a message will appear and the training of the skill will be disabled.
 FR: Appuyez sur la lettre d’une compétence pour fixer un objectif d’entraînement. Lorsque l’objectif est atteint, un message apparaîtra et l’entraînement de la compétence sera désactivé.
 
 EN: This screen shows the skill set of your character. Press the letter of a skill to read its description, or press ? again to return to the skill selection.
 FR: Cet écran présente les compétences de votre personnage. Appuyez sur la lettre d’une compétence pour lire sa description, ou appuyez de nouveau sur ? pour revenir à la sélection des compétences.
-
-EN: This screen shows the spells in your spell library. From here you can memorise spells by selecting them, as well as view spell descriptions, search for them, and organise them. As a conjurer, you start with five memorisable spells, and one already memorised: Magic Dart. (To view memorised spells, you can exit this menu and select I.)
-FR: Cet écran présente les sorts de votre bibliothèque de sorts. Vous pouvez y mémoriser des sorts en les sélectionnant, ainsi que consulter leurs descriptions, les rechercher et les organiser. En tant que conjurateur, vous commencez avec cinq sorts mémorisables et un déjà mémorisé : Projectile magique. (Pour voir les sorts mémorisés, vous pouvez quitter ce menu et choisir I.)
-
-EN: A spell that isn't greyed out or forbidden can be memorised right away by selecting it at this menu.
-FR: Un sort qui n’est ni grisé ni interdit peut être mémorisé immédiatement en le sélectionnant dans ce menu.
 
 EN: When wielded, some weapons (such as this one) offer certain abilities you can activate.
 FR: Une fois maniées, certaines armes (comme celle-ci) offrent des capacités que vous pouvez activer.
@@ -210,9 +171,6 @@ FR: Ce monstre semble assez dangereux !
 
 EN: A berserking monster is bloodthirsty and fighting madly. Such a blood rage makes it particularly dangerous!
 FR: Un monstre en berserk est assoiffé de sang et se bat comme un fou. Une telle rage sanguinaire le rend particulièrement dangereux !
-
-EN: This might be a good time to run away or apply your Berserk ability.
-FR: Ce pourrait être le bon moment pour fuir ou pour utiliser votre capacité Berserk.
 
 EN: Apparently it has not noticed you - yet. Note that you do not have to engage every monster you meet. Sometimes, discretion is the better part of valour.
 FR: Apparemment, il ne vous a pas encore remarqué. Notez que vous n’avez pas à affronter chaque monstre que vous croisez. Parfois, la prudence est la meilleure part de la valeur.

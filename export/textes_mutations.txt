@@ -55,9 +55,6 @@ FR: Les potions restaurent moins efficacement votre santé.
 EN: Potions cannot restore your health.
 FR: Les potions ne peuvent pas restaurer votre santé.
 
-EN: Removed mutation
-FR: Mutation supprimée
-
 EN: Spells you cast and wands you use may paralyse nearby enemies.
 FR: Les sorts que vous lancez et les baguettes que vous utilisez peuvent paralyser les ennemis proches.
 
@@ -1140,9 +1137,3 @@ FR: Aptitudes innées, étrangetés et mutations
 
 EN: Gained at a future XL.
 FR: Obtenue à un niveau d’expérience ultérieur.
-
-EN: Your plain brown scales are hard. (AC +4)
-FR: Vos écailles brunes sont dures. (AC +4)
-
-EN: You cannot fit into any form of body armour or wear helmets.
-FR: Vous ne pouvez porter aucune armure corporelle ni aucun casque.

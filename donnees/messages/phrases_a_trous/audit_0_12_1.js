@@ -46,8 +46,8 @@
             "Un gobelin intrépide qui a réussi, on ne sait comment, à dompter un papillon fantôme pour en faire sa monture. Si l’enchevêtrement de cordes qu’il utilise pour rester en selle gêne sûrement la mobilité du papillon, même un papillon fantôme entravé peut être un adversaire mortel.",
         "He possesses the following magical abilities, which are affected by antimagic (but not silence):":
             "Il possède les capacités magiques suivantes, affectées par l’antimagie (mais pas par le silence) :",
-        "He can fly.": "Il peut voler.", "She can fly.": "Elle peut voler.", "It can fly.": "Il peut voler.",
-        "He can open doors.": "Il peut ouvrir les portes.", "She can open doors.": "Elle peut ouvrir les portes.", "It can open doors.": "Il peut ouvrir les portes.",
+        "He can fly.": "Il peut voler.", "She can fly.": "Elle peut voler.",
+        "He can open doors.": "Il peut ouvrir les portes.", "She can open doors.": "Elle peut ouvrir les portes.",
         "Size: Small": "Taille : petite", "Size: Tiny": "Taille : minuscule", "Size: Medium": "Taille : moyenne", "Size: Large": "Taille : grande",
         "Size: Little": "Taille : petite", "Size: Giant": "Taille : gigantesque",
         "Will: ++": "Volonté : ++", "Will: +": "Volonté : +", "Will: +++": "Volonté : +++",
@@ -127,7 +127,7 @@
     R.push({ regex: /^(.+ \([A-Za-z]{4}\)) Turns: (\d+), Time: ([\d:]+)$/, translate: m => `${m[1]} Tours : ${m[2]}, Durée : ${m[3]}` });
     R.push({ regex: /^(\d+\/\d+) runes: (.+)$/, translate: m => { const RU = { decaying: "putrescente", serpentine: "serpentine" };
         return `${m[1]} runes : ${m[2].split(", ").map(r => RU[r] || r).join(", ")}`; } });
-    const MUT = { "mud breath": "souffle de boue", "mud-swimmer": "nageur de boue", amphibious: "amphibie", "unfitting armour": "armure inadaptée", "cold-blooded": "sang froid" };
+    const MUT = { "mud breath": "souffle de boue", "mud-swimmer": "nageur de boue", amphibious: "amphibie", "unfitting armour": "armure inadaptée",  };
     R.push({ regex: /^[a-zA-Z][\w+ -]*(?:, [a-zA-Z][\w+ -]*)+$/, translate: m => {
         const out = []; let n = 0;
         for (const e of m.input.split(", ")) { let f = MUT[e];

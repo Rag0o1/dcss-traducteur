@@ -67,6 +67,15 @@ FR: Moine
 EN: Necromancer
 FR: Nécromancien
 
+EN: Reaver
+FR: Ravageur
+
+EN: Stalker
+FR: Traqueur
+
+EN: Mystic
+FR: Mystique
+
 EN: Shapeshifter
 FR: Métamorphe
 

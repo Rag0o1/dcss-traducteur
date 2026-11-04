@@ -2,7 +2,7 @@
 // Pour corriger une phrase : changez simplement le texte français à droite.
 globalThis.DCSS_TRADUCTIONS = globalThis.DCSS_TRADUCTIONS || {};
 globalThis.DCSS_TRADUCTIONS.statuts_desc = {
-"This creature has temporarily gained the ability to cast specific spells. It will lose access to them again once sufficiently injured.": "Cette créature a temporairement gagné la capacité de lancer des sorts spécifiques. Elle en perdra l’accès dès qu’elle sera suffisamment blessée.",
+
 "After a short delay, this creature will be teleported to somewhere else on the current floor.": "Après un court délai, cette créature sera téléportée ailleurs sur l’étage actuel.",
 "This creature suffers AC-ignoring cold damage every turn, and may sometimes explode in a burst of ice that damages nearby allies. When it dies, it may spread rimeblight to other nearby allies. Natural, demonic, or holy creatures will be instantly killed once they reach low health, and be replaced with pillars of rime.": "Cette créature subit chaque tour des dégâts de froid ignorant la CA, et peut parfois exploser en une gerbe de glace qui blesse les alliés proches. Quand elle meurt, elle peut propager la nécrose du givre à d’autres alliés proches. Les créatures naturelles, démoniaques ou saintes seront instantanément tuées une fois leur santé basse, et remplacées par des piliers de givre.",
 "This creature is being targeted by one or more of your allies.": "Cette créature est ciblée par un ou plusieurs de vos alliés.",

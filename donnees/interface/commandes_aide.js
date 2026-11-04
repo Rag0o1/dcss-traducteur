@@ -29,19 +29,11 @@ globalThis.DCSS_TRADUCTIONS.aide = {
     "Miscasting this spell causes magic contamination.": "Rater ce sort provoque une contamination magique.",
     ") and": ") et",
     "targeting),": "ciblage),",
-    "Rest:": "Repos :",
-    "Autofight:": "Combat auto :",
-    "Item types (and common commands)": "Types d’objets (et commandes)",
-    "Other Gameplay Actions:": "Autres actions de jeu :",
-    "Non-Gameplay Commands / Info": "Commandes hors jeu / infos",
-    "Game Saving and Quitting:": "Sauvegarde et sortie du jeu :",
-    "Player Character Information:": "Informations sur le personnage :",
-    "Dungeon Interaction and Information:": "Interaction avec le donjon et informations :",
-    "Inventory management:": "Gestion de l’inventaire :",
-    "Item Interaction:": "Interaction avec les objets :",
-    "Additional help:": "Aide supplémentaire :",
-    "Movement:": "Déplacement :",
-    "Extended Movement:": "Déplacement étendu :"
+
+
+
+
+    
 };
 
 // Libellés de l'écran d'aide : [anglais, français].

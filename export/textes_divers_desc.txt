@@ -1,45 +1,3 @@
-EN: The scales of an acid dragon. Although it does not provide its wearer with as much protection as the armour made from the scales of some larger dragons, it is somewhat lighter and less encumbering. It is also remarkably smooth, letting corrosive slime flow off it like water.
-FR: Les écailles d’un dragon acide. Bien qu’elle n’offre pas à son porteur autant de protection que l’armure faite des écailles de certains dragons plus grands, elle est un peu plus légère et moins encombrante. Elle est aussi remarquablement lisse, laissant la bave corrosive s’écouler comme de l’eau.
-
-EN: As clear and blue as a cloudless sky or a depthless sea, this gem holds its secrets locked within impenetrable depths.
-FR: Aussi clair et bleu qu’un ciel sans nuage ou qu’une mer sans fond, ce joyau garde ses secrets enfermés dans des profondeurs impénétrables.
-
-EN: Deep within this gem, flowing leaves and swaying branches seem to lurk. And here, a bone picked clean - there, a predator's eyes, staring hungrily out..?
-FR: Au cœur de ce joyau, on devine des feuilles ondoyantes et des branches qui se balancent. Ici, un os rongé jusqu’à la moelle ; là, des yeux de prédateur qui fixent avidement dehors..?
-
-EN: Countless spirits swirl around this gem, shrouding it in a bone-deep chill. Unwelcome in the Good gods' afterlife, they find here a heaven of their own.
-FR: D’innombrables esprits tourbillonnent autour de ce joyau et l’enveloppent d’un froid glacial. Indésirables dans l’au-delà des dieux bons, ils trouvent ici un paradis bien à eux.
-
-EN: Sigils of fire burn deep within this gem, symbol of the eternal compact between naga and salamander. Their bond is that of the poison which scourges the impure and the flame which burns away impurity.
-FR: Des sceaux de feu brûlent au fond de ce joyau, symbole du pacte éternel entre naga et salamandre. Leur lien est celui du poison qui châtie l’impur et de la flamme qui consume l’impureté.
-
-EN: The stoneborn brought forth this gem from the uttermost depths of the earth as a gift and a warning: beware Zot! That it lies now within Zot's power is a sure proof of the perversity of mortals and fate alike.
-FR: Les enfants de la pierre ont tiré ce joyau des tréfonds de la terre, à la fois comme un don et comme un avertissement : gare à Zot ! Qu’il repose maintenant au pouvoir de Zot prouve assez la perversité des mortels et du destin.
-
-EN: Smooth as a spider's silk, white as the eyes of some crawling thing which has lived too long in the dark, this gem buzzes with a fearful potential. Still, to a certain eye, it possesses a strange allure...
-FR: Lisse comme la soie d’une araignée, blanc comme les yeux d’une créature rampante qui a vécu trop longtemps dans le noir, ce joyau bourdonne d’un potentiel inquiétant. Pourtant, pour certains regards, il possède un étrange attrait...
-
-EN: Though it drips with mud and muck, still a peculiar dignity attaches itself to this gem. The people of the Swamp, who first carried this stone, struggled against insurmountable odds. They failed, but there is much to admire even in the ruin of their efforts.
-FR: Bien qu’il dégouline de boue et de fange, une singulière dignité s’attache encore à ce joyau. Les gens du Marais, qui portèrent cette pierre les premiers, luttèrent contre des obstacles insurmontables. Ils échouèrent, mais il y a beaucoup à admirer jusque dans la ruine de leurs efforts.
-
-EN: Shining with every colour of the rainbow and a few others besides, some consider this gem 'a bit tacky'. Preposterous!
-FR: Brillant de toutes les couleurs de l’arc-en-ciel et de quelques autres, ce joyau est jugé « un peu kitsch » par certains. Absurde !
-
-EN: They who smote down Death herself and buried themselves in a Tomb of their own making were not shy of their ambitions. Fain to seize upon baubles and overweening proud, their Lord journeyed into their eternal unrest with this gem upon their breast.
-FR: Ceux qui terrassèrent la Mort elle-même et s’enterrèrent dans un Tombeau de leur propre construction n’étaient pas timides dans leurs ambitions. Avides de babioles et d’un orgueil démesuré, leur Seigneur partit vers son éternelle agitation avec ce joyau sur la poitrine.
-
-EN: Many are the treasures of the Ironbound Order, but none older nor more precious than this steel-shining gem. The Vaults were first forged to hold it, and none who gazed within its depths could fault the choice.
-FR: Nombreux sont les trésors de l’Ordre de Fer, mais aucun n’est plus ancien ni plus précieux que ce joyau à l’éclat d’acier. Les Salles furent d’abord forgées pour l’abriter, et nul de ceux qui contemplèrent ses profondeurs n’aurait pu en blâmer le choix.
-
-EN: Unearthly energies gently flow along the surface of this gem, guided by the archmage who first built the Elven Halls. Countless generations of elves flocked to learn from her, but her foremost pursuit was always the perfection of this piece of art.
-FR: D’étranges énergies glissent doucement à la surface de ce joyau, guidées par l’archimage qui bâtit les premières Salles elfiques. D’innombrables générations d’elfes accoururent pour apprendre auprès d’elle, mais sa quête première fut toujours la perfection de cette œuvre d’art.
-
-EN: Swirls of dark smoke seem to lurk in the depths of this gem. Countless dark deeds were done in the Dungeon even before Zot seized and remade it, and their dreadful residue now taints every hint of beauty trapped within its confines.
-FR: Des volutes de fumée sombre semblent rôder au cœur de ce joyau. D’innombrables actes sombres furent commis dans le Donjon avant même que Zot ne s’en empare et le refaçonne, et leur horrible résidu souille désormais le moindre soupçon de beauté qui y est piégé.
-
-EN: Odd lights twinkle within the depths of this gem. From what strange stuff is it made, and from what distant land did it travel?
-FR: D’étranges lumières scintillent au cœur de ce joyau. De quelle étrange matière est-il fait, et de quelle contrée lointaine est-il venu ?
-
 EN: The exotic underground beaches of the Shoals make up a few small islands in a seemingly endless sea. The merfolk have made it their home, alongside many dreaded sea creatures. A dungeon features only one of the Shoals and Swamp branches.
 FR: Les plages souterraines exotiques des Hauts-fonds forment quelques petites îles dans une mer apparemment sans fin. Les sirènes en ont fait leur foyer, aux côtés de nombreuses créatures marines redoutées. Un donjon ne comporte qu’une seule des branches Hauts-fonds et Marais.
 
@@ -51,9 +9,6 @@ FR: Une ziggourat est une étrange tour construite d’arènes de combat de plus
 
 EN: An elaborate complex designed to lure foolhardy adventurers seeking riches and glory. Those who enter must choose a path through several combat arenas, each of which contains treasure guarded by dangerous and sometimes exotic creatures. At the end awaits a fearsome minotaur, guarding a large hoard of loot taken from the bodies of foolish adventurers. Long-range teleports are impossible in Gauntlets.
 FR: Un complexe élaboré conçu pour attirer les aventuriers téméraires en quête de richesses et de gloire. Ceux qui y entrent doivent choisir un chemin à travers plusieurs arènes de combat, chacune contenant un trésor gardé par des créatures dangereuses et parfois exotiques. Au bout attend un redoutable minotaure, gardien d’un vaste butin pris sur les corps d’aventuriers imprudents. Les téléportations à longue distance sont impossibles dans les Épreuves.
-
-EN: The Desolation was once ruled by the divines Sheza and Sargol. After the dread twins were cast down, the good gods reduced their former realm to salt, that such a terrible cult would never rise again. Amidst the ruins, only the last cultists of the dead gods, their heretical constructs, and the guardians of the cult's legendary treasure yet remain.
-FR: La Désolation fut jadis gouvernée par les divins Sheza et Sargol. Après la chute des terribles jumeaux, les dieux bons réduisirent leur ancien royaume en sel, afin qu’un si terrible culte ne puisse jamais renaître. Parmi les ruines ne subsistent que les derniers cultistes des dieux morts, leurs créations hérétiques et les gardiens du légendaire trésor du culte.
 
 EN: The card depicts a royal crypt, its entrance sealed by a heavy stone slab. Drawing this card entombs its user in protective, temporary walls of solid rock. At lower power levels or with adjacent creatures, the tomb may be imperfect. The tomb is sustained by the presence of its creator within it, and moving from the centre of the tomb will cause its walls to crumble away.
 FR: La carte représente une crypte royale, dont l’entrée est scellée par une lourde dalle de pierre. Tirer cette carte emmure son utilisateur dans des murs de roche solide, protecteurs et temporaires. À faible puissance ou en présence de créatures adjacentes, le tombeau peut être imparfait. Le tombeau est maintenu par la présence de son créateur à l’intérieur, et quitter le centre du tombeau fera s’effondrer ses murs.
@@ -93,9 +48,6 @@ FR: Un nuage d’air glacial. Toute créature non totalement immunisée au froid
 
 EN: A raging forest fire. Any creature not entirely immune to fire will be hurt by time spent in the flames. The flames will intermittently flare up and fill their surroundings with lesser fires. Any trees unfortunate enough to be nearby will often find themselves transformed into more kindling for the fire. Ranged cold attacks passing through the cloud are substantially reduced in range, dissipating the cloud in the process. If placed near or over water, the heat will generate steam nearby.
 FR: Un feu de forêt déchaîné. Toute créature non totalement immunisée au feu sera blessée par le temps passé dans les flammes. Les flammes se ravivent par intermittence et remplissent leurs environs de feux mineurs. Les arbres qui se trouvent à proximité se transforment souvent en combustible supplémentaire pour le brasier. Les attaques de froid à distance traversant le nuage voient leur portée considérablement réduite, dissipant le nuage au passage. S’il est placé près de l’eau ou dessus, la chaleur génère de la vapeur à proximité.
-
-EN: A cloud of foul pestilence. Any living being caught within it will find themselves poisoned, and may also find their movements slowed.
-FR: Un nuage de pestilence infecte. Tout être vivant pris dedans sera empoisonné, et pourra aussi voir ses mouvements ralentis.
 
 EN: A cloud of smouldering embers. It can easily be smothered by any creature standing over it, but if left alone will ignite into a blazing cloud of flame.
 FR: Un nuage de braises fumantes. Il peut facilement être étouffé par toute créature qui se tient dessus, mais, laissé seul, il s’enflammera en un nuage de flammes ardent.
@@ -169,84 +121,6 @@ FR: Déplace le curseur vers le prochain endroit où l’exploration automatique
 EN: Toggles the on-screen keyboard visibility.
 FR: Active ou désactive l’affichage du clavier à l’écran.
 
-EN: This creature is unable to move, act, block, or dodge. Any hostile action will awaken it, though melee attacks against it (even by other monsters) will deal increased damage.
-FR: Cette créature est incapable de bouger, d’agir, de bloquer ou d’esquiver. Toute action hostile la réveillera, bien que les attaques de mêlée contre elle (même par d’autres monstres) infligent des dégâts accrus. Les attaques de mêlée que vous faites contre cette créature infligent des dégâts grandement accrus, surtout avec une lame courte.
-
-EN: This creature is unable to move, act, block, or dodge. Any hostile action will awaken it, though melee attacks against it (even by other monsters) will deal increased damage. Melee attacks you make against this creature will deal greatly increased damage, especially if made with a short blade.
-FR: Cette créature est incapable de bouger, d’agir, de bloquer ou d’esquiver. Toute action hostile la réveillera, bien que les attaques de mêlée contre elle (même par d’autres monstres) infligent des dégâts accrus. Les attaques de mêlée que vous faites contre cette créature infligent des dégâts grandement accrus, surtout avec une lame courte.
-
-EN: This creature cannot see properly. Its accuracy is greatly decreased, it cannot make attacks of opportunity, and spells it casts may sometimes be aimed at the wrong locations. It may also stumble around and eventually lose track of its target, especially if it has low intelligence.
-FR: Cette créature ne voit pas correctement. Sa précision est grandement réduite, elle ne peut pas faire d’attaques d’opportunité, et les sorts qu’elle lance peuvent parfois viser les mauvais endroits. Elle peut aussi trébucher et finir par perdre sa cible de vue, surtout si elle a une faible intelligence. Les attaques de mêlée que vous faites contre cette créature ont une chance (proportionnelle à votre discrétion et à votre compétence d’arme) de la prendre au dépourvu et d’infliger des dégâts accrus, surtout avec une lame courte.
-
-EN: This creature cannot see properly. Its accuracy is greatly decreased, it cannot make attacks of opportunity, and spells it casts may sometimes be aimed at the wrong locations. It may also stumble around and eventually lose track of its target, especially if it has low intelligence. Melee attacks you make against this creature have a chance (proportional to your stealth and weapon skill) of catching it off-guard and dealing increased damage, especially if made with a short blade.
-FR: Cette créature ne voit pas correctement. Sa précision est grandement réduite, elle ne peut pas faire d’attaques d’opportunité, et les sorts qu’elle lance peuvent parfois viser les mauvais endroits. Elle peut aussi trébucher et finir par perdre sa cible de vue, surtout si elle a une faible intelligence. Les attaques de mêlée que vous faites contre cette créature ont une chance (proportionnelle à votre discrétion et à votre compétence d’arme) de la prendre au dépourvu et d’infliger des dégâts accrus, surtout avec une lame courte.
-
-EN: This creature is unable to block or use spells or abilities and will stumble around at random, attacking whatever it bumps into - be they friend or foe or sometimes even themselves.
-FR: Cette créature est incapable de bloquer ou d’utiliser des sorts ou des capacités et trébuchera au hasard, attaquant tout ce qu’elle heurte, ami ou ennemi, voire parfois elle-même. Les attaques de mêlée que vous faites contre cette créature ont une chance (proportionnelle à votre discrétion et à votre compétence d’arme) de la prendre au dépourvu et d’infliger des dégâts accrus, surtout avec une lame courte.
-
-EN: This creature is unable to block or use spells or abilities and will stumble around at random, attacking whatever it bumps into - be they friend or foe or sometimes even themselves. Melee attacks you make against this creature have a chance (proportional to your stealth and weapon skill) of catching it off-guard and dealing increased damage, especially if made with a short blade.
-FR: Cette créature est incapable de bloquer ou d’utiliser des sorts ou des capacités et trébuchera au hasard, attaquant tout ce qu’elle heurte, ami ou ennemi, voire parfois elle-même. Les attaques de mêlée que vous faites contre cette créature ont une chance (proportionnelle à votre discrétion et à votre compétence d’arme) de la prendre au dépourvu et d’infliger des dégâts accrus, surtout avec une lame courte.
-
-EN: This creature is caught in a net, greatly reducing its evasion and preventing it from blocking. Any attempt it makes to move or attack will instead struggle against the net, which may eventually destroy it. Spellcasting is unimpaired.
-FR: Cette créature est prise dans un filet, ce qui réduit grandement son évasion et l’empêche de bloquer. Toute tentative de bouger ou d’attaquer luttera à la place contre le filet, qui peut finir par être détruit. L’incantation n’est pas affectée. Les attaques de mêlée que vous faites contre cette créature ont une chance (proportionnelle à votre discrétion et à votre compétence d’arme) de la prendre au dépourvu et d’infliger des dégâts accrus, surtout avec une lame courte.
-
-EN: This creature is caught in a net, greatly reducing its evasion and preventing it from blocking. Any attempt it makes to move or attack will instead struggle against the net, which may eventually destroy it. Spellcasting is unimpaired. Melee attacks you make against this creature have a chance (proportional to your stealth and weapon skill) of catching it off-guard and dealing increased damage, especially if made with a short blade.
-FR: Cette créature est prise dans un filet, ce qui réduit grandement son évasion et l’empêche de bloquer. Toute tentative de bouger ou d’attaquer luttera à la place contre le filet, qui peut finir par être détruit. L’incantation n’est pas affectée. Les attaques de mêlée que vous faites contre cette créature ont une chance (proportionnelle à votre discrétion et à votre compétence d’arme) de la prendre au dépourvu et d’infliger des dégâts accrus, surtout avec une lame courte.
-
-EN: This creature is caught in a spider's web, greatly reducing its evasion and preventing it from blocking. Any attempt it makes to move or attack will instead struggle against the web, which may eventually destroy it. Spellcasting is unimpaired.
-FR: Cette créature est prise dans une toile d’araignée, ce qui réduit grandement son évasion et l’empêche de bloquer. Toute tentative de bouger ou d’attaquer luttera à la place contre la toile, qui peut finir par être détruite. L’incantation n’est pas affectée. Les attaques de mêlée que vous faites contre cette créature ont une chance (proportionnelle à votre discrétion et à votre compétence d’arme) de la prendre au dépourvu et d’infliger des dégâts accrus, surtout avec une lame courte.
-
-EN: This creature is caught in a spider's web, greatly reducing its evasion and preventing it from blocking. Any attempt it makes to move or attack will instead struggle against the web, which may eventually destroy it. Spellcasting is unimpaired. Melee attacks you make against this creature have a chance (proportional to your stealth and weapon skill) of catching it off-guard and dealing increased damage, especially if made with a short blade.
-FR: Cette créature est prise dans une toile d’araignée, ce qui réduit grandement son évasion et l’empêche de bloquer. Toute tentative de bouger ou d’attaquer luttera à la place contre la toile, qui peut finir par être détruite. L’incantation n’est pas affectée. Les attaques de mêlée que vous faites contre cette créature ont une chance (proportionnelle à votre discrétion et à votre compétence d’arme) de la prendre au dépourvu et d’infliger des dégâts accrus, surtout avec une lame courte.
-
-EN: This creature has been stricken permanently mute by the power of Zin. This prevents all noise the creature could make, including the vocalisations required for most creatures to cast spells.
-FR: Cette créature a été rendue définitivement muette par le pouvoir de Zin. Cela empêche tout bruit que la créature pourrait faire, y compris les vocalisations requises par la plupart des créatures pour lancer des sorts.
-
-EN: This creature has been briefly distracted by something else.
-FR: Cette créature a été brièvement distraite par autre chose. Les attaques de mêlée que vous faites contre cette créature ont une chance (proportionnelle à votre discrétion et à votre compétence d’arme) de la prendre au dépourvu et d’infliger des dégâts accrus, surtout avec une lame courte.
-
-EN: This creature has been briefly distracted by something else. Melee attacks you make against this creature have a chance (proportional to your stealth and weapon skill) of catching it off-guard and dealing increased damage, especially if made with a short blade.
-FR: Cette créature a été brièvement distraite par autre chose. Les attaques de mêlée que vous faites contre cette créature ont une chance (proportionnelle à votre discrétion et à votre compétence d’arme) de la prendre au dépourvu et d’infliger des dégâts accrus, surtout avec une lame courte.
-
-EN: This creature is unable to move, act, block, or dodge attacks.
-FR: Cette créature est incapable de bouger, d’agir, de bloquer ou d’esquiver les attaques. Les attaques de mêlée que vous faites contre cette créature infligent des dégâts grandement accrus, surtout avec une lame courte.
-
-EN: This creature is unable to move, act, block, or dodge attacks. Melee attacks you make against this creature will deal greatly increased damage, especially if made with a short blade.
-FR: Cette créature est incapable de bouger, d’agir, de bloquer ou d’esquiver les attaques. Les attaques de mêlée que vous faites contre cette créature infligent des dégâts grandement accrus, surtout avec une lame courte.
-
-EN: This creature will soon become fully petrified. Its movement and actions are 50% slower and it is nearly unable to dodge attacks, though it also takes 33% less damage.
-FR: Cette créature sera bientôt entièrement pétrifiée. Ses mouvements et actions sont 50 % plus lents et elle est presque incapable d’esquiver les attaques, mais elle subit aussi 33 % de dégâts en moins. Les attaques de mêlée que vous faites contre cette créature ont une chance (proportionnelle à votre discrétion et à votre compétence d’arme) de la prendre au dépourvu et d’infliger des dégâts accrus, surtout avec une lame courte.
-
-EN: This creature will soon become fully petrified. Its movement and actions are 50% slower and it is nearly unable to dodge attacks, though it also takes 33% less damage. Melee attacks you make against this creature have a chance (proportional to your stealth and weapon skill) of catching it off-guard and dealing increased damage, especially if made with a short blade.
-FR: Cette créature sera bientôt entièrement pétrifiée. Ses mouvements et actions sont 50 % plus lents et elle est presque incapable d’esquiver les attaques, mais elle subit aussi 33 % de dégâts en moins. Les attaques de mêlée que vous faites contre cette créature ont une chance (proportionnelle à votre discrétion et à votre compétence d’arme) de la prendre au dépourvu et d’infliger des dégâts accrus, surtout avec une lame courte.
-
-EN: This creature is unable to move, act, block, or dodge attacks. By being made of stone, it also takes 50% less damage, gains immunity to negative energy and poison, but become vulnerable to deconstruction.
-FR: Cette créature est incapable de bouger, d’agir, de bloquer ou d’esquiver les attaques. Étant de pierre, elle subit aussi 50 % de dégâts en moins, devient immunisée à l’énergie négative et au poison, mais vulnérable à la déconstruction. Les attaques de mêlée que vous faites contre cette créature infligent des dégâts grandement accrus, surtout avec une lame courte.
-
-EN: This creature is unable to move, act, block, or dodge attacks. By being made of stone, it also takes 50% less damage, gains immunity to negative energy and poison, but become vulnerable to deconstruction. Melee attacks you make against this creature will deal greatly increased damage, especially if made with a short blade.
-FR: Cette créature est incapable de bouger, d’agir, de bloquer ou d’esquiver les attaques. Étant de pierre, elle subit aussi 50 % de dégâts en moins, devient immunisée à l’énergie négative et au poison, mais vulnérable à la déconstruction. Les attaques de mêlée que vous faites contre cette créature infligent des dégâts grandement accrus, surtout avec une lame courte.
-
-EN: This creature has been struck dumb by the power of Zin and cannot act.
-FR: Cette créature a été frappée de stupeur par le pouvoir de Zin et ne peut pas agir. Les attaques de mêlée que vous faites contre cette créature infligent des dégâts grandement accrus, surtout avec une lame courte.
-
-EN: This creature has been struck dumb by the power of Zin and cannot act. Melee attacks you make against this creature will deal greatly increased damage, especially if made with a short blade.
-FR: Cette créature a été frappée de stupeur par le pouvoir de Zin et ne peut pas agir. Les attaques de mêlée que vous faites contre cette créature infligent des dégâts grandement accrus, surtout avec une lame courte.
-
-EN: This creature is unable to see you because you are invisible. Its accuracy against you is greatly decreased, it cannot make attacks of opportunity, and spells it casts may sometimes be aimed at the wrong locations. It may also stumble around and eventually lose track of you, especially if it has low intelligence.
-FR: Cette créature ne peut pas vous voir parce que vous êtes invisible. Sa précision contre vous est grandement réduite, elle ne peut pas faire d’attaques d’opportunité, et les sorts qu’elle lance peuvent parfois viser les mauvais endroits. Elle peut aussi trébucher et finir par vous perdre de vue, surtout si elle a une faible intelligence. Les attaques de mêlée que vous faites contre cette créature ont une chance (proportionnelle à votre discrétion et à votre compétence d’arme) de la prendre au dépourvu et d’infliger des dégâts accrus, surtout avec une lame courte.
-
-EN: This creature is unable to see you because you are invisible. Its accuracy against you is greatly decreased, it cannot make attacks of opportunity, and spells it casts may sometimes be aimed at the wrong locations. It may also stumble around and eventually lose track of you, especially if it has low intelligence. Melee attacks you make against this creature have a chance (proportional to your stealth and weapon skill) of catching it off-guard and dealing increased damage, especially if made with a short blade.
-FR: Cette créature ne peut pas vous voir parce que vous êtes invisible. Sa précision contre vous est grandement réduite, elle ne peut pas faire d’attaques d’opportunité, et les sorts qu’elle lance peuvent parfois viser les mauvais endroits. Elle peut aussi trébucher et finir par vous perdre de vue, surtout si elle a une faible intelligence. Les attaques de mêlée que vous faites contre cette créature ont une chance (proportionnelle à votre discrétion et à votre compétence d’arme) de la prendre au dépourvu et d’infliger des dégâts accrus, surtout avec une lame courte.
-
-EN: This creature will die in a few turns.
-FR: Cette créature mourra dans quelques tours.
-
-EN: Melee attacks you make against this creature have a chance (proportional to your stealth and weapon skill) of catching it off-guard and dealing increased damage, especially if made with a short blade.
-FR: Les attaques de mêlée que vous faites contre cette créature ont une chance (proportionnelle à votre discrétion et à votre compétence d’arme) de la prendre au dépourvu et d’infliger des dégâts accrus, surtout avec une lame courte.
-
-EN: Melee attacks you make against this creature will deal greatly increased damage, especially if made with a short blade.
-FR: Les attaques de mêlée que vous faites contre cette créature infligent des dégâts grandement accrus, surtout avec une lame courte.
-
 EN: Pakellas the Inventive believes in the supremacy of devices, magical or otherwise, over spells and other forms of magic. Followers, although cut off from ambient magical power, are provided with magical energy to empower their devices so long as they use them to assert Pakellas' supremacy. Pakellas will grant devout worshippers access to increasingly powerful devices.
 FR: Pakellas l’Inventif croit en la suprématie des dispositifs, magiques ou non, sur les sorts et les autres formes de magie. Les fidèles, bien que coupés de l’énergie magique ambiante, reçoivent de l’énergie magique pour alimenter leurs dispositifs tant qu’ils les utilisent pour affirmer la suprématie de Pakellas. Pakellas accordera à ses fidèles dévoués l’accès à des dispositifs de plus en plus puissants.
 
@@ -255,15 +129,6 @@ FR: Les fidèles de Pakellas ne régénèrent pas naturellement leur pouvoir mag
 
 EN: Those that offend Pakellas will find themselves completely unable to make use of their devices for the duration of Pakellas' displeasure. Those who abandon Pakellas altogether will also continue to be unable to regenerate their magical power so long as Pakellas' attention remains on them.
 FR: Ceux qui offensent Pakellas se retrouveront totalement incapables d’utiliser leurs dispositifs pendant toute la durée du courroux de Pakellas. Ceux qui abandonnent complètement Pakellas resteront aussi incapables de régénérer leur pouvoir magique tant que l’attention de Pakellas restera sur eux.
-
-EN: It splashes victims with acid (2d4 damage, Corrosion).
-FR: Il éclabousse ses victimes d’acide (2d4 dégâts, Corrosion).
-
-EN: You cannot teleport or blink.
-FR: Vous ne pouvez ni vous téléporter ni vous translocaliser.
-
-EN: A gelatinous assemblage of tentacles and venom, leaving a glistening trail as it slides along. Surely such a mockery of life could not be natural..?
-FR: Un assemblage gélatineux de tentacules et de venin, laissant une traînée luisante en glissant. Une telle caricature de vie ne saurait sûrement pas être naturelle..?
 
 EN: A thick layer of gritty mud.
 FR: Une épaisse couche de boue granuleuse.

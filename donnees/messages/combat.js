@@ -56,7 +56,6 @@
         "tramples on": ["piétine"], hit: ["frappent"], "slams into": ["percute"], blasts: ["frappe"], bashes: ["frappe"]
     };
     // Sujets non vivants : « touche » plutôt que « frappe »
-    const TOUCHE = new Set(["hits"]);
 
     const MIS = { "barely misses": "manque de peu", "closely misses": "rate de justesse", "completely misses": "manque complètement", misses: "rate" };
 
@@ -392,7 +391,6 @@
         "Zenata": ["Zenata", "m"],
         "Louise": ["Louise", "f"]
     };
-    const ACCORD = [" \"", " x"];
 
     // ---- Découpage en acteurs --------------------------------------------------------------
     const echap = s => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
@@ -446,7 +444,6 @@
         const e = EFFETS[nom];
         return { name: e[0], gender: e[1], article: e[2] || (/^[aeiouyéèêâîôûœ]/i.test(e[0]) ? "l’" : (e[1] === "f" ? "la " : "le ")), effet: true };
     };
-    const deDe = e => (e.article === "l’" ? "d’" : (e.article === "les " ? "des " : "de ")) + (e.article === "les " ? "" : "") + e.name;
 
     function formes(acteur) {
         const e = acteur.entite;
@@ -665,7 +662,6 @@
         const AIDE = " (Use ctrl+direction or * direction to attack.)";
         const aide = t.endsWith(AIDE);
         const [corps, pon] = separerFin(aide ? t.slice(0, -AIDE.length) : t);
-        let sansDegats = false;
         const d = decouper(corps);
         if (!d.acteurs.length && !/^Something|^Tentacles/.test(corps)) return null;
         let sq = d.squelette;
