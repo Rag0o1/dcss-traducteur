@@ -494,6 +494,7 @@
         R(/^A[n]? (.+) comes into view\.$/i, m => { const mob = monstre(m[1]); return `${mob.gender === "f" ? "Une" : "Un"} ${mob.name} apparaît.`; }),
         R(/^You encounter (?:an? )?(.+?)(?:\.)?$/i, m => { // les monstres (et les uniques comme Maggie, sans article) sont traités par audit_0_35.js
             const C = globalThis.DCSS_COMBAT, tete = m[1].split(/, | and /)[0];
+            if (/\. /.test(m[1])) return null; // plusieurs phrases : audit_0_35.js
             if (/^[A-Z]/.test(m[1]) || (C && C.acteurTexte && C.acteurTexte("a " + tete.replace(/^\d+ /, "")))) return null;
             return `Vous rencontrez ${objetDirect(m[1].replace(/\.\s*It is wielding .+$/i, ""))}.`; }),
 

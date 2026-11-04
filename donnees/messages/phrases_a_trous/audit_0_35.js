@@ -227,7 +227,7 @@
         const e = ELEM[m[1].replace(/^an? /, "")]; return e ? `Il y a ${/^(immense|grande)/.test(e) ? (/portail|porte/.test(e) ? (/portail/.test(e) ? "un " : "une ") : "un ") : (/sol/.test(e) ? "un " : "un ")}${e} ici.` : null; } });
 
     // « You encounter 2 crawling flesh cages and an arcanist. The arcanist is wielding a +2 dagger of venom. »
-    R.push({ regex: /^(.+?\.) ((?:The|A|An|It|Your) .+\.)$/, translate: m => {
+    R.push({ regex: /^(.+?\.) ((?:The|A|An|It|She|He|Your) .+\.)$/, translate: m => {
         const a = T1(m[1]), b = T1(m[2]); if (!a || !b || a === m[1] || b === m[2]) return null; return a + " " + b; } });
 
     // Actions sur l'équipement : « You remove your +6 ring of dexterity. »
@@ -263,6 +263,7 @@
         const tete = i === -1 ? n : n.slice(0, i), reste = i === -1 ? "" : n.slice(i);
         return tete.split(" ").map(w => /[sxz]$/.test(w) ? w : w + "s").join(" ") + reste;
     };
+    const TITRES_UNIQUES = { Inquisitive: "l’Inquisitive", "Apprentice Sorceress": "l’Apprentie Sorcière", Apprentice: "l’Apprenti" };
     const elementRencontre = e => {
         let m;
         if ((m = /^(?:an? |the )(.+)$/.exec(e))) { const a = AC("a " + e.replace(/^(?:an? |the )/, "")); return a ? a.o : null; }
@@ -274,9 +275,10 @@
             }
             return null;
         }
+        if ((m = /^([A-Z][\w'-]+) the ([A-Z][\w ]+)$/.exec(e))) { const t = TITRES_UNIQUES[m[2]]; return t ? `${m[1]} ${t}` : `${m[1]} the ${m[2]}`; }
         const a = AC(e); return a ? a.o : null;
     };
-    R.push({ regex: /^You encounter (.+?)\.$/, translate: m => {
+    R.push({ regex: /^You encounter ([^.]+?)\.$/, translate: m => {
         const parts = m[1].split(/, | and /); const out = [];
         for (const e of parts) { const r = elementRencontre(e); if (!r) return null; out.push(r); }
         const liste = out.length < 2 ? out[0] : out.slice(0, -1).join(", ") + " et " + out[out.length - 1];
@@ -320,6 +322,15 @@
         }
         return out.length < 2 ? out[0] : out.slice(0, -1).join(", ") + " et " + out[out.length - 1];
     };
+    // « She is wielding a +3 dagger of electrocution and carrying a wand of paralysis. » (phrase qui suit « You encounter … »)
+    R.push({ regex: /^(It|She|He) (?:is|are) ((?:wielding|wearing|carrying) .+)\.$/, translate: m => {
+        const segs = m[2].split(/ and (?=wearing |carrying )|, (?=wearing |carrying )/); const fr = [];
+        for (const sg of segs) {
+            const k = /^(wielding|wearing|carrying) (.+)$/.exec(sg); if (!k) return null;
+            const o = objets(k[2]); if (!o) return null;
+            fr.push({ wielding: "manie", wearing: "porte", carrying: "transporte" }[k[1]] + " " + o);
+        }
+        return `${m[1] === "She" ? "Elle" : "Il"} ${fr.join(" et ")}.`; } });
     R.push({ regex: /^((?:an? |the )?[A-Za-z][\w' -]*?|[A-Z][\w'-]+), (wielding .+?|wearing .+?|carrying .+?|quivering .+?)(?: \((.*?)(?:, )?(?:(\d+)% to hit\)|\)))?$/, translate: m => {
         const a = /^[A-Z]/.test(m[1]) && !/^(?:An?|The) /.test(m[1]) ? { o: m[1] } : AC(m[1].replace(/^the /, "a ")); if (!a) return null;
         const segs = m[2].split(/ and (?=wearing |carrying |quivering )|, (?=wearing |carrying |quivering )/); const fr = [];

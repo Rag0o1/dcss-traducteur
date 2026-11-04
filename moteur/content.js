@@ -42,6 +42,22 @@ const DCSS_FRAGMENTS = Object.entries(DCSS_DICTIONNAIRE)
     // Les fragments les plus longs passent d'abord pour éviter les collisions.
     .sort((a, b) => b[0].length - a[0].length);
 
+// Texte en colonnes (en-têtes de tableaux : « Skill    Level  Cost  Apt »). Le dictionnaire stocke une seule espace ;
+// si le français a autant de mots que l’anglais, chaque mot est replacé à la colonne de l’original pour que le tableau reste droit.
+function realignerColonnes(original, traduit) {
+    if (original.includes("\n") || !/\S {2,}\S/.test(original)) return traduit;
+    const mots = [...original.matchAll(/\S+/g)];
+    const fr = traduit.split(" ");
+    if (mots.length !== fr.length) return traduit;
+    let sortie = "";
+    for (let i = 0; i < fr.length; i++) {
+        if (i > 0 && sortie.length >= mots[i].index) sortie += " ";
+        while (sortie.length < mots[i].index) sortie += " ";
+        sortie += fr[i];
+    }
+    return sortie;
+}
+
 function traduireChaine(texte) {
     if (typeof texte !== "string" || texte.length === 0) return texte;
     // Ne jamais transformer les nœuds qui ne contiennent que des espaces :
@@ -67,7 +83,7 @@ function traduireChaine(texte) {
     // Texte multi-lignes : le dictionnaire officiel stocke les textes avec une seule espace.
     const coeurNormalise = coeur.replace(/\s+/g, " ");
     if (coeurNormalise !== coeur && Object.prototype.hasOwnProperty.call(DCSS_DICTIONNAIRE, coeurNormalise)) {
-        const valeur = espacesAvant + DCSS_DICTIONNAIRE[coeurNormalise] + espacesApres;
+        const valeur = espacesAvant + realignerColonnes(coeur, DCSS_DICTIONNAIRE[coeurNormalise]) + espacesApres;
         return valeur.length <= DCSS_MAX_TEXTE_TRADUIT ? valeur : texte;
     }
 

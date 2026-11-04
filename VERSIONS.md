@@ -11,6 +11,13 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.17.5 — mineure
+
+- Écran de création du personnage : aides de touches, menus, noms d’espèces et de métiers manquants (Nain des montagnes, Centaure de tempête, Traqueur, Ravageur, Mystique), groupes de métiers.
+- En-têtes des tableaux de compétences : les colonnes restent droites (« Comp. Niv. Coût Apt »).
+- Messages de Trog, de métamorphose et de fin de partie ; « You encounter … She is wielding … » (phrase de suite avec pronom) ; titres des mutations (« Écailles en fusion (niveau 1/3) »).
+- Texte du Gnoll corrigé (« toutes à la fois »).
+
 ## 0.17.4 — mineure
 
 - Insultes des diablotins et des démons (« Fuis, gredin ahuri et lourdaud ! ») : environ 420 mots traduits, avec l’accord en genre.

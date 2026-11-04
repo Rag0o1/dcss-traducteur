@@ -24,6 +24,8 @@ globalThis.DCSS_TRADUCTIONS.races = {
     "Formicid": "Formicide",
     "Gargoyle": "Gargouille",
     "Gnoll": "Gnoll",
+    "Mountain Dwarf": "Nain des montagnes",
+    "Gale Centaur": "Centaure de tempête",
     "Hill Orc": "Orc des collines",
     "Human": "Humain",
     "Kobold": "Kobold",
