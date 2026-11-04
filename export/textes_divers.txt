@@ -121,6 +121,12 @@ FR: effacer l’objectif choisi
 EN: all skills
 FR: toutes
 
+EN: buy
+FR: achat
+
+EN: |all skills
+FR: |toutes
+
 EN: all skills
 FR: toutes
 
@@ -551,25 +557,25 @@ EN: ] choose item
 FR: ] choisir l’objet
 
 EN: ] exit [
-FR: ] quitter [
+FR: ] sortie [
 
 EN: ] mark item for purchase [
-FR: ] marquer l’objet à acheter [
+FR: ] marquer pour achat [
 
 EN: ] put item on shopping list
-FR: ] mettre l’objet dans la liste d’achats
+FR: ] à la liste d’achats
 
 EN: ] skill descriptions
 FR: ] descriptions des compétences
 
 EN: ] sort (type) [
-FR: ] trier (type) [
+FR: ] tri (type) [
 
 EN: ] to target/travel)
 FR: ] pour viser/voyager)
 
 EN: |examine items [
-FR: |examiner les objets [
+FR: |voir objets [
 
 EN: |examine|delete items [
 FR: |examiner|supprimer les objets [

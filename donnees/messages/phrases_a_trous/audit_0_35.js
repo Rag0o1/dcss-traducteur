@@ -206,7 +206,7 @@
         return null;
     };
     const NOMB = "([A-Z][\\w'’ -]*?'s (?:Antique Armour|Antique Weapon|Armour|Weapon|Magic Scroll|Scroll|Book|Jewellery|Wand|Food|General|Gadget|Potion) (?:Boutique|Shoppe|Emporium|Store|Market)|[A-Z][\\w'’ -]*?'s Distillery|[A-Z][\\w'’ -]*?'s Assorted Antiques)";
-    R.push({ regex: new RegExp("^Welcome to " + NOMB + "! What would you like to do\\?$"), translate: m => { const b = boutique(m[1]); return b ? `Bienvenue à : ${b} ! Que souhaitez-vous faire ?` : null; } });
+    R.push({ regex: new RegExp("^Welcome to " + NOMB + "! What would you like to do\\?$"), translate: m => { const b = boutique(m[1]); return b ? `Bienvenue : ${b} ! Que désirez-vous ?` : null; } });
     R.push({ regex: new RegExp("^Found " + NOMB + "\\.$"), translate: m => { const b = boutique(m[1]); return b ? `${b} repérée.` : null; } });
     R.push({ regex: new RegExp("^There is an entrance to " + NOMB + " here\\.$"), translate: m => { const b = boutique(m[1]); return b ? `Il y a ici l’entrée de : ${b}.` : null; } });
 
