@@ -11,6 +11,13 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.17.9 — mineure
+
+- Aides de touches et menus raccourcis pour ne pas dépasser la largeur de l’anglais (« Appuyez: ? - aide, Dir - cible », « Parchemins (tout avec », « [Armure fusion.] »…).
+- Verbes d’attaque des griffes (« Vous égratignez / mutilez / éventrez… »), y compris sur les monstres uniques.
+- Monstres uniques avec titre (Blorkula l’Orcula, « Dowan, frère de Duvessa ») ; phrases de Blorkula, de Dowan, de l’abeille mécanique de Sprozz.
+- Boutiques de bijoux, portails (enceinte, égout) et leurs bruits, « Found five items. », « You sensed 2 altars… », fioles de transmutation, catégories d’objets des menus, en-têtes des tableaux de compétences.
+
 ## 0.17.8 — mineure
 
 - Feu liquide, vol (« très léger »), « force de percussion », cause de mort (« Gelé à mort par un endoplasme (4 dégâts) », « Tué par… », « Mort de faim »…), invitation à se convertir à Beogh.

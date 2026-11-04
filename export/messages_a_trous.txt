@@ -296,7 +296,7 @@ EN: {A} attempts to avoid another deathblow, but is too exhausted to transform.
 FR: {S1} tente d’éviter un autre coup fatal, mais est trop épuisé{e1} pour se transformer.
 
 EN: {A} avoids the killing blow by scattering into a rainbow of bats!
-FR: {S1} évite le coup fatal en se dispersant en un arc-en-ciel de chauves-souris !
+FR: {S1} évite le coup mortel en se dispersant en un arc-en-ciel de chauves-souris !
 
 EN: With its final breath, {A} offers up its power to the beasts of the wild!
 FR: Dans son dernier souffle, {S1} offre son pouvoir aux bêtes sauvages !
@@ -8187,6 +8187,111 @@ FR: {S1} tire magiquement un carreau.
 
 EN: Trog's Hand
 FR: Main de Trog
+
+EN: {A} draws vitality from your injuries!
+FR: {S1} puise de la vitalité dans vos blessures !
+
+EN: {A} seems overcome with grief.
+FR: {S1} semble accablé{e1} de chagrin.
+
+EN: {A} runs out of power.
+FR: {S1} tombe en panne d’énergie.
+
+EN: {A} drains your vigour!
+FR: {S1} draine votre vigueur !
+
+EN: {A} snorts and paws the ground.
+FR: {S1} renâcle et piaffe.
+
+EN: And she was my only...
+FR: Et elle était ma seule...
+
+EN: Autopickup is now off.
+FR: Le ramassage automatique est maintenant désactivé.
+
+EN: Autopickup is now on.
+FR: Le ramassage automatique est maintenant activé.
+
+EN: ) a gate leading back out of this place
+FR: ) une porte menant hors de cet endroit
+
+EN: There is a wall there.
+FR: Il y a un mur là.
+
+EN: Splash!
+FR: Plouf !
+
+EN: You enter a bailey!
+FR: Vous entrez dans une enceinte !
+
+EN: You enter a sewer!
+FR: Vous entrez dans un égout !
+
+EN: There is an entrance to a bailey on this level. Hurry and find it before the portal closes forever!
+FR: Il y a une entrée vers une enceinte sur ce niveau. Dépêchez-vous de la trouver avant que le portail ne se referme pour toujours !
+
+EN: There is an entrance to a sewer on this level. Hurry and find it before the portal rusts away!
+FR: Il y a une entrée vers un égout sur ce niveau. Dépêchez-vous de la trouver avant que le portail ne rouille !
+
+EN: You hear the faint creaking of a portcullis.
+FR: Vous entendez le faible grincement d’une herse.
+
+EN: You hear the roar of battle.
+FR: Vous entendez le fracas de la bataille.
+
+EN: You hear the slow rusting of a drain.
+FR: Vous entendez la lente rouille d’une bouche d’égout.
+
+EN: You hear the sound of rushing water.
+FR: Vous entendez le bruit d’une eau qui s’écoule à flots.
+
+EN: You turn to flesh and can act again.
+FR: Vous redevenez chair et pouvez agir à nouveau.
+
+EN: You writhe in agony.
+FR: Vous vous tordez de douleur.
+
+EN: You are engulfed in a cloud of scalding steam.
+FR: Vous êtes englouti dans un nuage de vapeur brûlante.
+
+EN: You are too large for most types of armour.
+FR: Vous êtes trop grand pour la plupart des types d’armure.
+
+EN: This transformation would significantly lower your maximum hit points. Transform anyway?
+FR: Cette transformation réduirait considérablement vos points de vie maximum. Se transformer quand même ?
+
+EN: Really quaff the potion of mutation?
+FR: Boire vraiment la potion de mutation ?
+
+EN: You have gained great experience. Select the skills to train.
+FR: Vous avez gagné énormément d’expérience. Choisissez les compétences à entraîner.
+
+EN: Select the skills you want to be trained. The chosen skills will be raised to
+FR: Choisissez les compétences à entraîner. Les compétences choisies seront portées au
+
+EN: the level shown in
+FR: niveau indiqué dans
+
+EN: ] buy marked items [
+FR: ] acheter sélection [
+
+EN: - cycle Dir - move target
+FR: - parcourir Dir - déplacer la cible
+
+EN: Melee damage: -50%
+FR: Dégâts de mêlée : -50 %
+
+EN: Mutations Suppressed: Anatomy
+FR: Mutations supprimées : Anatomie
+
+EN: Skill EV Contam Dmg
+FR: Comp. EV Contam Dég.
+
+EN: Skill HP UC Base Dmg AC
+FR: Comp. PV MN Base Dég. CA
+
+EN: Skill Level > New Apt Skill Level > New Apt
+FR: Comp. Niv. > Nouv. Apt Comp. Niv. > Nouv. Apt
 
 EN: You can reread all messages at any time with {K}. Also, press Space or left click with mouse to clear the --more-- prompts.
 FR: Vous pouvez relire tous les messages à tout moment avec {x1}. Appuyez aussi sur Espace ou cliquez avec la souris pour faire disparaître les invites --more--.

@@ -2,6 +2,10 @@
 // Pour corriger : changez le texte français à droite. Les clés « ~ » sont des remplacements partiels.
 globalThis.DCSS_TRADUCTIONS = globalThis.DCSS_TRADUCTIONS || {};
 globalThis.DCSS_TRADUCTIONS.complements = {
+"A small glass bauble containing an ominously glowing substance. Crushing it will flood you with transmutational energy, leaving your physical form unstable at a fundamental level.": "Une petite babiole de verre contenant une substance à la lueur sinistre. L’écraser vous inondera d’énergie transmutationnelle et rendra votre forme physique instable à un niveau fondamental.",
+"In this state of flux, your melee attacks are much weaker, but each strike will contaminate whatever you hit with transmutational energy - growing so intense upon the third strike that it will cause their body to twist and deform, inflicting significant damage. The lack of certainty in your physical form also makes you much harder to hit, though you glow in a way that hinders stealth.": "Dans cet état d’instabilité, vos attaques de mêlée sont bien plus faibles, mais chaque coup contamine ce que vous touchez d’énergie transmutationnelle, jusqu’à devenir si intense au troisième coup que le corps de la cible se tord et se déforme, infligeant de lourds dégâts. L’incertitude de votre forme physique vous rend aussi bien plus difficile à toucher, mais vous brillez d’une façon qui nuit à la discrétion.",
+"The power contained in each bauble is finite, and once it is exhausted by spreading it to enemies, you will return to your previous form.": "La puissance contenue dans chaque babiole est limitée ; une fois épuisée en la répandant sur vos ennemis, vous reprendrez votre forme précédente.",
+
 "This spriggan is aged and weathered from years of travel away from the forests and swamps that are home to her kin. Her choice of weapon and astonishing speed both speak to the training she underwent. Underestimate her at your peril!": "Cette spriggan est vieillie et burinée par des années de voyage loin des forêts et des marais qui sont la patrie des siens. Son choix d’arme et sa vitesse stupéfiante témoignent de l’entraînement qu’elle a reçu. Ne la sous-estimez pas, à vos risques et périls !",
 "A missionary in the service of Lugonu, with remnants of its headless body spilling from a roaming spatial rift. It seeks to teach others the joy and strength of slowly decoupling from this particular plane of reality.": "Un missionnaire au service de Lugonu, dont les restes du corps sans tête se déversent d’une faille spatiale errante. Il cherche à enseigner aux autres la joie et la force de se dissocier lentement de ce plan de réalité.",
 "An oversized insect with dagger-sharp forcipules and a great abundance of limbs. Its sting injects crippling toxins whose potency increases as they mature.": "Un insecte surdimensionné aux forcipules aussi tranchantes que des dagues et à l’abondance de membres. Son dard injecte des toxines paralysantes dont la puissance augmente à mesure qu’elles mûrissent.",
@@ -858,8 +862,8 @@ globalThis.DCSS_TRADUCTIONS.complements = {
 "a devourer's trap": "un piège de dévoreur",
 "A dispersal trap": "Un piège de dispersion",
 "a dispersal trap": "un piège de dispersion",
-"A dispersal trap (recharging)": "Un piège de dispersion (en recharge)",
-"a dispersal trap (recharging)": "un piège de dispersion (en recharge)",
+"A dispersal trap (recharging)": "Un piège de dispersion (recharge)",
+"a dispersal trap (recharging)": "un piège de dispersion (recharge)",
 "A harlequin's trap": "Un piège d’arlequin",
 "a harlequin's trap": "un piège d’arlequin",
 "A net trap": "Un piège à filet",

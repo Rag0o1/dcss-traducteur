@@ -1,8 +1,8 @@
 EN: # - Generate and view character dump
-FR: # - Générer et voir la fiche du personnage
+FR: # - Fiche du personnage
 
 EN: # - generate and view character dump
-FR: # - Générer et voir la fiche du personnage
+FR: # - Fiche du personnage
 
 EN: / - Lookup info
 FR: / - Rechercher une info
@@ -311,7 +311,7 @@ EN: Item Interaction:
 FR: Interaction avec les objets :
 
 EN: Item types (and common commands)
-FR: Types d’objets (et commandes courantes)
+FR: Types d’objets (et commandes)
 
 EN: Jiyva Juiwkigh the Shapeless
 FR: Jiyva Juiwkigh l’Informe
@@ -473,10 +473,10 @@ EN: Ru the awakened
 FR: Ru l’Éveillé
 
 EN: S - Save and exit
-FR: S - Sauvegarder et quitter
+FR: S - Sauver, quitter
 
 EN: S - save and exit
-FR: S - Sauvegarder et quitter
+FR: S - Sauver, quitter
 
 EN: Salt
 FR: Sel
@@ -770,10 +770,10 @@ EN: ] exit
 FR: ] quitter
 
 EN: ] page down [
-FR: ] page suivante [
+FR: ] page suiv. [
 
 EN: ] page up [
-FR: ] page précédente [
+FR: ] page préc. [
 
 EN: ] select [
 FR: ] choisir [
@@ -824,34 +824,34 @@ EN: yellow
 FR: jaune
 
 EN: | Extra
-FR: | Supplément
+FR: | Suppl.
 
 EN: | Powers | Wrath
 FR: | Pouvoirs | Colère
 
 EN: | Powers | Wrath | Extra
-FR: | Pouvoirs | Colère | Supplément
+FR: | Pouvoirs | Colère | Suppl.
 
 EN: | Wrath
 FR: | Colère
 
 EN: | Wrath | Extra
-FR: | Colère | Supplément
+FR: | Colère | Suppl.
 
 EN: | extra
-FR: | Supplément
+FR: | Suppl.
 
 EN: | powers | wrath
 FR: | Pouvoirs | Colère
 
 EN: | powers | wrath | extra
-FR: | Pouvoirs | Colère | Supplément
+FR: | Pouvoirs | Colère | Suppl.
 
 EN: | wrath
 FR: | Colère
 
 EN: | wrath | extra
-FR: | Colère | Supplément
+FR: | Colère | Suppl.
 
 EN: ~ - Edit macros
 FR: ~ - Modifier les macros

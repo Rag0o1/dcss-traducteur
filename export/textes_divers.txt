@@ -149,22 +149,22 @@ EN: (=)adjust
 FR: (=)ajuster
 
 EN: (d)rop
-FR: (d)époser
+FR: (d) lâcher
 
 EN: (i)nscribe
 FR: (i)nscrire
 
 EN: (s)kill target
-FR: (s) objectif de compétence
+FR: (s) objectif
 
 EN: (helmet unavailable)
 FR: (casque indisponible)
 
 EN: (no amulet)
-FR: (pas d’amulette)
+FR: (pas d’amul.)
 
 EN: (no offhand)
-FR: (pas de main gauche)
+FR: (pas de main g.)
 
 EN: (no ring)
 FR: (pas d’anneau)
@@ -311,13 +311,13 @@ EN: Partly explored, unvisited transporter.
 FR: Exploré en partie, transporteur non visité.
 
 EN: Press the letter of a skill to read its description.
-FR: Appuyez sur la lettre d’une compétence pour lire sa description.
+FR: Lettre d’une compétence : voir sa description.
 
 EN: Press: ? - help, . - travel
-FR: Appuyez : ? - aide, . - voyager
+FR: Appuyez: ? - aide, . - voyage
 
 EN: Press: ? - help, . - travel, g - get item
-FR: Appuyez : ? - aide, . - voyager, g - ramasser
+FR: Appuyez: ? - aide, . - voyage, g - prendre
 
 EN: There are many items here.
 FR: Il y a beaucoup d’objets ici.
@@ -500,7 +500,7 @@ EN: severely damaged
 FR: gravement endommagé
 
 EN: Speed: 100% (attack: 66%)
-FR: Vitesse : 100 % (attaque : 66 %)
+FR: Vitesse : 100 % (att. : 66 %)
 
 EN: Skill Cloud range Cloud duration Distill rate
 FR: Compétence Portée du nuage Durée du nuage Taux de distillation
@@ -530,31 +530,31 @@ EN: to set 14.0 as a target for Shapeshifting.
 FR: pour fixer 14.0 comme objectif pour Métamorphose.
 
 EN: Gear: 13/52 gear slots (Left/Right/Tab to switch category)
-FR: Équipement : 13/52 emplacements (Gauche/Droite/Tab pour changer de catégorie)
+FR: Équip. : 13/52 empl. (Gauche/Droite/Tab : catégorie)
 
 EN: Enter
 FR: Entrée
 
 EN: Missiles (go to first with
-FR: Projectiles (aller au premier avec
+FR: Projectiles (1er avec
 
 EN: Talismans (go to first with
-FR: Talismans (aller au premier avec
+FR: Talismans (1er avec
 
 EN: Jewellery (go to first with
 FR: Bijoux (aller au premier avec
 
 EN: Magical Staves (go to first with
-FR: Bâtons magiques (aller au premier avec
+FR: Bâtons (1er avec
 
 EN: Scrolls (select first with
-FR: Parchemins (sélectionner le premier avec
+FR: Parchemins (1er avec
 
 EN: ] buy shopping list [
-FR: ] acheter la liste d’achats [
+FR: ] acheter liste [
 
 EN: ] choose item
-FR: ] choisir l’objet
+FR: ] choisir objet
 
 EN: ] exit [
 FR: ] sortie [
@@ -566,7 +566,7 @@ EN: ] put item on shopping list
 FR: ] à la liste d’achats
 
 EN: ] skill descriptions
-FR: ] descriptions des compétences
+FR: ] descr. compétences
 
 EN: ] sort (type) [
 FR: ] tri (type) [
@@ -578,7 +578,7 @@ EN: |examine items [
 FR: |voir objets [
 
 EN: |examine|delete items [
-FR: |examiner|supprimer les objets [
+FR: |voir|suppr. objets [
 
 EN: Welcome to Fatsuqij's Magic Scroll Boutique! What would you like to do?
 FR: Bienvenue à la Boutique de parchemins magiques de Fatsuqij ! Que souhaitez-vous faire ?
@@ -692,7 +692,7 @@ EN: Please select a direction to dig.
 FR: Choisissez une direction pour creuser.
 
 EN: Press } to see all the runes you have collected.
-FR: Appuyez sur } pour voir toutes les runes collectées.
+FR: } : voir toutes vos runes collectées.
 
 EN: There are no items here.
 FR: Il n’y a aucun objet ici.
@@ -722,7 +722,7 @@ EN: Welcome to the Spider Nest!
 FR: Bienvenue dans le Nid d’Araignées !
 
 EN: What level of the Spider Nest? (default 1, ? - help)
-FR: Quel niveau du Nid d’Araignées ? (1 par défaut, ? - aide)
+FR: Quel niveau du Nid d’Araignées ? (déf. 1, ? - aide)
 
 EN: You are a living statue of rough stone.
 FR: Vous êtes une statue vivante de pierre brute.
@@ -875,7 +875,7 @@ EN: Blink to where?
 FR: Clignoter vers où ?
 
 EN: Cast which spell? (? or * to list)
-FR: Quel sort lancer ? (? ou * pour lister)
+FR: Quel sort ? (? ou * : liste)
 
 EN: Drink which item?
 FR: Boire quel objet ?
@@ -887,7 +887,7 @@ EN: Evoke which item?
 FR: Évoquer quel objet ?
 
 EN: Identify which item? (\ to view known items)
-FR: Identifier quel objet ? (\ pour voir les objets connus)
+FR: Identifier quoi ? (\ : objets connus)
 
 EN: Really rampage into that cloud of flame?
 FR: Vraiment foncer dans ce nuage de flammes ?
@@ -1013,40 +1013,40 @@ EN: Carrion
 FR: Charogne
 
 EN: Hand Weapons (select all with
-FR: Armes de mêlée (tout sélectionner avec
+FR: Armes mêlée (tout avec
 
 EN: Hand Weapons (go to first with
-FR: Armes de mêlée (aller à la première avec
+FR: Armes mêlée (1re avec
 
 EN: Potions (select all with
-FR: Potions (tout sélectionner avec
+FR: Potions (tout avec
 
 EN: Potions (select first with
-FR: Potions (sélectionner la première avec
+FR: Potions (1re avec
 
 EN: Scrolls (select all with
-FR: Parchemins (tout sélectionner avec
+FR: Parchemins (tout avec
 
 EN: Wands (select all with
-FR: Baguettes (tout sélectionner avec
+FR: Baguettes (tout avec
 
 EN: Jewellery (select all with
-FR: Bijoux (tout sélectionner avec
+FR: Bijoux (tout avec
 
 EN: Magical Staves (select all with
-FR: Bâtons magiques (tout sélectionner avec
+FR: Bâtons (tout avec
 
 EN: Miscellaneous (select all with
 FR: Divers (tout sélectionner avec
 
 EN: Missiles (select all with
-FR: Projectiles (tout sélectionner avec
+FR: Projectiles (tout avec
 
 EN: Talismans (select all with
-FR: Talismans (tout sélectionner avec
+FR: Talismans (tout avec
 
 EN: Armour (select all with
-FR: Armures (tout sélectionner avec
+FR: Armures (tout avec
 
 EN: Cloak :
 FR: Cape :
@@ -1058,13 +1058,13 @@ EN: Offhand :
 FR: Main gauche :
 
 EN: [Armour melded]
-FR: [Armure fusionnée]
+FR: [Armure fusion.]
 
 EN: [Boots melded]
-FR: [Bottes fusionnées]
+FR: [Bottes fusion.]
 
 EN: [Gloves melded]
-FR: [Gants fusionnés]
+FR: [Gants fusion.]
 
 EN: Skill Level Cost Apt Skill Level Cost Apt
 FR: Comp. Niv. Coût Apt Comp. Niv. Coût Apt
@@ -1076,22 +1076,22 @@ EN: Skills enhanced by cross-training and wildshape are in
 FR: Les compétences améliorées par l’entraînement croisé et la métamorphose sont en
 
 EN: Search for what [Enter for "."]?
-FR: Chercher quoi ? [Entrée pour « . »]
+FR: Chercher quoi ? [Entrée : « . »]
 
 EN: Press: ? - help,
-FR: Appuyez : ? - aide,
+FR: Appuyez: ? - aide,
 
 EN: Press: ? - help, Dir - look around, f - activate
-FR: Appuyez : ? - aide, Dir - regarder autour, f - activer
+FR: Appuyez: ? - aide, Dir - voir, f - activer
 
 EN: Press: ? - help, Dir - move target
-FR: Appuyez : ? - aide, Dir - déplacer la cible
+FR: Appuyez: ? - aide, Dir - cible
 
 EN: Press: ? - help, Shift-Dir - straight line
 FR: Appuyez : ? - aide, Maj-Dir - ligne droite
 
 EN: Press: ? - help, v - describe, . - travel
-FR: Appuyez : ? - aide, v - décrire, . - voyager
+FR: Appuyez: ? - aide, v - décrire, . - voyage
 
 EN: 1 match
 FR: 1 résultat

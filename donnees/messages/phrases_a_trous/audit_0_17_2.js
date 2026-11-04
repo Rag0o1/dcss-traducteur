@@ -116,7 +116,7 @@
     R.push({ regex: /^as well as a flat (\d+)-(\d+) damage, and also weakens them slightly\.$/, translate: m => `ainsi que ${m[1]}-${m[2]} dégâts fixes, et les affaiblit légèrement.` });
     T["Pain: It inflicts extra damage on living creatures proportional to your"] = "Douleur : Inflige des dégâts supplémentaires aux créatures vivantes proportionnels à votre";
     T["Necromancy skill."] = "compétence en Nécromancie.";
-    const SLOTS = { "Body Armour": "Armure", Gloves: "Gants", Boots: "Bottes", Barding: "Barde", Helmet: "Casque", Cloak: "Cape", Shield: "Bouclier" };
+    const SLOTS = { Weapon: "Arme", Offhand: "Main gauche", "Body Armour": "Armure", Gloves: "Gants", Boots: "Bottes", Barding: "Barde", Helmet: "Casque", Cloak: "Cape", Shield: "Bouclier" };
     R.push({ regex: /^Melds: (.+)$/, translate: m => { const l = m[1].split(", ").map(x => SLOTS[x]); return l.some(x => !x) ? null : "Fusionne : " + l.join(", "); } });
     const STATS = { strength: "force", dexterity: "dextérité", intelligence: "intelligence", evasion: "esquive", "armour class": "classe d’armure", stealth: "discrétion" };
     R.push({ regex: /^(Str|Dex|Int|EV|AC)([+-]\d+): It affects your ([a-z ]+) \(([+-]\d+)\)\.$/, translate: m => STATS[m[3]] ? `${m[1]}${m[2]} : Cela affecte votre ${STATS[m[3]]} (${m[4]}).` : null });

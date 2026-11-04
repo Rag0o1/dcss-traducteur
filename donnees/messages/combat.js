@@ -296,6 +296,8 @@
         "Azrael": ["Azrael", "m"],
         "Bai Suzhen": ["Bai Suzhen", "m"],
         "Blorkula the orcula": ["Blorkula l’orcule", "m"],
+        "Blorkula the Orcula": ["Blorkula l’Orcula", "m"],
+        "Blorkula": ["Blorkula", "m"],
         "Boris": ["Boris", "m"],
         "Brimstone Fiend": ["Démon de soufre", "m"],
         "Cassandra": ["Cassandra", "f"],

@@ -195,17 +195,17 @@
     const GENRES = { "Armour": "d’armures", "Weapon": "d’armes", "Antique Armour": "d’armures anciennes", "Antique Weapon": "d’armes anciennes", "Antiques": "d’antiquités",
         "Magic Scroll": "de parchemins magiques", "Scroll": "de parchemins", "Book": "de livres", "Jewellery": "de bijoux", "Wand": "de baguettes", "Food": "de nourriture",
         "General": "générale", "Gadget": "de gadgets", "Assorted Antiques": "d’antiquités variées", "Potion": "de potions", "Distillery": "de potions" };
-    const TYPES_BOUTIQUE = { Boutique: "Boutique", Shoppe: "Boutique", Emporium: "Grand magasin", Store: "Magasin", Market: "Marché" };
+    const TYPES_BOUTIQUE = { Boutique: "Boutique", Shoppe: "Boutique", Emporium: "Grand magasin", Store: "Magasin", Market: "Marché", Shop: "Boutique" };
     const boutique = nom => {
         let m;
         if ((m = /^(.+?)'s Distillery$/.exec(nom))) return `Distillerie de ${m[1]}`;
-        if ((m = /^(.+?)'s (Antique Armour|Antique Weapon|Armour|Weapon|Magic Scroll|Scroll|Book|Jewellery|Wand|Food|General|Gadget|Potion) (Boutique|Shoppe|Emporium|Store|Market)$/.exec(nom))) {
+        if ((m = /^(.+?)'s (Antique Armour|Antique Weapon|Armour|Weapon|Magic Scroll|Scroll|Book|Jewellery|Wand|Food|General|Gadget|Potion) (Boutique|Shoppe|Emporium|Store|Market|Shop)$/.exec(nom))) {
             const g = GENRES[m[2]]; return m[2] === "General" ? `${TYPES_BOUTIQUE[m[3]]} générale de ${m[1]}` : `${TYPES_BOUTIQUE[m[3]]} ${g} de ${m[1]}`;
         }
         if ((m = /^(.+?)'s Assorted Antiques$/.exec(nom))) return `Antiquités variées de ${m[1]}`;
         return null;
     };
-    const NOMB = "([A-Z][\\w'’ -]*?'s (?:Antique Armour|Antique Weapon|Armour|Weapon|Magic Scroll|Scroll|Book|Jewellery|Wand|Food|General|Gadget|Potion) (?:Boutique|Shoppe|Emporium|Store|Market)|[A-Z][\\w'’ -]*?'s Distillery|[A-Z][\\w'’ -]*?'s Assorted Antiques)";
+    const NOMB = "([A-Z][\\w'’ -]*?'s (?:Antique Armour|Antique Weapon|Armour|Weapon|Magic Scroll|Scroll|Book|Jewellery|Wand|Food|General|Gadget|Potion) (?:Boutique|Shoppe|Emporium|Store|Market|Shop)|[A-Z][\\w'’ -]*?'s Distillery|[A-Z][\\w'’ -]*?'s Assorted Antiques)";
     R.push({ regex: new RegExp("^Welcome to " + NOMB + "! What would you like to do\\?$"), translate: m => { const b = boutique(m[1]); return b ? `Bienvenue : ${b} ! Que désirez-vous ?` : null; } });
     R.push({ regex: new RegExp("^Found " + NOMB + "\\.$"), translate: m => { const b = boutique(m[1]); return b ? `${b} repérée.` : null; } });
     R.push({ regex: new RegExp("^There is an entrance to " + NOMB + " here\\.$"), translate: m => { const b = boutique(m[1]); return b ? `Il y a ici l’entrée de : ${b}.` : null; } });
@@ -278,9 +278,14 @@
         if ((m = /^([A-Z][\w'-]+) the ([A-Z][\w ]+)$/.exec(e))) { const t = TITRES_UNIQUES[m[2]]; return t ? `${m[1]} ${t}` : `${m[1]} the ${m[2]}`; }
         const a = AC(e); return a ? a.o : null;
     };
+    const TITRES_VIRGULE = { "Brother of Duvessa": "frère de Duvessa", "Sister of Dowan": "sœur de Dowan", "Prince of Dust": "prince de la poussière", "Inventive Apiarist": "apiculteur inventif", "a Mercenary": "un mercenaire" };
     R.push({ regex: /^You encounter ([^.]+?)\.$/, translate: m => {
-        const parts = m[1].split(/, | and /); const out = [];
-        for (const e of parts) { const r = elementRencontre(e); if (!r) return null; out.push(r); }
+        let src = m[1]; for (const t of Object.keys(TITRES_VIRGULE)) src = src.split(", " + t).join("\u0001" + t);
+        const parts = src.split(/, | and /); const out = [];
+        for (const e of parts) {
+            const i = e.indexOf("\u0001");
+            if (i !== -1) { const r = elementRencontre(e.slice(0, i)); if (!r) return null; out.push(r + ", " + TITRES_VIRGULE[e.slice(i + 1)]); continue; }
+            const r = elementRencontre(e); if (!r) return null; out.push(r); }
         const liste = out.length < 2 ? out[0] : out.slice(0, -1).join(", ") + " et " + out[out.length - 1];
         return `Vous rencontrez ${liste}.`; } });
 
@@ -323,12 +328,13 @@
         return out.length < 2 ? out[0] : out.slice(0, -1).join(", ") + " et " + out[out.length - 1];
     };
     // « She is wielding a +3 dagger of electrocution and carrying a wand of paralysis. » (phrase qui suit « You encounter … »)
-    R.push({ regex: /^(It|She|He) (?:is|are) ((?:wielding|wearing|carrying) .+)\.$/, translate: m => {
-        const segs = m[2].split(/ and (?=wearing |carrying )|, (?=wearing |carrying )/); const fr = [];
+    R.push({ regex: /^(It|She|He) (?:is|are) ((?:wielding|wearing|carrying|quivering) .+)\.$/, translate: m => {
+        const segs = m[2].split(/ and (?=wearing |carrying |quivering )|, (?=wearing |carrying |quivering )/); const fr = [];
         for (const sg of segs) {
-            const k = /^(wielding|wearing|carrying) (.+)$/.exec(sg); if (!k) return null;
-            const o = objets(k[2]); if (!o) return null;
-            fr.push({ wielding: "manie", wearing: "porte", carrying: "transporte" }[k[1]] + " " + o);
+            const k = /^(wielding|wearing|carrying|quivering) (.+)$/.exec(sg); if (!k) return null;
+            let o = objets(k[2]); if (!o) return null;
+            if (k[1] === "quivering" && !/^(?:des|un|une|le|la|l’|les|\d)/.test(o)) o = "des " + o;
+            fr.push({ wielding: "manie", wearing: "porte", carrying: "transporte", quivering: "a en carquois" }[k[1]] + " " + o);
         }
         return `${m[1] === "She" ? "Elle" : "Il"} ${fr.join(" et ")}.`; } });
     R.push({ regex: /^((?:an? |the )?[A-Za-z][\w' -]*?|[A-Z][\w'-]+), (wielding .+?|wearing .+?|carrying .+?|quivering .+?)(?: \((.*?)(?:, )?(?:(\d+)% to hit\)|\)))?$/, translate: m => {
