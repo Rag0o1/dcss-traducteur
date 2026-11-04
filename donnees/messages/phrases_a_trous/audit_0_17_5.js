@@ -49,6 +49,16 @@
 
     // --- Messages ---
     Object.assign(T, {
+        "Concussive force sends you backwards.": "Une force de percussion vous projette en arrière.", "{A} sends you backwards.": "{S1} vous projette en arrière.",
+        "You barely resist.": "Vous résistez à peine.", "You feel very buoyant.": "Vous vous sentez très léger.", "You feel more buoyant.": "Vous vous sentez plus léger.",
+        "You are even more covered in liquid fire!": "Vous êtes encore plus couvert de feu liquide !", "You are even more covered in intense liquid fire!": "Vous êtes encore plus couvert de feu liquide intense !",
+        "You are covered in liquid fire! Move or burn!": "Vous êtes couvert de feu liquide ! Bougez ou brûlez !", "You are covered in intense liquid fire! Move or burn!": "Vous êtes couvert de feu liquide intense ! Bougez ou brûlez !",
+        "The liquid fire burns you!": "Le feu liquide vous brûle !", "The liquid fire burns you terribly!": "Le feu liquide vous brûle terriblement !",
+        "The liquid fire burns you. You resist.": "Le feu liquide vous brûle. Vous résistez.", "The liquid fire finally exhausts itself.": "Le feu liquide finit par s’épuiser.",
+        "You shake off the liquid fire.": "Vous vous débarrassez du feu liquide.",
+        "bility menu to convert to Beogh)": "bilités pour vous convertir à Beogh)", "on the": "dans le menu des",
+    });
+    Object.assign(T, {
         "You are electrocuted!": "Vous êtes électrocuté !", "You are more poisoned.": "Vous êtes davantage empoisonné.",
         "You are no longer berserk.": "Vous n’êtes plus en berserk.", "You are rather mundane.": "Vous êtes plutôt ordinaire.",
         "You are splashed with acid.": "Vous êtes éclaboussé d’acide.",
@@ -69,7 +79,19 @@
         const t = { "a magic user": "un utilisateur de magie", "a spellcaster": "un lanceur de sorts", "a holy creature": "une créature sainte" }[m[1]]; return t ? `Trog apprécie que vous ayez tué ${t}.` : null; } });
     R.push({ regex: /^The helpless ([A-Z][\w'-]*) fails to defend (?:herself|himself|itself)\.$/, translate: m => `${m[1]}, sans défense, ne parvient pas à se défendre.` });
     R.push({ regex: /^\.\.\. led by (.+)$/, translate: m => { const a = AC(m[1]) || AC("a " + m[1]); return a ? `… mené par ${a.o}` : null; } });
-    R.push({ regex: /^Slain by (an? .+?|[A-Z][\w' -]+)(?: \((\d+) damage\))?$/, translate: m => { const a = AC(m[1]); if (!a) return null; return `Tué par ${a.o}${m[2] ? ` (${m[2]} dégâts)` : ""}`; } });
+    const MORT = { "Slain by": "Tué par", "Killed by": "Tué par", "Killed from afar by": "Tué à distance par", "Frozen to death by": "Gelé à mort par", "Incinerated by": "Incinéré par",
+        "Drowned by": "Noyé par", "Disjoined by": "Désarticulé par" };
+    const MORT_SEUL = { "Collapsed under their own weight": "Écroulé sous son propre poids", "Slipped on a banana peel": "A glissé sur une peau de banane", "Escaped with the Orb": "S’est échappé avec l’Orbe",
+        "Quit the game": "A quitté la partie", "Entered wizard mode": "Est entré en mode magicien", "Entered explore mode": "Est entré en mode exploration", "Starved to death": "Mort de faim",
+        "Frozen to death": "Gelé à mort", "Killed by wild magic": "Tué par la magie sauvage", "Rotted away": "Pourri sur pied", "Smitten by the Shining One": "Foudroyé par l’Étincelant",
+        "Smitten by Beogh": "Foudroyé par Beogh", "Turned to stone": "Changé en pierre", "Died": "Mort", "Fell down a flight of stairs": "Tombé dans un escalier", "Fell down through a gate": "Tombé à travers une porte",
+        "Asphyxiated": "Asphyxié", "Burnt to a crisp": "Réduit en cendres", "Drowned": "Noyé", "Drained of all life": "Vidé de toute vie", "Forgot to breathe": "A oublié de respirer",
+        "Forgot to exist": "A oublié d’exister", "Got out of the dungeon": "Sorti du donjon", "Got out of the dungeon alive": "Sorti vivant du donjon", "Safely got out of the dungeon": "Sorti du donjon sain et sauf",
+        "Killed for Xom's enjoyment": "Tué pour le plaisir de Xom", "Sank and fell apart": "A coulé et s’est désagrégé", "Soaked and fell apart": "Trempé et désagrégé",
+        "Splashed with acid": "Éclaboussé d’acide", "Took a swim in molten lava": "A pris un bain de lave en fusion", "Turned to ash by lava": "Réduit en cendres par la lave" };
+    R.push({ regex: /^(Slain by|Killed by|Killed from afar by|Frozen to death by|Incinerated by|Drowned by|Disjoined by) (an? .+?|[A-Z][\w' -]+)(?: \((\d+) damage\))?$/, translate: m => {
+        const a = AC(m[2]); if (!a) return null; return `${MORT[m[1]]} ${a.o}${m[3] ? ` (${m[3]} dégâts)` : ""}`; } });
+    R.push({ regex: /^([A-Z][A-Za-z' ]+?)(?: \((\d+) damage\))?$/, translate: m => { const f = MORT_SEUL[m[1]]; return f ? `${f}${m[2] ? ` (${m[2]} dégâts)` : ""}` : null; } });
     R.push({ regex: /^Splashed by (an? .+?)'s acid(?: \((\d+) damage\))?$/, translate: m => { const a = AC(m[1]); if (!a) return null; return `Éclaboussé par l’acide ${a.d}${m[2] ? ` (${m[2]} dégâts)` : ""}`; } });
     R.push({ regex: /^The (.+?) pick up the pace!$/, translate: m => {
         const mots = m[1].split(" "); const der = mots.pop(); for (const c of [der.replace(/ies$/, "y"), der.replace(/ves$/, "f"), der.replace(/s$/, ""), der.replace(/es$/, "")]) {

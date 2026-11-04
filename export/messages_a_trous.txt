@@ -8074,6 +8074,54 @@ FR: Touche pressée, arrêt du déplacement.
 EN: Found a dagger, a robe,
 FR: Trouvé : une dague, une robe,
 
+EN: Concussive force sends you backwards.
+FR: Une force de percussion vous projette en arrière.
+
+EN: {A} sends you backwards.
+FR: {S1} vous projette en arrière.
+
+EN: You barely resist.
+FR: Vous résistez à peine.
+
+EN: You feel very buoyant.
+FR: Vous vous sentez très léger.
+
+EN: You feel more buoyant.
+FR: Vous vous sentez plus léger.
+
+EN: You are even more covered in liquid fire!
+FR: Vous êtes encore plus couvert de feu liquide !
+
+EN: You are even more covered in intense liquid fire!
+FR: Vous êtes encore plus couvert de feu liquide intense !
+
+EN: You are covered in liquid fire! Move or burn!
+FR: Vous êtes couvert de feu liquide ! Bougez ou brûlez !
+
+EN: You are covered in intense liquid fire! Move or burn!
+FR: Vous êtes couvert de feu liquide intense ! Bougez ou brûlez !
+
+EN: The liquid fire burns you!
+FR: Le feu liquide vous brûle !
+
+EN: The liquid fire burns you terribly!
+FR: Le feu liquide vous brûle terriblement !
+
+EN: The liquid fire burns you. You resist.
+FR: Le feu liquide vous brûle. Vous résistez.
+
+EN: The liquid fire finally exhausts itself.
+FR: Le feu liquide finit par s’épuiser.
+
+EN: You shake off the liquid fire.
+FR: Vous vous débarrassez du feu liquide.
+
+EN: bility menu to convert to Beogh)
+FR: bilités pour vous convertir à Beogh)
+
+EN: on the
+FR: dans le menu des
+
 EN: You are electrocuted!
 FR: Vous êtes électrocuté !
 

@@ -11,6 +11,10 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.17.8 — mineure
+
+- Feu liquide, vol (« très léger »), « force de percussion », cause de mort (« Gelé à mort par un endoplasme (4 dégâts) », « Tué par… », « Mort de faim »…), invitation à se convertir à Beogh.
+
 ## 0.17.7 — mineure
 
 - Boutiques : la barre d’aide du bas et la phrase d’accueil sont raccourcies (elles débordaient de l’écran), et « buy » devient « achat ».
