@@ -320,6 +320,7 @@
         "Fannar": ["Fannar", "m"],
         "Frances": ["Frances", "f"],
         "Frederick": ["Frederick", "m"],
+        "Frederick the Flawless": ["Frederick l’Impeccable", "m"],
         "Gastronok": ["Gastronok", "m"],
         "Geryon": ["Geryon", "m"],
         "Gloorx Vloq": ["Gloorx Vloq", "m"],
@@ -436,7 +437,7 @@
         if ((m = /^(very large|large|enormous|titanic) slime creature$/.exec(nom))) return { name: TAILLES_SLIME[m[1]] + " créature de vase", gender: "f", article: "la " };
         return null;
     };
-    const reActeur = new RegExp("\\b(?:(?<det>The|the|An?|an?|Your|your|a nearby|the nearby) (?<imp>helpless |wavering )?(?<pre>spectral |bound |ghostly |invisible )?(?<nom>" + FABRIQUES + "|" + alternance + ")(?<suf> simulacrum| zombie| skeleton| draugr)?(?![\\w-])|(?<fant>[A-Za-z0-9][\\w.-]*)'s ghost(?![\\w-])|(?<uniq>" + alternanceUniq + ")(?![\\w-]))", "g");
+    const reActeur = new RegExp("\\b(?:(?<det>The|the|An?|an?|Your|your|a nearby|the nearby) (?<imp>helpless |wavering )?(?<pre>spectral |bound |ghostly |invisible )?(?<nom>" + FABRIQUES + "|" + alternance + ")(?<suf> simulacrum| zombie| skeleton| draugr)?(?![\\w-])|(?<fant>[A-Za-z0-9][\\w.-]*)'s ghost(?![\\w-])|(?:[Tt]he )?(?<uniq>" + alternanceUniq + ")(?![\\w-]))", "g");
 
     const entite = nom => {
         if (monsters[nom]) return monsters[nom];
@@ -487,7 +488,8 @@
             const g = a[a.length - 1];
             if (g.uniq) {
                 const u = UNIQUES[g.uniq];
-                acteurs.push({ det: "the", entite: { name: u[0], gender: u[1], article: "" }, impuissant: "", suffixe: "", prefixe: "" });
+                const art = /^the /i.test(a[0]) ? (/^[AEIOUYÉÈÊÂÎÔÛŒH]/i.test(u[0]) ? "l’" : u[1] === "f" ? "la " : "le ") : "";
+                acteurs.push({ det: "the", entite: { name: u[0], gender: u[1], article: art }, impuissant: "", suffixe: "", prefixe: "" });
                 return "{M}";
             }
             if (g.fant) {
@@ -596,7 +598,7 @@
         "unaware of you": "ne vous a pas vu", "paralysed": "paralysé", "confused": "confus", "slowed": "ralenti",
         "frightened": "effrayé", "stunned": "étourdi", "berserk": "enragé", "hasted": "accéléré", "fleeing": "en fuite",
         "multi-lived": "multi-vies", "no weapons or thrown items": "sans armes ni objets lancés", "no armour": "sans armure",
-        "see invisible": "voit l’invisible", "wandering, strong": "errant, fort", "friendly and minion": "amical et sbire", "constricted by you": "étreint par vous", "extremely poisoned": "extrêmement empoisonné"
+        "see invisible": "voit l’invisible", "slightly transparent": "légèrement transparent", "excruciating misery": "souffrance atroce", "wandering, strong": "errant, fort", "friendly and minion": "amical et sbire", "constricted by you": "étreint par vous", "extremely poisoned": "extrêmement empoisonné"
     };
     function etat(e) {
         const e1 = e.trim();
@@ -625,11 +627,21 @@
                 const k = mc.match(/^(wielding|wearing|carrying|quivering) (.+)$/);
                 if (!k) return null;
                 const verbe = { wielding: "maniant", wearing: "portant", carrying: "portant dans les mains", quivering: "avec en carquois" }[k[1]];
-                let o = traduireObjet(k[2]);
-                if (o === null && !/^(an?|the|\d)/.test(k[2])) o = traduireObjet("a " + k[2]);
-                if (o === null && typeof globalThis.DCSS_OBJET_PLUS === "function") o = globalThis.DCSS_OBJET_PLUS(k[2]);
+                const acc = k[2].match(/^(.*?)( \{[^}]*\})$/);   // propriétés entre accolades : « {Energy, Str+3} »
+                const nomObj = acc ? acc[1] : k[2];
+                const unObjet = n => {
+                    let r = traduireObjet(n);
+                    if (r === null && !/^(an?|the|\d)/.test(n)) r = traduireObjet("a " + n);
+                    if (r === null && typeof globalThis.DCSS_OBJET_PLUS === "function") r = globalThis.DCSS_OBJET_PLUS(n);
+                    return r;
+                };
+                let o = unObjet(nomObj);
+                if (o === null && / and (?:the|an?|\d)/.test(nomObj)) {   // plusieurs objets : « une armure et l’orbe de X »
+                    const ps = nomObj.split(/ and (?=(?:the|an?|\d) )/).map(unObjet);
+                    if (ps.every(x => x !== null)) o = ps.join(" et ");
+                }
                 if (o === null) return null;
-                sortie.push(`${verbe} ${o}`);
+                sortie.push(`${verbe} ${o}${acc ? acc[2] : ""}`);
             }
             reste = ", " + sortie.join(" et ");
         }

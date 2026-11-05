@@ -263,7 +263,7 @@
         const tete = i === -1 ? n : n.slice(0, i), reste = i === -1 ? "" : n.slice(i);
         return tete.split(" ").map(w => /[sxz]$/.test(w) ? w : w + "s").join(" ") + reste;
     };
-    const TITRES_UNIQUES = { Inquisitive: "l’Inquisitive", "Apprentice Sorceress": "l’Apprentie Sorcière", Apprentice: "l’Apprenti" };
+    const TITRES_UNIQUES = { Flawless: "l’Impeccable", Inquisitive: "l’Inquisitive", "Apprentice Sorceress": "l’Apprentie Sorcière", Apprentice: "l’Apprenti" };
     const elementRencontre = e => {
         let m;
         if ((m = /^(?:an? |the )(.+)$/.exec(e))) { const a = AC("a " + e.replace(/^(?:an? |the )/, "")); return a ? a.o : null; }
@@ -319,10 +319,13 @@
     const objets = txt => {
         const garde = []; const t = txt.replace(/\{[^}]*\}/g, b => { garde.push(b); return "\u0001" + (garde.length - 1) + "\u0001"; });
         const items = t.split(/, | and /); const out = [];
-        for (const it of items) {
+        for (const it0 of items) {
+            const acc = /^(.*?)( \u0001\d+\u0001)$/.exec(it0.trim());   // propriétés « {Energy, Str+3} » : on traduit le nom seul
+            const it = acc ? acc[1] : it0;
             let r = T1(it.trim());
             if ((!r || r === it.trim()) && /^[a-z -]+s$/.test(it.trim())) { const r2 = T1("2 " + it.trim()); if (r2 && r2 !== "2 " + it.trim()) r = r2.replace(/^2 /, ""); }
             if (!r || r === it.trim()) return null;
+            if (acc) r += acc[2];
             out.push(r.replace(/\u0001(\d+)\u0001/g, (_, i) => garde[+i]));
         }
         return out.length < 2 ? out[0] : out.slice(0, -1).join(", ") + " et " + out[out.length - 1];

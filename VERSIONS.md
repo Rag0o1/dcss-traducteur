@@ -11,6 +11,14 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.17.10 — relevé fait en regardant une vraie partie
+- Nouveau : le relevé a été fait en spectateur sur le serveur, avec la dernière version de l’extension chargée dans la page.
+- Fouets : « Vous flagellez / fustigez / rossez … sans pitié », armes de gel (« Vous gelez … »).
+- Rochers (sort « Rocher dévalant ») : « Votre rocher fonce sur … », « se disloque ».
+- Fiches de monstres : « Il peut voir l’invisible », « Ils ont environ 35 % de chances de vous toucher », immunités et résistances, tableaux d’attaques (Griffe, Morsure, Coup…), vitesse, classe, menace.
+- Monstres : « Le Démon de glace » (articles des uniques), Frederick l’Impeccable avec ses objets à propriétés entre accolades (« {Energy, Str+3} »).
+- Divers : portes (« grande porte »), boomerang qui se brise, brume spectrale, souffrance atroce, capuche, liste des destinations « [Crypt:2] ».
+
 ## 0.17.9 — mineure
 
 - Aides de touches et menus raccourcis pour ne pas dépasser la largeur de l’anglais (« Appuyez: ? - aide, Dir - cible », « Parchemins (tout avec », « [Armure fusion.] »…).

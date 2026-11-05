@@ -7184,7 +7184,7 @@ EN: It has mastered the following spells, which are affected by silence and anti
 FR: Il maîtrise les sorts suivants, affectés par le silence et l’antimagie :
 
 EN: It can see invisible.
-FR: Il voit l’invisible.
+FR: Il peut voir l’invisible.
 
 EN: [Your body sometimes grows weak upon taking damage.]
 FR: [Votre corps s’affaiblit parfois lorsque vous subissez des dégâts.]
@@ -8292,6 +8292,153 @@ FR: Comp. PV MN Base Dég. CA
 
 EN: Skill Level > New Apt Skill Level > New Apt
 FR: Comp. Niv. > Nouv. Apt Comp. Niv. > Nouv. Apt
+
+EN: A forgotten god smites you!
+FR: Un dieu oublié vous foudroie !
+
+EN: A malevolent force fills the Lair of Beasts...
+FR: Une force malveillante emplit l’Antre des Bêtes...
+
+EN: {A} opens the large door.
+FR: {S1} ouvre la grande porte.
+
+EN: You open the door.
+FR: Vous ouvrez la porte.
+
+EN: You open the large door.
+FR: Vous ouvrez la grande porte.
+
+EN: There is a large open door here.
+FR: Il y a une grande porte ouverte ici.
+
+EN: {A} forges a servant imbued with his destructive magic!
+FR: {S1} forge un serviteur imprégné de sa magie destructrice !
+
+EN: {A} drags you backwards!
+FR: {S1} vous tire en arrière !
+
+EN: {A} draws life force from you.
+FR: {S1} aspire votre force vitale.
+
+EN: {A} releases spores at you but does no damage.
+FR: {S1} libère des spores sur vous mais ne vous inflige aucun dégât.
+
+EN: The ghostly flame explodes!
+FR: La flamme fantomatique explose !
+
+EN: You are engulfed in excruciating misery.
+FR: Vous êtes englouti dans une souffrance atroce.
+
+EN: You are engulfed in spectral mist.
+FR: Vous êtes englouti dans une brume spectrale.
+
+EN: You feel doom gather around you.
+FR: Vous sentez la fatalité s’amonceler autour de vous.
+
+EN: Your toxic aura wanes.
+FR: Votre aura toxique s’estompe.
+
+EN: You send a boulder barrelling forward!
+FR: Vous envoyez un rocher rouler droit devant !
+
+EN: Your boulder slams into a wall and falls apart!
+FR: Votre rocher percute un mur et se disloque !
+
+EN: Your boulder slams into a tree and falls apart!
+FR: Votre rocher percute un arbre et se disloque !
+
+EN: He can see invisible.
+FR: Il peut voir l’invisible.
+
+EN: She can see invisible.
+FR: Elle peut voir l’invisible.
+
+EN: They can fly.
+FR: Ils peuvent voler.
+
+EN: They can see invisible.
+FR: Ils peuvent voir l’invisible.
+
+EN: They can open doors.
+FR: Ils peuvent ouvrir les portes.
+
+EN: He has mastered the following spells, which are affected by silence and antimagic:
+FR: Il maîtrise les sorts suivants, affectés par le silence et l’antimagie :
+
+EN: She has mastered the following spells, which are affected by silence and antimagic:
+FR: Elle maîtrise les sorts suivants, affectés par le silence et l’antimagie :
+
+EN: They have mastered the following spells, which are affected by silence and antimagic:
+FR: Ils maîtrisent les sorts suivants, affectés par le silence et l’antimagie :
+
+EN: It possesses the following natural abilities:
+FR: Il possède les capacités naturelles suivantes :
+
+EN: He possesses the following natural abilities:
+FR: Il possède les capacités naturelles suivantes :
+
+EN: She possesses the following natural abilities:
+FR: Elle possède les capacités naturelles suivantes :
+
+EN: It will inflict a necromantic curse on its foe when destroyed.
+FR: Il infligera une malédiction nécromantique à son ennemi lorsqu’il sera détruit.
+
+EN: Slightly transparent:
+FR: Légèrement transparent :
+
+EN: Threat: Minor
+FR: Menace : Mineure
+
+EN: Class: Demonic
+FR: Classe : Démoniaque
+
+EN: Int: Animal
+FR: Int : Animal
+
+EN: This creature is normally invisible, but your magical sight allows you to see
+FR: Cette créature est normalement invisible, mais votre vue magique vous permet de la voir
+
+EN: it nonetheless. This has no effect on you, though any allies you have may not
+FR: malgré tout. Cela n’a aucun effet sur vous, mais vos alliés pourraient ne pas
+
+EN: be able to see it as you can.
+FR: pouvoir la voir comme vous.
+
+EN: Attacks Max Damage
+FR: Attaques Dégâts max
+
+EN: Attacks Max Damage After Damaging Hits
+FR: Attaques Dégâts max après coups blessants
+
+EN: Attack Max Damage Range After Damaging Hits
+FR: Attaque Dégâts max Portée après coups blessants
+
+EN: It is an uncommon potion.
+FR: C’est une potion peu courante.
+
+EN: This potion is completely useless to you.
+FR: Cette potion vous est totalement inutile.
+
+EN: Search for what [Enter for "."]?
+FR: Chercher quoi [Entrée pour "."] ?
+
+EN: (immune)
+FR: (immunisé)
+
+EN: Resists : None
+FR: Résistances : Aucune
+
+EN: Defences : AC
+FR: Défenses : AC
+
+EN: Frederick the Flawless
+FR: Frederick l’Impeccable
+
+EN: the +2 hood of the Assassin
+FR: la capuche +2 de l’Assassin
+
+EN: the ring of the Bedazzling Gods
+FR: l’anneau des Dieux éblouissants
 
 EN: You can reread all messages at any time with {K}. Also, press Space or left click with mouse to clear the --more-- prompts.
 FR: Vous pouvez relire tous les messages à tout moment avec {x1}. Appuyez aussi sur Espace ou cliquez avec la souris pour faire disparaître les invites --more--.

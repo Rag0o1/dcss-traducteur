@@ -759,7 +759,7 @@
         "ring mail": ["armure annelée", "f"], "scale mail": ["cotte d’écailles", "f"],
         "chain mail": ["cotte de mailles", "f"], "plate armour": ["armure de plates", "f"],
         "crystal plate armour": ["armure de plates en cristal", "f"],
-        "troll leather armour": ["armure de cuir de troll", "f"], "cloak": ["cape", "f"], "scarf": ["écharpe", "f"],
+        "troll leather armour": ["armure de cuir de troll", "f"], "cloak": ["cape", "f"], "hood": ["capuche", "f"], "scarf": ["écharpe", "f"],
         "pair of gloves": ["paire de gants", "f"], "helmet": ["casque", "m"], "cap": ["bonnet", "m"],
         "hat": ["chapeau", "m"], "pair of boots": ["paire de bottes", "f"], "centaur barding": ["barde de centaure", "f"],
         "barding": ["barde", "f"], "orb": ["orbe", "m"], "buckler": ["rondache", "f"],

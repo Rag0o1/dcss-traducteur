@@ -11,12 +11,12 @@
 
     // --- Verbes d'attaque du joueur (griffes, crocs, poings...) ---
     const VJ = { scratch: "égratignez", mangle: "mutilez", eviscerate: "éventrez", rip: "déchirez", batter: "rouez de coups", thrash: "rossez", buffet: "malmenez",
-        chomp: "croquez", slap: "giflez", smack: "claquez", swat: "chassez d’un revers", gouge: "balafrez", nip: "pincez", lash: "fouettez", skewer: "embrochez",
+        chomp: "croquez", slap: "giflez", smack: "claquez", swat: "chassez d’un revers", gouge: "balafrez", nip: "pincez", lash: "fouettez", flagellate: "flagellez", flog: "fustigez", freeze: "gelez", skewer: "embrochez",
         touch: "touchez", gore: "encornez", blast: "frappez violemment", claw: "griffez", bite: "mordez", maul: "lacérez", shred: "déchiquetez", pummel: "martelez", punch: "frappez", hit: "frappez", crush: "écrasez" };
     const ponct = p => p === "!!" ? " !!" : p === "!" ? " !" : ".";
-    R.push({ regex: new RegExp("^You (" + Object.keys(VJ).join("|") + ") (.+?)( but do no damage)?([.!]+)$"), translate: m => {
+    R.push({ regex: new RegExp("^You (" + Object.keys(VJ).join("|") + ") (.+?)( mercilessly)?( but do no damage)?([.!]+)$"), translate: m => {
         const a = cible(m[2]); if (!a) return null;
-        return `Vous ${VJ[m[1]]} ${a.o}${m[3] ? " sans lui infliger de dégâts" : ""}${ponct(m[4])}`; } });
+        return `Vous ${VJ[m[1]]} ${a.o}${m[3] ? " sans pitié" : ""}${m[4] ? " sans lui infliger de dégâts" : ""}${ponct(m[5])}`; } });
 
     // --- Phrases de monstres ---
     Object.assign(T, {
