@@ -25,4 +25,4 @@ Dans le jeu : F12 > Console, puis :
 copy(JSON.parse(document.documentElement.dataset.dcssTextesNonTraduits || "[]").join("\n"))
 ```
 
-Collez la liste dans une [issue](../../issues) : c'est la meilleure façon d'aider.
+Collez la liste et de préciser la version dans une [issue](../../issues) : c'est la meilleure façon d'aider.
