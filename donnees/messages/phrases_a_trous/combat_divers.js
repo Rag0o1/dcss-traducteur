@@ -19,7 +19,6 @@ Object.assign(globalThis.DCSS_VARIABLES = globalThis.DCSS_VARIABLES || {}, {
     "{A} {v:envenom} {A}.": "{S1} empoisonne {o2}. ¦ Vous empoisonnez {o2}.",
     "{A} {v:envenom} {A}!": "{S1} empoisonne {o2} ! ¦ Vous empoisonnez {o2} !",
     // --- Attaques par derrière ---
-    "You catch {A} completely off-guard!": "Vous prenez {o1} complètement au dépourvu !",
     "You strike {A} from behind!": "Vous frappez {o1} par derrière !",
     "You pounce on {A} from behind!": "Vous bondissez sur {o1} par derrière !",
     // --- Wu Jian ---

@@ -142,9 +142,6 @@ FR: Un gourdin court à la tête de métal.
 EN: A slender, sharply pointed sword, with an uncommonly elegant design.
 FR: Une épée fine et très pointue, au dessin d’une élégance peu commune.
 
-EN: A small axe.
-FR: Une petite hache.
-
 EN: A small chunk of dense but otherwise unremarkable natural mineral. It can be thrown to cause minor damage.
 FR: Un petit morceau de minéral naturel dense mais sans particularité. On peut le lancer pour causer de légers dégâts.
 

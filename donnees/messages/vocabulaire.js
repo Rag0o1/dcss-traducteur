@@ -614,8 +614,6 @@
     // Noms de sorts : anglais par défaut (réglage OPTIONS.js), traduits seulement avec nomsDeSorts: "francais".
     const spells = ((globalThis.DCSS_OPTIONS || {}).nomsDeSorts === "francais") ? Object.assign({}, (globalThis.DCSS_TRADUCTIONS || {}).sorts, {
         "Forge Phalanx Beetle": "Forge Phalanx Beetle",
-        "Foxfire": "Feu follet",
-        "Sublimation of Blood": "Sublimation du sang",
         "Summon Small Mammal": "Invocation de petit mammifère"
     }) : {};
 

@@ -49,9 +49,6 @@ FR: Le condenseur se tarit !
 EN: The current training targets, if any.
 FR: Les objectifs d’entraînement actuels, le cas échéant.
 
-EN: The liquid fire burns you. You resist.
-FR: Le feu liquide vous brûle. Vous résistez.
-
 EN: The relative cost of raising each skill is in
 FR: Le coût relatif d’amélioration de chaque compétence est en
 
@@ -735,9 +732,6 @@ FR: Vous êtes confus.
 
 EN: You are covered in intense liquid fire! Move or burn!
 FR: Vous êtes couvert de feu liquide intense ! Bougez ou brûlez !
-
-EN: You are even more covered in intense liquid fire!
-FR: Vous êtes encore plus couvert de feu liquide intense !
 
 EN: You are flying.
 FR: Vous volez.

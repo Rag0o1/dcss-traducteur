@@ -142,9 +142,6 @@ FR: Un coupon valable pour un objet de n’importe quel prix dans n’importe qu
 EN: A crude ornament carved from the horn of a rare arctic beast - so cold to the touch that ice still clings to it. Transforms the wearer into a rime yak, a hardy ungulate that is highly resistant to cold and whose breath is so frigid that it freezes the walls around itself as it fights. Being so attuned to arctic temperatures also makes it easier for the wearer to cast Ice magic.
 FR: Un ornement grossier taillé dans la corne d’une rare bête arctique – si froid au toucher que la glace s’y accroche encore. Transforme le porteur en yak du givre, un ongulé robuste très résistant au froid et dont le souffle est si glacial qu’il gèle les murs autour de lui pendant qu’il combat. Être si accordé aux températures arctiques facilite aussi au porteur le lancer de sorts de Glace.
 
-EN: A decaying skeleton.
-FR: Un squelette en décomposition.
-
 EN: A deck of magical cards which wreak havoc on the user.
 FR: Un jeu de cartes magiques qui sèment le chaos sur l’utilisateur.
 

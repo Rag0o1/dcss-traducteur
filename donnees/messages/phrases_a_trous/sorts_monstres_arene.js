@@ -103,7 +103,6 @@
         "{A} wears {X}.": "{S1} enfile {x2}.",
         "the acid corrodes {A}!": "L’acide corrode {o1} !",
         "The acid corrodes {A}!": "L’acide corrode {o1} ! ¦ L’acide vous corrode !",
-        "{I} willpower is stripped away!": "La volonté {d1} est arrachée !",
         "{I} mind is gnawed upon.": "L’esprit {d1} est rongé.",
         "{I} foilage glows and foams.": "Le feuillage {d1} luit et mousse.",
         "{I} shape twists and changes as it dies.": "La forme {d1} se tord et change en mourant.",

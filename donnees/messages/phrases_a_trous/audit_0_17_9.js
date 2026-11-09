@@ -20,7 +20,6 @@
 
     // --- Phrases de monstres ---
     Object.assign(T, {
-        "{A} attempts to avoid another deathblow, but is too exhausted to transform.": "{S1} tente d’éviter un autre coup fatal, mais est trop épuisé{e1} pour se transformer.",
         "{A} avoids the killing blow by scattering into a rainbow of bats!": "{S1} évite le coup mortel en se dispersant en un arc-en-ciel de chauves-souris !",
         "{A} casts a spell at you.": "{S1} lance un sort sur vous.", "{A} draws vitality from your injuries!": "{S1} puise de la vitalité dans vos blessures !",
         "{A} gestures wildly while chanting.": "{S1} gesticule frénétiquement en psalmodiant.", "{A} seems to speed up.": "{S1} semble accélérer.",

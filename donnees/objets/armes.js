@@ -54,7 +54,6 @@ globalThis.DCSS_TRADUCTIONS.lex_armes = {
 "A sacred blade from the forges of Heaven, inhabited by a good spirit. It is a favoured weapon of the Shining One's servants.": "Une lame sacrée sortie des forges du Paradis, habitée par un bon esprit. C’est une arme de prédilection des serviteurs de L’Étincelant.",
 "A short club with a metal head.": "Un gourdin court à la tête de métal.",
 "A slender, sharply pointed sword, with an uncommonly elegant design.": "Une épée fine et très pointue, au dessin d’une élégance peu commune.",
-"A small axe.": "Une petite hache.",
 "A small chunk of dense but otherwise unremarkable natural mineral. It can be thrown to cause minor damage.": "Un petit morceau de minéral naturel dense mais sans particularité. On peut le lancer pour causer de légers dégâts.",
 "A small piece of wood and metal, to be strapped on one arm for defence.": "Un petit morceau de bois et de métal, à attacher sur un bras pour se défendre.",
 "A sphere of crystal, carried in place of a shield. Magic scintillates within its interior.": "Une sphère de cristal, portée à la place d’un bouclier. La magie y scintille à l’intérieur.",

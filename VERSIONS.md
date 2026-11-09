@@ -11,6 +11,10 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.17.13 — coup de propre
+- 24 traductions en double (même texte, même traduction dans deux fichiers) retirées ; le résultat est strictement identique (vérifié sur 25 832 textes).
+- Contrôle du code du moteur : aucune variable ni fonction inutilisée.
+
 ## 0.17.12 — contenu récent de la 0.35
 - Mesure faite contre le code le plus récent de Crawl (9 novembre 2026) : descriptions 88 % traduites (99 % sans les citations de monstres ni le tutoriel).
 - Traduit : Xom, Gozag (pouvoirs et colère), espèce Oni, potions (diligence, sagesse furieuse) et parchemins (grenouille, cailloux), sorts (Explosion de forteresse, Déphasage, Défaire violent de Yara), états (Blast, Reach+, Lock, Irate, Rampage+++, Eisegesis, Guardian, Troupe, Protean, Sneaky, Disguised…), monstres (mannequin, sort vivant, forme de bataille chaotique, golem de chair), mutations (Marque du Célébrant, titubement, enchantement d’artefacts), capacités de Gozag et d’ancêtre.
