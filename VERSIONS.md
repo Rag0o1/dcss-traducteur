@@ -11,6 +11,10 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.21.1 — astuces et tutoriel
+
+- 210 morceaux de phrases ajoutés (`donnees/interface/astuces_morceaux2.js`) : conseils de mort et de fin d'exploration, présentations des dieux (Ashenzari, Gozag, Ru, Uskayaw, Xom), autels, caractéristiques, tutoriel (sorts, pièges, combat à distance, alliés, autel…). Phrases mesurées avant/après sur les textes d'aide du jeu : 163 phrases restées en anglais → 17 (les restes sont coupés par une touche variable).
+
 ## 0.21 — fontaines et réserves de nourriture (decorlines.txt)
 
 - Toutes les lignes des fontaines (bleue, pétillante, de sang, d'yeux, à sec), y compris les réactions des dieux (Ashenzari, Beogh, Xom, Zin…) et les lignes de Lua (transformations), sont traduites (`gabarits/decors_lignes.js`, 133 phrases).
