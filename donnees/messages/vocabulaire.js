@@ -236,6 +236,10 @@
         "golden dragon": { name: "dragon doré", gender: "m", article: "le " },
         "golden eye": { name: "œil doré", gender: "m", article: "l’" },
         "golem": { name: "golem", gender: "m", article: "le " },
+        "flesh golem": { name: "golem de chair", gender: "m", article: "le " },
+        "mannequin": { name: "mannequin", gender: "m", article: "le " },
+        "living spell": { name: "sort vivant", gender: "m", article: "le " },
+        "chaos battleshape": { name: "forme de bataille chaotique", gender: "f", article: "la " },
         "goliath frog": { name: "grenouille goliath", gender: "f", article: "la " },
         "great orb of eyes": { name: "grand orbe d’yeux", gender: "m", article: "le " },
         "green death": { name: "mort verte", gender: "f", article: "la " },
@@ -680,14 +684,14 @@
         "resistance": "de résistance", "flight": "de vol", "invisibility": "d’invisibilité",
         "mutation": "de mutation", "experience": "d’expérience", "lignification": "de lignification",
         "degeneration": "de dégénérescence", "ambrosia": "d’ambroisie", "attraction": "d’attraction",
-        "cancellation": "d’annulation", "enlightenment": "d’illumination", "mist": "de brume"
+        "cancellation": "d’annulation", "enlightenment": "d’illumination", "mist": "de brume", "expedience": "de diligence", "berserk sage": "de sagesse furieuse"
     };
 
     const PARCHEMINS = {
         "identify": "d’identification", "teleportation": "de téléportation", "vulnerability": "de vulnérabilité",
         "revelation": "de révélation", "fear": "de terreur", "noise": "de bruit", "summoning": "d’invocation",
         "enchantment": "d’enchantement", "enchant weapon": "d’enchantement d’arme",
-        "enchant armour": "d’enchantement d’armure", "torment": "de tourment", "immolation": "d’immolation",
+        "enchant armour": "d’enchantement d’armure", "frog": "de grenouille", "plinking": "de cailloux", "torment": "de tourment", "immolation": "d’immolation",
         "magic mapping": "de cartographie magique", "fog": "de brouillard", "acquirement": "d’acquisition",
         "silence": "de silence", "amnesia": "d’amnésie", "poison": "de poison",
         "blinking": "de clignotement", "brand weapon": "de marque d’arme", "butterflies": "de papillons", "curse armour": "de malédiction d’armure",

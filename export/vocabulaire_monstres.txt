@@ -682,6 +682,18 @@ FR: œil doré
 EN: golem
 FR: golem
 
+EN: flesh golem
+FR: golem de chair
+
+EN: mannequin
+FR: mannequin
+
+EN: living spell
+FR: sort vivant
+
+EN: chaos battleshape
+FR: forme de bataille chaotique
+
 EN: goliath frog
 FR: grenouille goliath
 
@@ -903,9 +915,6 @@ FR: flèche de foudre
 
 EN: lindwurm
 FR: lindwurm
-
-EN: living spell
-FR: sort vivant
 
 EN: lost soul
 FR: âme perdue
