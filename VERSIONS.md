@@ -11,6 +11,9 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.17.14 — tableau des traductions
+- Nouvel outil `outils/tableau_traductions.py` : génère un tableur Excel de toutes les traductions (un onglet par fichier, index cliquable, colonne « Ta correction ») pour les relire et les corriger plus facilement. Il est régénéré à chaque nouvelle version.
+
 ## 0.17.13 — coup de propre
 - 24 traductions en double (même texte, même traduction dans deux fichiers) retirées ; le résultat est strictement identique (vérifié sur 25 832 textes).
 - Contrôle du code du moteur : aucune variable ni fonction inutilisée.

@@ -2,7 +2,7 @@
 
 Traduction française communautaire de **Dungeon Crawl Stone Soup** (WebTiles). L’extension traduit directement dans votre navigateur, sans rien envoyer à personne. Tout est dans des dictionnaires en texte simple que chacun peut corriger ou compléter, et le moteur se réutilise pour d’autres langues. Un texte reste en anglais ? Venez aider !
 
-Version actuelle : **0.17.13**
+Version actuelle : **0.17.14**
 
 ## Les guides sont dans le wiki
 - [Installation](https://github.com/Rag0o1/dcss-traducteur/wiki/Installation) (chaque navigateur)

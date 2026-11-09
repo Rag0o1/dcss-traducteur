@@ -20,4 +20,10 @@ nouvelle version du jeu ou une autre langue. Il faut Python 3 et Node.js, et le 
      python3 comparer_versions.py extraction_0.34.json extraction_0.35.json  a_traduire.txt
    -> a_traduire.txt liste les textes NOUVEAUX, MODIFIÉS (avant/après) et SUPPRIMÉS : on ne traduit que le delta.
 
+4) tableau_traductions.py  — tableau Excel de toutes les traductions, pour les relire et les corriger
+     node outils/exporter.js
+     python3 outils/tableau_traductions.py          (écrit ../DCSS-Traducteur-traductions.xlsx)
+   -> un onglet par fichier de donnees/, plus un index ; la colonne jaune « Ta correction » sert à noter les corrections.
+   À régénérer à chaque nouvelle version pour que le tableau reste à jour. Nécessite : pip install openpyxl
+
 Voir aussi GUIDE-NOUVELLE-VERSION.txt et GUIDE-AUTRES-LANGUES.txt.
