@@ -11,6 +11,9 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.17.11 — mineure
+- Alliés à nom propre (par exemple l’ancêtre d’Hepliaklqana « Crom ») : leurs attaques, blocages et destructions sont maintenant traduits (« Crom évite votre attaque », « La flèche frappe Crom »).
+
 ## 0.17.10 — relevé fait en regardant une vraie partie
 - Nouveau : le relevé a été fait en spectateur sur le serveur, avec la dernière version de l’extension chargée dans la page.
 - Fouets : « Vous flagellez / fustigez / rossez … sans pitié », armes de gel (« Vous gelez … »).

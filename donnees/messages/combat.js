@@ -437,7 +437,7 @@
         if ((m = /^(very large|large|enormous|titanic) slime creature$/.exec(nom))) return { name: TAILLES_SLIME[m[1]] + " créature de vase", gender: "f", article: "la " };
         return null;
     };
-    const reActeur = new RegExp("\\b(?:(?<det>The|the|An?|an?|Your|your|a nearby|the nearby) (?<imp>helpless |wavering )?(?<pre>spectral |bound |ghostly |invisible )?(?<nom>" + FABRIQUES + "|" + alternance + ")(?<suf> simulacrum| zombie| skeleton| draugr)?(?![\\w-])|(?<fant>[A-Za-z0-9][\\w.-]*)'s ghost(?![\\w-])|(?:[Tt]he )?(?<uniq>" + alternanceUniq + ")(?![\\w-]))", "g");
+    const reActeur = new RegExp("\\b(?:(?<det>The|the|An?|an?|Your|your|a nearby|the nearby) (?<imp>helpless |wavering )?(?<pre>spectral |bound |ghostly |invisible )?(?<nom>" + FABRIQUES + "|" + alternance + ")(?<suf> simulacrum| zombie| skeleton| draugr)?(?![\\w-])|(?<fant>[A-Za-z0-9][\\w.-]*)'s ghost(?![\\w-])|(?:[Tt]he )?(?<uniq>" + alternanceUniq + ")(?![\\w-])|(?<anc>(?!(?:You|Your|The|There|This|That|Something|It|Its|He|She|They|Found|Press|Okay|Unknown|Done|Key|Orders|What|Anything|Welcome|Ancestor|Hit|Miss|Target|Memorise|Cancel|Retreat|Stop|Follow|Guard|Attack|Dir)\\b)[A-Z][a-z]{2,11}(?![\\w'’-])))", "g");
 
     const entite = nom => {
         if (monsters[nom]) return monsters[nom];
@@ -490,6 +490,10 @@
                 const u = UNIQUES[g.uniq];
                 const art = /^the /i.test(a[0]) ? (/^[AEIOUYÉÈÊÂÎÔÛŒH]/i.test(u[0]) ? "l’" : u[1] === "f" ? "la " : "le ") : "";
                 acteurs.push({ det: "the", entite: { name: u[0], gender: u[1], article: art }, impuissant: "", suffixe: "", prefixe: "" });
+                return "{M}";
+            }
+            if (g.anc) {   // nom propre inconnu (ancêtre d’Hepliaklqana, allié nommé…)
+                acteurs.push({ det: "the", entite: { name: g.anc, gender: "m", article: "" }, impuissant: "", suffixe: "", prefixe: "" });
                 return "{M}";
             }
             if (g.fant) {
