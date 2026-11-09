@@ -335,7 +335,9 @@ const memo = new Map();
 globalThis.DCSS_SORTIES = globalThis.DCSS_SORTIES || new Set();
 function traduireMemo(texte) {
     if (memo.has(texte)) return memo.get(texte);
+    globalThis.DCSS_NOM_JOUEUR = false;
     const resultat = globalThis.DCSS_TRADUIRE_CHAINE(texte);
+    if (globalThis.DCSS_NOM_JOUEUR) return resultat; // texte contenant le nom du joueur : on ne le garde nulle part
     if (memo.size > 20000) memo.clear();
     memo.set(texte, resultat);
     if (typeof resultat === "string" && resultat !== texte) {

@@ -17,6 +17,7 @@ Chaque version est décrite ci-dessous, la plus récente en premier.
 - Les titres qui dépendent de l'espèce (adjectif, genre, poids, façon de marcher, « enfant ») sont accordés : « the Merry Human » → « l'Humain joyeux », « the Fallen Frog » → « la Grenouille déchue », « the Elven Blade » → « la Lame elfique ».
 - Les noms d'objets comme « ring of the Tortoise » ne sont pas touchés (le nom du joueur doit être un seul mot).
 - Export et tableur : feuille « titres ».
+- Les textes qui contiennent le nom du joueur (titres) ne sont pas gardés dans le cache de traduction ni dans la liste des sorties : rien n'est mémorisé à son sujet.
 
 ## 0.19 — graffitis et noms de couleurs
 

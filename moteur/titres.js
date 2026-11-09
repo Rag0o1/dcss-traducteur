@@ -79,6 +79,9 @@
     }
 
     function traduire(texte) {
+        const r = traduire1(texte); if (r !== null) globalThis.DCSS_NOM_JOUEUR = true; return r;
+    }
+    function traduire1(texte) {
         if (!globalThis.DCSS_TITRES || /^(You|The|A|An|Your)\b/.test(texte)) return null;
         let m = /^([^\s,]{1,30}) the (\S.*)$/.exec(texte);
         if (m) { const f = titre(m[2]); if (f) return m[1] + " " + f; }
