@@ -11,6 +11,10 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.17.16 — projectiles bloqués, grêle, drain, ordres aux alliés
+
+- Ajout : « X bloque la flèche », « La grêle frappe X », « Vous drainez X », menu d’ordres aux alliés, avertissement de sort très dangereux, « N sorts masqués », ramassage d’un livre, Grêle de balles, Manuel du jeune empoisonneur.
+
 ## 0.17.15 — tableau : liens nom ↔ description
 - Tableau des traductions : nouvelle colonne « Lien nom ↔ description ». Sur la ligne d’un monstre, sort, mutation, objet, dieu… un clic mène à sa description, et inversement (environ 2 800 paires). Les paires viennent du jeu (`outils/paires_noms_descriptions.json`).
 

@@ -8440,6 +8440,42 @@ FR: la capuche +2 de l’Assassin
 EN: the ring of the Bedazzling Gods
 FR: l’anneau des Dieux éblouissants
 
+EN: This spell is astonishingly dangerous to cast!
+FR: Ce sort est incroyablement dangereux à lancer !
+
+EN: The hail pelts you!
+FR: La grêle vous frappe !
+
+EN: Orders for allies: a - Attack new target.
+FR: Ordres aux alliés : a - Attaquer la nouvelle cible.
+
+EN: What are your orders?
+FR: Quels sont vos ordres ?
+
+EN: Anything else - Cancel.
+FR: Autre touche - Annuler.
+
+EN: g - Guard the area. f - Follow me.
+FR: g - Garder la zone. f - Me suivre.
+
+EN: r - Retreat! s - Stop attacking.
+FR: r - Retraite ! s - Cesser d’attaquer.
+
+EN: Ancestor HP restored.
+FR: PV de l’ancêtre restaurés.
+
+EN: Key pressed, stopping explore.
+FR: Touche pressée, exploration interrompue.
+
+EN: Hail of Bullets
+FR: Grêle de balles
+
+EN: Young Poisoner's Handbook
+FR: Manuel du jeune empoisonneur
+
+EN: a Young Poisoner's Handbook
+FR: un Manuel du jeune empoisonneur
+
 EN: You can reread all messages at any time with {K}. Also, press Space or left click with mouse to clear the --more-- prompts.
 FR: Vous pouvez relire tous les messages à tout moment avec {x1}. Appuyez aussi sur Espace ou cliquez avec la souris pour faire disparaître les invites --more--.
 
