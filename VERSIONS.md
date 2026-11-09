@@ -11,6 +11,13 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.18 — bruits et paroles des armes (wpnnoise.txt)
+
+- Nouveaux fichiers `gabarits/armes_bruits.js`, `armes_chantante.js`, `armes_chantante_cris.js`, `voix_diverses.js` et `phrases_a_trous/armes_bruits_sons.js` : armes bruyantes (« Votre dague ricane. », « Vous entendez un cri. »), Frostbite, Condemnation, l’Épée chantante (chants, paroles, hurlements), Majin-Bo, Zonguldrok, pensées de la forme champignon, mains d’anguille, écailles de dragon.
+- Les paroles de vraies chansons restent en anglais (seul le cadre est traduit) ; 3 répliques avec la macro `@CAPS@` ne sont pas traduites.
+- Moteur `gabarits.js` : nouveaux morceaux variables (arme, nom du joueur, dieu, espèce, cris, adjectifs), gabarits « hurlements » prioritaires, « ! » final espacé à la française.
+- `manifest.json` : un fichier chargé deux fois (`monstres_paroles.js`) n’est plus en double.
+
 ## 0.17.16 — projectiles bloqués, grêle, drain, ordres aux alliés
 
 - Ajout : « X bloque la flèche », « La grêle frappe X », « Vous drainez X », menu d’ordres aux alliés, avertissement de sort très dangereux, « N sorts masqués », ramassage d’un livre, Grêle de balles, Manuel du jeune empoisonneur.

@@ -12,3 +12,4 @@ Fichiers :
   dieux_xom.js    : Xom (événements aléatoires, rires, cadeaux...) et phrases des dieux (godspeak.txt).
   magie_rates.js  : ratés de magie (miscast.txt).
   cris.js         : cris et bruits des monstres (shout.txt).
+  armes_bruits.js, armes_chantante.js, armes_chantante_cris.js, voix_diverses.js : bruits et paroles des armes, Épée chantante, Majin-Bo, Zonguldrok (wpnnoise.txt).

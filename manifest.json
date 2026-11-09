@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "DCSS Traducteur",
-  "version": "0.17.16",
+  "version": "0.18",
   "description": "Couche de traduction française pour DCSS Web",
   "content_scripts": [
     {
@@ -49,6 +49,7 @@
         "donnees/messages/phrases_a_trous/audit_0_17_9.js",
         "donnees/messages/phrases_a_trous/audit_0_17_10.js",
         "donnees/messages/phrases_a_trous/audit_0_17_16.js",
+        "donnees/messages/phrases_a_trous/armes_bruits_sons.js",
         "donnees/messages/phrases_a_trous/tutoriel.js",
         "donnees/messages/divers.js",
         "donnees/interface/commandes_aide.js",
@@ -65,7 +66,10 @@
         "donnees/messages/gabarits/cris.js",
         "donnees/messages/gabarits/monstres_sorts.js",
         "donnees/messages/gabarits/monstres_paroles.js",
-        "donnees/messages/gabarits/monstres_paroles.js",
+        "donnees/messages/gabarits/armes_bruits.js",
+        "donnees/messages/gabarits/armes_chantante.js",
+        "donnees/messages/gabarits/armes_chantante_cris.js",
+        "donnees/messages/gabarits/voix_diverses.js",
         "moteur/gabarits.js",
         "donnees/interface/menus.js",
         "donnees/objets/armes.js",

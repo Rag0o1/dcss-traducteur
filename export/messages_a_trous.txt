@@ -8476,6 +8476,123 @@ FR: Manuel du jeune empoisonneur
 EN: a Young Poisoner's Handbook
 FR: un Manuel du jeune empoisonneur
 
+EN: a shout
+FR: un cri
+
+EN: an angry hiss
+FR: un sifflement furieux
+
+EN: a high-pitched scream
+FR: un cri aigu
+
+EN: a roar
+FR: un rugissement
+
+EN: a hideous shriek
+FR: un cri affreux
+
+EN: a piteous moan
+FR: un gémissement pitoyable
+
+EN: a screech
+FR: un hurlement strident
+
+EN: a bellow
+FR: un beuglement
+
+EN: a loud, deep croak
+FR: un coassement fort et grave
+
+EN: an angry buzzing noise
+FR: un bourdonnement furieux
+
+EN: a splashing noise
+FR: un bruit d’éclaboussures
+
+EN: a sizzling sound
+FR: un grésillement
+
+EN: a loud clanging noise
+FR: un grand fracas métallique
+
+EN: a grinding noise
+FR: un grincement
+
+EN: a mighty clap of thunder
+FR: un puissant coup de tonnerre
+
+EN: a hideous screaming
+FR: des hurlements affreux
+
+EN: a bark
+FR: un aboiement
+
+EN: a rumbling sound
+FR: un grondement
+
+EN: a crunching sound
+FR: un craquement
+
+EN: a distant "Zot"
+FR: un « Zot » lointain
+
+EN: the distant roaring of an enraged frog
+FR: le rugissement lointain d’une grenouille enragée
+
+EN: a knock
+FR: un coup frappé
+
+EN: a voice calling your name
+FR: une voix qui appelle votre nom
+
+EN: a very strange noise
+FR: un bruit très étrange
+
+EN: someone snoring
+FR: quelqu’un qui ronfle
+
+EN: someone calling for help
+FR: quelqu’un qui appelle à l’aide
+
+EN: strange voices
+FR: d’étranges voix
+
+EN: maniacal laughter
+FR: un rire maniaque
+
+EN: snatches of song
+FR: des bribes de chanson
+
+EN: a twanging sound
+FR: un bruit de corde pincée
+
+EN: the buzz of a distant kazoo
+FR: le bourdonnement d’un mirliton lointain
+
+EN: the chiming of a distant gong
+FR: la résonance d’un gong lointain
+
+EN: the tinkle of an enormous bell
+FR: le tintement d’une cloche énorme
+
+EN: an echo
+FR: un écho
+
+EN: the wailing of sirens
+FR: le hurlement des sirènes
+
+EN: a flourish of trumpets
+FR: une fanfare de trompettes
+
+EN: a strangely pleasant explosion
+FR: une explosion étrangement agréable
+
+EN: distant weeping
+FR: des pleurs lointains
+
+EN: a muffled joke
+FR: une blague étouffée
+
 EN: You can reread all messages at any time with {K}. Also, press Space or left click with mouse to clear the --more-- prompts.
 FR: Vous pouvez relire tous les messages à tout moment avec {x1}. Appuyez aussi sur Espace ou cliquez avec la souris pour faire disparaître les invites --more--.
 

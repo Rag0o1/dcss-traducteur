@@ -52,6 +52,15 @@
             const pl = /^les /.test(r); r = r.replace(/^(?:le|la|les|l’|un|une|des) ?/, ""); if (nom === "your_item") return (pl ? "vos " : "votre ") + r; return cap((pl ? "vos " : "votre ") + r); },
     };
     const POSS = x => { const n = MACROS.body(x); return (/s$/.test(x) && !/^(?:chest|pancreas|bras)$/.test(x) || /^(?:teeth|feet|hooves)$/.test(x) ? "vos " : "votre ") + n; };
+    const GENRES_PL = { humans: "humains", elves: "elfes", dwarves: "nains", orcs: "orcs", draconians: "draconiens", demonspawn: "démonspawns", gnolls: "gnolls", felids: "félins", gargoyles: "gargouilles", trolls: "trolls",
+        ogres: "ogres", merfolk: "sirènes", minotaurs: "minotaures", nagas: "nagas", octopodes: "octopodes", spriggans: "spriggans", tengu: "tengus", vampires: "vampires", barachi: "barachis", "deep elves": "elfes profonds", kobolds: "kobolds",
+        formicids: "formicides", mummies: "momies", ghouls: "goules", djinni: "djinns", coglins: "coglins", "hill orcs": "orcs des collines", "mountain dwarves": "nains des montagnes" };
+    const GENRES_UN = { human: "un humain", elf: "un elfe", dwarf: "un nain", orc: "un orc", draconian: "un draconien", demonspawn: "un démonspawn", gnoll: "un gnoll", felid: "un félin", gargoyle: "une gargouille", troll: "un troll",
+        ogre: "un ogre", merfolk: "une sirène", minotaur: "un minotaure", naga: "un naga", octopode: "un octopode", spriggan: "un spriggan", tengu: "un tengu", vampire: "un vampire", kobold: "un kobold", formicid: "un formicide",
+        mummy: "une momie", ghoul: "une goule", djinni: "un djinn", coglin: "un coglin" };
+    const SCREAM_HOW = x => { const m = /^like an? (\w+) (.+)$/.exec(x); if (m) { const A = { hungry: "affamé", enraged: "enragé", raging: "rageur", furious: "furieux", irate: "irrité" }[m[1]];
+        const B = { dragon: "dragon", frog: "grenouille", lion: "lion", bull: "taureau", beast: "fauve", "beast of prey": "fauve", predator: "prédateur", carnivore: "carnivore" }[m[2]]; if (!A || !B) return null; const f = B === "grenouille"; const adj = f ? ({ affamé: "affamée", enragé: "enragée", rageur: "rageuse", furieux: "furieuse", irrité: "irritée" })[A] : A; return `comme ${f ? "une" : "un"} ${B} ${adj}`; }
+        return ({ hysterically: "hystériquement", angrily: "avec colère", loudly: "fort", deafeningly: "à vous rendre sourd", "ear-piercingly": "à vous percer les tympans", "ear-splittingly": "à vous fendre les oreilles" })[x] || null; };
     const FONCTION = {
         The_feature: x => MACROS.feature(x, true), the_feature: x => MACROS.feature(x, false),
         Your_item: (x) => MACROS.item(x, true, "Your_item"), your_item: (x) => MACROS.item("Your " + x.replace(/^[Yy]our /, ""), false, "your_item"),
@@ -77,7 +86,28 @@
         objective: x => ({ it: "le", him: "le", her: "la", them: "les" })[x] || null,
         Subjective: x => ({ It: "Cela", He: "Il", She: "Elle", They: "Ils" })[x] || null,
         arms: MACROS.body, beam: x => { const r = T1("a " + x) || T1(x); return r && r !== x && r !== "a " + x ? r.replace(/^(?:un|une|le|la|l’|des|les) ?/, "") : null; },
-        weapon_noise: x => T1(x) || x, player_genus: x => ({ human: "humains", elf: "elfes", dwarf: "nains", orc: "orques", draconian: "draconiens", demonspawn: "démonspawns", gnoll: "gnolls", felid: "félins" })[x] || x,
+        Your_weapon: x => { if (/^the singing sword$/i.test(x)) return "L’Épée chantante"; return MACROS.item(x, true, "Your_item"); },
+        The_weapon: x => /^the singing sword$/i.test(x) ? "L’Épée chantante" : null, the_weapon: x => /^the singing sword$/i.test(x) ? "l’Épée chantante" : null,
+        player_name: x => x, player_god: x => T1(x) || x, god_or_blade: x => /^my blade$/i.test(x) ? "ma lame" : (T1(x) || x),
+        player_genus_plural: x => GENRES_PL[x] || x, a_player_genus: x => GENRES_UN[x.replace(/^an? /, "")] || x, player_genus: x => GENRES_UN[x] ? GENRES_UN[x].replace(/^(?:un|une) /, "") : x,
+        _screams_: x => ({ screams: "hurle", booms: "tonne", roars: "rugit", bellows: "beugle", howls: "hurle", yells: "crie", shouts: "s’écrie", shrieks: "glapit", thunders: "tonitrue", clamours: "clame", exclaims: "s’exclame", vociferates: "vocifère" })[x] || null,
+        _screams_how_: x => SCREAM_HOW(x), _loudly_: x => ({ loudly: "fort", deafeningly: "à vous rendre sourd", "ear-piercingly": "à vous percer les tympans", "ear-splittingly": "à vous fendre les oreilles" })[x] || null,
+        _beastly_adjective_: x => ({ hungry: "affamé", enraged: "enragé", raging: "rageur", furious: "furieux", irate: "irrité" })[x] || null,
+        _beast_: x => ({ dragon: "dragon", frog: "grenouille", lion: "lion", bull: "taureau", beast: "fauve", "beast of prey": "fauve", predator: "prédateur", carnivore: "carnivore" })[x] || null,
+        _strikes_up_what_: x => ({ "a slow and mournful tune": "un air lent et mélancolique", "a merry tune": "un air joyeux", "a merry melody": "une mélodie joyeuse", "a funeral march": "une marche funèbre" })[x] || null,
+        _kind_of_scales_: x => ({ pentatonic: "pentatoniques", chromatic: "chromatiques", diatonic: "diatoniques" })[x] || null,
+        _rhyme_word_: x => ({ "fountain of blood": "fontaine de sang", "killing spree": "tuerie", battlefield: "champ de bataille" })[x] || null,
+        _song_theme_: x => ({ "battle and fame": "la bataille et la gloire", "death and destruction": "la mort et la destruction", "the glory of death": "la gloire de la mort" })[x] || null,
+        _musical_topic_: x => ({ acoustics: "l’acoustique", "voice harmonics": "les harmoniques de la voix", "the history of music": "l’histoire de la musique", "the theory of melody": "la théorie de la mélodie", "rhythms and time": "les rythmes et la mesure", "the counterpoint": "le contrepoint", descant: "le déchant", syncopation: "la syncope", "Aeolian mode": "le mode éolien" })[x] || null,
+        _exasperated_: x => ({ exasperated: "exaspérée", "bugged out": "à bout", unnerved: "déstabilisée", irascibly: "irascible", nervous: "nerveuse", unruly: "indocile", truculent: "truculente", refractory: "rétive", recalcitrant: "récalcitrante" })[x] || null,
+        _crimson_: x => ({ crimson: "cramoisie", "blood-red": "rouge sang", purple: "pourpre", ensanguined: "ensanglantée", violet: "violette" })[x] || null,
+        _MISCREANTS_: x => ({ MISCREANTS: "VAURIENS", IMBECILES: "IMBÉCILES", SCUM: "CANAILLES", FILTH: "ORDURES" })[x] || null,
+        _PETS_: x => ({ "GUINEA PIGS": "COCHONS D’INDE", CAVIES: "CAVIAS", "PUSSY CATS": "MINOUS", POODLES: "CANICHES", "SPERM WHALES": "CACHALOTS" })[x] || null,
+        _corpses_: x => ({ corpses: "cadavres", "tasty carcasses": "carcasses savoureuses", "exquisite cadavers": "cadavres exquis" })[x] || null,
+        _body_part_: x => ({ skin: "peau", "hairy skin": "peau poilue", carcass: "carcasse", flesh: "chair" })[x] || null,
+        _glorious_: x => ({ glorious: "glorieuse", spanking: "flambant neuve", noble: "noble", exciting: "excitante", thrilling: "palpitante", erotic: "érotique", moving: "émouvante" })[x] || null,
+        godsorter: x => ({ fate: "le destin", "the lot": "le sort", worms: "les vers", "the godless void": "le vide sans dieu", autolysis: "l’autolyse", putrefaction: "la putréfaction" })[x] || T1(x) || x,
+        weapon_noise: x => { const r = T1(x); return r && r !== x ? r : null; }, player_genus: x => ({ human: "humains", elf: "elfes", dwarf: "nains", orc: "orques", draconian: "draconiens", demonspawn: "démonspawns", gnoll: "gnolls", felid: "félins" })[x] || x,
     };
 
     function acteur(t) {
@@ -89,7 +119,7 @@
 
     // --- Compilation d'un gabarit anglais en expression régulière ---
     function compiler(en, fr) {
-        const PAT = { the_monster_possessive: "(.+?(?:'s|’s)|its|his|her|their)", The_monster_possessive: "(.+?(?:'s|’s)|its|his|her|their)", hands: "([a-z-]+)", hand: "([a-z-]+)", head: "([a-z-]+)", feet: "([a-z-]+)" };
+        const PAT = { The_weapon: "([Tt]he Singing Sword)", the_weapon: "([Tt]he Singing Sword)", _screams_: "(screams|booms|roars|bellows|howls|yells|shouts|shrieks|thunders|clamours|exclaims|vociferates)", the_monster_possessive: "(.+?(?:'s|’s)|its|his|her|their)", The_monster_possessive: "(.+?(?:'s|’s)|its|his|her|their)", hands: "([a-z-]+)", hand: "([a-z-]+)", head: "([a-z-]+)", feet: "([a-z-]+)" };
         const parts = []; let src = "^"; let lit = ""; let plusLong = "";
         const re = /\[([^\]]*)\]|@([^@\s]+)@/g; let dernier = 0, m;
         const flush = t => { if (t) { src += esc(t); if (t.length > plusLong.length) plusLong = t; } };
@@ -118,26 +148,26 @@
         sortie = sortie.replace(/@M_([SodaeA])@/g, (t, k) => mon ? (mon[k] || "") : t);
         sortie = sortie.replace(/@TF([12])@/g, (tt, k) => { const tf = macros.to_foe; if (tf === undefined) { ok = false; return tt; } const a = FONCTION.to_foe(tf); if (!a) { ok = false; return tt; } const toi = /^à vous$/.test(a); return k === "1" ? (toi ? "vous " : "") : (toi ? "" : " " + a); });
         sortie = sortie.replace(/@([^@\s]+)@/g, (tout, nom) => { if (/^M_/.test(nom)) { ok = false; return tout; } let v = macros[nom.replace(/^~/, "")] !== undefined ? macros[nom.replace(/^~/, "")] : nom === "T_o" ? ["target", "foe", "at_foe", "to_foe"].map(k => macros[k]).find(x => x !== undefined) : nom === "sur" || nom === "vers" ? macros.at : undefined; if (v === undefined) { ok = false; return tout; } const f = FONCTION[nom === "T_o" ? (macros.target !== undefined ? "target" : "foe") : nom]; if (nom === "T_o") v = String(v).replace(/^(?:at|to) /, ""); const r = nom === "sur" ? (v === "past" ? "à côté de" : "sur") : nom === "vers" ? (v === "past" ? "à côté de" : "vers") : f ? f(v) : v; if (r === null || r === undefined) { ok = false; return v; } return r; });
-        if (ok) sortie = sortie.replace(/\bde ([aeiouyàâéèêîôûœ])/g, "d’$1") + punct;
+        if (ok) sortie = sortie.replace(/\bde ([aeiouyàâéèêîôûœ])/g, "d’$1") + (punct === "!" ? " !" : punct);
         return ok ? sortie : null;
     }
 
     let index = null;
     function construire() {
-        index = { par: new Map(), apres: new Map(), libres: [] };
+        index = { par: new Map(), apres: new Map(), libres: [], prio: [] };
         for (const bloc of globalThis.DCSS_GABARITS_TEXTES || []) {
             for (const entree of String(bloc).split(/\n\s*\n/)) {
                 const l = entree.split("\n").map(x => x.trim()).filter(Boolean);
                 if (l.length < 2) continue;
                 const g = compiler(l[0], l[1]);
-                if (g.tete) { if (!index.par.has(g.tete)) index.par.set(g.tete, []); index.par.get(g.tete).push(g); } else if (g.apres) { if (!index.apres.has(g.apres)) index.apres.set(g.apres, []); index.apres.get(g.apres).push(g); } else index.libres.push(g);
+                if (/^@[^@\s]+@ @_screams_@/.test(l[0])) index.prio.push(g); else if (g.tete) { if (!index.par.has(g.tete)) index.par.set(g.tete, []); index.par.get(g.tete).push(g); } else if (g.apres) { if (!index.apres.has(g.apres)) index.apres.set(g.apres, []); index.apres.get(g.apres).push(g); } else index.libres.push(g);
             }
         }
     }
     function traduire(texte) {
         if (!index) construire();
         const t = texte.trim(); if (t.length < 6 || t.length > 400) return null;
-        const mot = /^[A-Za-z"'’]+/.exec(t); const listes = [];
+        const mot = /^[A-Za-z"'’]+/.exec(t); const listes = [index.prio];
         if (mot && index.par.has(mot[0].toLowerCase())) listes.push(index.par.get(mot[0].toLowerCase()));
         const mots = t.split(/[^A-Za-z]+/).slice(1, 9), vus = new Set();
         for (const w of mots) if (!vus.has(w) && index.apres.has(w)) { vus.add(w); listes.push(index.apres.get(w)); }
