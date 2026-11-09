@@ -68,11 +68,29 @@ for f in par:
     base=n;k=2
     while n.lower() in used: n=base[:28]+'-'+str(k);k+=1
     used.add(n.lower()); noms[f]=n
+# --- Liens nom <-> description (paires tirées de dat/descript du jeu : outils/paires_noms_descriptions.json) ---
+def _n(x): return re.sub(r'\s+',' ',x).strip().lower()
+pos={}; tous={}
+for f,lst in sorted(par.items(),key=lambda x:x[0]):
+    for k,(cat,en,fr) in enumerate(lst):
+        pos.setdefault(_n(en),(noms[f],k+3)); tous.setdefault(_n(en),[]).append((noms[f],k+3))
+liens={}   # (onglet, ligne) -> (texte, cible ou None)
+nb_paires=0
+chemin_paires=os.path.join(os.path.dirname(os.path.abspath(__file__)),'paires_noms_descriptions.json')
+if os.path.exists(chemin_paires):
+    for typ,nom_jeu,texte in json.load(open(chemin_paires,encoding='utf-8')):
+        d=pos.get(_n(texte)); n=pos.get(_n(nom_jeu))
+        if not d: continue
+        nb_paires+=1
+        for dd in tous[_n(texte)]: liens.setdefault(dd,('%s : %s'%(typ,nom_jeu),n))
+        if n:
+            for nn in tous[_n(nom_jeu)]:
+                if nn not in tous[_n(texte)]: liens.setdefault(nn,('→ Description (%s)'%typ,d))
 ws=wb.active; ws.title='Index'
 ws['A1']='Tableau des traductions de DCSS Traducteur : un onglet par fichier'; ws['A1'].font=Font(name=F,bold=True,size=14)
 guide=['Comment corriger : ouvre l’onglet du fichier voulu (clique sur son nom ci-dessous), écris ta version dans la colonne jaune « Ta correction », puis renvoie-moi le fichier.',
 'Laisse vide ce qui te va. Garde tel quel ce qui est entre accolades : {A}, {S1}, {X}… (trous remplis par le jeu). Ne modifie ni le numéro ni le texte anglais (c’est la clé).',
-'Colonne « Remarque » : pour m’expliquer un choix. Chaque onglet a en haut le chemin du fichier dans le projet.']
+'Colonne « Remarque » : pour m’expliquer un choix. Colonne « Lien nom ↔ description » : un clic mène de la description d’un monstre, sort, mutation, objet… à son nom, et inversement. Chaque onglet a en haut le chemin du fichier dans le projet.']
 for i,t in enumerate(guide,start=3):
     c=ws.cell(i,1,t); c.font=Font(name=F,size=11); c.alignment=Alignment(wrap_text=True,vertical='top'); ws.merge_cells(start_row=i,start_column=1,end_row=i,end_column=4); ws.row_dimensions[i].height=34
 for j,h in enumerate(['Onglet (cliquer)','Fichier du projet','Lignes','Contenu (catégories)'],1):
@@ -89,7 +107,7 @@ for f,lst in sorted(par.items(),key=lambda x:x[0]):
     w=wb.create_sheet(noms[f])
     w['A1']='Fichier : '+f; w['A1'].font=Font(name=F,bold=True,size=11)
     c=w['F1']; c.value='← Index'; c.hyperlink="#'Index'!A1"; c.font=Font(name=F,size=10,color='0563C1',underline='single')
-    for j,h in enumerate(['N°','Anglais (clé)','Français actuel','Ta correction','Remarque','Catégorie'],1):
+    for j,h in enumerate(['N°','Anglais (clé)','Français actuel','Ta correction','Remarque','Catégorie','Lien nom ↔ description'],1):
         c=w.cell(2,j,h); c.font=Font(name=F,bold=True,color='FFFFFF'); c.fill=hf
     for i,(cat,en,fr) in enumerate(lst,start=3):
         for j,v in enumerate([i-2,en,fr,None,None,cat],1):
@@ -99,7 +117,13 @@ for f,lst in sorted(par.items(),key=lambda x:x[0]):
                 if isinstance(v,str) and v[:1] in '=+-@': c.data_type='s'
             c.font=fa; c.alignment=wrap
         w.cell(i,4).fill=yf
-    for col,wd in zip('ABCDEF',[7,60,60,60,26,22]): w.column_dimensions[col].width=wd
-    w.freeze_panes='A3'; w.auto_filter.ref='A2:F%d'%(len(lst)+2)
+        lk=liens.get((noms[f],i))
+        if lk:
+            c=w.cell(i,7,('← ' if lk[1] and not lk[0].startswith('→') else '')+lk[0] if not lk[0].startswith('→') else lk[0])
+            c.font=fa; c.alignment=wrap
+            if lk[1]:
+                c.hyperlink="#'%s'!B%d"%lk[1]; c.font=Font(name=F,size=10,color='0563C1',underline='single')
+    for col,wd in zip('ABCDEFG',[7,60,60,60,26,22,40]): w.column_dimensions[col].width=wd
+    w.freeze_panes='A3'; w.auto_filter.ref='A2:G%d'%(len(lst)+2)
 wb.save(SORTIE)
-print(len(rows),len(par))
+print(len(rows),len(par),'paires nom/description liées :',nb_paires)

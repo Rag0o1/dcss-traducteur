@@ -11,6 +11,9 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.17.15 — tableau : liens nom ↔ description
+- Tableau des traductions : nouvelle colonne « Lien nom ↔ description ». Sur la ligne d’un monstre, sort, mutation, objet, dieu… un clic mène à sa description, et inversement (environ 2 800 paires). Les paires viennent du jeu (`outils/paires_noms_descriptions.json`).
+
 ## 0.17.14 — tableau des traductions
 - Nouvel outil `outils/tableau_traductions.py` : génère un tableur Excel de toutes les traductions (un onglet par fichier, index cliquable, colonne « Ta correction ») pour les relire et les corriger plus facilement. Il est régénéré à chaque nouvelle version.
 

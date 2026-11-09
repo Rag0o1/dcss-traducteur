@@ -24,6 +24,7 @@ nouvelle version du jeu ou une autre langue. Il faut Python 3 et Node.js, et le 
      node outils/exporter.js
      python3 outils/tableau_traductions.py          (écrit ../DCSS-Traducteur-traductions.xlsx)
    -> un onglet par fichier de donnees/, plus un index ; la colonne jaune « Ta correction » sert à noter les corrections.
+   Colonne « Lien nom ↔ description » : paires lues dans outils/paires_noms_descriptions.json (extrait de dat/descript du jeu).
    À régénérer à chaque nouvelle version pour que le tableau reste à jour. Nécessite : pip install openpyxl
 
 Voir aussi GUIDE-NOUVELLE-VERSION.txt et GUIDE-AUTRES-LANGUES.txt.
