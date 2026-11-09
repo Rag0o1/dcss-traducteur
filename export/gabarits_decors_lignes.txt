@@ -1,0 +1,2 @@
+EN: You see @any_graffiti@ on the fountain.
+FR: Vous voyez des @any_graffiti@ sur la fontaine.

@@ -1,0 +1,578 @@
+EN: Sparks fly from your @hands@
+FR: Des étincelles jaillissent de vos @hands@
+
+EN: A strange surge of energy strikes you from nowhere
+FR: Un étrange afflux d’énergie vous frappe de nulle part
+
+EN: A wave of violent energy washes through your body
+FR: Une vague d’énergie violente traverse votre corps
+
+EN: Energy rips through your body
+FR: L’énergie déchire votre corps
+
+EN: You are caught in a violent explosion
+FR: Vous êtes pris dans une violente explosion
+
+EN: You are blasted with magical energy
+FR: Vous êtes frappé par de l’énergie magique
+
+EN: Sparks fly from @the_monster_possessive@ @hands@
+FR: Des étincelles jaillissent des @hands@ @M_d@
+
+EN: @The_monster@ emits a flash of light
+FR: @M_S@ émet un éclair de lumière
+
+EN: @The_monster@ lurches violently
+FR: @M_S@ tressaute violemment
+
+EN: @The_monster@ jerks violently
+FR: @M_S@ sursaute violemment
+
+EN: @The_monster@ is caught in a violent explosion
+FR: @M_S@ est pris@M_e@ dans une violente explosion
+
+EN: @The_monster@ is blasted with magical energy
+FR: @M_S@ est frappé@M_e@ par de l’énergie magique
+
+EN: A violent explosion happens from out of thin air
+FR: Une violente explosion survient de nulle part
+
+EN: There is a sudden explosion of magical energy
+FR: Une soudaine explosion d’énergie magique se produit
+
+EN: Multicoloured lights dance before your eyes
+FR: Des lumières multicolores dansent devant vos yeux
+
+EN: You feel a bit tired
+FR: Vous vous sentez un peu fatigué
+
+EN: The light around you dims momentarily
+FR: La lumière autour de vous faiblit un instant
+
+EN: You hear an indistinct dissonance whispering inside your mind
+FR: Vous entendez une dissonance indistincte chuchoter dans votre esprit
+
+EN: You feel a strange surge of energy
+FR: Vous sentez un étrange afflux d’énergie
+
+EN: Waves of @any_colour@ light ripple over your body
+FR: Des vagues de lumière @any_colour@ ondulent sur votre corps
+
+EN: You feel enfeebled
+FR: Vous vous sentez affaibli
+
+EN: Magic surges out from your body
+FR: La magie jaillit de votre corps
+
+EN: Multicoloured lights dance around @the_monster@
+FR: Des lumières multicolores dansent autour de @M_o@
+
+EN: @The_monster@ looks sleepy for a second
+FR: @M_S@ a l’air endormi@M_e@ un instant
+
+EN: The light around @the_monster@ dims momentarily
+FR: La lumière autour de @M_o@ faiblit un instant
+
+EN: @The_monster@ twitches
+FR: @M_S@ tressaille
+
+EN: @The_monster_possessive@ body glows momentarily
+FR: Le corps @M_d@ luit un instant
+
+EN: Waves of @any_colour@ light ripple over @the_monster_possessive@ body
+FR: Des vagues de lumière @any_colour@ ondulent sur le corps @M_d@
+
+EN: Magic surges out from @the_monster@
+FR: La magie jaillit @M_d@
+
+EN: Multicoloured lights dance in the air
+FR: Des lumières multicolores dansent dans l’air
+
+EN: A patch of light dims momentarily
+FR: Une tache de lumière faiblit un instant
+
+EN: Magic surges out from thin air
+FR: La magie jaillit de nulle part
+
+EN: A fistful of eyes flickers past your view
+FR: Une poignée d’yeux défile furtivement dans votre champ de vision
+
+EN: Distant voices call out in your mind
+FR: Des voix lointaines appellent dans votre esprit
+
+EN: Something forms from out of thin air
+FR: Quelque chose se forme à partir de rien
+
+EN: A chorus of moans calls out in your mind
+FR: Un chœur de gémissements appelle dans votre esprit
+
+EN: Desperate hands claw out at you
+FR: Des mains désespérées griffent vers vous
+
+EN: Desperate hands claw out at @the_monster@
+FR: Des mains désespérées griffent vers @M_o@
+
+EN: Desperate hands claw out at random
+FR: Des mains désespérées griffent au hasard
+
+EN: You hear strange and distant voices
+FR: Vous entendez d’étranges voix lointaines
+
+EN: The world around you seems to dim momentarily
+FR: Le monde autour de vous semble s’assombrir un instant
+
+EN: You feel as though something walked over your grave
+FR: Vous avez l’impression que quelque chose a marché sur votre tombe
+
+EN: You sense a malignant aura
+FR: Vous percevez une aura maligne
+
+EN: You feel very uncomfortable
+FR: Vous vous sentez très mal à l’aise
+
+EN: Pain shoots through your body
+FR: Une douleur fulgurante traverse votre corps
+
+EN: You feel horribly lethargic
+FR: Vous vous sentez horriblement léthargique
+
+EN: Your flesh rots away
+FR: Votre chair pourrit
+
+EN: Flickering shadows surround you
+FR: Des ombres vacillantes vous entourent
+
+EN: You are engulfed in negative energy
+FR: Vous êtes englouti par l’énergie négative
+
+EN: You convulse helplessly as pain tears through your body
+FR: Vous convulsez, impuissant, tandis que la douleur déchire votre corps
+
+EN: @The_monster@ twitches violently
+FR: @M_S@ tressaille violemment
+
+EN: @The_monster@ pauses, visibly distraught
+FR: @M_S@ s’arrête, visiblement bouleversé@M_e@
+
+EN: @The_monster@ seems to dim momentarily
+FR: @M_S@ semble s’assombrir un instant
+
+EN: @The_monster@ looks as though something walked over @possessive@ grave
+FR: @M_S@ a l’air d’avoir senti quelque chose marcher sur sa tombe
+
+EN: @The_monster@ is briefly tinged with black
+FR: @M_S@ se teinte brièvement de noir
+
+EN: @The_monster@ scowls horribly
+FR: @M_S@ fronce horriblement les sourcils
+
+EN: @The_monster@ convulses with pain
+FR: @M_S@ convulse de douleur
+
+EN: @The_monster@ looks incredibly listless
+FR: @M_S@ semble incroyablement apathique
+
+EN: @The_monster@ rots away
+FR: @M_S@ pourrit
+
+EN: Flickering shadows surround @the_monster@
+FR: Des ombres vacillantes entourent @M_o@
+
+EN: @The_monster@ is engulfed in negative energy
+FR: @M_S@ est englouti@M_e@ par l’énergie négative
+
+EN: @The_monster@ convulses helplessly with pain
+FR: @M_S@ convulse de douleur, impuissant@M_e@
+
+EN: @The_monster@ seems frightened for a moment
+FR: @M_S@ semble effrayé@M_e@ un instant
+
+EN: The air has a black tinge for a moment
+FR: L’air prend une teinte noire un instant
+
+EN: Shadows flicker in the thin air
+FR: Des ombres vacillent dans le vide
+
+EN: You catch a glimpse of the back of your own head
+FR: Vous apercevez l’arrière de votre propre tête
+
+EN: You feel a wrenching sensation
+FR: Vous ressentez une sensation d’arrachement
+
+EN: You feel off-balance for a moment
+FR: Vous perdez l’équilibre un instant
+
+EN: The floor and the ceiling briefly switch places
+FR: Le sol et le plafond échangent brièvement leurs places
+
+EN: You spin around
+FR: Vous tournoyez
+
+EN: The world appears momentarily distorted
+FR: Le monde semble déformé un instant
+
+EN: You are caught in a field of spatial distortion
+FR: Vous êtes pris dans un champ de distorsion spatiale
+
+EN: Space twists in upon itself
+FR: L’espace se tord sur lui-même
+
+EN: Space [bends|warps] [crazily |]around you
+FR: L’espace se [plie|déforme] [follement |]autour de vous
+
+EN: @The_monster@ jerks violently for a moment
+FR: @M_S@ sursaute violemment un instant
+
+EN: @The_monster@ looks off-balance for a moment
+FR: @M_S@ semble perdre l’équilibre un instant
+
+EN: @The_monster@ spins around
+FR: @M_S@ tournoie
+
+EN: @The_monster@ appears momentarily distorted
+FR: @M_S@ semble déformé@M_e@ un instant
+
+EN: @The_monster_possessive@ features rearrange themselves for a while
+FR: Les traits @M_d@ se réarrangent un moment
+
+EN: @The_monster@ is caught in a field of spatial distortion
+FR: @M_S@ est pris@M_e@ dans un champ de distorsion spatiale
+
+EN: Space [bends|warps] [crazily |]around @the_monster@
+FR: L’espace se [plie|déforme] [follement |]autour @M_d@
+
+EN: The space around something warps impossibly
+FR: L’espace autour de quelque chose se déforme de façon impossible
+
+EN: A piece of empty space twists and distorts
+FR: Un morceau d’espace vide se tord et se déforme
+
+EN: A rift temporarily opens in the fabric of space
+FR: Une faille s’ouvre temporairement dans le tissu de l’espace
+
+EN: [Cinders|Ashes] fly from your @hands@
+FR: [Des braises|Des cendres] jaillissent de vos @hands@
+
+EN: The air around you burns with energy
+FR: L’air autour de vous brûle d’énergie
+
+EN: Heat runs through your body
+FR: La chaleur parcourt votre corps
+
+EN: You feel uncomfortably hot
+FR: Vous avez désagréablement chaud
+
+EN: Fire whirls out from your @hands@
+FR: Du feu tourbillonne depuis vos @hands@
+
+EN: Flames sear your flesh
+FR: Des flammes brûlent votre chair
+
+EN: You are blasted with [searing |][fire|flames]
+FR: Vous êtes frappé par [un |][feu|des flammes]
+
+EN: You are caught in a fiery explosion
+FR: Vous êtes pris dans une explosion de feu
+
+EN: There is a sudden and violent explosion of flames
+FR: Une soudaine et violente explosion de flammes se produit
+
+EN: [Cinders|Ashes] fly from @the_monster_possessive@ @hands@
+FR: [Des braises|Des cendres] jaillissent des @hands@ @M_d@
+
+EN: The air around @the_monster@ burns with energy
+FR: L’air autour @M_d@ brûle d’énergie
+
+EN: Dim flames ripple over @the_monster_possessive@ body
+FR: De pâles flammes ondulent sur le corps @M_d@
+
+EN: Fire whirls out @the_monster_possessive@ @hands@
+FR: Du feu tourbillonne depuis les @hands@ @M_d@
+
+EN: Flames sear @the_monster@
+FR: Des flammes brûlent @M_o@
+
+EN: @The_monster@ is blasted with [searing |][fire|flames]
+FR: @M_S@ est frappé@M_e@ par [un |][feu|des flammes]
+
+EN: @The_monster@ is caught in a fiery explosion
+FR: @M_S@ est pris@M_e@ dans une explosion de feu
+
+EN: Fire whirls out of nowhere
+FR: Du feu tourbillonne de nulle part
+
+EN: A flame briefly burns in thin air
+FR: Une flamme brûle brièvement dans le vide
+
+EN: Fire explodes from out of thin air
+FR: Du feu explose de nulle part
+
+EN: A large flame burns hotly for a moment in the thin air
+FR: Une grande flamme brûle ardemment un instant dans le vide
+
+EN: You shiver with cold
+FR: Vous frissonnez de froid
+
+EN: A chill runs through your body
+FR: Un frisson parcourt votre corps
+
+EN: Your @hands@ feel@hand_conj@ numb with cold
+FR: Vos @hands@ sont engourdies de froid
+
+EN: You feel [a little bit|uncomfortably|extremely] cold
+FR: Vous avez [un peu|désagréablement|extrêmement] froid
+
+EN: [Ice|Frost] covers your body
+FR: [De la glace|Du givre] recouvre votre corps
+
+EN: You are encased in [ice|frost]
+FR: Vous êtes enfermé dans [la glace|le givre]
+
+EN: You are covered in a thin layer of [ice|frost]
+FR: Vous êtes couvert d’une fine couche de [glace|givre]
+
+EN: Heat is drained from your body
+FR: La chaleur est aspirée hors de votre corps
+
+EN: You are caught in an explosion of ice and frost
+FR: Vous êtes pris dans une explosion de glace et de givre
+
+EN: @The_monster@ shivers with cold
+FR: @M_S@ frissonne de froid
+
+EN: Frost covers @the_monster_possessive@ body
+FR: Du givre recouvre le corps @M_d@
+
+EN: @The_monster@ shivers
+FR: @M_S@ frissonne
+
+EN: @The_monster@ is covered in a thin layer of [ice|frost]
+FR: @M_S@ est couvert@M_e@ d’une fine couche de [glace|givre]
+
+EN: Heat is drained from @the_monster@
+FR: La chaleur est aspirée hors @M_d@
+
+EN: @The_monster@ is caught in an explosion of ice and frost
+FR: @M_S@ est pris@M_e@ dans une explosion de glace et de givre
+
+EN: @The_monster@ is encased in [ice|frost]
+FR: @M_S@ est enfermé@M_e@ dans [la glace|le givre]
+
+EN: Wisps of condensation drift in the air
+FR: Des volutes de condensation flottent dans l’air
+
+EN: Ice and frost explode from out of thin air
+FR: De la glace et du givre explosent de nulle part
+
+EN: An unseen figure is encased in [ice|frost]
+FR: Une silhouette invisible est enfermée dans [la glace|le givre]
+
+EN: Sparks of electricity dance around you
+FR: Des étincelles d’électricité dansent autour de vous
+
+EN: The air around you crackles with energy
+FR: L’air autour de vous crépite d’énergie
+
+EN: You are blasted with air
+FR: Vous êtes frappé par de l’air
+
+EN: There is a short, sharp shower of sparks
+FR: Une brève et vive gerbe d’étincelles jaillit
+
+EN: The wind whips around you
+FR: Le vent fouette autour de vous
+
+EN: You feel a sudden electric shock
+FR: Vous ressentez une soudaine décharge électrique
+
+EN: Electricity courses through your body
+FR: L’électricité parcourt votre corps
+
+EN: You are caught in an explosion of electrical discharges
+FR: Vous êtes pris dans une explosion de décharges électriques
+
+EN: @The_monster@ bobs in the air for a moment
+FR: @M_S@ se balance dans l’air un instant
+
+EN: Sparks of electricity dance between @the_monster_possessive@ @hands@
+FR: Des étincelles d’électricité dansent entre les @hands@ @M_d@
+
+EN: The air around @the_monster@ crackles with energy
+FR: L’air autour @M_d@ crépite d’énergie
+
+EN: @The_monster@ is blasted with air
+FR: @M_S@ est frappé@M_e@ par de l’air
+
+EN: @The_monster@ is briefly showered in sparks
+FR: @M_S@ est brièvement couvert@M_e@ d’étincelles
+
+EN: The wind whips around @the_monster@
+FR: Le vent fouette autour @M_d@
+
+EN: @The_monster@ is jolted
+FR: @M_S@ reçoit une secousse
+
+EN: @The_monster@ is caught in an explosion of electrical discharges
+FR: @M_S@ est pris@M_e@ dans une explosion de décharges électriques
+
+EN: @The_monster@ is struck by twisting air
+FR: @M_S@ est frappé@M_e@ par de l’air tourbillonnant
+
+EN: The wind whips up out of nowhere
+FR: Le vent se lève de nulle part
+
+EN: Something invisible sparkles with electricity
+FR: Quelque chose d’invisible étincelle d’électricité
+
+EN: The air around something crackles with energy
+FR: L’air autour de quelque chose crépite d’énergie
+
+EN: Electrical discharges explode from out of thin air
+FR: Des décharges électriques explosent de nulle part
+
+EN: The air madly twists around a spot
+FR: L’air se tord follement autour d’un point
+
+EN: [Sand|Gravel] pours from your @hands@
+FR: [Du sable|Du gravier] coule de vos @hands@
+
+EN: You feel a surge of energy from the ground
+FR: Vous sentez un afflux d’énergie venu du sol
+
+EN: The floor [shifts|shudders|quakes|rumbles] beneath you alarmingly
+FR: Le sol [bouge|frémit|tremble|gronde] sous vous de façon alarmante
+
+EN: You are hit by flying rocks
+FR: Vous êtes frappé par des rochers volants
+
+EN: You are blasted with sand
+FR: Vous êtes frappé par du sable
+
+EN: Rocks fall onto you out of nowhere
+FR: Des rochers vous tombent dessus de nulle part
+
+EN: You are caught in an explosion of flying shrapnel
+FR: Vous êtes pris dans une explosion d’éclats volants
+
+EN: [Sand|Gravel] pours from @the_monster_possessive@ @hands@
+FR: [Du sable|Du gravier] coule des @hands@ @M_d@
+
+EN: @The_monster@ is hit by flying rocks
+FR: @M_S@ est frappé@M_e@ par des rochers volants
+
+EN: @The_monster@ is blasted with sand
+FR: @M_S@ est frappé@M_e@ par du sable
+
+EN: Rocks fall onto @the_monster@ out of nowhere
+FR: Des rochers tombent sur @M_o@ de nulle part
+
+EN: @The_monster@ is caught in an explosion of flying shrapnel
+FR: @M_S@ est pris@M_e@ dans une explosion d’éclats volants
+
+EN: Flying rocks appear out of thin air
+FR: Des rochers volants apparaissent de nulle part
+
+EN: A miniature sandstorm briefly appears
+FR: Une minuscule tempête de sable apparaît brièvement
+
+EN: Rocks fall out of nowhere
+FR: Des rochers tombent de nulle part
+
+EN: Flying shrapnel explodes from thin air
+FR: Des éclats volants explosent de nulle part
+
+EN: You are engulfed in toxic fumes
+FR: Vous êtes englouti dans des fumées toxiques
+
+EN: There is a flash of cinnabar
+FR: Il y a un éclair de cinabre
+
+EN: [Mercury|Quicksilver|Fool's gold|Saltpeter|Sulphur|Liquid metal] flows from your @hands@
+FR: [Du mercure|Du vif-argent|De l’or des fous|Du salpêtre|Du soufre|Du métal liquide] coule de vos @hands@
+
+EN: Parts of your body briefly turn [golden|silvery|metallic|leaden|crystalline]
+FR: Des parties de votre corps deviennent brièvement [dorées|argentées|métalliques|plombées|cristallines]
+
+EN: You are overcome by clouds of @any_colour@ smoke
+FR: Vous êtes submergé par des nuages de fumée @any_colour@
+
+EN: The inside of your mouth momentarily tastes like @any_colour@
+FR: L’intérieur de votre bouche a brièvement le goût du @any_colour@
+
+EN: Your skin changes to @any_colour_pattern@
+FR: Votre peau se couvre de @any_colour_pattern@
+
+EN: You are surrounded by clouds of @any_glowing_colour@ dust
+FR: Vous êtes entouré de nuages de poussière @any_glowing_colour@
+
+EN: @The_monster@ is engulfed in toxic fumes
+FR: @M_S@ est englouti@M_e@ dans des fumées toxiques
+
+EN: @The_monster@ is [blasted|coated] with [cinnabar|sulphur] dust
+FR: @M_S@ est [frappé|couvert]@M_e@ de poussière de [cinabre|soufre]
+
+EN: @The_monster@ is coated in salt
+FR: @M_S@ est couvert@M_e@ de sel
+
+EN: @The_monster@ starts coughing violently
+FR: @M_S@ se met à tousser violemment
+
+EN: @The_monster@ looks incredibly sick
+FR: @M_S@ semble incroyablement malade
+
+EN: @The_monster@ is overcome by clouds of @any_colour@ smoke
+FR: @M_S@ est submergé@M_e@ par des nuages de fumée @any_colour@
+
+EN: @The_monster_possessive@ skin changes to @any_colour_pattern@
+FR: La peau @M_d@ se couvre de @any_colour_pattern@
+
+EN: @The_monster@ is surrounded by clouds of @any_glowing_colour@ dust
+FR: @M_S@ est entouré@M_e@ de nuages de poussière @any_glowing_colour@
+
+EN: The air has a green tinge for a moment
+FR: L’air prend une teinte verte un instant
+
+EN: Sulphurous heat explodes from thin air
+FR: Une chaleur sulfureuse explose de nulle part
+
+EN: An unseen figure is coated in salt
+FR: Une silhouette invisible est couverte de sel
+
+EN: You lose structural integrity
+FR: Vous perdez votre intégrité structurelle
+
+EN: You feel yourself deconstruct slightly
+FR: Vous sentez votre corps se déconstruire légèrement
+
+EN: A [buzzing|clanking|creaking|whirring] sound echoes in your mind
+FR: Un bruit de [bourdonnement|cliquetis|grincement|ronronnement] résonne dans votre esprit
+
+EN: Metal odds and ends fall onto you out of nowhere
+FR: Des bouts de métal vous tombent dessus de nulle part
+
+EN: You are covered in metallic shards
+FR: Vous êtes couvert d’éclats métalliques
+
+EN: You are caught in an explosion of metallic debris
+FR: Vous êtes pris dans une explosion de débris métalliques
+
+EN: @The_monster@ loses structural integrity
+FR: @M_S@ perd son intégrité structurelle
+
+EN: Metal odds and ends fall onto @the_monster@ out of nowhere
+FR: Des bouts de métal tombent sur @M_o@ de nulle part
+
+EN: @The_monster@ is covered in metallic shards
+FR: @M_S@ est couvert@M_e@ d’éclats métalliques
+
+EN: @The_monster@ is caught in an explosion of metallic debris
+FR: @M_S@ est pris@M_e@ dans une explosion de débris métalliques
+
+EN: Metal odds and ends rain from above
+FR: Des bouts de métal pleuvent d’en haut
+
+EN: An unseen figure is covered in metallic shards
+FR: Une silhouette invisible est couverte d’éclats métalliques
+
+EN: Metallic debris explodes from thin air
+FR: Des débris métalliques explosent de nulle part

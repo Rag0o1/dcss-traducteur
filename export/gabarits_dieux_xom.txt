@@ -1,0 +1,1403 @@
+EN: Xom snickers.
+FR: Xom ricane.
+
+EN: "How about this?"
+FR: « Et si on essayait ça ? »
+
+EN: "Let's try an experiment, hmmm?"
+FR: « Tentons une expérience, hmmm ? »
+
+EN: "I wonder... What does this button do?"
+FR: « Je me demande... À quoi sert ce bouton ? »
+
+EN: Xom grants you a gift!
+FR: Xom vous accorde un cadeau !
+
+EN: "Here."
+FR: « Tiens. »
+
+EN: Xom's generous nature manifests itself.
+FR: La générosité de Xom se manifeste.
+
+EN: Xom grants you an implement of some kind.
+FR: Xom vous accorde un outil quelconque.
+
+EN: "Take this instrument of something!"
+FR: « Prends cet instrument de quelque chose ! »
+
+EN: "Take this token of my esteem."
+FR: « Prends ce gage de mon estime. »
+
+EN: Xom smiles on you.
+FR: Xom vous sourit.
+
+EN: "Catch!"
+FR: « Attrape ! »
+
+EN: "Is this the Orb you wanted?"
+FR: « C’est bien l’Orbe que tu voulais ? »
+
+EN: "Many adventurers have sought this Orb."
+FR: « Bien des aventuriers ont cherché cet Orbe. »
+
+EN: "Ponder my incredible Orb!"
+FR: « Contemple mon incroyable Orbe ! »
+
+EN: "Serve the mortal, my child!"
+FR: « Sers le mortel, mon enfant ! »
+
+EN: "Serve the toy, my child!"
+FR: « Sers le jouet, mon enfant ! »
+
+EN: Xom opens a gate.
+FR: Xom ouvre un portail.
+
+EN: "Serve the mortal, my children!"
+FR: « Servez le mortel, mes enfants ! »
+
+EN: Xom grants you some temporary aid.
+FR: Xom vous accorde une aide temporaire.
+
+EN: Xom momentarily opens a gate.
+FR: Xom ouvre brièvement un portail.
+
+EN: "Time to have some fun!"
+FR: « C’est l’heure de s’amuser ! »
+
+EN: You hear Xom's maniacal laughter.
+FR: Vous entendez le rire dément de Xom.
+
+EN: Xom grants you a minor favour.
+FR: Xom vous accorde une faveur mineure.
+
+EN: Xom shows off a fistful of green thumbs.
+FR: Xom exhibe une poignée de pouces verts.
+
+EN: Xom spreads life in this Dungeon full of death.
+FR: Xom répand la vie dans ce Donjon plein de mort.
+
+EN: Xom incites some dramatic evolution in the adjacent floor mould.
+FR: Xom provoque une évolution spectaculaire de la moisissure voisine.
+
+EN: "It's alive! It's alive!"
+FR: « Elle est vivante ! Elle est vivante ! »
+
+EN: Xom adds fresh vegetables to this Dungeon dish.
+FR: Xom ajoute des légumes frais à ce plat du Donjon.
+
+EN: Xom plants some magic beans in the ground.
+FR: Xom plante des haricots magiques dans le sol.
+
+EN: Xom briefly touches your surroundings.
+FR: Xom touche brièvement les environs.
+
+EN: Xom complains about the scenery.
+FR: Xom se plaint du décor.
+
+EN: Xom alters the dungeon around you.
+FR: Xom modifie le donjon autour de vous.
+
+EN: Xom adds some personal touches to your environment.
+FR: Xom ajoute quelques touches personnelles à votre environnement.
+
+EN: "There, this looks better."
+FR: « Voilà, c’est mieux comme ça. »
+
+EN: "Just a minor improvement..."
+FR: « Juste une petite amélioration... »
+
+EN: Xom accidentally drops some snacks.
+FR: Xom laisse tomber des en-cas par accident.
+
+EN: Xom prepares the finest cultivars of fruit found anywhere, then drops them.
+FR: Xom prépare les meilleurs fruits qui soient, puis les laisse tomber.
+
+EN: Xom [offers|fetches] you some snacks.
+FR: Xom vous [offre|apporte] quelques en-cas.
+
+EN: Xom prepares a banquet formed from your trail of carnage through the Dungeon.
+FR: Xom prépare un banquet fait de la traînée de carnage que vous laissez dans le Donjon.
+
+EN: Xom offers some snacks, fresh out of the oven.
+FR: Xom offre des en-cas tout juste sortis du four.
+
+EN: Xom suggests a refreshing change of pace.
+FR: Xom suggère un changement de rythme rafraîchissant.
+
+EN: Xom tears open a few small holes in reality.
+FR: Xom déchire quelques petits trous dans la réalité.
+
+EN: Xom bends space into knots.
+FR: Xom noue l’espace.
+
+EN: A short distance around you seems to assume a strange safe solidity.
+FR: Les environs proches prennent une étrange solidité rassurante.
+
+EN: Xom creates a safe adventurer enclosure.
+FR: Xom crée un enclos sûr pour aventurier.
+
+EN: "Would you like some space to yourself, mortal?"
+FR: « Veux-tu un peu d’espace rien que pour toi, mortel ? »
+
+EN: Xom raises up and pulls in a makeshift [warmonger|duellist]'s arena.
+FR: Xom érige et referme une arène de fortune pour [belliciste|duelliste].
+
+EN: Xom locks you up as an exhibit to study.
+FR: Xom vous enferme comme pièce d’étude.
+
+EN: Xom constructs another @player_genus@ Petting Zoo.
+FR: Xom construit un nouveau zoo de contact pour @player_genus@.
+
+EN: Xom whisks you away into a realm of unfathomable savings!
+FR: Xom vous emporte dans un royaume d’économies insondables !
+
+EN: Xom casts you into... a shopping extravaganza?
+FR: Xom vous jette dans... une orgie de shopping ?
+
+EN: Xom offers you everything you could ever need (to amuse Xom).
+FR: Xom vous offre tout ce dont vous pourriez avoir besoin (pour amuser Xom).
+
+EN: Xom offers you everything you could ever need (in Xom's infallible divine judgment).
+FR: Xom vous offre tout ce dont vous pourriez avoir besoin (selon l’infaillible jugement divin de Xom).
+
+EN: The world spins wildly as Xom's jovial laughter rings.
+FR: Le monde tourbillonne tandis que résonne le rire jovial de Xom.
+
+EN: "Your coin purse has grown too comfortable in its little world, mortal!"
+FR: « Ta bourse est devenue trop à l’aise dans son petit monde, mortel ! »
+
+EN: Xom almost notices you.
+FR: Xom vous remarque presque.
+
+EN: Xom's attention almost turns to you for a moment.
+FR: L’attention de Xom se tourne presque vers vous un instant.
+
+EN: Xom's power almost touches on you for a moment.
+FR: Le pouvoir de Xom vous effleure presque un instant.
+
+EN: You almost hear Xom's maniacal laughter.
+FR: Vous entendez presque le rire dément de Xom.
+
+EN: @The_feature@ spits out sparks!
+FR: @The_feature@ crache des étincelles !
+
+EN: @The_feature@ briefly solidifies.
+FR: @The_feature@ se solidifie brièvement.
+
+EN: @The_feature@ briefly bubbles.
+FR: @The_feature@ bouillonne brièvement.
+
+EN: @The_feature@ briefly swirls.
+FR: @The_feature@ tourbillonne brièvement.
+
+EN: @The_feature@ briefly glows.
+FR: @The_feature@ luit brièvement.
+
+EN: @The_feature@ briefly glows @any_glowing_colour@.
+FR: @The_feature@ luit brièvement de @any_glowing_colour@.
+
+EN: @The_feature@ briefly flashes @any_colour@.
+FR: @The_feature@ lance brièvement un éclat de @any_colour@.
+
+EN: @The_feature@ briefly boils.
+FR: @The_feature@ bout brièvement.
+
+EN: @The_feature@ briefly freezes.
+FR: @The_feature@ gèle brièvement.
+
+EN: Off to the side, you spot something lurking in @the_feature@.
+FR: Sur le côté, vous repérez quelque chose qui rôde dans @the_feature@.
+
+EN: @The_feature@ briefly coagulates.
+FR: @The_feature@ se coagule brièvement.
+
+EN: @The_feature@ looks at you curiously.
+FR: @The_feature@ vous regarde avec curiosité.
+
+EN: @The_feature@ looks right through you.
+FR: @The_feature@ vous regarde sans vous voir.
+
+EN: Water briefly sprays from @the_feature@.
+FR: De l’eau jaillit brièvement de @the_feature@.
+
+EN: Sparkling water briefly sprays from @the_feature@.
+FR: De l’eau étincelante jaillit brièvement de @the_feature@.
+
+EN: Blood briefly sprays from @the_feature@.
+FR: Du sang jaillit brièvement de @the_feature@.
+
+EN: Dust puffs up from @the_feature@.
+FR: Un nuage de poussière s’élève de @the_feature@.
+
+EN: @The_feature@ turns to glare at you.
+FR: @The_feature@ se retourne pour vous fusiller du regard.
+
+EN: @The_feature@ turns to stare at you.
+FR: @The_feature@ se retourne pour vous dévisager.
+
+EN: @The_feature@ turns away from you.
+FR: @The_feature@ se détourne de vous.
+
+EN: @The_feature@ spins in place.
+FR: @The_feature@ tourne sur place.
+
+EN: @The_feature@ bends towards you.
+FR: @The_feature@ se penche vers vous.
+
+EN: @The_feature@ bends away from you.
+FR: @The_feature@ s’éloigne de vous en se penchant.
+
+EN: @The_feature@ sways in place.
+FR: @The_feature@ se balance sur place.
+
+EN: Dim shapes swim through @the_feature@.
+FR: De vagues silhouettes nagent à travers @the_feature@.
+
+EN: Faint @any_colour@ flames crawl over @the_feature@.
+FR: De pâles flammes @any_colour@ rampent sur @the_feature@.
+
+EN: @The_feature@ is briefly covered in @any_colour_pattern@.
+FR: @The_feature@ se couvre brièvement de @any_colour_pattern@.
+
+EN: @The_feature@ is briefly covered in @any_glowing_colour_pattern@.
+FR: @The_feature@ se couvre brièvement de @any_glowing_colour_pattern@.
+
+EN: @The_feature@ is briefly covered in @any_graffiti@.
+FR: @The_feature@ se couvre brièvement de @any_graffiti@.
+
+EN: Tendrils of electricity crawl over @the_feature@.
+FR: Des filaments d’électricité rampent sur @the_feature@.
+
+EN: @The_feature@ briefly appears tarnished.
+FR: @The_feature@ semble brièvement terni.
+
+EN: @The_feature@ briefly shows a sunny meadow on the other side.
+FR: @The_feature@ montre brièvement une prairie ensoleillée de l’autre côté.
+
+EN: @The_feature@ briefly shows a lifeless wasteland on the other side.
+FR: @The_feature@ montre brièvement une terre dévastée sans vie de l’autre côté.
+
+EN: @The_feature@ briefly shows strange @glowing_adj@ figures on the other side.
+FR: @The_feature@ montre brièvement d’étranges silhouettes @glowing_adj@ de l’autre côté.
+
+EN: @The_feature@ briefly shows bizarre @glowing_adj@ buildings on the other side.
+FR: @The_feature@ montre brièvement de bizarres bâtiments @glowing_adj@ de l’autre côté.
+
+EN: @The_feature@ briefly shows a translucent wall covered in @any_colour_pattern@ on the other side.
+FR: @The_feature@ montre brièvement un mur translucide couvert de @any_colour_pattern@ de l’autre côté.
+
+EN: @The_feature@ briefly shows a translucent wall covered in @any_glowing_colour_pattern@ on the other side.
+FR: @The_feature@ montre brièvement un mur translucide couvert de @any_glowing_colour_pattern@ de l’autre côté.
+
+EN: @The_feature@ briefly shows a translucent wall covered in @any_graffiti@ on the other side.
+FR: @The_feature@ montre brièvement un mur translucide couvert de @any_graffiti@ de l’autre côté.
+
+EN: @The_feature@ briefly shifts under you.
+FR: @The_feature@ bouge brièvement sous vous.
+
+EN: An imperceptible spirit brushes against @the_feature@ beside you.
+FR: Un esprit imperceptible frôle @the_feature@ à côté de vous.
+
+EN: @The_feature@ briefly recedes away from you.
+FR: @The_feature@ s’éloigne brièvement de vous.
+
+EN: An imperceptible spirit sends ripples through @the_feature@ beside you.
+FR: Un esprit imperceptible fait onduler @the_feature@ à côté de vous.
+
+EN: @The_feature@ seems to fall away from under you!
+FR: @The_feature@ semble se dérober sous vous !
+
+EN: @The_feature@ seems to rush up at you!
+FR: @The_feature@ semble se précipiter vers vous !
+
+EN: An imperceptible spirit flows into @the_feature@ beneath you.
+FR: Un esprit imperceptible s’écoule dans @the_feature@ sous vous.
+
+EN: @Your_item@ briefly glows.
+FR: @Your_item@ luit brièvement.
+
+EN: @Your_item@ briefly glows @any_glowing_colour@.
+FR: @Your_item@ luit brièvement de @any_glowing_colour@.
+
+EN: @Your_item@ briefly vibrates.
+FR: @Your_item@ vibre brièvement.
+
+EN: @Your_item@ briefly flashes @any_colour@.
+FR: @Your_item@ lance brièvement un éclat de @any_colour@.
+
+EN: One of @your_item@ briefly glows.
+FR: L’un de @your_item@ luit brièvement.
+
+EN: One of @your_item@ briefly glows @any_glowing_colour@.
+FR: L’un de @your_item@ luit brièvement de @any_glowing_colour@.
+
+EN: One of @your_item@ briefly vibrates.
+FR: L’un de @your_item@ vibre brièvement.
+
+EN: One of @your_item@ briefly flashes @any_colour@.
+FR: L’un de @your_item@ lance brièvement un éclat de @any_colour@.
+
+EN: @Your_item@ briefly glow.
+FR: @Your_item@ luisent brièvement.
+
+EN: @Your_item@ briefly glow @any_glowing_colour@.
+FR: @Your_item@ luisent brièvement de @any_glowing_colour@.
+
+EN: @Your_item@ briefly vibrate.
+FR: @Your_item@ vibrent brièvement.
+
+EN: @Your_item@ briefly flash @any_colour@.
+FR: @Your_item@ lancent brièvement un éclat de @any_colour@.
+
+EN: @Your_item@ falls out of your pack, then immediately jumps back in!
+FR: @Your_item@ tombe de votre sac, puis y saute aussitôt de nouveau !
+
+EN: One of @your_item@ falls out of your pack, then immediately jumps back in!
+FR: L’un de @your_item@ tombe de votre sac, puis y saute aussitôt de nouveau !
+
+EN: @Your_item@ fall out of your pack, then immediately jump back in!
+FR: @Your_item@ tombent de votre sac, puis y sautent aussitôt de nouveau !
+
+EN: You briefly get tangled in your bandages.
+FR: Vous vous emmêlez brièvement dans vos bandages.
+
+EN: You trip over your bandages.
+FR: Vous trébuchez sur vos bandages.
+
+EN: A monocle briefly appears over your eye.
+FR: Un monocle apparaît brièvement sur votre œil.
+
+EN: An eyepatch briefly covers your eye.
+FR: Un cache-œil recouvre brièvement votre œil.
+
+EN: A burst of @any_colour@ light briefly shoots from your eye!
+FR: Un éclair de lumière @any_colour@ jaillit brièvement de votre œil !
+
+EN: A monocle briefly appears over one of your eyes.
+FR: Un monocle apparaît brièvement sur l’un de vos yeux.
+
+EN: An eyepatch briefly covers one of your eyes.
+FR: Un cache-œil recouvre brièvement l’un de vos yeux.
+
+EN: Bursts of @any_colour@ light briefly shoot from your eyes!
+FR: Des éclairs de lumière @any_colour@ jaillissent brièvement de vos yeux !
+
+EN: Your ears flap wildly.
+FR: Vos oreilles battent frénétiquement.
+
+EN: Your ears wiggle.
+FR: Vos oreilles frétillent.
+
+EN: [Smoke|Steam] briefly shoots from your ears!
+FR: [De la fumée|De la vapeur] jaillit brièvement de vos oreilles !
+
+EN: Your mouth briefly shrinks away entirely.
+FR: Votre bouche rétrécit brièvement jusqu’à disparaître.
+
+EN: Your mouth briefly widens across your entire face.
+FR: Votre bouche s’élargit brièvement sur tout votre visage.
+
+EN: You briefly grow another mouth.
+FR: Une autre bouche vous pousse brièvement.
+
+EN: [Smoke|Steam] briefly pours from your mouth!
+FR: [De la fumée|De la vapeur] s’échappe brièvement de votre bouche !
+
+EN: Your eyebrows briefly feel incredibly bushy.
+FR: Vos sourcils vous semblent brièvement incroyablement touffus.
+
+EN: Your eyebrows wriggle.
+FR: Vos sourcils se tortillent.
+
+EN: You briefly grow a large moustache and beard.
+FR: Vous vous faites brièvement pousser une grosse moustache et une barbe.
+
+EN: You perform an impromptu @dance_name@.
+FR: Vous exécutez une danse improvisée : @dance_name@.
+
+EN: You do an impromptu @acrobatic_move_name@.
+FR: Vous faites une acrobatie improvisée : @acrobatic_move_name@.
+
+EN: You compulsively click your heels together @_xom_number_@ times.
+FR: Vous claquez compulsivement des talons @_xom_number_@ fois.
+
+EN: You compulsively stomp your @feet@ @_xom_number_@ times.
+FR: Vous piétinez compulsivement du sol @_xom_number_@ fois.
+
+EN: Your tail briefly retracts into your body.
+FR: Votre queue se rétracte brièvement dans votre corps.
+
+EN: Your tail briefly grows to an incredible length.
+FR: Votre queue atteint brièvement une longueur incroyable.
+
+EN: You briefly grow another tail.
+FR: Une autre queue vous pousse brièvement.
+
+EN: Your @random_body_part_internal_singular@ briefly wanders out of your body, then fuses itself back in!
+FR: Votre @random_body_part_internal_singular@ sort brièvement de votre corps, puis s’y refond !
+
+EN: Your @random_body_part_external_singular@ briefly jumps off your body, then reattaches itself!
+FR: Votre @random_body_part_external_singular@ saute brièvement hors de votre corps, puis se rattache !
+
+EN: Your @random_body_part_internal_plural@ briefly wander out of your body, then fuse themselves back in!
+FR: Vos @random_body_part_internal_plural@ sortent brièvement de votre corps, puis s’y refondent !
+
+EN: Your @random_body_part_external_plural@ briefly jump off your body, then reattach themselves!
+FR: Vos @random_body_part_external_plural@ sautent brièvement hors de votre corps, puis se rattachent !
+
+EN: A fancy cane briefly appears in your @hand@.
+FR: Une canne élégante apparaît brièvement dans votre @hand@.
+
+EN: You compulsively punch the air.
+FR: Vous frappez compulsivement dans le vide.
+
+EN: Two fancy canes briefly appear in your @hands@.
+FR: Deux cannes élégantes apparaissent brièvement dans vos @hands@.
+
+EN: You compulsively clap your @hands@ @_xom_number_@ times.
+FR: Vous applaudissez compulsivement @_xom_number_@ fois.
+
+EN: @Your_item@ billows in an unfelt wind.
+FR: @Your_item@ ondule dans un vent imperceptible.
+
+EN: @Your_item@ briefly wraps itself around your @head@!
+FR: @Your_item@ s’enroule brièvement autour de votre @head@ !
+
+EN: @Your_item@ is briefly covered in @any_glowing_colour_pattern@!
+FR: @Your_item@ se couvre brièvement de @any_glowing_colour_pattern@ !
+
+EN: @Your_item@ leaps into the air, briefly spins, then lands back on your @head@!
+FR: @Your_item@ bondit dans les airs, tournoie brièvement, puis retombe sur votre @head@ !
+
+EN: @Your_item@ spins!
+FR: @Your_item@ tournoie !
+
+EN: @Your_item@ briefly flashes @any_glowing_colour@!
+FR: @Your_item@ lance brièvement un éclat de @any_glowing_colour@ !
+
+EN: @Your_item@ briefly grows @_xom_number_@ extra fingers!
+FR: @Your_item@ se dote brièvement de @_xom_number_@ doigts supplémentaires !
+
+EN: @Your_item@ grows to a huge size, then shrinks back down!
+FR: @Your_item@ devient énorme, puis reprend sa taille !
+
+EN: @Your_item@ pulsates!
+FR: @Your_item@ pulse !
+
+EN: @Your_item@ flares @any_glowing_colour@, then returns to normal.
+FR: @Your_item@ flamboie de @any_glowing_colour@, puis redevient normal.
+
+EN: @Your_item@ briefly flies off and hovers over your @head@!
+FR: @Your_item@ s’envole brièvement et plane au-dessus de votre @head@ !
+
+EN: @Your_item@ jiggles!
+FR: @Your_item@ gigote !
+
+EN: @Your_item@ leaks @rainbow_colour@ smoke!
+FR: @Your_item@ laisse échapper une fumée @rainbow_colour@ !
+
+EN: @Your_item@ twitches!
+FR: @Your_item@ tressaille !
+
+EN: @Your_item@ briefly dulls, then brightens again!
+FR: @Your_item@ se ternit brièvement, puis se ravive !
+
+EN: @Your_item@ briefly brightens, then dulls again!
+FR: @Your_item@ s’illumine brièvement, puis se ternit !
+
+EN: The scales on @your_item@ wiggle briefly.
+FR: Les écailles de @your_item@ frétillent brièvement.
+
+EN: The fur on @your_item@ grows longer at an alarming rate, then retracts back to normal.
+FR: La fourrure de @your_item@ s’allonge à une vitesse alarmante, puis redevient normale.
+
+EN: @Your_item@ briefly grows fur, then returns to normal.
+FR: @Your_item@ se couvre brièvement de fourrure, puis redevient normal.
+
+EN: You briefly become tangled in @your_item@.
+FR: Vous vous emmêlez brièvement dans @your_item@.
+
+EN: @Your_item@ briefly appears rusty.
+FR: @Your_item@ semble brièvement rouillé.
+
+EN: Xom decides to rearrange the pieces.
+FR: Xom décide de réarranger les pièces.
+
+EN: "First here, now there."
+FR: « D’abord ici, maintenant là. »
+
+EN: "This might be better!"
+FR: « Ce sera peut-être mieux ! »
+
+EN: "This is how I like it!"
+FR: « C’est comme ça que je l’aime ! »
+
+EN: "Whee!"
+FR: « Youpi ! »
+
+EN: "Let's go for a ride!"
+FR: « Allons faire un tour ! »
+
+EN: "Where it stops, nobody knows!"
+FR: « Où ça s’arrêtera, personne ne sait ! »
+
+EN: Xom twists space around you.
+FR: Xom tord l’espace autour de vous.
+
+EN: "Heh heh heh..."
+FR: « Hé hé hé... »
+
+EN: Xom's power touches on your mind for a moment.
+FR: Le pouvoir de Xom effleure votre esprit un instant.
+
+EN: Xom titters.
+FR: Xom glousse.
+
+EN: "Stumble well, my pet!"
+FR: « Trébuche bien, mon petit ! »
+
+EN: Xom's power touches upon your body and mind for a moment.
+FR: Le pouvoir de Xom touche votre corps et votre esprit un instant.
+
+EN: "You have displeased me, mortal."
+FR: « Tu m’as déplu, mortel. »
+
+EN: "You have grown too confident for your meagre worth."
+FR: « Tu es devenu trop sûr de toi pour ta maigre valeur. »
+
+EN: Xom's power touches on you for a moment.
+FR: Le pouvoir de Xom vous touche un instant.
+
+EN: "Suffer!"
+FR: « Souffre ! »
+
+EN: Xom's malign attention turns to you for a moment.
+FR: L’attention malveillante de Xom se tourne vers vous un instant.
+
+EN: Xom torments the living!
+FR: Xom tourmente les vivants !
+
+EN: Xom spreads torment and darkness!
+FR: Xom répand le tourment et les ténèbres !
+
+EN: Xom unleashes waves of agony!
+FR: Xom déchaîne des vagues d’agonie !
+
+EN: Xom's malign attention turns towards your situation for a moment.
+FR: L’attention malveillante de Xom se tourne vers votre situation un instant.
+
+EN: The hand of Xom pokes all present souls.
+FR: La main de Xom pique toutes les âmes présentes.
+
+EN: "Fight to survive, mortal."
+FR: « Bats-toi pour survivre, mortel. »
+
+EN: "Let's see if it's strong enough to survive yet."
+FR: « Voyons s’il est déjà assez fort pour survivre. »
+
+EN: Xom feels like there should be more of you to share with the Dungeon.
+FR: Xom trouve qu’il devrait y avoir davantage de vous à partager avec le Donjon.
+
+EN: Xom gently smashes a mirror over your [@random_body_part_external_singular@|@random_body_part_external_plural@].
+FR: Xom brise doucement un miroir sur @~random_body_part_external_singular@.
+
+EN: "Multiply and go forth!"
+FR: « Multipliez-vous et avancez ! »
+
+EN: Xom displaces most of your magic for a moment.
+FR: Xom déplace l’essentiel de votre magie un instant.
+
+EN: Xom reveals to you one of the great and terrible secrets of magic.
+FR: Xom vous révèle l’un des grands et terribles secrets de la magie.
+
+EN: Xom curiously channels energy out of your body.
+FR: Xom puise curieusement de l’énergie hors de votre corps.
+
+EN: Xom picks up your mind and accidentally drops it.
+FR: Xom ramasse votre esprit et le laisse tomber par accident.
+
+EN: Xom gives you a terrible headache.
+FR: Xom vous donne un terrible mal de tête.
+
+EN: "You don't need this, do you?"
+FR: « Tu n’as pas besoin de ça, n’est-ce pas ? »
+
+EN: Your magic slithers out of your reeling mind!
+FR: Votre magie se glisse hors de votre esprit chancelant !
+
+EN: Your power and thoughts are overwhelmed by magic-eaters manifest!
+FR: Votre puissance et vos pensées sont submergées par des mangeurs de magie manifestés !
+
+EN: Your magic wrenches itself out of your [@random_body_part_internal_singular@|@random_body_part_internal_plural@]!
+FR: Votre magie s’arrache de @~random_body_part_internal_singular@ !
+
+EN: Your magic flows out through your [@random_body_part_external_singular@|@random_body_part_external_plural@]!
+FR: Votre magie s’écoule par @~random_body_part_external_singular@ !
+
+EN: Your magic rips itself out through your [@random_body_part_any_singular@|@random_body_part_any_plural@]!
+FR: Votre magie se déchire en sortant par @~random_body_part_any_singular@ !
+
+EN: "You have grown too comfortable in your little world, mortal!"
+FR: « Tu es devenu trop à l’aise dans ton petit monde, mortel ! »
+
+EN: Xom casts you into the Abyss!
+FR: Xom vous jette dans l’Abysse !
+
+EN: The world seems to spin as Xom's maniacal laughter rings.
+FR: Le monde semble tournoyer tandis que résonne le rire dément de Xom.
+
+EN: "Kidding!"
+FR: « Je plaisante ! »
+
+EN: "On second thoughts, though..."
+FR: « À la réflexion, pourtant... »
+
+EN: "No, I've changed my mind."
+FR: « Non, j’ai changé d’avis. »
+
+EN: Xom pulls you back into the comparable quietude of the dungeon.
+FR: Xom vous ramène dans la tranquillité relative du donjon.
+
+EN: "Get back here!"
+FR: « Reviens ici ! »
+
+EN: "No you don't!"
+FR: « Pas question ! »
+
+EN: Xom's power touches on a nearby weapon.
+FR: Le pouvoir de Xom touche une arme proche.
+
+EN: "Have a taste of chaos, mortal."
+FR: « Goûte au chaos, mortel. »
+
+EN: Xom chortles.
+FR: Xom ricane de plaisir.
+
+EN: Xom makes a sudden noise! You hear @weapon_noise@
+FR: Xom fait soudain un bruit ! Vous entendez @weapon_noise@
+
+EN: "Boo!"
+FR: « Bouh ! »
+
+EN: Xom does a drum roll.
+FR: Xom fait un roulement de tambour.
+
+EN: "Ka-crash!"
+FR: « Ka-crash ! »
+
+EN: "Let the forces of chaos tear it all down!"
+FR: « Que les forces du chaos fassent tout s’effondrer ! »
+
+EN: Xom reshapes the earth.
+FR: Xom remodèle la terre.
+
+EN: Xom reveals the great annihilating truth to the Dungeon's walls!
+FR: Xom révèle la grande vérité annihilante aux murs du Donjon !
+
+EN: "Over there now!"
+FR: « Là-bas, maintenant ! »
+
+EN: "Get over here!"
+FR: « Viens ici ! »
+
+EN: Xom decides to shift things around a little.
+FR: Xom décide de bousculer un peu les choses.
+
+EN: Xom speeds up the battle.
+FR: Xom accélère le combat.
+
+EN: Xom demands a faster pace.
+FR: Xom exige un rythme plus rapide.
+
+EN: "Hurry it up!"
+FR: « Dépêchez-vous ! »
+
+EN: Xom feels like nobody present is taking it easy enough.
+FR: Xom trouve que personne ici ne prend les choses assez doucement.
+
+EN: Xom bends time into knots.
+FR: Xom noue le temps.
+
+EN: "Don't be so hasty!"
+FR: « Ne soyez pas si pressés ! »
+
+EN: Xom stops everything to savour the moment.
+FR: Xom arrête tout pour savourer l’instant.
+
+EN: Xom stomps on time for a few moments.
+FR: Xom piétine le temps quelques instants.
+
+EN: Xom prepares the audience for the floor's solo!
+FR: Xom prépare le public au solo de l’étage !
+
+EN: Xom feels like this meagre party needs more guests.
+FR: Xom trouve que cette maigre fête manque d’invités.
+
+EN: Xom sends out highly concerning invitations.
+FR: Xom envoie des invitations très inquiétantes.
+
+EN: Xom demands a dramatic dialogue!
+FR: Xom exige un dialogue dramatique !
+
+EN: Xom grants a terrible voice to the voiceless.
+FR: Xom accorde une terrible voix à ceux qui n’en ont pas.
+
+EN: "Go forth and destroy!"
+FR: « Va et détruis ! »
+
+EN: "Go forth and cause havoc, mortal!"
+FR: « Va et sème le chaos, mortel ! »
+
+EN: "See what I see, my child!"
+FR: « Vois ce que je vois, mon enfant ! »
+
+EN: Xom grants you insight.
+FR: Xom vous accorde une intuition.
+
+EN: Xom smirks.
+FR: Xom sourit d’un air narquois.
+
+EN: Xom's power flows through you!
+FR: Le pouvoir de Xom vous traverse !
+
+EN: Xom plays with reality for a moment.
+FR: Xom joue avec la réalité un instant.
+
+EN: Xom guffaws.
+FR: Xom éclate d’un gros rire.
+
+EN: "Go forth and redecorate, my child!"
+FR: « Va redécorer, mon enfant ! »
+
+EN: "This place needs a little more atmosphere."
+FR: « Cet endroit manque un peu d’ambiance. »
+
+EN: "Hum-dee-hum-dee-hum..."
+FR: « Hum-di-hum-di-hum... »
+
+EN: Xom's power touches your surroundings.
+FR: Le pouvoir de Xom touche les environs.
+
+EN: You hear Xom's avuncular chuckle.
+FR: Vous entendez le gloussement bienveillant de Xom.
+
+EN: Xom recounts a horror story in an instant.
+FR: Xom raconte une histoire d’horreur en un instant.
+
+EN: Xom joyfully recalls the collapse of multiple Dungeon civilisations.
+FR: Xom évoque joyeusement l’effondrement de plusieurs civilisations du Donjon.
+
+EN: Xom folds spacetime into a dazzling origami [yak|yak|quokka|quokka|duck]!
+FR: Xom plie l’espace-temps en un éblouissant origami de [yak|yak|quokka|quokka|canard] !
+
+EN: Xom fills the local spatial manifold with blazing incandescence!
+FR: Xom emplit la variété spatiale locale d’une incandescence ardente !
+
+EN: Xom bedazzles everyone with quantum filament yo-yo tricks!
+FR: Xom éblouit tout le monde avec des tours de yo-yo à filaments quantiques !
+
+EN: Xom tears open a glimmering gravimetric shear!
+FR: Xom déchire un cisaillement gravimétrique scintillant !
+
+EN: Xom's Hand of Warping reaches out!
+FR: La Main de distorsion de Xom se tend !
+
+EN: Xom calls for a fanfare of bloodshed!
+FR: Xom réclame une fanfare de carnage !
+
+EN: Xom infuses your enemies with raw chaos!
+FR: Xom imprègne vos ennemis de chaos brut !
+
+EN: Xom incites a rapturous dance of death!
+FR: Xom incite à une extatique danse de mort !
+
+EN: "You need some minor adjustments, mortal!"
+FR: « Tu as besoin de quelques ajustements mineurs, mortel ! »
+
+EN: "Let me alter your pitiful body."
+FR: « Laisse-moi modifier ton pitoyable corps. »
+
+EN: You hear Xom's maniacal cackling.
+FR: Vous entendez le caquètement dément de Xom.
+
+EN: With a gout of [@rainbow_colour@|@misc_colour@] light, Xom rebuilds you.
+FR: Dans un jet de lumière @rainbow_colour@, Xom vous reconstruit.
+
+EN: "You need some minor improvements, mortal!"
+FR: « Tu as besoin de quelques améliorations mineures, mortel ! »
+
+EN: "Let me alter your body."
+FR: « Laisse-moi modifier ton corps. »
+
+EN: Xom's power brushes against you for a moment.
+FR: Le pouvoir de Xom vous frôle un instant.
+
+EN: With a flash of [@rainbow_colour@|@misc_colour@] light, Xom rebuilds you.
+FR: Dans un éclair de lumière @rainbow_colour@, Xom vous reconstruit.
+
+EN: The area is suffused with divine lightning!
+FR: La zone est baignée d’éclairs divins !
+
+EN: Xom hurls blasts of lightning!
+FR: Xom lance des décharges de foudre !
+
+EN: "Ready, aim, fire!"
+FR: « Prêts, visez, feu ! »
+
+EN: Xom transforms those around you.
+FR: Xom transforme ceux qui vous entourent.
+
+EN: "I like them better like this."
+FR: « Je les préfère comme ça. »
+
+EN: "Never liked these squiggly things."
+FR: « Je n’ai jamais aimé ces trucs tortueux. »
+
+EN: Xom touches your surroundings.
+FR: Xom touche les environs.
+
+EN: Xom [gleefully|mirthfully] wrecks local arachnid artwork.
+FR: Xom [joyeusement|gaiement] saccage l’art arachnéen local.
+
+EN: The light of Xom [brushes upon|sweeps through] your surroundings.
+FR: La lumière de Xom [effleure|balaie] les environs.
+
+EN: "Burn, baby, burn!"
+FR: « Brûle, bébé, brûle ! »
+
+EN: "Ka-boom!"
+FR: « Ka-boum ! »
+
+EN: Xom calls forth mighty explosions.
+FR: Xom invoque de puissantes explosions.
+
+EN: Xom rains down devastation!
+FR: Xom fait pleuvoir la dévastation !
+
+EN: Xom sneezes violently.
+FR: Xom éternue violemment.
+
+EN: "Feel my power!"
+FR: « Sens mon pouvoir ! »
+
+EN: Xom gives a demonstration of destructive might.
+FR: Xom fait une démonstration de puissance destructrice.
+
+EN: "Let it end in hellfire!"
+FR: « Que cela finisse dans les flammes de l’enfer ! »
+
+EN: Xom drops down a force battalion!
+FR: Xom largue un bataillon de force !
+
+EN: Xom calls in the force cavalry!
+FR: Xom appelle la cavalerie de force !
+
+EN: Xom lights up the force fireworks!
+FR: Xom allume le feu d’artifice de force !
+
+EN: Xom launches an entire fire-cart's barrage!
+FR: Xom lance le tir de barrage de tout un chariot de feu !
+
+EN: Xom manifests dramatic pipe organ chords!
+FR: Xom fait retentir de dramatiques accords d’orgue !
+
+EN: "Oops, I didn't mean to do that!"
+FR: « Oups, je ne voulais pas faire ça ! »
+
+EN: "How'd that happen? Weird."
+FR: « Comment c’est arrivé ? Bizarre. »
+
+EN: "Let me repair your body."
+FR: « Laisse-moi réparer ton corps. »
+
+EN: Xom tricks Death into leaving you alone.
+FR: Xom persuade la Mort de vous laisser tranquille.
+
+EN: Xom's maniacal laughter scares Death away.
+FR: Le rire dément de Xom fait fuir la Mort.
+
+EN: Xom's power revives you.
+FR: Le pouvoir de Xom vous ranime.
+
+EN: Xom brings you back to life.
+FR: Xom vous ramène à la vie.
+
+EN: "Toy, don't you die on me yet!"
+FR: « Jouet, ne meurs pas encore ! »
+
+EN: Xom saves you before everything goes @mono_colour@.
+FR: Xom vous sauve avant que tout ne devienne @mono_colour@.
+
+EN: "One more [life|try|go]."
+FR: « Encore [une vie|un essai|un tour]. »
+
+EN: Xom changes the scenery.
+FR: Xom change le décor.
+
+EN: Xom pokes at a nearby @staircase@.
+FR: Xom pique un @staircase@ proche.
+
+EN: Xom pushes on a nearby @staircase@.
+FR: Xom pousse un @staircase@ proche.
+
+EN: Xom pulls on a nearby @staircase@.
+FR: Xom tire sur un @staircase@ proche.
+
+EN: "Tag, you're it!"
+FR: « Touché, c’est toi le chat ! »
+
+EN: "Witness the rise of a true [hero|champion]!"
+FR: « Assistez à l’avènement d’un véritable [héros|champion] ! »
+
+EN: Xom demands grand glory in combat!
+FR: Xom exige une grande gloire au combat !
+
+EN: Xom's power very briefly touches upon your surroundings.
+FR: Le pouvoir de Xom touche très brièvement les environs.
+
+EN: You hear Xom's avuncular cackling.
+FR: Vous entendez le caquètement bienveillant de Xom.
+
+EN: Xom readies the chaos crusade!
+FR: Xom prépare la croisade du chaos !
+
+EN: Xom seizes a variety of puppet strings.
+FR: Xom saisit divers fils de marionnettes.
+
+EN: "Would you like more friends, my child?"
+FR: « Veux-tu plus d’amis, mon enfant ? »
+
+EN: Xom bribes nearby enemies with the offer of @_trout_species_@ trout.
+FR: Xom soudoie les ennemis proches en leur offrant @_trout_species_@.
+
+EN: The hand of Xom pokes present minds.
+FR: La main de Xom pique les esprits présents.
+
+EN: Xom shushes you conspicuously.
+FR: Xom vous fait taire ostensiblement.
+
+EN: Xom whispers: Shhh!
+FR: Xom chuchote : Chhhut !
+
+EN: "The weather's been a little too boring around here."
+FR: « Le temps est un peu trop ennuyeux par ici. »
+
+EN: Xom asks Qazlal to spice things up a little.
+FR: Xom demande à Qazlal de pimenter un peu les choses.
+
+EN: "Forecast: mostly cloudy."
+FR: « Prévisions : plutôt nuageux. »
+
+EN: "What? Wait, NO!"
+FR: « Quoi ? Attends, NON ! »
+
+EN: "Hey, things were just getting interesting!"
+FR: « Hé, ça commençait justement à devenir intéressant ! »
+
+EN: "NOOOOOOO, not my @_xom_plaything_@!"
+FR: « NOOOOOON, pas mon @_xom_plaything_@ ! »
+
+EN: "Not here, not now."
+FR: « Pas ici, pas maintenant. »
+
+EN: "Just one more try."
+FR: « Juste un essai de plus. »
+
+EN: Xom is feeling generous.
+FR: Xom se sent généreux.
+
+EN: "Hey, that's my @_xom_plaything_@!"
+FR: « Hé, c’est mon @_xom_plaything_@ ! »
+
+EN: "Oh, no, you don't!"
+FR: « Oh non, pas question ! »
+
+EN: "That's my @_xom_plaything_@, go get your own!"
+FR: « C’est mon @_xom_plaything_@, va t’en chercher un autre ! »
+
+EN: "Leave my @_xom_plaything_@ alone!"
+FR: « Laisse mon @_xom_plaything_@ tranquille ! »
+
+EN: Xom yawns loudly!
+FR: Xom bâille bruyamment !
+
+EN: "Boring in life, boring in death..."
+FR: « Ennuyeux dans la vie, ennuyeux dans la mort... »
+
+EN: "What!? That's it?"
+FR: « Quoi !? C’est tout ? »
+
+EN: "I guess I need a new plaything now."
+FR: « Je suppose qu’il me faut un nouveau jouet maintenant. »
+
+EN: "Huh? Did I miss anything?"
+FR: « Hein ? J’ai raté quelque chose ? »
+
+EN: "It was about time."
+FR: « Il était temps. »
+
+EN: "This toy is broken."
+FR: « Ce jouet est cassé. »
+
+EN: "It's all fun and games until someone loses an eye."
+FR: « Tout est drôle jusqu’à ce que quelqu’un perde un œil. »
+
+EN: "It's not fun and games unless someone loses an eye."
+FR: « Ce n’est drôle que si quelqu’un perd un œil. »
+
+EN: Xom guffaws!
+FR: Xom éclate d’un gros rire !
+
+EN: Xom roars with laughter!
+FR: Xom hurle de rire !
+
+EN: Xom thinks this is hilarious!
+FR: Xom trouve ça hilarant !
+
+EN: Xom is highly amused!
+FR: Xom est très amusé !
+
+EN: Xom cackles wildly!
+FR: Xom caquette sauvagement !
+
+EN: Xom snickers!
+FR: Xom ricane !
+
+EN: Xom laughs nastily!
+FR: Xom rit méchamment !
+
+EN: Xom howls with laughter!
+FR: Xom hurle de rire !
+
+EN: Xom bursts into laughter!
+FR: Xom éclate de rire !
+
+EN: Xom giggles madly!
+FR: Xom glousse comme un fou !
+
+EN: Xom titters!
+FR: Xom glousse !
+
+EN: Xom chuckles heartily!
+FR: Xom rit de bon cœur !
+
+EN: Xom chortles!
+FR: Xom ricane de plaisir !
+
+EN: Xom yawns.
+FR: Xom bâille.
+
+EN: "I wonder what else is on..."
+FR: « Je me demande ce qu’il y a d’autre à voir... »
+
+EN: Xom says: A new plaything!
+FR: Xom dit : Un nouveau jouet !
+
+EN: Xom says: I'm watching you, my @_xom_child_@ child.
+FR: Xom dit : Je t’ai à l’œil, mon @_xom_child_@.
+
+EN: Xom slaps you with @_trout_species_@ trout!
+FR: Xom vous gifle avec @_trout_species_@ !
+
+EN: "Amen!"
+FR: « Amen ! »
+
+EN: "Glory to Zin!"
+FR: « Gloire à Zin ! »
+
+EN: "And thus was it written."
+FR: « Ainsi fut-il écrit. »
+
+EN: "So sayeth Zin."
+FR: « Ainsi parle Zin. »
+
+EN: "Purity be upon you all."
+FR: « Que la pureté soit sur vous tous. »
+
+EN: "Written in blood; sealed by your death."
+FR: « Écrit dans le sang ; scellé par votre mort. »
+
+EN: "From Zin's mouth, by Zin's hand."
+FR: « De la bouche de Zin, par la main de Zin. »
+
+EN: "Thus shall it ever be."
+FR: « Ainsi en sera-t-il toujours. »
+
+EN: "In fire! In pain!"
+FR: « Dans le feu ! Dans la douleur ! »
+
+EN: "Attack, my last stalwart servants!"
+FR: « Attaquez, mes derniers fidèles serviteurs ! »
+
+EN: Ignis wails with rage, and rains down burning fury!
+FR: Ignis hurle de rage et fait pleuvoir une fureur brûlante !
+
+EN: Ignis calls forth spirits of fire to unmake you!
+FR: Ignis invoque des esprits de feu pour vous défaire !
+
+EN: "Burn! Burn until nothing is left!"
+FR: « Brûlez ! Brûlez jusqu’à ce qu’il ne reste plus rien ! »
+
+EN: "These will know how to inflict the punishment due to you!"
+FR: « Ceux-ci sauront infliger le châtiment qui vous est dû ! »
+
+EN: "Betrayer! Apostate! Perish!"
+FR: « Traître ! Apostat ! Périssez ! »
+
+EN: "With a thousand fires I burned cities, but these will suffice for you!"
+FR: « Avec mille feux j’ai brûlé des cités, mais ceux-ci suffiront pour vous ! »
+
+EN: "My hands, my teeth, my burning tears: these will never betray me!"
+FR: « Mes mains, mes dents, mes larmes brûlantes : ils ne me trahiront jamais ! »
+
+EN: "Kill. Kill. Kill!"
+FR: « Tue. Tue. Tue ! »
+
+EN: "More. More. More!"
+FR: « Encore. Encore. Encore ! »
+
+EN: "Another! And another! And another!"
+FR: « Un autre ! Et un autre ! Et un autre ! »
+
+EN: "Slaughter. Them. All!"
+FR: « Massacrez. Les. Tous ! »
+
+EN: "Everything deserves to die!"
+FR: « Tout mérite de mourir ! »
+
+EN: Ashenzari says: Partake of my vision. Partake of my curse.
+FR: Ashenzari dit : Partage ma vision. Partage ma malédiction.
+
+EN: Beogh says: Do not betray your orcish brethren!
+FR: Beogh dit : Ne trahis pas tes frères orques !
+
+EN: Beogh says: Show the world what it means to be an orc!
+FR: Beogh dit : Montre au monde ce que signifie être un orque !
+
+EN: Beware that a challenger has come seeking you in battle. Prove your devotion to me! Unite all my children beneath one banner!
+FR: Prends garde : un challenger est venu te chercher au combat. Prouve-moi ta dévotion ! Unis tous mes enfants sous une seule bannière !
+
+EN: The time has come, seeker, to test your mettle in combat. Prove yourself an orc! Join your true people!
+FR: Le moment est venu, chercheur, d’éprouver ta valeur au combat. Prouve que tu es un orque ! Rejoins ton vrai peuple !
+
+EN: Screw your courage to the sticking place, and face a challenge. Fight to survive! In the great war, all will be orcs!
+FR: Rassemble ton courage et affronte un défi. Bats-toi pour survivre ! Dans la grande guerre, tous seront orques !
+
+EN: Cheibriados says: Don't be so hasty!
+FR: Cheibriados dit : Ne sois pas si pressé !
+
+EN: Cheibriados says: Take it easy.
+FR: Cheibriados dit : Prends ton temps.
+
+EN: Cheibriados appreciates the motionlessness of death.
+FR: Cheibriados apprécie l’immobilité de la mort.
+
+EN: Dithmenos says: Walk in the dark places.
+FR: Dithmenos dit : Marche dans les lieux obscurs.
+
+EN: Elyvilon says: Be more diligent in your ministrations.
+FR: Elyvilon dit : Sois plus diligent dans tes soins.
+
+EN: Elyvilon says: Go forth and aid the weak!
+FR: Elyvilon dit : Va et aide les faibles !
+
+EN: Fedhas protests your encroaching upon nature.
+FR: Fedhas proteste contre votre empiètement sur la nature.
+
+EN: Fedhas says: Spread life and death.
+FR: Fedhas dit : Répands la vie et la mort.
+
+EN: Fedhas appreciates your contribution to the ecosystem.
+FR: Fedhas apprécie votre contribution à l’écosystème.
+
+EN: Gozag says: Greed is good.
+FR: Gozag dit : L’avidité est une bonne chose.
+
+EN: Hepliaklqana says: Your past becomes your present!
+FR: Hepliaklqana dit : Votre passé devient votre présent !
+
+EN: Hepliaklqana delivers you to your ancestors.
+FR: Hepliaklqana vous conduit auprès de vos ancêtres.
+
+EN: The flames of Ignis gently warm you.
+FR: Les flammes d’Ignis vous réchauffent doucement.
+
+EN: Ignis goes out, and joins you in death.
+FR: Ignis s’éteint et vous rejoint dans la mort.
+
+EN: Slime for the Slime God!
+FR: De la vase pour le Dieu de la Vase !
+
+EN: Long live the new flesh!
+FR: Vive la chair nouvelle !
+
+EN: Jiyva sends a jelly to digest your remains.
+FR: Jiyva envoie une gelée digérer votre dépouille.
+
+EN: Jiyva sends a jelly to digest your equipment.
+FR: Jiyva envoie une gelée digérer votre équipement.
+
+EN: Kikubaaqudgha says: Spread unending ruin and despair!
+FR: Kikubaaqudgha dit : Répands la ruine et le désespoir sans fin !
+
+EN: Kikubaaqudgha rasps: You have failed me! Welcome... death!
+FR: Kikubaaqudgha râle : Tu m’as déçu ! Bienvenue... à la mort !
+
+EN: Kikubaaqudgha rasps: You have failed me! Welcome... oblivion!
+FR: Kikubaaqudgha râle : Tu m’as déçu ! Bienvenue... à l’oubli !
+
+EN: Lugonu says: Spread carnage and corruption!
+FR: Lugonu dit : Répands le carnage et la corruption !
+
+EN: Lugonu says: Depart the Abyss and spread corruption, my servant!
+FR: Lugonu dit : Quitte l’Abysse et répands la corruption, mon serviteur !
+
+EN: Blood and souls for Makhleb!
+FR: Du sang et des âmes pour Makhleb !
+
+EN: Nemelex Xobeh says: It's all in the cards!
+FR: Nemelex Xobeh dit : Tout est dans les cartes !
+
+EN: Okawaru says: Regain your honour in battle!
+FR: Okawaru dit : Retrouve ton honneur au combat !
+
+EN: Okawaru says: Bring me glory in combat!
+FR: Okawaru dit : Apporte-moi la gloire au combat !
+
+EN: Pakellas says: That's one approach which won't work here.
+FR: Pakellas dit : Voilà une approche qui ne marchera pas ici.
+
+EN: Pakellas says: Disappointing results so far.
+FR: Pakellas dit : Des résultats décevants jusqu’ici.
+
+EN: Pakellas says: We may have to discontinue the experiment at this rate.
+FR: Pakellas dit : À ce rythme, nous devrons peut-être interrompre l’expérience.
+
+EN: Pakellas says: Do not stand in the way of progress!
+FR: Pakellas dit : Ne vous mettez pas en travers du progrès !
+
+EN: Pakellas says: Time to continue the experiment.
+FR: Pakellas dit : Il est temps de poursuivre l’expérience.
+
+EN: Pakellas says: Time to find some more test subjects.
+FR: Pakellas dit : Il est temps de trouver d’autres cobayes.
+
+EN: Pakellas says: Ready to try out some more devices?
+FR: Pakellas dit : Prêt à essayer d’autres dispositifs ?
+
+EN: Pakellas says: This is producing some very interesting results.
+FR: Pakellas dit : Cela donne des résultats très intéressants.
+
+EN: Pakellas says: What solutions will you come up with next?
+FR: Pakellas dit : Quelles solutions allez-vous trouver ensuite ?
+
+EN: Pakellas says: Progress or perish!
+FR: Pakellas dit : Le progrès ou la mort !
+
+EN: Pakellas says: No one tells a god not to play god!
+FR: Pakellas dit : Personne ne dit à un dieu de ne pas jouer à Dieu !
+
+EN: Pakellas says: They called me mad... well, we'll show them!
+FR: Pakellas dit : Ils m’ont traité de fou... eh bien, nous allons leur montrer !
+
+EN: Pakellas says: Back to the drawing board!
+FR: Pakellas dit : Retour à la planche à dessin !
+
+EN: Pakellas says: Good help is so hard to find these days!
+FR: Pakellas dit : Un bon assistant est si difficile à trouver de nos jours !
+
+EN: Pakellas says: Time to find a new assistant...
+FR: Pakellas dit : Il est temps de trouver un nouvel assistant...
+
+EN: Pakellas says: That's one more possible approach eliminated.
+FR: Pakellas dit : Encore une approche possible d’éliminée.
+
+EN: Pakellas says: Time to start the next experiment...
+FR: Pakellas dit : Il est temps de commencer la prochaine expérience...
+
+EN: Qazlal thunders: Do not interfere with the natural order!
+FR: Qazlal tonne : N’interfère pas avec l’ordre naturel !
+
+EN: Qazlal says: Let the forces of nature tear it all down!
+FR: Qazlal dit : Que les forces de la nature fassent tout s’effondrer !
+
+EN: Ru says: Cut away your false body!
+FR: Ru dit : Tranche ton faux corps !
+
+EN: Ru respects your ultimate sacrifice.
+FR: Ru respecte votre sacrifice ultime.
+
+EN: Sif Muna says: Seek out more knowledge and wisdom.
+FR: Sif Muna dit : Cherche davantage de savoir et de sagesse.
+
+EN: Sif Muna whispers: I know many secrets...
+FR: Sif Muna chuchote : Je connais de nombreux secrets...
+
+EN: The Shining One says: Being a martyr may wash away your sin!
+FR: The Shining One dit : Être un martyr peut laver ton péché !
+
+EN: The Shining One says: Lead the forces of light to victory!
+FR: The Shining One dit : Mène les forces de la lumière à la victoire !
+
+EN: Trog rages: Kill them all!
+FR: Trog rugit : Tuez-les tous !
+
+EN: Trog says: Kill them all!
+FR: Trog dit : Tuez-les tous !
+
+EN: Uskayaw says: Surrender yourself to the rhythm!
+FR: Uskayaw dit : Abandonne-toi au rythme !
+
+EN: Your body falls in perfect tune with the rhythm.
+FR: Votre corps tombe en parfaite harmonie avec le rythme.
+
+EN: Vehumet says: Let it end in hellfire!
+FR: Vehumet dit : Que cela finisse dans les flammes de l’enfer !
+
+EN: The Council says: Follow the path of wisdom and battle!
+FR: Le Conseil dit : Suis la voie de la sagesse et du combat !
+
+EN: Yredelemnul says: All are equal in death! Holy martyrdom means nothing!
+FR: Yredelemnul dit : Tous sont égaux dans la mort ! Le saint martyre ne signifie rien !
+
+EN: Yredelemnul says: Carry the black torch! Rouse the idle dead!
+FR: Yredelemnul dit : Porte la torche noire ! Réveille les morts oisifs !
+
+EN: Your body rises from the dead as a mindless zombie.
+FR: Votre corps se relève d’entre les morts en zombie sans esprit.
+
+EN: You join the legions of the undead harvest.
+FR: Vous rejoignez les légions de la moisson des morts-vivants.
+
+EN: Your body vanishes in a gout of umbral fire.
+FR: Votre corps disparaît dans un jet de feu ombral.
+
+EN: Zin castigates you for your disobedience of the Law.
+FR: Zin vous réprimande pour votre désobéissance à la Loi.
+
+EN: Zin says: Spread the light, my child.
+FR: Zin dit : Répands la lumière, mon enfant.
+
+EN: Zot has found you!
+FR: Zot vous a trouvé !
+
+EN: Zot unmakes you!
+FR: Zot vous défait !
+
+EN: Zot excises you from existence.
+FR: Zot vous retranche de l’existence.
+
+EN: Zot touches you for a single instant, and you cease to be.
+FR: Zot vous touche l’espace d’un instant, et vous cessez d’être.
+
+EN: Zot's tendrils burst from within you!
+FR: Les tentacules de Zot jaillissent de votre intérieur !
+
+EN: Zot's will forges a new reality, without you in it.
+FR: La volonté de Zot forge une nouvelle réalité, sans vous.
+
+EN: Zot snuffs you out like a light.
+FR: Zot vous éteint comme une lumière.
+
+EN: Zot's power takes hold, and you dissolve into a dark mist.
+FR: Le pouvoir de Zot s’empare de vous, et vous vous dissolvez en une sombre brume.

@@ -1,0 +1,2525 @@
+EN: [_graffiti_author_any_] @ancestor name@
+FR: @ancestor name@
+
+EN: [_graffiti_author_any_] @_graffiti_author_orc_@
+FR: @_graffiti_author_orc_@
+
+EN: [_graffiti_author_any_] @_graffiti_author_bland_@
+FR: @_graffiti_author_bland_@
+
+EN: [_graffiti_author_any_] @RANDGEN@
+FR: @RANDGEN@
+
+EN: [_graffiti_author_any_] @_rare_graffiti_author_any_@
+FR: @_rare_graffiti_author_any_@
+
+EN: [_graffiti_author_any_changeable_] @ancestor name@
+FR: @ancestor name@
+
+EN: [_graffiti_author_any_changeable_] @_graffiti_author_bland_@
+FR: @_graffiti_author_bland_@
+
+EN: [_graffiti_author_any_changeable_] @RANDGEN@
+FR: @RANDGEN@
+
+EN: [_graffiti_author_any_changeable_non-randgen_] @ancestor name@
+FR: @ancestor name@
+
+EN: [_graffiti_author_any_changeable_non-randgen_] @_graffiti_author_bland_@
+FR: @_graffiti_author_bland_@
+
+EN: [_graffiti_author_any_non-orc_] @ancestor name@
+FR: @ancestor name@
+
+EN: [_graffiti_author_any_non-orc_] @_graffiti_author_bland_@
+FR: @_graffiti_author_bland_@
+
+EN: [_graffiti_author_any_non-orc_] @RANDGEN@
+FR: @RANDGEN@
+
+EN: [_graffiti_author_any_non-orc_] @_rare_graffiti_author_any_non-orc_@
+FR: @_rare_graffiti_author_any_non-orc_@
+
+EN: [_graffiti_author_bland_] @bland name@
+FR: @bland name@
+
+EN: [_graffiti_author_bland_] @bland name@ (not that one)
+FR: @bland name@ (pas celui-là)
+
+EN: [_graffiti_author_bland_] @bland name@ (the other one)
+FR: @bland name@ (l’autre)
+
+EN: [_graffiti_author_bland_] @bland name@ (yes, that one)
+FR: @bland name@ (oui, celui-là)
+
+EN: [_graffiti_author_orc_] @any orc name@ the orc
+FR: @any orc name@ l’orc
+
+EN: [_rare_graffiti_author_any_] @_rare_graffiti_author_ordinary_@
+FR: @_rare_graffiti_author_ordinary_@
+
+EN: [_rare_graffiti_author_any_] @_rare_graffiti_author_orc_@
+FR: @_rare_graffiti_author_orc_@
+
+EN: [_rare_graffiti_author_any_] @_rare_graffiti_author_title_@
+FR: @_rare_graffiti_author_title_@
+
+EN: [_rare_graffiti_author_any_] @_rare_graffiti_author_god_@
+FR: @_rare_graffiti_author_god_@
+
+EN: [_rare_graffiti_author_any_non-orc_] @_rare_graffiti_author_ordinary_@
+FR: @_rare_graffiti_author_ordinary_@
+
+EN: [_rare_graffiti_author_any_non-orc_] @_rare_graffiti_author_title_@
+FR: @_rare_graffiti_author_title_@
+
+EN: [_rare_graffiti_author_any_non-orc_] @_rare_graffiti_author_god_@
+FR: @_rare_graffiti_author_god_@
+
+EN: [_rare_graffiti_author_god_] Woog the god
+FR: Woog le dieu
+
+EN: [_rare_graffiti_author_orc_] Spartorcus the orc
+FR: Spartorcus l’orc
+
+EN: [_rare_graffiti_author_ordinary_] Durwent the kobold
+FR: Durwent le kobold
+
+EN: [_rare_graffiti_author_ordinary_] Zlaz the goblin
+FR: Zlaz le gobelin
+
+EN: [_rare_graffiti_author_ordinary_] Fneeb the oni
+FR: Fneeb l’oni
+
+EN: [_rare_graffiti_author_ordinary_] Vethion the elf
+FR: Vethion l’elfe
+
+EN: [_rare_graffiti_author_ordinary_] Frobof the imp
+FR: Frobof le diablotin
+
+EN: [_rare_graffiti_author_title_] Kilroy
+FR: Kilroy
+
+EN: [_rare_graffiti_author_title_] Garc the Great
+FR: Garc le Grand
+
+EN: [_rare_graffiti_author_title_] Plog the Peerless
+FR: Plog l’Incomparable
+
+EN: [_rare_graffiti_author_title_] Dead Wendell
+FR: Wendell le Mort
+
+EN: [_rare_graffiti_author_title_] Lady Dreamflight
+FR: Dame Ailerêve
+
+EN: [_pattern_type_] @any_colour_pattern@
+FR: @any_colour_pattern@
+
+EN: [_pattern_type_] @any_glowing_colour_pattern@
+FR: @any_glowing_colour_pattern@
+
+EN: [_writing_adj_] angular
+FR: anguleux/anguleuse
+
+EN: [_writing_adj_] blocky
+FR: carré/carrée
+
+EN: [_writing_adj_] bold
+FR: gras/grasse
+
+EN: [_writing_adj_] curvy
+FR: arrondi/arrondie
+
+EN: [_writing_adj_] flowing
+FR: fluide
+
+EN: [_writing_adj_] jagged
+FR: dentelé/dentelée
+
+EN: [_writing_adj_] pulsating
+FR: pulsant/pulsante
+
+EN: [_writing_adj_] shifting
+FR: changeant/changeante
+
+EN: [_writing_adj_] sinuous
+FR: sinueux/sinueuse
+
+EN: [_writing_adj_] sloping
+FR: penché/penchée
+
+EN: [_writing_adj_] spidery
+FR: filiforme
+
+EN: [_writing_adj_] swirling
+FR: tourbillonnant/tourbillonnante
+
+EN: [_writing_adj_] throbbing
+FR: palpitant/palpitante
+
+EN: [_writing_adj_] twitching
+FR: frémissant/frémissante
+
+EN: [_writing_adj_] writhing
+FR: contorsionné/contorsionnée
+
+EN: [_writing_noun_] binary code
+FR: code binaire{ms}
+
+EN: [_writing_noun_] characters
+FR: caractères{mp}
+
+EN: [_writing_noun_] cuneiform
+FR: cunéiformes{mp}
+
+EN: [_writing_noun_] figures
+FR: figures{fp}
+
+EN: [_writing_noun_] glyphs
+FR: glyphes{mp}
+
+EN: [_writing_noun_] hieroglyphics
+FR: hiéroglyphes{mp}
+
+EN: [_writing_noun_] ideograms
+FR: idéogrammes{mp}
+
+EN: [_writing_noun_] letters
+FR: lettres{fp}
+
+EN: [_writing_noun_] print-out
+FR: listing{ms}
+
+EN: [_writing_noun_] runes
+FR: runes{fp}
+
+EN: [_writing_noun_] scrawl
+FR: gribouillis{mp}
+
+EN: [_writing_noun_] sigils
+FR: sceaux magiques{mp}
+
+EN: [_writing_noun_] symbols
+FR: symboles{mp}
+
+EN: [_writing_noun_] text
+FR: texte{ms}
+
+EN: [_writing_noun_] writing
+FR: écriture{fs}
+
+EN: [_writing_style_] @any_colour@
+FR: @any_colour@
+
+EN: [_writing_style_] @_writing_adj_@ @any_colour@
+FR: @any_colour@ @_writing_adj_@
+
+EN: [_writing_style_] @any_glowing_colour@
+FR: @any_glowing_colour@
+
+EN: [_writing_type_] @_writing_style_@ @_writing_noun_@
+FR: @_writing_noun_@ @_writing_style_@
+
+EN: [_graffiti_type_] @_writing_style_@ graffiti
+FR: graffitis{mp} @_writing_style_@
+
+EN: [_graffiti_type_with_signature_maybe_] @_graffiti_type_@
+FR: @_graffiti_type_@
+
+EN: [_graffiti_type_with_signature_maybe_] @_graffiti_type_@ signed by @_graffiti_author_any_@
+FR: @_graffiti_type_@ signés par @_graffiti_author_any_@
+
+EN: [_graffiti_type_with_signature_maybe_non-orc_] @_graffiti_type_@
+FR: @_graffiti_type_@
+
+EN: [_graffiti_type_with_signature_maybe_non-orc_] @_graffiti_type_@ signed by @_graffiti_author_any_non-orc_@
+FR: @_graffiti_type_@ signés par @_graffiti_author_any_non-orc_@
+
+EN: [_graffiti_type_with_signature_maybe_orc_] @_graffiti_type_@
+FR: @_graffiti_type_@
+
+EN: [_graffiti_type_with_signature_maybe_orc_] @_graffiti_type_@ signed by @_graffiti_author_orc_@
+FR: @_graffiti_type_@ signés par @_graffiti_author_orc_@
+
+EN: [_graffiti_advertisement_] advertising a meeting @_graffiti_mass_meeting_ordinary_@
+FR: annonçant une réunion @_graffiti_mass_meeting_ordinary_@
+
+EN: [_graffiti_advertisement_] advertising a meeting @_graffiti_mass_meeting_religious_@
+FR: annonçant une réunion @_graffiti_mass_meeting_religious_@
+
+EN: [_graffiti_advertisement_] advertising a shop in the dungeon with [cheap|exclusive|expensive|quality|rare|useful] goods
+FR: annonçant une boutique du donjon aux marchandises [bon marché|exclusives|chères|de qualité|rares|utiles]
+
+EN: [_graffiti_advertisement_] advertising @_graffiti_class_any_@
+FR: annonçant @_graffiti_class_any_@
+
+EN: [_graffiti_advertisement_] advertising a meet-up with @_graffiti_author_any_@ to learn how to survive in the dungeon
+FR: annonçant une rencontre avec @_graffiti_author_any_@ pour apprendre à survivre dans le donjon
+
+EN: [_graffiti_advertisement_] advertising a meet-up with @_graffiti_author_any_@ for a good time
+FR: annonçant une rencontre avec @_graffiti_author_any_@ pour passer du bon temps
+
+EN: [_graffiti_advertisement_] advertising the very paint used to make it
+FR: annonçant la peinture même utilisée pour les réaliser
+
+EN: [_graffiti_changed_names_] @_graffiti_author_any_changeable_@ has changed names and now goes by @_graffiti_author_any_changeable_@
+FR: @_graffiti_author_any_changeable_@ a changé de nom et s’appelle désormais @_graffiti_author_any_changeable_@
+
+EN: [_graffiti_changed_names_] @_graffiti_author_orc_@ has changed names and now goes by @_graffiti_author_orc_@
+FR: @_graffiti_author_orc_@ a changé de nom et s’appelle désormais @_graffiti_author_orc_@
+
+EN: [_graffiti_changed_names_] @_rare_graffiti_author_any_@ has passed on the name to someone else worthy of it
+FR: @_rare_graffiti_author_any_@ a transmis son nom à quelqu’un d’autre qui en est digne
+
+EN: [_graffiti_changed_names_] @_graffiti_author_any_changeable_non-randgen_@ has changed names due to Xom's influence and now goes by @RANDGEN@
+FR: @_graffiti_author_any_changeable_non-randgen_@ a changé de nom sous l’influence de Xom et s’appelle désormais @RANDGEN@
+
+EN: [_graffiti_changed_or_compared_religions_] @_graffiti_author_any_@ has abandoned @random_god@
+FR: @_graffiti_author_any_@ a abandonné @random_god@
+
+EN: [_graffiti_changed_or_compared_religions_] @_graffiti_author_any_@ has converted away from @random_god@
+FR: @_graffiti_author_any_@ s’est détourné de @random_god@
+
+EN: [_graffiti_changed_or_compared_religions_] @_graffiti_author_any_@ has converted to @random_god@
+FR: @_graffiti_author_any_@ s’est converti à @random_god@
+
+EN: [_graffiti_changed_or_compared_religions_] @_graffiti_author_any_@ is @_graffiti_religion_better_or_worse_@ than @_graffiti_author_any_@
+FR: @_graffiti_author_any_@ est @_graffiti_religion_better_or_worse_@ que @_graffiti_author_any_@
+
+EN: [_graffiti_changed_or_compared_religions_] @_graffiti_author_any_@ is secretly an atheist
+FR: @_graffiti_author_any_@ est en secret athée
+
+EN: [_graffiti_changed_or_compared_religions_] @_graffiti_author_any_@ is secretly not an atheist
+FR: @_graffiti_author_any_@ n’est en secret pas athée
+
+EN: [_graffiti_changed_or_compared_religions_] @_graffiti_author_any_@ is secretly @random_god@
+FR: @_graffiti_author_any_@ est en secret @random_god@
+
+EN: [_graffiti_changed_or_compared_religions_] @_graffiti_author_any_@ secretly worships Zin
+FR: @_graffiti_author_any_@ vénère en secret Zin
+
+EN: [_graffiti_changed_or_compared_religions_] @_graffiti_author_any_@ secretly worships Zin instead of @random_god_chaotic@
+FR: @_graffiti_author_any_@ vénère en secret Zin plutôt que @random_god_chaotic@
+
+EN: [_graffiti_changed_or_compared_religions_] @_graffiti_author_any_@ secretly worships @random_god_chaotic@
+FR: @_graffiti_author_any_@ vénère en secret @random_god_chaotic@
+
+EN: [_graffiti_changed_or_compared_religions_] @_graffiti_author_any_@ secretly worships @random_god_chaotic@ instead of Zin
+FR: @_graffiti_author_any_@ vénère en secret @random_god_chaotic@ plutôt que Zin
+
+EN: [_graffiti_changed_or_compared_religions_] @_graffiti_author_any_@ secretly worships @random_god_good@
+FR: @_graffiti_author_any_@ vénère en secret @random_god_good@
+
+EN: [_graffiti_changed_or_compared_religions_] @_graffiti_author_any_@ secretly worships @random_god_good@ instead of @random_god_evil@
+FR: @_graffiti_author_any_@ vénère en secret @random_god_good@ plutôt que @random_god_evil@
+
+EN: [_graffiti_changed_or_compared_religions_] @_graffiti_author_any_@ secretly worships @random_god_evil@
+FR: @_graffiti_author_any_@ vénère en secret @random_god_evil@
+
+EN: [_graffiti_changed_or_compared_religions_] @_graffiti_author_any_@ secretly worships @random_god_evil@ instead of @random_god_good@
+FR: @_graffiti_author_any_@ vénère en secret @random_god_evil@ plutôt que @random_god_good@
+
+EN: [_graffiti_changed_or_compared_religions_] @_graffiti_author_any_@ is secretly @_graffiti_hailed_god_@
+FR: @_graffiti_author_any_@ est en secret @_graffiti_hailed_god_@
+
+EN: [_graffiti_changed_or_compared_religions_] @_graffiti_author_any_@ secretly worships @_graffiti_hailed_god_@
+FR: @_graffiti_author_any_@ vénère en secret @_graffiti_hailed_god_@
+
+EN: [_graffiti_class_any_] @_graffiti_class_remedial_@
+FR: @_graffiti_class_remedial_@
+
+EN: [_graffiti_class_any_] @_graffiti_class_master_@
+FR: @_graffiti_class_master_@
+
+EN: [_graffiti_class_master_] a master class on excavation taught by formicids
+FR: un cours magistral d’excavation donné par des formicides
+
+EN: [_graffiti_class_master_] a master class on insults taught by [demons|imps]
+FR: un cours magistral d’insultes donné par des [démons|diablotins]
+
+EN: [_graffiti_class_master_] a master class on the many uses of giant clubs taught by [ogres|oni]
+FR: un cours magistral sur les nombreux usages des gros gourdins donné par des [ogres|oni]
+
+EN: [_graffiti_class_master_] a master class on Unarmed Combat taught by felids
+FR: un cours magistral de Combat à mains nues donné par des félins
+
+EN: [_graffiti_class_master_] a master class on [art|calligraphy] taught by anonymous graffiti authors
+FR: un cours magistral d’[art|calligraphie] donné par des auteurs de graffitis anonymes
+
+EN: [_graffiti_class_remedial_] a Remedial @random_skill@ class taught by @_graffiti_professor_@
+FR: un cours de rattrapage de @random_skill@ donné par @_graffiti_professor_@
+
+EN: [_graffiti_class_remedial_] a Remedial @random_skill_magic@ class taught by the @_graffiti_professor_magic_type_@ @_graffiti_professor_@
+FR: un cours de rattrapage de @random_skill_magic@ donné par le @_graffiti_professor_magic_type_@ @_graffiti_professor_@
+
+EN: [_graffiti_class_remedial_] a Remedial @random_skill_mundane@ class taught by the @_graffiti_professor_mundane_type_@ @_graffiti_professor_@
+FR: un cours de rattrapage de @random_skill_mundane@ donné par le @_graffiti_professor_mundane_type_@ @_graffiti_professor_@
+
+EN: [_graffiti_class_remedial_] a Remedial Evocations class taught by the @_graffiti_professor_evocations_type_@ @_graffiti_professor_@
+FR: un cours de rattrapage d’Évocations donné par l’@_graffiti_professor_evocations_type_@ @_graffiti_professor_@
+
+EN: [_graffiti_class_remedial_] a Remedial Invocations class taught by the @_graffiti_professor_invocations_type_@ @_graffiti_professor_@
+FR: un cours de rattrapage d’Invocations donné par le @_graffiti_professor_invocations_type_@ @_graffiti_professor_@
+
+EN: [_graffiti_class_remedial_] a Remedial Shapeshifting class taught by the @_graffiti_professor_shapeshifting_type_@ @_graffiti_professor_@
+FR: un cours de rattrapage de Changeforme donné par le @_graffiti_professor_shapeshifting_type_@ @_graffiti_professor_@
+
+EN: [_graffiti_class_remedial_] a Remedial Necromancy class taught by the @_graffiti_professor_necromancy_type_@ @_graffiti_professor_@
+FR: un cours de rattrapage de Nécromancie donné par le @_graffiti_professor_necromancy_type_@ @_graffiti_professor_@
+
+EN: [_graffiti_class_remedial_] a Remedial @random_skill_magic@ class taught by the @_graffiti_professor_necromancy_type_@ @_graffiti_professor_@
+FR: un cours de rattrapage de @random_skill_magic@ donné par le @_graffiti_professor_necromancy_type_@ @_graffiti_professor_@
+
+EN: [_graffiti_duplicate_] a duplicate
+FR: un double
+
+EN: [_graffiti_duplicate_] a duplicate indistinguishable from the original
+FR: un double impossible à distinguer de l’original
+
+EN: [_graffiti_duplicate_] an impostor
+FR: un imposteur
+
+EN: [_graffiti_duplicate_] an impostor from another reality
+FR: un imposteur venu d’une autre réalité
+
+EN: [_graffiti_duplicate_] a shapeshifter
+FR: un métamorphe
+
+EN: [_graffiti_fight_] of an argument between @_graffiti_author_any_@ and @_graffiti_author_any_@
+FR: d’une dispute entre @_graffiti_author_any_@ et @_graffiti_author_any_@
+
+EN: [_graffiti_fight_] of a three-way argument between @_graffiti_author_any_@, @_graffiti_author_any_@, and @_graffiti_author_any_@
+FR: d’une dispute à trois entre @_graffiti_author_any_@, @_graffiti_author_any_@ et @_graffiti_author_any_@
+
+EN: [_graffiti_fight_] of a fight between [berserkers|Trog worshippers] and erythrospite sufferers over the true meaning of blood rage
+FR: d’une bagarre entre [des berserkers|des adorateurs de Trog] et des victimes d’érythrospite sur le véritable sens de la rage sanguinaire
+
+EN: [_graffiti_fight_] of a fight between ["artists"|artists|Dithmenos worshippers] and [death knights|death mages|Yredelemnul worshippers|necromancers] over whether something was a shadow or a shadowghast
+FR: d’une bagarre entre [des « artistes »|des artistes|des adorateurs de Dithmenos] et [des chevaliers de la mort|des mages de la mort|des adorateurs de Yredelemnul|des nécromanciens] pour savoir si quelque chose était une ombre ou un spectre d’ombre
+
+EN: [_graffiti_hailed_god_] Xom
+FR: Xom
+
+EN: [_graffiti_hailed_god_] an unknown god
+FR: un dieu inconnu
+
+EN: [_graffiti_hailed_god_] @_rare_graffiti_author_god_@
+FR: @_rare_graffiti_author_god_@
+
+EN: [_graffiti_hailed_god_] the power of cheese
+FR: le pouvoir du fromage
+
+EN: [_graffiti_hailed_god_] a wagon full of pancakes
+FR: un chariot plein de crêpes
+
+EN: [_graffiti_happened_reason_] an accident
+FR: un accident
+
+EN: [_graffiti_happened_reason_] a coincidence
+FR: une coïncidence
+
+EN: [_graffiti_happened_reason_] a coincidence but @_graffiti_author_any_@ doesn't trust coincidences
+FR: une coïncidence mais @_graffiti_author_any_@ ne croit pas aux coïncidences
+
+EN: [_graffiti_happened_reason_] a cover-up
+FR: une machination
+
+EN: [_graffiti_happened_reason_] a farce
+FR: une farce
+
+EN: [_graffiti_happened_reason_] a frame-up
+FR: un coup monté
+
+EN: [_graffiti_happened_reason_] a mistake
+FR: une erreur
+
+EN: [_graffiti_happened_reason_] a travesty
+FR: une parodie de justice
+
+EN: [_graffiti_happened_reason_] a warning to others
+FR: un avertissement pour les autres
+
+EN: [_graffiti_happened_reason_] against the will of the gods
+FR: contraire à la volonté des dieux
+
+EN: [_graffiti_happened_reason_] completely random
+FR: complètement aléatoire
+
+EN: [_graffiti_happened_reason_] deliberate
+FR: délibéré
+
+EN: [_graffiti_happened_reason_] deserved
+FR: mérité
+
+EN: [_graffiti_happened_reason_] just
+FR: juste
+
+EN: [_graffiti_happened_reason_] necessary
+FR: nécessaire
+
+EN: [_graffiti_happened_reason_] no accident
+FR: pas un accident
+
+EN: [_graffiti_happened_reason_] no mistake
+FR: pas une erreur
+
+EN: [_graffiti_happened_reason_] part of a larger plot
+FR: partie d’un complot plus vaste
+
+EN: [_graffiti_happened_reason_] the work of the "Plog" Conspiracy
+FR: l’œuvre de la Conspiration « Plog »
+
+EN: [_graffiti_happened_reason_] self-inflicted
+FR: infligé à soi-même
+
+EN: [_graffiti_happened_reason_] the will of the gods
+FR: la volonté des dieux
+
+EN: [_graffiti_happened_reason_] uncalled for
+FR: injustifié
+
+EN: [_graffiti_happened_reason_] undeserved
+FR: immérité
+
+EN: [_graffiti_happened_reason_] unjust
+FR: injuste
+
+EN: [_graffiti_happened_reason_] unnecessary
+FR: inutile
+
+EN: [_graffiti_happened_reason_] unthinkable
+FR: impensable
+
+EN: [_graffiti_image_] of [a goblin|a kobold|a spriggan] with its head poking out of a tunnel
+FR: d’[un gobelin|un kobold|un spriggan] qui passe la tête hors d’un tunnel
+
+EN: [_graffiti_image_] of [a dragon|an elephant|a yak] trampling over all in its path
+FR: d’[un dragon|un éléphant|un yak] piétinant tout sur son passage
+
+EN: [_graffiti_image_] of [a gnoll|a human|an orc] brandishing a nasty-looking weapon
+FR: d’[un gnoll|un humain|un orc] brandissant une arme d’aspect menaçant
+
+EN: [_graffiti_image_] of [an ogre|an oni|a troll] ripping one of its enemies in half
+FR: d’[un ogre|un oni|un troll] arrachant l’un de ses ennemis en deux
+
+EN: [_graffiti_image_] of [a deep elf|a lich|a tengu] shooting a blast of magic
+FR: d’[un elfe profond|une liche|un tengu] lançant un éclair de magie
+
+EN: [_graffiti_image_] of a felid hanging from a tree branch
+FR: d’un félin suspendu à une branche d’arbre
+
+EN: [_graffiti_image_] of a demon grinning evilly
+FR: d’un démon qui sourit méchamment
+
+EN: [_graffiti_image_] of an eggplant just sitting there
+FR: d’une aubergine qui reste là, tout simplement
+
+EN: [_graffiti_image_] that looks like nothing you recognise
+FR: qui ne ressemble à rien de ce que vous connaissez
+
+EN: [_graffiti_life_or_death_] deserves death
+FR: mérite la mort
+
+EN: [_graffiti_life_or_death_] deserves undeath
+FR: mérite la non-vie
+
+EN: [_graffiti_life_or_death_] deserves life
+FR: mérite la vie
+
+EN: [_graffiti_life_or_death_] is dead
+FR: est mort
+
+EN: [_graffiti_life_or_death_] is undead
+FR: est un mort-vivant
+
+EN: [_graffiti_life_or_death_] lives
+FR: vit
+
+EN: [_graffiti_loves_or_hates_] curses
+FR: maudit
+
+EN: [_graffiti_loves_or_hates_] defends
+FR: défend
+
+EN: [_graffiti_loves_or_hates_] hates
+FR: déteste
+
+EN: [_graffiti_loves_or_hates_] insults
+FR: insulte
+
+EN: [_graffiti_loves_or_hates_] loves
+FR: aime
+
+EN: [_graffiti_loves_or_hates_] praises
+FR: loue
+
+EN: [_graffiti_mass_meeting_ordinary_] of an athletic club playing [cards|darts|hammer throw|javelin throw|Whack-A-Rock-Fish]
+FR: d’un club d’athlétisme jouant [aux cartes|aux fléchettes|au lancer de marteau|au lancer de javelot|à Tape-sur-le-Poisson-Roche]
+
+EN: [_graffiti_mass_meeting_ordinary_] of an artificer club [testing|tinkering with] [devices|evokables|wands]
+FR: d’un club d’artificiers [testant|bricolant] [des dispositifs|des objets évocables|des baguettes]
+
+EN: [_graffiti_mass_meeting_ordinary_] of a support group for veterans of the surface wars
+FR: d’un groupe de soutien pour les vétérans des guerres de la surface
+
+EN: [_graffiti_mass_meeting_ordinary_] of a group of [bakers|fruit vendors|meat vendors|shopkeepers] peddling their wares in the dungeon
+FR: d’un groupe de [boulangers|marchands de fruits|bouchers|commerçants] vendant leurs produits dans le donjon
+
+EN: [_graffiti_mass_meeting_ordinary_] of a group of [apiarists|hive talisman users] discussing the [antics|emotional state|health] of their bees
+FR: d’un groupe d’[apiculteurs|utilisateurs de talisman de ruche] discutant [des facéties|de l’état émotionnel|de la santé] de leurs abeilles
+
+EN: [_graffiti_mass_meeting_ordinary_] of a group of rich people discussing how to make more money
+FR: d’un groupe de gens riches discutant des moyens de gagner plus d’argent
+
+EN: [_graffiti_mass_meeting_ordinary_] of a group of [knights|veterans|warlords|warriors] practising barely-restrained combat
+FR: d’un groupe de [chevaliers|vétérans|seigneurs de guerre|guerriers] s’entraînant à un combat à peine retenu
+
+EN: [_graffiti_mass_meeting_ordinary_] of a group of [knights|veterans|warlords|warriors] practising solo combat
+FR: d’un groupe de [chevaliers|vétérans|seigneurs de guerre|guerriers] s’entraînant au combat en solo
+
+EN: [_graffiti_mass_meeting_ordinary_] of a group of [mages|sorcerers|spellcasters|wizards] practising [eclectic|esoteric] magic
+FR: d’un groupe de [mages|sorciers|lanceurs de sorts|magiciens] pratiquant la magie [éclectique|ésotérique]
+
+EN: [_graffiti_mass_meeting_ordinary_] of a group of [mages|sorcerers|spellcasters|wizards] practising [cataclysmic|destructive] magic
+FR: d’un groupe de [mages|sorciers|lanceurs de sorts|magiciens] pratiquant la magie [cataclysmique|destructrice]
+
+EN: [_graffiti_mass_meeting_ordinary_] of a group of [death mages|necromancers] practising [necromancy|bringing things to unlife]
+FR: d’un groupe de [mages de la mort|nécromanciens] pratiquant [la nécromancie|l’art de ramener les choses à la non-vie]
+
+EN: [_graffiti_mass_meeting_ordinary_] of a group of philosophers discussing [perfection|the nature of time] for who knows how long
+FR: d’un groupe de philosophes discutant [de la perfection|de la nature du temps] depuis on ne sait combien de temps
+
+EN: [_graffiti_mass_meeting_ordinary_] of a group of [masochists|sadists] holding a pain endurance contest
+FR: d’un groupe de [masochistes|sadiques] organisant un concours d’endurance à la douleur
+
+EN: [_graffiti_mass_meeting_ordinary_] of a group of gardeners showing off their green thumbs
+FR: d’un groupe de jardiniers exhibant leur main verte
+
+EN: [_graffiti_mass_meeting_ordinary_] of a group of [bards|historians|lorekeepers] sharing glorious tales of their ancestors
+FR: d’un groupe de [bardes|historiens|gardiens du savoir] partageant de glorieux récits de leurs ancêtres
+
+EN: [_graffiti_mass_meeting_ordinary_] of a group of revellers throwing a wild dance party
+FR: d’un groupe de fêtards organisant une soirée dansante endiablée
+
+EN: [_graffiti_mass_meeting_ordinary_] of a group of ["artists" holding a "shadow play"|artists holding a shadow play]
+FR: d’un groupe d’[« artistes » tenant un « théâtre d’ombres »|artistes tenant un théâtre d’ombres]
+
+EN: [_graffiti_mass_meeting_ordinary_] of a group of monks practising martial [attacks|movements]
+FR: d’un groupe de moines s’entraînant à [des attaques|des mouvements] martiaux
+
+EN: [_graffiti_mass_meeting_ordinary_] of a group of potion makers practising healing others
+FR: d’un groupe de fabricants de potions s’entraînant à soigner les autres
+
+EN: [_graffiti_mass_meeting_ordinary_] of a group of ascetics despising their bodies and discussing sacrifices
+FR: d’un groupe d’ascètes méprisant leur corps et discutant de sacrifices
+
+EN: [_graffiti_mass_meeting_ordinary_] of a group of [crusaders|moralists] [discussing|opposing] evil in the world
+FR: d’un groupe de [croisés|moralistes] [discutant du|s’opposant au] mal dans le monde
+
+EN: [_graffiti_mass_meeting_ordinary_] of a varied group of people discussing their experiences in the Abyss
+FR: d’un groupe varié de gens discutant de leurs expériences dans l’Abysse
+
+EN: [_graffiti_mass_meeting_religious_] of a [sharper club|group of Nemelex Xobeh worshippers] playing cards the way Nemelex Xobeh intended
+FR: d’un [club de tricheurs|groupe d’adorateurs de Nemelex Xobeh] jouant aux cartes comme Nemelex Xobeh l’entendait
+
+EN: [_graffiti_mass_meeting_religious_] of a group of Zin worshippers supporting the Axioms of Law
+FR: d’un groupe d’adorateurs de Zin soutenant les Axiomes de la Loi
+
+EN: [_graffiti_mass_meeting_religious_] of a group of [chaos knights|Xom worshippers] contemplating the Divine Madness
+FR: d’un groupe de [chevaliers du chaos|adorateurs de Xom] contemplant la Folie Divine
+
+EN: [_graffiti_mass_meeting_religious_] of a group of [death knights|Yredelemnul worshippers] embracing the Inexorable Grip
+FR: d’un groupe de [chevaliers de la mort|adorateurs de Yredelemnul] embrassant l’Étreinte Inexorable
+
+EN: [_graffiti_mass_meeting_religious_] of a group of Gozag worshippers discussing how to make more money
+FR: d’un groupe d’adorateurs de Gozag discutant des moyens de gagner plus d’argent
+
+EN: [_graffiti_mass_meeting_religious_] of a group of [berserkers|Trog worshippers] practising barely-restrained combat
+FR: d’un groupe de [berserkers|adorateurs de Trog] s’entraînant à un combat à peine retenu
+
+EN: [_graffiti_mass_meeting_religious_] of a group of Okawaru worshippers practising solo combat
+FR: d’un groupe d’adorateurs d’Okawaru s’entraînant au combat en solo
+
+EN: [_graffiti_mass_meeting_religious_] of a group of Sif Muna worshippers practising [eclectic|esoteric] magic
+FR: d’un groupe d’adorateurs de Sif Muna pratiquant la magie [éclectique|ésotérique]
+
+EN: [_graffiti_mass_meeting_religious_] of a group of Vehumet worshippers practising [cataclysmic|destructive] magic
+FR: d’un groupe d’adorateurs de Vehumet pratiquant la magie [cataclysmique|destructrice]
+
+EN: [_graffiti_mass_meeting_religious_] of a group of Kikubaaqudgha worshippers practising [necromancy|bringing things to unlife]
+FR: d’un groupe d’adorateurs de Kikubaaqudgha pratiquant [la nécromancie|l’art de ramener les choses à la non-vie]
+
+EN: [_graffiti_mass_meeting_religious_] of a group of Cheibriados worshippers discussing [perfection|the nature of time] for who knows how long
+FR: d’un groupe d’adorateurs de Cheibriados discutant [de la perfection|de la nature du temps] depuis on ne sait combien de temps
+
+EN: [_graffiti_mass_meeting_religious_] of a group of Makhleb worshippers holding a pain endurance contest
+FR: d’un groupe d’adorateurs de Makhleb organisant un concours d’endurance à la douleur
+
+EN: [_graffiti_mass_meeting_religious_] of a group of Fedhas worshippers showing off their green thumbs
+FR: d’un groupe d’adorateurs de Fedhas exhibant leur main verte
+
+EN: [_graffiti_mass_meeting_religious_] of a group of Hepliaklqana worshippers sharing glorious tales of their ancestors
+FR: d’un groupe d’adorateurs d’Hepliaklqana partageant de glorieux récits de leurs ancêtres
+
+EN: [_graffiti_mass_meeting_religious_] of a group of Uskayaw worshippers throwing a wild dance party
+FR: d’un groupe d’adorateurs d’Uskayaw organisant une soirée dansante endiablée
+
+EN: [_graffiti_mass_meeting_religious_] of a group of Dithmenos worshippers holding a ["shadow play"|shadow play]
+FR: d’un groupe d’adorateurs de Dithmenos tenant un [« théâtre d’ombres »|théâtre d’ombres]
+
+EN: [_graffiti_mass_meeting_religious_] of a group of worshippers of the Wu Jian Council practising martial [attacks|movements]
+FR: d’un groupe d’adorateurs du Conseil Wu Jian s’entraînant à [des attaques|des mouvements] martiaux
+
+EN: [_graffiti_mass_meeting_religious_] of a group of Qazlal worshippers changing the weather indoors
+FR: d’un groupe d’adorateurs de Qazlal changeant le temps à l’intérieur
+
+EN: [_graffiti_mass_meeting_religious_] of a group of Elyvilon worshippers practising healing others
+FR: d’un groupe d’adorateurs d’Elyvilon s’entraînant à soigner les autres
+
+EN: [_graffiti_mass_meeting_religious_] of a group of Ashenzari worshippers practising scrying on things
+FR: d’un groupe d’adorateurs d’Ashenzari s’entraînant à scruter les choses
+
+EN: [_graffiti_mass_meeting_religious_] of a group of Ru worshippers despising their bodies and discussing sacrifices
+FR: d’un groupe d’adorateurs de Ru méprisant leur corps et discutant de sacrifices
+
+EN: [_graffiti_mass_meeting_religious_] of a group of worshippers of the Shining One [discussing|opposing] evil in the world
+FR: d’un groupe d’adorateurs du Shining One [discutant du|s’opposant au] mal dans le monde
+
+EN: [_graffiti_mass_meeting_religious_] of a group of [Lugonu worshippers|mad acolytes of Lugonu] discussing their experiences in the Abyss
+FR: d’un groupe d’[adorateurs de Lugonu|acolytes fous de Lugonu] discutant de leurs expériences dans l’Abysse
+
+EN: [_graffiti_mass_meeting_religious_] of a group of orcs promoting Beogh's word
+FR: d’un groupe d’orcs faisant la promotion de la parole de Beogh
+
+EN: [_graffiti_obscenities_] of various obscenities
+FR: de diverses obscénités
+
+EN: [_graffiti_obscenities_] of some very imaginative obscenities you've never seen before
+FR: de très imaginatives obscénités que vous n’avez jamais vues
+
+EN: [_graffiti_professor_] @_graffiti_author_any_changeable_@
+FR: @_graffiti_author_any_changeable_@
+
+EN: [_graffiti_professor_] @_graffiti_author_orc_@
+FR: @_graffiti_author_orc_@
+
+EN: [_graffiti_professor_] @_rare_graffiti_author_any_@ (supposedly)
+FR: @_rare_graffiti_author_any_@ (soi-disant)
+
+EN: [_graffiti_professor_evocations_type_] artificer
+FR: artificier
+
+EN: [_graffiti_professor_evocations_type_] tinkerer
+FR: bricoleur
+
+EN: [_graffiti_professor_invocations_type_] cleric
+FR: clerc
+
+EN: [_graffiti_professor_invocations_type_] high priest
+FR: grand prêtre
+
+EN: [_graffiti_professor_invocations_type_] priest
+FR: prêtre
+
+EN: [_graffiti_professor_invocations_type_] theologian
+FR: théologien
+
+EN: [_graffiti_professor_magic_type_] mage
+FR: mage
+
+EN: [_graffiti_professor_magic_type_] sorcerer
+FR: sorcier
+
+EN: [_graffiti_professor_magic_type_] spellcaster
+FR: lanceur de sorts
+
+EN: [_graffiti_professor_magic_type_] wizard
+FR: magicien
+
+EN: [_graffiti_professor_mundane_type_] knight
+FR: chevalier
+
+EN: [_graffiti_professor_mundane_type_] veteran
+FR: vétéran
+
+EN: [_graffiti_professor_mundane_type_] warlord
+FR: seigneur de guerre
+
+EN: [_graffiti_professor_mundane_type_] warrior
+FR: guerrier
+
+EN: [_graffiti_professor_necromancy_type_] death mage
+FR: mage de la mort
+
+EN: [_graffiti_professor_necromancy_type_] necromancer
+FR: nécromancien
+
+EN: [_graffiti_professor_shapeshifting_type_] shapeshifter
+FR: métamorphe
+
+EN: [_graffiti_professor_shapeshifting_type_] talismancer
+FR: talismancien
+
+EN: [_graffiti_relative_or_quality_] all associates
+FR: tous les associés
+
+EN: [_graffiti_relative_or_quality_] the bloodline
+FR: la lignée
+
+EN: [_graffiti_relative_or_quality_] the child
+FR: l’enfant
+
+EN: [_graffiti_relative_or_quality_] the children
+FR: les enfants
+
+EN: [_graffiti_relative_or_quality_] the clan
+FR: le clan
+
+EN: [_graffiti_relative_or_quality_] the dexterity
+FR: la dextérité
+
+EN: [_graffiti_relative_or_quality_] the entire species
+FR: toute l’espèce
+
+EN: [_graffiti_relative_or_quality_] the family
+FR: la famille
+
+EN: [_graffiti_relative_or_quality_] the friend
+FR: l’ami
+
+EN: [_graffiti_relative_or_quality_] the friends
+FR: les amis
+
+EN: [_graffiti_relative_or_quality_] the god
+FR: le dieu
+
+EN: [_graffiti_relative_or_quality_] the intelligence
+FR: l’intelligence
+
+EN: [_graffiti_relative_or_quality_] the lover
+FR: l’amant
+
+EN: [_graffiti_relative_or_quality_] the lovers
+FR: les amants
+
+EN: [_graffiti_relative_or_quality_] the mate
+FR: le compagnon
+
+EN: [_graffiti_relative_or_quality_] the mates
+FR: les compagnons
+
+EN: [_graffiti_relative_or_quality_] the parent
+FR: le parent
+
+EN: [_graffiti_relative_or_quality_] the parents
+FR: les parents
+
+EN: [_graffiti_relative_or_quality_] the personality
+FR: la personnalité
+
+EN: [_graffiti_relative_or_quality_] the spouse
+FR: l’époux
+
+EN: [_graffiti_relative_or_quality_] the spouses
+FR: les époux
+
+EN: [_graffiti_relative_or_quality_] the strength
+FR: la force
+
+EN: [_graffiti_religion_better_or_worse_] less of a believer
+FR: moins croyant
+
+EN: [_graffiti_religion_better_or_worse_] more of a believer
+FR: plus croyant
+
+EN: [_graffiti_religion_better_or_worse_] a better atheist
+FR: meilleur athée
+
+EN: [_graffiti_religion_better_or_worse_] a worse atheist
+FR: pire athée
+
+EN: [_graffiti_religion_non-orc_] lauding Zin and Zin's laws
+FR: louant Zin et les lois de Zin
+
+EN: [_graffiti_religion_non-orc_] lauding Zin and talking about how following Zin's laws is essential
+FR: louant Zin et expliquant qu’il est essentiel de suivre les lois de Zin
+
+EN: [_graffiti_religion_non-orc_] lauding Zin and talking about how those who break Zin's laws deserve punishment
+FR: louant Zin et expliquant que ceux qui enfreignent les lois de Zin méritent d’être punis
+
+EN: [_graffiti_religion_non-orc_] lauding Zin but warning that putting graffiti on surfaces is often unlawful
+FR: louant Zin mais avertissant qu’écrire des graffitis sur les surfaces est souvent illégal
+
+EN: [_graffiti_religion_not_non-orc_or_orc_] [glorifying|blaspheming] the gods
+FR: [glorifiant|blasphémant contre] les dieux
+
+EN: [_graffiti_religion_not_non-orc_or_orc_] glorifying @random_god@ and blaspheming @random_god@
+FR: glorifiant @random_god@ et blasphémant contre @random_god@
+
+EN: [_graffiti_religion_not_non-orc_or_orc_] revering Xom and the randomness of everything
+FR: révérant Xom et le caractère aléatoire de toute chose
+
+EN: [_graffiti_religion_not_non-orc_or_orc_] delighting in Nemelex Xobeh and whatever the next card deck brings
+FR: se délectant de Nemelex Xobeh et de ce que le prochain jeu de cartes apportera
+
+EN: [_graffiti_religion_not_non-orc_or_orc_] extolling Yredelemnul and all things unholy
+FR: exaltant Yredelemnul et tout ce qui est impie
+
+EN: [_graffiti_religion_not_non-orc_or_orc_] commending Gozag and talking about how enough gold can buy anything
+FR: recommandant Gozag et expliquant qu’assez d’or peut tout acheter
+
+EN: [_graffiti_religion_not_non-orc_or_orc_] praising Trog and talking about how blood rage can get rid of anything in your way
+FR: vantant Trog et expliquant que la rage sanguinaire peut balayer tout ce qui vous barre la route
+
+EN: [_graffiti_religion_not_non-orc_or_orc_] adoring Okawaru and talking about how Okawaru is the only ally you need as a warrior
+FR: adorant Okawaru et expliquant qu’Okawaru est le seul allié dont un guerrier ait besoin
+
+EN: [_graffiti_religion_not_non-orc_or_orc_] applauding Sif Muna and talking about how all magic is accessible with enough effort
+FR: applaudissant Sif Muna et expliquant que toute magie est accessible avec assez d’efforts
+
+EN: [_graffiti_religion_not_non-orc_or_orc_] venerating Vehumet and talking about how weaponised magic is the key to victory
+FR: vénérant Vehumet et expliquant que la magie transformée en arme est la clé de la victoire
+
+EN: [_graffiti_religion_not_non-orc_or_orc_] fawning over Kikubaaqudgha and talking about how necromancy turns all flesh and blood into useful tools
+FR: s’extasiant sur Kikubaaqudgha et expliquant que la nécromancie transforme toute chair et tout sang en outils utiles
+
+EN: [_graffiti_religion_not_non-orc_or_orc_] giving kudos to Cheibriados and talking about how the slow and steady can conquer all
+FR: félicitant Cheibriados et expliquant que le lent et régulier peut tout conquérir
+
+EN: [_graffiti_religion_not_non-orc_or_orc_] paying tribute to Makhleb and talking about all the powers of hell that Makhleb grants
+FR: rendant hommage à Makhleb et parlant de tous les pouvoirs de l’enfer qu’il accorde
+
+EN: [_graffiti_religion_not_non-orc_or_orc_] exulting Fedhas and the enduring powers of nature
+FR: exultant en l’honneur de Fedhas et des pouvoirs durables de la nature
+
+EN: [_graffiti_religion_not_non-orc_or_orc_] honouring Hepliaklqana and talking about how those who live on in others' memories never truly die
+FR: honorant Hepliaklqana et expliquant que ceux qui vivent dans la mémoire des autres ne meurent jamais vraiment
+
+EN: [_graffiti_religion_not_non-orc_or_orc_] showing devotion to Uskayaw and talking about the complex dance that is life itself
+FR: montrant sa dévotion à Uskayaw et parlant de la danse complexe qu’est la vie elle-même
+
+EN: [_graffiti_religion_not_non-orc_or_orc_] doting on Dithmenos and talking about the many things [shadows|the night] can do
+FR: adorant Dithmenos et parlant des nombreuses choses que [les ombres|la nuit] peuvent faire
+
+EN: [_graffiti_religion_not_non-orc_or_orc_] giving thanks to the Wu Jian Council and talking about how proper discipline is the key to greatness
+FR: remerciant le Conseil Wu Jian et expliquant que la bonne discipline est la clé de la grandeur
+
+EN: [_graffiti_religion_not_non-orc_or_orc_] acclaiming Qazlal and talking about how the elements can work for you
+FR: acclamant Qazlal et expliquant que les éléments peuvent travailler pour vous
+
+EN: [_graffiti_religion_not_non-orc_or_orc_] promoting Elyvilon and talking about how bringing peace to the world is essential
+FR: promouvant Elyvilon et expliquant qu’apporter la paix au monde est essentiel
+
+EN: [_graffiti_religion_not_non-orc_or_orc_] admiring Ashenzari and talking about how curses and bondage are blessings when they lead to knowledge
+FR: admirant Ashenzari et expliquant que les malédictions et les entraves sont des bénédictions quand elles mènent au savoir
+
+EN: [_graffiti_religion_not_non-orc_or_orc_] paying homage to Ru and talking about how all of reality is not what you think it is
+FR: rendant hommage à Ru et expliquant que toute la réalité n’est pas ce que vous croyez
+
+EN: [_graffiti_religion_not_non-orc_or_orc_] giving adulation to the Shining One and talking about how honourably removing evil from the world is essential
+FR: couvrant d’éloges le Shining One et expliquant qu’il est essentiel de purger honorablement le mal du monde
+
+EN: [_graffiti_religion_not_non-orc_or_orc_] flattering Lugonu and talking about how Lugonu and the forces of the Abyss will soon rule over all
+FR: flattant Lugonu et expliquant que Lugonu et les forces de l’Abysse régneront bientôt sur tout
+
+EN: [_graffiti_religion_not_non-orc_or_orc_] glorifying an unknown god
+FR: glorifiant un dieu inconnu
+
+EN: [_graffiti_religion_not_non-orc_or_orc_] not just hailing but glorifying @_graffiti_hailed_god_@
+FR: ne se contentant pas de saluer mais glorifiant @_graffiti_hailed_god_@
+
+EN: [_graffiti_religion_orc_] proselytising for Beogh and proper orcishness
+FR: prêchant pour Beogh et pour la véritable nature orque
+
+EN: [_graffiti_religion_orc_] proclaiming that Beogh's messiah will soon come
+FR: proclamant que le messie de Beogh viendra bientôt
+
+EN: [_graffiti_religion_orc_] thanking Beogh for granting salvation while the other gods just watched
+FR: remerciant Beogh d’avoir accordé le salut pendant que les autres dieux se contentaient de regarder
+
+EN: [_graffiti_religion_orc_] talking about how Beogh will help you when the other gods turn away from you
+FR: expliquant que Beogh vous aidera quand les autres dieux vous tourneront le dos
+
+EN: [_graffiti_religion_orc_] talking about how Beogh is with them and not those other heretic orcs
+FR: expliquant que Beogh est avec eux et non avec ces autres orcs hérétiques
+
+EN: [_graffiti_rumour_] speculating about the powers of the Orb of Zot
+FR: spéculant sur les pouvoirs de l’Orbe de Zot
+
+EN: [_graffiti_rumour_] talking about how the Orb of Zot will [save|destroy] everyone and everything
+FR: expliquant que l’Orbe de Zot va [sauver|détruire] tout le monde et tout
+
+EN: [_graffiti_rumour_] talking about how everyone is mistaken and the Orb of Zot is really the [Cube|Egg|Pyramid] of Zot
+FR: expliquant que tout le monde se trompe et que l’Orbe de Zot est en réalité [le Cube|l’Œuf|la Pyramide] de Zot
+
+EN: [_graffiti_rumour_] telling of a secret passageway straight from here to the Orb of Zot
+FR: parlant d’un passage secret menant d’ici directement à l’Orbe de Zot
+
+EN: [_graffiti_rumour_] counting down the days until the world ends
+FR: comptant les jours avant la fin du monde
+
+EN: [_graffiti_rumour_] claiming to know the meaning of [life|unlife]
+FR: prétendant connaître le sens de la [vie|non-vie]
+
+EN: [_graffiti_rumour_] claiming to have found the elusive [cave yeti|death quokka|dire dormouse]
+FR: prétendant avoir trouvé le [yéti des cavernes|quokka de la mort|loir redoutable] introuvable
+
+EN: [_graffiti_rumour_] alluding to the "Plog" Conspiracy and why it hides that word everywhere
+FR: faisant allusion à la Conspiration « Plog » et à la raison pour laquelle elle cache ce mot partout
+
+EN: [_graffiti_short_saying_] @_graffiti_author_any_@ was here
+FR: @_graffiti_author_any_@ était ici
+
+EN: [_graffiti_short_saying_] @_graffiti_author_any_@ @_graffiti_loves_or_hates_@ @_graffiti_author_any_@
+FR: @_graffiti_author_any_@ @_graffiti_loves_or_hates_@ @_graffiti_author_any_@
+
+EN: [_graffiti_short_saying_] @_graffiti_author_any_@ @_graffiti_loves_or_hates_@ @_graffiti_relative_or_quality_@ of @_graffiti_author_any_@
+FR: @_graffiti_author_any_@ @_graffiti_loves_or_hates_@ @_graffiti_relative_or_quality_@ de @_graffiti_author_any_@
+
+EN: [_graffiti_short_saying_] @_graffiti_author_any_@ @_graffiti_life_or_death_@
+FR: @_graffiti_author_any_@ @_graffiti_life_or_death_@
+
+EN: [_graffiti_short_saying_] @_graffiti_author_any_@ sells @_graffiti_wares_quality_@ wares
+FR: @_graffiti_author_any_@ vend des marchandises @_graffiti_wares_quality_@
+
+EN: [_graffiti_short_saying_] @_graffiti_author_any_@ steals from @_graffiti_author_any_@
+FR: @_graffiti_author_any_@ vole @_graffiti_author_any_@
+
+EN: [_graffiti_short_saying_] what happened to @_graffiti_author_any_@ was @_graffiti_happened_reason_@
+FR: ce qui est arrivé à @_graffiti_author_any_@ était @_graffiti_happened_reason_@
+
+EN: [_graffiti_short_saying_] @_graffiti_author_any_@ has been replaced by @_graffiti_duplicate_@
+FR: @_graffiti_author_any_@ a été remplacé par @_graffiti_duplicate_@
+
+EN: [_graffiti_short_saying_] @_graffiti_vengeance_@
+FR: @_graffiti_vengeance_@
+
+EN: [_graffiti_short_saying_] @_graffiti_changed_or_compared_religions_@
+FR: @_graffiti_changed_or_compared_religions_@
+
+EN: [_graffiti_short_saying_] all life begins with "Plog" and ends with "Plog"
+FR: toute vie commence par « Plog » et finit par « Plog »
+
+EN: [_graffiti_short_saying_] @_graffiti_changed_names_@
+FR: @_graffiti_changed_names_@
+
+EN: [_graffiti_species_] bemoaning how bizarre coglin engineering is to non-coglins
+FR: se lamentant de l’étrangeté de l’ingénierie coglin pour les non-coglins
+
+EN: [_graffiti_species_] repeating the legend of the lost prototype exo-suit that let a coglin wield three weapons at once
+FR: répétant la légende du prototype perdu d’exo-armure qui permettait à un coglin de manier trois armes à la fois
+
+EN: [_graffiti_species_] wondering what led the barachim to rebel against the gods
+FR: se demandant ce qui a poussé les barachim à se rebeller contre les dieux
+
+EN: [_graffiti_species_] wondering if boneless species can ever spawn revenants
+FR: se demandant si les espèces sans os peuvent un jour engendrer des revenants
+
+EN: [_graffiti_species_] wondering if Trog stops dead berserkers from spawning revenants
+FR: se demandant si Trog empêche les berserkers morts d’engendrer des revenants
+
+EN: [_graffiti_species_] claiming to know where goblins originally came from
+FR: prétendant savoir d’où viennent à l’origine les gobelins
+
+EN: [_graffiti_species_] claiming to know the true origin of kobolds
+FR: prétendant connaître la véritable origine des kobolds
+
+EN: [_graffiti_species_] detailing the persecution of the cave orcs' ancestors
+FR: détaillant la persécution des ancêtres des orcs des cavernes
+
+EN: [_graffiti_species_] claiming that some of the gods secretly serve the oni instead of the other way around
+FR: prétendant que certains dieux servent en secret les oni plutôt que l’inverse
+
+EN: [_graffiti_species_] claiming that some of the hill dwarves still live
+FR: prétendant que certains nains des collines vivent encore
+
+EN: [_graffiti_species_] wondering what really happened to the last of the sludge elves
+FR: se demandant ce qui est vraiment arrivé aux derniers elfes de la vase
+
+EN: [_graffiti_species_] claiming that gnomes really exist and are just superb at hiding
+FR: prétendant que les gnomes existent vraiment et sont simplement excellents pour se cacher
+
+EN: [_graffiti_unique_comment_] saying that Cassandra should stop being so negative
+FR: disant que Cassandra devrait cesser d’être aussi négative
+
+EN: [_graffiti_unique_comment_] saying that Crazy Yiuf needs to stop making so [little|much] sense
+FR: disant que Crazy Yiuf doit arrêter d’avoir [si peu|autant] de sens
+
+EN: [_graffiti_unique_comment_] saying that Donald should shut up and stop complaining
+FR: disant que Donald devrait se taire et cesser de se plaindre
+
+EN: [_graffiti_unique_comment_] saying that Sigmund needs to put down the scythe
+FR: disant que Sigmund doit poser la faux
+
+EN: [_graffiti_unique_comment_] saying that Edmund needs to get over himself
+FR: disant qu’Edmund doit se remettre en question
+
+EN: [_graffiti_unique_comment_] saying that Sprozz has gone too far trying to replace real bees with mechanical ones
+FR: disant que Sprozz est allé trop loin en essayant de remplacer les vraies abeilles par des abeilles mécaniques
+
+EN: [_graffiti_unique_comment_] wondering how Robin can possibly throw that hard
+FR: se demandant comment Robin peut bien lancer aussi fort
+
+EN: [_graffiti_unique_comment_] wondering why Terence wants to spend his retirement in the dungeon
+FR: se demandant pourquoi Terence veut passer sa retraite dans le donjon
+
+EN: [_graffiti_unique_comment_] wondering whether Dowan and Duvessa are secretly triplets and have a third sibling
+FR: se demandant si Dowan et Duvessa sont secrètement des triplés et ont un troisième frère ou sœur
+
+EN: [_graffiti_unique_comment_] wondering whether Goji will ever realise that he can actually be seen
+FR: se demandant si Goji se rendra un jour compte qu’il peut en fait être vu
+
+EN: [_graffiti_unique_comment_] wondering what else Ijyb can make besides wands
+FR: se demandant ce qu’Ijyb peut fabriquer d’autre que des baguettes
+
+EN: [_graffiti_unique_comment_] speculating on the true nature of Jeremiah's master
+FR: spéculant sur la véritable nature du maître de Jeremiah
+
+EN: [_graffiti_unreadable_] graffiti of unreadable @_writing_type_@
+FR: graffitis de @_writing_type_@ illisibles
+
+EN: [_graffiti_unreadable_] graffiti of @_writing_type_@ that are unreadable except for a signature by @_graffiti_author_any_@
+FR: graffitis de @_writing_type_@ illisibles, sauf une signature de @_graffiti_author_any_@
+
+EN: [_graffiti_unreadable_] graffiti of @_writing_type_@ that are unreadable except for bits hailing @_graffiti_hailed_god_@
+FR: graffitis de @_writing_type_@ illisibles, sauf des passages saluant @_graffiti_hailed_god_@
+
+EN: [_graffiti_unreadable_] graffiti of @_writing_type_@ that are unreadable except for bits hailing @_graffiti_hailed_god_@ and a signature by @_graffiti_author_any_@
+FR: graffitis de @_writing_type_@ illisibles, sauf des passages saluant @_graffiti_hailed_god_@ et une signature de @_graffiti_author_any_@
+
+EN: [_graffiti_vengeance_] @_graffiti_author_any_@ has avenged @_graffiti_author_any_@
+FR: @_graffiti_author_any_@ a vengé @_graffiti_author_any_@
+
+EN: [_graffiti_vengeance_] @_graffiti_author_any_@ has avenged @graffiti_author_any@ for @_graffiti_vengeance_reason_@
+FR: @_graffiti_author_any_@ a vengé @graffiti_author_any@ pour @_graffiti_vengeance_reason_@
+
+EN: [_graffiti_vengeance_] @_graffiti_author_any_@ swears vengeance on @_graffiti_author_any_@
+FR: @_graffiti_author_any_@ jure de se venger de @_graffiti_author_any_@
+
+EN: [_graffiti_vengeance_] @_graffiti_author_any_@ swears vengeance on @_graffiti_author_any_@ for @_graffiti_vengeance_reason_@
+FR: @_graffiti_author_any_@ jure de se venger de @_graffiti_author_any_@ pour @_graffiti_vengeance_reason_@
+
+EN: [_graffiti_vengeance_] the ghost of @_graffiti_author_any_@ still haunts @_graffiti_author_any_@
+FR: le fantôme de @_graffiti_author_any_@ hante toujours @_graffiti_author_any_@
+
+EN: [_graffiti_vengeance_] the ghost of @_graffiti_author_any_@ still haunts @_graffiti_author_any_@ for @_graffiti_vengeance_reason_@
+FR: le fantôme de @_graffiti_author_any_@ hante toujours @_graffiti_author_any_@ pour @_graffiti_vengeance_reason_@
+
+EN: [_graffiti_vengeance_] @_graffiti_author_orc_@ has avenged @_graffiti_author_any_@
+FR: @_graffiti_author_orc_@ a vengé @_graffiti_author_any_@
+
+EN: [_graffiti_vengeance_] @_graffiti_author_orc_@ has avenged @_graffiti_author_any_@ for @_graffiti_vengeance_reason_@
+FR: @_graffiti_author_orc_@ a vengé @_graffiti_author_any_@ pour @_graffiti_vengeance_reason_@
+
+EN: [_graffiti_vengeance_] @_graffiti_author_orc_@ swears vengeance on @_graffiti_author_any_@
+FR: @_graffiti_author_orc_@ jure de se venger de @_graffiti_author_any_@
+
+EN: [_graffiti_vengeance_] @_graffiti_author_orc_@ swears vengeance on @_graffiti_author_any_@ for @_graffiti_vengeance_reason_@
+FR: @_graffiti_author_orc_@ jure de se venger de @_graffiti_author_any_@ pour @_graffiti_vengeance_reason_@
+
+EN: [_graffiti_vengeance_] the ghost of @_graffiti_author_orc_@ still haunts @_graffiti_author_any_@
+FR: le fantôme de @_graffiti_author_orc_@ hante toujours @_graffiti_author_any_@
+
+EN: [_graffiti_vengeance_] the ghost of @_graffiti_author_orc_@ still haunts @_graffiti_author_any_@ for @_graffiti_vengeance_reason_@
+FR: le fantôme de @_graffiti_author_orc_@ hante toujours @_graffiti_author_any_@ pour @_graffiti_vengeance_reason_@
+
+EN: [_graffiti_vengeance_reason_] abandoning @_graffiti_author_any_@
+FR: avoir abandonné @_graffiti_author_any_@
+
+EN: [_graffiti_vengeance_reason_] abandoning them
+FR: les avoir abandonnés
+
+EN: [_graffiti_vengeance_reason_] betraying @_graffiti_author_any_@
+FR: avoir trahi @_graffiti_author_any_@
+
+EN: [_graffiti_vengeance_reason_] betraying them
+FR: les avoir trahis
+
+EN: [_graffiti_vengeance_reason_] killing @_graffiti_author_any_@
+FR: avoir tué @_graffiti_author_any_@
+
+EN: [_graffiti_vengeance_reason_] killing them
+FR: les avoir tués
+
+EN: [_graffiti_vengeance_reason_] stealing from @_graffiti_author_any_@
+FR: avoir volé @_graffiti_author_any_@
+
+EN: [_graffiti_vengeance_reason_] stealing from them
+FR: les avoir volés
+
+EN: [_graffiti_vengeance_reason_] wounding @_graffiti_author_any_@
+FR: avoir blessé @_graffiti_author_any_@
+
+EN: [_graffiti_vengeance_reason_] wounding them
+FR: les avoir blessés
+
+EN: [_graffiti_wares_quality_] inferior
+FR: de piètre qualité
+
+EN: [_graffiti_wares_quality_] high-quality
+FR: de grande qualité
+
+EN: [_graffiti_wares_quality_] low-quality
+FR: de mauvaise qualité
+
+EN: [_graffiti_wares_quality_] mediocre
+FR: médiocres
+
+EN: [_graffiti_wares_quality_] superior
+FR: de qualité supérieure
+
+EN: [any_graffiti] graffiti of @_pattern_type_@
+FR: graffitis de @_pattern_type_@
+
+EN: [any_graffiti] graffiti of @_writing_type_@
+FR: graffitis de @_writing_type_@
+
+EN: [any_graffiti] @_graffiti_unreadable_@
+FR: @_graffiti_unreadable_@
+
+EN: [any_graffiti] @_graffiti_type_with_signature_maybe_@
+FR: @_graffiti_type_with_signature_maybe_@
+
+EN: [any_graffiti] @_graffiti_type_with_signature_maybe_@ @_graffiti_image_@
+FR: @_graffiti_type_with_signature_maybe_@ @_graffiti_image_@
+
+EN: [any_graffiti] @_graffiti_type_with_signature_maybe_@ @_graffiti_rumour_@
+FR: @_graffiti_type_with_signature_maybe_@ @_graffiti_rumour_@
+
+EN: [any_graffiti] @_graffiti_type_with_signature_maybe_@ @_graffiti_unique_comment_@
+FR: @_graffiti_type_with_signature_maybe_@ @_graffiti_unique_comment_@
+
+EN: [any_graffiti] @_graffiti_type_with_signature_maybe_@ @_graffiti_species_@
+FR: @_graffiti_type_with_signature_maybe_@ @_graffiti_species_@
+
+EN: [any_graffiti] @_graffiti_type_@ @_graffiti_fight_@
+FR: @_graffiti_type_@ @_graffiti_fight_@
+
+EN: [any_graffiti] @_graffiti_type_@ @_graffiti_advertisement_@
+FR: @_graffiti_type_@ @_graffiti_advertisement_@
+
+EN: [any_graffiti] @_graffiti_type_@ saying that @_graffiti_short_saying_@
+FR: @_graffiti_type_@ disant que @_graffiti_short_saying_@
+
+EN: [any_graffiti] @_graffiti_type_with_signature_maybe_@ @_graffiti_religion_not_non-orc_or_orc_@
+FR: @_graffiti_type_with_signature_maybe_@ @_graffiti_religion_not_non-orc_or_orc_@
+
+EN: [any_graffiti] @_graffiti_type_with_signature_maybe_non-orc_@ @_graffiti_religion_non-orc_@
+FR: @_graffiti_type_with_signature_maybe_non-orc_@ @_graffiti_religion_non-orc_@
+
+EN: [any_graffiti] @_graffiti_type_with_signature_maybe_orc_@ @_graffiti_religion_orc_@
+FR: @_graffiti_type_with_signature_maybe_orc_@ @_graffiti_religion_orc_@
+
+EN: [any_graffiti] @_graffiti_type_@ @_graffiti_obscenities_@
+FR: @_graffiti_type_@ @_graffiti_obscenities_@
+
+EN: [rainbow_colour] red
+FR: rouge
+
+EN: [rainbow_colour] orange
+FR: orange
+
+EN: [rainbow_colour] yellow
+FR: jaune
+
+EN: [rainbow_colour] green
+FR: vert/verte
+
+EN: [rainbow_colour] blue
+FR: bleu/bleue
+
+EN: [rainbow_colour] indigo
+FR: indigo
+
+EN: [rainbow_colour] violet
+FR: violet/violette
+
+EN: [misc_colour] aero
+FR: aéro
+
+EN: [misc_colour] alabaster
+FR: albâtre
+
+EN: [misc_colour] alizarin crimson
+FR: rouge alizarine
+
+EN: [misc_colour] almond
+FR: amande
+
+EN: [misc_colour] amaranth
+FR: amarante
+
+EN: [misc_colour] amaranth pink
+FR: rose amarante
+
+EN: [misc_colour] amaranth purple
+FR: pourpre amarante
+
+EN: [misc_colour] amethyst
+FR: améthyste
+
+EN: [misc_colour] ametrine
+FR: amétrine
+
+EN: [misc_colour] amber
+FR: ambre
+
+EN: [misc_colour] annatto
+FR: rocou
+
+EN: [misc_colour] apple green
+FR: vert pomme
+
+EN: [misc_colour] apple red
+FR: rouge pomme
+
+EN: [misc_colour] apple yellow
+FR: jaune pomme
+
+EN: [misc_colour] apricot
+FR: abricot
+
+EN: [misc_colour] aqua
+FR: aqua
+
+EN: [misc_colour] aquamarine
+FR: aigue-marine
+
+EN: [misc_colour] artichoke green
+FR: vert artichaut
+
+EN: [misc_colour] asparagus green
+FR: vert asperge
+
+EN: [misc_colour] atrovirens
+FR: atrovirens
+
+EN: [misc_colour] aubergine
+FR: aubergine
+
+EN: [misc_colour] auburn
+FR: auburn
+
+EN: [misc_colour] aureolin
+FR: auréoline
+
+EN: [misc_colour] avocado green
+FR: vert avocat
+
+EN: [misc_colour] azure
+FR: azur
+
+EN: [misc_colour] azurite
+FR: azurite
+
+EN: [misc_colour] baby blue
+FR: bleu layette
+
+EN: [misc_colour] banana yellow
+FR: jaune banane
+
+EN: [misc_colour] beetroot red
+FR: rouge betterave
+
+EN: [misc_colour] beige
+FR: beige
+
+EN: [misc_colour] bisque
+FR: bisque
+
+EN: [misc_colour] bistre
+FR: bistre
+
+EN: [misc_colour] blaze orange
+FR: orange vif
+
+EN: [misc_colour] blood orange
+FR: orange sanguine
+
+EN: [misc_colour] blood red
+FR: rouge sang
+
+EN: [misc_colour] blueberry
+FR: myrtille
+
+EN: [misc_colour] blush
+FR: blush
+
+EN: [misc_colour] bole
+FR: bol
+
+EN: [misc_colour] brass
+FR: laiton
+
+EN: [misc_colour] bronze
+FR: bronze
+
+EN: [misc_colour] brown
+FR: brun/brune
+
+EN: [misc_colour] brown ochre
+FR: ocre brun
+
+EN: [misc_colour] buff
+FR: chamois
+
+EN: [misc_colour] burgundy
+FR: bordeaux
+
+EN: [misc_colour] burlywood
+FR: bois brut
+
+EN: [misc_colour] burnt amber
+FR: ambre brûlé
+
+EN: [misc_colour] burnt ochre
+FR: ocre brûlé
+
+EN: [misc_colour] burnt orange
+FR: orange brûlé
+
+EN: [misc_colour] burnt sienna
+FR: sienne brûlée
+
+EN: [misc_colour] burnt umber
+FR: ombre brûlée
+
+EN: [misc_colour] byzantium
+FR: byzantium
+
+EN: [misc_colour] cadmium red
+FR: rouge de cadmium
+
+EN: [misc_colour] cadmium green
+FR: vert de cadmium
+
+EN: [misc_colour] cadmium orange
+FR: orange de cadmium
+
+EN: [misc_colour] cadmium yellow
+FR: jaune de cadmium
+
+EN: [misc_colour] cameo pink
+FR: rose camée
+
+EN: [misc_colour] candy apple green
+FR: vert pomme d’amour
+
+EN: [misc_colour] candy apple red
+FR: rouge pomme d’amour
+
+EN: [misc_colour] candy apple yellow
+FR: jaune pomme d’amour
+
+EN: [misc_colour] caput mortuum
+FR: caput mortuum
+
+EN: [misc_colour] cardinal red
+FR: rouge cardinal
+
+EN: [misc_colour] carmine
+FR: carmin
+
+EN: [misc_colour] carnation
+FR: œillet
+
+EN: [misc_colour] carnelian
+FR: cornaline
+
+EN: [misc_colour] carrot orange
+FR: orange carotte
+
+EN: [misc_colour] cattleya
+FR: cattleya
+
+EN: [misc_colour] celadon
+FR: céladon
+
+EN: [misc_colour] celeste
+FR: céleste
+
+EN: [misc_colour] celestial blue
+FR: bleu céleste
+
+EN: [misc_colour] cerise
+FR: cerise
+
+EN: [misc_colour] cerulean
+FR: céruléen/céruléenne
+
+EN: [misc_colour] charcoal
+FR: charbon
+
+EN: [misc_colour] chartreuse
+FR: chartreuse
+
+EN: [misc_colour] chartreuse green
+FR: vert chartreuse
+
+EN: [misc_colour] cherry red
+FR: rouge cerise
+
+EN: [misc_colour] chestnut
+FR: châtaigne
+
+EN: [misc_colour] china blue
+FR: bleu de Chine
+
+EN: [misc_colour] chocolate
+FR: chocolat
+
+EN: [misc_colour] chocolate cosmos
+FR: cosmos chocolat
+
+EN: [misc_colour] chrome green
+FR: vert chrome
+
+EN: [misc_colour] chrome orange
+FR: orange chrome
+
+EN: [misc_colour] chrome yellow
+FR: jaune chrome
+
+EN: [misc_colour] cinnabar
+FR: cinabre
+
+EN: [misc_colour] cinnamon
+FR: cannelle
+
+EN: [misc_colour] citreous
+FR: citron
+
+EN: [misc_colour] citrine
+FR: citrine
+
+EN: [misc_colour] citron
+FR: cédrat
+
+EN: [misc_colour] cloudy blue
+FR: bleu nuageux
+
+EN: [misc_colour] cobalt blue
+FR: bleu cobalt
+
+EN: [misc_colour] cobalt green
+FR: vert cobalt
+
+EN: [misc_colour] cobalt violet
+FR: violet cobalt
+
+EN: [misc_colour] cobalt yellow
+FR: jaune cobalt
+
+EN: [misc_colour] coffee
+FR: café
+
+EN: [misc_colour] cornflower blue
+FR: bleuet
+
+EN: [misc_colour] copper
+FR: cuivre
+
+EN: [misc_colour] coquelicot
+FR: coquelicot
+
+EN: [misc_colour] coral pink
+FR: rose corail
+
+EN: [misc_colour] cordovan
+FR: cordouan
+
+EN: [misc_colour] cream
+FR: crème
+
+EN: [misc_colour] crimson
+FR: cramoisi/cramoisie
+
+EN: [misc_colour] crocoite
+FR: crocoïte
+
+EN: [misc_colour] cyan
+FR: cyan
+
+EN: [misc_colour] cyclamen
+FR: cyclamen
+
+EN: [misc_colour] dragon's blood
+FR: sang-de-dragon
+
+EN: [misc_colour] duck blue
+FR: bleu canard
+
+EN: [misc_colour] dun
+FR: beige grisé
+
+EN: [misc_colour] dusty orange
+FR: orange poudré
+
+EN: [misc_colour] dusty rose
+FR: rose poussiéreux
+
+EN: [misc_colour] ebony
+FR: ébène
+
+EN: [misc_colour] ecru
+FR: écru/écrue
+
+EN: [misc_colour] eggplant
+FR: aubergine mûre
+
+EN: [misc_colour] electric blue
+FR: bleu électrique
+
+EN: [misc_colour] electric indigo
+FR: indigo électrique
+
+EN: [misc_colour] electric magenta
+FR: magenta électrique
+
+EN: [misc_colour] electric purple
+FR: pourpre électrique
+
+EN: [misc_colour] electric violet
+FR: violet électrique
+
+EN: [misc_colour] emerald
+FR: émeraude
+
+EN: [misc_colour] eminence
+FR: éminence
+
+EN: [misc_colour] erin
+FR: vert d’Érin
+
+EN: [misc_colour] evergreen
+FR: vert persistant
+
+EN: [misc_colour] fallow
+FR: fauve pâle
+
+EN: [misc_colour] falu red
+FR: rouge de Falun
+
+EN: [misc_colour] fandango
+FR: fandango
+
+EN: [misc_colour] fawn
+FR: faon
+
+EN: [misc_colour] feldgrau
+FR: feldgrau
+
+EN: [misc_colour] fern green
+FR: vert fougère
+
+EN: [misc_colour] fire orange
+FR: orange feu
+
+EN: [misc_colour] fire red
+FR: rouge feu
+
+EN: [misc_colour] flax
+FR: lin
+
+EN: [misc_colour] flirt
+FR: flirt
+
+EN: [misc_colour] fluorescent blue
+FR: bleu fluorescent
+
+EN: [misc_colour] forest green
+FR: vert forêt
+
+EN: [misc_colour] fuchsia
+FR: fuchsia
+
+EN: [misc_colour] fuchsine
+FR: fuchsine
+
+EN: [misc_colour] fulvous
+FR: fauve
+
+EN: [misc_colour] gamboge
+FR: gomme-gutte
+
+EN: [misc_colour] garnet
+FR: grenat
+
+EN: [misc_colour] glaucous
+FR: glauque
+
+EN: [misc_colour] goblin blue
+FR: bleu gobelin
+
+EN: [misc_colour] goblin scarlet
+FR: écarlate gobelin
+
+EN: [misc_colour] green earth
+FR: terre verte
+
+EN: [misc_colour] green ochre
+FR: ocre vert
+
+EN: [misc_colour] greenockite
+FR: greenockite
+
+EN: [misc_colour] greige
+FR: greige
+
+EN: [misc_colour] gold
+FR: or
+
+EN: [misc_colour] gold ochre
+FR: ocre doré
+
+EN: [misc_colour] gold poppy
+FR: pavot d’or
+
+EN: [misc_colour] golden brown
+FR: brun doré
+
+EN: [misc_colour] goldenrod
+FR: verge d’or
+
+EN: [misc_colour] goshenite
+FR: goshénite
+
+EN: [misc_colour] gridelin
+FR: gris-de-lin
+
+EN: [misc_colour] grullo
+FR: grullo
+
+EN: [misc_colour] haint blue
+FR: bleu haint
+
+EN: [misc_colour] hansa yellow
+FR: jaune hansa
+
+EN: [misc_colour] harlequin
+FR: arlequin
+
+EN: [misc_colour] heliodor
+FR: héliodore
+
+EN: [misc_colour] heliotrope
+FR: héliotrope
+
+EN: [misc_colour] hibiscus
+FR: hibiscus
+
+EN: [misc_colour] hot pink
+FR: rose vif
+
+EN: [misc_colour] hunter green
+FR: vert chasseur
+
+EN: [misc_colour] hunter orange
+FR: orange chasseur
+
+EN: [misc_colour] hyacinth
+FR: jacinthe
+
+EN: [misc_colour] hyacinth blue
+FR: bleu jacinthe
+
+EN: [misc_colour] icterine
+FR: ictérin/ictérine
+
+EN: [misc_colour] imperial blue
+FR: bleu impérial
+
+EN: [misc_colour] imperial orange
+FR: orange impérial
+
+EN: [misc_colour] imperial purple
+FR: pourpre impérial
+
+EN: [misc_colour] imperial red
+FR: rouge impérial
+
+EN: [misc_colour] imperial yellow
+FR: jaune impérial
+
+EN: [misc_colour] incarnadine
+FR: incarnadin/incarnadine
+
+EN: [misc_colour] indanthrone blue
+FR: bleu indanthrène
+
+EN: [misc_colour] independence
+FR: indépendance
+
+EN: [misc_colour] irresistible
+FR: irrésistible
+
+EN: [misc_colour] iris
+FR: iris
+
+EN: [misc_colour] isabelline
+FR: isabelle
+
+EN: [misc_colour] ivy green
+FR: vert lierre
+
+EN: [misc_colour] jade
+FR: jade
+
+EN: [misc_colour] jale
+FR: jale
+
+EN: [misc_colour] jasmine
+FR: jasmin
+
+EN: [misc_colour] jonquil
+FR: jonquille
+
+EN: [misc_colour] kachi indigo
+FR: indigo kachi
+
+EN: [misc_colour] khaki
+FR: kaki
+
+EN: [misc_colour] kobicha
+FR: kobicha
+
+EN: [misc_colour] kombu green
+FR: vert kombu
+
+EN: [misc_colour] labradorite
+FR: labradorite
+
+EN: [misc_colour] lapis lazuli
+FR: lapis-lazuli
+
+EN: [misc_colour] laurel green
+FR: vert laurier
+
+EN: [misc_colour] lavender
+FR: lavande
+
+EN: [misc_colour] lavender blue
+FR: bleu lavande
+
+EN: [misc_colour] lavender purple
+FR: pourpre lavande
+
+EN: [misc_colour] lavender indigo
+FR: indigo lavande
+
+EN: [misc_colour] lavender magenta
+FR: magenta lavande
+
+EN: [misc_colour] lavender rose
+FR: rose lavande
+
+EN: [misc_colour] leaf green
+FR: vert feuille
+
+EN: [misc_colour] leek green
+FR: vert poireau
+
+EN: [misc_colour] lemon yellow
+FR: jaune citron
+
+EN: [misc_colour] liberty
+FR: liberté
+
+EN: [misc_colour] lilac
+FR: lilas
+
+EN: [misc_colour] lime green
+FR: vert lime
+
+EN: [misc_colour] liseran purple
+FR: pourpre liseran
+
+EN: [misc_colour] lusty gallant
+FR: galant fougueux
+
+EN: [misc_colour] madder
+FR: garance
+
+EN: [misc_colour] magenta
+FR: magenta
+
+EN: [misc_colour] mahogany
+FR: acajou
+
+EN: [misc_colour] malachite
+FR: malachite
+
+EN: [misc_colour] mandarin
+FR: mandarine
+
+EN: [misc_colour] manganese violet
+FR: violet de manganèse
+
+EN: [misc_colour] mango
+FR: mangue
+
+EN: [misc_colour] marigold
+FR: souci
+
+EN: [misc_colour] marine blue
+FR: bleu océan
+
+EN: [misc_colour] marmalade
+FR: marmelade
+
+EN: [misc_colour] maroon
+FR: bordeaux sombre
+
+EN: [misc_colour] mauve
+FR: mauve
+
+EN: [misc_colour] mauve taupe
+FR: taupe mauve
+
+EN: [misc_colour] mauveine
+FR: mauvéine
+
+EN: [misc_colour] maxixe
+FR: maxixe
+
+EN: [misc_colour] mazarine
+FR: mazarine
+
+EN: [misc_colour] mellow yellow
+FR: jaune tendre
+
+EN: [misc_colour] midnight blue
+FR: bleu nuit
+
+EN: [misc_colour] mikado
+FR: mikado
+
+EN: [misc_colour] mindaro
+FR: mindaro
+
+EN: [misc_colour] minium
+FR: minium
+
+EN: [misc_colour] mint green
+FR: vert menthe
+
+EN: [misc_colour] morganite
+FR: morganite
+
+EN: [misc_colour] morning blue
+FR: bleu matin
+
+EN: [misc_colour] moss green
+FR: vert mousse
+
+EN: [misc_colour] mulberry
+FR: mûre
+
+EN: [misc_colour] mustard brown
+FR: brun moutarde
+
+EN: [misc_colour] mustard green
+FR: vert moutarde
+
+EN: [misc_colour] mustard yellow
+FR: jaune moutarde
+
+EN: [misc_colour] myrtle
+FR: myrte
+
+EN: [misc_colour] nattier
+FR: bleu Nattier
+
+EN: [misc_colour] navy blue
+FR: bleu marine
+
+EN: [misc_colour] navy purple
+FR: pourpre marine
+
+EN: [misc_colour] nickel
+FR: nickel
+
+EN: [misc_colour] nutmeg
+FR: noix de muscade
+
+EN: [misc_colour] nyanza
+FR: nyanza
+
+EN: [misc_colour] ochre
+FR: ocre
+
+EN: [misc_colour] octarine
+FR: octarine
+
+EN: [misc_colour] old helio
+FR: vieil héliotrope
+
+EN: [misc_colour] old heliotrope
+FR: héliotrope ancien
+
+EN: [misc_colour] old rose
+FR: rose ancien
+
+EN: [misc_colour] olive green
+FR: vert olive
+
+EN: [misc_colour] olive drab
+FR: kaki olive
+
+EN: [misc_colour] olive ochre
+FR: ocre olive
+
+EN: [misc_colour] olivine
+FR: olivine
+
+EN: [misc_colour] olo
+FR: olo
+
+EN: [misc_colour] orange ochre
+FR: ocre orangé
+
+EN: [misc_colour] orchid
+FR: orchidée
+
+EN: [misc_colour] orpiment
+FR: orpiment
+
+EN: [misc_colour] oxblood
+FR: sang de bœuf
+
+EN: [misc_colour] palatinate
+FR: palatinat
+
+EN: [misc_colour] palatinate blue
+FR: bleu palatinat
+
+EN: [misc_colour] palatinate purple
+FR: pourpre palatinat
+
+EN: [misc_colour] peach
+FR: pêche
+
+EN: [misc_colour] pear green
+FR: vert poire
+
+EN: [misc_colour] pear yellow
+FR: jaune poire
+
+EN: [misc_colour] peridot
+FR: péridot
+
+EN: [misc_colour] periwinkle
+FR: pervenche
+
+EN: [misc_colour] persimmon
+FR: plaquemine
+
+EN: [misc_colour] phlox
+FR: phlox
+
+EN: [misc_colour] picotee blue
+FR: bleu picotée
+
+EN: [misc_colour] pine green
+FR: vert pin
+
+EN: [misc_colour] pine tree
+FR: pin
+
+EN: [misc_colour] pink
+FR: rose
+
+EN: [misc_colour] pink lavender
+FR: lavande rosé
+
+EN: [misc_colour] pistachio
+FR: pistache
+
+EN: [misc_colour] plum
+FR: prune
+
+EN: [misc_colour] ponceau
+FR: ponceau
+
+EN: [misc_colour] poppy red
+FR: rouge coquelicot
+
+EN: [misc_colour] powder blue
+FR: bleu poudre
+
+EN: [misc_colour] prase
+FR: prase
+
+EN: [misc_colour] primrose yellow
+FR: jaune primevère
+
+EN: [misc_colour] puce
+FR: puce
+
+EN: [misc_colour] pumpkin
+FR: citrouille
+
+EN: [misc_colour] purple
+FR: pourpre
+
+EN: [misc_colour] purple ochre
+FR: ocre pourpre
+
+EN: [misc_colour] purple taupe
+FR: taupe pourpre
+
+EN: [misc_colour] purpura
+FR: purpura
+
+EN: [misc_colour] purpureus
+FR: purpureus
+
+EN: [misc_colour] quartz
+FR: quartz
+
+EN: [misc_colour] quercitron
+FR: quercitron
+
+EN: [misc_colour] raspberry
+FR: framboise
+
+EN: [misc_colour] raspberry rose
+FR: rose framboise
+
+EN: [misc_colour] realgar
+FR: réalgar
+
+EN: [misc_colour] red emerald
+FR: émeraude rouge
+
+EN: [misc_colour] red ochre
+FR: ocre rouge
+
+EN: [misc_colour] rej
+FR: rej
+
+EN: [misc_colour] rocket green
+FR: vert fusée
+
+EN: [misc_colour] rockmelon
+FR: cantaloup
+
+EN: [misc_colour] rose
+FR: rose
+
+EN: [misc_colour] rose quartz
+FR: quartz rose
+
+EN: [misc_colour] rose vale
+FR: rose du vallon
+
+EN: [misc_colour] rubric
+FR: rouge rubrique
+
+EN: [misc_colour] ruby
+FR: rubis
+
+EN: [misc_colour] ruddy blue
+FR: bleu rougeâtre
+
+EN: [misc_colour] rufous
+FR: roux/rousse
+
+EN: [misc_colour] russet
+FR: roussâtre
+
+EN: [misc_colour] rust
+FR: rouille
+
+EN: [misc_colour] safflower orange
+FR: orange carthame
+
+EN: [misc_colour] saffron
+FR: safran
+
+EN: [misc_colour] salmon
+FR: saumon
+
+EN: [misc_colour] sanguine
+FR: sanguine
+
+EN: [misc_colour] sap green
+FR: vert sève
+
+EN: [misc_colour] sapphire
+FR: saphir
+
+EN: [misc_colour] sea blue
+FR: bleu mer
+
+EN: [misc_colour] sea green
+FR: vert mer
+
+EN: [misc_colour] sepia
+FR: sépia
+
+EN: [misc_colour] scarlet
+FR: écarlate
+
+EN: [misc_colour] scarlet emerald
+FR: émeraude écarlate
+
+EN: [misc_colour] shocking pink
+FR: rose shocking
+
+EN: [misc_colour] sienna
+FR: sienne
+
+EN: [misc_colour] silver
+FR: argent
+
+EN: [misc_colour] silver pink
+FR: rose argenté
+
+EN: [misc_colour] sinopia
+FR: sinopia
+
+EN: [misc_colour] skobeloff
+FR: skobeloff
+
+EN: [misc_colour] sky blue
+FR: bleu ciel
+
+EN: [misc_colour] sky magenta
+FR: magenta ciel
+
+EN: [misc_colour] slate
+FR: ardoise
+
+EN: [misc_colour] slate blue
+FR: bleu ardoise
+
+EN: [misc_colour] smalt
+FR: smalt
+
+EN: [misc_colour] smaragdine
+FR: smaragdin/smaragdine
+
+EN: [misc_colour] sorcerer's violet
+FR: violet du sorcier
+
+EN: [misc_colour] spring bud
+FR: bourgeon de printemps
+
+EN: [misc_colour] spring green
+FR: vert printemps
+
+EN: [misc_colour] steel blue
+FR: bleu acier
+
+EN: [misc_colour] strawberry red
+FR: rouge fraise
+
+EN: [misc_colour] strontium yellow
+FR: jaune de strontium
+
+EN: [misc_colour] tamarind
+FR: tamarin
+
+EN: [misc_colour] tang blue
+FR: bleu tang
+
+EN: [misc_colour] tangerine
+FR: tangerine
+
+EN: [misc_colour] taupe
+FR: taupe
+
+EN: [misc_colour] tawny
+FR: brun fauve
+
+EN: [misc_colour] tea green
+FR: vert thé
+
+EN: [misc_colour] teal
+FR: sarcelle
+
+EN: [misc_colour] teal blue
+FR: bleu sarcelle
+
+EN: [misc_colour] teal green
+FR: vert sarcelle
+
+EN: [misc_colour] telemagenta
+FR: télémagenta
+
+EN: [misc_colour] terracotta
+FR: terre cuite
+
+EN: [misc_colour] terre verte
+FR: terre verte
+
+EN: [misc_colour] thistle
+FR: chardon
+
+EN: [misc_colour] tiger's eye
+FR: œil-de-tigre
+
+EN: [misc_colour] titanium yellow
+FR: jaune de titane
+
+EN: [misc_colour] tomato red
+FR: rouge tomate
+
+EN: [misc_colour] topaz
+FR: topaze
+
+EN: [misc_colour] turmeric
+FR: curcuma
+
+EN: [misc_colour] turquoise
+FR: turquoise
+
+EN: [misc_colour] ulfire
+FR: ulfire
+
+EN: [misc_colour] ultramarine
+FR: outremer
+
+EN: [misc_colour] umber
+FR: ombre
+
+EN: [misc_colour] vanilla
+FR: vanille
+
+EN: [misc_colour] verdigris
+FR: vert-de-gris
+
+EN: [misc_colour] vermilion
+FR: vermillon
+
+EN: [misc_colour] veronica
+FR: véronique
+
+EN: [misc_colour] viridian
+FR: viridian
+
+EN: [misc_colour] walnut
+FR: noyer
+
+EN: [misc_colour] watermelon green
+FR: vert pastèque
+
+EN: [misc_colour] watermelon red
+FR: rouge pastèque
+
+EN: [misc_colour] wenge
+FR: wengé
+
+EN: [misc_colour] wheat
+FR: blé
+
+EN: [misc_colour] wine
+FR: vin
+
+EN: [misc_colour] wisteria
+FR: glycine
+
+EN: [misc_colour] xanthic
+FR: xanthique
+
+EN: [misc_colour] xanthous
+FR: xanthin/xanthine
+
+EN: [misc_colour] yam
+FR: igname
+
+EN: [misc_colour] yellow ochre
+FR: ocre jaune
+
+EN: [misc_colour] zaffre
+FR: zaffre
+
+EN: [misc_colour] zinc yellow
+FR: jaune de zinc
+
+EN: [misc_colour] zinnwaldite
+FR: zinnwaldite
+
+EN: [misc_colour] zomp
+FR: zomp
+
+EN: [misc_colour] zucchini green
+FR: vert courgette
+
+EN: [mono_colour] black
+FR: noir/noire
+
+EN: [mono_colour] white
+FR: blanc/blanche
+
+EN: [mono_colour] grey
+FR: gris/grise
+
+EN: [any_colour] @rainbow_colour@
+FR: @rainbow_colour@
+
+EN: [any_colour] @misc_colour@
+FR: @misc_colour@
+
+EN: [any_colour] @mono_colour@
+FR: @mono_colour@
+
+EN: [any_pattern] arabesque
+FR: arabesques{fp}
+
+EN: [any_pattern] arrows
+FR: flèches{fp}
+
+EN: [any_pattern] chequers
+FR: damiers{mp}
+
+EN: [any_pattern] chevrons
+FR: chevrons{mp}
+
+EN: [any_pattern] diamonds
+FR: losanges{mp}
+
+EN: [any_pattern] flamestitch
+FR: points de flamme{mp}
+
+EN: [any_pattern] fractals
+FR: fractales{fp}
+
+EN: [any_pattern] gingham
+FR: carreaux vichy{mp}
+
+EN: [any_pattern] herringbone
+FR: chevrons en épi{mp}
+
+EN: [any_pattern] houndstooth
+FR: pieds-de-poule{mp}
+
+EN: [any_pattern] leopard spots
+FR: taches de léopard{fp}
+
+EN: [any_pattern] ogee
+FR: ogives{fp}
+
+EN: [any_pattern] ombre
+FR: dégradés{mp}
+
+EN: [any_pattern] paisley
+FR: motifs cachemire{mp}
+
+EN: [any_pattern] pinstripes
+FR: fines rayures{fp}
+
+EN: [any_pattern] plaid
+FR: carreaux écossais{mp}
+
+EN: [any_pattern] polka dots
+FR: pois{mp}
+
+EN: [any_pattern] quatrefoil
+FR: quadrilobes{mp}
+
+EN: [any_pattern] stripes
+FR: rayures{fp}
+
+EN: [any_pattern] spirals
+FR: spirales{fp}
+
+EN: [any_pattern] spots
+FR: taches{fp}
+
+EN: [any_pattern] squares
+FR: carrés{mp}
+
+EN: [any_pattern] stars
+FR: étoiles{fp}
+
+EN: [any_pattern] tartan
+FR: tartans{mp}
+
+EN: [any_pattern] triangles
+FR: triangles{mp}
+
+EN: [any_pattern] whorls
+FR: volutes{fp}
+
+EN: [any_pattern] zigzags
+FR: zigzags{mp}
+
+EN: [glowing_adj] bright
+FR: clair/claire
+
+EN: [glowing_adj] brilliant
+FR: brillant/brillante
+
+EN: [glowing_adj] dark
+FR: foncé/foncée
+
+EN: [glowing_adj] deep
+FR: profond/profonde
+
+EN: [glowing_adj] dull
+FR: terne
+
+EN: [glowing_adj] dusky
+FR: sombre
+
+EN: [glowing_adj] faint
+FR: léger/légère
+
+EN: [glowing_adj] gleaming
+FR: luisant/luisante
+
+EN: [glowing_adj] glossy
+FR: lustré/lustrée
+
+EN: [glowing_adj] intense
+FR: intense
+
+EN: [glowing_adj] luminous
+FR: lumineux/lumineuse
+
+EN: [glowing_adj] lurid
+FR: criard/criarde
+
+EN: [glowing_adj] lustrous
+FR: chatoyant/chatoyante
+
+EN: [glowing_adj] mottled
+FR: moucheté/mouchetée
+
+EN: [glowing_adj] murky
+FR: trouble
+
+EN: [glowing_adj] pale
+FR: pâle
+
+EN: [glowing_adj] shimmering
+FR: miroitant/miroitante
+
+EN: [glowing_adj] shining
+FR: éclatant/éclatante
+
+EN: [glowing_adj] vivid
+FR: vif/vive
+
+EN: [any_glowing_colour] @glowing_adj@ @any_colour@
+FR: {inv}@any_colour@ @glowing_adj@
+
+EN: [any_colour_pattern] @any_colour@ @any_pattern@
+FR: @any_pattern@ @any_colour@
+
+EN: [any_colour_pattern] @any_colour@ on @any_colour@ @any_pattern@
+FR: @any_pattern@ @any_colour@ sur fond @any_colour#ms@
+
+EN: [any_glowing_colour_pattern] @any_glowing_colour@ @any_pattern@
+FR: @any_pattern@ @any_glowing_colour@
+
+EN: [any_glowing_colour_pattern] @any_glowing_colour@ on @any_colour@ @any_pattern@
+FR: @any_pattern@ @any_glowing_colour@ sur fond @any_colour#ms@
+
+EN: [any_glowing_colour_pattern] @any_colour@ on @any_glowing_colour@ @any_pattern@
+FR: @any_pattern@ @any_colour@ sur fond @any_glowing_colour#ms@
+
+EN: [any_glowing_colour_pattern] @any_glowing_colour@ on @any_glowing_colour@ @any_pattern@
+FR: @any_pattern@ @any_glowing_colour@ sur fond @any_glowing_colour#ms@

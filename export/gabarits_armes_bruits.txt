@@ -1,0 +1,176 @@
+EN: You hear the [roaring|howling|raging|gusting] winds of a [blizzard|squall|snowstorm].
+FR: Vous entendez [le rugissement|le hurlement|la rage|les rafales] des vents d’[un blizzard|une bourrasque|une tempête de neige].
+
+EN: You hear ice [creaking|groaning|grinding|cracking].
+FR: Vous entendez la glace [craquer|gémir|grincer|se fissurer].
+
+EN: You hear shards of ice [tinkling|chiming].
+FR: Vous entendez des éclats de glace [tinter|carillonner].
+
+EN: You hear the [rumble|boom|crash] of [a glacier calving|icebergs colliding].
+FR: Vous entendez [le grondement|le fracas|le choc] [d’un glacier qui vêle|d’icebergs qui s’entrechoquent].
+
+EN: @Your_weapon@ lets out a [divine|blessed|sacred|holy] [chiming|tinkling|ringing|pealing|tintinnabulation].
+FR: @Your_weapon@ émet un [divin|béni|sacré|saint] [carillon|tintement|sonnement|glas|tintinnabulement].
+
+EN: @Your_weapon@ sings the [divine|blessed|sacred|holy] song of the [angels|Heavens|Barachim].
+FR: @Your_weapon@ chante le chant [divin|béni|sacré|saint] des [anges|Cieux|Barachim].
+
+EN: @Your_weapon@ [chants|recites|intones] a [divine|blessed|sacred|holy] warrior-psalm.
+FR: @Your_weapon@ [chante|récite|entonne] un psaume guerrier [divin|béni|sacré|saint].
+
+EN: @Your_weapon@ [calls|cries for|demands] [evildoers|demons|the wicked] to come forth and be judged!
+FR: @Your_weapon@ [appelle|réclame|exige] que [les malfaiteurs|les démons|les méchants] s’avancent et soient jugés !
+
+EN: @Your_weapon@ [wails|laments|cries out] at the [injustice|cruelty|suffering] of the world.
+FR: @Your_weapon@ [gémit|se lamente|s’écrie] devant [l’injustice|la cruauté|la souffrance] du monde.
+
+EN: @Your_weapon@ [croaks|ribbits] in the tongue of ancient peoples.
+FR: @Your_weapon@ [coasse|croasse] dans la langue des peuples anciens.
+
+EN: @Your_weapon@ shouts, "Whoopee!"
+FR: @Your_weapon@ s’écrie : « Youpi ! »
+
+EN: @Your_weapon@ argues with itself.
+FR: @Your_weapon@ se dispute toute seule.
+
+EN: @Your_weapon@ complains about the scenery.
+FR: @Your_weapon@ se plaint du décor.
+
+EN: @Your_weapon@ says, "I'm bored."
+FR: @Your_weapon@ dit : « Je m’ennuie. »
+
+EN: @Your_weapon@ shouts out instructions!
+FR: @Your_weapon@ crie des instructions !
+
+EN: @Your_weapon@ says, "Ssh! Did you hear that?"
+FR: @Your_weapon@ dit : « Chut ! Vous avez entendu ? »
+
+EN: @Your_weapon@ cheers you on.
+FR: @Your_weapon@ vous encourage.
+
+EN: @Your_weapon@ intones a prayer.
+FR: @Your_weapon@ entonne une prière.
+
+EN: @Your_weapon@ says, "We'll split the gold! Fifty-fifty!"
+FR: @Your_weapon@ dit : « On partage l’or ! Moitié-moitié ! »
+
+EN: @Your_weapon@ says, "You're pretty alright, for @a_player_genus@."
+FR: @Your_weapon@ dit : « Vous n’êtes pas mal, pour @a_player_genus@. »
+
+EN: @Your_weapon@ sighs, "I'm going to miss you when you're dead, @player_name@."
+FR: @Your_weapon@ soupire : « Vous me manquerez quand vous serez mort, @player_name@. »
+
+EN: @Your_weapon@ [cackles|giggles|gurgles|sighs|snorts|warbles|wails|whimpers].
+FR: @Your_weapon@ [ricane|glousse|gargouille|soupire|renifle|gazouille|gémit|geint].
+
+EN: @Your_weapon@ [coughs|swears|yawns][| loudly| noisily].
+FR: @Your_weapon@ [tousse|jure|bâille][| bruyamment| sonorement].
+
+EN: @Your_weapon@ [burps|cheers|hollers|yelps|sneezes][| loudly]!
+FR: @Your_weapon@ [rote|acclame|beugle|glapit|éternue][| bruyamment] !
+
+EN: @Your_weapon@ makes a [horrible|deep, guttural|tutting] noise.
+FR: @Your_weapon@ fait un bruit [horrible|profond et guttural|de désapprobation].
+
+EN: @Your_weapon@ makes a [deep moaning|popping] sound.
+FR: @Your_weapon@ fait un bruit [de profond gémissement|de pop].
+
+EN: @Your_weapon@ goes [tick-tock.|snicker-snack!]
+FR: @Your_weapon@ fait [tic-tac.|tchac-tchac !]
+
+EN: @Your_weapon@ howls [like a wolf.|with laughter!]
+FR: @Your_weapon@ hurle [comme un loup.|de rire !]
+
+EN: @Your_weapon@ [erupts|suddenly bursts] into laughter!
+FR: @Your_weapon@ [éclate|part soudain] de rire !
+
+EN: @Your_weapon@ gives off a [wolf whistle|sizzling sound].
+FR: @Your_weapon@ émet [un sifflement admiratif|un grésillement].
+
+EN: @Your_weapon@ lets out a [mournful sigh.|whoop!]
+FR: @Your_weapon@ laisse échapper [un soupir plaintif.|un cri de joie !]
+
+EN: @Your_weapon@ laughs crazily.
+FR: @Your_weapon@ rit de façon démente.
+
+EN: @Your_weapon@ growls menacingly.
+FR: @Your_weapon@ grogne d’un ton menaçant.
+
+EN: @Your_weapon@ sputters and hisses.
+FR: @Your_weapon@ crachote et siffle.
+
+EN: @Your_weapon@ pants and wheezes.
+FR: @Your_weapon@ halète et respire bruyamment.
+
+EN: @Your_weapon@ barks abruptly.
+FR: @Your_weapon@ aboie brusquement.
+
+EN: @Your_weapon@ screams hysterically.
+FR: @Your_weapon@ hurle hystériquement.
+
+EN: @Your_weapon@ hiccups loudly.
+FR: @Your_weapon@ hoquette bruyamment.
+
+EN: @Your_weapon@ starts to sob noisily.
+FR: @Your_weapon@ se met à sangloter bruyamment.
+
+EN: @Your_weapon@ yells in some weird language.
+FR: @Your_weapon@ crie dans une langue étrange.
+
+EN: @Your_weapon@ cries out!
+FR: @Your_weapon@ pousse un cri !
+
+EN: @Your_weapon@ burbles away merrily.
+FR: @Your_weapon@ babille gaiement.
+
+EN: @Your_weapon@ suddenly shrieks!
+FR: @Your_weapon@ glapit soudain !
+
+EN: @Your_weapon@ whistles innocently.
+FR: @Your_weapon@ siffle d’un air innocent.
+
+EN: @Your_weapon@ parrots the noises around you.
+FR: @Your_weapon@ imite les bruits autour de vous.
+
+EN: @Your_weapon@ makes a sound as if to clear its throat.
+FR: @Your_weapon@ fait un bruit, comme pour s’éclaircir la gorge.
+
+EN: @Your_weapon@ makes a twanging sound.
+FR: @Your_weapon@ fait un bruit de corde pincée.
+
+EN: @Your_weapon@ chimes [melodiously|harmoniously].
+FR: @Your_weapon@ tinte [mélodieusement|harmonieusement].
+
+EN: @Your_weapon@ imitates [a saxophone|the bagpipes].
+FR: @Your_weapon@ imite [un saxophone|la cornemuse].
+
+EN: @Your_weapon@ tinkles.
+FR: @Your_weapon@ tintinnabule.
+
+EN: @Your_weapon@ rings like a bell.
+FR: @Your_weapon@ sonne comme une cloche.
+
+EN: @Your_weapon@ emits a flourish of trumpets.
+FR: @Your_weapon@ émet une fanfare de trompettes.
+
+EN: @Your_weapon@ tootles away.
+FR: @Your_weapon@ joue de la flûte sans relâche.
+
+EN: @Your_weapon@ buzzes like a kazoo.
+FR: @Your_weapon@ vrombit comme un mirliton.
+
+EN: @Your_weapon@ chimes like a gong.
+FR: @Your_weapon@ résonne comme un gong.
+
+EN: @Your_weapon@ applauds itself.
+FR: @Your_weapon@ s’applaudit.
+
+EN: @Your_weapon@ goes toot-toot!
+FR: @Your_weapon@ fait tut-tut !
+
+EN: @Your_weapon@ does a drum roll.
+FR: @Your_weapon@ fait un roulement de tambour.
+
+EN: You hear @weapon_noise@
+FR: Vous entendez @weapon_noise@

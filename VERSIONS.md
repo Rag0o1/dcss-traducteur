@@ -11,6 +11,13 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.19 — graffitis et noms de couleurs
+
+- Nouveau moteur `moteur/graffitis.js` : les graffitis du jeu (« You see swirling green graffiti signed by Woog the god, advertising a meeting… ») sont fabriqués par une grammaire emboîtée. Le moteur analyse la phrase avec la grammaire anglaise puis la reconstruit avec la grammaire française (variantes `[a|b]`, accords en genre et en nombre : « des graffitis de runes bleues anguleuses », « des graffitis orange clair signés par Woog le dieu »).
+- Nouveau fichier de données `gabarits/graffitis_grammaire.js` (842 productions, anglais + français), généré par `outils/grammaire_graffitis.py` à partir de `outils/graffitis_fr.txt` (la traduction à corriger) : graffitis, noms des 384 couleurs (« vert pomme », « bleu ciel »…), motifs (« rayures rouge sur fond bleu »), adjectifs (« clair », « profond »…). Les phrases de Xom utilisent maintenant ces noms de couleurs français.
+- Les paroles du jeu qui parlent de graffitis sur les fontaines sont traduites (`gabarits/decors_lignes.js`, début de `decorlines.txt`).
+- Export : les phrases à gabarit (un fichier par source) et la grammaire des graffitis sont maintenant dans `export/` et dans le tableur.
+
 ## 0.18 — bruits et paroles des armes (wpnnoise.txt)
 
 - Nouveaux fichiers `gabarits/armes_bruits.js`, `armes_chantante.js`, `armes_chantante_cris.js`, `voix_diverses.js` et `phrases_a_trous/armes_bruits_sons.js` : armes bruyantes (« Votre dague ricane. », « Vous entendez un cri. »), Frostbite, Condemnation, l’Épée chantante (chants, paroles, hurlements), Majin-Bo, Zonguldrok, pensées de la forme champignon, mains d’anguille, écailles de dragon.

@@ -1,0 +1,197 @@
+EN: You hear a bark!
+FR: Vous entendez un aboiement !
+
+EN: You hear a bellow!
+FR: Vous entendez un beuglement !
+
+EN: You hear a bleat!
+FR: Vous entendez un bêlement !
+
+EN: You hear a chilling moan.
+FR: Vous entendez un gémissement glaçant.
+
+EN: You hear a croak.
+FR: Vous entendez un coassement.
+
+EN: You hear a deafening roar!
+FR: Vous entendez un rugissement assourdissant !
+
+EN: You hear a faint skittering sound.
+FR: Vous entendez un faible bruit de course sur de multiples pattes.
+
+EN: You hear a hideous shriek!
+FR: Vous entendez un hurlement hideux !
+
+EN: You hear a horrible gurgling sound!
+FR: Vous entendez un horrible gargouillis !
+
+EN: You hear a howl!
+FR: Vous entendez un hurlement !
+
+EN: You hear a loud caw.
+FR: Vous entendez un croassement sonore.
+
+EN: You hear a loud rustle.
+FR: Vous entendez un fort bruissement.
+
+EN: You hear a loud squeak.
+FR: Vous entendez un fort couinement.
+
+EN: You hear a loud, deep croak!
+FR: Vous entendez un coassement fort et grave !
+
+EN: You hear a low.
+FR: Vous entendez un meuglement.
+
+EN: You hear a roar!
+FR: Vous entendez un rugissement !
+
+EN: You hear a roar.
+FR: Vous entendez un rugissement.
+
+EN: You hear a screech!
+FR: Vous entendez un cri strident !
+
+EN: You hear a screech.
+FR: Vous entendez un cri strident.
+
+EN: You hear a shout!
+FR: Vous entendez un cri !
+
+EN: You hear a shout.
+FR: Vous entendez un cri.
+
+EN: You hear a skittering sound.
+FR: Vous entendez un bruit de course sur de multiples pattes.
+
+EN: You hear a trumpeting!
+FR: Vous entendez un barrissement !
+
+EN: You hear an angry buzzing noise.
+FR: Vous entendez un bourdonnement furieux.
+
+EN: You hear an angry growl.
+FR: Vous entendez un grognement furieux.
+
+EN: You hear an angry hiss.
+FR: Vous entendez un sifflement furieux.
+
+EN: You hear an angry squeal.
+FR: Vous entendez un glapissement furieux.
+
+EN: You hear maniacal laughter.
+FR: Vous entendez un rire dément.
+
+EN: You hear two shouts!
+FR: Vous entendez deux cris !
+
+EN: @The_monster@ barks!
+FR: @M_S@ aboie !
+
+EN: @The_monster@ bellows!
+FR: @M_S@ beugle !
+
+EN: @The_monster@ bleats!
+FR: @M_S@ bêle !
+
+EN: @The_monster@ buzzes angrily.
+FR: @M_S@ bourdonne avec colère.
+
+EN: @The_monster@ caws.
+FR: @M_S@ croasse.
+
+EN: @The_monster@ croaks.
+FR: @M_S@ coasse.
+
+EN: @The_monster@ gives a chilling moan.
+FR: @M_S@ pousse un gémissement glaçant.
+
+EN: @The_monster@ gives a hideous shriek!
+FR: @M_S@ pousse un hurlement hideux !
+
+EN: @The_monster@ gives a loud, deep croak!
+FR: @M_S@ pousse un coassement fort et grave !
+
+EN: @The_monster@ growls angrily.
+FR: @M_S@ grogne avec colère.
+
+EN: @The_monster@ gurgles horribly!
+FR: @M_S@ gargouille horriblement !
+
+EN: @The_monster@ hisses angrily.
+FR: @M_S@ siffle avec colère.
+
+EN: @The_monster@ howls!
+FR: @M_S@ hurle !
+
+EN: @The_monster@ laughs maniacally.
+FR: @M_S@ rit de façon démente.
+
+EN: @The_monster@ quivers.
+FR: @M_S@ frémit.
+
+EN: @The_monster@ roars deafeningly!
+FR: @M_S@ rugit à en rendre sourd !
+
+EN: @The_monster@ roars!
+FR: @M_S@ rugit !
+
+EN: @The_monster@ screeches!
+FR: @M_S@ pousse un cri strident !
+
+EN: @The_monster@ shouts in stereo!
+FR: @M_S@ crie en stéréo !
+
+EN: @The_monster@ shouts!
+FR: @M_S@ crie !
+
+EN: @The_monster@ shouts, "Attack, my pets! Attack!"
+FR: @M_S@ crie : « Attaquez, mes petits ! Attaquez ! »
+
+EN: @The_monster@ squeaks loudly.
+FR: @M_S@ couine bruyamment.
+
+EN: @The_monster@ squeals angrily.
+FR: @M_S@ glapit avec colère.
+
+EN: @The_monster@ swivels @possessive@ eye-stalks towards you.
+FR: @M_S@ tourne ses pédoncules oculaires vers vous.
+
+EN: @The_monster@ trumpets!
+FR: @M_S@ barrit !
+
+EN: @The_monster@ turns @possessive@ attention towards you.
+FR: @M_S@ tourne son attention vers vous.
+
+EN: @The_monster@ turns @possessive@ gaze towards you.
+FR: @M_S@ tourne son regard vers vous.
+
+EN: @The_monster@ turns @possessive@ malevolent gaze towards you.
+FR: @M_S@ tourne son regard malveillant vers vous.
+
+EN: @The_monster@ waves @possessive@ rhizomes.
+FR: @M_S@ agite ses rhizomes.
+
+EN: @The_monster_possessive@ eagle head screeches!
+FR: La tête d’aigle @M_d@ pousse un cri strident !
+
+EN: @The_monster_possessive@ fur bristles in rage as it notices you.
+FR: Le pelage @M_d@ se hérisse de rage lorsqu’il vous remarque.
+
+EN: @The_monster_possessive@ human head shouts!
+FR: La tête humaine @M_d@ crie !
+
+EN: @The_monster_possessive@ lion head roars!
+FR: La tête de lion @M_d@ rugit !
+
+EN: @The_monster_possessive@ many legs skitter faintly.
+FR: Les nombreuses pattes @M_d@ cliquettent faiblement.
+
+EN: @The_monster_possessive@ many legs skitter.
+FR: Les nombreuses pattes @M_d@ cliquettent.
+
+EN: @The_monster_possessive@ ox head lows!
+FR: La tête de bœuf @M_d@ meugle !
+
+EN: @The_monster_possessive@ pages rustle loudly.
+FR: Les pages @M_d@ bruissent bruyamment.

@@ -28,3 +28,5 @@ nouvelle version du jeu ou une autre langue. Il faut Python 3 et Node.js, et le 
    À régénérer à chaque nouvelle version pour que le tableau reste à jour. Nécessite : pip install openpyxl
 
 Voir aussi GUIDE-NOUVELLE-VERSION.txt et GUIDE-AUTRES-LANGUES.txt.
+
+6. grammaire_graffitis.py : fabrique donnees/messages/gabarits/graffitis_grammaire.js (graffitis et couleurs) à partir des fichiers du jeu (graffiti.txt, colourname.txt) et de graffitis_fr.txt (la traduction, une ligne par production anglaise). graffitis_en.txt = les productions anglaises dans l'ordre (gabarit pour traduire).

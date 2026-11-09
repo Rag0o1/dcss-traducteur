@@ -1,0 +1,287 @@
+EN: Well, hello there.
+FR: Eh bien, bonjour.
+
+EN: Aren't you a tasty little thing?
+FR: N’êtes-vous pas une petite chose savoureuse ?
+
+EN: We're going to have a lot of fun together.
+FR: Nous allons bien nous amuser ensemble.
+
+EN: Let's make your enemies cower, shall we?
+FR: Faisons trembler vos ennemis, voulez-vous ?
+
+EN: You scratch my back, I'll scratch yours... and I'm one HELL of a backscratcher.
+FR: Grattez-moi le dos, je gratterai le vôtre... et je suis un SACRÉ gratteur de dos.
+
+EN: That's more like it.
+FR: Voilà qui est mieux.
+
+EN: This should be good.
+FR: Ça devrait être bien.
+
+EN: Let me show you the power of Hell.
+FR: Laissez-moi vous montrer le pouvoir de l’Enfer.
+
+EN: Embrace the darkness.
+FR: Embrassez les ténèbres.
+
+EN: Isn't this worth a little damnation?
+FR: Cela ne vaut-il pas un peu de damnation ?
+
+EN: I'll handle this.
+FR: Je m’en occupe.
+
+EN: Now here's how it's done.
+FR: Voici comment on fait.
+
+EN: Your soul is simply delicious.
+FR: Votre âme est tout simplement délicieuse.
+
+EN: Has anyone ever told you how good your soul tastes?
+FR: Quelqu’un vous a-t-il déjà dit combien votre âme est bonne ?
+
+EN: You're beginning to bore me.
+FR: Vous commencez à m’ennuyer.
+
+EN: My talents are wasted here.
+FR: Mes talents sont gaspillés ici.
+
+EN: Why bother with such petty cantrips?
+FR: Pourquoi s’embêter avec de si petits tours ?
+
+EN: A demon of Hell at your fingers, and you cast that...
+FR: Un démon de l’Enfer au bout des doigts, et vous lancez ça...
+
+EN: Now, try casting something FUN.
+FR: Essayez donc de lancer quelque chose d’AMUSANT.
+
+EN: Another aspirant of the Dark Ways? We shall bring them all to heel together!
+FR: Un autre aspirant aux Voies Obscures ? Nous les mettrons tous au pas ensemble !
+
+EN: At last, a scion truly worthy of my power.
+FR: Enfin, un rejeton vraiment digne de mon pouvoir.
+
+EN: Finally, someone more useful than... these people.
+FR: Enfin, quelqu’un de plus utile que... ces gens-là.
+
+EN: I knew you could not resist the dark call for long.
+FR: Je savais que vous ne résisteriez pas longtemps à l’appel des ténèbres.
+
+EN: I shall forgive your past transgressions, as long as you remember your place this time.
+FR: Je pardonnerai vos transgressions passées, à condition que vous vous souveniez de votre place cette fois.
+
+EN: I shall graciously assume that you are merely clumsy, not stupid.
+FR: Je veux bien supposer que vous n’êtes que maladroit, pas stupide.
+
+EN: Don't test my patience; I have made greater than you beg for death over less!
+FR: Ne testez pas ma patience ; j’ai fait supplier la mort de plus grands que vous pour moins que cela !
+
+EN: Finally...
+FR: Enfin...
+
+EN: You'll be back again, mark my words....
+FR: Vous reviendrez, croyez-moi....
+
+EN: Dare you to relinquish me? You shall regret this insult!
+FR: Osez-vous m’abandonner ? Vous regretterez cette insulte !
+
+EN: How arrogant, to think that any shield could be mightier than the power of Zonguldrok!
+FR: Quelle arrogance de croire qu’un bouclier puisse être plus puissant que le pouvoir de Zonguldrok !
+
+EN: I wasn't done with you!
+FR: Je n’en avais pas fini avec vous !
+
+EN: At last; a crown worthy of my station.
+FR: Enfin ; une couronne digne de mon rang.
+
+EN: A good hat truly is one of the finest things in life or death.
+FR: Un bon chapeau est vraiment l’une des plus belles choses de la vie, ou de la mort.
+
+EN: I applaud your taste in fashion, my scion.
+FR: J’applaudis votre goût en matière de mode, mon rejeton.
+
+EN: Our enemies shall surely prostrate themselves before my majesty now.
+FR: Nos ennemis se prosterneront sûrement devant ma majesté maintenant.
+
+EN: A suitable chapeau.
+FR: Un couvre-chef convenable.
+
+EN: An acceptable crown. For now.
+FR: Une couronne acceptable. Pour l’instant.
+
+EN: The magic in this cap shall complement my own adequately.
+FR: La magie de ce couvre-chef complétera la mienne de façon satisfaisante.
+
+EN: How dare you fob such a shabby cap upon my head!
+FR: Comment osez-vous me refiler un couvre-chef aussi miteux !
+
+EN: What an insult, to strut around in such shoddy millinery.
+FR: Quelle insulte, de parader dans une chapellerie aussi médiocre.
+
+EN: Bah, this is suited for peasants, not a master of souls.
+FR: Bah, c’est bon pour des paysans, pas pour un maître des âmes.
+
+EN: How lamentable, to be reduced to wearing... this.
+FR: Quelle tristesse, d’en être réduit à porter... ceci.
+
+EN: I can see much more clearly than that foolish titan prince!
+FR: Je vois bien plus clair que ce stupide prince titan !
+
+EN: The purity of bronze and the beauty of gems: a fitting combination.
+FR: La pureté du bronze et la beauté des gemmes : une combinaison appropriée.
+
+EN: Let us go off to war, my scion!
+FR: Partons à la guerre, mon rejeton !
+
+EN: My scion, our enemies will not go gentle into that good night!
+FR: Mon rejeton, nos ennemis n’entreront pas doucement dans cette bonne nuit !
+
+EN: Rage, rage against the shining of the light!
+FR: Rage, rage contre l’éclat de la lumière !
+
+EN: Our combined strength is more than our foes can bear!
+FR: Notre force combinée est plus que nos ennemis ne peuvent supporter !
+
+EN: Be a stabber in the dark, treacherous to foes!
+FR: Soyez un poignardeur dans l’ombre, traître envers vos ennemis !
+
+EN: Four thousand throats may be cut in one night by a running man.
+FR: Quatre mille gorges peuvent être tranchées en une nuit par un homme qui court.
+
+EN: Ah, the thrill of more efficient killing!
+FR: Ah, le frisson d’une mise à mort plus efficace !
+
+EN: A mask of a dragon worshipper? I shall make the dragons worship me!
+FR: Un masque d’adorateur de dragons ? Je ferai en sorte que les dragons m’adorent !
+
+EN: Such primal killing power, scion....
+FR: Une telle puissance de mort primitive, rejeton....
+
+EN: Be of strong will, and bring death to all who oppose us!
+FR: Ayez une volonté forte, et apportez la mort à tous ceux qui s’opposent à nous !
+
+EN: Ah, alchemy. So many new and exciting ways to cause harm....
+FR: Ah, l’alchimie. Tant de façons nouvelles et passionnantes de faire du mal....
+
+EN: All our enemies can now be test subjects!
+FR: Tous nos ennemis peuvent désormais servir de cobayes !
+
+EN: Even if you find the elixir of immortality, remember: I was immortal first!
+FR: Même si vous trouvez l’élixir d’immortalité, souvenez-vous : j’étais immortel le premier !
+
+EN: Scion, are you pondering what I'm pondering?
+FR: Rejeton, songez-vous à ce à quoi je songe ?
+
+EN: I can tolerate a stained cap for power such as this!
+FR: Je peux tolérer un couvre-chef taché pour un tel pouvoir !
+
+EN: I must contemplate what to do next....
+FR: Je dois méditer sur ce qu’il convient de faire ensuite....
+
+EN: All will be laid low in my presence!
+FR: Tous seront terrassés en ma présence !
+
+EN: I can tolerate light if it grants the power to send my enemies to eternal darkness!
+FR: Je peux tolérer la lumière si elle donne le pouvoir d’envoyer mes ennemis dans les ténèbres éternelles !
+
+EN: Kill for my glory, not yours, scion!
+FR: Tuez pour ma gloire, pas pour la vôtre, rejeton !
+
+EN: You feel a sudden urge to sporulate.
+FR: Vous ressentez une envie soudaine de sporuler.
+
+EN: You feel a strange longing to hide under a damp log.
+FR: Vous ressentez un étrange désir de vous cacher sous une bûche humide.
+
+EN: You feel sentimental about mildew.
+FR: Vous vous sentez sentimental à l’égard du mildiou.
+
+EN: You feel a distant kinship with mold.
+FR: Vous ressentez une lointaine parenté avec la moisissure.
+
+EN: Your thoughts feel multiform.
+FR: Vos pensées vous semblent multiformes.
+
+EN: You hear a chorus of tiny whispers in the back of your mind.
+FR: Vous entendez un chœur de minuscules chuchotements au fond de votre esprit.
+
+EN: You contemplate finding a nice dark corner to settle down.
+FR: Vous songez à trouver un joli coin sombre où vous installer.
+
+EN: You consider sprouting fruit.
+FR: Vous envisagez de produire des fruits.
+
+EN: Your mycelia itch. ...wait, 'your'?
+FR: Votre mycélium vous démange. ...attendez, « votre » ?
+
+EN: You pine for rotting vegetation.
+FR: Vous languissez après la végétation en décomposition.
+
+EN: The drone of happy mushrooms echoes in your thoughts.
+FR: Le bourdonnement de champignons heureux résonne dans vos pensées.
+
+EN: You long to contribute to the soil cycle.
+FR: Vous aspirez à contribuer au cycle du sol.
+
+EN: You ponder forming a long-term relationship with algae.
+FR: Vous songez à nouer une relation durable avec les algues.
+
+EN: You feel a longing for dead leaves.
+FR: Vous ressentez un désir de feuilles mortes.
+
+EN: An eel nuzzles against your @head@.
+FR: Une anguille se frotte contre votre @head@.
+
+EN: A quiet electric buzzing fills the air.
+FR: Un léger bourdonnement électrique emplit l’air.
+
+EN: Your eels briefly tussle with each other.
+FR: Vos anguilles se chamaillent brièvement.
+
+EN: One of your eels playfully nips at the other.
+FR: L’une de vos anguilles mordille l’autre par jeu.
+
+EN: An eel wriggles against you, leaving your @skin@ tingling.
+FR: Une anguille se tortille contre vous, laissant votre peau frémissante.
+
+EN: An eel investigates your inventory.
+FR: Une anguille inspecte votre inventaire.
+
+EN: Your eels vigilantly scan the vicinity for threats.
+FR: Vos anguilles scrutent vigilamment les environs à la recherche de menaces.
+
+EN: Your eel searches [frantically|wistfully] for its partner.
+FR: Votre anguille cherche [frénétiquement|avec nostalgie] sa partenaire.
+
+EN: Your eel nuzzles against your @head@.
+FR: Votre anguille se frotte contre votre @head@.
+
+EN: Your eel wriggles against you, leaving your @skin@ tingling.
+FR: Votre anguille se tortille contre vous, laissant votre peau frémissante.
+
+EN: You feel a tender gaze of renewed flame flicker just behind you.
+FR: Vous sentez un tendre regard de flamme renaissante vaciller juste derrière vous.
+
+EN: Curious cinders crackle about, eager for new kindling.
+FR: Des cendres curieuses crépitent alentour, avides d’un nouveau petit bois.
+
+EN: You feel the weight of ages crawl through your mind and magic.
+FR: Vous sentez le poids des âges ramper dans votre esprit et votre magie.
+
+EN: You hear a draconic huff of impatience grumble through your mind.
+FR: Vous entendez un souffle draconique d’impatience gronder dans votre esprit.
+
+EN: The scales rumble violently with feverish dissatisfaction.
+FR: Les écailles grondent violemment d’un mécontentement fiévreux.
+
+EN: You feel a knowing smirk of echoing frost flicker just behind you.
+FR: Vous sentez un sourire entendu de givre résonnant vaciller juste derrière vous.
+
+EN: Ripples of frost crackle about, eager for new victims.
+FR: Des ondulations de givre crépitent alentour, avides de nouvelles victimes.
+
+EN: You almost hear a draconic scoff of disaproval growl through your mind.
+FR: Vous entendez presque un ricanement draconique de désapprobation gronder dans votre esprit.
+
+EN: The scales rattle violently with cold frustration.
+FR: Les écailles s’entrechoquent violemment d’une froide frustration.

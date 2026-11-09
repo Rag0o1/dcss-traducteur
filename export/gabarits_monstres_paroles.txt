@@ -1,0 +1,962 @@
+EN: @The_monster@ says, "@quote@"
+FR: @M_S@ dit : « @quote@ »
+
+EN: @The_monster@ says @to_foe@, "@quote@"
+FR: @M_S@ @TF1@dit@TF2@ : « @quote@ »
+
+EN: @The_monster@ says @at_foe@, "@quote@"
+FR: @M_S@ dit @at_foe@ : « @quote@ »
+
+EN: @The_monster@ says @reflexive@, "@quote@"
+FR: @M_S@ dit à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ asks, "@quote@"
+FR: @M_S@ demande : « @quote@ »
+
+EN: @The_monster@ asks @to_foe@, "@quote@"
+FR: @M_S@ @TF1@demande@TF2@ : « @quote@ »
+
+EN: @The_monster@ asks @at_foe@, "@quote@"
+FR: @M_S@ demande @at_foe@ : « @quote@ »
+
+EN: @The_monster@ asks @reflexive@, "@quote@"
+FR: @M_S@ demande à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ mutters, "@quote@"
+FR: @M_S@ marmonne : « @quote@ »
+
+EN: @The_monster@ mutters @to_foe@, "@quote@"
+FR: @M_S@ @TF1@marmonne@TF2@ : « @quote@ »
+
+EN: @The_monster@ mutters @at_foe@, "@quote@"
+FR: @M_S@ marmonne @at_foe@ : « @quote@ »
+
+EN: @The_monster@ mutters @reflexive@, "@quote@"
+FR: @M_S@ marmonne à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ mumbles, "@quote@"
+FR: @M_S@ marmonne : « @quote@ »
+
+EN: @The_monster@ mumbles @to_foe@, "@quote@"
+FR: @M_S@ @TF1@marmonne@TF2@ : « @quote@ »
+
+EN: @The_monster@ mumbles @at_foe@, "@quote@"
+FR: @M_S@ marmonne @at_foe@ : « @quote@ »
+
+EN: @The_monster@ mumbles @reflexive@, "@quote@"
+FR: @M_S@ marmonne à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ grumbles, "@quote@"
+FR: @M_S@ grogne : « @quote@ »
+
+EN: @The_monster@ grumbles @to_foe@, "@quote@"
+FR: @M_S@ @TF1@grogne@TF2@ : « @quote@ »
+
+EN: @The_monster@ grumbles @at_foe@, "@quote@"
+FR: @M_S@ grogne @at_foe@ : « @quote@ »
+
+EN: @The_monster@ grumbles @reflexive@, "@quote@"
+FR: @M_S@ grogne à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ sighs, "@quote@"
+FR: @M_S@ soupire : « @quote@ »
+
+EN: @The_monster@ sighs @to_foe@, "@quote@"
+FR: @M_S@ @TF1@soupire@TF2@ : « @quote@ »
+
+EN: @The_monster@ sighs @at_foe@, "@quote@"
+FR: @M_S@ soupire @at_foe@ : « @quote@ »
+
+EN: @The_monster@ sighs @reflexive@, "@quote@"
+FR: @M_S@ soupire à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ yells, "@quote@"
+FR: @M_S@ crie : « @quote@ »
+
+EN: @The_monster@ yells @to_foe@, "@quote@"
+FR: @M_S@ @TF1@crie@TF2@ : « @quote@ »
+
+EN: @The_monster@ yells @at_foe@, "@quote@"
+FR: @M_S@ crie @at_foe@ : « @quote@ »
+
+EN: @The_monster@ yells @reflexive@, "@quote@"
+FR: @M_S@ crie à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ shouts, "@quote@"
+FR: @M_S@ crie : « @quote@ »
+
+EN: @The_monster@ shouts @to_foe@, "@quote@"
+FR: @M_S@ @TF1@crie@TF2@ : « @quote@ »
+
+EN: @The_monster@ shouts @at_foe@, "@quote@"
+FR: @M_S@ crie @at_foe@ : « @quote@ »
+
+EN: @The_monster@ shouts @reflexive@, "@quote@"
+FR: @M_S@ crie à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ screams, "@quote@"
+FR: @M_S@ hurle : « @quote@ »
+
+EN: @The_monster@ screams @to_foe@, "@quote@"
+FR: @M_S@ @TF1@hurle@TF2@ : « @quote@ »
+
+EN: @The_monster@ screams @at_foe@, "@quote@"
+FR: @M_S@ hurle @at_foe@ : « @quote@ »
+
+EN: @The_monster@ screams @reflexive@, "@quote@"
+FR: @M_S@ hurle à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ cries, "@quote@"
+FR: @M_S@ s’écrie : « @quote@ »
+
+EN: @The_monster@ cries @to_foe@, "@quote@"
+FR: @M_S@ s’écrie @to_foe@ : « @quote@ »
+
+EN: @The_monster@ cries @at_foe@, "@quote@"
+FR: @M_S@ s’écrie @at_foe@ : « @quote@ »
+
+EN: @The_monster@ cries @reflexive@, "@quote@"
+FR: @M_S@ s’écrie à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ howls, "@quote@"
+FR: @M_S@ hurle : « @quote@ »
+
+EN: @The_monster@ howls @to_foe@, "@quote@"
+FR: @M_S@ @TF1@hurle@TF2@ : « @quote@ »
+
+EN: @The_monster@ howls @at_foe@, "@quote@"
+FR: @M_S@ hurle @at_foe@ : « @quote@ »
+
+EN: @The_monster@ howls @reflexive@, "@quote@"
+FR: @M_S@ hurle à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ wails, "@quote@"
+FR: @M_S@ gémit : « @quote@ »
+
+EN: @The_monster@ wails @to_foe@, "@quote@"
+FR: @M_S@ @TF1@gémit@TF2@ : « @quote@ »
+
+EN: @The_monster@ wails @at_foe@, "@quote@"
+FR: @M_S@ gémit @at_foe@ : « @quote@ »
+
+EN: @The_monster@ wails @reflexive@, "@quote@"
+FR: @M_S@ gémit à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ whispers, "@quote@"
+FR: @M_S@ chuchote : « @quote@ »
+
+EN: @The_monster@ whispers @to_foe@, "@quote@"
+FR: @M_S@ @TF1@chuchote@TF2@ : « @quote@ »
+
+EN: @The_monster@ whispers @at_foe@, "@quote@"
+FR: @M_S@ chuchote @at_foe@ : « @quote@ »
+
+EN: @The_monster@ whispers @reflexive@, "@quote@"
+FR: @M_S@ chuchote à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ murmurs, "@quote@"
+FR: @M_S@ murmure : « @quote@ »
+
+EN: @The_monster@ murmurs @to_foe@, "@quote@"
+FR: @M_S@ @TF1@murmure@TF2@ : « @quote@ »
+
+EN: @The_monster@ murmurs @at_foe@, "@quote@"
+FR: @M_S@ murmure @at_foe@ : « @quote@ »
+
+EN: @The_monster@ murmurs @reflexive@, "@quote@"
+FR: @M_S@ murmure à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ sings, "@quote@"
+FR: @M_S@ chante : « @quote@ »
+
+EN: @The_monster@ sings @to_foe@, "@quote@"
+FR: @M_S@ @TF1@chante@TF2@ : « @quote@ »
+
+EN: @The_monster@ sings @at_foe@, "@quote@"
+FR: @M_S@ chante @at_foe@ : « @quote@ »
+
+EN: @The_monster@ sings @reflexive@, "@quote@"
+FR: @M_S@ chante à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ laughs, "@quote@"
+FR: @M_S@ rit : « @quote@ »
+
+EN: @The_monster@ laughs @to_foe@, "@quote@"
+FR: @M_S@ @TF1@rit@TF2@ : « @quote@ »
+
+EN: @The_monster@ laughs @at_foe@, "@quote@"
+FR: @M_S@ rit @at_foe@ : « @quote@ »
+
+EN: @The_monster@ laughs @reflexive@, "@quote@"
+FR: @M_S@ rit à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ snarls, "@quote@"
+FR: @M_S@ gronde : « @quote@ »
+
+EN: @The_monster@ snarls @to_foe@, "@quote@"
+FR: @M_S@ @TF1@gronde@TF2@ : « @quote@ »
+
+EN: @The_monster@ snarls @at_foe@, "@quote@"
+FR: @M_S@ gronde @at_foe@ : « @quote@ »
+
+EN: @The_monster@ snarls @reflexive@, "@quote@"
+FR: @M_S@ gronde à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ growls, "@quote@"
+FR: @M_S@ grogne : « @quote@ »
+
+EN: @The_monster@ growls @to_foe@, "@quote@"
+FR: @M_S@ @TF1@grogne@TF2@ : « @quote@ »
+
+EN: @The_monster@ growls @at_foe@, "@quote@"
+FR: @M_S@ grogne @at_foe@ : « @quote@ »
+
+EN: @The_monster@ growls @reflexive@, "@quote@"
+FR: @M_S@ grogne à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ roars, "@quote@"
+FR: @M_S@ rugit : « @quote@ »
+
+EN: @The_monster@ roars @to_foe@, "@quote@"
+FR: @M_S@ @TF1@rugit@TF2@ : « @quote@ »
+
+EN: @The_monster@ roars @at_foe@, "@quote@"
+FR: @M_S@ rugit @at_foe@ : « @quote@ »
+
+EN: @The_monster@ roars @reflexive@, "@quote@"
+FR: @M_S@ rugit à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ exclaims, "@quote@"
+FR: @M_S@ s’exclame : « @quote@ »
+
+EN: @The_monster@ exclaims @to_foe@, "@quote@"
+FR: @M_S@ s’exclame @to_foe@ : « @quote@ »
+
+EN: @The_monster@ exclaims @at_foe@, "@quote@"
+FR: @M_S@ s’exclame @at_foe@ : « @quote@ »
+
+EN: @The_monster@ exclaims @reflexive@, "@quote@"
+FR: @M_S@ s’exclame à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ declares, "@quote@"
+FR: @M_S@ déclare : « @quote@ »
+
+EN: @The_monster@ declares @to_foe@, "@quote@"
+FR: @M_S@ @TF1@déclare@TF2@ : « @quote@ »
+
+EN: @The_monster@ declares @at_foe@, "@quote@"
+FR: @M_S@ déclare @at_foe@ : « @quote@ »
+
+EN: @The_monster@ declares @reflexive@, "@quote@"
+FR: @M_S@ déclare à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ announces, "@quote@"
+FR: @M_S@ annonce : « @quote@ »
+
+EN: @The_monster@ announces @to_foe@, "@quote@"
+FR: @M_S@ @TF1@annonce@TF2@ : « @quote@ »
+
+EN: @The_monster@ announces @at_foe@, "@quote@"
+FR: @M_S@ annonce @at_foe@ : « @quote@ »
+
+EN: @The_monster@ announces @reflexive@, "@quote@"
+FR: @M_S@ annonce à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ replies, "@quote@"
+FR: @M_S@ répond : « @quote@ »
+
+EN: @The_monster@ replies @to_foe@, "@quote@"
+FR: @M_S@ @TF1@répond@TF2@ : « @quote@ »
+
+EN: @The_monster@ replies @at_foe@, "@quote@"
+FR: @M_S@ répond @at_foe@ : « @quote@ »
+
+EN: @The_monster@ replies @reflexive@, "@quote@"
+FR: @M_S@ répond à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ warns, "@quote@"
+FR: @M_S@ prévient : « @quote@ »
+
+EN: @The_monster@ warns @to_foe@, "@quote@"
+FR: @M_S@ @TF1@prévient@TF2@ : « @quote@ »
+
+EN: @The_monster@ warns @at_foe@, "@quote@"
+FR: @M_S@ prévient @at_foe@ : « @quote@ »
+
+EN: @The_monster@ warns @reflexive@, "@quote@"
+FR: @M_S@ prévient à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ begs, "@quote@"
+FR: @M_S@ supplie : « @quote@ »
+
+EN: @The_monster@ begs @to_foe@, "@quote@"
+FR: @M_S@ @TF1@supplie@TF2@ : « @quote@ »
+
+EN: @The_monster@ begs @at_foe@, "@quote@"
+FR: @M_S@ supplie @at_foe@ : « @quote@ »
+
+EN: @The_monster@ begs @reflexive@, "@quote@"
+FR: @M_S@ supplie à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ pleads, "@quote@"
+FR: @M_S@ implore : « @quote@ »
+
+EN: @The_monster@ pleads @to_foe@, "@quote@"
+FR: @M_S@ @TF1@implore@TF2@ : « @quote@ »
+
+EN: @The_monster@ pleads @at_foe@, "@quote@"
+FR: @M_S@ implore @at_foe@ : « @quote@ »
+
+EN: @The_monster@ pleads @reflexive@, "@quote@"
+FR: @M_S@ implore à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ sobs, "@quote@"
+FR: @M_S@ sanglote : « @quote@ »
+
+EN: @The_monster@ sobs @to_foe@, "@quote@"
+FR: @M_S@ @TF1@sanglote@TF2@ : « @quote@ »
+
+EN: @The_monster@ sobs @at_foe@, "@quote@"
+FR: @M_S@ sanglote @at_foe@ : « @quote@ »
+
+EN: @The_monster@ sobs @reflexive@, "@quote@"
+FR: @M_S@ sanglote à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ hisses, "@quote@"
+FR: @M_S@ siffle : « @quote@ »
+
+EN: @The_monster@ hisses @to_foe@, "@quote@"
+FR: @M_S@ @TF1@siffle@TF2@ : « @quote@ »
+
+EN: @The_monster@ hisses @at_foe@, "@quote@"
+FR: @M_S@ siffle @at_foe@ : « @quote@ »
+
+EN: @The_monster@ hisses @reflexive@, "@quote@"
+FR: @M_S@ siffle à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ snaps, "@quote@"
+FR: @M_S@ rétorque : « @quote@ »
+
+EN: @The_monster@ snaps @to_foe@, "@quote@"
+FR: @M_S@ @TF1@rétorque@TF2@ : « @quote@ »
+
+EN: @The_monster@ snaps @at_foe@, "@quote@"
+FR: @M_S@ rétorque @at_foe@ : « @quote@ »
+
+EN: @The_monster@ snaps @reflexive@, "@quote@"
+FR: @M_S@ rétorque à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ taunts, "@quote@"
+FR: @M_S@ nargue : « @quote@ »
+
+EN: @The_monster@ taunts @to_foe@, "@quote@"
+FR: @M_S@ @TF1@nargue@TF2@ : « @quote@ »
+
+EN: @The_monster@ taunts @at_foe@, "@quote@"
+FR: @M_S@ nargue @at_foe@ : « @quote@ »
+
+EN: @The_monster@ taunts @reflexive@, "@quote@"
+FR: @M_S@ nargue à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ cackles, "@quote@"
+FR: @M_S@ caquette : « @quote@ »
+
+EN: @The_monster@ cackles @to_foe@, "@quote@"
+FR: @M_S@ @TF1@caquette@TF2@ : « @quote@ »
+
+EN: @The_monster@ cackles @at_foe@, "@quote@"
+FR: @M_S@ caquette @at_foe@ : « @quote@ »
+
+EN: @The_monster@ cackles @reflexive@, "@quote@"
+FR: @M_S@ caquette à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ gurgles, "@quote@"
+FR: @M_S@ gargouille : « @quote@ »
+
+EN: @The_monster@ gurgles @to_foe@, "@quote@"
+FR: @M_S@ @TF1@gargouille@TF2@ : « @quote@ »
+
+EN: @The_monster@ gurgles @at_foe@, "@quote@"
+FR: @M_S@ gargouille @at_foe@ : « @quote@ »
+
+EN: @The_monster@ gurgles @reflexive@, "@quote@"
+FR: @M_S@ gargouille à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ chuckles, "@quote@"
+FR: @M_S@ ricane : « @quote@ »
+
+EN: @The_monster@ chuckles @to_foe@, "@quote@"
+FR: @M_S@ @TF1@ricane@TF2@ : « @quote@ »
+
+EN: @The_monster@ chuckles @at_foe@, "@quote@"
+FR: @M_S@ ricane @at_foe@ : « @quote@ »
+
+EN: @The_monster@ chuckles @reflexive@, "@quote@"
+FR: @M_S@ ricane à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ remarks, "@quote@"
+FR: @M_S@ remarque : « @quote@ »
+
+EN: @The_monster@ remarks @to_foe@, "@quote@"
+FR: @M_S@ @TF1@remarque@TF2@ : « @quote@ »
+
+EN: @The_monster@ remarks @at_foe@, "@quote@"
+FR: @M_S@ remarque @at_foe@ : « @quote@ »
+
+EN: @The_monster@ remarks @reflexive@, "@quote@"
+FR: @M_S@ remarque à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ states, "@quote@"
+FR: @M_S@ affirme : « @quote@ »
+
+EN: @The_monster@ states @to_foe@, "@quote@"
+FR: @M_S@ @TF1@affirme@TF2@ : « @quote@ »
+
+EN: @The_monster@ states @at_foe@, "@quote@"
+FR: @M_S@ affirme @at_foe@ : « @quote@ »
+
+EN: @The_monster@ states @reflexive@, "@quote@"
+FR: @M_S@ affirme à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ boasts, "@quote@"
+FR: @M_S@ se vante : « @quote@ »
+
+EN: @The_monster@ boasts @to_foe@, "@quote@"
+FR: @M_S@ se vante @to_foe@ : « @quote@ »
+
+EN: @The_monster@ boasts @at_foe@, "@quote@"
+FR: @M_S@ se vante @at_foe@ : « @quote@ »
+
+EN: @The_monster@ boasts @reflexive@, "@quote@"
+FR: @M_S@ se vante à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ complains, "@quote@"
+FR: @M_S@ se plaint : « @quote@ »
+
+EN: @The_monster@ complains @to_foe@, "@quote@"
+FR: @M_S@ se plaint @to_foe@ : « @quote@ »
+
+EN: @The_monster@ complains @at_foe@, "@quote@"
+FR: @M_S@ se plaint @at_foe@ : « @quote@ »
+
+EN: @The_monster@ complains @reflexive@, "@quote@"
+FR: @M_S@ se plaint à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ mocks, "@quote@"
+FR: @M_S@ se moque : « @quote@ »
+
+EN: @The_monster@ mocks @to_foe@, "@quote@"
+FR: @M_S@ se moque @to_foe@ : « @quote@ »
+
+EN: @The_monster@ mocks @at_foe@, "@quote@"
+FR: @M_S@ se moque @at_foe@ : « @quote@ »
+
+EN: @The_monster@ mocks @reflexive@, "@quote@"
+FR: @M_S@ se moque à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ gasps, "@quote@"
+FR: @M_S@ halète : « @quote@ »
+
+EN: @The_monster@ gasps @to_foe@, "@quote@"
+FR: @M_S@ @TF1@halète@TF2@ : « @quote@ »
+
+EN: @The_monster@ gasps @at_foe@, "@quote@"
+FR: @M_S@ halète @at_foe@ : « @quote@ »
+
+EN: @The_monster@ gasps @reflexive@, "@quote@"
+FR: @M_S@ halète à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ intones, "@quote@"
+FR: @M_S@ entonne : « @quote@ »
+
+EN: @The_monster@ intones @to_foe@, "@quote@"
+FR: @M_S@ @TF1@entonne@TF2@ : « @quote@ »
+
+EN: @The_monster@ intones @at_foe@, "@quote@"
+FR: @M_S@ entonne @at_foe@ : « @quote@ »
+
+EN: @The_monster@ intones @reflexive@, "@quote@"
+FR: @M_S@ entonne à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ affirms, "@quote@"
+FR: @M_S@ affirme : « @quote@ »
+
+EN: @The_monster@ affirms @to_foe@, "@quote@"
+FR: @M_S@ @TF1@affirme@TF2@ : « @quote@ »
+
+EN: @The_monster@ affirms @at_foe@, "@quote@"
+FR: @M_S@ affirme @at_foe@ : « @quote@ »
+
+EN: @The_monster@ affirms @reflexive@, "@quote@"
+FR: @M_S@ affirme à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ pronounces, "@quote@"
+FR: @M_S@ prononce : « @quote@ »
+
+EN: @The_monster@ pronounces @to_foe@, "@quote@"
+FR: @M_S@ @TF1@prononce@TF2@ : « @quote@ »
+
+EN: @The_monster@ pronounces @at_foe@, "@quote@"
+FR: @M_S@ prononce @at_foe@ : « @quote@ »
+
+EN: @The_monster@ pronounces @reflexive@, "@quote@"
+FR: @M_S@ prononce à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ bellows, "@quote@"
+FR: @M_S@ beugle : « @quote@ »
+
+EN: @The_monster@ bellows @to_foe@, "@quote@"
+FR: @M_S@ @TF1@beugle@TF2@ : « @quote@ »
+
+EN: @The_monster@ bellows @at_foe@, "@quote@"
+FR: @M_S@ beugle @at_foe@ : « @quote@ »
+
+EN: @The_monster@ bellows @reflexive@, "@quote@"
+FR: @M_S@ beugle à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ calls, "@quote@"
+FR: @M_S@ appelle : « @quote@ »
+
+EN: @The_monster@ calls @to_foe@, "@quote@"
+FR: @M_S@ @TF1@appelle@TF2@ : « @quote@ »
+
+EN: @The_monster@ calls @at_foe@, "@quote@"
+FR: @M_S@ appelle @at_foe@ : « @quote@ »
+
+EN: @The_monster@ calls @reflexive@, "@quote@"
+FR: @M_S@ appelle à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ commands, "@quote@"
+FR: @M_S@ ordonne : « @quote@ »
+
+EN: @The_monster@ commands @to_foe@, "@quote@"
+FR: @M_S@ @TF1@ordonne@TF2@ : « @quote@ »
+
+EN: @The_monster@ commands @at_foe@, "@quote@"
+FR: @M_S@ ordonne @at_foe@ : « @quote@ »
+
+EN: @The_monster@ commands @reflexive@, "@quote@"
+FR: @M_S@ ordonne à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ demands, "@quote@"
+FR: @M_S@ exige : « @quote@ »
+
+EN: @The_monster@ demands @to_foe@, "@quote@"
+FR: @M_S@ @TF1@exige@TF2@ : « @quote@ »
+
+EN: @The_monster@ demands @at_foe@, "@quote@"
+FR: @M_S@ exige @at_foe@ : « @quote@ »
+
+EN: @The_monster@ demands @reflexive@, "@quote@"
+FR: @M_S@ exige à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ thunders, "@quote@"
+FR: @M_S@ tonne : « @quote@ »
+
+EN: @The_monster@ thunders @to_foe@, "@quote@"
+FR: @M_S@ @TF1@tonne@TF2@ : « @quote@ »
+
+EN: @The_monster@ thunders @at_foe@, "@quote@"
+FR: @M_S@ tonne @at_foe@ : « @quote@ »
+
+EN: @The_monster@ thunders @reflexive@, "@quote@"
+FR: @M_S@ tonne à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ sneers, "@quote@"
+FR: @M_S@ ricane : « @quote@ »
+
+EN: @The_monster@ sneers @to_foe@, "@quote@"
+FR: @M_S@ @TF1@ricane@TF2@ : « @quote@ »
+
+EN: @The_monster@ sneers @at_foe@, "@quote@"
+FR: @M_S@ ricane @at_foe@ : « @quote@ »
+
+EN: @The_monster@ sneers @reflexive@, "@quote@"
+FR: @M_S@ ricane à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ barks, "@quote@"
+FR: @M_S@ aboie : « @quote@ »
+
+EN: @The_monster@ barks @to_foe@, "@quote@"
+FR: @M_S@ @TF1@aboie@TF2@ : « @quote@ »
+
+EN: @The_monster@ barks @at_foe@, "@quote@"
+FR: @M_S@ aboie @at_foe@ : « @quote@ »
+
+EN: @The_monster@ barks @reflexive@, "@quote@"
+FR: @M_S@ aboie à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ rasps, "@quote@"
+FR: @M_S@ râle : « @quote@ »
+
+EN: @The_monster@ rasps @to_foe@, "@quote@"
+FR: @M_S@ @TF1@râle@TF2@ : « @quote@ »
+
+EN: @The_monster@ rasps @at_foe@, "@quote@"
+FR: @M_S@ râle @at_foe@ : « @quote@ »
+
+EN: @The_monster@ rasps @reflexive@, "@quote@"
+FR: @M_S@ râle à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ moans, "@quote@"
+FR: @M_S@ gémit : « @quote@ »
+
+EN: @The_monster@ moans @to_foe@, "@quote@"
+FR: @M_S@ @TF1@gémit@TF2@ : « @quote@ »
+
+EN: @The_monster@ moans @at_foe@, "@quote@"
+FR: @M_S@ gémit @at_foe@ : « @quote@ »
+
+EN: @The_monster@ moans @reflexive@, "@quote@"
+FR: @M_S@ gémit à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ blurts, "@quote@"
+FR: @M_S@ lâche : « @quote@ »
+
+EN: @The_monster@ blurts @to_foe@, "@quote@"
+FR: @M_S@ @TF1@lâche@TF2@ : « @quote@ »
+
+EN: @The_monster@ blurts @at_foe@, "@quote@"
+FR: @M_S@ lâche @at_foe@ : « @quote@ »
+
+EN: @The_monster@ blurts @reflexive@, "@quote@"
+FR: @M_S@ lâche à @reflexive@ : « @quote@ »
+
+EN: @The_monster@ grins evilly.
+FR: @M_S@ sourit d’un air mauvais.
+
+EN: @The_monster@ grins malevolently.
+FR: @M_S@ sourit avec malveillance.
+
+EN: @The_monster@ grins madly.
+FR: @M_S@ sourit comme un fou.
+
+EN: @The_monster@ grins.
+FR: @M_S@ sourit.
+
+EN: @The_monster@ smiles happily.
+FR: @M_S@ sourit joyeusement.
+
+EN: @The_monster@ smiles.
+FR: @M_S@ sourit.
+
+EN: @The_monster@ shakes with grief.
+FR: @M_S@ tremble de chagrin.
+
+EN: @The_monster@ shakes @possessive@ head.
+FR: @M_S@ secoue la tête.
+
+EN: @The_monster@ ponders the situation.
+FR: @M_S@ réfléchit à la situation.
+
+EN: @The_monster@ grinds @possessive@ teeth.
+FR: @M_S@ grince des dents.
+
+EN: @The_monster@ clenches @possessive@ teeth.
+FR: @M_S@ serre les dents.
+
+EN: @The_monster@ clenches @possessive@ claws.
+FR: @M_S@ serre les griffes.
+
+EN: @The_monster@ bares @possessive@ teeth.
+FR: @M_S@ montre les dents.
+
+EN: @The_monster@ gestures wildly.
+FR: @M_S@ fait des gestes désordonnés.
+
+EN: @The_monster@ cries.
+FR: @M_S@ pleure.
+
+EN: @The_monster@ weeps.
+FR: @M_S@ sanglote.
+
+EN: @The_monster@ waves at you.
+FR: @M_S@ vous fait signe de la main.
+
+EN: @The_monster@ waves excitedly.
+FR: @M_S@ fait de grands signes.
+
+EN: @The_monster@ waves @possessive@ antennae.
+FR: @M_S@ agite ses antennes.
+
+EN: @The_monster@ wildly waves @possessive@ antennae.
+FR: @M_S@ agite frénétiquement ses antennes.
+
+EN: @The_monster@ wriggles @possessive@ tentacles.
+FR: @M_S@ remue ses tentacules.
+
+EN: @The_monster@ twirls @possessive@ moustache.
+FR: @M_S@ tortille sa moustache.
+
+EN: @The_monster@ twirls @possessive@ quarterstaff.
+FR: @M_S@ fait tournoyer son bâton.
+
+EN: @The_monster@ twirls @possessive@ cape.
+FR: @M_S@ fait tournoyer sa cape.
+
+EN: @The_monster@ twirls on the spot.
+FR: @M_S@ tourne sur place.
+
+EN: @The_monster@ twirls gently on the spot.
+FR: @M_S@ tourne doucement sur place.
+
+EN: @The_monster@ spins like a top.
+FR: @M_S@ tourne comme une toupie.
+
+EN: @The_monster@ rolls in a circle.
+FR: @M_S@ roule en cercle.
+
+EN: @The_monster@ rolls around.
+FR: @M_S@ se roule par terre.
+
+EN: @The_monster@ looks very confused.
+FR: @M_S@ a l’air très perplexe.
+
+EN: @The_monster@ looks at you.
+FR: @M_S@ vous regarde.
+
+EN: @The_monster@ lashes @possessive@ tail.
+FR: @M_S@ fouette l’air de sa queue.
+
+EN: @The_monster@ flutters around in erratic circles.
+FR: @M_S@ voltige en cercles désordonnés.
+
+EN: @The_monster@ blows smoke rings.
+FR: @M_S@ souffle des ronds de fumée.
+
+EN: @The_monster@ beckons to @foe@.
+FR: @M_S@ fait signe à @T_o@.
+
+EN: @The_monster@ yawns.
+FR: @M_S@ bâille.
+
+EN: @The_monster@ yawns in an exaggerated manner.
+FR: @M_S@ bâille de façon exagérée.
+
+EN: @The_monster@ wobbles.
+FR: @M_S@ vacille.
+
+EN: @The_monster@ winces.
+FR: @M_S@ grimace de douleur.
+
+EN: @The_monster@ winks at you.
+FR: @M_S@ vous fait un clin d’œil.
+
+EN: @The_monster@ whirls about in circles.
+FR: @M_S@ tourbillonne en cercles.
+
+EN: @The_monster@ wails in agony.
+FR: @M_S@ gémit d’agonie.
+
+EN: @The_monster@ wags @possessive@ tail.
+FR: @M_S@ remue la queue.
+
+EN: @The_monster@ twitches @possessive@ whiskers.
+FR: @M_S@ remue ses moustaches.
+
+EN: @The_monster@ twists in agony.
+FR: @M_S@ se tord d’agonie.
+
+EN: @The_monster@ tugs at @possessive@ hair.
+FR: @M_S@ tire sur ses cheveux.
+
+EN: @The_monster@ tries to sneak away.
+FR: @M_S@ essaie de s’esquiver discrètement.
+
+EN: @The_monster@ tries to hide somewhere.
+FR: @M_S@ essaie de se cacher quelque part.
+
+EN: @The_monster@ takes aim.
+FR: @M_S@ vise.
+
+EN: @The_monster@ takes aim @at_foe@.
+FR: @M_S@ vise @T_o@.
+
+EN: @The_monster@ takes a fighting stance.
+FR: @M_S@ prend une posture de combat.
+
+EN: @The_monster@ takes a defensive stance.
+FR: @M_S@ prend une posture défensive.
+
+EN: @The_monster@ takes a bow.
+FR: @M_S@ s’incline.
+
+EN: @The_monster@ strikes a fencing pose.
+FR: @M_S@ prend une pose d’escrimeur.
+
+EN: @The_monster@ assumes a wrestling stance.
+FR: @M_S@ prend une posture de lutteur.
+
+EN: @The_monster@ prays.
+FR: @M_S@ prie.
+
+EN: @The_monster@ hums a lullaby.
+FR: @M_S@ fredonne une berceuse.
+
+EN: @The_monster@ sings.
+FR: @M_S@ chante.
+
+EN: @The_monster@ makes quacking noises.
+FR: @M_S@ fait des couacs.
+
+EN: @The_monster@ gurgles.
+FR: @M_S@ gargouille.
+
+EN: @The_monster@ howls an indescribable curse.
+FR: @M_S@ hurle une malédiction indescriptible.
+
+EN: @The_monster@ rolls @possessive@ eyes.
+FR: @M_S@ lève les yeux au ciel.
+
+EN: @The_monster@ sighs.
+FR: @M_S@ soupire.
+
+EN: @The_monster@ chants a prayer to @god@.
+FR: @M_S@ psalmodie une prière à @god@.
+
+EN: @The_monster@ puffs mist at @foe@.
+FR: @M_S@ souffle de la brume sur @T_o@.
+
+EN: @The_monster@ is momentarily hidden by a cloud of flames.
+FR: @M_S@ est un instant caché par un nuage de flammes.
+
+EN: @The_monster@ seems to say something.
+FR: @M_S@ semble dire quelque chose.
+
+EN: @The_monster@ says something but you don't hear anything.
+FR: @M_S@ dit quelque chose mais vous n’entendez rien.
+
+EN: @The_monster@ stares at you.
+FR: @M_S@ vous fixe.
+
+EN: @The_monster@ glares at you.
+FR: @M_S@ vous foudroie du regard.
+
+EN: @The_monster@ shrugs.
+FR: @M_S@ hausse les épaules.
+
+EN: @The_monster@ nods.
+FR: @M_S@ hoche la tête.
+
+EN: @The_monster@ laughs.
+FR: @M_S@ rit.
+
+EN: @The_monster@ scratches @possessive@ head.
+FR: @M_S@ se gratte la tête.
+
+EN: @The_monster@ flexes @possessive@ muscles.
+FR: @M_S@ bande ses muscles.
+
+EN: @The_monster_possessive@ tail lashes.
+FR: La queue @M_d@ fouette l’air.
+
+EN: @The_monster_possessive@ hands start to glow.
+FR: Les mains @M_d@ se mettent à luire.
+
+EN: @The_monster_possessive@ eyes start to glow.
+FR: Les yeux @M_d@ se mettent à luire.
+
+EN: @The_monster_possessive@ eyes glow red.
+FR: Les yeux @M_d@ luisent de rouge.
+
+EN: @The_monster_possessive@ eyes start glowing with a red light.
+FR: Les yeux @M_d@ se mettent à luire d’une lueur rouge.
+
+EN: @The_monster_possessive@ eyes momentarily flash bright red.
+FR: Les yeux @M_d@ brillent un instant d’un rouge vif.
+
+EN: @The_monster_possessive@ eyes look fiery.
+FR: Les yeux @M_d@ semblent en feu.
+
+EN: @The_monster_possessive@ eyes close briefly, then snap open.
+FR: Les yeux @M_d@ se ferment brièvement, puis se rouvrent d’un coup.
+
+EN: @The_monster_possessive@ fingertips begin to glow.
+FR: Le bout des doigts @M_d@ se met à luire.
+
+EN: @The_monster_possessive@ mandibles click thoughtfully.
+FR: Les mandibules @M_d@ cliquettent d’un air pensif.
+
+EN: @The_monster_possessive@ bandages flutter.
+FR: Les bandages @M_d@ flottent.
+
+EN: @The_monster_possessive@ bangles clink loudly.
+FR: Les bracelets @M_d@ tintent bruyamment.
+
+EN: @The_monster_possessive@ armour gleams in the torchlight.
+FR: L’armure @M_d@ brille à la lueur des torches.
+
+EN: @The_monster_possessive@ horned helmet rattles.
+FR: Le casque à cornes @M_d@ cliquette.
+
+EN: @The_monster_possessive@ face changes twice.
+FR: Le visage @M_d@ change deux fois.
+
+EN: @The_monster_possessive@ form shimmers in the rain.
+FR: La forme @M_d@ miroite sous la pluie.
+
+EN: @The_monster_possessive@ flesh secretes a thick mucus.
+FR: La chair @M_d@ sécrète un mucus épais.
+
+EN: @The_monster_possessive@ feet meld with the ground, briefly.
+FR: Les pieds @M_d@ se fondent brièvement dans le sol.
+
+EN: Water drips from @the_monster_possessive@ barrel.
+FR: De l’eau goutte du tonneau @M_d@.
+
+EN: Sweat drips down @the_monster_possessive@ chest.
+FR: De la sueur coule sur le torse @M_d@.
+
+EN: Something foul drips from @the_monster_possessive@ claws.
+FR: Quelque chose d’infect goutte des griffes @M_d@.
+
+EN: Some snowflakes condense on @the_monster@.
+FR: Des flocons de neige se condensent sur @M_o@.
+
+EN: Space seems to twist oddly around @the_monster@.
+FR: L’espace semble se tordre étrangement autour @M_d@.
+
+EN: For a moment, you lose track of @the_monster@.
+FR: Un instant, vous perdez @M_o@ de vue.
+
+EN: For a moment, @the_monster@ blends into the shadows.
+FR: Un instant, @M_S@ se fond dans les ombres.
+
+EN: One of @the_monster_possessive@ claws falls out.
+FR: L’une des griffes @M_d@ tombe.
+
+EN: One of @the_monster_possessive@ icy fingers falls off.
+FR: L’un des doigts glacés @M_d@ tombe.
+
+EN: A flash of anger passes briefly over @the_monster_possessive@ face.
+FR: Un éclair de colère traverse brièvement le visage @M_d@.
+
+EN: A dozen eyes blink open in @the_monster_possessive@ chest.
+FR: Une douzaine d’yeux s’ouvrent dans le torse @M_d@.
+
+EN: A brief shower of sparks shoots from @the_monster_possessive@ claws.
+FR: Une brève gerbe d’étincelles jaillit des griffes @M_d@.
+
+EN: Hollow, blind eyes appear on @the_monster_possessive@ head.
+FR: Des yeux creux et aveugles apparaissent sur la tête @M_d@.
+
+EN: Strange appendages sprout from @the_monster_possessive@ back.
+FR: D’étranges appendices poussent sur le dos @M_d@.
+
+EN: The earth trembles for a moment.
+FR: La terre tremble un instant.
+
+EN: A sense of peace washes over you.
+FR: Un sentiment de paix vous envahit.
+
+EN: A chill runs down your spine.
+FR: Un frisson vous parcourt l’échine.
+
+EN: You feel troubled.
+FR: Vous vous sentez troublé.
+
+EN: You feel disoriented.
+FR: Vous vous sentez désorienté.
+
+EN: You feel [cursed|doomed].
+FR: Vous vous sentez [maudit|condamné].

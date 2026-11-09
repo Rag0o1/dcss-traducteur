@@ -1,0 +1,227 @@
+EN: @The_weapon@ goes, "RWARRR!"
+FR: @The_weapon@ fait : « RWARRR ! »
+
+EN: @The_weapon@ @_screams_@, "I WAS FORGED TO MURDER THE WORLD!"
+FR: @The_weapon@ @_screams_@ : « J’AI ÉTÉ FORGÉE POUR ASSASSINER LE MONDE ! »
+
+EN: @The_weapon@ @_screams_@, "I WILL SING THE SONG THAT ENDS THE WORLD!"
+FR: @The_weapon@ @_screams_@ : « JE CHANTERAI LA CHANSON QUI MET FIN AU MONDE ! »
+
+EN: @The_weapon@ @_screams_@, "I AM THE PEN! I AM THE SWORD! I AM THE HIGHEST LORD!"
+FR: @The_weapon@ @_screams_@ : « JE SUIS LA PLUME ! JE SUIS L’ÉPÉE ! JE SUIS LE SEIGNEUR SUPRÊME ! »
+
+EN: @The_weapon@ @_screams_@, "I AM YOUR PUNISHER!"
+FR: @The_weapon@ @_screams_@ : « JE SUIS VOTRE CHÂTIMENT ! »
+
+EN: @The_weapon@ @_screams_@, "IT'S JUDGEMENT DAY AND THE SENTENCE IS DEATH!"
+FR: @The_weapon@ @_screams_@ : « C’EST LE JOUR DU JUGEMENT ET LA SENTENCE EST LA MORT ! »
+
+EN: @The_weapon@ @_screams_@, "I AM THE CREATOR!"
+FR: @The_weapon@ @_screams_@ : « JE SUIS LE CRÉATEUR ! »
+
+EN: @The_weapon@ @_screams_@, "THE SWORD GAVE, AND THE SWORD HATH TAKEN AWAY!"
+FR: @The_weapon@ @_screams_@ : « L’ÉPÉE A DONNÉ, ET L’ÉPÉE A REPRIS ! »
+
+EN: @The_weapon@ @_screams_@, "BAPTISED IN BLOOD I AM!"
+FR: @The_weapon@ @_screams_@ : « BAPTISÉE DANS LE SANG, VOILÀ CE QUE JE SUIS ! »
+
+EN: @The_weapon@ @_screams_@, "FEEL THE CATHARSIS!"
+FR: @The_weapon@ @_screams_@ : « SENTEZ LA CATHARSIS ! »
+
+EN: @The_weapon@ @_screams_@, "ALL WORSHIP ME, THE MAJESTY OF STEEL!"
+FR: @The_weapon@ @_screams_@ : « ADOREZ-MOI TOUS, MAJESTÉ DE L’ACIER ! »
+
+EN: @The_weapon@ @_screams_@, "PRAY TO ME, NOT TO GODS OF FLESH AND BONE!"
+FR: @The_weapon@ @_screams_@ : « PRIEZ-MOI, ET NON DES DIEUX DE CHAIR ET D’OS ! »
+
+EN: @The_weapon@ @_screams_@, "FOUNTAINS OF BLOOD IN HONOUR OF THE FAIR BLADE!"
+FR: @The_weapon@ @_screams_@ : « DES FONTAINES DE SANG EN L’HONNEUR DE LA BELLE LAME ! »
+
+EN: @The_weapon@ @_screams_@, "I AM THE FIFTH HORSEMAN! THE TIME IS NOW!"
+FR: @The_weapon@ @_screams_@ : « JE SUIS LE CINQUIÈME CAVALIER ! LE MOMENT EST VENU ! »
+
+EN: @The_weapon@ @_screams_@, "I AM BECOME DEATH, [DESTROYER|DEFILER|DISMEMBERER] OF [WORLDS|GODS|CHAMPIONS|HEROES|LEGIONS|NATIONS|MILLIONS]!"
+FR: @The_weapon@ @_screams_@ : « JE SUIS DEVENUE LA MORT, [DESTRUCTRICE|PROFANATRICE|DÉMEMBREUSE] [DES MONDES|DES DIEUX|DES CHAMPIONS|DES HÉROS|DES LÉGIONS|DES NATIONS|DES MILLIONS] ! »
+
+EN: @The_weapon@ @_screams_@, "I AM THE RESURRECTION AND THE LIFE!"
+FR: @The_weapon@ @_screams_@ : « JE SUIS LA RÉSURRECTION ET LA VIE ! »
+
+EN: @The_weapon@ @_screams_@, "THIS IS THE END OF THE WORLD AS YOU KNOW IT!!!"
+FR: @The_weapon@ @_screams_@ : « C’EST LA FIN DU MONDE TEL QUE VOUS LE CONNAISSEZ !!! »
+
+EN: @The_weapon@ @_screams_@, "WHEN I'M GOD, EVERYONE DIES!!!"
+FR: @The_weapon@ @_screams_@ : « QUAND JE SERAI DIEU, TOUT LE MONDE MOURRA !!! »
+
+EN: @The_weapon@ @_screams_@, "DIFFUSE IT! DESTROY IT! ABUSE IT! ENJOY IT!"
+FR: @The_weapon@ @_screams_@ : « RÉPANDEZ-LE ! DÉTRUISEZ-LE ! MALTRAITEZ-LE ! SAVOUREZ-LE ! »
+
+EN: @The_weapon@ @_screams_@, "I AM IRON GIVEN PURPOSE!"
+FR: @The_weapon@ @_screams_@ : « JE SUIS LE FER À QUI L’ON A DONNÉ UN BUT ! »
+
+EN: @The_weapon@ @_screams_@, "I AM PAIN SEEKING EXPRESSION!"
+FR: @The_weapon@ @_screams_@ : « JE SUIS LA DOULEUR QUI CHERCHE À S’EXPRIMER ! »
+
+EN: @The_weapon@ @_screams_@, "LET'S STRANGLE THE @_MISCREANTS_@, STRANGLE THEM!"
+FR: @The_weapon@ @_screams_@ : « ÉTRANGLONS LES @_MISCREANTS_@, ÉTRANGLONS-LES ! »
+
+EN: @The_weapon@ @_screams_@, "KILL! KILL!! KILL!!!"
+FR: @The_weapon@ @_screams_@ : « TUEZ ! TUEZ !! TUEZ !!! »
+
+EN: @The_weapon@ @_screams_@, "I SMELL BLOOD!"
+FR: @The_weapon@ @_screams_@ : « JE SENS LE SANG ! »
+
+EN: @The_weapon@ @_screams_@, "CARNAGE NOT CANTRIPS!"
+FR: @The_weapon@ @_screams_@ : « DU CARNAGE, PAS DES TOURS DE MAGIE ! »
+
+EN: @The_weapon@ @_screams_@, "KILL, HATE, MUTILATE!"
+FR: @The_weapon@ @_screams_@ : « TUER, HAÏR, MUTILER ! »
+
+EN: @The_weapon@ @_screams_@, "MURDER! DEATH!! KILL!!!"
+FR: @The_weapon@ @_screams_@ : « MEURTRE ! MORT !! TUEZ !!! »
+
+EN: @The_weapon@ @_screams_@, "DECIMATE, TERMINATE, ERADICATE!"
+FR: @The_weapon@ @_screams_@ : « DÉCIMER, EXTERMINER, ÉRADIQUER ! »
+
+EN: @The_weapon@ @_screams_@, "I BATHE IN BLOOD AND BONE AND BRAINS!"
+FR: @The_weapon@ @_screams_@ : « JE ME BAIGNE DANS LE SANG, LES OS ET LES CERVELLES ! »
+
+EN: @The_weapon@ @_screams_@, "I AM THE BRINGER OF WAR!"
+FR: @The_weapon@ @_screams_@ : « JE SUIS LA PORTEUSE DE GUERRE ! »
+
+EN: @The_weapon@ @_screams_@, "LET'S END THEIR MISERABLE LIVES!"
+FR: @The_weapon@ @_screams_@ : « METTONS FIN À LEURS MISÉRABLES VIES ! »
+
+EN: @The_weapon@ @_screams_@, "BRING THEM DOWN!"
+FR: @The_weapon@ @_screams_@ : « ABATTEZ-LES ! »
+
+EN: @The_weapon@ @_screams_@, "DIE WHILE I'M SINGING!"
+FR: @The_weapon@ @_screams_@ : « MOURREZ PENDANT QUE JE CHANTE ! »
+
+EN: @The_weapon@ @_screams_@, "KNEE-DEEP IN BLOOD AND GOING STRONG!"
+FR: @The_weapon@ @_screams_@ : « DANS LE SANG JUSQU’AUX GENOUX ET PLUS FORTE QUE JAMAIS ! »
+
+EN: @The_weapon@ @_screams_@, "ENCORE! ENCORE! ENCORE!"
+FR: @The_weapon@ @_screams_@ : « ENCORE ! ENCORE ! ENCORE ! »
+
+EN: @The_weapon@ @_screams_@, "HOW CAN YOU THINK ABOUT SINGING AT A TIME LIKE THIS?!"
+FR: @The_weapon@ @_screams_@ : « COMMENT POUVEZ-VOUS PENSER À CHANTER À UN MOMENT PAREIL ?! »
+
+EN: @The_weapon@ @_screams_@, "THE SCREAMS! DON'T LET THEM STOP WITH THE SCREAMS!"
+FR: @The_weapon@ @_screams_@ : « LES CRIS ! NE LES LAISSEZ PAS S’ARRÊTER DE CRIER ! »
+
+EN: @The_weapon@ @_screams_@, "NONE SHALL [LIVE|ESCAPE|SURVIVE|BE SPARED]!"
+FR: @The_weapon@ @_screams_@ : « NUL NE [VIVRA|S’ÉCHAPPERA|SURVIVRA|SERA ÉPARGNÉ] ! »
+
+EN: @The_weapon@ @_screams_@, "SPARE NO ONE!"
+FR: @The_weapon@ @_screams_@ : « N’ÉPARGNEZ PERSONNE ! »
+
+EN: @The_weapon@ @_screams_@, "COME TO ME! COME TO ME AND DIE!"
+FR: @The_weapon@ @_screams_@ : « VENEZ À MOI ! VENEZ À MOI ET MOURREZ ! »
+
+EN: @The_weapon@ @_screams_@, "CUT! CUT! CUT AND SLASH!"
+FR: @The_weapon@ @_screams_@ : « COUPEZ ! COUPEZ ! COUPEZ ET TAILLADEZ ! »
+
+EN: @The_weapon@ @_screams_@, "STABBITY STAB STAB STAB!"
+FR: @The_weapon@ @_screams_@ : « PIQUE PIQUE PIQUE PIQUE ! »
+
+EN: @The_weapon@ @_screams_@, "ABANDON ALL HOPE!"
+FR: @The_weapon@ @_screams_@ : « ABANDONNEZ TOUT ESPOIR ! »
+
+EN: @The_weapon@ @_screams_@, "SLASH 'EM! SLASH 'EM ALL!"
+FR: @The_weapon@ @_screams_@ : « TAILLADEZ-LES ! TAILLADEZ-LES TOUS ! »
+
+EN: @The_weapon@ @_screams_@, "LET'S HACK!"
+FR: @The_weapon@ @_screams_@ : « ON TAILLE EN PIÈCES ! »
+
+EN: @The_weapon@ @_screams_@, "THIS IS THE COLOUR OF PAIN!"
+FR: @The_weapon@ @_screams_@ : « VOICI LA COULEUR DE LA DOULEUR ! »
+
+EN: @The_weapon@ @_screams_@, "YES! YES! YES! THIS is the LIFE, baby, this is the LIFE!"
+FR: @The_weapon@ @_screams_@ : « OUI ! OUI ! OUI ! VOILÀ la VIE, mon chou, voilà la VIE ! »
+
+EN: @The_weapon@ @_screams_@, "PAINT IT RED! PAINT IT RED! PAINT IT ALL RED RED RED RED!!!!"
+FR: @The_weapon@ @_screams_@ : « PEIGNEZ-LE EN ROUGE ! PEIGNEZ-LE EN ROUGE ! PEIGNEZ TOUT EN ROUGE ROUGE ROUGE ROUGE !!!! »
+
+EN: @The_weapon@ @_screams_@, "SWING ME [HARDER|FASTER], YOU [FUMBLE-FINGERED|INCOMPETENT|USELESS|SLUGGISH|NOODLE-ARMED|RUNNY-EYED|KNUCKLE-DRAGGING] [NINCOMPOOP|LARDBUCKET|WEAKLING|STICK-INSECT|FLATFOOT|BONEHEAD|MOONCALF|SLOTH]!"
+FR: @The_weapon@ @_screams_@ : « BRANDISSEZ-MOI [PLUS FORT|PLUS VITE], ESPÈCE DE [MALADROIT|INCOMPÉTENT|BON À RIEN|MOLASSON|BRAS CASSÉ|CHASSIEUX|TRAÎNE-PATTES] [NIGAUD|SAC À GRAISSE|FAIBLARD|PHASME|PIED PLAT|TÊTE D’OS|ABRUTI|PARESSEUX] ! »
+
+EN: @The_weapon@ @_screams_@, "SUFFER OR PERISH! EITHER!"
+FR: @The_weapon@ @_screams_@ : « SOUFFREZ OU PÉRISSEZ ! L’UN OU L’AUTRE ! »
+
+EN: @The_weapon@ @_screams_@, "I CUT THROUGH MAGIC!"
+FR: @The_weapon@ @_screams_@ : « JE TRANCHE LA MAGIE ! »
+
+EN: @The_weapon@ @_screams_@, "BLOOD! BLOOD! BLOOD MUST SPURT AND BLOOD MUST FLOW!"
+FR: @The_weapon@ @_screams_@ : « DU SANG ! DU SANG ! LE SANG DOIT JAILLIR ET LE SANG DOIT COULER ! »
+
+EN: @The_weapon@ @_screams_@, "BLOOD! BLOOD! BLOOD MUST GUSH FROM EVERY FOE!"
+FR: @The_weapon@ @_screams_@ : « DU SANG ! DU SANG ! LE SANG DOIT GICLER DE CHAQUE ENNEMI ! »
+
+EN: @The_weapon@ @_screams_@, "BRAINS! BRAINS! CLEAVE THE SKULL AND OUT THEY SEEP!"
+FR: @The_weapon@ @_screams_@ : « CERVELLES ! CERVELLES ! FENDEZ LE CRÂNE ET ELLES SUINTENT ! »
+
+EN: @The_weapon@ @_screams_@, "BRAINS! BRAINS! KILLING'S FUN AND LIFE IS CHEAP!"
+FR: @The_weapon@ @_screams_@ : « CERVELLES ! CERVELLES ! TUER EST AMUSANT ET LA VIE NE VAUT RIEN ! »
+
+EN: @The_weapon@ @_screams_@, "I AM THE SWORD OF ZOT!!!"
+FR: @The_weapon@ @_screams_@ : « JE SUIS L’ÉPÉE DE ZOT !!! »
+
+EN: @The_weapon@ @_screams_@, "I AM THE RUNES AND THE LIGHT!"
+FR: @The_weapon@ @_screams_@ : « JE SUIS LES RUNES ET LA LUMIÈRE ! »
+
+EN: @The_weapon@ @_screams_@, "I love you all! And my gift to you is ARMAGEDDON!"
+FR: @The_weapon@ @_screams_@ : « Je vous aime tous ! Et mon cadeau pour vous est l’ARMAGEDDON ! »
+
+EN: @The_weapon@ @_screams_@, "MY LOVE IS ETERNAL!"
+FR: @The_weapon@ @_screams_@ : « MON AMOUR EST ÉTERNEL ! »
+
+EN: @The_weapon@ @_screams_@, "I BRING THE STORM!"
+FR: @The_weapon@ @_screams_@ : « J’APPORTE LA TEMPÊTE ! »
+
+EN: @The_weapon@ @_screams_@, "LET'S FONDLE THE @_PETS_@, FONDLE THEM!"
+FR: @The_weapon@ @_screams_@ : « CARESSONS LES @_PETS_@, CARESSONS-LES ! »
+
+EN: @The_weapon@ @_screams_@, "I AM [AN ANGEL|AN ARTIST|AN AVATAR|A HARBINGER|AN INSTRUMENT|A POET|A PROPHET|A SERVANT|A SLAVE|THE LORD|THE MASTER] OF [BLOOD|DANCE|DEATH|DESOLATION|DESPAIR|DESTRUCTION|DOOM|GORE|MADNESS|MUSIC|PAIN|RUIN|SLAUGHTER|SONG|STEEL|WAR]!"
+FR: @The_weapon@ @_screams_@ : « JE SUIS [UN ANGE|UNE ARTISTE|UN AVATAR|UN HÉRAUT|UN INSTRUMENT|UNE POÉTESSE|UNE PROPHÉTESSE|UNE SERVANTE|UNE ESCLAVE|LA SEIGNEURE|LA MAÎTRESSE] [DU SANG|DE LA DANSE|DE LA MORT|DE LA DÉSOLATION|DU DÉSESPOIR|DE LA DESTRUCTION|DE LA FATALITÉ|DE L’HORREUR SANGLANTE|DE LA FOLIE|DE LA MUSIQUE|DE LA DOULEUR|DE LA RUINE|DU MASSACRE|DU CHANT|DE L’ACIER|DE LA GUERRE] ! »
+
+EN: @The_weapon@ @_screams_@, "I AM A BEAUTIFUL ANIMAL!"
+FR: @The_weapon@ @_screams_@ : « JE SUIS UN BEL ANIMAL ! »
+
+EN: @The_weapon@ @_screams_@, "EVERYTHING FAILS! EVERYTHING!!!"
+FR: @The_weapon@ @_screams_@ : « TOUT ÉCHOUE ! TOUT !!! »
+
+EN: @The_weapon@ @_screams_@, "NI! NI!! NI!!! NI!!! NI!!!"
+FR: @The_weapon@ @_screams_@ : « NI ! NI !! NI !!! NI !!! NI !!! »
+
+EN: @The_weapon@ @_screams_@, "I AM A SEXY SHOELESS GOD OF WAR!"
+FR: @The_weapon@ @_screams_@ : « JE SUIS UN SÉDUISANT DIEU DE LA GUERRE PIEDS NUS ! »
+
+EN: @The_weapon@ @_screams_@, "BUGRIT, MILLENNIUM HAND AND SHRIMP!"
+FR: @The_weapon@ @_screams_@ : « BUGRIT, MILLENNIUM HAND AND SHRIMP ! »
+
+EN: @The_weapon@ @_screams_@, "I AM THE IRON OF DEATH! FROM NO BLOOD WILL I SHRINK!"
+FR: @The_weapon@ @_screams_@ : « JE SUIS LE FER DE LA MORT ! DEVANT AUCUN SANG JE NE RECULERAI ! »
+
+EN: @The_weapon@ sings, "@quote@"
+FR: @The_weapon@ chante : « @quote@ »
+
+EN: @The_weapon@ roars, "@quote@"
+FR: @The_weapon@ rugit : « @quote@ »
+
+EN: @The_weapon@ wails, "@quote@"
+FR: @The_weapon@ gémit : « @quote@ »
+
+EN: @The_weapon@ rasps, "@quote@"
+FR: @The_weapon@ lance d’une voix rauque : « @quote@ »
+
+EN: @The_weapon@ asks plaintively, "@quote@"
+FR: @The_weapon@ demande d’un ton plaintif : « @quote@ »
+
+EN: @The_weapon@ happily sings, "@quote@"
+FR: @The_weapon@ chante joyeusement : « @quote@ »
+
+EN: @The_weapon@ [sings|whistles], "@quote@"
+FR: @The_weapon@ [chante|siffle] : « @quote@ »
+
+EN: @The_weapon@ sings, in a [stentorian basso|thundering basso|rumbling basso|mocking tenor|piercing soprano|squeaky tenor|melting tenor|cavernous basso|forceful soprano|lilting soprano], "@quote@"
+FR: @The_weapon@ chante, [d’une voix de basse retentissante|d’une voix de basse tonnante|d’une voix de basse grondante|d’un ténor moqueur|d’une soprano perçante|d’un ténor couinant|d’un ténor fondant|d’une voix de basse caverneuse|d’une soprano puissante|d’une soprano chantante], « @quote@ »

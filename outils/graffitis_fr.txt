@@ -1,0 +1,909 @@
+== _graffiti_author_any_
+@ancestor name@
+@_graffiti_author_orc_@
+@_graffiti_author_bland_@
+@RANDGEN@
+@_rare_graffiti_author_any_@
+== _graffiti_author_any_changeable_
+@ancestor name@
+@_graffiti_author_bland_@
+@RANDGEN@
+== _graffiti_author_any_changeable_non-randgen_
+@ancestor name@
+@_graffiti_author_bland_@
+== _graffiti_author_any_non-orc_
+@ancestor name@
+@_graffiti_author_bland_@
+@RANDGEN@
+@_rare_graffiti_author_any_non-orc_@
+== _graffiti_author_bland_
+@bland name@
+@bland name@ (pas celui-là)
+@bland name@ (l’autre)
+@bland name@ (oui, celui-là)
+== _graffiti_author_orc_
+@any orc name@ l’orc
+== _rare_graffiti_author_any_
+@_rare_graffiti_author_ordinary_@
+@_rare_graffiti_author_orc_@
+@_rare_graffiti_author_title_@
+@_rare_graffiti_author_god_@
+== _rare_graffiti_author_any_non-orc_
+@_rare_graffiti_author_ordinary_@
+@_rare_graffiti_author_title_@
+@_rare_graffiti_author_god_@
+== _rare_graffiti_author_god_
+Woog le dieu
+== _rare_graffiti_author_orc_
+Spartorcus l’orc
+== _rare_graffiti_author_ordinary_
+Durwent le kobold
+Zlaz le gobelin
+Fneeb l’oni
+Vethion l’elfe
+Frobof le diablotin
+== _rare_graffiti_author_title_
+Kilroy
+Garc le Grand
+Plog l’Incomparable
+Wendell le Mort
+Dame Ailerêve
+== _pattern_type_
+@any_colour_pattern@
+@any_glowing_colour_pattern@
+== _writing_adj_
+anguleux/anguleuse
+carré/carrée
+gras/grasse
+arrondi/arrondie
+fluide
+dentelé/dentelée
+pulsant/pulsante
+changeant/changeante
+sinueux/sinueuse
+penché/penchée
+filiforme
+tourbillonnant/tourbillonnante
+palpitant/palpitante
+frémissant/frémissante
+contorsionné/contorsionnée
+== _writing_noun_
+code binaire{ms}
+caractères{mp}
+cunéiformes{mp}
+figures{fp}
+glyphes{mp}
+hiéroglyphes{mp}
+idéogrammes{mp}
+lettres{fp}
+listing{ms}
+runes{fp}
+gribouillis{mp}
+sceaux magiques{mp}
+symboles{mp}
+texte{ms}
+écriture{fs}
+== _writing_style_
+@any_colour@
+@any_colour@ @_writing_adj_@
+@any_glowing_colour@
+== _writing_type_
+@_writing_noun_@ @_writing_style_@
+== _graffiti_type_
+graffitis{mp} @_writing_style_@
+== _graffiti_type_with_signature_maybe_
+@_graffiti_type_@
+@_graffiti_type_@ signés par @_graffiti_author_any_@
+== _graffiti_type_with_signature_maybe_non-orc_
+@_graffiti_type_@
+@_graffiti_type_@ signés par @_graffiti_author_any_non-orc_@
+== _graffiti_type_with_signature_maybe_orc_
+@_graffiti_type_@
+@_graffiti_type_@ signés par @_graffiti_author_orc_@
+== _graffiti_advertisement_
+annonçant une réunion @_graffiti_mass_meeting_ordinary_@
+annonçant une réunion @_graffiti_mass_meeting_religious_@
+annonçant une boutique du donjon aux marchandises [bon marché|exclusives|chères|de qualité|rares|utiles]
+annonçant @_graffiti_class_any_@
+annonçant une rencontre avec @_graffiti_author_any_@ pour apprendre à survivre dans le donjon
+annonçant une rencontre avec @_graffiti_author_any_@ pour passer du bon temps
+annonçant la peinture même utilisée pour les réaliser
+== _graffiti_changed_names_
+@_graffiti_author_any_changeable_@ a changé de nom et s’appelle désormais @_graffiti_author_any_changeable_@
+@_graffiti_author_orc_@ a changé de nom et s’appelle désormais @_graffiti_author_orc_@
+@_rare_graffiti_author_any_@ a transmis son nom à quelqu’un d’autre qui en est digne
+@_graffiti_author_any_changeable_non-randgen_@ a changé de nom sous l’influence de Xom et s’appelle désormais @RANDGEN@
+== _graffiti_changed_or_compared_religions_
+@_graffiti_author_any_@ a abandonné @random_god@
+@_graffiti_author_any_@ s’est détourné de @random_god@
+@_graffiti_author_any_@ s’est converti à @random_god@
+@_graffiti_author_any_@ est @_graffiti_religion_better_or_worse_@ que @_graffiti_author_any_@
+@_graffiti_author_any_@ est en secret athée
+@_graffiti_author_any_@ n’est en secret pas athée
+@_graffiti_author_any_@ est en secret @random_god@
+@_graffiti_author_any_@ vénère en secret Zin
+@_graffiti_author_any_@ vénère en secret Zin plutôt que @random_god_chaotic@
+@_graffiti_author_any_@ vénère en secret @random_god_chaotic@
+@_graffiti_author_any_@ vénère en secret @random_god_chaotic@ plutôt que Zin
+@_graffiti_author_any_@ vénère en secret @random_god_good@
+@_graffiti_author_any_@ vénère en secret @random_god_good@ plutôt que @random_god_evil@
+@_graffiti_author_any_@ vénère en secret @random_god_evil@
+@_graffiti_author_any_@ vénère en secret @random_god_evil@ plutôt que @random_god_good@
+@_graffiti_author_any_@ est en secret @_graffiti_hailed_god_@
+@_graffiti_author_any_@ vénère en secret @_graffiti_hailed_god_@
+== _graffiti_class_any_
+@_graffiti_class_remedial_@
+@_graffiti_class_master_@
+== _graffiti_class_master_
+un cours magistral d’excavation donné par des formicides
+un cours magistral d’insultes donné par des [démons|diablotins]
+un cours magistral sur les nombreux usages des gros gourdins donné par des [ogres|oni]
+un cours magistral de Combat à mains nues donné par des félins
+un cours magistral d’[art|calligraphie] donné par des auteurs de graffitis anonymes
+== _graffiti_class_remedial_
+un cours de rattrapage de @random_skill@ donné par @_graffiti_professor_@
+un cours de rattrapage de @random_skill_magic@ donné par le @_graffiti_professor_magic_type_@ @_graffiti_professor_@
+un cours de rattrapage de @random_skill_mundane@ donné par le @_graffiti_professor_mundane_type_@ @_graffiti_professor_@
+un cours de rattrapage d’Évocations donné par l’@_graffiti_professor_evocations_type_@ @_graffiti_professor_@
+un cours de rattrapage d’Invocations donné par le @_graffiti_professor_invocations_type_@ @_graffiti_professor_@
+un cours de rattrapage de Changeforme donné par le @_graffiti_professor_shapeshifting_type_@ @_graffiti_professor_@
+un cours de rattrapage de Nécromancie donné par le @_graffiti_professor_necromancy_type_@ @_graffiti_professor_@
+un cours de rattrapage de @random_skill_magic@ donné par le @_graffiti_professor_necromancy_type_@ @_graffiti_professor_@
+== _graffiti_duplicate_
+un double
+un double impossible à distinguer de l’original
+un imposteur
+un imposteur venu d’une autre réalité
+un métamorphe
+== _graffiti_fight_
+d’une dispute entre @_graffiti_author_any_@ et @_graffiti_author_any_@
+d’une dispute à trois entre @_graffiti_author_any_@, @_graffiti_author_any_@ et @_graffiti_author_any_@
+d’une bagarre entre [des berserkers|des adorateurs de Trog] et des victimes d’érythrospite sur le véritable sens de la rage sanguinaire
+d’une bagarre entre [des « artistes »|des artistes|des adorateurs de Dithmenos] et [des chevaliers de la mort|des mages de la mort|des adorateurs de Yredelemnul|des nécromanciens] pour savoir si quelque chose était une ombre ou un spectre d’ombre
+== _graffiti_hailed_god_
+Xom
+un dieu inconnu
+@_rare_graffiti_author_god_@
+le pouvoir du fromage
+un chariot plein de crêpes
+== _graffiti_happened_reason_
+un accident
+une coïncidence
+une coïncidence mais @_graffiti_author_any_@ ne croit pas aux coïncidences
+une machination
+une farce
+un coup monté
+une erreur
+une parodie de justice
+un avertissement pour les autres
+contraire à la volonté des dieux
+complètement aléatoire
+délibéré
+mérité
+juste
+nécessaire
+pas un accident
+pas une erreur
+partie d’un complot plus vaste
+l’œuvre de la Conspiration « Plog »
+infligé à soi-même
+la volonté des dieux
+injustifié
+immérité
+injuste
+inutile
+impensable
+== _graffiti_image_
+d’[un gobelin|un kobold|un spriggan] qui passe la tête hors d’un tunnel
+d’[un dragon|un éléphant|un yak] piétinant tout sur son passage
+d’[un gnoll|un humain|un orc] brandissant une arme d’aspect menaçant
+d’[un ogre|un oni|un troll] arrachant l’un de ses ennemis en deux
+d’[un elfe profond|une liche|un tengu] lançant un éclair de magie
+d’un félin suspendu à une branche d’arbre
+d’un démon qui sourit méchamment
+d’une aubergine qui reste là, tout simplement
+qui ne ressemble à rien de ce que vous connaissez
+== _graffiti_life_or_death_
+mérite la mort
+mérite la non-vie
+mérite la vie
+est mort
+est un mort-vivant
+vit
+== _graffiti_loves_or_hates_
+maudit
+défend
+déteste
+insulte
+aime
+loue
+== _graffiti_mass_meeting_ordinary_
+d’un club d’athlétisme jouant [aux cartes|aux fléchettes|au lancer de marteau|au lancer de javelot|à Tape-sur-le-Poisson-Roche]
+d’un club d’artificiers [testant|bricolant] [des dispositifs|des objets évocables|des baguettes]
+d’un groupe de soutien pour les vétérans des guerres de la surface
+d’un groupe de [boulangers|marchands de fruits|bouchers|commerçants] vendant leurs produits dans le donjon
+d’un groupe d’[apiculteurs|utilisateurs de talisman de ruche] discutant [des facéties|de l’état émotionnel|de la santé] de leurs abeilles
+d’un groupe de gens riches discutant des moyens de gagner plus d’argent
+d’un groupe de [chevaliers|vétérans|seigneurs de guerre|guerriers] s’entraînant à un combat à peine retenu
+d’un groupe de [chevaliers|vétérans|seigneurs de guerre|guerriers] s’entraînant au combat en solo
+d’un groupe de [mages|sorciers|lanceurs de sorts|magiciens] pratiquant la magie [éclectique|ésotérique]
+d’un groupe de [mages|sorciers|lanceurs de sorts|magiciens] pratiquant la magie [cataclysmique|destructrice]
+d’un groupe de [mages de la mort|nécromanciens] pratiquant [la nécromancie|l’art de ramener les choses à la non-vie]
+d’un groupe de philosophes discutant [de la perfection|de la nature du temps] depuis on ne sait combien de temps
+d’un groupe de [masochistes|sadiques] organisant un concours d’endurance à la douleur
+d’un groupe de jardiniers exhibant leur main verte
+d’un groupe de [bardes|historiens|gardiens du savoir] partageant de glorieux récits de leurs ancêtres
+d’un groupe de fêtards organisant une soirée dansante endiablée
+d’un groupe d’[« artistes » tenant un « théâtre d’ombres »|artistes tenant un théâtre d’ombres]
+d’un groupe de moines s’entraînant à [des attaques|des mouvements] martiaux
+d’un groupe de fabricants de potions s’entraînant à soigner les autres
+d’un groupe d’ascètes méprisant leur corps et discutant de sacrifices
+d’un groupe de [croisés|moralistes] [discutant du|s’opposant au] mal dans le monde
+d’un groupe varié de gens discutant de leurs expériences dans l’Abysse
+== _graffiti_mass_meeting_religious_
+d’un [club de tricheurs|groupe d’adorateurs de Nemelex Xobeh] jouant aux cartes comme Nemelex Xobeh l’entendait
+d’un groupe d’adorateurs de Zin soutenant les Axiomes de la Loi
+d’un groupe de [chevaliers du chaos|adorateurs de Xom] contemplant la Folie Divine
+d’un groupe de [chevaliers de la mort|adorateurs de Yredelemnul] embrassant l’Étreinte Inexorable
+d’un groupe d’adorateurs de Gozag discutant des moyens de gagner plus d’argent
+d’un groupe de [berserkers|adorateurs de Trog] s’entraînant à un combat à peine retenu
+d’un groupe d’adorateurs d’Okawaru s’entraînant au combat en solo
+d’un groupe d’adorateurs de Sif Muna pratiquant la magie [éclectique|ésotérique]
+d’un groupe d’adorateurs de Vehumet pratiquant la magie [cataclysmique|destructrice]
+d’un groupe d’adorateurs de Kikubaaqudgha pratiquant [la nécromancie|l’art de ramener les choses à la non-vie]
+d’un groupe d’adorateurs de Cheibriados discutant [de la perfection|de la nature du temps] depuis on ne sait combien de temps
+d’un groupe d’adorateurs de Makhleb organisant un concours d’endurance à la douleur
+d’un groupe d’adorateurs de Fedhas exhibant leur main verte
+d’un groupe d’adorateurs d’Hepliaklqana partageant de glorieux récits de leurs ancêtres
+d’un groupe d’adorateurs d’Uskayaw organisant une soirée dansante endiablée
+d’un groupe d’adorateurs de Dithmenos tenant un [« théâtre d’ombres »|théâtre d’ombres]
+d’un groupe d’adorateurs du Conseil Wu Jian s’entraînant à [des attaques|des mouvements] martiaux
+d’un groupe d’adorateurs de Qazlal changeant le temps à l’intérieur
+d’un groupe d’adorateurs d’Elyvilon s’entraînant à soigner les autres
+d’un groupe d’adorateurs d’Ashenzari s’entraînant à scruter les choses
+d’un groupe d’adorateurs de Ru méprisant leur corps et discutant de sacrifices
+d’un groupe d’adorateurs du Shining One [discutant du|s’opposant au] mal dans le monde
+d’un groupe d’[adorateurs de Lugonu|acolytes fous de Lugonu] discutant de leurs expériences dans l’Abysse
+d’un groupe d’orcs faisant la promotion de la parole de Beogh
+== _graffiti_obscenities_
+de diverses obscénités
+de très imaginatives obscénités que vous n’avez jamais vues
+== _graffiti_professor_
+@_graffiti_author_any_changeable_@
+@_graffiti_author_orc_@
+@_rare_graffiti_author_any_@ (soi-disant)
+== _graffiti_professor_evocations_type_
+artificier
+bricoleur
+== _graffiti_professor_invocations_type_
+clerc
+grand prêtre
+prêtre
+théologien
+== _graffiti_professor_magic_type_
+mage
+sorcier
+lanceur de sorts
+magicien
+== _graffiti_professor_mundane_type_
+chevalier
+vétéran
+seigneur de guerre
+guerrier
+== _graffiti_professor_necromancy_type_
+mage de la mort
+nécromancien
+== _graffiti_professor_shapeshifting_type_
+métamorphe
+talismancien
+== _graffiti_relative_or_quality_
+tous les associés
+la lignée
+l’enfant
+les enfants
+le clan
+la dextérité
+toute l’espèce
+la famille
+l’ami
+les amis
+le dieu
+l’intelligence
+l’amant
+les amants
+le compagnon
+les compagnons
+le parent
+les parents
+la personnalité
+l’époux
+les époux
+la force
+== _graffiti_religion_better_or_worse_
+moins croyant
+plus croyant
+meilleur athée
+pire athée
+== _graffiti_religion_non-orc_
+louant Zin et les lois de Zin
+louant Zin et expliquant qu’il est essentiel de suivre les lois de Zin
+louant Zin et expliquant que ceux qui enfreignent les lois de Zin méritent d’être punis
+louant Zin mais avertissant qu’écrire des graffitis sur les surfaces est souvent illégal
+== _graffiti_religion_not_non-orc_or_orc_
+[glorifiant|blasphémant contre] les dieux
+glorifiant @random_god@ et blasphémant contre @random_god@
+révérant Xom et le caractère aléatoire de toute chose
+se délectant de Nemelex Xobeh et de ce que le prochain jeu de cartes apportera
+exaltant Yredelemnul et tout ce qui est impie
+recommandant Gozag et expliquant qu’assez d’or peut tout acheter
+vantant Trog et expliquant que la rage sanguinaire peut balayer tout ce qui vous barre la route
+adorant Okawaru et expliquant qu’Okawaru est le seul allié dont un guerrier ait besoin
+applaudissant Sif Muna et expliquant que toute magie est accessible avec assez d’efforts
+vénérant Vehumet et expliquant que la magie transformée en arme est la clé de la victoire
+s’extasiant sur Kikubaaqudgha et expliquant que la nécromancie transforme toute chair et tout sang en outils utiles
+félicitant Cheibriados et expliquant que le lent et régulier peut tout conquérir
+rendant hommage à Makhleb et parlant de tous les pouvoirs de l’enfer qu’il accorde
+exultant en l’honneur de Fedhas et des pouvoirs durables de la nature
+honorant Hepliaklqana et expliquant que ceux qui vivent dans la mémoire des autres ne meurent jamais vraiment
+montrant sa dévotion à Uskayaw et parlant de la danse complexe qu’est la vie elle-même
+adorant Dithmenos et parlant des nombreuses choses que [les ombres|la nuit] peuvent faire
+remerciant le Conseil Wu Jian et expliquant que la bonne discipline est la clé de la grandeur
+acclamant Qazlal et expliquant que les éléments peuvent travailler pour vous
+promouvant Elyvilon et expliquant qu’apporter la paix au monde est essentiel
+admirant Ashenzari et expliquant que les malédictions et les entraves sont des bénédictions quand elles mènent au savoir
+rendant hommage à Ru et expliquant que toute la réalité n’est pas ce que vous croyez
+couvrant d’éloges le Shining One et expliquant qu’il est essentiel de purger honorablement le mal du monde
+flattant Lugonu et expliquant que Lugonu et les forces de l’Abysse régneront bientôt sur tout
+glorifiant un dieu inconnu
+ne se contentant pas de saluer mais glorifiant @_graffiti_hailed_god_@
+== _graffiti_religion_orc_
+prêchant pour Beogh et pour la véritable nature orque
+proclamant que le messie de Beogh viendra bientôt
+remerciant Beogh d’avoir accordé le salut pendant que les autres dieux se contentaient de regarder
+expliquant que Beogh vous aidera quand les autres dieux vous tourneront le dos
+expliquant que Beogh est avec eux et non avec ces autres orcs hérétiques
+== _graffiti_rumour_
+spéculant sur les pouvoirs de l’Orbe de Zot
+expliquant que l’Orbe de Zot va [sauver|détruire] tout le monde et tout
+expliquant que tout le monde se trompe et que l’Orbe de Zot est en réalité [le Cube|l’Œuf|la Pyramide] de Zot
+parlant d’un passage secret menant d’ici directement à l’Orbe de Zot
+comptant les jours avant la fin du monde
+prétendant connaître le sens de la [vie|non-vie]
+prétendant avoir trouvé le [yéti des cavernes|quokka de la mort|loir redoutable] introuvable
+faisant allusion à la Conspiration « Plog » et à la raison pour laquelle elle cache ce mot partout
+== _graffiti_short_saying_
+@_graffiti_author_any_@ était ici
+@_graffiti_author_any_@ @_graffiti_loves_or_hates_@ @_graffiti_author_any_@
+@_graffiti_author_any_@ @_graffiti_loves_or_hates_@ @_graffiti_relative_or_quality_@ de @_graffiti_author_any_@
+@_graffiti_author_any_@ @_graffiti_life_or_death_@
+@_graffiti_author_any_@ vend des marchandises @_graffiti_wares_quality_@
+@_graffiti_author_any_@ vole @_graffiti_author_any_@
+ce qui est arrivé à @_graffiti_author_any_@ était @_graffiti_happened_reason_@
+@_graffiti_author_any_@ a été remplacé par @_graffiti_duplicate_@
+@_graffiti_vengeance_@
+@_graffiti_changed_or_compared_religions_@
+toute vie commence par « Plog » et finit par « Plog »
+@_graffiti_changed_names_@
+== _graffiti_species_
+se lamentant de l’étrangeté de l’ingénierie coglin pour les non-coglins
+répétant la légende du prototype perdu d’exo-armure qui permettait à un coglin de manier trois armes à la fois
+se demandant ce qui a poussé les barachim à se rebeller contre les dieux
+se demandant si les espèces sans os peuvent un jour engendrer des revenants
+se demandant si Trog empêche les berserkers morts d’engendrer des revenants
+prétendant savoir d’où viennent à l’origine les gobelins
+prétendant connaître la véritable origine des kobolds
+détaillant la persécution des ancêtres des orcs des cavernes
+prétendant que certains dieux servent en secret les oni plutôt que l’inverse
+prétendant que certains nains des collines vivent encore
+se demandant ce qui est vraiment arrivé aux derniers elfes de la vase
+prétendant que les gnomes existent vraiment et sont simplement excellents pour se cacher
+== _graffiti_unique_comment_
+disant que Cassandra devrait cesser d’être aussi négative
+disant que Crazy Yiuf doit arrêter d’avoir [si peu|autant] de sens
+disant que Donald devrait se taire et cesser de se plaindre
+disant que Sigmund doit poser la faux
+disant qu’Edmund doit se remettre en question
+disant que Sprozz est allé trop loin en essayant de remplacer les vraies abeilles par des abeilles mécaniques
+se demandant comment Robin peut bien lancer aussi fort
+se demandant pourquoi Terence veut passer sa retraite dans le donjon
+se demandant si Dowan et Duvessa sont secrètement des triplés et ont un troisième frère ou sœur
+se demandant si Goji se rendra un jour compte qu’il peut en fait être vu
+se demandant ce qu’Ijyb peut fabriquer d’autre que des baguettes
+spéculant sur la véritable nature du maître de Jeremiah
+== _graffiti_unreadable_
+graffitis de @_writing_type_@ illisibles
+graffitis de @_writing_type_@ illisibles, sauf une signature de @_graffiti_author_any_@
+graffitis de @_writing_type_@ illisibles, sauf des passages saluant @_graffiti_hailed_god_@
+graffitis de @_writing_type_@ illisibles, sauf des passages saluant @_graffiti_hailed_god_@ et une signature de @_graffiti_author_any_@
+== _graffiti_vengeance_
+@_graffiti_author_any_@ a vengé @_graffiti_author_any_@
+@_graffiti_author_any_@ a vengé @graffiti_author_any@ pour @_graffiti_vengeance_reason_@
+@_graffiti_author_any_@ jure de se venger de @_graffiti_author_any_@
+@_graffiti_author_any_@ jure de se venger de @_graffiti_author_any_@ pour @_graffiti_vengeance_reason_@
+le fantôme de @_graffiti_author_any_@ hante toujours @_graffiti_author_any_@
+le fantôme de @_graffiti_author_any_@ hante toujours @_graffiti_author_any_@ pour @_graffiti_vengeance_reason_@
+@_graffiti_author_orc_@ a vengé @_graffiti_author_any_@
+@_graffiti_author_orc_@ a vengé @_graffiti_author_any_@ pour @_graffiti_vengeance_reason_@
+@_graffiti_author_orc_@ jure de se venger de @_graffiti_author_any_@
+@_graffiti_author_orc_@ jure de se venger de @_graffiti_author_any_@ pour @_graffiti_vengeance_reason_@
+le fantôme de @_graffiti_author_orc_@ hante toujours @_graffiti_author_any_@
+le fantôme de @_graffiti_author_orc_@ hante toujours @_graffiti_author_any_@ pour @_graffiti_vengeance_reason_@
+== _graffiti_vengeance_reason_
+avoir abandonné @_graffiti_author_any_@
+les avoir abandonnés
+avoir trahi @_graffiti_author_any_@
+les avoir trahis
+avoir tué @_graffiti_author_any_@
+les avoir tués
+avoir volé @_graffiti_author_any_@
+les avoir volés
+avoir blessé @_graffiti_author_any_@
+les avoir blessés
+== _graffiti_wares_quality_
+de piètre qualité
+de grande qualité
+de mauvaise qualité
+médiocres
+de qualité supérieure
+== any_graffiti
+graffitis de @_pattern_type_@
+graffitis de @_writing_type_@
+@_graffiti_unreadable_@
+@_graffiti_type_with_signature_maybe_@
+@_graffiti_type_with_signature_maybe_@ @_graffiti_image_@
+@_graffiti_type_with_signature_maybe_@ @_graffiti_rumour_@
+@_graffiti_type_with_signature_maybe_@ @_graffiti_unique_comment_@
+@_graffiti_type_with_signature_maybe_@ @_graffiti_species_@
+@_graffiti_type_@ @_graffiti_fight_@
+@_graffiti_type_@ @_graffiti_advertisement_@
+@_graffiti_type_@ disant que @_graffiti_short_saying_@
+@_graffiti_type_with_signature_maybe_@ @_graffiti_religion_not_non-orc_or_orc_@
+@_graffiti_type_with_signature_maybe_non-orc_@ @_graffiti_religion_non-orc_@
+@_graffiti_type_with_signature_maybe_orc_@ @_graffiti_religion_orc_@
+@_graffiti_type_@ @_graffiti_obscenities_@
+== rainbow_colour
+red = rouge
+orange = orange
+yellow = jaune
+green = vert/verte
+blue = bleu/bleue
+indigo = indigo
+violet = violet/violette
+== misc_colour
+aero = aéro
+alabaster = albâtre
+alizarin crimson = rouge alizarine
+almond = amande
+amaranth = amarante
+amaranth pink = rose amarante
+amaranth purple = pourpre amarante
+amethyst = améthyste
+ametrine = amétrine
+amber = ambre
+annatto = rocou
+apple green = vert pomme
+apple red = rouge pomme
+apple yellow = jaune pomme
+apricot = abricot
+aqua = aqua
+aquamarine = aigue-marine
+artichoke green = vert artichaut
+asparagus green = vert asperge
+atrovirens = atrovirens
+aubergine = aubergine
+auburn = auburn
+aureolin = auréoline
+avocado green = vert avocat
+azure = azur
+azurite = azurite
+baby blue = bleu layette
+banana yellow = jaune banane
+beetroot red = rouge betterave
+beige = beige
+bisque = bisque
+bistre = bistre
+blaze orange = orange vif
+blood orange = orange sanguine
+blood red = rouge sang
+blueberry = myrtille
+blush = blush
+bole = bol
+brass = laiton
+bronze = bronze
+brown = brun/brune
+brown ochre = ocre brun
+buff = chamois
+burgundy = bordeaux
+burlywood = bois brut
+burnt amber = ambre brûlé
+burnt ochre = ocre brûlé
+burnt orange = orange brûlé
+burnt sienna = sienne brûlée
+burnt umber = ombre brûlée
+byzantium = byzantium
+cadmium red = rouge de cadmium
+cadmium green = vert de cadmium
+cadmium orange = orange de cadmium
+cadmium yellow = jaune de cadmium
+cameo pink = rose camée
+candy apple green = vert pomme d’amour
+candy apple red = rouge pomme d’amour
+candy apple yellow = jaune pomme d’amour
+caput mortuum = caput mortuum
+cardinal red = rouge cardinal
+carmine = carmin
+carnation = œillet
+carnelian = cornaline
+carrot orange = orange carotte
+cattleya = cattleya
+celadon = céladon
+celeste = céleste
+celestial blue = bleu céleste
+cerise = cerise
+cerulean = céruléen/céruléenne
+charcoal = charbon
+chartreuse = chartreuse
+chartreuse green = vert chartreuse
+cherry red = rouge cerise
+chestnut = châtaigne
+china blue = bleu de Chine
+chocolate = chocolat
+chocolate cosmos = cosmos chocolat
+chrome green = vert chrome
+chrome orange = orange chrome
+chrome yellow = jaune chrome
+cinnabar = cinabre
+cinnamon = cannelle
+citreous = citron
+citrine = citrine
+citron = cédrat
+cloudy blue = bleu nuageux
+cobalt blue = bleu cobalt
+cobalt green = vert cobalt
+cobalt violet = violet cobalt
+cobalt yellow = jaune cobalt
+coffee = café
+cornflower blue = bleuet
+copper = cuivre
+coquelicot = coquelicot
+coral pink = rose corail
+cordovan = cordouan
+cream = crème
+crimson = cramoisi/cramoisie
+crocoite = crocoïte
+cyan = cyan
+cyclamen = cyclamen
+dragon's blood = sang-de-dragon
+duck blue = bleu canard
+dun = beige grisé
+dusty orange = orange poudré
+dusty rose = rose poussiéreux
+ebony = ébène
+ecru = écru/écrue
+eggplant = aubergine mûre
+electric blue = bleu électrique
+electric indigo = indigo électrique
+electric magenta = magenta électrique
+electric purple = pourpre électrique
+electric violet = violet électrique
+emerald = émeraude
+eminence = éminence
+erin = vert d’Érin
+evergreen = vert persistant
+fallow = fauve pâle
+falu red = rouge de Falun
+fandango = fandango
+fawn = faon
+feldgrau = feldgrau
+fern green = vert fougère
+fire orange = orange feu
+fire red = rouge feu
+flax = lin
+flirt = flirt
+fluorescent blue = bleu fluorescent
+forest green = vert forêt
+fuchsia = fuchsia
+fuchsine = fuchsine
+fulvous = fauve
+gamboge = gomme-gutte
+garnet = grenat
+glaucous = glauque
+goblin blue = bleu gobelin
+goblin scarlet = écarlate gobelin
+green earth = terre verte
+green ochre = ocre vert
+greenockite = greenockite
+greige = greige
+gold = or
+gold ochre = ocre doré
+gold poppy = pavot d’or
+golden brown = brun doré
+goldenrod = verge d’or
+goshenite = goshénite
+gridelin = gris-de-lin
+grullo = grullo
+haint blue = bleu haint
+hansa yellow = jaune hansa
+harlequin = arlequin
+heliodor = héliodore
+heliotrope = héliotrope
+hibiscus = hibiscus
+hot pink = rose vif
+hunter green = vert chasseur
+hunter orange = orange chasseur
+hyacinth = jacinthe
+hyacinth blue = bleu jacinthe
+icterine = ictérin/ictérine
+imperial blue = bleu impérial
+imperial orange = orange impérial
+imperial purple = pourpre impérial
+imperial red = rouge impérial
+imperial yellow = jaune impérial
+incarnadine = incarnadin/incarnadine
+indanthrone blue = bleu indanthrène
+independence = indépendance
+irresistible = irrésistible
+iris = iris
+isabelline = isabelle
+ivy green = vert lierre
+jade = jade
+jale = jale
+jasmine = jasmin
+jonquil = jonquille
+kachi indigo = indigo kachi
+khaki = kaki
+kobicha = kobicha
+kombu green = vert kombu
+labradorite = labradorite
+lapis lazuli = lapis-lazuli
+laurel green = vert laurier
+lavender = lavande
+lavender blue = bleu lavande
+lavender purple = pourpre lavande
+lavender indigo = indigo lavande
+lavender magenta = magenta lavande
+lavender rose = rose lavande
+leaf green = vert feuille
+leek green = vert poireau
+lemon yellow = jaune citron
+liberty = liberté
+lilac = lilas
+lime green = vert lime
+liseran purple = pourpre liseran
+lusty gallant = galant fougueux
+madder = garance
+magenta = magenta
+mahogany = acajou
+malachite = malachite
+mandarin = mandarine
+manganese violet = violet de manganèse
+mango = mangue
+marigold = souci
+marine blue = bleu océan
+marmalade = marmelade
+maroon = bordeaux sombre
+mauve = mauve
+mauve taupe = taupe mauve
+mauveine = mauvéine
+maxixe = maxixe
+mazarine = mazarine
+mellow yellow = jaune tendre
+midnight blue = bleu nuit
+mikado = mikado
+mindaro = mindaro
+minium = minium
+mint green = vert menthe
+morganite = morganite
+morning blue = bleu matin
+moss green = vert mousse
+mulberry = mûre
+mustard brown = brun moutarde
+mustard green = vert moutarde
+mustard yellow = jaune moutarde
+myrtle = myrte
+nattier = bleu Nattier
+navy blue = bleu marine
+navy purple = pourpre marine
+nickel = nickel
+nutmeg = noix de muscade
+nyanza = nyanza
+ochre = ocre
+octarine = octarine
+old helio = vieil héliotrope
+old heliotrope = héliotrope ancien
+old rose = rose ancien
+olive green = vert olive
+olive drab = kaki olive
+olive ochre = ocre olive
+olivine = olivine
+olo = olo
+orange ochre = ocre orangé
+orchid = orchidée
+orpiment = orpiment
+oxblood = sang de bœuf
+palatinate = palatinat
+palatinate blue = bleu palatinat
+palatinate purple = pourpre palatinat
+peach = pêche
+pear green = vert poire
+pear yellow = jaune poire
+peridot = péridot
+periwinkle = pervenche
+persimmon = plaquemine
+phlox = phlox
+picotee blue = bleu picotée
+pine green = vert pin
+pine tree = pin
+pink = rose
+pink lavender = lavande rosé
+pistachio = pistache
+plum = prune
+ponceau = ponceau
+poppy red = rouge coquelicot
+powder blue = bleu poudre
+prase = prase
+primrose yellow = jaune primevère
+puce = puce
+pumpkin = citrouille
+purple = pourpre
+purple ochre = ocre pourpre
+purple taupe = taupe pourpre
+purpura = purpura
+purpureus = purpureus
+quartz = quartz
+quercitron = quercitron
+raspberry = framboise
+raspberry rose = rose framboise
+realgar = réalgar
+red emerald = émeraude rouge
+red ochre = ocre rouge
+rej = rej
+rocket green = vert fusée
+rockmelon = cantaloup
+rose = rose
+rose quartz = quartz rose
+rose vale = rose du vallon
+rubric = rouge rubrique
+ruby = rubis
+ruddy blue = bleu rougeâtre
+rufous = roux/rousse
+russet = roussâtre
+rust = rouille
+safflower orange = orange carthame
+saffron = safran
+salmon = saumon
+sanguine = sanguine
+sap green = vert sève
+sapphire = saphir
+sea blue = bleu mer
+sea green = vert mer
+sepia = sépia
+scarlet = écarlate
+scarlet emerald = émeraude écarlate
+shocking pink = rose shocking
+sienna = sienne
+silver = argent
+silver pink = rose argenté
+sinopia = sinopia
+skobeloff = skobeloff
+sky blue = bleu ciel
+sky magenta = magenta ciel
+slate = ardoise
+slate blue = bleu ardoise
+smalt = smalt
+smaragdine = smaragdin/smaragdine
+sorcerer's violet = violet du sorcier
+spring bud = bourgeon de printemps
+spring green = vert printemps
+steel blue = bleu acier
+strawberry red = rouge fraise
+strontium yellow = jaune de strontium
+tamarind = tamarin
+tang blue = bleu tang
+tangerine = tangerine
+taupe = taupe
+tawny = brun fauve
+tea green = vert thé
+teal = sarcelle
+teal blue = bleu sarcelle
+teal green = vert sarcelle
+telemagenta = télémagenta
+terracotta = terre cuite
+terre verte = terre verte
+thistle = chardon
+tiger's eye = œil-de-tigre
+titanium yellow = jaune de titane
+tomato red = rouge tomate
+topaz = topaze
+turmeric = curcuma
+turquoise = turquoise
+ulfire = ulfire
+ultramarine = outremer
+umber = ombre
+vanilla = vanille
+verdigris = vert-de-gris
+vermilion = vermillon
+veronica = véronique
+viridian = viridian
+walnut = noyer
+watermelon green = vert pastèque
+watermelon red = rouge pastèque
+wenge = wengé
+wheat = blé
+wine = vin
+wisteria = glycine
+xanthic = xanthique
+xanthous = xanthin/xanthine
+yam = igname
+yellow ochre = ocre jaune
+zaffre = zaffre
+zinc yellow = jaune de zinc
+zinnwaldite = zinnwaldite
+zomp = zomp
+zucchini green = vert courgette
+== mono_colour
+black = noir/noire
+white = blanc/blanche
+grey = gris/grise
+== any_colour
+@rainbow_colour@
+@misc_colour@
+@mono_colour@
+== any_pattern
+arabesque = arabesques{fp}
+arrows = flèches{fp}
+chequers = damiers{mp}
+chevrons = chevrons{mp}
+diamonds = losanges{mp}
+flamestitch = points de flamme{mp}
+fractals = fractales{fp}
+gingham = carreaux vichy{mp}
+herringbone = chevrons en épi{mp}
+houndstooth = pieds-de-poule{mp}
+leopard spots = taches de léopard{fp}
+ogee = ogives{fp}
+ombre = dégradés{mp}
+paisley = motifs cachemire{mp}
+pinstripes = fines rayures{fp}
+plaid = carreaux écossais{mp}
+polka dots = pois{mp}
+quatrefoil = quadrilobes{mp}
+stripes = rayures{fp}
+spirals = spirales{fp}
+spots = taches{fp}
+squares = carrés{mp}
+stars = étoiles{fp}
+tartan = tartans{mp}
+triangles = triangles{mp}
+whorls = volutes{fp}
+zigzags = zigzags{mp}
+== glowing_adj
+bright = clair/claire
+brilliant = brillant/brillante
+dark = foncé/foncée
+deep = profond/profonde
+dull = terne
+dusky = sombre
+faint = léger/légère
+gleaming = luisant/luisante
+glossy = lustré/lustrée
+intense = intense
+luminous = lumineux/lumineuse
+lurid = criard/criarde
+lustrous = chatoyant/chatoyante
+mottled = moucheté/mouchetée
+murky = trouble
+pale = pâle
+shimmering = miroitant/miroitante
+shining = éclatant/éclatante
+vivid = vif/vive
+== any_glowing_colour
+{inv}@any_colour@ @glowing_adj@
+== any_colour_pattern
+@any_pattern@ @any_colour@
+@any_pattern@ @any_colour@ sur fond @any_colour#ms@
+== any_glowing_colour_pattern
+@any_pattern@ @any_glowing_colour@
+@any_pattern@ @any_glowing_colour@ sur fond @any_colour#ms@
+@any_pattern@ @any_colour@ sur fond @any_glowing_colour#ms@
+@any_pattern@ @any_glowing_colour@ sur fond @any_glowing_colour#ms@

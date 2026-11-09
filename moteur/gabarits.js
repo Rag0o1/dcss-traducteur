@@ -40,8 +40,9 @@
         "unnaturally hard rock wall": "le mur de roche anormalement dur", "frigid wall": "le mur glacial", "closed door": "la porte fermée", "open door": "la porte ouverte", "runed door": "la porte runique", "sealed door": "la porte scellée",
         "broken door": "la porte brisée", floor: "le sol", web: "la toile", "empty arch of ancient stone": "l’arche vide de pierre ancienne", "frozen archway": "l’arche gelée", shaft: "le puits", "decorative floor": "le sol décoratif",
         "open sea": "la mer ouverte", "orb dais": "l’estrade de l’Orbe", "patch of mould": "la touffe de moisissure", "patch of ice thorns": "la touffe d’épines de glace" };
+    const GR = (regle, x) => { const G = globalThis.DCSS_GRAFFITIS; return G ? G.traduire(regle, x) : null; };
     const MACROS = {
-        colour: x => COULEURS[x] || x,
+        colour: x => COULEURS[x] || GR("any_colour", x) || GR("any_glowing_colour", x) || x,
         body: x => CORPS[x] || x,
         number: x => NOMBRES[x] || x,
         feature: (x, maj) => { if (/^your /i.test(x)) return null; const b = x.replace(/^(?:the|some|an?) /i, "");
@@ -65,7 +66,7 @@
         The_feature: x => MACROS.feature(x, true), the_feature: x => MACROS.feature(x, false),
         Your_item: (x) => MACROS.item(x, true, "Your_item"), your_item: (x) => MACROS.item("Your " + x.replace(/^[Yy]our /, ""), false, "your_item"),
         any_colour: MACROS.colour, any_glowing_colour: MACROS.colour, rainbow_colour: MACROS.colour, misc_colour: MACROS.colour, mono_colour: MACROS.colour,
-        any_colour_pattern: x => x, any_glowing_colour_pattern: x => x, any_graffiti: x => x, glowing_adj: MACROS.colour,
+        any_colour_pattern: x => GR("any_colour_pattern", x), any_glowing_colour_pattern: x => GR("any_glowing_colour_pattern", x), any_graffiti: x => GR("any_graffiti", x), glowing_adj: x => GR("glowing_adj", x),
         random_body_part_internal_singular: MACROS.body, random_body_part_external_singular: MACROS.body, random_body_part_any_singular: MACROS.body,
         random_body_part_internal_plural: MACROS.body, random_body_part_external_plural: MACROS.body, random_body_part_any_plural: MACROS.body,
         "~random_body_part_internal_singular": POSS, "~random_body_part_external_singular": POSS, "~random_body_part_any_singular": POSS,

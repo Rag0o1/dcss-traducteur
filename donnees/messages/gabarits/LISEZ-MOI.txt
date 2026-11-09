@@ -13,3 +13,5 @@ Fichiers :
   magie_rates.js  : ratés de magie (miscast.txt).
   cris.js         : cris et bruits des monstres (shout.txt).
   armes_bruits.js, armes_chantante.js, armes_chantante_cris.js, voix_diverses.js : bruits et paroles des armes, Épée chantante, Majin-Bo, Zonguldrok (wpnnoise.txt).
+  decors_lignes.js : lignes de décor (decorlines.txt), à compléter.
+  graffitis_grammaire.js : grammaire des graffitis et des couleurs (graffiti.txt, colourname.txt), GÉNÉRÉ : on corrige outils/graffitis_fr.txt puis on relance outils/grammaire_graffitis.py CHEMIN/dat/database.

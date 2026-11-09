@@ -1,0 +1,782 @@
+EN: @The_monster@ [casts|pitches] forth @possessive@ victims' sorrows.
+FR: @M_S@ [lance|projette] les peines de ses victimes.
+
+EN: @The_monster@ [drones|recites] a funeral chant.
+FR: @M_S@ [marmonne|récite] un chant funèbre.
+
+EN: @The_monster@ [pulses|vibrates].
+FR: @M_S@ [pulse|vibre].
+
+EN: @The_monster@ [rumbles|shudders] with under-developed magic as it glares @at@ @target@.
+FR: @M_S@ [gronde|frissonne] d’une magie sous-développée en fusillant @T_o@ du regard.
+
+EN: @The_monster@ [unleashes|releases] gushing sobs.
+FR: @M_S@ [déchaîne|libère] des sanglots jaillissants.
+
+EN: @The_monster@ asks, "Why have you forsaken me @My_God@?"
+FR: @M_S@ demande : « Pourquoi m’as-tu abandonné, @My_God@ ? »
+
+EN: @The_monster@ bathes in capricious mystic energies.
+FR: @M_S@ se baigne dans de capricieuses énergies mystiques.
+
+EN: @The_monster@ beseeches @My_God@ to grant them a weapon.
+FR: @M_S@ supplie @My_God@ de lui accorder une arme.
+
+EN: @The_monster@ blasts @possessive@ cannon @at@ @target@.
+FR: @M_S@ fait feu de son canon @sur@ @T_o@.
+
+EN: @The_monster@ blasts a torrent of magma @at@ @target@.
+FR: @M_S@ projette un torrent de magma @sur@ @T_o@.
+
+EN: @The_monster@ blasts magma @at@ @target@!
+FR: @M_S@ projette du magma @sur@ @T_o@ !
+
+EN: @The_monster@ blinks @at@ @target@.
+FR: @M_S@ clignote @vers@ @T_o@.
+
+EN: @The_monster@ breathes @beam@ @at@ @target@.
+FR: @M_S@ souffle @beam@ @sur@ @T_o@.
+
+EN: @The_monster@ breathes [collective despair|endless sorrows] @at@ @target@.
+FR: @M_S@ souffle [le désespoir collectif|des peines infinies] @sur@ @T_o@.
+
+EN: @The_monster@ breathes a plume of calcifying dust @at@ @target@.
+FR: @M_S@ souffle un panache de poussière calcifiante @sur@ @T_o@.
+
+EN: @The_monster@ breathes a rupture in space-time @at@ @target@.
+FR: @M_S@ souffle une rupture de l’espace-temps @sur@ @T_o@.
+
+EN: @The_monster@ bubbles merrily.
+FR: @M_S@ glougloute joyeusement.
+
+EN: @The_monster@ burbles hungrily as it manifests raw antimagic @at@ @target@.
+FR: @M_S@ gargouille de faim en manifestant de l’antimagie brute @sur@ @T_o@.
+
+EN: @The_monster@ cackles and gestures.
+FR: @M_S@ caquette et fait des gestes.
+
+EN: @The_monster@ cackles spitefully.
+FR: @M_S@ caquette avec malveillance.
+
+EN: @The_monster@ calls down @possessive_God@'s blessing.
+FR: @M_S@ invoque la bénédiction de @possessive_God@.
+
+EN: @The_monster@ calls forth @possessive@ servants.
+FR: @M_S@ appelle ses serviteurs.
+
+EN: @The_monster@ calls forth creatures from
+FR: @M_S@ fait surgir des créatures de
+
+EN: @The_monster@ calls gouts of flame from the lava!
+FR: @M_S@ fait jaillir des jets de flammes de la lave !
+
+EN: @The_monster@ calls out to the beasts of the wild!
+FR: @M_S@ appelle les bêtes sauvages !
+
+EN: @The_monster@ calls out to the forest.
+FR: @M_S@ appelle la forêt.
+
+EN: @The_monster@ calls upon @possessive_God@ to heal @target@.
+FR: @M_S@ invoque @possessive_God@ pour soigner @T_o@.
+
+EN: @The_monster@ calls upon @possessive_God@ to speed up @target@.
+FR: @M_S@ invoque @possessive_God@ pour accélérer @T_o@.
+
+EN: @The_monster@ calls upon @possessive_God@ to strengthen @target@.
+FR: @M_S@ invoque @possessive_God@ pour renforcer @T_o@.
+
+EN: @The_monster@ calmly calls forth the wrath of something past death upon @target@.
+FR: @M_S@ appelle calmement la colère de quelque chose d’au-delà de la mort sur @T_o@.
+
+EN: @The_monster@ casts @reflexive@ @at@ @target@.
+FR: @M_S@ se lance @sur@ @T_o@.
+
+EN: @The_monster@ casts a spell @at@ @target@.
+FR: @M_S@ lance un sort @sur@ @T_o@.
+
+EN: @The_monster@ channels a blast of cleansing flame!
+FR: @M_S@ canalise un souffle de flamme purificatrice !
+
+EN: @The_monster@ chants a spell, wobbling all the while.
+FR: @M_S@ psalmodie un sort en vacillant sans cesse.
+
+EN: @The_monster@ chants and writhes.
+FR: @M_S@ psalmodie et se tord.
+
+EN: @The_monster@ chants phrases taken from a devil's mouth.
+FR: @M_S@ psalmodie des phrases sorties de la bouche d’un diable.
+
+EN: @The_monster@ chants while flapping @possessive@ wings @at@ @target@.
+FR: @M_S@ psalmodie en battant des ailes @vers@ @T_o@.
+
+EN: @The_monster@ charges forward with an electric crackle.
+FR: @M_S@ charge en avant dans un crépitement électrique.
+
+EN: @The_monster@ chitters @at@ @target@.
+FR: @M_S@ stridule @vers@ @T_o@.
+
+EN: @The_monster@ churns violently!
+FR: @M_S@ se remue violemment !
+
+EN: @The_monster@ coils @reflexive@ and waves @possessive@ upper body @at@ @target@.
+FR: @M_S@ s’enroule et agite le haut de son corps @vers@ @T_o@.
+
+EN: @The_monster@ compels the dead to obey.
+FR: @M_S@ force les morts à obéir.
+
+EN: @The_monster@ concentrates and launches forth toxic muck @at@ @target@.
+FR: @M_S@ se concentre et lance de la boue toxique @sur@ @T_o@.
+
+EN: @The_monster@ conjures a fierce blast of wind!
+FR: @M_S@ invoque un violent souffle de vent !
+
+EN: @The_monster@ coughs and spits up spare sludge @at@ @target@.
+FR: @M_S@ tousse et crache de la vase en trop @sur@ @T_o@.
+
+EN: @The_monster@ cries out, "Spectres! Fight for the home you helped make!"
+FR: @M_S@ s’écrie : « Spectres ! Battez-vous pour la maison que vous avez aidé à bâtir ! »
+
+EN: @The_monster@ cries, "Fearful master, protect me!"
+FR: @M_S@ s’écrie : « Maître redoutable, protégez-moi ! »
+
+EN: @The_monster@ draws nearby souls into @reflexive@!
+FR: @M_S@ attire les âmes proches en @reflexive@ !
+
+EN: @The_monster@ draws upon the vitality of nature.
+FR: @M_S@ puise dans la vitalité de la nature.
+
+EN: @The_monster@ drops twin branches, and they both wriggle to life!
+FR: @M_S@ laisse tomber deux branches, qui s’animent toutes deux en se tortillant !
+
+EN: @The_monster@ eats away at reality.
+FR: @M_S@ ronge la réalité.
+
+EN: @The_monster@ emits a lurid red light.
+FR: @M_S@ émet une lueur rouge blafarde.
+
+EN: @The_monster@ exerts the full weight of @possessive@ authority.
+FR: @M_S@ exerce tout le poids de son autorité.
+
+EN: @The_monster@ expels rasping flames.
+FR: @M_S@ expulse des flammes râpeuses.
+
+EN: @The_monster@ fervently clicks and whirrs while staring @at@ @target@.
+FR: @M_S@ cliquette et ronronne avec ferveur en fixant @T_o@.
+
+EN: @The_monster@ fires @at@ @target@.
+FR: @M_S@ tire @sur@ @T_o@.
+
+EN: @The_monster@ fires a burst of electricity @at@ @target@.
+FR: @M_S@ tire une rafale d’électricité @sur@ @T_o@.
+
+EN: @The_monster@ fires a harpoon shot @at@ @target@.
+FR: @M_S@ tire un harpon @sur@ @T_o@.
+
+EN: @The_monster@ fires a shard of @reflexive@ @at@ @target@.
+FR: @M_S@ tire un éclat de lui-même @sur@ @T_o@.
+
+EN: @The_monster@ fires a volley of thorns @at@ @target@.
+FR: @M_S@ tire une volée d’épines @sur@ @T_o@.
+
+EN: @The_monster@ fixes @possessive@ piercing gaze on @target@.
+FR: @M_S@ fixe son regard perçant sur @T_o@.
+
+EN: @The_monster@ flaps @possessive@ wings @at@ @target@.
+FR: @M_S@ bat des ailes @vers@ @T_o@.
+
+EN: @The_monster@ flicks @possessive@ tail.
+FR: @M_S@ fouette l’air de sa queue.
+
+EN: @The_monster@ flicks its quills @at@ @target@.
+FR: @M_S@ secoue ses piquants @vers@ @T_o@.
+
+EN: @The_monster@ flies into a rage!
+FR: @M_S@ entre dans une rage folle !
+
+EN: @The_monster@ focuses its will @at@ @target@.
+FR: @M_S@ concentre sa volonté @sur@ @T_o@.
+
+EN: @The_monster@ fractures the ground with @possessive@ footsteps.
+FR: @M_S@ fracture le sol à chaque pas.
+
+EN: @The_monster@ freezes your soul cold.
+FR: @M_S@ glace votre âme.
+
+EN: @The_monster@ gazes @at@ @target@.
+FR: @M_S@ regarde @T_o@ fixement.
+
+EN: @The_monster@ gazes piercingly through @target@!
+FR: @M_S@ transperce @T_o@ du regard !
+
+EN: @The_monster@ gestures @at@ @target@ while chanting.
+FR: @M_S@ fait un geste @vers@ @T_o@ en psalmodiant.
+
+EN: @The_monster@ gestures @at@ @target@.
+FR: @M_S@ fait un geste @vers@ @T_o@.
+
+EN: @The_monster@ gestures stiffly @at@ @target@.
+FR: @M_S@ fait un geste raide @vers@ @T_o@.
+
+EN: @The_monster@ gestures violently @at@ @target@.
+FR: @M_S@ fait un geste violent @vers@ @T_o@.
+
+EN: @The_monster@ gestures with @possessive@ tail @at@ @target@.
+FR: @M_S@ fait un geste de la queue @vers@ @T_o@.
+
+EN: @The_monster@ gestures with frozen lightning.
+FR: @M_S@ fait un geste avec de la foudre gelée.
+
+EN: @The_monster@ gibbers with scorn.
+FR: @M_S@ baragouine de mépris.
+
+EN: @The_monster@ glitters with frost.
+FR: @M_S@ scintille de givre.
+
+EN: @The_monster@ glows [icy blue|with a pale light|sapphire].
+FR: @M_S@ luit [d’un bleu glacial|d’une lumière pâle|d’un éclat de saphir].
+
+EN: @The_monster@ glows bright magenta.
+FR: @M_S@ luit d’un magenta vif.
+
+EN: @The_monster@ glows deep purple.
+FR: @M_S@ luit d’un pourpre profond.
+
+EN: @The_monster@ glows red.
+FR: @M_S@ luit de rouge.
+
+EN: @The_monster@ glows yellow.
+FR: @M_S@ luit de jaune.
+
+EN: @The_monster@ gnaws at the world.
+FR: @M_S@ ronge le monde.
+
+EN: @The_monster@ gurgles deeply, a call to fellow slimes.
+FR: @M_S@ gargouille profondément, un appel à ses congénères de vase.
+
+EN: @The_monster@ gurgles deeply.
+FR: @M_S@ gargouille profondément.
+
+EN: @The_monster@ gurgles dread orisons to @possessive_God@ against @target@!
+FR: @M_S@ gargouille de sinistres oraisons à @possessive_God@ contre @T_o@ !
+
+EN: @The_monster@ gurgles to an absent god.
+FR: @M_S@ gargouille à un dieu absent.
+
+EN: @The_monster@ hacks up a harpoon shot aimed @at@ @foe@.
+FR: @M_S@ crache un harpon visant @T_o@.
+
+EN: @The_monster@ half-collapses as it coughs up a harpoon shot @at@ @foe@.
+FR: @M_S@ s’effondre à moitié en crachant un harpon @sur@ @T_o@.
+
+EN: @The_monster@ hoots and howls with incredible vigour!
+FR: @M_S@ hulule et hurle avec une vigueur incroyable !
+
+EN: @The_monster@ howls a warning cry!
+FR: @M_S@ hurle un cri d’alerte !
+
+EN: @The_monster@ hurls @beam@ @at@ @target@.
+FR: @M_S@ lance @beam@ @sur@ @T_o@.
+
+EN: @The_monster@ hurls a @beam@ @at@ @target@.
+FR: @M_S@ lance @beam@ @sur@ @T_o@.
+
+EN: @The_monster@ hurls a bolas @at@ @target@.
+FR: @M_S@ lance des bolas @sur@ @T_o@.
+
+EN: @The_monster@ hurls a piece of @reflexive@ @at@ @target@.
+FR: @M_S@ lance un morceau de lui-même @sur@ @T_o@.
+
+EN: @The_monster@ hurls a spray of @beam@ @at@ @target@.
+FR: @M_S@ lance une gerbe de @beam@ @sur@ @T_o@.
+
+EN: @The_monster@ invokes a beneficient rending in the name of @possessive_God@.
+FR: @M_S@ invoque un déchirement bénéfique au nom de @possessive_God@.
+
+EN: @The_monster@ invokes the aid of something beyond life against @target@.
+FR: @M_S@ invoque l’aide de quelque chose d’au-delà de la vie contre @T_o@.
+
+EN: @The_monster@ jiggles mournfully.
+FR: @M_S@ se trémousse tristement.
+
+EN: @The_monster@ lashes out with ghostly flames.
+FR: @M_S@ fouette avec des flammes spectrales.
+
+EN: @The_monster@ lashes out with icy intensity.
+FR: @M_S@ fouette avec une intensité glaciale.
+
+EN: @The_monster@ launches @beam@ @at@ @target@.
+FR: @M_S@ lance @beam@ @sur@ @T_o@.
+
+EN: @The_monster@ launches a bomblet.
+FR: @M_S@ lance une petite bombe.
+
+EN: @The_monster@ launches a dart @at@ @target@.
+FR: @M_S@ lance une fléchette @sur@ @T_o@.
+
+EN: @The_monster@ launches the last of @reflexive@ @at@ @target@ with a shrill rumble.
+FR: @M_S@ lance ce qu’il reste de lui-même @sur@ @T_o@ dans un grondement strident.
+
+EN: @The_monster@ launches toxic spines @at@ @target@.
+FR: @M_S@ lance des épines toxiques @sur@ @T_o@.
+
+EN: @The_monster@ lets out a twisted cry.
+FR: @M_S@ pousse un cri tordu.
+
+EN: @The_monster@ lets out a vicious peal of laughter.
+FR: @M_S@ pousse un éclat de rire cruel.
+
+EN: @The_monster@ looks @at@ @target@ and mumbles some strange words.
+FR: @M_S@ regarde @T_o@ et marmonne d’étranges paroles.
+
+EN: @The_monster@ looks @at@ @target@ while chanting.
+FR: @M_S@ regarde @T_o@ en psalmodiant.
+
+EN: @The_monster@ looks around.
+FR: @M_S@ regarde autour de lui.
+
+EN: @The_monster@ moans in silent anguish.
+FR: @M_S@ gémit dans une angoisse silencieuse.
+
+EN: @The_monster@ mockingly cackles in silence.
+FR: @M_S@ caquette en silence d’un air moqueur.
+
+EN: @The_monster@ mumbles a few prayers and slips further between dimensions.
+FR: @M_S@ marmonne quelques prières et glisse plus loin entre les dimensions.
+
+EN: @The_monster@ mumbles a slurred invocation.
+FR: @M_S@ marmonne une invocation pâteuse.
+
+EN: @The_monster@ mutters an ancient curse @at@ @target@.
+FR: @M_S@ marmonne une antique malédiction @vers@ @T_o@.
+
+EN: @The_monster@ mutters in a terrible tongue.
+FR: @M_S@ marmonne dans une langue terrible.
+
+EN: @The_monster@ nearly chokes as it lobs forward flames.
+FR: @M_S@ s’étouffe presque en projetant des flammes.
+
+EN: @The_monster@ overcharges @reflexive@ and releases excess heat @at@ @target@.
+FR: @M_S@ se surcharge et libère un excès de chaleur @sur@ @T_o@.
+
+EN: @The_monster@ overflows with ice and vents excess cold @at@ @target@.
+FR: @M_S@ déborde de glace et évacue un excès de froid @sur@ @T_o@.
+
+EN: @The_monster@ pies @target@ viciously!
+FR: @M_S@ entarte @T_o@ avec vice !
+
+EN: @The_monster@ plays a frightful melody on @possessive@ pipes!
+FR: @M_S@ joue une mélodie effroyable sur ses pipeaux !
+
+EN: @The_monster@ plays a lulling melody on @possessive@ pipes!
+FR: @M_S@ joue une mélodie berçante sur ses pipeaux !
+
+EN: @The_monster@ plays a rousing melody on @possessive@ pipes!
+FR: @M_S@ joue une mélodie enlevante sur ses pipeaux !
+
+EN: @The_monster@ points @at@ @target@ and mumbles some strange words.
+FR: @M_S@ désigne @T_o@ et marmonne d’étranges paroles.
+
+EN: @The_monster@ points @possessive@ staff @at@ @target@, shooting a stream of webbing.
+FR: @M_S@ pointe son bâton @vers@ @T_o@, projetant un jet de toile.
+
+EN: @The_monster@ prays to the universe for peace to reach @target@.
+FR: @M_S@ prie l’univers pour que la paix atteigne @T_o@.
+
+EN: @The_monster@ raises the black torch.
+FR: @M_S@ lève la torche noire.
+
+EN: @The_monster@ rattles @possessive@ jaw silently.
+FR: @M_S@ fait cliqueter sa mâchoire en silence.
+
+EN: @The_monster@ rattles @possessive@ jaw.
+FR: @M_S@ fait cliqueter sa mâchoire.
+
+EN: @The_monster@ reaches out @possessive@ hand.
+FR: @M_S@ tend la main.
+
+EN: @The_monster@ reaches out to the roots within the earth.
+FR: @M_S@ tend la main vers les racines de la terre.
+
+EN: @The_monster@ reaches out with @possessive@ roots.
+FR: @M_S@ tend ses racines.
+
+EN: @The_monster@ roars @at@ @foe@, "Let me show ye whit a REAL cannon looks like!"
+FR: @M_S@ rugit @vers@ @T_o@ : « Laissez-moi vous montrer à quoi ressemble un VRAI canon ! »
+
+EN: @The_monster@ roars a battlecry!
+FR: @M_S@ rugit un cri de guerre !
+
+EN: @The_monster@ roars madly and goes into a rage!
+FR: @M_S@ rugit comme un fou et entre dans une rage !
+
+EN: @The_monster@ roars a[n obscure| perplexing] riddle with a strange tongue.
+FR: @M_S@ rugit une énigme [obscure|déroutante] dans une langue étrange.
+
+EN: @The_monster@ roars overwhelmingly @at@ @target@!
+FR: @M_S@ rugit de façon écrasante @vers@ @T_o@ !
+
+EN: @The_monster@ roars wildly @at@ @target@.
+FR: @M_S@ rugit sauvagement @vers@ @T_o@.
+
+EN: @The_monster@ rolls out @possessive@ victims' [laments|suffering].
+FR: @M_S@ déroule [les lamentations|les souffrances] de ses victimes.
+
+EN: @The_monster@ says, "@My_God@ sees all!"
+FR: @M_S@ dit : « @My_God@ voit tout ! »
+
+EN: @The_monster@ says, "Become one with my sorrow!"
+FR: @M_S@ dit : « Ne faites plus qu’un avec ma peine ! »
+
+EN: @The_monster@ says, "I have seen your future, @player_name@! Turn back before you are forced to see it for yourself!"
+FR: @M_S@ dit : « J’ai vu votre avenir, @player_name@ ! Rebroussez chemin avant d’être forcé de le voir par vous-même ! »
+
+EN: @The_monster@ screams a word of power!
+FR: @M_S@ hurle un mot de pouvoir !
+
+EN: @The_monster@ screeches @at@ @target@ while spinning and swirling.
+FR: @M_S@ pousse un cri strident @vers@ @T_o@ en tournoyant.
+
+EN: @The_monster@ screeches a warning cry!
+FR: @M_S@ pousse un cri d’alerte strident !
+
+EN: @The_monster@ screeches a[n impossible| nonsensical| cliché] riddle in a mystic tongue.
+FR: @M_S@ pousse un cri strident en énonçant une énigme [impossible|absurde|éculée] dans une langue mystique.
+
+EN: @The_monster@ screeches thrice-fold calling forth its victims' souls!
+FR: @M_S@ crie trois fois, appelant les âmes de ses victimes !
+
+EN: @The_monster@ sends weapons flying into battle!
+FR: @M_S@ envoie des armes voler au combat !
+
+EN: @The_monster@ shakes and rattles deafeningly!
+FR: @M_S@ s’agite et cliquette à en rendre sourd !
+
+EN: @The_monster@ shakes and rattles.
+FR: @M_S@ s’agite et cliquette.
+
+EN: @The_monster@ shimmers.
+FR: @M_S@ miroite.
+
+EN: @The_monster@ shines with woeful anguish.
+FR: @M_S@ rayonne d’une angoisse lamentable.
+
+EN: @The_monster@ shoots out a bolt of @beam@ @at@ @target@!
+FR: @M_S@ tire un rayon de @beam@ @sur@ @T_o@ !
+
+EN: @The_monster@ shouts @at@ @foe@, "Taste the blood o the mountain!"
+FR: @M_S@ crie @vers@ @T_o@ : « Goûte le sang de la montagne ! »
+
+EN: @The_monster@ shouts a warning to @possessive@ allies!
+FR: @M_S@ crie un avertissement à ses alliés !
+
+EN: @The_monster@ shouts, "O dreadful one, destroy my foe!"
+FR: @M_S@ crie : « Ô terrible, détruis mon ennemi ! »
+
+EN: @The_monster@ shudders with under-developed magic as it glares @at@ @target@.
+FR: @M_S@ frissonne d’une magie sous-développée en fusillant @T_o@ du regard.
+
+EN: @The_monster@ smirks and gazes @at@ @target@.
+FR: @M_S@ sourit d’un air narquois et regarde @T_o@ fixement.
+
+EN: @The_monster@ snaps @possessive@ fingers.
+FR: @M_S@ claque des doigts.
+
+EN: @The_monster@ solemnly invokes the wrath of @possessive_God@ @at@ @target@!
+FR: @M_S@ invoque solennellement la colère de @possessive_God@ @sur@ @T_o@ !
+
+EN: @The_monster@ spins and shimmers in dizzy loops.
+FR: @M_S@ tournoie et miroite en boucles étourdissantes.
+
+EN: @The_monster@ spits a shard of ice @at@ @target@.
+FR: @M_S@ crache un éclat de glace @sur@ @T_o@.
+
+EN: @The_monster@ spits acid @at@ @target@.
+FR: @M_S@ crache de l’acide @sur@ @T_o@.
+
+EN: @The_monster@ spits lava @at@ @target@.
+FR: @M_S@ crache de la lave @sur@ @T_o@.
+
+EN: @The_monster@ spits poison @at@ @target@.
+FR: @M_S@ crache du poison @sur@ @T_o@.
+
+EN: @The_monster@ sprays @target@ with liquid fire.
+FR: @M_S@ asperge @T_o@ de feu liquide.
+
+EN: @The_monster@ sprays incendiary fluid @at@ @target@.
+FR: @M_S@ pulvérise un fluide incendiaire @sur@ @T_o@.
+
+EN: @The_monster@ sprays sand from its hourglass @at@ @target@.
+FR: @M_S@ projette du sable de son sablier @sur@ @T_o@.
+
+EN: @The_monster@ spreads @possessive@ arms wide.
+FR: @M_S@ écarte grand les bras.
+
+EN: @The_monster@ squirms violently as it stares @at@ @target@.
+FR: @M_S@ se tortille violemment en fixant @T_o@.
+
+EN: @The_monster@ squirts acid @at@ @target@.
+FR: @M_S@ fait gicler de l’acide @sur@ @T_o@.
+
+EN: @The_monster@ stares @at@ @foe@ with tortured malice.
+FR: @M_S@ fixe @T_o@ avec une malice tourmentée.
+
+EN: @The_monster@ stares @at@ @target@ and mumbles some strange words.
+FR: @M_S@ fixe @T_o@ et marmonne d’étranges paroles.
+
+EN: @The_monster@ stares @at@ @target@.
+FR: @M_S@ fixe @T_o@.
+
+EN: @The_monster@ stares piercingly @at@ @target@.
+FR: @M_S@ fixe @T_o@ d’un regard perçant.
+
+EN: @The_monster@ stomps @possessive@ heavy feet.
+FR: @M_S@ piétine de ses lourds pieds.
+
+EN: @The_monster@ surveys @target@ with malign shimmering curiousity.
+FR: @M_S@ observe @T_o@ avec une curiosité maligne et chatoyante.
+
+EN: @The_monster@ swirls like a blizzard.
+FR: @M_S@ tourbillonne comme un blizzard.
+
+EN: @The_monster@ thrashes about, unleashing tainted phantasms!
+FR: @M_S@ se débat en libérant des fantasmes souillés !
+
+EN: @The_monster@ thrashes silently as it unleashes tainted phantasms!
+FR: @M_S@ se débat en silence en libérant des fantasmes souillés !
+
+EN: @The_monster@ throws @beam@ @at@ @target@.
+FR: @M_S@ jette @beam@ @sur@ @T_o@.
+
+EN: @The_monster@ thunders ferociously @at@ @target@!
+FR: @M_S@ tonne férocement @vers@ @T_o@ !
+
+EN: @The_monster@ touches a tree and draws upon its vitality.
+FR: @M_S@ touche un arbre et puise dans sa vitalité.
+
+EN: @The_monster@ unfurls @possessive@ wings.
+FR: @M_S@ déploie ses ailes.
+
+EN: @The_monster@ utters a dark prayer and points @at@ @target@.
+FR: @M_S@ prononce une sombre prière et désigne @T_o@.
+
+EN: @The_monster@ violently rattles with glee.
+FR: @M_S@ cliquette violemment de joie.
+
+EN: @The_monster@ waves @possessive@ @arms@ in wide circles.
+FR: @M_S@ agite ses @arms@ en grands cercles.
+
+EN: @The_monster@ waves @possessive@ @arms@ in writhing circles.
+FR: @M_S@ agite ses @arms@ en cercles sinueux.
+
+EN: @The_monster@ weaves a phantasmal image and fires it @at@ @target@.
+FR: @M_S@ tisse une image fantasmagorique et la tire @sur@ @T_o@.
+
+EN: @The_monster@ weaves a wave of flesh @at@ @target@.
+FR: @M_S@ tisse une vague de chair @vers@ @T_o@.
+
+EN: @The_monster@ weaves intricate patterns with the tip of @possessive@ tongue.
+FR: @M_S@ tisse de complexes motifs du bout de la langue.
+
+EN: @The_monster@ whispers a [stupefying|staggering] mystic riddle.
+FR: @M_S@ chuchote une énigme mystique [stupéfiante|renversante].
+
+EN: @The_monster@ whispers indecipherable words.
+FR: @M_S@ chuchote des mots indéchiffrables.
+
+EN: @The_monster@ whispers, "Kneel."
+FR: @M_S@ chuchote : « À genoux. »
+
+EN: @The_monster@ winds a great silver horn.
+FR: @M_S@ embouche un grand cor d’argent.
+
+EN: @The_monster@ wobbles aimlessly.
+FR: @M_S@ vacille sans but.
+
+EN: @The_monster@ writhes with glee as it focuses its will @at@ @target@.
+FR: @M_S@ se tord de joie en concentrant sa volonté @sur@ @T_o@.
+
+EN: @The_monster@ writhes with hunger as it focuses its will @at@ @target@.
+FR: @M_S@ se tord de faim en concentrant sa volonté @sur@ @T_o@.
+
+EN: @The_monster@ yells loudly @at@ @target@.
+FR: @M_S@ hurle bruyamment @vers@ @T_o@.
+
+EN: @The_monster@'s components convulse as foul spirits manifest!
+FR: Les composants @M_d@ convulsent tandis que d’ignobles esprits se manifestent !
+
+EN: @The_monster_possessive@ bulging head throbs.
+FR: La tête bombée @M_d@ palpite.
+
+EN: @The_monster_possessive@ eyes glow briefly.
+FR: Les yeux @M_d@ luisent brièvement.
+
+EN: @The_monster_possessive@ eyes shimmer, overwhelming @target@ with visions from beyond.
+FR: Les yeux @M_d@ miroitent et submergent @T_o@ de visions d’au-delà.
+
+EN: @The_monster_possessive@ eyestalks quiver as @subjective@ mumbles some strange words.
+FR: Les pédoncules oculaires @M_d@ frémissent tandis que @subjective@ marmonne d’étranges paroles.
+
+EN: @The_monster_possessive@ misery [bubbles over|overflows].
+FR: La misère @M_d@ [bouillonne|déborde].
+
+EN: @The_monster_possessive@ staff shoots out a stream of webbing.
+FR: Le bâton @M_d@ projette un jet de toile.
+
+EN: @The_monster_possessive@ throbbing head pulsates.
+FR: La tête palpitante @M_d@ pulse.
+
+EN: @The_monster_possessive@ wings beat fiercely.
+FR: Les ailes @M_d@ battent avec force.
+
+EN: @The_something@ weaves a phantasmal image and casts it forth!
+FR: Quelque chose tisse une image fantasmagorique et la lance !
+
+EN: A stream of webbing shoots out from thin air.
+FR: Un jet de toile jaillit du vide.
+
+EN: A string of sticky webbing shoots out from thin air.
+FR: Un filament de toile collante jaillit du vide.
+
+EN: A weapon leaps out from @the_monster@ and lunges @at@ @target@!
+FR: Une arme jaillit @M_d@ et fond @sur@ @T_o@ !
+
+EN: A wild whirl of fire shoots out from @the_monster@ @at@ @target@.
+FR: Un tourbillon de feu sauvage jaillit @M_d@ @vers@ @T_o@.
+
+EN: A wild whirl of ice shoots out from @the_monster@ @at@ @target@.
+FR: Un tourbillon de glace sauvage jaillit @M_d@ @vers@ @T_o@.
+
+EN: An echo of @the_monster@ flickers and hopelessly wails @at@ @target@.
+FR: Un écho @M_d@ vacille et gémit désespérément @vers@ @T_o@.
+
+EN: Electricity crackles from @the_monster_possessive@ apparatus.
+FR: L’électricité crépite de l’appareil @M_d@.
+
+EN: Electricity dances across @the_monster_possessive@ nodes.
+FR: L’électricité danse sur les nœuds @M_d@.
+
+EN: Existence decays around @the_monster@.
+FR: L’existence se désagrège autour @M_d@.
+
+EN: Something numinous underneath @the_monster_possessive@ waves suddenly gazes at @target@.
+FR: Quelque chose de numineux sous les vagues @M_d@ regarde soudain @T_o@.
+
+EN: Something weaves an illusion!
+FR: Quelque chose tisse une illusion !
+
+EN: Strange energies crackle from @the_monster_possessive@ apparatus.
+FR: D’étranges énergies crépitent de l’appareil @M_d@.
+
+EN: @The_monster@ gestures frantically.
+FR: @M_S@ fait des gestes frénétiques.
+
+EN: @The_monster@ gestures sharply.
+FR: @M_S@ fait un geste sec.
+
+EN: @The_monster@ glows a brilliant shade of cerise.
+FR: @M_S@ luit d’un éclatant ton cerise.
+
+EN: @The_monster@ makes an elaborate arcing motion.
+FR: @M_S@ fait un geste en arc élaboré.
+
+EN: @The_monster@ slams @possessive@ palms together.
+FR: @M_S@ claque ses paumes l’une contre l’autre.
+
+EN: @The_monster@ slams @possessive@ weapon against the ground.
+FR: @M_S@ frappe le sol de son arme.
+
+EN: @The_monster@ stamps @possessive@ foot.
+FR: @M_S@ tape du pied.
+
+EN: @The_monster@ throws @possessive@ arms up pleadingly.
+FR: @M_S@ lève les bras d’un air suppliant.
+
+EN: @The_monster@ wobbles crazily.
+FR: @M_S@ vacille comme un fou.
+
+EN: @The_monster_possessive@ eyestalks stretch out, then return to normal size.
+FR: Les pédoncules oculaires @M_d@ s’étirent, puis reprennent leur taille normale.
+
+EN: Shadows flit across @the_monster@'s surface and appear to come alive.
+FR: Des ombres passent sur la surface @M_d@ et semblent prendre vie.
+
+EN: The shadows dancing upon @the_monster@ coalesce into cruel familiarity.
+FR: Les ombres qui dansent sur @M_o@ se rassemblent en une cruelle familiarité.
+
+EN: You feel a sudden urge to swivel your nonexistent eyestalks around.
+FR: Vous ressentez une soudaine envie de faire pivoter vos pédoncules oculaires inexistants.
+
+EN: You feel a sudden, passing aversion to salt.
+FR: Vous ressentez une soudaine aversion passagère pour le sel.
+
+EN: You feel briefly sluggish.
+FR: Vous vous sentez brièvement lent.
+
+EN: You feel something staring at you.
+FR: Vous sentez que quelque chose vous fixe.
+
+EN: You feel you are being watched by something.
+FR: Vous avez l’impression d’être observé par quelque chose.
+
+EN: You hear @something@ call down the wrath of @a_God@ upon @target@.
+FR: Vous entendez @something@ appeler la colère de @a_God@ sur @T_o@.
+
+EN: You hear @something@ invoke the aid of @a_God@ against @target@.
+FR: Vous entendez @something@ invoquer l’aide de @a_God@ contre @T_o@.
+
+EN: You hear @something@ mumble some strange prayers to @a_God@ against @target@.
+FR: Vous entendez @something@ marmonner d’étranges prières à @a_God@ contre @T_o@.
+
+EN: You hear a deafening rattling sound!
+FR: Vous entendez un cliquetis assourdissant !
+
+EN: You hear a loud warning cry!
+FR: Vous entendez un fort cri d’alerte !
+
+EN: You hear a loud warning shout!
+FR: Vous entendez un fort cri d’avertissement !
+
+EN: You hear a note loudly blown on a horn!
+FR: Vous entendez une note sonner fort dans un cor !
+
+EN: You hear a spitting sound.
+FR: Vous entendez un bruit de crachat.
+
+EN: You hear a tremendous hooting and howling!
+FR: Vous entendez un formidable hululement et hurlement !
+
+EN: You hear a violent whirl.
+FR: Vous entendez un violent tourbillon.
+
+EN: You hear a weird and mournful sound.
+FR: Vous entendez un son étrange et lugubre.
+
+EN: You hear blowing wind.
+FR: Vous entendez souffler le vent.
+
+EN: You hear gushing sobs.
+FR: Vous entendez des sanglots jaillissants.
+
+EN: You hear scornful gibbering.
+FR: Vous entendez un baragouinage méprisant.
+
+EN: You hear some strange prayers to @possessive_God@.
+FR: Vous entendez d’étranges prières à @possessive_God@.
+
+EN: You hear some strange, mumbled prayers to @a_God@.
+FR: Vous entendez d’étranges prières marmonnées à @a_God@.
+
+EN: You hear spiteful cackling.
+FR: Vous entendez un caquètement malveillant.
+
+EN: You hear the clattering of teeth.
+FR: Vous entendez un claquement de dents.
+
+EN: You hear the sound of rock striking rock.
+FR: Vous entendez le bruit de la roche heurtant la roche.
+
+EN: You take on a slight green cast.
+FR: Vous prenez une légère teinte verte.
+
+EN: You wobble.
+FR: Vous vacillez.

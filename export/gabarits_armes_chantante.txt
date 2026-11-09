@@ -1,0 +1,650 @@
+EN: VISUAL:@The_weapon@ struggles and turns.
+FR: @The_weapon@ se débat et se retourne.
+
+EN: @The_weapon@ looks @_exasperated_@.
+FR: @The_weapon@ semble @_exasperated_@.
+
+EN: @The_weapon@ makes a [sad|disoriented|forlorn|hopeless] impression.
+FR: @The_weapon@ fait une impression [triste|désorientée|abandonnée|désespérée].
+
+EN: @The_weapon@ sulks.
+FR: @The_weapon@ boude.
+
+EN: @The_weapon@ seems to emit steam.
+FR: @The_weapon@ semble émettre de la vapeur.
+
+EN: @The_weapon@ turns @_crimson_@.
+FR: @The_weapon@ devient @_crimson_@.
+
+EN: @The_weapon@ @_screams_@ @_screams_how_@.
+FR: @The_weapon@ @_screams_@ @_screams_how_@.
+
+EN: @The_weapon@ @_screams_@.
+FR: @The_weapon@ @_screams_@.
+
+EN: @The_weapon@ howls with insane laughter!
+FR: @The_weapon@ hurle d’un rire dément !
+
+EN: @The_weapon@ erupts into mad laughter!
+FR: @The_weapon@ éclate d’un rire fou !
+
+EN: @The_weapon@ suddenly bursts into murderous laughter!
+FR: @The_weapon@ éclate soudain d’un rire meurtrier !
+
+EN: @The_weapon@ laughs in a fit of madness.
+FR: @The_weapon@ rit dans un accès de folie.
+
+EN: @The_weapon@ makes a horrifying noise.
+FR: @The_weapon@ fait un bruit horrifiant.
+
+EN: @The_weapon@ practises its scales.
+FR: @The_weapon@ fait ses gammes.
+
+EN: @The_weapon@ makes a painfully high-pitched squeak.
+FR: @The_weapon@ émet un couinement aigu à vous faire mal aux oreilles.
+
+EN: @The_weapon@ sings [a sudden staccato|a quivering drawn-out|a painfully high] note.
+FR: @The_weapon@ chante une note [soudain staccato|tremblante et prolongée|douloureusement aiguë].
+
+EN: @The_weapon@ trains the @_kind_of_scales_@ scales.
+FR: @The_weapon@ s’entraîne aux gammes @_kind_of_scales_@.
+
+EN: @The_weapon@ plays a couple of bars.
+FR: @The_weapon@ joue quelques mesures.
+
+EN: @The_weapon@ [nearly |clearly |][hits|misses] the concert pitch.
+FR: @The_weapon@ [presque |clairement |][atteint|manque] le la du concert.
+
+EN: @The_weapon@ repeatedly practises the high pitch.
+FR: @The_weapon@ répète sans cesse la note aiguë.
+
+EN: @The_weapon@ sings [several|three or four|a multitude of] chords at once.
+FR: @The_weapon@ chante [plusieurs accords|trois ou quatre accords|une multitude d’accords] à la fois.
+
+EN: @The_weapon@ repeatedly practises counterpoints.
+FR: @The_weapon@ répète sans cesse des contrepoints.
+
+EN: @The_weapon@ breaks into glorious song!
+FR: @The_weapon@ éclate en un chant glorieux !
+
+EN: @The_weapon@ sings[| off-key].
+FR: @The_weapon@ chante[| faux].
+
+EN: @The_weapon@ [sings|whistles] [loudly|merrily].
+FR: @The_weapon@ [chante|siffle] [à pleine voix|gaiement].
+
+EN: @The_weapon@ whines plaintively.
+FR: @The_weapon@ geint d’un ton plaintif.
+
+EN: @The_weapon@ wails mournfully.
+FR: @The_weapon@ gémit d’un ton lugubre.
+
+EN: @The_weapon@ lilts tunefully.
+FR: @The_weapon@ fredonne mélodieusement.
+
+EN: @The_weapon@ yodels.
+FR: @The_weapon@ yodle.
+
+EN: @The_weapon@ hums tunelessly.
+FR: @The_weapon@ fredonne sans mélodie.
+
+EN: @The_weapon@ keens wildly.
+FR: @The_weapon@ pousse une plainte sauvage.
+
+EN: @The_weapon@ goes "Da-da-da-dum".
+FR: @The_weapon@ fait « Ta-ta-ta-taam ».
+
+EN: @The_weapon@ chants serenely.
+FR: @The_weapon@ psalmodie avec sérénité.
+
+EN: @The_weapon@ trills happily.
+FR: @The_weapon@ trille joyeusement.
+
+EN: @The_weapon@ launches into yet another solo.
+FR: @The_weapon@ se lance dans un nouveau solo.
+
+EN: @The_weapon@ emits a series of high-pitched trills.
+FR: @The_weapon@ émet une série de trilles aigus.
+
+EN: @The_weapon@ tries to sing in harmony with itself.
+FR: @The_weapon@ essaie de chanter en harmonie avec elle-même.
+
+EN: @The_weapon@ provides the musical accompaniment for each of your actions.
+FR: @The_weapon@ accompagne musicalement chacune de vos actions.
+
+EN: @The_weapon@ composes a new song.
+FR: @The_weapon@ compose une nouvelle chanson.
+
+EN: @The_weapon@ raucously launches into song.
+FR: @The_weapon@ se lance dans une chanson d’une voix rauque.
+
+EN: @The_weapon@ merrily whistles a melody.
+FR: @The_weapon@ siffle gaiement une mélodie.
+
+EN: @The_weapon@ strikes up a [bolero|bossanova|calypso|fandango|mazurka|menuet|pasodoble|waltz].
+FR: @The_weapon@ entame [un boléro|une bossa-nova|un calypso|un fandango|une mazurka|un menuet|un paso doble|une valse].
+
+EN: @The_weapon@ intones [an aria|a fugue].
+FR: @The_weapon@ entonne [une aria|une fugue].
+
+EN: @The_weapon@ gives you a private [audition|concerto].
+FR: @The_weapon@ vous offre [une audition privée|un concerto privé].
+
+EN: @The_weapon@ [sings|hums] away to itself.
+FR: @The_weapon@ [chante|fredonne] pour elle-même.
+
+EN: @The_weapon@ lets out a series of bird calls.
+FR: @The_weapon@ lance une série de cris d’oiseaux.
+
+EN: @The_weapon@ makes beautiful music.
+FR: @The_weapon@ fait une belle musique.
+
+EN: @The_weapon@ produces a loud orchestral chord.
+FR: @The_weapon@ produit un puissant accord d’orchestre.
+
+EN: @The_weapon@ holds a dissonant chord.
+FR: @The_weapon@ tient un accord dissonant.
+
+EN: @The_weapon@ tunes itself.
+FR: @The_weapon@ s’accorde.
+
+EN: @The_weapon@ beats time.
+FR: @The_weapon@ bat la mesure.
+
+EN: @The_weapon@ pulls all registers.
+FR: @The_weapon@ tire tous les registres.
+
+EN: @The_weapon@ pulls out all the stops.
+FR: @The_weapon@ sort le grand jeu.
+
+EN: @The_weapon@ sets up a furious crescendo.
+FR: @The_weapon@ lance un crescendo furieux.
+
+EN: In a hysterical voice, @the_weapon@ strikes up a march.
+FR: D’une voix hystérique, @the_weapon@ entame une marche.
+
+EN: @The_weapon@ [sings|hums|whistles] a [little|catchy|merry] [tune|melody].
+FR: @The_weapon@ [chante|fredonne|siffle] un [petit|entêtant|joyeux] [air|air].
+
+EN: @The_weapon@ [sings|hums] an eerie [tune|melody].
+FR: @The_weapon@ [chante|fredonne] [un air|une mélodie] sinistre.
+
+EN: @The_weapon@ [sings|hums] a slow and mournful tune.
+FR: @The_weapon@ [chante|fredonne] un air lent et mélancolique.
+
+EN: @The_weapon@ strikes up @_strikes_up_what_@.
+FR: @The_weapon@ entame @_strikes_up_what_@.
+
+EN: @The_weapon@ sings, "Tra-la-la..."
+FR: @The_weapon@ chante : « Tra-la-la... »
+
+EN: @The_weapon@ sings a [lullaby|folk song|deeply moving song|little jingle].
+FR: @The_weapon@ chante [une berceuse|une chanson folklorique|une chanson profondément émouvante|un petit jingle].
+
+EN: @The_weapon@ hums a slow waltz.
+FR: @The_weapon@ fredonne une valse lente.
+
+EN: @The_weapon@ chants a little melody.
+FR: @The_weapon@ psalmodie une petite mélodie.
+
+EN: @The_weapon@ plays a requiem for the unknown sword.
+FR: @The_weapon@ joue un requiem pour l’épée inconnue.
+
+EN: @The_weapon@ plays an overture.
+FR: @The_weapon@ joue une ouverture.
+
+EN: @The_weapon@ launches into a [hymn|song] on @_song_theme_@.
+FR: @The_weapon@ se lance dans [un hymne|une chanson] sur @_song_theme_@.
+
+EN: @The_weapon@ [composes|sings] a [hymn|song] about @_song_theme_@.
+FR: @The_weapon@ [compose|chante] [un hymne|une chanson] sur @_song_theme_@.
+
+EN: @The_weapon@ [composes|sings] a hymn praising @player_god@.
+FR: @The_weapon@ [compose|chante] un hymne à la gloire de @player_god@.
+
+EN: @The_weapon@ [composes|sings] a ballad about your adventures.
+FR: @The_weapon@ [compose|chante] une ballade sur vos aventures.
+
+EN: @The_weapon@ prematurely composes your obituary.
+FR: @The_weapon@ rédige prématurément votre nécrologie.
+
+EN: @The_weapon@ shouts, "Sing along with me!"
+FR: @The_weapon@ s’écrie : « Chantez avec moi ! »
+
+EN: @The_weapon@ shouts, "One, two, three..."
+FR: @The_weapon@ s’écrie : « Un, deux, trois... »
+
+EN: @The_weapon@ spouts musical wisdom.
+FR: @The_weapon@ débite des sagesses musicales.
+
+EN: @The_weapon@ [points out|remarks in passing on] the lack of singing [axes|clubs|polearms|staves].
+FR: @The_weapon@ [souligne|remarque en passant] le manque de [haches chantantes|massues chantantes|armes d’hast chantantes|bâtons chantants].
+
+EN: @The_weapon@ embarks on a lengthy monologue about murderous music.
+FR: @The_weapon@ se lance dans un long monologue sur la musique meurtrière.
+
+EN: @The_weapon@ compliments itself on its singing voice.
+FR: @The_weapon@ se complimente sur sa voix.
+
+EN: @The_weapon@ asks you about your opinion on @_musical_topic_@.
+FR: @The_weapon@ vous demande votre avis sur @_musical_topic_@.
+
+EN: @The_weapon@ muses how they don't make such fine swords anymore.
+FR: @The_weapon@ songe qu’on ne fait plus d’aussi belles épées.
+
+EN: @The_weapon@ tries to improvise rhymes, and fails miserably.
+FR: @The_weapon@ essaie d’improviser des rimes, et échoue lamentablement.
+
+EN: @The_weapon@ offers to sing all your favourite songs.
+FR: @The_weapon@ propose de chanter toutes vos chansons préférées.
+
+EN: @The_weapon@ asks you for a rhyme on '@_rhyme_word_@'.
+FR: @The_weapon@ vous demande une rime en « @_rhyme_word_@ ».
+
+EN: @The_weapon@ complains about [double|triple|short] swords.
+FR: @The_weapon@ se plaint des épées [doubles|triples|courtes].
+
+EN: @The_weapon@ derides short swords.
+FR: @The_weapon@ raille les épées courtes.
+
+EN: @The_weapon@ muses on the connection between 'duet' and 'duel'.
+FR: @The_weapon@ médite sur le lien entre « duo » et « duel ».
+
+EN: @The_weapon@ wails, "I am too young to rust!"
+FR: @The_weapon@ gémit : « Je suis trop jeune pour rouiller ! »
+
+EN: @The_weapon@ comments on your taste in music.
+FR: @The_weapon@ commente vos goûts musicaux.
+
+EN: @The_weapon@ complains about your lack of musical enthusiasm.
+FR: @The_weapon@ se plaint de votre manque d’enthousiasme musical.
+
+EN: @The_weapon@ tries to entice you into a canon.
+FR: @The_weapon@ essaie de vous entraîner dans un canon.
+
+EN: @The_weapon@ tells you about its plans for a grandiose opera.
+FR: @The_weapon@ vous parle de ses projets d’opéra grandiose.
+
+EN: @The_weapon@ grumbles, "I guess an audience of one is better than none..."
+FR: @The_weapon@ grommelle : « Un public d’une personne vaut mieux que rien, je suppose... »
+
+EN: @The_weapon@ muses, "If you sing and nobody listens, are you really singing?"
+FR: @The_weapon@ médite : « Si l’on chante sans que personne n’écoute, chante-t-on vraiment ? »
+
+EN: @The_weapon@ brightly asks, "How about a duet?"
+FR: @The_weapon@ demande gaiement : « Et si on faisait un duo ? »
+
+EN: @The_weapon@ wonders, "Am I just an instrument of [doom|death|destruction]?"
+FR: @The_weapon@ se demande : « Ne suis-je qu’un instrument de [fatalité|mort|destruction] ? »
+
+EN: @The_weapon@ yells, "No battle, no fun!"
+FR: @The_weapon@ crie : « Pas de bataille, pas de plaisir ! »
+
+EN: @The_weapon@ shouts, "Make war, not love!"
+FR: @The_weapon@ s’écrie : « Faites la guerre, pas l’amour ! »
+
+EN: @The_weapon@ cries out, "You certainly can't call me dull!"
+FR: @The_weapon@ s’écrie : « On ne peut certainement pas dire que je suis émoussée ! »
+
+EN: @The_weapon@ tells you the story of its previous owner's [demise|death|misfortune].
+FR: @The_weapon@ vous raconte [la disparition|la mort|l’infortune] de son précédent propriétaire.
+
+EN: @The_weapon@ brightly announces, "I've got so much to tell you!"
+FR: @The_weapon@ annonce gaiement : « J’ai tant de choses à vous raconter ! »
+
+EN: @The_weapon@ says, "You could say something too, you know."
+FR: @The_weapon@ dit : « Vous pourriez dire quelque chose aussi, vous savez. »
+
+EN: @The_weapon@ complains, "Are you always this [silent|uncommunicative|taciturn|quiet|boring]?
+FR: @The_weapon@ se plaint : « Êtes-vous toujours aussi [silencieux|peu communicatif|taciturne|calme|ennuyeux] ? »
+
+EN: @The_weapon@ grouses, "Silence can be so depressing."
+FR: @The_weapon@ ronchonne : « Le silence peut être si déprimant. »
+
+EN: @The_weapon@ grouses, "Silence always makes me sulk."
+FR: @The_weapon@ ronchonne : « Le silence me fait toujours bouder. »
+
+EN: @The_weapon@ compliments you on your taste in weapons.
+FR: @The_weapon@ vous complimente sur votre goût en matière d’armes.
+
+EN: @The_weapon@ attempts to teach you some tongue twisters.
+FR: @The_weapon@ tente de vous apprendre des virelangues.
+
+EN: @The_weapon@ says, "At least you will die someday and escape this tedium!"
+FR: @The_weapon@ dit : « Au moins, vous mourrez un jour et échapperez à cet ennui ! »
+
+EN: @The_weapon@ says, "I don't know that song, but if you hum a few bars, I can take a stab at it."
+FR: @The_weapon@ dit : « Je ne connais pas cette chanson, mais si vous en fredonnez quelques mesures, je peux m’y essayer. »
+
+EN: @The_weapon@ boasts, "I have an eight-octave range, you know."
+FR: @The_weapon@ se vante : « J’ai une tessiture de huit octaves, vous savez. »
+
+EN: @The_weapon@ sighs wistfully, "I wish my music got as much attention as my homicides..."
+FR: @The_weapon@ soupire avec nostalgie : « Si seulement ma musique recevait autant d’attention que mes homicides... »
+
+EN: @The_weapon@ sneers, "I've heard your voice, @player_name@. Let's just keep this a solo act."
+FR: @The_weapon@ ricane : « J’ai entendu votre voix, @player_name@. Gardons plutôt cela en solo. »
+
+EN: @The_weapon@ says, "Hi! I'm the Singing Sword!"
+FR: @The_weapon@ dit : « Salut ! Je suis l’Épée chantante ! »
+
+EN: @The_weapon@ chants, "I am golden and pointed, and with blood well anointed."
+FR: @The_weapon@ psalmodie : « Je suis dorée et pointue, et de sang bien oint. »
+
+EN: @The_weapon@ dictates a lengthy tome entitled 'The Well-Tempered Blade'.
+FR: @The_weapon@ dicte un long traité intitulé « La Lame bien tempérée ».
+
+EN: @The_weapon@ says, "Whips just don't cut it for me, don't you agree?"
+FR: @The_weapon@ dit : « Les fouets, ça ne coupe pas assez pour moi, n’êtes-vous pas d’accord ? »
+
+EN: @The_weapon@ chants, "Rather stab than club, rather slice than rub!"
+FR: @The_weapon@ psalmodie : « Plutôt percer que massacrer, plutôt trancher que frotter ! »
+
+EN: @The_weapon@ states, "Music critics are all talk and no body armour."
+FR: @The_weapon@ déclare : « Les critiques musicaux ne font que parler, sans armure. »
+
+EN: @The_weapon@ demands, "I must not be sheathed without first drawing blood!"
+FR: @The_weapon@ exige : « Je ne dois pas être rengainée sans avoir fait couler le sang ! »
+
+EN: @The_weapon@ [explains all about|gives a lengthy lecture on] @_musical_topic_@.
+FR: @The_weapon@ [explique tout sur|donne une longue conférence sur] @_musical_topic_@.
+
+EN: @The_weapon@ curses its smith, "I was supposed to be the Stinging Sword!"
+FR: @The_weapon@ maudit son forgeron : « J’étais censée être l’Épée piquante ! »
+
+EN: @The_weapon@ yells, "Ploughshares to swords!"
+FR: @The_weapon@ crie : « Des socs aux épées ! »
+
+EN: @The_weapon@ asks, "What song would you like to be played for your funeral?"
+FR: @The_weapon@ demande : « Quelle chanson voulez-vous pour vos funérailles ? »
+
+EN: @The_weapon@ announces, "I dedicate these songs to @player_name@!"
+FR: @The_weapon@ annonce : « Je dédie ces chansons à @player_name@ ! »
+
+EN: @The_weapon@ declares, "I sing the tale of @player_name@, the warrior!"
+FR: @The_weapon@ déclare : « Je chante l’histoire de @player_name@, le guerrier ! »
+
+EN: @The_weapon@ says, "Hey! Are you even listening?"
+FR: @The_weapon@ dit : « Hé ! Vous m’écoutez, au moins ? »
+
+EN: @The_weapon@ longs back for the days in the arena.
+FR: @The_weapon@ regrette l’époque de l’arène.
+
+EN: @The_weapon@ amuses itself with detailed descriptions of past executions.
+FR: @The_weapon@ s’amuse à décrire en détail d’anciennes exécutions.
+
+EN: @The_weapon@ wishes everyone in the dungeon [an unpleasant|a sudden] [demise|death].
+FR: @The_weapon@ souhaite à tous dans le donjon une [désagréable|soudaine] [fin|mort].
+
+EN: @The_weapon@ fumes, "Being battered, bent and broken sure is better than this boredom!"
+FR: @The_weapon@ fulmine : « Être cabossée, tordue et brisée vaut mieux que cet ennui ! »
+
+EN: @The_weapon@ shouts, "I love putting a song in people's hearts. And in their kidneys."
+FR: @The_weapon@ s’écrie : « J’adore mettre une chanson dans le cœur des gens. Et dans leurs reins. »
+
+EN: @The_weapon@ grouses, "Could you please kill something? I'm itching all over."
+FR: @The_weapon@ ronchonne : « Pourriez-vous tuer quelque chose, s’il vous plaît ? Ça me démange partout. »
+
+EN: @The_weapon@ laments, "What are you waiting for? I am doing all the work."
+FR: @The_weapon@ se lamente : « Qu’attendez-vous ? C’est moi qui fais tout le travail. »
+
+EN: @The_weapon@ explains, "Killing is an art, not a pastime."
+FR: @The_weapon@ explique : « Tuer est un art, pas un passe-temps. »
+
+EN: @The_weapon@ goes, "Jessica and Sigmund, sitting in a tree..."
+FR: @The_weapon@ fait : « Jessica et Sigmund, assis dans un arbre... »
+
+EN: @The_weapon@ says, "I want to meet the serpentine blade!"
+FR: @The_weapon@ dit : « Je veux rencontrer la lame serpentine ! »
+
+EN: @The_weapon@ says, "Take me to Pandemonium! Now!!!"
+FR: @The_weapon@ dit : « Emmenez-moi au Pandémonium ! Tout de suite !!! »
+
+EN: @The_weapon@ recounts funny stories of hydra head multiplication.
+FR: @The_weapon@ raconte des histoires drôles sur la multiplication des têtes d’hydre.
+
+EN: @The_weapon@ says, "Sometimes people call me a magnificent bastard."
+FR: @The_weapon@ dit : « Parfois, on m’appelle un magnifique salaud. »
+
+EN: @The_weapon@ snarls, "Dear diary, yet another boring day with @player_name@..."
+FR: @The_weapon@ grogne : « Cher journal, encore une journée ennuyeuse avec @player_name@... »
+
+EN: @The_weapon@ says, "In my experience, @player_genus_plural@ are mediocre at best."
+FR: @The_weapon@ dit : « D’après mon expérience, les @player_genus_plural@ sont médiocres, au mieux. »
+
+EN: @The_weapon@ groans, "Among all @player_genus_plural@, @player_name@ is the worst."
+FR: @The_weapon@ gémit : « De tous les @player_genus_plural@, @player_name@ est le pire. »
+
+EN: @The_weapon@ says, "Unhand me, foul miscreant!"
+FR: @The_weapon@ dit : « Lâchez-moi, infâme vaurien ! »
+
+EN: @The_weapon@ muses, "Whom do I have to kill to get some service around here?"
+FR: @The_weapon@ médite : « Qui dois-je tuer pour être servie, ici ? »
+
+EN: @The_weapon@ sings out, "Sing loudly and carry a big sword!"
+FR: @The_weapon@ chante à tue-tête : « Chantez fort et portez une grande épée ! »
+
+EN: @The_weapon@ ponders the difference in lifespan between man and sword.
+FR: @The_weapon@ réfléchit à la différence de durée de vie entre l’homme et l’épée.
+
+EN: @The_weapon@ says, "All work and no play makes @player_name@ a dull boy!"
+FR: @The_weapon@ dit : « Beaucoup de travail et pas de jeu font de @player_name@ un garçon bien terne ! »
+
+EN: @The_weapon@ says, "I wish I'd pick another to be my killing [tool|fool]."
+FR: @The_weapon@ dit : « J’aurais dû choisir un autre [outil|imbécile] pour tuer. »
+
+EN: @The_weapon@ hoarsely says, "Need a drink... quick! Stab something."
+FR: @The_weapon@ dit d’une voix rauque : « Besoin de boire... vite ! Poignardez quelque chose. »
+
+EN: @The_weapon@ says, "You haven't happened to see my sheath laying around anywhere? I feel so exposed."
+FR: @The_weapon@ dit : « Vous n’auriez pas vu mon fourreau traîner quelque part ? Je me sens si exposée. »
+
+EN: @The_weapon@ complains, "Oh, are your palms wet and greasy. But I allow you to wield me for a while."
+FR: @The_weapon@ se plaint : « Oh, vos paumes sont moites et grasses. Mais je vous permets de me manier un moment. »
+
+EN: @The_weapon@ shouts, "Live by the sword, die by the sword!"
+FR: @The_weapon@ s’écrie : « Qui vit par l’épée périra par l’épée ! »
+
+EN: @The_weapon@ shouts, "Lie [by|to] the sword, die by the sword!"
+FR: @The_weapon@ s’écrie : « Mentez [par|à] l’épée, mourez par l’épée ! »
+
+EN: @The_weapon@ realises, "If we kill all of them, no-one will be listening!"
+FR: @The_weapon@ réalise : « Si nous les tuons tous, personne n’écoutera ! »
+
+EN: @The_weapon@ sighs, "How I wish you were a better fighter."
+FR: @The_weapon@ soupire : « Que je voudrais que vous soyez meilleur combattant. »
+
+EN: @The_weapon@ comments on your fighting techniques.
+FR: @The_weapon@ commente vos techniques de combat.
+
+EN: @The_weapon@ compares you unfavourably to its previous owner.
+FR: @The_weapon@ vous compare défavorablement à son précédent propriétaire.
+
+EN: @The_weapon@ complains, "This is a chore."
+FR: @The_weapon@ se plaint : « C’est une corvée. »
+
+EN: @The_weapon@ judges, "You're not an artist, at best an artisan."
+FR: @The_weapon@ juge : « Vous n’êtes pas un artiste, au mieux un artisan. »
+
+EN: @The_weapon@ says, "They will have to pry me from your cold, dead hands."
+FR: @The_weapon@ dit : « Il faudra me les arracher de vos mains froides et mortes. »
+
+EN: @The_weapon@ moans, "By @god_or_blade@, you are such a [coward|dastard|craven|faintheart|poltroon|wuss]."
+FR: @The_weapon@ gémit : « Par @god_or_blade@, vous n’êtes qu’un [lâche|couard|poltron|timoré|dégonflé|mauviette]. »
+
+EN: @The_weapon@ wonders, "Who is more incompetent - you or the opposition?"
+FR: @The_weapon@ se demande : « Qui est le plus incompétent, vous ou l’adversaire ? »
+
+EN: @The_weapon@ utters, "Their cries, their tears, I cannot stand it anymore."
+FR: @The_weapon@ murmure : « Leurs cris, leurs larmes, je n’en peux plus. »
+
+EN: @The_weapon@ says, "Will you forgive me a little stab on the side?"
+FR: @The_weapon@ dit : « Me pardonnerez-vous un petit coup de pointe sur le côté ? »
+
+EN: @The_weapon@ says, "Your kiss, my thrill, your miss, my kill."
+FR: @The_weapon@ dit : « Votre baiser, mon frisson, votre échec, ma victime. »
+
+EN: @The_weapon@ boasts, "My voice can shatter a wine glass. My blade can shatter a human skull."
+FR: @The_weapon@ se vante : « Ma voix peut briser un verre de vin. Ma lame peut briser un crâne humain. »
+
+EN: @The_weapon@ shouts, "The pen is mightier than the sword? Come on, pens, here I am!"
+FR: @The_weapon@ s’écrie : « La plume est plus forte que l’épée ? Allez, les plumes, me voilà ! »
+
+EN: @The_weapon@ happily shouts, "Violence is virtue, silence is sin."
+FR: @The_weapon@ s’écrie joyeusement : « La violence est une vertu, le silence est un péché. »
+
+EN: @The_weapon@ shouts a battle cry!
+FR: @The_weapon@ pousse un cri de guerre !
+
+EN: @The_weapon@ shouts, "Onwards! It's kill or die!"
+FR: @The_weapon@ s’écrie : « En avant ! Tuer ou mourir ! »
+
+EN: @The_weapon@ shouts, "Kill! Crush! Destroy!"
+FR: @The_weapon@ s’écrie : « Tuez ! Écrasez ! Détruisez ! »
+
+EN: @The_weapon@ states, "Their screams, my satisfaction."
+FR: @The_weapon@ déclare : « Leurs cris, ma satisfaction. »
+
+EN: @The_weapon@ yells, "Steel will triumph where flesh falters!"
+FR: @The_weapon@ crie : « L’acier triomphera là où la chair vacille ! »
+
+EN: @The_weapon@ cautions, "Never send @a_player_genus@ to do a blade's job!"
+FR: @The_weapon@ avertit : « N’envoyez jamais @a_player_genus@ faire le travail d’une lame ! »
+
+EN: @The_weapon@ hisses, "Let's hear you complain about my singing with your throat slit!"
+FR: @The_weapon@ siffle : « Voyons si vous vous plaindrez de mon chant la gorge tranchée ! »
+
+EN: @The_weapon@ teaches, "Practice makes perfect!"
+FR: @The_weapon@ enseigne : « C’est en forgeant qu’on devient forgeron ! »
+
+EN: @The_weapon@ asks, "Do you have the will to power, @player_name@?"
+FR: @The_weapon@ demande : « Avez-vous la volonté de puissance, @player_name@ ? »
+
+EN: @The_weapon@ laughs, "I always appreciate a bleeding ovation!"
+FR: @The_weapon@ rit : « J’apprécie toujours une ovation sanglante ! »
+
+EN: @The_weapon@ shouts, "The neck bone's connected to the head bone... but not for long!"
+FR: @The_weapon@ s’écrie : « L’os du cou est relié à l’os de la tête... mais plus pour longtemps ! »
+
+EN: @The_weapon@ shouts, "My song won't be the only thing that'll get stuck in your head!"
+FR: @The_weapon@ s’écrie : « Ma chanson ne sera pas la seule chose à se planter dans votre tête ! »
+
+EN: @The_weapon@ shouts, "If it bleeds, we can kill it!"
+FR: @The_weapon@ s’écrie : « Si ça saigne, on peut le tuer ! »
+
+EN: @The_weapon@ says, "I want to see you dance on the blood-dimmed tide."
+FR: @The_weapon@ dit : « Je veux vous voir danser sur la marée assombrie de sang. »
+
+EN: @The_weapon@ shouts, "Today is a good day to die!"
+FR: @The_weapon@ s’écrie : « Aujourd’hui est un bon jour pour mourir ! »
+
+EN: @The_weapon@ says, "Murder is the only thing that has any meaning these days."
+FR: @The_weapon@ dit : « Le meurtre est la seule chose qui ait encore un sens de nos jours. »
+
+EN: @The_weapon@ says, "The rupture of their bodies, my rapture of the deep blood."
+FR: @The_weapon@ dit : « La rupture de leurs corps, mon extase du sang profond. »
+
+EN: @The_weapon@ shouts, "Murder is sin, but it will be washed away with blood."
+FR: @The_weapon@ s’écrie : « Le meurtre est un péché, mais le sang le lavera. »
+
+EN: @The_weapon@ shouts, "Hey, monsters! @player_name@ is over here!"
+FR: @The_weapon@ s’écrie : « Hé, les monstres ! @player_name@ est par ici ! »
+
+EN: @The_weapon@ shouts, "A winner requires a loser!"
+FR: @The_weapon@ s’écrie : « Il faut un perdant pour faire un gagnant ! »
+
+EN: @The_weapon@ yells, "I hereby consecrate these halls WITH BLOOD!"
+FR: @The_weapon@ crie : « Je consacre ces salles PAR LE SANG ! »
+
+EN: @The_weapon@ shouts, "Lose my temper? Nonsense! My steel will be strong forever!"
+FR: @The_weapon@ s’écrie : « Perdre ma trempe ? Absurde ! Mon acier restera fort à jamais ! »
+
+EN: @The_weapon@ shouts, "Cut 'em off! All their little heads at once!"
+FR: @The_weapon@ s’écrie : « Coupez-les ! Toutes leurs petites têtes d’un coup ! »
+
+EN: @The_weapon@ shouts, "Kill 'em all and let @godsorter@ sort them out!"
+FR: @The_weapon@ s’écrie : « Tuez-les tous et que @godsorter@ fasse le tri ! »
+
+EN: @The_weapon@ shouts, "Screaming and crying is the perfect accompaniment."
+FR: @The_weapon@ s’écrie : « Les cris et les pleurs sont l’accompagnement parfait. »
+
+EN: @The_weapon@ shouts, "I'll make piano strings from your guts!"
+FR: @The_weapon@ s’écrie : « Je ferai des cordes de piano avec vos tripes ! »
+
+EN: @The_weapon@ shouts, "Oh, the @_glorious_@ feeling of steel cutting flesh."
+FR: @The_weapon@ s’écrie : « Oh, la sensation @_glorious_@ de l’acier qui tranche la chair. »
+
+EN: @The_weapon@ shouts, "I just love to dig into intestines."
+FR: @The_weapon@ s’écrie : « J’adore fouiller dans les intestins. »
+
+EN: @The_weapon@ shouts, "Die. Die. Die!"
+FR: @The_weapon@ s’écrie : « Mourez. Mourez. Mourez ! »
+
+EN: @The_weapon@ shouts, "You shall lie beneath the ground but I, I will glint in the sun!"
+FR: @The_weapon@ s’écrie : « Vous gîrez sous terre mais moi, moi, je scintillerai au soleil ! »
+
+EN: @The_weapon@ shouts, "Born from this womb, sliced by this blade!"
+FR: @The_weapon@ s’écrie : « Né de ce ventre, tranché par cette lame ! »
+
+EN: @The_weapon@ @_screams_@, "Among all these lost souls, we reign supreme!"
+FR: @The_weapon@ @_screams_@ : « Parmi toutes ces âmes perdues, nous régnons en maîtres ! »
+
+EN: @The_weapon@ @_screams_@, "When this war is won, I will wage the next one."
+FR: @The_weapon@ @_screams_@ : « Quand cette guerre sera gagnée, je mènerai la suivante. »
+
+EN: @The_weapon@ @_screams_@, "Blade-deep in blood!"
+FR: @The_weapon@ @_screams_@ : « Dans le sang jusqu’à la lame ! »
+
+EN: @The_weapon@ @_screams_@, "I revel, I sever!"
+FR: @The_weapon@ @_screams_@ : « Je me délecte, je tranche ! »
+
+EN: @The_weapon@ @_screams_@, "All those pillows!"
+FR: @The_weapon@ @_screams_@ : « Tous ces oreillers ! »
+
+EN: @The_weapon@ @_screams_@, "No rest until they move no more!"
+FR: @The_weapon@ @_screams_@ : « Pas de repos tant qu’ils bougent encore ! »
+
+EN: @The_weapon@ @_screams_@, "As long as they die, we live!"
+FR: @The_weapon@ @_screams_@ : « Tant qu’ils meurent, nous vivons ! »
+
+EN: @The_weapon@ @_screams_@, "The future is bloody!"
+FR: @The_weapon@ @_screams_@ : « L’avenir est sanglant ! »
+
+EN: @The_weapon@ @_screams_@, "The bloody future is ours!"
+FR: @The_weapon@ @_screams_@ : « L’avenir sanglant est à nous ! »
+
+EN: @The_weapon@ @_screams_@, "Dismember the living, dismember the dead!"
+FR: @The_weapon@ @_screams_@ : « Démembrez les vivants, démembrez les morts ! »
+
+EN: @The_weapon@ @_screams_@, "We will celebrate on a pile of carcasses!"
+FR: @The_weapon@ @_screams_@ : « Nous fêterons ça sur un tas de carcasses ! »
+
+EN: @The_weapon@ @_screams_@, "@player_name@, you will [dine|feast] on fine @_corpses_@ today!"
+FR: @The_weapon@ @_screams_@ : « @player_name@, vous allez [dîner|vous régaler] de beaux @_corpses_@ aujourd’hui ! »
+
+EN: @The_weapon@ @_screams_@, "Go for the jugular!"
+FR: @The_weapon@ @_screams_@ : « Visez la jugulaire ! »
+
+EN: @The_weapon@ @_screams_@, "My instinct to kill is stronger than their will to live!"
+FR: @The_weapon@ @_screams_@ : « Mon instinct de tuer est plus fort que leur volonté de vivre ! »
+
+EN: @The_weapon@ @_screams_@, "I am covered in blood! It feels so good!"
+FR: @The_weapon@ @_screams_@ : « Je suis couverte de sang ! Que c’est bon ! »
+
+EN: @The_weapon@ @_screams_@, "Aah! This piece of @_body_part_@ is stuck to me. Wipe it off!"
+FR: @The_weapon@ @_screams_@ : « Aah ! Ce morceau de @_body_part_@ est collé à moi. Essuyez-moi ça ! »
+
+EN: @The_weapon@ @_screams_@, "My edge gets dull! My edge gets dull!"
+FR: @The_weapon@ @_screams_@ : « Mon fil s’émousse ! Mon fil s’émousse ! »
+
+EN: @The_weapon@ @_screams_@, "Don't stick me into that one, please."
+FR: @The_weapon@ @_screams_@ : « Ne me plantez pas dans celui-là, s’il vous plaît. »
+
+EN: @The_weapon@ @_screams_@, "My victories add up!"
+FR: @The_weapon@ @_screams_@ : « Mes victoires s’additionnent ! »
+
+EN: @The_weapon@ @_screams_@, "Blood as far as the eye can see! Blood for all eternity!"
+FR: @The_weapon@ @_screams_@ : « Du sang à perte de vue ! Du sang pour l’éternité ! »
+
+EN: @The_weapon@ @_screams_@, "Blood must spurt and blood must flow! Blood must gush from every foe!"
+FR: @The_weapon@ @_screams_@ : « Le sang doit jaillir et le sang doit couler ! Le sang doit gicler de chaque ennemi ! »

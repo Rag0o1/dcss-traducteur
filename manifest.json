@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "DCSS Traducteur",
-  "version": "0.18",
+  "version": "0.19",
   "description": "Couche de traduction française pour DCSS Web",
   "content_scripts": [
     {
@@ -70,6 +70,9 @@
         "donnees/messages/gabarits/armes_chantante.js",
         "donnees/messages/gabarits/armes_chantante_cris.js",
         "donnees/messages/gabarits/voix_diverses.js",
+        "donnees/messages/gabarits/decors_lignes.js",
+        "donnees/messages/gabarits/graffitis_grammaire.js",
+        "moteur/graffitis.js",
         "moteur/gabarits.js",
         "donnees/interface/menus.js",
         "donnees/objets/armes.js",
