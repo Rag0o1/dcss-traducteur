@@ -17,7 +17,7 @@ Chaque version est décrite ci-dessous, la plus récente en premier.
 - Les réserves de nourriture (fruits, viandes, pâtisseries, selon l'espèce : kobold, tengu, vampire…) sont traduites ; les 90 plats avec leur réaction (« a banana. Delicious. ») sont dans `gabarits/decors_macros.js`, avec les accords en genre et en nombre.
 - Nouveaux morceaux dans `moteur/gabarits.js` : `your_hands`, `your_weapon`, `_fruit_and_reaction_`, `_meat_and_reaction_`, `_baked_good_and_reaction_`, `sparkling_message`.
 - Export et tableur : feuille « decors_morceaux ».
-- Attention : ces lignes de décor n'existent pas dans le jeu 0.34 ni dans 0.35-a0 ; elles viennent de la version de développement la plus récente. Dans les versions plus anciennes elles ne s'affichent simplement jamais (aucun effet).
+- Remarque : ces lignes de décor viennent de la source du jeu « 0.34-a0 » ; on ne sait pas encore si elles sont affichées sur tous les serveurs (à vérifier en jeu).
 
 ## 0.20 — titres de personnage
 
