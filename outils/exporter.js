@@ -36,5 +36,7 @@ for (const [nom, blocs] of Object.entries(gabarits)) {
 const graf = {};
 for (const [regle, prods] of Object.entries(ctx.DCSS_GRAFFITIS_REGLES || {})) for (const [en, fr] of prods) graf[`[${regle}] ${en}`] = fr;
 if (Object.keys(graf).length) { fs.writeFileSync(path.join(out, "graffitis_et_couleurs.txt"), bloc(graf)); tout.graffitis_et_couleurs = graf; total += Object.keys(graf).length; }
+const tit = {}; for (const [en, fr] of (ctx.DCSS_TITRES || [])) tit[en] = fr;
+if (Object.keys(tit).length) { fs.writeFileSync(path.join(out, "titres.txt"), bloc(tit)); tout.titres = tit; total += Object.keys(tit).length; }
 fs.writeFileSync(path.join(out, "tout.json"), JSON.stringify(tout, null, 1));
 console.log("textes exportés :", total, "+", Object.keys(mon).length, "monstres +", Object.keys(proj).length, "projectiles");

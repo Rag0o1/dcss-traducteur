@@ -1,0 +1,1382 @@
+EN: Trooper
+FR: le Soldat
+
+EN: Fighter
+FR: le Combattant
+
+EN: Warrior
+FR: le Guerrier
+
+EN: Slayer
+FR: le Tueur
+
+EN: Conqueror
+FR: le Conquérant
+
+EN: Cutter
+FR: le Coupeur
+
+EN: Slicer
+FR: le Trancheur
+
+EN: Swashbuckler
+FR: le Bretteur
+
+EN: Cutthroat
+FR: le Coupe-jarret
+
+EN: Politician
+FR: le Politicien
+
+EN: Slasher
+FR: l’Entailleur
+
+EN: Carver
+FR: le Ciseleur
+
+EN: Fencer
+FR: l’Escrimeur
+
+EN: @Adj@ Blade
+FR: la Lame {adjf}
+
+EN: Swordmaster
+FR: le Maître d’armes
+
+EN: Chopper
+FR: le Fendeur
+
+EN: Cleaver
+FR: le Fendoir
+
+EN: Severer
+FR: le Sectionneur
+
+EN: Executioner
+FR: le Bourreau
+
+EN: Axe Maniac
+FR: le Maniaque de la hache
+
+EN: Cudgeller
+FR: le Gourdineur
+
+EN: Basher
+FR: le Cogneur
+
+EN: Bludgeoner
+FR: l’Assommeur
+
+EN: Shatterer
+FR: le Fracasseur
+
+EN: Skullcrusher
+FR: le Brise-crâne
+
+EN: Poker
+FR: le Pique-feu
+
+EN: Spear-Bearer
+FR: le Porte-lance
+
+EN: Impaler
+FR: l’Empaleur
+
+EN: Phalangite
+FR: le Phalangite
+
+EN: @Adj@ Porcupine
+FR: le Porc-épic {adjm}
+
+EN: Twirler
+FR: le Tournoyeur
+
+EN: Cruncher
+FR: le Croqueur
+
+EN: Stickfighter
+FR: le Bâtonniste
+
+EN: Pulveriser
+FR: le Pulvérisateur
+
+EN: Chief of Staff
+FR: le Chef d’état-major
+
+EN: Vandal
+FR: le Vandale
+
+EN: Slinger
+FR: le Frondeur
+
+EN: Whirler
+FR: le Tourbillonneur
+
+EN: Slingshot
+FR: le Lance-pierre
+
+EN: @Adj@ Catapult
+FR: la Catapulte {adjf}
+
+EN: Shooter
+FR: le Tireur
+
+EN: Skirmisher
+FR: l’Escarmoucheur
+
+EN: Marks@genus@
+FR: le Tireur d’élite
+
+EN: Crack Shot
+FR: l’As de la gâchette
+
+EN: Merry @Genus@
+FR: {G} {a:joyeux/joyeuse}
+
+EN: Bolt Thrower
+FR: le Lanceur de carreaux
+
+EN: Quickloader
+FR: le Rechargeur rapide
+
+EN: Sharpshooter
+FR: le Tireur de précision
+
+EN: Sniper
+FR: le Sniper
+
+EN: @Adj@ Arbalest
+FR: l’Arbalète {adjf}
+
+EN: Chucker
+FR: le Lanceur
+
+EN: Thrower
+FR: le Jeteur
+
+EN: Deadly Accurate
+FR: le Mortellement précis
+
+EN: Hawkeye
+FR: l’Œil-de-faucon
+
+EN: @Adj@ Ballista
+FR: la Baliste {adjf}
+
+EN: Covered
+FR: le Couvert
+
+EN: Protected
+FR: le Protégé
+
+EN: Tortoise
+FR: la Tortue
+
+EN: Impregnable
+FR: l’Imprenable
+
+EN: Invulnerable
+FR: l’Invulnérable
+
+EN: Ducker
+FR: l’Esquiveur
+
+EN: Nimble
+FR: l’Agile
+
+EN: Spry
+FR: le Vif
+
+EN: Acrobat
+FR: l’Acrobate
+
+EN: Intangible
+FR: l’Intangible
+
+EN: Sneak
+FR: le Discret
+
+EN: Covert
+FR: le Furtif
+
+EN: Unseen
+FR: l’Inaperçu
+
+EN: Imperceptible
+FR: l’Imperceptible
+
+EN: Ninja
+FR: le Ninja
+
+EN: Miscreant
+FR: le Mécréant
+
+EN: Blackguard
+FR: le Vaurien
+
+EN: Backstabber
+FR: le Poignardeur dans le dos
+
+EN: Shield-Bearer
+FR: le Porte-bouclier
+
+EN: Blocker
+FR: le Bloqueur
+
+EN: Peltast
+FR: le Peltaste
+
+EN: Hoplite
+FR: l’Hoplite
+
+EN: @Adj@ Barricade
+FR: la Barricade {adjf}
+
+EN: Scout
+FR: l’Éclaireur
+
+EN: Disarmer
+FR: le Désamorceur
+
+EN: Vigilant
+FR: le Vigilant
+
+EN: Perceptive
+FR: le Perspicace
+
+EN: Dungeon Master
+FR: le Maître du donjon
+
+EN: Ruffian
+FR: le Voyou
+
+EN: Grappler
+FR: le Lutteur
+
+EN: Brawler
+FR: le Bagarreur
+
+EN: Wrestler
+FR: le Catcheur
+
+EN: @Weight@weight Champion
+FR: le Champion poids {w}
+
+EN: Magician
+FR: le Magicien
+
+EN: Thaumaturge
+FR: le Thaumaturge
+
+EN: Eclecticist
+FR: l’Éclectique
+
+EN: Sorcerer
+FR: le Sorcier
+
+EN: Archmage
+FR: l’Archimage
+
+EN: Conjurer
+FR: le Conjurateur
+
+EN: Destroyer
+FR: le Destructeur
+
+EN: Devastator
+FR: le Dévastateur
+
+EN: Ruinous
+FR: le Ruineux
+
+EN: Annihilator
+FR: l’Annihilateur
+
+EN: Vexing
+FR: le Vexant
+
+EN: Jinx
+FR: le Porte-poisse
+
+EN: Bewitcher
+FR: l’Ensorceleur
+
+EN: Maledictor
+FR: le Maléficier
+
+EN: Spellbinder
+FR: l’Envoûteur
+
+EN: Charmwright
+FR: le Charmeur
+
+EN: Infuser
+FR: l’Infuseur
+
+EN: Anointer
+FR: le Consécrateur
+
+EN: Gracecrafter
+FR: l’Artisan de grâce
+
+EN: Miracle Worker
+FR: le Faiseur de miracles
+
+EN: Caller
+FR: l’Appeleur
+
+EN: Summoner
+FR: l’Invocateur
+
+EN: Convoker
+FR: le Convocateur
+
+EN: Worldbinder
+FR: le Lieur de mondes
+
+EN: Planerender
+FR: le Déchireur de plans
+
+EN: Grave Robber
+FR: le Pilleur de tombes
+
+EN: Reanimator
+FR: le Réanimateur
+
+EN: Necromancer
+FR: le Nécromancien
+
+EN: Thanatomancer
+FR: le Thanatomancien
+
+EN: @Genus_Short@ of Death
+FR: {G} de la Mort
+
+EN: Grasshopper
+FR: la Sauterelle
+
+EN: Placeless @Genus@
+FR: {G} sans place
+
+EN: Blinker
+FR: le Clignotant
+
+EN: Portalist
+FR: le Portailiste
+
+EN: Plane @Walker@
+FR: {wer} de plans
+
+EN: Tinkerer
+FR: le Bricoleur
+
+EN: Fabricator
+FR: le Fabricant
+
+EN: Mechanist
+FR: le Mécaniste
+
+EN: Siegecrafter
+FR: le Maître de siège
+
+EN: Architect of Ages
+FR: l’Architecte des Âges
+
+EN: Firebug
+FR: le Pyromane
+
+EN: Arsonist
+FR: l’Incendiaire
+
+EN: Scorcher
+FR: le Brûleur
+
+EN: Pyromancer
+FR: le Pyromancien
+
+EN: Infernalist
+FR: l’Infernaliste
+
+EN: Chiller
+FR: le Glaceur
+
+EN: Frost Mage
+FR: le Mage du givre
+
+EN: Gelid
+FR: le Glacé
+
+EN: Cryomancer
+FR: le Cryomancien
+
+EN: Englaciator
+FR: le Glaciateur
+
+EN: Gusty
+FR: le Venteux
+
+EN: Zephyrmancer
+FR: le Zéphyromancien
+
+EN: Stormcaller
+FR: l’Invocateur de tempêtes
+
+EN: Cloud Mage
+FR: le Mage des nuages
+
+EN: Meteorologist
+FR: le Météorologue
+
+EN: Digger
+FR: le Fouisseur
+
+EN: Geomancer
+FR: le Géomancien
+
+EN: Earth Mage
+FR: le Mage de la terre
+
+EN: Metallomancer
+FR: le Métallomancien
+
+EN: Petrodigitator
+FR: le Pétrodigitateur
+
+EN: Apothecary
+FR: l’Apothicaire
+
+EN: Toxicologist
+FR: le Toxicologue
+
+EN: Hermetic
+FR: l’Hermétique
+
+EN: Philosopher
+FR: le Philosophe
+
+EN: Quintessent
+FR: le Quintessent
+
+EN: Unbeliever
+FR: l’Incroyant
+
+EN: Agnostic
+FR: l’Agnostique
+
+EN: Dissident
+FR: le Dissident
+
+EN: Heretic
+FR: l’Hérétique
+
+EN: Apostate
+FR: l’Apostat
+
+EN: Charlatan
+FR: le Charlatan
+
+EN: Prestidigitator
+FR: le Prestidigitateur
+
+EN: Fetichist
+FR: le Fétichiste
+
+EN: Evocator
+FR: l’Évocateur
+
+EN: Ex Machina
+FR: l’Ex Machina
+
+EN: Changeling
+FR: le Changelin
+
+EN: Mimic
+FR: le Mimique
+
+EN: Metamorph
+FR: le Métamorphe
+
+EN: Skinwalker
+FR: le Change-peau
+
+EN: Shapeless @Genus@
+FR: {G} informe
+
+EN: Insei
+FR: l’Insei
+
+EN: Martial Artist
+FR: l’Artiste martial
+
+EN: Black Belt
+FR: la Ceinture noire
+
+EN: Sensei
+FR: le Sensei
+
+EN: Grand Master
+FR: le Grand maître
+
+EN: Scratcher
+FR: le Griffeur
+
+EN: Gouger
+FR: l’Écorcheur
+
+EN: Ripper
+FR: le Lacérateur
+
+EN: Eviscerator
+FR: l’Éventreur
+
+EN: Sabretooth
+FR: le Dents-de-sabre
+
+EN: Flawless
+FR: l’Impeccable
+
+EN: True Ascetic
+FR: le Véritable ascète
+
+EN: Incurious
+FR: l’Indifférent
+
+EN: Ruthless
+FR: l’Impitoyable
+
+EN: Miser
+FR: l’Avare
+
+EN: Chaos Fanatic
+FR: le Fanatique du chaos
+
+EN: Keeper of the Flame
+FR: le Gardien de la Flamme
+
+EN: Pinnacle of Evolution
+FR: le Sommet de l’évolution
+
+EN: Adventurer
+FR: l’Aventurier
+
+EN: Hell Knight
+FR: le Chevalier infernal
+
+EN: Death Knight
+FR: le Chevalier de la mort
+
+EN: Pharaoh
+FR: le Pharaon
+
+EN: Crusher
+FR: l’Écraseur
+
+EN: Kraken
+FR: le Kraken
+
+EN: Yokozuna
+FR: le Yokozuna
+
+EN: Weightless Champion
+FR: le Champion sans poids
+
+EN: Herculean
+FR: l’Herculéen
+
+EN: Blademaster
+FR: le Maître lame
+
+EN: Swordfish
+FR: l’Espadon
+
+EN: Iron Troll
+FR: le Troll de fer
+
+EN: Iron Golem
+FR: le Golem de fer
+
+EN: Defender
+FR: le Défenseur
+
+EN: Polterguardian
+FR: le Poltergardien
+
+EN: Master Archer
+FR: le Maître archer
+
+EN: Undying Armoury
+FR: l’Arsenal immortel
+
+EN: Wishgranter
+FR: l’Exauceur de vœux
+
+EN: Cogmind
+FR: le Cogmind
+
+EN: Ascendant
+FR: l’Ascendant
+
+EN: Wallbreaker
+FR: le Briseur de murs
+
+EN: Faerie Dragon
+FR: le Dragon féerique
+
+EN: Siren
+FR: la Sirène
+
+EN: Necromech
+FR: le Nécromécha
+
+EN: Petite Mort
+FR: la Petite Mort
+
+EN: Corpseflower
+FR: la Fleur-cadavre
+
+EN: Brimstone Smiter
+FR: le Frappeur de soufre
+
+EN: Titancaster
+FR: le Lanceur de titans
+
+EN: Frogwright
+FR: le Maître des grenouilles
+
+EN: Demonologist
+FR: le Démonologue
+
+EN: Hellbinder
+FR: le Lieur d’Enfer
+
+EN: Teletunneler
+FR: le Téléperceur
+
+EN: Spatial Maelstrom
+FR: le Maelström spatial
+
+EN: Swamp Dragon
+FR: le Dragon des marais
+
+EN: Fire Dragon
+FR: le Dragon de feu
+
+EN: Highly Combustible
+FR: le Hautement combustible
+
+EN: Molten
+FR: le Fondu
+
+EN: Smokeless Flame
+FR: la Flamme sans fumée
+
+EN: Fire Storm
+FR: la Tempête de feu
+
+EN: Ice Dragon
+FR: le Dragon de glace
+
+EN: Marid
+FR: le Marid
+
+EN: Polar Vortex
+FR: le Vortex polaire
+
+EN: Storm Dragon
+FR: le Dragon de tempête
+
+EN: Twister
+FR: la Tornade
+
+EN: Iron Dragon
+FR: le Dragon de fer
+
+EN: Thief of Divinity
+FR: le Voleur de divinité
+
+EN: Royal Mummy
+FR: la Momie royale
+
+EN: Forbidden One
+FR: l’Interdit
+
+EN: Blood Saint
+FR: le Saint de sang
+
+EN: Necrodancer
+FR: le Nécrodanseur
+
+EN: Pearl Dragon
+FR: le Dragon de perle
+
+EN: Rockslime
+FR: la Roche-vase
+
+EN: Black Lotus
+FR: le Lotus noir
+
+EN: Nightshade
+FR: la Belladone
+
+EN: Cobgoblin
+FR: le Cobgoblin
+
+EN: Laughing Skull
+FR: le Crâne rieur
+
+EN: Danse Macabre
+FR: la Danse macabre
+
+EN: Abyssopelagic
+FR: l’Abyssopélagique
+
+EN: Leviathan
+FR: le Léviathan
+
+EN: God-Hated
+FR: le Haï des dieux
+
+EN: Buglet
+FR: le Bogueton
+
+EN: Bogeybug
+FR: le Bogue-croque
+
+EN: Bugger
+FR: le Bogueur
+
+EN: Bugbear
+FR: l’Ours-bogue
+
+EN: Bugged One
+FR: le Bogué
+
+EN: Giant Bug
+FR: le Bogue géant
+
+EN: Lord of the Bugs
+FR: le Seigneur des bogues
+
+EN: Blasphemer
+FR: le Blasphémateur
+
+EN: Anchorite
+FR: l’Anachorète
+
+EN: Apologist
+FR: l’Apologiste
+
+EN: Pious
+FR: le Pieux
+
+EN: Devout
+FR: le Dévot
+
+EN: Orthodox
+FR: l’Orthodoxe
+
+EN: Immaculate
+FR: l’Immaculé
+
+EN: Bringer of Law
+FR: le Porteur de Loi
+
+EN: Honourless
+FR: le Sans-honneur
+
+EN: Acolyte
+FR: l’Acolyte
+
+EN: Righteous
+FR: le Juste
+
+EN: Unflinching
+FR: l’Inflexible
+
+EN: Holy Warrior
+FR: le Guerrier saint
+
+EN: Exorcist
+FR: l’Exorciste
+
+EN: Demon Slayer
+FR: le Tueur de démons
+
+EN: Bringer of Light
+FR: le Porteur de Lumière
+
+EN: Tormented
+FR: le Tourmenté
+
+EN: Purveyor of Pain
+FR: le Pourvoyeur de douleur
+
+EN: Pupil of Sorrows
+FR: l’Élève des chagrins
+
+EN: Merchant of Misery
+FR: le Marchand de misère
+
+EN: Scholar of Souls
+FR: l’Érudit des âmes
+
+EN: Artisan of Death
+FR: l’Artisan de la mort
+
+EN: Demagogue of Despair
+FR: le Démagogue du désespoir
+
+EN: Lord of Darkness
+FR: le Seigneur des Ténèbres
+
+EN: Traitor
+FR: le Traître
+
+EN: Torchbearer
+FR: le Porte-torche
+
+EN: Despoiler
+FR: le Spoliateur
+
+EN: Black Crusader
+FR: le Croisé noir
+
+EN: Fallen @Genus@
+FR: {G} {a:déchu/déchue}
+
+EN: Harbinger of Doom
+FR: le Héraut du Destin
+
+EN: Inexorable Tide
+FR: la Marée inexorable
+
+EN: Bringer of Blasphemy
+FR: le Porteur de blasphème
+
+EN: Toy
+FR: le Jouet
+
+EN: Meek
+FR: le Docile
+
+EN: Sorcerer's Apprentice
+FR: l’Apprenti sorcier
+
+EN: Scholar of Destruction
+FR: l’Érudit de la destruction
+
+EN: Caster of Ruination
+FR: le Lanceur de ruine
+
+EN: Traumaturge
+FR: le Traumaturge
+
+EN: Battlemage
+FR: le Mage de bataille
+
+EN: Warlock
+FR: le Sorcier noir
+
+EN: Luminary of Lethal Lore
+FR: l’Illustre du savoir létal
+
+EN: Coward
+FR: le Lâche
+
+EN: Struggler
+FR: le Lutteur acharné
+
+EN: Combatant
+FR: le Combattant
+
+EN: @Genus@-At-Arms
+FR: {G} d’armes
+
+EN: Knight
+FR: le Chevalier
+
+EN: Myrmidon
+FR: le Myrmidon
+
+EN: Warmonger
+FR: le Fauteur de guerre
+
+EN: Victor of a Thousand Battles
+FR: le Vainqueur de mille batailles
+
+EN: Orderly
+FR: l’Ordonné
+
+EN: Spawn of Chaos
+FR: le Rejeton du chaos
+
+EN: Disciple of Destruction
+FR: le Disciple de la destruction
+
+EN: Fanfare of Bloodshed
+FR: la Fanfare du carnage
+
+EN: Fiendish
+FR: le Diabolique
+
+EN: Demolition @Genus@
+FR: {G} de démolition
+
+EN: Pandemonic
+FR: le Pandémonique
+
+EN: Champion of Chaos
+FR: le Champion du chaos
+
+EN: Ignorant
+FR: l’Ignorant
+
+EN: Disciple
+FR: le Disciple
+
+EN: Student
+FR: l’Étudiant
+
+EN: Adept
+FR: l’Adepte
+
+EN: Scribe
+FR: le Scribe
+
+EN: Scholar
+FR: l’Érudit
+
+EN: Sage
+FR: le Sage
+
+EN: Genius of the Arcane
+FR: le Génie des arcanes
+
+EN: Puny
+FR: le Chétif
+
+EN: Troglodyte
+FR: le Troglodyte
+
+EN: Angry Troglodyte
+FR: le Troglodyte en colère
+
+EN: Frenzied
+FR: le Frénétique
+
+EN: @Genus@ of Prey
+FR: {G} de proie
+
+EN: Rampant
+FR: le Déchaîné
+
+EN: Wild @Genus@
+FR: {G} {a:sauvage/sauvage}
+
+EN: Bane of Scribes
+FR: le Fléau des scribes
+
+EN: Unlucky @Genus@
+FR: {G} {a:malchanceux/malchanceuse}
+
+EN: Pannier
+FR: le Panier
+
+EN: Jester
+FR: le Bouffon
+
+EN: Fortune-Teller
+FR: le Diseur de bonne aventure
+
+EN: Soothsayer
+FR: le Devin
+
+EN: Magus
+FR: le Mage
+
+EN: Cardsharp
+FR: le Tricheur aux cartes
+
+EN: Hand of Fortune
+FR: la Main de la Fortune
+
+EN: Sinner
+FR: le Pécheur
+
+EN: Practitioner
+FR: le Praticien
+
+EN: Comforter
+FR: le Consolateur
+
+EN: Caregiver
+FR: le Soignant
+
+EN: Mender
+FR: le Rebouteux
+
+EN: Pacifist
+FR: le Pacifiste
+
+EN: Purifying @Genus@
+FR: {G} {a:purificateur/purificatrice}
+
+EN: Bringer of Life
+FR: le Porteur de vie
+
+EN: Pure
+FR: le Pur
+
+EN: Abyss-Baptised
+FR: le Baptisé de l’Abysse
+
+EN: Unweaver
+FR: le Défileur
+
+EN: Distorting @Genus@
+FR: {G} {a:distordant/distordante}
+
+EN: Agent of Entropy
+FR: l’Agent de l’entropie
+
+EN: Schismatic
+FR: le Schismatique
+
+EN: Envoy of Void
+FR: l’Émissaire du Vide
+
+EN: Corrupter of Planes
+FR: le Corrupteur de plans
+
+EN: Convert
+FR: le Converti
+
+EN: Proselytiser
+FR: le Prosélyte
+
+EN: Priest
+FR: le Prêtre
+
+EN: Missionary
+FR: le Missionnaire
+
+EN: Evangelist
+FR: l’Évangéliste
+
+EN: Unifier
+FR: l’Unificateur
+
+EN: Messiah
+FR: le Messie
+
+EN: Scum
+FR: l’Écume
+
+EN: Squelcher
+FR: le Squelcheur
+
+EN: Ooze
+FR: le Suintement
+
+EN: Jelly
+FR: la Gelée
+
+EN: Slime Creature
+FR: la Créature de vase
+
+EN: Dissolving @Genus@
+FR: {G} en dissolution
+
+EN: Blob
+FR: la Masse
+
+EN: Royal Jelly
+FR: la Gelée royale
+
+EN: @Walking@ Fertiliser
+FR: le Fertilisant {wing}
+
+EN: Fungal
+FR: le Fongique
+
+EN: Green @Genus@
+FR: {G} {a:vert/verte}
+
+EN: Cultivator
+FR: le Cultivateur
+
+EN: Fruitful
+FR: le Fructueux
+
+EN: Photosynthesist
+FR: le Photosynthétiseur
+
+EN: Green Death
+FR: la Mort verte
+
+EN: Force of Nature
+FR: la Force de la nature
+
+EN: Hasty
+FR: le Hâtif
+
+EN: Sluggish @Genus@
+FR: {G} {a:indolent/indolente}
+
+EN: Deliberate
+FR: le Délibéré
+
+EN: Unhurried
+FR: le Tranquille
+
+EN: Contemplative
+FR: le Contemplatif
+
+EN: Epochal
+FR: l’Époqual
+
+EN: Timeless
+FR: l’Intemporel
+
+EN: @Adj@ Aeon
+FR: l’Éon {adjm}
+
+EN: Star-crossed
+FR: le Maudit des étoiles
+
+EN: Cursed
+FR: le Maudit
+
+EN: Initiated
+FR: l’Initié
+
+EN: Seer
+FR: le Voyant
+
+EN: Oracle
+FR: l’Oracle
+
+EN: Illuminatus
+FR: l’Illuminatus
+
+EN: Prince of Secrets
+FR: le Prince des secrets
+
+EN: Omniscient
+FR: l’Omniscient
+
+EN: Conspicuous
+FR: l’Ostensible
+
+EN: Nocturnal
+FR: le Nocturne
+
+EN: Bump in the Night
+FR: le Bruit dans la nuit
+
+EN: Thespian
+FR: le Comédien
+
+EN: Tenebrous
+FR: le Ténébreux
+
+EN: Puppetmaster
+FR: le Marionnettiste
+
+EN: @Walking@ Midnight
+FR: le Minuit {wing}
+
+EN: Who Hides the Stars
+FR: Celui qui cache les étoiles
+
+EN: Profligate
+FR: le Prodigue
+
+EN: Pauper
+FR: l’Indigent
+
+EN: Entrepreneur
+FR: l’Entrepreneur
+
+EN: Capitalist
+FR: le Capitaliste
+
+EN: Rich
+FR: le Riche
+
+EN: Opulent
+FR: l’Opulent
+
+EN: Tycoon
+FR: le Magnat
+
+EN: Plutocrat
+FR: le Ploutocrate
+
+EN: Unspoiled
+FR: l’Intact
+
+EN: @Adj@ Mishap
+FR: le Contretemps {adjm}
+
+EN: Lightning Rod
+FR: le Paratonnerre
+
+EN: @Adj@ Disaster
+FR: le Désastre {adjm}
+
+EN: Eye of the Storm
+FR: l’Œil du cyclone
+
+EN: @Adj@ Catastrophe
+FR: la Catastrophe {adjf}
+
+EN: @Adj@ Cataclysm
+FR: le Cataclysme {adjm}
+
+EN: End of an Era
+FR: la Fin d’une époque
+
+EN: Sleeper
+FR: le Dormeur
+
+EN: Questioner
+FR: l’Interrogateur
+
+EN: Initiate
+FR: le Novice
+
+EN: Seeker of Truth
+FR: le Chercheur de vérité
+
+EN: @Walker@ of the Path
+FR: {wer} de la Voie
+
+EN: Lifter of the Veil
+FR: le Leveur de voile
+
+EN: Transcendent
+FR: le Transcendant
+
+EN: Drop of Water
+FR: la Goutte d’eau
+
+EN: Reactionary
+FR: le Réactionnaire
+
+EN: Apprentice
+FR: l’Apprenti
+
+EN: Inquisitive
+FR: le Curieux
+
+EN: Experimenter
+FR: l’Expérimentateur
+
+EN: Inventor
+FR: l’Inventeur
+
+EN: Pioneer
+FR: le Pionnier
+
+EN: Brilliant
+FR: le Brillant
+
+EN: Grand Gadgeteer
+FR: le Grand bricoleur de gadgets
+
+EN: Prude
+FR: le Prude
+
+EN: Wallflower
+FR: la Tapisserie
+
+EN: Party-goer
+FR: le Fêtard
+
+EN: Dancer
+FR: le Danseur
+
+EN: Impassioned
+FR: le Passionné
+
+EN: Rapturous
+FR: l’Extasié
+
+EN: Ecstatic
+FR: l’Extatique
+
+EN: Rhythm of Life and Death
+FR: le Rythme de la vie et de la mort
+
+EN: Damnatio Memoriae
+FR: la Damnatio Memoriae
+
+EN: Hazy
+FR: le Flou
+
+EN: @Adj@ @Child@
+FR: {child} {adjc}
+
+EN: Storyteller
+FR: le Conteur
+
+EN: Brooding
+FR: le Ruminant
+
+EN: Anamnesiscian
+FR: l’Anamnésien
+
+EN: Grand Scion
+FR: le Grand Rejeton
+
+EN: Unforgettable
+FR: l’Inoubliable
+
+EN: Wooden Rat
+FR: le Rat de bois
+
+EN: Young Dog
+FR: le Jeune Chien
+
+EN: Young Crane
+FR: la Jeune Grue
+
+EN: Young Tiger
+FR: le Jeune Tigre
+
+EN: Young Dragon
+FR: le Jeune Dragon
+
+EN: Red Sash
+FR: la Ceinture rouge
+
+EN: Golden Sash
+FR: la Ceinture dorée
+
+EN: Sifu
+FR: le Sifu
+
+EN: Extinguished
+FR: l’Éteint
+
+EN: Last Ember
+FR: la Dernière braise
+
+EN: Glowing Coal
+FR: le Charbon ardent
+
+EN: Thurifer
+FR: le Thuriféraire
+
+EN: Hearthfire
+FR: le Feu de foyer
+
+EN: Furnace
+FR: la Fournaise
+
+EN: Raging Flame
+FR: la Flamme furieuse
+
+EN: Inferno
+FR: l’Enfer

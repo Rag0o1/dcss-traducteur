@@ -11,6 +11,13 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.20 — titres de personnage
+
+- Nouveau moteur `moteur/titres.js` + données `donnees/messages/titres.js` (461 titres, généré par `outils/generer_titres.py` depuis `outils/titres_fr.txt`) : « rago the Trooper » devient « rago le Soldat ». Reconnaît « NOM the TITRE », « NOM, TITRE », « NOM La Petite Mort » et la ligne « Title  - TITRE » de l'écran du dieu.
+- Les titres qui dépendent de l'espèce (adjectif, genre, poids, façon de marcher, « enfant ») sont accordés : « the Merry Human » → « l'Humain joyeux », « the Fallen Frog » → « la Grenouille déchue », « the Elven Blade » → « la Lame elfique ».
+- Les noms d'objets comme « ring of the Tortoise » ne sont pas touchés (le nom du joueur doit être un seul mot).
+- Export et tableur : feuille « titres ».
+
 ## 0.19 — graffitis et noms de couleurs
 
 - Nouveau moteur `moteur/graffitis.js` : les graffitis du jeu (« You see swirling green graffiti signed by Woog the god, advertising a meeting… ») sont fabriqués par une grammaire emboîtée. Le moteur analyse la phrase avec la grammaire anglaise puis la reconstruit avec la grammaire française (variantes `[a|b]`, accords en genre et en nombre : « des graffitis de runes bleues anguleuses », « des graffitis orange clair signés par Woog le dieu »).

@@ -1,4 +1,4 @@
-DCSS TRADUCTEUR (version 0.19)
+DCSS TRADUCTEUR (version 0.20)
 ==============================
 
 Extension Navigateur qui traduit DCSS Web en français. Elle ne modifie pas le jeu :
