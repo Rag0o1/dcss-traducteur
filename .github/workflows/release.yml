@@ -1,3 +1,4 @@
+# Le zip ne contient que ce qui sert à l'extension (pas export/, outils/, README, VERSIONS : ils restent sur GitHub).
 # Creates a GitHub Release (with the zip attached) for every MAJOR version (0.13, 0.14...) and every 10th minor (0.13.10, 0.13.20...).
 # Other minor versions (0.13.1 ... 0.13.9) are not released on their own: their notes are included in the next release.
 name: Release zip
@@ -28,7 +29,7 @@ jobs:
         if: steps.v.outputs.release == 'yes'
         run: |
           V="${{ steps.v.outputs.version }}"
-          mkdir -p /tmp/pkg && rsync -a --exclude='.git' --exclude='.github' ./ "/tmp/pkg/dcss-traducteur/"
+          mkdir -p /tmp/pkg && rsync -a --exclude='.git' --exclude='.github' --exclude='/export' --exclude='/outils' --exclude='/README.md' --exclude='/VERSIONS.md' ./ "/tmp/pkg/dcss-traducteur/"
           (cd /tmp/pkg && zip -qr "$GITHUB_WORKSPACE/DCSS-Traducteur-v${V}.zip" dcss-traducteur)
       - name: Create release
         if: steps.v.outputs.release == 'yes'

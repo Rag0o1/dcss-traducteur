@@ -13,8 +13,8 @@ puis rechargez l'extension (about:debugging) et la page (F5).
 
 OÙ EST QUOI ?
 -------------
-outils/                Outils de mesure et de mise à jour (hors extension) : voir outils/LISEZ-MOI.txt.
-outils/arene/         Lancer des combats d'arène du vrai jeu pour récupérer ses messages et trouver ce qui reste en anglais.
+outils/                (GitHub seulement, absent du zip) Outils de mesure et de mise à jour : voir outils/LISEZ-MOI.txt.
+outils/arene/         (GitHub seulement) Lancer des combats d'arène du vrai jeu pour récupérer ses messages et trouver ce qui reste en anglais.
 OPTIONS.js             Réglages (pour l'instant : noms de sorts en anglais ou en français).
 MES-CORRECTIONS.js     VOS corrections. COMMENCEZ TOUJOURS ICI (chargé en dernier : il gagne sur tout).
 manifest.json          Liste des fichiers chargés (l'ordre compte). Rien à y changer.
