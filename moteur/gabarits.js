@@ -62,6 +62,7 @@
     const SCREAM_HOW = x => { const m = /^like an? (\w+) (.+)$/.exec(x); if (m) { const A = { hungry: "affamé", enraged: "enragé", raging: "rageur", furious: "furieux", irate: "irrité" }[m[1]];
         const B = { dragon: "dragon", frog: "grenouille", lion: "lion", bull: "taureau", beast: "fauve", "beast of prey": "fauve", predator: "prédateur", carnivore: "carnivore" }[m[2]]; if (!A || !B) return null; const f = B === "grenouille"; const adj = f ? ({ affamé: "affamée", enragé: "enragée", rageur: "rageuse", furieux: "furieuse", irrité: "irritée" })[A] : A; return `comme ${f ? "une" : "un"} ${B} ${adj}`; }
         return ({ hysterically: "hystériquement", angrily: "avec colère", loudly: "fort", deafeningly: "à vous rendre sourd", "ear-piercingly": "à vous percer les tympans", "ear-splittingly": "à vous fendre les oreilles" })[x] || null; };
+    const DM = (t, x) => { const T = globalThis.DCSS_DECORS_MACROS; const D = T && T[t]; if (!D) return null; for (const k of [x, x + ".", x + "!"]) if (D[k]) return /[.!]$/.test(k) && !/[.!]$/.test(x) ? D[k].slice(0, -1).trimEnd() : D[k]; return null; };
     const FONCTION = {
         The_feature: x => MACROS.feature(x, true), the_feature: x => MACROS.feature(x, false),
         Your_item: (x) => MACROS.item(x, true, "Your_item"), your_item: (x) => MACROS.item("Your " + x.replace(/^[Yy]our /, ""), false, "your_item"),
@@ -87,6 +88,8 @@
         objective: x => ({ it: "le", him: "le", her: "la", them: "les" })[x] || null,
         Subjective: x => ({ It: "Cela", He: "Il", She: "Elle", They: "Ils" })[x] || null,
         arms: MACROS.body, beam: x => { const r = T1("a " + x) || T1(x); return r && r !== x && r !== "a " + x ? r.replace(/^(?:un|une|le|la|l’|des|les) ?/, "") : null; },
+        _fruit_and_reaction_: x => DM("fruit", x), _meat_and_reaction_: x => DM("meat", x), _baked_good_and_reaction_: x => DM("baked", x), sparkling_message: x => DM("sparkling_message", x),
+        your_hands: x => POSS(x.replace(/^your /i, "")), your_weapon: x => MACROS.item(x, false, "your_item") || POSS(x.replace(/^your /i, "")),
         Your_weapon: x => { if (/^the singing sword$/i.test(x)) return "L’Épée chantante"; return MACROS.item(x, true, "Your_item"); },
         The_weapon: x => /^the singing sword$/i.test(x) ? "L’Épée chantante" : null, the_weapon: x => /^the singing sword$/i.test(x) ? "l’Épée chantante" : null,
         player_name: x => x, player_god: x => T1(x) || x, god_or_blade: x => /^my blade$/i.test(x) ? "ma lame" : (T1(x) || x),

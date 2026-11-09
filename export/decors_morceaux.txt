@@ -1,0 +1,179 @@
+EN: [sparkling_message] You feel fleetingly lighter.
+FR: Vous vous sentez brièvement plus léger.
+
+EN: [sparkling_message] You feel a fleeting jolt of bravery.
+FR: Vous ressentez un bref élan de bravoure.
+
+EN: [sparkling_message] You feel nauseous for a moment.
+FR: Vous avez la nausée un instant.
+
+EN: [sparkling_message] Your emotions uncomfortably twist.
+FR: Vos émotions se tordent désagréablement.
+
+EN: [fruit] an apple. Crisp.
+FR: une pomme. Croquante.
+
+EN: [fruit] an apricot. Delicious.
+FR: un abricot. Délicieux.
+
+EN: [fruit] a banana. Delicious.
+FR: une banane. Délicieuse.
+
+EN: [fruit] a choko. Bland.
+FR: un chayotte. Fade.
+
+EN: [fruit] some grapes. Delicious.
+FR: du raisin. Délicieux.
+
+EN: [fruit] some lychee. Delicately sweet.
+FR: des litchis. Délicatement sucrés.
+
+EN: [fruit] an orange. Delicious.
+FR: une orange. Délicieuse.
+
+EN: [fruit] some rambutans. Delicious.
+FR: des ramboutans. Délicieux.
+
+EN: [fruit] some strawberries. Delicious.
+FR: des fraises. Délicieuses.
+
+EN: [fruit] a snozzcumber. Putrid!
+FR: un snozzcombre. Putride !
+
+EN: [fruit] a tomato. Savoury.
+FR: une tomate. Savoureuse.
+
+EN: [fruit] a cherimoya. Tangy!
+FR: une chérimole. Acidulée !
+
+EN: [fruit] a mango. Yummy.
+FR: une mangue. Succulente.
+
+EN: [fruit] a tamarind. Juicy!
+FR: un tamarin. Juteux !
+
+EN: [meat] a smoked eel. Savoury!
+FR: une anguille fumée. Savoureuse !
+
+EN: [meat] a yak sausage. Delicious.
+FR: une saucisse de yak. Délicieuse.
+
+EN: [meat] a cured ham hock. Salty.
+FR: un jarret de jambon fumé. Salé.
+
+EN: [meat] some adder jerky. Delicious.
+FR: de la viande séchée de vipère. Délicieuse.
+
+EN: [meat] a slice of magically-preserved pepperoni pizza. Delicious.
+FR: une part de pizza au pepperoni conservée par magie. Délicieuse.
+
+EN: [meat] some smoked snail. Delicious.
+FR: de l’escargot fumé. Délicieux.
+
+EN: [meat] some death yak haggis. Delicious.
+FR: du haggis de yak de la mort. Délicieux.
+
+EN: [meat] some alligator jerky. Delicious.
+FR: de la viande séchée d’alligator. Délicieuse.
+
+EN: [meat] some cured dream mutton. Ephemeral.
+FR: du mouton onirique fumé. Éphémère.
+
+EN: [meat] a slice of magically-preserved Pandemonium pizza. Delectable.
+FR: une part de pizza Pandémonium conservée par magie. Succulente.
+
+EN: [meat] a candy-coated scorpion. Crunchy.
+FR: un scorpion enrobé de bonbon. Croquant.
+
+EN: [meat] a pickled kraken tentacle. Astonishing!
+FR: un tentacule de kraken mariné. Stupéfiant !
+
+EN: [meat] a cured hell ham hock. Spicy!
+FR: un jarret de jambon infernal fumé. Épicé !
+
+EN: [meat] some shrike confit. Tangy!
+FR: du confit de pie-grièche. Acidulé !
+
+EN: [meat] a century hydra egg. An acquired taste.
+FR: un œuf d’hydre centenaire. Un goût qui s’acquiert.
+
+EN: [baked] some spriggan bread loaf. Delicious.
+FR: du pain de spriggan. Délicieux.
+
+EN: [baked] some spriggan tarts. Delicious.
+FR: des tartes de spriggan. Délicieuses.
+
+EN: [baked] some spriggan rock buns. Delicious.
+FR: des rochers de spriggan. Délicieux.
+
+EN: [baked] some spriggan scones. Delicious.
+FR: des scones de spriggan. Délicieux.
+
+EN: [baked] some spriggan biscuits. Delicious.
+FR: des biscuits de spriggan. Délicieux.
+
+EN: [baked] some spriggan hardtack. Delicious.
+FR: du biscuit de troupe de spriggan. Délicieux.
+
+EN: [baked] an orcish pirog. Tasty.
+FR: un pirojki orque. Savoureux.
+
+EN: [baked] an orcish pastel de nata. Tasty.
+FR: un pastel de nata orque. Savoureux.
+
+EN: [baked] an orcish bizcocho. Tasty.
+FR: un bizcocho orque. Savoureux.
+
+EN: [baked] some elven shortbread. Refined.
+FR: du sablé elfique. Raffiné.
+
+EN: [baked] some elven rye rolls. Refined.
+FR: des petits pains de seigle elfiques. Raffinés.
+
+EN: [baked] some merfolk baklava. Decadent.
+FR: du baklava des sirènes. Décadent.
+
+EN: [baked] some merfolk tsoureki. Decadent.
+FR: du tsoureki des sirènes. Décadent.
+
+EN: [baked] a stuffed naga paratha. Phenomenal.
+FR: un paratha farci de naga. Phénoménal.
+
+EN: [baked] a draconian baguette. Hearty and warming.
+FR: une baguette draconienne. Consistante et réconfortante.
+
+EN: [baked] some dwarven pretzels. Scrumptious.
+FR: des bretzels nains. Délicieux.
+
+EN: [baked] some kobold pretzels. Scrumptious.
+FR: des bretzels kobolds. Délicieux.
+
+EN: [baked] some choko cake. Less bland than expected!
+FR: du gâteau au chayotte. Moins fade que prévu !
+
+EN: [baked] some trollish wittenberger. Savoury.
+FR: du wittenberger de troll. Savoureux.
+
+EN: [baked] some trollish grovbrød. Savoury.
+FR: du wittenberger de géant. Savoureux.
+
+EN: [baked] some giant wittenberger. Savoury.
+FR: du wittenberger de troll. Savoureux.
+
+EN: [baked] some giant grovbrød. Savoury.
+FR: du wittenberger de géant. Savoureux.
+
+EN: [baked] some tengu anpan. Delightful.
+FR: de l’anpan de tengu. Ravissant.
+
+EN: [baked] some ghoulish sourdough. A strange taste.
+FR: du pain au levain de goule. Un goût étrange.
+
+EN: [baked] some vault guards' spare rations. Filling.
+FR: des rations de réserve des gardes du caveau. Nourrissantes.
+
+EN: [baked] a strangely fresh circus pie. Mirthful.
+FR: une tarte de cirque étrangement fraîche. Hilarante.
+
+EN: [baked] some starflower jam biscuits. A disquieting taste.
+FR: des biscuits à la confiture de fleur d’étoile. Un goût troublant.
