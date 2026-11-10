@@ -1,0 +1,509 @@
+EN: Agi
+FR: Agil
+
+EN: Ambros
+FR: Ambr
+
+EN: Attr
+FR: Attrait
+
+EN: Aug
+FR: Aug
+
+EN: Barbs
+FR: Épines
+
+EN: Battleshape
+FR: Métamorph
+
+EN: Bearserk
+FR: Ourserk
+
+EN: Blast
+FR: Rafale
+
+EN: Blind
+FR: Aveugle
+
+EN: Bog
+FR: Marais
+
+EN: Breath
+FR: Souffle
+
+EN: Bribe
+FR: Corrup
+
+EN: Brill
+FR: Brill
+
+EN: Bullseye
+FR: Mouche
+
+EN: Cacophony
+FR: Cacoph
+
+EN: Catalyst
+FR: Catalys
+
+EN: Challenge
+FR: Défi
+
+EN: Channel
+FR: Canal
+
+EN: Cleave+
+FR: Fend+
+
+EN: Conf
+FR: Conf
+
+EN: Constr
+FR: Étreint
+
+EN: Contam
+FR: Contam
+
+EN: Corr
+FR: Corr
+
+EN: Crippled
+FR: Estropié
+
+EN: Crystals
+FR: Cristaux
+
+EN: DChan
+FR: CanMort
+
+EN: DDoor
+FR: Porte
+
+EN: Destr
+FR: Destr
+
+EN: Devious
+FR: Rusé
+
+EN: Dim
+FR: Dimin
+
+EN: Disguised
+FR: Déguisé
+
+EN: Disjoin
+FR: Disjonct
+
+EN: Dog
+FR: Chien
+
+EN: Dragoncall
+FR: Dragons
+
+EN: Drain
+FR: Drain
+
+EN: Drowsy
+FR: Somnol
+
+EN: Duel
+FR: Duel
+
+EN: Eisegesis
+FR: Eisegèse
+
+EN: Elixir
+FR: Élixir
+
+EN: Engorged
+FR: Gorgé
+
+EN: Enkindled
+FR: Embrasé
+
+EN: Escape!
+FR: Fuite !
+
+EN: Execution
+FR: Exécution
+
+EN: Exegesis
+FR: Exégèse
+
+EN: Exh
+FR: Épuis
+
+EN: Fast
+FR: Rapide
+
+EN: Fast+Slow
+FR: Rap+Lent
+
+EN: Fear
+FR: Peur
+
+EN: Finesse
+FR: Finesse
+
+EN: Fire
+FR: Feu
+
+EN: Fire+
+FR: Feu+
+
+EN: Fire++
+FR: Feu++
+
+EN: Flooded
+FR: Inondé
+
+EN: Fly
+FR: Vol
+
+EN: Forest
+FR: Forêt
+
+EN: Fragile
+FR: Fragile
+
+EN: Frozen
+FR: Gelé
+
+EN: Fugue
+FR: Fugue
+
+EN: Fusillade
+FR: Fusillade
+
+EN: Guardian
+FR: Gardien
+
+EN: Held
+FR: Retenu
+
+EN: Hero
+FR: Héros
+
+EN: Horr
+FR: Horreur
+
+EN: Howl
+FR: Hurlem
+
+EN: Indom
+FR: Indom
+
+EN: Insubst
+FR: Insubst
+
+EN: Invis
+FR: Invis
+
+EN: Irate
+FR: Furieux
+
+EN: Jinx
+FR: Poisse
+
+EN: Lava
+FR: Lave
+
+EN: Legion
+FR: Légion
+
+EN: Liquid
+FR: Liquide
+
+EN: Mark
+FR: Marqué
+
+EN: Mesm
+FR: Hypno
+
+EN: Missing
+FR: Absent
+
+EN: Nightfall
+FR: Crépusc
+
+EN: Ooze
+FR: Vase
+
+EN: OozeRegen
+FR: Vase+
+
+EN: Orb
+FR: Orbe
+
+EN: Orb?
+FR: Orbe ?
+
+EN: Ostracised
+FR: Ostracisé
+
+EN: Pact
+FR: Pacte
+
+EN: Para
+FR: Paral
+
+EN: Peek
+FR: Aperçu
+
+EN: Petr
+FR: Pétrif
+
+EN: Plink
+FR: Tirs
+
+EN: Pois
+FR: Poison
+
+EN: Pray
+FR: Prière
+
+EN: Protean
+FR: Protée
+
+EN: Protected
+FR: Protégé
+
+EN: Quad
+FR: Quad
+
+EN: Rampage+++
+FR: Ruée+++
+
+EN: Ramparts
+FR: Remparts
+
+EN: Reach+
+FR: Allonge+
+
+EN: Reap
+FR: Moisson
+
+EN: Recite
+FR: Récit
+
+EN: Recruit
+FR: Recruter
+
+EN: Regen Will++
+FR: Régén Vol++
+
+EN: Resist
+FR: Résist
+
+EN: Rev
+FR: Rév
+
+EN: Rev+
+FR: Rév+
+
+EN: Rev*
+FR: Rév*
+
+EN: Rise
+FR: Lever
+
+EN: Ruin
+FR: Ruine
+
+EN: Salvo
+FR: Salve
+
+EN: Sap
+FR: Sape
+
+EN: Shackles
+FR: Entraves
+
+EN: Shroud
+FR: Voile
+
+EN: Sick
+FR: Malade
+
+EN: Sil
+FR: Silence
+
+EN: Slay
+FR: Soif
+
+EN: Slimifying
+FR: Viscosité
+
+EN: SlowM
+FR: Lent-dép
+
+EN: Sneaky
+FR: Furtif
+
+EN: Spellstride
+FR: Pas-sort
+
+EN: Stone
+FR: Pierre
+
+EN: Sunder
+FR: Fracas
+
+EN: Swift
+FR: Prompt
+
+EN: Tailwind
+FR: Élan
+
+EN: Tele
+FR: Téléport
+
+EN: Tesseract
+FR: Tesseract
+
+EN: Torch
+FR: Torche
+
+EN: Touch
+FR: Toucher
+
+EN: Toxic
+FR: Toxique
+
+EN: Troupe
+FR: Troupe
+
+EN: Unstable
+FR: Instable
+
+EN: Vainglory
+FR: Gloriole
+
+EN: Vapour
+FR: Vapeur
+
+EN: Vengeance
+FR: Vengeance
+
+EN: Vertigo
+FR: Vertige
+
+EN: Vexed
+FR: Vexé
+
+EN: Vit
+FR: Vital
+
+EN: Vortex
+FR: Vortex
+
+EN: Water
+FR: Eau
+
+EN: Weak
+FR: Faible
+
+EN: !Tele!
+FR: !Téléport!
+
+EN: -Bbolt
+FR: -Éclair
+
+EN: -Berserk
+FR: -Berserk
+
+EN: -Blink
+FR: -Saut
+
+EN: -Bloodrite
+FR: -Rite
+
+EN: -Breath
+FR: -Souffle
+
+EN: -Cast
+FR: -Sorts
+
+EN: -Clouds
+FR: -Nuages
+
+EN: -DDoor
+FR: -Porte
+
+EN: -Disguise
+FR: -Déguis
+
+EN: -Dog
+FR: -Chien
+
+EN: -Dragoncall
+FR: -Dragons
+
+EN: -Flesh
+FR: -Chair
+
+EN: -GClaw
+FR: -Griffe
+
+EN: -Gavotte
+FR: -Gavotte
+
+EN: -Hellfire
+FR: -Brasier
+
+EN: -Hop
+FR: -Bond
+
+EN: -Jolt
+FR: -Choc
+
+EN: -Lithotox
+FR: -Lithotox
+
+EN: -Mesm
+FR: -Hypno
+
+EN: -Move
+FR: -Mouv
+
+EN: -Potion
+FR: -Potion
+
+EN: -Recite
+FR: -Récit
+
+EN: -Regen
+FR: -Régén
+
+EN: -Scroll
+FR: -Parch
+
+EN: -Siphon
+FR: -Siphon
+
+EN: -Sirocco
+FR: -Sirocco
+
+EN: -Star
+FR: -Étoile
+
+EN: -Swarm
+FR: -Essaim
+
+EN: -Swift
+FR: -Prompt
+
+EN: -Tail
+FR: -Élan
+
+EN: -Tele
+FR: -Téléport
+
+EN: -Vortex
+FR: -Vortex
+
+EN: -Word
+FR: -Mot
+
+EN:  Gem (*)
+FR:  Gemme (*)

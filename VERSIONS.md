@@ -11,6 +11,11 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.21.2 — voyants d'état de la barre latérale
+
+- 170 voyants courts traduits (`donnees/interface/statuts_lumieres.js`) : Fast → Rapide, Conf, Para → Paral, Invis, Fly → Vol, délais de capacités « -Blink » → « -Saut », etc., en formes courtes pour tenir dans les cases. Les voyants à nombre (Blast12, Wave++, Ray+, Winding..) passent par une règle.
+- Volontairement laissés tels quels : les abréviations de résistance dans les noms d'objets (rF+, rC+, Will+…), qui suivent la convention du jeu.
+
 ## 0.21.1 — astuces et tutoriel
 
 - 210 morceaux de phrases ajoutés (`donnees/interface/astuces_morceaux2.js`) : conseils de mort et de fin d'exploration, présentations des dieux (Ashenzari, Gozag, Ru, Uskayaw, Xom), autels, caractéristiques, tutoriel (sorts, pièges, combat à distance, alliés, autel…). Phrases mesurées avant/après sur les textes d'aide du jeu : 163 phrases restées en anglais → 17 (les restes sont coupés par une touche variable).
