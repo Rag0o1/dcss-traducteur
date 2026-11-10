@@ -140,7 +140,7 @@ globalThis.DCSS_TRADUCTIONS.statuts_lumieres = {
 "!Tele!": "!Téléport!",
 "-Bbolt": "-Éclair",
 "-Berserk": "-Berserk",
-"-Blink": "-Saut",
+"-Blink": "-Blink",
 "-Bloodrite": "-Rite",
 "-Breath": "-Souffle",
 "-Cast": "-Sorts",
