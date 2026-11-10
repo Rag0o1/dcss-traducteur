@@ -1,0 +1,38 @@
+EN: Antique Weapon
+FR: Armes anciennes
+
+EN: Antique Armour
+FR: Armures anciennes
+
+EN: Magic Scroll
+FR: Parchemins magiques
+
+EN: Assorted Antiques
+FR: Antiquités variées
+
+EN: General Store
+FR: Magasin général
+
+EN: I'll put it outside for you.
+FR: Je le dépose dehors pour vous.
+
+EN: I'll put them outside for you.
+FR: Je les dépose dehors pour vous.
+
+EN: I'll put some of them outside for you.
+FR: J’en dépose une partie dehors pour vous.
+
+EN: You hear a loud "Zot"!
+FR: Vous entendez un « Zot » retentissant !
+
+EN: In a burst of heat and light, you rocket briefly upward... but you can't rise from here.
+FR: Dans une explosion de chaleur et de lumière, vous montez brièvement en flèche... mais vous ne pouvez pas monter d’ici.
+
+EN: That's not a valid depth.
+FR: Ce n’est pas une profondeur valide.
+
+EN: You don't have enough money.
+FR: Vous n’avez pas assez d’argent.
+
+EN: This will use your shop voucher.
+FR: Cela utilisera votre bon d’achat.

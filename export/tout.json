@@ -6232,6 +6232,21 @@
   "Draining hurts!": "Le drain fait mal !",
   "So many ways gods can punish you!": "Tant de façons dont les dieux peuvent vous punir !"
  },
+ "boutiques": {
+  "Antique Weapon": "Armes anciennes",
+  "Antique Armour": "Armures anciennes",
+  "Magic Scroll": "Parchemins magiques",
+  "Assorted Antiques": "Antiquités variées",
+  "General Store": "Magasin général",
+  "I'll put it outside for you.": "Je le dépose dehors pour vous.",
+  "I'll put them outside for you.": "Je les dépose dehors pour vous.",
+  "I'll put some of them outside for you.": "J’en dépose une partie dehors pour vous.",
+  "You hear a loud \"Zot\"!": "Vous entendez un « Zot » retentissant !",
+  "In a burst of heat and light, you rocket briefly upward... but you can't rise from here.": "Dans une explosion de chaleur et de lumière, vous montez brièvement en flèche... mais vous ne pouvez pas monter d’ici.",
+  "That's not a valid depth.": "Ce n’est pas une profondeur valide.",
+  "You don't have enough money.": "Vous n’avez pas assez d’argent.",
+  "This will use your shop voucher.": "Cela utilisera votre bon d’achat."
+ },
  "divers": {
   "A freezing mist starts to gather...": "Une brume glaciale commence à se former…",
   "A rock wall.": "Un mur de roche.",

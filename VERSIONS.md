@@ -11,6 +11,11 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.21.3 — boutiques
+
+- Nouveau `phrases_a_trous/boutiques.js` : noms de boutique isolés (« Boniuse's Armour Boutique » → « Boutique d'armures de Boniuse »), « Merci d'avoir fait vos achats… », boutique fermée, frais d'entrée, bon d'achat (« You have N gold pieces. Purchasing will use your shop voucher… »), confirmations d'achat, liste d'achats (ajout, retrait, remplacement, « You now have enough gold to buy… »), « I'll put it outside for you. », types de boutique isolés.
+- Trois messages divers ajoutés (cri « Zot », montée impossible, profondeur invalide).
+
 ## 0.21.2 — voyants d'état de la barre latérale
 
 - 170 voyants courts traduits (`donnees/interface/statuts_lumieres.js`) : Fast → Rapide, Conf, Invis, Fly → Vol, délais de capacités « -Blink » reste « -Blink » (Blink n’a pas de vraie traduction), etc., en formes courtes pour tenir dans les cases. Les voyants à nombre (Blast12, Wave++, Ray+, Winding..) passent par une règle.
