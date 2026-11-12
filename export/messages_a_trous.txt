@@ -2599,6 +2599,36 @@ FR: {x1} mettra plus de temps à évaluer votre degré de préparation.
 EN: {X} withdraws the invitation to bind yourself further.
 FR: {x1} retire l’invitation à vous lier davantage.
 
+EN: {X} acknowledges your contrition and permits you to depart the Crucible.
+FR: {x1} reconnaît votre contrition et vous permet de quitter le Creuset.
+
+EN: {X} begins accelerating your health and magic regeneration.
+FR: {x1} commence à accélérer votre régénération de santé et de magie.
+
+EN: {X} does not allow the disloyal to dabble in death!
+FR: {x1} ne permet pas aux déloyaux de s’adonner à la mort !
+
+EN: {X} does not allow the disloyal to dabble in destruction!
+FR: {x1} ne permet pas aux déloyaux de s’adonner à la destruction !
+
+EN: {X} booms out: Time for someone else to take a solo!
+FR: {x1} tonne : C’est le moment qu’un autre prenne un solo !
+
+EN: {X} booms: This is a trial of mortal prowess. Fight with your own strength!
+FR: {x1} tonne : Ceci est une épreuve de prouesse mortelle. Battez-vous avec votre seule force !
+
+EN: {X} says: Flay and bleed and purify yourself, if you wish to be found worthy of leaving this place!
+FR: {x1} dit : Écorchez-vous, saignez et purifiez-vous, si vous voulez être jugé digne de quitter cet endroit !
+
+EN: {X} protects you from your miscast necromantic spell!
+FR: {x1} vous protège de votre sort nécromantique raté !
+
+EN: {X} sends the divine host to punish you for your evil ways!
+FR: {x1} envoie l’armée divine vous punir de vos mauvaises actions !
+
+EN: {X} will now unseal the treasures of the Slime Pits.
+FR: {x1} va maintenant desceller les trésors des Fosses de gélatine.
+
 EN: {X} Hand of Corruption reaches out!
 FR: La Main de Corruption de {x1} se tend !
 

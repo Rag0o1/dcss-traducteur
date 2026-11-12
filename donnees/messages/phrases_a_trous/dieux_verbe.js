@@ -93,6 +93,16 @@
         "will bloody one of your weapons with pain.": "{x1} ensanglantera l’une de vos armes de douleur.",
         "will take longer to evaluate your readiness.": "{x1} mettra plus de temps à évaluer votre degré de préparation.",
         "withdraws the invitation to bind yourself further.": "{x1} retire l’invitation à vous lier davantage.",
+        "acknowledges your contrition and permits you to depart the Crucible.": "{x1} reconnaît votre contrition et vous permet de quitter le Creuset.",
+        "begins accelerating your health and magic regeneration.": "{x1} commence à accélérer votre régénération de santé et de magie.",
+        "does not allow the disloyal to dabble in death!": "{x1} ne permet pas aux déloyaux de s’adonner à la mort !",
+        "does not allow the disloyal to dabble in destruction!": "{x1} ne permet pas aux déloyaux de s’adonner à la destruction !",
+        "booms out: Time for someone else to take a solo!": "{x1} tonne : C’est le moment qu’un autre prenne un solo !",
+        "booms: This is a trial of mortal prowess. Fight with your own strength!": "{x1} tonne : Ceci est une épreuve de prouesse mortelle. Battez-vous avec votre seule force !",
+        "says: Flay and bleed and purify yourself, if you wish to be found worthy of leaving this place!": "{x1} dit : Écorchez-vous, saignez et purifiez-vous, si vous voulez être jugé digne de quitter cet endroit !",
+        "protects you from your miscast necromantic spell!": "{x1} vous protège de votre sort nécromantique raté !",
+        "sends the divine host to punish you for your evil ways!": "{x1} envoie l’armée divine vous punir de vos mauvaises actions !",
+        "will now unseal the treasures of the Slime Pits.": "{x1} va maintenant desceller les trésors des Fosses de gélatine.",
         "Hand of Corruption reaches out!": "La Main de Corruption de {x1} se tend !"
     };
     const POSSESSIF = {

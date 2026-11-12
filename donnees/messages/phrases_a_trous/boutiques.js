@@ -8,6 +8,12 @@
         "You hear a loud \"Zot\"!": "Vous entendez un « Zot » retentissant !",
         "In a burst of heat and light, you rocket briefly upward... but you can't rise from here.": "Dans une explosion de chaleur et de lumière, vous montez brièvement en flèche... mais vous ne pouvez pas monter d’ici.",
         "That's not a valid depth.": "Ce n’est pas une profondeur valide.",
+        "You hear a cheerful croaking...": "Vous entendez un joyeux coassement...",
+        "You hear a very distant croak, but nothing seems to happen.": "Vous entendez un coassement très lointain, mais rien ne semble se passer.",
+        "You anchor yourself in place and focus your resilience into a mighty blast.": "Vous vous ancrez sur place et concentrez votre résilience en une puissante explosion.",
+        "\"Reflect upon your actions, mortal!\"": "« Réfléchis à tes actes, mortel ! »",
+        "Purchase which blessing?": "Acheter quelle bénédiction ?",
+        "Invalid spell!": "Sort invalide !",
         "You don't have enough money.": "Vous n’avez pas assez d’argent.",
         "This will use your shop voucher.": "Cela utilisera votre bon d’achat.",
     };
@@ -44,5 +50,7 @@
         for (const p of morceaux) { const q = p.replace(/^buy /, ""); const o = obj(q); if (!o) return null; tr.push(o); }
         const fin = tr.length > 1 ? tr.slice(0, -1).join(", ") + " et " + tr[tr.length - 1] : tr[0];
         return `Vous avez maintenant assez d’or pour acheter ${fin}.`; } });
+    R.push({ regex: /^You dream of (.+)\.$/, translate: m => { const p = m[1].split(/, | and /); const tr = p.map(obj); if (tr.some(x => !x)) return null; return "Vous rêvez " + (tr.length > 1 ? tr.slice(0, -1).join(", ") + " et " + tr[tr.length - 1] : tr[0]) + "."; } });
+    R.push({ regex: /^Beogh breathes life back into (.+?)\.$/, translate: m => `Beogh redonne vie à ${m[1]}.` });
     globalThis.DCSS_TRADUCTION_REGLES = (globalThis.DCSS_TRADUCTION_REGLES || []).concat(R);
 })();

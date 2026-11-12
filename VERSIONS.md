@@ -11,6 +11,11 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.21.4 — messages de dieux et de sorts
+
+- 10 messages de dieux ajoutés à `phrases_a_trous/dieux_verbe.js` (contrition au Creuset, régénération accélérée, « ne permet pas aux déloyaux de s'adonner à… », solo de Wu Jian, épreuve de prouesse, armée divine, trésors des Fosses de gélatine…), plus quelques messages de sorts (coassement des grenouilles, ancrage, « You dream of… », Beogh redonne vie).
+- Relevé fait sur les 456 messages fixes des fichiers de sorts et de religion du jeu : il n'en restait que ces quelques-uns, le reste était déjà traduit.
+
 ## 0.21.3 — boutiques
 
 - Nouveau `phrases_a_trous/boutiques.js` : noms de boutique isolés (« Boniuse's Armour Boutique » → « Boutique d'armures de Boniuse »), « Merci d'avoir fait vos achats… », boutique fermée, frais d'entrée, bon d'achat (« You have N gold pieces. Purchasing will use your shop voucher… »), confirmations d'achat, liste d'achats (ajout, retrait, remplacement, « You now have enough gold to buy… »), « I'll put it outside for you. », types de boutique isolés.

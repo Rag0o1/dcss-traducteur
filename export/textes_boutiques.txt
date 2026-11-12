@@ -31,6 +31,24 @@ FR: Dans une explosion de chaleur et de lumière, vous montez brièvement en fl�
 EN: That's not a valid depth.
 FR: Ce n’est pas une profondeur valide.
 
+EN: You hear a cheerful croaking...
+FR: Vous entendez un joyeux coassement...
+
+EN: You hear a very distant croak, but nothing seems to happen.
+FR: Vous entendez un coassement très lointain, mais rien ne semble se passer.
+
+EN: You anchor yourself in place and focus your resilience into a mighty blast.
+FR: Vous vous ancrez sur place et concentrez votre résilience en une puissante explosion.
+
+EN: "Reflect upon your actions, mortal!"
+FR: « Réfléchis à tes actes, mortel ! »
+
+EN: Purchase which blessing?
+FR: Acheter quelle bénédiction ?
+
+EN: Invalid spell!
+FR: Sort invalide !
+
 EN: You don't have enough money.
 FR: Vous n’avez pas assez d’argent.
 
