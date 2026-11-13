@@ -11,6 +11,12 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.21.5 — audit de dat/database : uniques et fuites
+
+- Nouveau `titres_uniques.js` : les 87 titres des monstres uniques (montitle.txt), de « Agnes la Vagabonde » à « Zenata, Chercheuse de Sheza ». Corrige aussi « Urug la Baliste orque ».
+- Nouveau `phrases_a_trous/fuites.js` : les 5 cris de fuite des monstres (monflee.txt).
+- Volontairement laissés en anglais : gizmo.txt (mots générés pour les noms de gizmos Coglin), help.txt et FAQ.txt (pages d'aide du jeu, pas affichées dans WebTiles).
+
 ## 0.21.4 — messages de dieux et de sorts
 
 - 10 messages de dieux ajoutés à `phrases_a_trous/dieux_verbe.js` (contrition au Creuset, régénération accélérée, « ne permet pas aux déloyaux de s'adonner à… », solo de Wu Jian, épreuve de prouesse, armée divine, trésors des Fosses de gélatine…), plus quelques messages de sorts (coassement des grenouilles, ancrage, « You dream of… », Beogh redonne vie).

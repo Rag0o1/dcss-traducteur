@@ -3028,6 +3028,21 @@ FR: Le mouton de rêve tente d’endormir {o1}.
 EN: {A} is unaffected.
 FR: {S1} n’est pas affecté{e1}. ¦ Vous n’êtes pas affecté.
 
+EN: {A} bleats in terror.
+FR: {S1} bêle de terreur.
+
+EN: {A} is struck with panic!
+FR: {S1} est pris{e1} de panique !
+
+EN: {A} panics and turns to flee.
+FR: {S1} panique et prend la fuite.
+
+EN: A frightened {A} leaps away.
+FR: {S1} effrayé{e1} bondit au loin.
+
+EN: {A} stampedes away.
+FR: {S1} détale en trombe.
+
 EN: The wavering orb of destruction weakly hits {A}!
 FR: L’orbe de destruction vacillant touche faiblement {o1} ! ¦ L’orbe de destruction vacillant vous touche faiblement !
 

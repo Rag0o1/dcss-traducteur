@@ -1,0 +1,260 @@
+EN: Agnes the Wanderer
+FR: Agnes la Vagabonde
+
+EN: Aizul the Neglectful Guardian
+FR: Aizul le Gardien négligent
+
+EN: Amaemon the Diabolical Poisoner
+FR: Amaemon l’Empoisonneur diabolique
+
+EN: Antaeus, Guardian of Cocytus
+FR: Antée, Gardien du Cocyte
+
+EN: Arachne the Outcast
+FR: Arachné l’Exilée
+
+EN: Asmodeus, Prince of Gehenna
+FR: Asmodée, Prince de la Géhenne
+
+EN: Asterion the Fallen King
+FR: Astérion le Roi déchu
+
+EN: Azrael the Boundless Flame
+FR: Azrael la Flamme sans bornes
+
+EN: Bai Suzhen, Madame White Snake
+FR: Bai Suzhen, Madame Serpent blanc
+
+EN: Boris, Master of Life and Death
+FR: Boris, Maître de la vie et de la mort
+
+EN: Cassandra the Doomed Oracle
+FR: Cassandre l’Oracle condamné
+
+EN: Cerebov, Demon Lord of Fire and Steel
+FR: Cerebov, Seigneur démon du feu et de l’acier
+
+EN: Chuck the Collector
+FR: Chuck le Collectionneur
+
+EN: Crazy Yiuf the Enlightened
+FR: Yiuf le Fou, l’Illuminé
+
+EN: Dispater, Lord of the Iron City
+FR: Dispater, Seigneur de la Cité de fer
+
+EN: Dissolution, High Priest of Jiyva
+FR: Dissolution, Grand prêtre de Jiyva
+
+EN: Donald the Adventurer
+FR: Donald l’Aventurier
+
+EN: Dowan, Brother of Duvessa
+FR: Dowan, Frère de Duvessa
+
+EN: Duvessa, Sister of Dowan
+FR: Duvessa, Sœur de Dowan
+
+EN: Edmund the Younger
+FR: Edmund le Jeune
+
+EN: Ereshkigal, Queen of Tartarus
+FR: Ereshkigal, Reine du Tartare
+
+EN: Erica the Fiery-Tempered
+FR: Erica la Tempérament de feu
+
+EN: Erolcha the Cunning
+FR: Erolcha la Rusée
+
+EN: Eustachio the Magnificent
+FR: Eustachio le Magnifique
+
+EN: Fannar the Cold-Hearted
+FR: Fannar au Cœur froid
+
+EN: Frances, Duchess of Pandemonium
+FR: Frances, Duchesse du Pandémonium
+
+EN: Frederick the Flawless
+FR: Frederick l’Impeccable
+
+EN: Gastronok the Ponderous
+FR: Gastronok le Pesant
+
+EN: Geryon, Gatekeeper of Hell
+FR: Géryon, Gardien des portes de l’Enfer
+
+EN: Gloorx Vloq, Demon Lord of Darkness
+FR: Gloorx Vloq, Seigneur démon des Ténèbres
+
+EN: Goji, Who Cannot Be Seen
+FR: Goji, Celui qu’on ne peut voir
+
+EN: Grum the Hunter
+FR: Grum le Chasseur
+
+EN: Grunn the Punished
+FR: Grunn le Puni
+
+EN: Harold the Weathered
+FR: Harold le Buriné
+
+EN: Ignacio, Master of Excruciating Pain
+FR: Ignacio, Maître de la douleur atroce
+
+EN: Ilsuiw, Witch of the Tides
+FR: Ilsuiw, Sorcière des marées
+
+EN: Ijyb the Inquisitive
+FR: Ijyb le Curieux
+
+EN: Jessica the Apprentice Sorceress
+FR: Jessica l’Apprentie sorcière
+
+EN: Jeremiah, Barachi Dreamer
+FR: Jeremiah, Rêveur barachi
+
+EN: Jorgrun Earthshaker
+FR: Jorgrun Secoueur de terre
+
+EN: Jory the Bloodstained Count
+FR: Jory le Comte ensanglanté
+
+EN: Joseph, a Mercenary
+FR: Joseph, un Mercenaire
+
+EN: Josephina the Ice-Lich
+FR: Josephina la Liche des glaces
+
+EN: Josephine the Decaying Necromancer
+FR: Josephine la Nécromancienne en décomposition
+
+EN: Khufu the Undying Pharaoh
+FR: Khéops le Pharaon immortel
+
+EN: Kirke, Weaver of Myths
+FR: Circé, Tisseuse de mythes
+
+EN: Lodul the Thunderous
+FR: Lodul le Tonitruant
+
+EN: Lom Lobon, Demon Lord of Forbidden Knowledge
+FR: Lom Lobon, Seigneur démon du savoir interdit
+
+EN: Louise the Corrupted
+FR: Louise la Corrompue
+
+EN: Maggie the Vainglorious
+FR: Maggie la Vaniteuse
+
+EN: Mara, Lord of Illusions
+FR: Mara, Seigneur des illusions
+
+EN: Margery the Dragonslayer
+FR: Margery la Tueuse de dragons
+
+EN: Maurice the Thief
+FR: Maurice le Voleur
+
+EN: Menkaure, Prince of Dust
+FR: Mykérinos, Prince de poussière
+
+EN: Mennas, the Voice of Zin
+FR: Mennas, la Voix de Zin
+
+EN: Mlioglotl, the Unformed Horror
+FR: Mlioglotl, l’Horreur informe
+
+EN: Mnoleg, Demon Lord of Chaos
+FR: Mnoleg, Seigneur démon du chaos
+
+EN: Murray the Demonic Talking Skull
+FR: Murray le Crâne parlant démoniaque
+
+EN: Natasha, Servant of Life and Death
+FR: Natasha, Servante de la vie et de la mort
+
+EN: Nellie, Star of the Show
+FR: Nellie, Vedette du spectacle
+
+EN: Nergalle, Lorekeeper of the Fallen
+FR: Nergalle, Gardienne du savoir des déchus
+
+EN: Nessos the Markscentaur
+FR: Nessos le Centaure archer
+
+EN: Nikola the Mad Inventor
+FR: Nikola le Fou inventeur
+
+EN: Nobody, Grudge of the Unmourned
+FR: Personne, Rancune des non-pleurés
+
+EN: Norris the Philosopher
+FR: Norris le Philosophe
+
+EN: Parghit the Mighty
+FR: Parghit le Puissant
+
+EN: Pargi the Meek
+FR: Pargi le Docile
+
+EN: Pikel, Merchant of Souls
+FR: Pikel, Marchand d’âmes
+
+EN: Polyphemus the Watchful Shepherd
+FR: Polyphème le Berger vigilant
+
+EN: Robin of the Strong Arm
+FR: Robin au Bras fort
+
+EN: Roxanne, Geomancer Emeritus
+FR: Roxanne, Géomancienne émérite
+
+EN: Rupert the Wild
+FR: Rupert le Sauvage
+
+EN: Saint Roka the Messiah
+FR: Saint Roka le Messie
+
+EN: Sigmund the Dreaded
+FR: Sigmund le Redouté
+
+EN: Snorg the Insatiable
+FR: Snorg l’Insatiable
+
+EN: Sojobo, Queen of Tengu
+FR: Sojobo, Reine des Tengu
+
+EN: Sonja, the Graceful Assassin
+FR: Sonja, l’Assassin gracieuse
+
+EN: Sprozz, Inventive Apiarist
+FR: Sprozz, Apiculteur ingénieux
+
+EN: Terence the Veteran
+FR: Terence le Vétéran
+
+EN: Tiamat, Avatar of the Dragonlord
+FR: Tiamat, Avatar du Seigneur-dragon
+
+EN: Urug the Orcish Ballista
+FR: Urug la Baliste orque
+
+EN: Wiglaf the Gunnerdwarf
+FR: Wiglaf le Nain artilleur
+
+EN: Vashnia the Elite Marksnaga
+FR: Vashnia la Naga archère d’élite
+
+EN: Vv the Exile
+FR: Vv l’Exilé
+
+EN: Xak'krixis, Royal Expeditionary Alchemist
+FR: Xak'krixis, Alchimiste royal expéditionnaire
+
+EN: Xtahua the Ancient
+FR: Xtahua l’Ancien
+
+EN: Zenata, Seeker of Sheza
+FR: Zenata, Chercheuse de Sheza
