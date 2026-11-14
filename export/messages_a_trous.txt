@@ -1088,7 +1088,7 @@ EN: {A} is forced to slowly start {X} a word of recall!
 FR: {S1} est forcé{e1} de commencer lentement à {x2} un mot de rappel !
 
 EN: {A} casts a spell.
-FR: {S1} lance un sort. ¦ Vous lancez un sort.
+FR: {S1} lance un sort.
 
 EN: {A} casts a cantrip, but nothing happens.
 FR: {S1} lance un sortilège mineur, mais rien ne se passe.
@@ -3043,14 +3043,1340 @@ FR: {S1} effrayé{e1} bondit au loin.
 EN: {A} stampedes away.
 FR: {S1} détale en trombe.
 
+EN: Sparks fly from {I} hands
+FR: Des étincelles jaillissent des mains {d1}
+
+EN: {A} emits a flash of light
+FR: {S1} émet un éclair de lumière
+
+EN: {A} lurches violently
+FR: {S1} tangue violemment
+
+EN: {A} jerks violently
+FR: {S1} est secoué{e1} violemment
+
+EN: {A} is caught in a violent explosion
+FR: {S1} est pris{e1} dans une violente explosion
+
+EN: {A} is blasted with magical energy
+FR: {S1} est frappé{e1} par de l’énergie magique
+
+EN: Multicoloured lights dance around {A}
+FR: Des lumières multicolores dansent autour {d1}
+
+EN: {A} looks sleepy for a second
+FR: {S1} semble somnolent{e1} un instant
+
+EN: The light around {A} dims momentarily
+FR: La lumière autour {d1} faiblit un instant
+
+EN: {A} twitches
+FR: {S1} a un spasme
+
+EN: {I} body glows momentarily
+FR: Le corps {d1} luit un instant
+
+EN: Magic surges out from {A}
+FR: Un flux de magie jaillit {d1}
+
+EN: Desperate hands claw out at {A}
+FR: Des mains désespérées griffent {o1}
+
+EN: {A} twitches violently
+FR: {S1} est pris{e1} de spasmes violents
+
+EN: {A} pauses, visibly distraught
+FR: {S1} marque une pause, visiblement bouleversé{e1}
+
+EN: {A} seems to dim momentarily
+FR: {S1} semble s’assombrir un instant
+
+EN: {A} looks as though something walked over {p} grave
+FR: {S1} a l’air d’avoir senti quelqu’un marcher sur sa tombe
+
+EN: {A} is briefly tinged with black
+FR: {S1} se teinte brièvement de noir
+
+EN: {A} scowls horribly
+FR: {S1} fait une horrible grimace
+
+EN: {A} convulses with pain
+FR: {S1} est pris{e1} de convulsions de douleur
+
+EN: {A} looks incredibly listless
+FR: {S1} paraît incroyablement apathique
+
+EN: {A} rots away
+FR: {S1} pourrit sur place
+
+EN: Flickering shadows surround {A}
+FR: Des ombres vacillantes entourent {o1}
+
+EN: {A} is engulfed in negative energy
+FR: {S1} est englouti{e1} par l’énergie négative
+
+EN: {A} convulses helplessly with pain
+FR: {S1} se convulse, impuissant{e1}, de douleur
+
+EN: {A} seems frightened for a moment
+FR: {S1} semble effrayé{e1} un instant
+
+EN: Space bends crazily around you
+FR: L’espace se courbe follement autour de vous
+
+EN: Space bends around you
+FR: L’espace se courbe autour de vous
+
+EN: Space warps crazily around you
+FR: L’espace se déforme follement autour de vous
+
+EN: Space warps around you
+FR: L’espace se déforme autour de vous
+
+EN: {A} jerks violently for a moment
+FR: {S1} est secoué{e1} violemment un instant
+
+EN: {A} looks off-balance for a moment
+FR: {S1} semble déséquilibré{e1} un instant
+
+EN: {A} spins around
+FR: {S1} tourne sur soi-même
+
+EN: {A} appears momentarily distorted
+FR: {S1} paraît déformé{e1} un instant
+
+EN: {I} features rearrange themselves for a while
+FR: Les traits {d1} se réarrangent pendant un moment
+
+EN: {A} is caught in a field of spatial distortion
+FR: {S1} est pris{e1} dans un champ de distorsion spatiale
+
+EN: Space bends crazily around {A}
+FR: L’espace se courbe follement autour {d1}
+
+EN: Space bends around {A}
+FR: L’espace se courbe autour {d1}
+
+EN: Space warps crazily around {A}
+FR: L’espace se déforme follement autour {d1}
+
+EN: Space warps around {A}
+FR: L’espace se déforme autour {d1}
+
+EN: Cinders fly from your hands
+FR: Des braises jaillissent de vos mains
+
+EN: Ashes fly from your hands
+FR: Des cendres jaillissent de vos mains
+
+EN: Fire whirls out from your hands
+FR: Du feu tourbillonne depuis vos mains
+
+EN: You are blasted with searing fire
+FR: Vous êtes frappé par un feu ardent
+
+EN: You are blasted with searing flames
+FR: Vous êtes frappé par des flammes ardentes
+
+EN: You are blasted with fire
+FR: Vous êtes frappé par le feu
+
+EN: You are blasted with flames
+FR: Vous êtes frappé par des flammes
+
+EN: Cinders fly from {I} hands
+FR: Des braises jaillissent des mains {d1}
+
+EN: Ashes fly from {I} hands
+FR: Des cendres jaillissent des mains {d1}
+
+EN: The air around {A} burns with energy
+FR: L’air autour {d1} brûle d’énergie
+
+EN: Dim flames ripple over {I} body
+FR: De pâles flammes ondulent sur le corps {d1}
+
+EN: Fire whirls out {I} hands
+FR: Du feu tourbillonne depuis les mains {d1}
+
+EN: Flames sear {A}
+FR: Des flammes brûlent {o1}
+
+EN: {A} is blasted with searing fire
+FR: {S1} est frappé{e1} par un feu ardent
+
+EN: {A} is blasted with searing flames
+FR: {S1} est frappé{e1} par des flammes ardentes
+
+EN: {A} is blasted with fire
+FR: {S1} est frappé{e1} par le feu
+
+EN: {A} is blasted with flames
+FR: {S1} est frappé{e1} par des flammes
+
+EN: {A} is caught in a fiery explosion
+FR: {S1} est pris{e1} dans une explosion de feu
+
+EN: Your hands feel numb with cold
+FR: Vos mains sont engourdies par le froid
+
+EN: Your hand feels numb with cold
+FR: Votre main est engourdie par le froid
+
+EN: You feel a little bit cold
+FR: Vous avez un peu froid
+
+EN: You feel uncomfortably cold
+FR: Vous avez désagréablement froid
+
+EN: You feel extremely cold
+FR: Vous avez extrêmement froid
+
+EN: Ice covers your body
+FR: De la glace recouvre votre corps
+
+EN: Frost covers your body
+FR: Du givre recouvre votre corps
+
+EN: You are encased in ice
+FR: Vous êtes enfermé dans la glace
+
+EN: You are encased in frost
+FR: Vous êtes enfermé dans le givre
+
+EN: You are covered in a thin layer of ice
+FR: Vous êtes recouvert d’une fine couche de glace
+
+EN: You are covered in a thin layer of frost
+FR: Vous êtes recouvert d’une fine couche de givre
+
+EN: {A} shivers with cold
+FR: {S1} grelotte de froid
+
+EN: Frost covers {I} body
+FR: Le givre recouvre le corps {d1}
+
+EN: {A} shivers
+FR: {S1} frissonne
+
+EN: {A} is covered in a thin layer of ice
+FR: {S1} est recouvert{e1} d’une fine couche de glace
+
+EN: {A} is covered in a thin layer of frost
+FR: {S1} est recouvert{e1} d’une fine couche de givre
+
+EN: Heat is drained from {A}
+FR: La chaleur est aspirée hors {d1}
+
+EN: {A} is caught in an explosion of ice and frost
+FR: {S1} est pris{e1} dans une explosion de glace et de givre
+
+EN: {A} is encased in ice
+FR: {S1} est enfermé{e1} dans la glace
+
+EN: {A} is encased in frost
+FR: {S1} est enfermé{e1} dans le givre
+
+EN: An unseen figure is encased in ice
+FR: Une silhouette invisible est enfermée dans la glace
+
+EN: An unseen figure is encased in frost
+FR: Une silhouette invisible est enfermée dans le givre
+
+EN: {A} bobs in the air for a moment
+FR: {S1} ballotte dans les airs un instant
+
+EN: Sparks of electricity dance between {I} hands
+FR: Des étincelles électriques dansent entre les mains {d1}
+
+EN: The air around {A} crackles with energy
+FR: L’air autour {d1} crépite d’énergie
+
+EN: {A} is blasted with air
+FR: {S1} est frappé{e1} par une rafale d’air
+
+EN: {A} is briefly showered in sparks
+FR: {S1} est brièvement couvert{e1} d’étincelles
+
+EN: The wind whips around {A}
+FR: Le vent fouette l’air autour {d1}
+
+EN: {A} is jolted
+FR: {S1} reçoit une secousse
+
+EN: {A} is caught in an explosion of electrical discharges
+FR: {S1} est pris{e1} dans une explosion de décharges électriques
+
+EN: {A} is struck by twisting air
+FR: {S1} est frappé{e1} par un tourbillon d’air
+
+EN: Sand pours from your hands
+FR: Du sable coule de vos mains
+
+EN: Gravel pours from your hands
+FR: Du gravier coule de vos mains
+
+EN: The floor shifts beneath you alarmingly
+FR: Le sol bouge de façon alarmante sous vos pieds
+
+EN: The floor shudders beneath you alarmingly
+FR: Le sol tremble de façon alarmante sous vos pieds
+
+EN: The floor quakes beneath you alarmingly
+FR: Le sol se secoue de façon alarmante sous vos pieds
+
+EN: The floor rumbles beneath you alarmingly
+FR: Le sol gronde de façon alarmante sous vos pieds
+
+EN: Sand pours from {I} hands
+FR: Du sable coule des mains {d1}
+
+EN: Gravel pours from {I} hands
+FR: Du gravier coule des mains {d1}
+
+EN: {A} is hit by flying rocks
+FR: {S1} est frappé{e1} par des rochers volants
+
+EN: {A} is blasted with sand
+FR: {S1} est fouetté{e1} par du sable
+
+EN: Rocks fall onto {A} out of nowhere
+FR: Des rochers tombent sur {o1} sans raison
+
+EN: {A} is caught in an explosion of flying shrapnel
+FR: {S1} est pris{e1} dans une explosion d’éclats volants
+
+EN: Mercury flows from your hands
+FR: Du mercure coule de vos mains
+
+EN: Quicksilver flows from your hands
+FR: Du vif-argent coule de vos mains
+
+EN: Fool's gold flows from your hands
+FR: De l’or des fous coule de vos mains
+
+EN: Saltpeter flows from your hands
+FR: Du salpêtre coule de vos mains
+
+EN: Sulphur flows from your hands
+FR: Du soufre coule de vos mains
+
+EN: Liquid metal flows from your hands
+FR: Du métal liquide coule de vos mains
+
+EN: Parts of your body briefly turn golden
+FR: Des parties de votre corps deviennent brièvement dorées
+
+EN: Parts of your body briefly turn silvery
+FR: Des parties de votre corps deviennent brièvement argentées
+
+EN: Parts of your body briefly turn metallic
+FR: Des parties de votre corps deviennent brièvement métalliques
+
+EN: Parts of your body briefly turn leaden
+FR: Des parties de votre corps deviennent brièvement plombées
+
+EN: Parts of your body briefly turn crystalline
+FR: Des parties de votre corps deviennent brièvement cristallines
+
+EN: {A} is engulfed in toxic fumes
+FR: {S1} est englouti{e1} dans des vapeurs toxiques
+
+EN: {A} is blasted with cinnabar dust
+FR: {S1} est frappé{e1} de poussière de cinabre
+
+EN: {A} is blasted with sulphur dust
+FR: {S1} est frappé{e1} de poussière de soufre
+
+EN: {A} is coated with cinnabar dust
+FR: {S1} est couvert{e1} de poussière de cinabre
+
+EN: {A} is coated with sulphur dust
+FR: {S1} est couvert{e1} de poussière de soufre
+
+EN: {A} is coated in salt
+FR: {S1} est couvert{e1} de sel
+
+EN: {A} starts coughing violently
+FR: {S1} se met à tousser violemment
+
+EN: {A} looks incredibly sick
+FR: {S1} a l’air affreusement malade
+
+EN: A buzzing sound echoes in your mind
+FR: Un bourdonnement résonne dans votre esprit
+
+EN: A clanking sound echoes in your mind
+FR: Un cliquetis résonne dans votre esprit
+
+EN: A creaking sound echoes in your mind
+FR: Un grincement résonne dans votre esprit
+
+EN: A whirring sound echoes in your mind
+FR: Un ronronnement résonne dans votre esprit
+
+EN: {A} loses structural integrity
+FR: {S1} perd son intégrité structurelle
+
+EN: Metal odds and ends fall onto {A} out of nowhere
+FR: Des bouts de ferraille tombent sur {o1} sans raison
+
+EN: {A} is covered in metallic shards
+FR: {S1} est couvert{e1} d’éclats métalliques
+
+EN: {A} is caught in an explosion of metallic debris
+FR: {S1} est pris{e1} dans une explosion de débris métalliques
+
+EN: You hear a shout!
+FR: Vous entendez un cri !
+
+EN: {A} shouts!
+FR: {S1} crie !
+
+EN: You hear a bark!
+FR: Vous entendez un aboiement !
+
+EN: {A} barks!
+FR: {S1} aboie !
+
+EN: You hear a howl!
+FR: Vous entendez un hurlement !
+
+EN: {A} howls!
+FR: {S1} hurle !
+
+EN: You hear two shouts!
+FR: Vous entendez deux cris !
+
+EN: {A} shouts in stereo!
+FR: {S1} crie en stéréo !
+
+EN: You hear a roar!
+FR: Vous entendez un rugissement !
+
+EN: {A} roars!
+FR: {S1} rugit !
+
+EN: You hear a hideous shriek!
+FR: Vous entendez un cri affreux !
+
+EN: {A} gives a hideous shriek!
+FR: {S1} pousse un cri affreux !
+
+EN: You hear a bellow!
+FR: Vous entendez un mugissement !
+
+EN: {A} bellows!
+FR: {S1} mugit !
+
+EN: You hear a bleat!
+FR: Vous entendez un bêlement !
+
+EN: {A} bleats!
+FR: {S1} bêle !
+
+EN: You hear a trumpeting!
+FR: Vous entendez un barrissement !
+
+EN: {A} trumpets!
+FR: {S1} barrit !
+
+EN: You hear a screech!
+FR: Vous entendez un crissement !
+
+EN: {A} screeches!
+FR: {S1} pousse un cri strident !
+
+EN: You hear an angry buzzing noise.
+FR: Vous entendez un bourdonnement furieux.
+
+EN: {A} buzzes angrily.
+FR: {S1} bourdonne avec colère.
+
+EN: You hear a chilling moan.
+FR: Vous entendez un gémissement glaçant.
+
+EN: {A} gives a chilling moan.
+FR: {S1} pousse un gémissement glaçant.
+
+EN: You hear a horrible gurgling sound!
+FR: Vous entendez un horrible gargouillis !
+
+EN: {A} gurgles horribly!
+FR: {S1} gargouille horriblement !
+
+EN: You hear a loud, deep croak!
+FR: Vous entendez un coassement fort et grave !
+
+EN: You hear a croak.
+FR: Vous entendez un coassement.
+
+EN: {A} gives a loud, deep croak!
+FR: {S1} pousse un coassement fort et grave !
+
+EN: {A} croaks.
+FR: {S1} coasse.
+
+EN: You hear an angry growl.
+FR: Vous entendez un grognement furieux.
+
+EN: {A} growls angrily.
+FR: {S1} grogne avec colère.
+
+EN: You hear an angry hiss.
+FR: Vous entendez un sifflement furieux.
+
+EN: {A} hisses angrily.
+FR: {S1} siffle avec colère.
+
+EN: You hear a skittering sound.
+FR: Vous entendez un bruit de pattes qui trottinent.
+
+EN: {I} many legs skitter.
+FR: Les nombreuses pattes {d1} trottinent.
+
+EN: You hear a faint skittering sound.
+FR: Vous entendez un faible bruit de pattes qui trottinent.
+
+EN: {I} many legs skitter faintly.
+FR: Les nombreuses pattes {d1} trottinent faiblement.
+
+EN: You hear a shout.
+FR: Vous entendez un cri.
+
+EN: You hear a screech.
+FR: Vous entendez un crissement.
+
+EN: You hear a roar.
+FR: Vous entendez un rugissement.
+
+EN: You hear a low.
+FR: Vous entendez un meuglement.
+
+EN: {I} eagle head screeches!
+FR: La tête d’aigle {d1} pousse un cri strident !
+
+EN: {I} lion head roars!
+FR: La tête de lion {d1} rugit !
+
+EN: {I} ox head lows!
+FR: La tête de bœuf {d1} meugle !
+
+EN: {I} human head shouts!
+FR: La tête humaine {d1} crie !
+
+EN: You hear an angry squeal.
+FR: Vous entendez un couinement furieux.
+
+EN: {A} squeals angrily.
+FR: {S1} couine avec colère.
+
+EN: You hear a deafening roar!
+FR: Vous entendez un rugissement assourdissant !
+
+EN: {A} roars deafeningly!
+FR: {S1} rugit de façon assourdissante !
+
+EN: You hear a loud rustle.
+FR: Vous entendez un fort bruissement.
+
+EN: {I} pages rustle loudly.
+FR: Les pages {d1} bruissent bruyamment.
+
+EN: You hear a loud squeak.
+FR: Vous entendez un fort couinement.
+
+EN: {A} squeaks loudly.
+FR: {S1} couine bruyamment.
+
+EN: {A} caws.
+FR: {S1} croasse.
+
+EN: You hear a loud caw.
+FR: Vous entendez un fort croassement.
+
+EN: {A} laughs maniacally.
+FR: {S1} rit de façon démente.
+
+EN: You hear maniacal laughter.
+FR: Vous entendez un rire dément.
+
+EN: {A} turns {p} malevolent gaze towards you.
+FR: {S1} tourne son regard malveillant vers vous.
+
+EN: {A} turns {p} gaze towards you.
+FR: {S1} tourne son regard vers vous.
+
+EN: {A} quivers.
+FR: {S1} frémit.
+
+EN: {A} swivels {p} eye-stalks towards you.
+FR: {S1} oriente ses yeux pédonculés vers vous.
+
+EN: {A} waves {p} rhizomes.
+FR: {S1} agite ses rhizomes.
+
+EN: {A} turns {p} attention towards you.
+FR: {S1} tourne son attention vers vous.
+
+EN: {I} fur bristles in rage as it notices you.
+FR: Le pelage {d1} se hérisse de rage lorsqu’il vous remarque.
+
+EN: {A} shouts, "Attack, my pets! Attack!"
+FR: {S1} crie : « À l’attaque, mes petits ! À l’attaque ! »
+
+EN: {A} waves {p} arms in wide circles.
+FR: {S1} agite les bras en grands cercles.
+
+EN: You hear blowing wind.
+FR: Vous entendez souffler le vent.
+
+EN: {A} bursts into living lightning!
+FR: {S1} se change en foudre vivante !
+
+EN: Living lightning bursts into view!
+FR: Un éclair vivant apparaît soudain !
+
+EN: {A} beckons forth restless souls!
+FR: {S1} appelle des âmes agitées !
+
+EN: {A} calls on the powers of chaos!
+FR: {S1} appelle les puissances du chaos !
+
+EN: Electricity crackles from {I} apparatus.
+FR: L’électricité crépite de l’appareil {d1}.
+
+EN: {A} looks braver for a moment.
+FR: {S1} paraît plus brave un instant.
+
+EN: {A} looks encouraged for a moment.
+FR: {S1} semble encouragé{e1} un instant.
+
+EN: {A} looks satisfied for a moment.
+FR: {S1} semble satisfait{e1} un instant.
+
+EN: {A} erupts in a flurry of living spells!
+FR: {S1} explose en une rafale de sorts vivants !
+
+EN: {A} calls freezing cold from the walls.
+FR: {S1} fait surgir un froid glacial des murs.
+
+EN: {A} calls out to the beasts of the wild!
+FR: {S1} appelle les bêtes sauvages !
+
+EN: {A} rends the earth beneath {A}!
+FR: {S1} déchire la terre sous {o2} !
+
+EN: {A} reaches out to the roots within the earth.
+FR: {S1} se tend vers les racines enfouies dans la terre.
+
+EN: {A} runs its roots beneath {A}!
+FR: {S1} glisse ses racines sous {o2} !
+
+EN: {A} fires a harpoon shot at {A}.
+FR: {S1} tire un harpon sur {o2}.
+
+EN: {A} calls forth {p} servants.
+FR: {S1} appelle ses serviteurs.
+
+EN: {A} blasts a torrent of magma at {A}.
+FR: {S1} projette un torrent de magma sur {o2}.
+
+EN: {A} fires a salvo of icy shards.
+FR: {S1} tire une salve d’éclats de glace.
+
+EN: {A} calls forth blessed flames!
+FR: {S1} fait surgir des flammes bénies !
+
+EN: Blessed flames are called forth!
+FR: Des flammes bénies sont invoquées !
+
+EN: {A} launches a bomblet.
+FR: {S1} lance une petite bombe.
+
+EN: {A} weaves an illusion.
+FR: {S1} tisse une illusion.
+
+EN: {A} shimmers.
+FR: {S1} chatoie.
+
+EN: Something weaves an illusion!
+FR: Quelque chose tisse une illusion !
+
+EN: {A} weaves a glowing orb of energy.
+FR: {S1} tisse une orbe d’énergie lumineuse.
+
+EN: {A} conjures a glowing orb.
+FR: {S1} conjure un orbe luisant.
+
+EN: {A} conjures an orb of pure magic.
+FR: {S1} conjure un orbe de magie pure.
+
+EN: {A} launches a ball of destructive magic.
+FR: {S1} lance une boule de magie destructrice.
+
+EN: {A} weaves a phantasmal image and fires it at {A}.
+FR: {S1} tisse une image fantasmagorique et la projette sur {o2}.
+
+EN: {A} calls gouts of flame from the lava!
+FR: {S1} fait jaillir des gerbes de flammes de la lave !
+
+EN: {A} draws nearby souls into itself!
+FR: {S1} aspire les âmes proches !
+
+EN: {A} calls on the powers of darkness!
+FR: {S1} appelle les puissances des ténèbres !
+
+EN: {A} sends weapons flying into battle!
+FR: {S1} envoie des armes voler au combat !
+
+EN: {A} gestures, and weapons take to the air!
+FR: {S1} fait un geste, et des armes s’élèvent dans les airs !
+
+EN: {A} breathes a rupture in space-time at {A}.
+FR: {S1} souffle une déchirure de l’espace-temps sur {o2} {S1} souffle une déchirure de l’espace-temps sur.
+
+EN: {A} drops twin branches, and they both wriggle to life!
+FR: {S1} laisse tomber deux branches, qui s’animent aussitôt !
+
+EN: {A} sprays {A} with liquid fire.
+FR: {S1} asperge {o2} de feu liquide.
+
+EN: {A} fires a burst of electricity at {A}.
+FR: {S1} tire une salve d’électricité sur {o2}.
+
+EN: {A} hurls a bolas at {A}.
+FR: {S1} lance une bolas sur {o2}.
+
+EN: {A} pies {A} viciously!
+FR: {S1} entarte {o2} avec férocité !
+
+EN: {A} charges forward with an electric crackle.
+FR: {S1} charge dans un crépitement électrique.
+
+EN: {A} conjures a fierce blast of wind!
+FR: {S1} conjure une violente rafale de vent !
+
+EN: {A} begins to recite a word of recall!
+FR: {S1} commence à réciter un mot de rappel !
+
+EN: You hear a spitting sound.
+FR: Vous entendez un bruit de crachat.
+
+EN: {A} spits acid at {A}.
+FR: {S1} crache de l’acide sur {o2}.
+
+EN: {A} roars a battlecry!
+FR: {S1} pousse un cri de guerre !
+
+EN: {A} freezes {A}.
+FR: {S1} gèle {o2}.
+
+EN: {A} expels a string of sticky webbing.
+FR: {S1} expulse un filament de toile collante.
+
+EN: A string of sticky webbing shoots out from thin air.
+FR: Un filament de toile collante jaillit de nulle part.
+
+EN: {A} breathes a plume of calcifying dust at {A}.
+FR: {S1} souffle un panache de poussière calcifiante sur {o2}.
+
+EN: {A} launches a dart at {A}.
+FR: {S1} lance une fléchette sur {o2}.
+
+EN: {A} spits lava at {A}.
+FR: {S1} crache de la lave sur {o2}.
+
+EN: {A} spits poison at {A}.
+FR: {S1} crache du poison sur {o2}.
+
+EN: {A} gazes piercingly through {A}!
+FR: {S1} darde un regard perçant sur {o2} !
+
+EN: {A} fires a volley of thorns at {A}.
+FR: {S1} tire une volée d’épines sur {o2}.
+
+EN: {A} howls a warning cry!
+FR: {S1} hurle un cri d’alerte !
+
+EN: You hear a loud warning cry!
+FR: Vous entendez un fort cri d’alerte !
+
+EN: {A} gazes fiercely through {A}!
+FR: {S1} regarde férocement à travers {o2} !
+
+EN: {A} touches a tree and draws upon its vitality.
+FR: {S1} touche un arbre et puise dans sa vitalité.
+
+EN: {A} stomps {p} heavy feet.
+FR: {S1} frappe le sol de ses lourds pieds.
+
+EN: {A} raises the black torch.
+FR: {S1} lève la torche noire.
+
+EN: {A} fractures the ground with {p} footsteps.
+FR: {S1} fissure le sol à chaque pas.
+
+EN: {A} points {p} staff at {A}, shooting a stream of webbing.
+FR: {S1} pointe son bâton sur {o2} et projette un jet de toile.
+
+EN: {I} staff shoots out a stream of webbing.
+FR: Le bâton {d1} projette un jet de toile.
+
+EN: A stream of webbing shoots out from thin air.
+FR: Un jet de toile jaillit de nulle part.
+
+EN: {A} gurgles to an absent god.
+FR: {S1} gargouille à l’adresse d’un dieu absent.
+
+EN: {A} jiggles mournfully.
+FR: {S1} frétille tristement.
+
+EN: {A} wobbles aimlessly.
+FR: {S1} vacille sans but.
+
+EN: {A} says, "Become one with my sorrow!"
+FR: {S1} dit : « Ne fais plus qu’un avec ma peine ! »
+
+EN: {A} gurgles deeply, a call to fellow slimes.
+FR: {S1} gargouille profondément, un appel à ses semblables.
+
+EN: {A} gurgles deeply.
+FR: {S1} gargouille profondément.
+
+EN: {A} mutters in a terrible tongue.
+FR: {S1} marmonne dans une langue terrible.
+
+EN: {A} whispers indecipherable words.
+FR: {S1} chuchote des mots indéchiffrables.
+
+EN: {A} chants phrases taken from a devil's mouth.
+FR: {S1} psalmodie des phrases sorties de la bouche d’un diable.
+
+EN: {A} screams a word of power!
+FR: {S1} hurle un mot de pouvoir !
+
+EN: {A} bubbles merrily.
+FR: {S1} glougloute joyeusement.
+
+EN: {A} glows a brilliant shade of cerise.
+FR: {S1} rougeoie d’un éclatant rouge cerise.
+
+EN: {A} wobbles crazily.
+FR: {S1} vacille comme un fou.
+
+EN: You wobble.
+FR: Vous vacillez.
+
+EN: You take on a slight green cast.
+FR: Vous prenez une légère teinte verte.
+
+EN: You feel briefly sluggish.
+FR: Vous vous sentez brièvement lent.
+
+EN: You feel a sudden, passing aversion to salt.
+FR: Vous ressentez une soudaine et brève aversion pour le sel.
+
+EN: You feel a sudden urge to swivel your nonexistent eyestalks around.
+FR: Vous ressentez l’envie soudaine de faire pivoter vos yeux pédonculés inexistants.
+
+EN: {A} looks at {A} while chanting.
+FR: {S1} regarde {o2} en psalmodiant.
+
+EN: {A} looks at {A} and mumbles some strange words.
+FR: {S1} regarde {o2} et marmonne d’étranges paroles.
+
+EN: {A} casts a spell at {A}.
+FR: {S1} lance un sort sur {o2}.
+
+EN: {A} chants a spell, wobbling all the while.
+FR: {S1} psalmodie un sort en vacillant sans cesse.
+
+EN: {A} mumbles some strange words.
+FR: {S1} marmonne d’étranges paroles.
+
+EN: {A} winds a great silver horn.
+FR: {S1} sonne dans un grand cor d’argent.
+
+EN: You hear a weird and mournful sound.
+FR: Vous entendez un son étrange et lugubre.
+
+EN: {A} lets out a twisted cry.
+FR: {S1} pousse un cri tordu.
+
+EN: {A} mumbles a slurred invocation.
+FR: {S1} marmonne une invocation pâteuse.
+
+EN: {A} throws {p} arms up pleadingly.
+FR: {S1} lève les bras d’un air suppliant.
+
+EN: {A} cries, "Fearful master, protect me!"
+FR: {S1} s’écrie : « Maître terrible, protège-moi ! »
+
+EN: {A} shouts, "O dreadful one, destroy my foe!"
+FR: {S1} crie : « Ô redoutable, détruis mon ennemi ! »
+
+EN: {A} gestures frantically.
+FR: {S1} gesticule frénétiquement.
+
+EN: {A} cries out, "Spectres! Fight for the home you helped make!"
+FR: {S1} s’écrie : « Spectres ! Battez-vous pour le foyer que vous avez aidé à bâtir ! »
+
+EN: {A} invokes the aid of something beyond life against {A}.
+FR: {S1} invoque contre {o2} l’aide de quelque chose au-delà de la vie.
+
+EN: {A} calmly calls forth the wrath of something past death upon {A}.
+FR: {S1} appelle calmement sur {o2} la colère de quelque chose au-delà de la mort.
+
+EN: {A} prays to the universe for peace to reach {A}.
+FR: {S1} prie l’univers pour que la paix atteigne {o2}.
+
+EN: {A} flies into a rage!
+FR: {S1} entre dans une rage folle !
+
+EN: {A} roars madly and goes into a rage!
+FR: {S1} rugit comme un fou et entre dans une rage folle !
+
+EN: {A} roars wildly at {A}.
+FR: {S1} rugit sauvagement sur {o2}.
+
+EN: {A} yells loudly at {A}.
+FR: {S1} hurle fort sur {o2}.
+
+EN: {A} gestures sharply.
+FR: {S1} fait un geste sec.
+
+EN: {A} stamps {p} foot.
+FR: {S1} frappe du pied.
+
+EN: {A} slams {p} palms together.
+FR: {S1} claque ses paumes l’une contre l’autre.
+
+EN: {A} makes an elaborate arcing motion.
+FR: {S1} fait un ample mouvement en arc.
+
+EN: You hear the sound of rock striking rock.
+FR: Vous entendez le bruit de la pierre qui frappe la pierre.
+
+EN: {A} slams {p} weapon against the ground.
+FR: {S1} frappe le sol de son arme.
+
+EN: {A} roars overwhelmingly at {A}!
+FR: {S1} rugit de façon écrasante sur {o2} !
+
+EN: {A} thunders ferociously at {A}!
+FR: {S1} tonne férocement sur {o2} !
+
+EN: {A} writhes about, and something writhes within {A}.
+FR: {S1} se tord, et quelque chose se tord dans {o2}.
+
+EN: {A} lashes out with icy intensity.
+FR: {S1} frappe avec une intensité glaciale.
+
+EN: {A} gestures with frozen lightning.
+FR: {S1} fait un geste d’éclair gelé.
+
+EN: {A} crackles with melancholic malice.
+FR: {S1} crépite d’une malice mélancolique.
+
+EN: {A} roars with sorrowful spite.
+FR: {S1} rugit d’une rancune chagrine.
+
+EN: {A} sprays incendiary fluid at {A}.
+FR: {S1} projette un liquide incendiaire sur {o2}.
+
+EN: {A} sings a powerful hymn!
+FR: {S1} chante un puissant hymne !
+
+EN: {A} glimmers violently.
+FR: {S1} miroite violemment.
+
+EN: {A} sprays sand from its hourglass at {A}.
+FR: {S1} projette le sable de son sablier sur {o2}.
+
+EN: {A} flicks its quills at {A}.
+FR: {S1} projette ses piquants sur {o2}.
+
+EN: {A} chitters at {A}.
+FR: {S1} jacasse contre {o2}.
+
+EN: {A} rattles {p} jaw.
+FR: {S1} fait claquer sa mâchoire.
+
+EN: {A} rattles {p} jaw silently.
+FR: {S1} fait claquer sa mâchoire en silence.
+
+EN: You hear the clattering of teeth.
+FR: Vous entendez un claquement de dents.
+
+EN: {A} draws upon the vitality of nature.
+FR: {S1} puise dans la vitalité de la nature.
+
+EN: {A} calls out to the forest.
+FR: {S1} appelle la forêt.
+
+EN: {A} stares piercingly at {A}.
+FR: {S1} dévisage d’un regard perçant {o2}.
+
+EN: A torrent of water rises up through {A}!
+FR: Un torrent d’eau jaillit à travers {o1} !
+
+EN: Water spirits pour forth from {A}!
+FR: Des esprits aquatiques jaillissent {d1} !
+
+EN: {A} smirks and gazes at {A}.
+FR: {S1} sourit d’un air narquois en fixant {o2}.
+
+EN: {A} moans in silent anguish.
+FR: {S1} gémit dans une angoisse silencieuse.
+
+EN: {A} shimmers eerily.
+FR: {S1} chatoie de façon sinistre.
+
+EN: {A} beckons forth its champion.
+FR: {S1} appelle son champion.
+
+EN: {A} looks around.
+FR: {S1} regarde autour de lui.
+
+EN: {A} stares at {A}.
+FR: {S1} dévisage {o2}.
+
+EN: You feel you are being watched by something.
+FR: Vous avez l’impression d’être observé par quelque chose.
+
+EN: {A} pulsates.
+FR: {S1} pulse.
+
+EN: {A} blinks at {A}.
+FR: {S1} cligne des yeux vers {o2}.
+
+EN: {A} coils up and waves {p} upper body at {A}.
+FR: {S1} s’enroule et agite le haut de son corps vers {o2}.
+
+EN: {A} gestures with {p} tail at {A}.
+FR: {S1} fait un geste de la queue vers {o2}.
+
+EN: {A} weaves intricate patterns with the tip of {p} tongue.
+FR: {S1} trace de complexes motifs du bout de la langue.
+
+EN: {A} flaps {p} wings at {A}.
+FR: {S1} bat des ailes vers {o2}.
+
+EN: {A} screeches a warning cry!
+FR: {S1} pousse un cri d’alerte strident !
+
+EN: You hear a tremendous hooting and howling!
+FR: Vous entendez un formidable hululement et hurlement !
+
+EN: {A} hoots and howls with incredible vigour!
+FR: {S1} hulule et hurle avec une vigueur incroyable !
+
+EN: Strange energies crackle from {I} apparatus.
+FR: D’étranges énergies crépitent de l’appareil {d1}.
+
+EN: {A} blasts {p} cannon at {A}.
+FR: {S1} tire son canon sur {o2}.
+
+EN: {A} cackles and gestures.
+FR: {S1} ricane et fait des gestes.
+
+EN: {A} chants and writhes.
+FR: {S1} psalmodie en se tordant.
+
+EN: {A} cackles spitefully.
+FR: {S1} ricane avec dépit.
+
+EN: {A} gibbers with scorn.
+FR: {S1} jacasse de mépris.
+
+EN: {A} lets out a vicious peal of laughter.
+FR: {S1} lâche un éclat de rire vicieux.
+
+EN: {A} mockingly cackles in silence.
+FR: {S1} ricane en silence d’un air moqueur.
+
+EN: {A} violently rattles with glee.
+FR: {S1} s’entrechoque violemment de joie.
+
+EN: You hear spiteful cackling.
+FR: Vous entendez un ricanement mesquin.
+
+EN: You hear scornful gibbering.
+FR: Vous entendez un jacassement méprisant.
+
+EN: {A} flicks {p} tail.
+FR: {S1} fouette l’air de sa queue.
+
+EN: {A} glitters.
+FR: {S1} scintille.
+
+EN: {A} fixes {p} piercing gaze on {A}.
+FR: {S1} plante son regard perçant sur {o2}.
+
+EN: {A} glows yellow.
+FR: {S1} luit de jaune.
+
+EN: {A} glows bright magenta.
+FR: {S1} luit d’un magenta vif.
+
+EN: {A} glows deep purple.
+FR: {S1} luit d’un violet profond.
+
+EN: {A} glows red.
+FR: {S1} luit de rouge.
+
+EN: {A} emits a lurid red light.
+FR: {S1} émet une lueur rouge sinistre.
+
+EN: {A} pulses.
+FR: {S1} pulse.
+
+EN: {A} vibrates.
+FR: {S1} vibre.
+
+EN: {A} gnaws at the world.
+FR: {S1} ronge le monde.
+
+EN: {A} eats away at reality.
+FR: {S1} ronge la réalité.
+
+EN: Existence decays around {A}.
+FR: L’existence se décompose autour {d1}.
+
+EN: {A} glitters with frost.
+FR: {S1} scintille de givre.
+
+EN: {A} swirls like a blizzard.
+FR: {S1} tourbillonne comme un blizzard.
+
+EN: {A} glows icy blue.
+FR: {S1} luit d’un bleu glacé.
+
+EN: {A} glows with a pale light.
+FR: {S1} luit d’une lueur pâle.
+
+EN: {A} glows sapphire.
+FR: {S1} brille d’un éclat saphir.
+
+EN: {I} eyes glow briefly.
+FR: Les yeux {d1} brillent brièvement.
+
+EN: {A} harnesses the cleansing power of fire!
+FR: {S1} exploite le pouvoir purificateur du feu !
+
+EN: Something harnesses the cleansing power of fire!
+FR: Quelque chose exploite le pouvoir purificateur du feu !
+
+EN: {A} focuses its will at {A}.
+FR: {S1} concentre sa volonté sur {o2}.
+
+EN: {A} lashes out with ghostly flames.
+FR: {S1} fouette l’air de flammes spectrales.
+
+EN: {A} conjures spectral mists around {A}.
+FR: {S1} invoque des brumes spectrales autour de {o2}.
+
+EN: {A} gestures violently at {A}.
+FR: {S1} fait un geste violent vers {o2}.
+
+EN: {A} plays a rousing melody on {p} pipes!
+FR: {S1} joue une mélodie entraînante de son pipeau !
+
+EN: {A} plays a frightful melody on {p} pipes!
+FR: {S1} joue une mélodie effrayante de son pipeau !
+
+EN: {A} plays a lulling melody on {p} pipes!
+FR: {S1} joue une mélodie berçante de son pipeau !
+
+EN: {A} shines with woeful anguish.
+FR: {S1} brille d’une angoisse lamentable.
+
+EN: {A} rattles its vertebrae in radiant agony.
+FR: {S1} fait cliqueter ses vertèbres dans une agonie radieuse.
+
+EN: An echo of {A} flickers and hopelessly wails at {A}.
+FR: Un écho {d1} vacille et gémit sans espoir vers {o2}.
+
+EN: {A} launches toxic spines at {A}.
+FR: {S1} lance des épines toxiques sur {o2}.
+
+EN: {A} shouts a warning to {p} allies!
+FR: {S1} crie un avertissement à ses alliés !
+
+EN: You hear a loud warning shout!
+FR: Vous entendez un fort cri d’avertissement !
+
+EN: {A} slips into darkness.
+FR: {S1} se glisse dans les ténèbres.
+
+EN: {A} spits a shard of ice at {A}.
+FR: {S1} crache un éclat de glace sur {o2}.
+
+EN: {A} roars an obscure riddle with a strange tongue.
+FR: {S1} rugit une énigme obscure dans une langue étrange.
+
+EN: {A} roars a perplexing riddle with a strange tongue.
+FR: {S1} rugit une énigme déroutante dans une langue étrange.
+
+EN: {A} screeches an impossible riddle in a mystic tongue.
+FR: {S1} crie une énigme impossible dans une langue mystique.
+
+EN: {A} screeches a nonsensical riddle in a mystic tongue.
+FR: {S1} hurle une énigme absurde dans une langue mystique.
+
+EN: {A} screeches a cliché riddle in a mystic tongue.
+FR: {S1} crie une énigme éculée dans une langue mystique.
+
+EN: {A} mutters an ancient curse at {A}.
+FR: {S1} murmure une ancienne malédiction contre {o2}.
+
+EN: {A} whispers a stupefying mystic riddle.
+FR: {S1} chuchote une énigme mystique stupéfiante.
+
+EN: {A} whispers a staggering mystic riddle.
+FR: {S1} chuchote une énigme mystique ahurissante.
+
+EN: {A} discharges a tendril of electricity.
+FR: {S1} décharge un filament d’électricité.
+
+EN: {I} wings beat fiercely.
+FR: Les ailes {d1} battent avec force.
+
+EN: A wild whirl of fire shoots out from {A} at {A}.
+FR: Un tourbillon de feu sauvage jaillit {d1} vers {o2}.
+
+EN: {A} overcharges and releases excess heat at {A}.
+FR: {S1} se surcharge et libère l’excès de chaleur vers {o2}.
+
+EN: A wild whirl of ice shoots out from {A} at {A}.
+FR: Un tourbillon sauvage de glace jaillit {d1} vers {o2}.
+
+EN: {A} overflows with ice and vents excess cold at {A}.
+FR: {S1} déborde de glace et libère un excès de froid sur {o2}.
+
+EN: You hear a violent whirl.
+FR: Vous entendez un violent tourbillon.
+
+EN: {A} churns violently!
+FR: {S1} se tord violemment !
+
+EN: {A} reaches out for {A}.
+FR: {S1} tend la main vers {o2}.
+
+EN: A weapon leaps out from {A} and lunges at {A}!
+FR: Une arme jaillit {d1} et se jette sur {o2} !
+
+EN: {A} shakes and rattles.
+FR: {S1} tremble et cliquette.
+
+EN: {A} shakes and rattles deafeningly!
+FR: {S1} tremble et cliquette à rendre sourd !
+
+EN: You hear a deafening rattling sound!
+FR: Vous entendez un cliquetis assourdissant !
+
+EN: {A} gestures stiffly at {A}.
+FR: {S1} fait un geste raide vers {o2}.
+
+EN: You hear a note loudly blown on a horn!
+FR: Vous entendez une note sonnée fort dans un cor !
+
+EN: {A} blows a loud note on a signal horn!
+FR: {S1} sonne une note puissante dans un cor de signal !
+
+EN: {A} unleashes gushing sobs.
+FR: {S1} déchaîne des sanglots intarissables.
+
+EN: {A} releases gushing sobs.
+FR: {S1} libère des sanglots intarissables.
+
+EN: {I} misery bubbles over.
+FR: La misère {d1} déborde.
+
+EN: {I} misery overflows.
+FR: La misère {d1} se répand.
+
+EN: You hear gushing sobs.
+FR: Vous entendez des sanglots intarissables.
+
+EN: {A} exhales a fierce blast of wind!
+FR: {S1} exhale une violente rafale de vent !
+
+EN: {A} pulses with an eldritch light!
+FR: {S1} pulse d’une lumière surnaturelle !
+
+EN: {A} glows turbulently.
+FR: {S1} luit de façon turbulente.
+
+EN: {A} reaches out {p} hand.
+FR: {S1} tend la main.
+
+EN: {A} snaps {p} fingers.
+FR: {S1} claque des doigts.
+
+EN: {A} unfurls {p} wings.
+FR: {S1} déploie ses ailes.
+
+EN: {A} spreads {p} arms wide.
+FR: {S1} écarte grand les bras.
+
+EN: {A} exerts the full weight of {p} authority.
+FR: {S1} fait peser tout le poids de son autorité.
+
+EN: {A} compels the dead to obey.
+FR: {S1} force les morts à obéir.
+
+EN: {A} whispers, "Kneel."
+FR: {S1} chuchote : « À genoux. »
+
+EN: {A} seems to occupy many places at once.
+FR: {S1} semble occuper plusieurs endroits à la fois.
+
+EN: {A} squirts acid at {A}.
+FR: {S1} projette de l’acide sur {o2}.
+
+EN: {A} stares into the soul of {A}.
+FR: {S1} plonge son regard dans l’âme de {o2}.
+
+EN: {A} freezes your soul cold.
+FR: {S1} glace votre âme.
+
+EN: {A} stares at {A} and mumbles some strange words.
+FR: {S1} dévisage {o2} en marmonnant d’étranges paroles.
+
+EN: {A} gestures at {A} while chanting.
+FR: {S1} désigne {o2} en psalmodiant.
+
+EN: {A} points at {A} and mumbles some strange words.
+FR: {S1} désigne {o2} en marmonnant d’étranges paroles.
+
+EN: {A} gestures wildly while chanting.
+FR: {S1} gesticule frénétiquement en psalmodiant.
+
+EN: {A} gestures at {A}.
+FR: {S1} désigne {o2}.
+
+EN: {A} gestures.
+FR: {S1} fait un geste.
+
+EN: You hear some strange, mumbled words.
+FR: Vous entendez d’étranges paroles marmonnées.
+
+EN: {A} gazes at {A}.
+FR: {S1} fixe {o2} du regard.
+
+EN: You feel something staring at you.
+FR: Vous sentez quelque chose vous fixer.
+
+EN: {A} waves {p} antennae.
+FR: {S1} agite ses antennes.
+
 EN: The wavering orb of destruction weakly hits {A}!
 FR: L’orbe de destruction vacillant touche faiblement {o1} ! ¦ L’orbe de destruction vacillant vous touche faiblement !
 
 EN: The wavering orb of destruction weakly hits {A}.
 FR: L’orbe de destruction vacillant touche faiblement {o1}. ¦ L’orbe de destruction vacillant vous touche faiblement.
-
-EN: {A} breathes a rupture in space-time at {A}.
-FR: {S1} souffle une déchirure de l’espace-temps sur {o2} {S1} souffle une déchirure de l’espace-temps sur.
 
 EN: {A} breathes a rupture in space-time at you.
 FR: {S1} souffle une déchirure de l’espace-temps sur vous {S1} souffle une déchirure de l’espace-temps sur.
@@ -3169,9 +4495,6 @@ FR: {S1} souffle une brume spectrale sur {o2} !
 EN: {A} breathes spectral mist at you!
 FR: {S1} souffle une brume spectrale sur vous !
 
-EN: {A} fires a burst of electricity at {A}.
-FR: {S1} tire une salve d’électricité sur {o2}.
-
 EN: {A} fires a burst of electricity at you.
 FR: {S1} tire une salve d’électricité sur vous.
 
@@ -3181,9 +4504,6 @@ FR: {S1} tire une salve d’électricité sur {o2} !
 EN: {A} fires a burst of electricity at you!
 FR: {S1} tire une salve d’électricité sur vous !
 
-EN: {A} spits a shard of ice at {A}.
-FR: {S1} crache un éclat de glace sur {o2}.
-
 EN: {A} spits a shard of ice at you.
 FR: {S1} crache un éclat de glace sur vous.
 
@@ -3192,9 +4512,6 @@ FR: {S1} crache un éclat de glace sur {o2} !
 
 EN: {A} spits a shard of ice at you!
 FR: {S1} crache un éclat de glace sur vous !
-
-EN: {A} spits acid at {A}.
-FR: {S1} crache de l’acide sur {o2}.
 
 EN: {A} spits acid at you.
 FR: {S1} crache de l’acide sur vous.
@@ -3229,9 +4546,6 @@ FR: {S1} libère des spores sur {o2} !
 EN: {A} releases spores at you!
 FR: {S1} libère des spores sur vous !
 
-EN: {A} gazes at {A}.
-FR: {S1} fixe {o2} du regard.
-
 EN: {A} gazes at you.
 FR: {S1} fixe vous du regard.
 
@@ -3240,9 +4554,6 @@ FR: {S1} fixe {o2} du regard !
 
 EN: {A} gazes at you!
 FR: {S1} fixe vous du regard !
-
-EN: {A} gestures at {A}.
-FR: {S1} désigne {o2}.
 
 EN: {A} gestures at you.
 FR: {S1} vous désigne.
@@ -3259,9 +4570,6 @@ FR: {S1} regarde férocement à travers {o2}.
 EN: {A} gazes fiercely through you.
 FR: {S1} regarde férocement à travers vous.
 
-EN: {A} gazes fiercely through {A}!
-FR: {S1} regarde férocement à travers {o2} !
-
 EN: {A} gazes fiercely through you!
 FR: {S1} regarde férocement à travers vous !
 
@@ -3271,9 +4579,6 @@ FR: {S1} déchire la terre sous {o2}.
 EN: {A} rends the earth beneath you.
 FR: {S1} déchire la terre sous vous.
 
-EN: {A} rends the earth beneath {A}!
-FR: {S1} déchire la terre sous {o2} !
-
 EN: {A} rends the earth beneath you!
 FR: {S1} déchire la terre sous vous !
 
@@ -3282,9 +4587,6 @@ FR: {S1} glisse ses racines sous {o2}.
 
 EN: {A} runs its roots beneath you.
 FR: {S1} glisse ses racines sous vous.
-
-EN: {A} runs its roots beneath {A}!
-FR: {S1} glisse ses racines sous {o2} !
 
 EN: {A} runs its roots beneath you!
 FR: {S1} glisse ses racines sous vous !
@@ -3300,9 +4602,6 @@ FR: {S1} lance une boule de magie destructrice sur {o2} !
 
 EN: {A} launches a ball of destructive magic at you!
 FR: {S1} lance une boule de magie destructrice sur vous !
-
-EN: {A} glows sapphire.
-FR: {S1} brille d’un éclat saphir.
 
 EN: {A} drains the heat from the surrounding environment!
 FR: {S1} aspire la chaleur environnante !
@@ -3321,9 +4620,6 @@ FR: L’espace se tord violemment !
 
 EN: Space warps around {A}.
 FR: L’espace se déforme autour {d1}. ¦ L’espace se déforme autour de vous.
-
-EN: {A} rattles its vertebrae in radiant agony.
-FR: {S1} fait cliqueter ses vertèbres dans une agonie radieuse.
 
 EN: {A} is filled with unearthly specular energy.
 FR: {S1} est rempli{e1} d’une énergie spéculaire surnaturelle.
@@ -3364,17 +4660,8 @@ FR: {S1} pulse en motifs instables.
 EN: {A} freezes {A} terribly!
 FR: {S1} gèle {o2} terriblement !
 
-EN: {A} gestures wildly while chanting.
-FR: {S1} gesticule frénétiquement en psalmodiant.
-
-EN: {A} gestures at {A} while chanting.
-FR: {S1} désigne {o2} en psalmodiant.
-
 EN: {A} gestures at you while chanting.
 FR: {S1} vous désigne en psalmodiant.
-
-EN: {A} calls forth blessed flames!
-FR: {S1} fait surgir des flammes bénies !
 
 EN: {A} is engulfed in blessed fire.
 FR: {S1} est englouti{e1} par un feu béni.
@@ -3384,12 +4671,6 @@ FR: {S1} tire un carreau.
 
 EN: {A} forges a skittering defender to stand by its side.
 FR: {S1} forge un défenseur grouillant qui se tient à ses côtés.
-
-EN: {A} shimmers eerily.
-FR: {S1} chatoie de façon sinistre.
-
-EN: {A} looks satisfied for a moment.
-FR: {S1} semble satisfait{e1} un instant.
 
 EN: A magical hammer augments {A} in a flurry of sparks and slag.
 FR: Un marteau magique renforce {o1} dans une gerbe d’étincelles et de scories.
@@ -3412,32 +4693,17 @@ FR: L’air libre tournoie violemment et frappe {o1} ! ¦ L’air libre tournoie
 EN: {A} summons a swarm of flies.
 FR: {S1} invoque un essaim de mouches.
 
-EN: {A} roars an obscure riddle with a strange tongue.
-FR: {S1} rugit une énigme obscure dans une langue étrange.
-
-EN: {A} screeches a nonsensical riddle in a mystic tongue.
-FR: {S1} hurle une énigme absurde dans une langue mystique.
-
 EN: {A} conjures a destructive force in the name of {X}!
 FR: {S1} invoque une force destructrice au nom de {x2} !
 
 EN: {A} breaks free of the grasping roots!
 FR: {S1} se libère des racines agrippantes !
 
-EN: {A} calls on the powers of chaos!
-FR: {S1} appelle les puissances du chaos !
-
 EN: {A} shouts a warning to its allies!
 FR: {S1} crie un avertissement à ses alliés !
 
 EN: {A} throws a large rock.
 FR: {S1} lance un gros rocher.
-
-EN: {A} writhes about, and something writhes within {A}.
-FR: {S1} se tord, et quelque chose se tord dans {o2}.
-
-EN: {A} sings a powerful hymn!
-FR: {S1} chante un puissant hymne !
 
 EN: The angels go into a battle-frenzy!
 FR: Les anges entrent dans une frénésie de combat !
@@ -3450,15 +4716,6 @@ FR: {S1} se dissout dans les ombres !
 
 EN: {A} falls into the water!
 FR: {S1} tombe dans l’eau !
-
-EN: Water spirits pour forth from {A}!
-FR: Des esprits aquatiques jaillissent {d1} !
-
-EN: A torrent of water rises up through {A}!
-FR: Un torrent d’eau jaillit à travers {o1} !
-
-EN: {A} launches a ball of destructive magic.
-FR: {S1} lance une boule de magie destructrice.
 
 EN: {A} drones a funeral chant.
 FR: {S1} entonne un chant funèbre d’une voix monotone.
@@ -3475,20 +4732,8 @@ FR: {S1} finit d’expulser l’eau de ses poumons.
 EN: {A} flickers and vanishes for a moment.
 FR: {S1} vacille et disparaît un instant.
 
-EN: {A} conjures an orb of pure magic.
-FR: {S1} conjure un orbe de magie pure.
-
 EN: {A} marvels to itself over the thinness of mortal minds.
 FR: {S1} s’émerveille en son for intérieur de la minceur des esprits mortels.
-
-EN: {A} glimmers violently.
-FR: {S1} miroite violemment.
-
-EN: {A} discharges a tendril of electricity.
-FR: {S1} décharge un filament d’électricité.
-
-EN: {A} looks braver for a moment.
-FR: {S1} paraît plus brave un instant.
 
 EN: The air becomes perfectly still.
 FR: L’air devient parfaitement immobile.
@@ -3952,9 +5197,6 @@ FR: {S1} souffle un chaos bouillonnant sur {o2} !
 EN: {A} breathes seething chaos at you!
 FR: {S1} souffle un chaos bouillonnant sur vous !
 
-EN: {A} breathes a plume of calcifying dust at {A}.
-FR: {S1} souffle un panache de poussière calcifiante sur {o2}.
-
 EN: {A} breathes a plume of calcifying dust at you.
 FR: {S1} souffle un panache de poussière calcifiante sur vous.
 
@@ -3987,9 +5229,6 @@ FR: {S1} lance un miasme sur {o2} !
 
 EN: {A} throws miasma at you!
 FR: {S1} lance un miasme sur vous !
-
-EN: {A} hurls a bolas at {A}.
-FR: {S1} lance une bolas sur {o2}.
 
 EN: {A} hurls a bolas at you.
 FR: {S1} lance une bolas sur vous.
@@ -4036,9 +5275,6 @@ FR: {S1} lance une volée de pointes sur {o2} !
 EN: {A} throws volley of spikes at you!
 FR: {S1} lance une volée de pointes sur vous !
 
-EN: {A} spits poison at {A}.
-FR: {S1} crache du poison sur {o2}.
-
 EN: {A} spits poison at you.
 FR: {S1} crache du poison sur vous.
 
@@ -4047,9 +5283,6 @@ FR: {S1} crache du poison sur {o2} !
 
 EN: {A} spits poison at you!
 FR: {S1} crache du poison sur vous !
-
-EN: {A} fires a harpoon shot at {A}.
-FR: {S1} tire un harpon sur {o2}.
 
 EN: {A} fires a harpoon shot at you.
 FR: {S1} tire un harpon sur vous.
@@ -4072,9 +5305,6 @@ FR: {S1} décoche un éclair sur {o2} !
 EN: {A} shoots out a bolt of lightning at you!
 FR: {S1} décoche un éclair sur vous !
 
-EN: {A} flicks its quills at {A}.
-FR: {S1} projette ses piquants sur {o2}.
-
 EN: {A} flicks its quills at you.
 FR: {S1} projette ses piquants sur vous.
 
@@ -4096,9 +5326,6 @@ FR: {S1} lance des éclats de métal sur {o2} !
 EN: {A} launches metal splinters at you!
 FR: {S1} lance des éclats de métal sur vous !
 
-EN: {A} stares at {A}.
-FR: {S1} dévisage {o2}.
-
 EN: {A} stares at you.
 FR: {S1} vous dévisage.
 
@@ -4108,9 +5335,6 @@ FR: {S1} dévisage {o2} !
 EN: {A} stares at you!
 FR: {S1} vous dévisage !
 
-EN: {A} stares piercingly at {A}.
-FR: {S1} dévisage d’un regard perçant {o2}.
-
 EN: {A} stares piercingly at you.
 FR: {S1} dévisage d’un regard perçant vous.
 
@@ -4119,9 +5343,6 @@ FR: {S1} dévisage d’un regard perçant {o2} !
 
 EN: {A} stares piercingly at you!
 FR: {S1} dévisage d’un regard perçant vous !
-
-EN: {A} mutters an ancient curse at {A}.
-FR: {S1} murmure une ancienne malédiction contre {o2}.
 
 EN: {A} mutters an ancient curse at you.
 FR: {S1} murmure une ancienne malédiction contre vous.
@@ -4143,9 +5364,6 @@ FR: {S1} tisse une vague de chair vers {o2} !
 
 EN: {A} weaves a wave of flesh at you!
 FR: {S1} tisse une vague de chair vers vous !
-
-EN: {A} weaves a phantasmal image and fires it at {A}.
-FR: {S1} tisse une image fantasmagorique et la projette sur {o2}.
 
 EN: {A} weaves a phantasmal image and fires it at you.
 FR: {S1} tisse une image fantasmagorique et la projette sur vous.
@@ -4228,9 +5446,6 @@ FR: {S1} se surcharge et libère un excès de chaleur sur {o2} !
 EN: {A} overcharges itself and releases excess heat at you!
 FR: {S1} se surcharge et libère un excès de chaleur sur vous !
 
-EN: {A} overflows with ice and vents excess cold at {A}.
-FR: {S1} déborde de glace et libère un excès de froid sur {o2}.
-
 EN: {A} overflows with ice and vents excess cold at you.
 FR: {S1} déborde de glace et libère un excès de froid sur vous.
 
@@ -4251,9 +5466,6 @@ FR: {S1} se tord de joie en concentrant sa volonté sur {o2} !
 
 EN: {A} writhes with glee as it focuses its will at you!
 FR: {S1} se tord de joie en concentrant sa volonté sur vous !
-
-EN: {A} focuses its will at {A}.
-FR: {S1} concentre sa volonté sur {o2}.
 
 EN: {A} focuses its will at you.
 FR: {S1} concentre sa volonté sur vous.
@@ -4311,9 +5523,6 @@ FR: {S1} bat des ailes vers {o2} !
 
 EN: {A} flaps its wings at you!
 FR: {S1} bat des ailes vers vous !
-
-EN: {A} reaches out for {A}.
-FR: {S1} tend la main vers {o2}.
 
 EN: {A} reaches out for you.
 FR: {S1} tend la main vers vous.
@@ -4396,9 +5605,6 @@ FR: {S1} fixe d’un regard perçant {o2} !
 EN: {A} fixes its piercing gaze on you!
 FR: {S1} vous fixe d’un regard perçant !
 
-EN: {A} smirks and gazes at {A}.
-FR: {S1} sourit d’un air narquois en fixant {o2}.
-
 EN: {A} smirks and gazes at you.
 FR: {S1} sourit d’un air narquois en vous fixant.
 
@@ -4432,9 +5638,6 @@ FR: {S1} lance un sort à côté de {o2} !
 EN: {A} casts a spell next to you!
 FR: {S1} lance un sort à côté de vous !
 
-EN: {A} casts a spell at {A}.
-FR: {S1} lance un sort sur {o2}.
-
 EN: {A} casts a spell at you.
 FR: {S1} lance un sort sur vous.
 
@@ -4467,9 +5670,6 @@ FR: {S1} implore son dieu de renforcer {o2} !
 
 EN: {A} calls upon its god to strengthen you!
 FR: {S1} implore son dieu de vous renforcer !
-
-EN: {A} conjures spectral mists around {A}.
-FR: {S1} invoque des brumes spectrales autour de {o2}.
 
 EN: {A} conjures spectral mists around you.
 FR: {S1} invoque des brumes spectrales autour de vous.
@@ -4600,9 +5800,6 @@ FR: {S1} frappe {o2} !
 EN: {A} punches you!
 FR: {S1} vous frappe !
 
-EN: {A} blasts a torrent of magma at {A}.
-FR: {S1} projette un torrent de magma sur {o2}.
-
 EN: {A} blasts a torrent of magma at you.
 FR: {S1} projette un torrent de magma sur vous.
 
@@ -4611,9 +5808,6 @@ FR: {S1} projette un torrent de magma sur {o2} !
 
 EN: {A} blasts a torrent of magma at you!
 FR: {S1} projette un torrent de magma sur vous !
-
-EN: {A} spits lava at {A}.
-FR: {S1} crache de la lave sur {o2}.
 
 EN: {A} spits lava at you.
 FR: {S1} crache de la lave sur vous.
@@ -4647,9 +5841,6 @@ FR: {S1} souffle du froid sur {o2} !
 
 EN: {A} breathes cold at you!
 FR: {S1} souffle du froid sur vous !
-
-EN: {A} sprays incendiary fluid at {A}.
-FR: {S1} projette un liquide incendiaire sur {o2}.
 
 EN: {A} sprays incendiary fluid at you.
 FR: {S1} projette un liquide incendiaire sur vous.
@@ -4747,14 +5938,8 @@ FR: {S1} vous pique de loin !
 EN: {A} throws {A} at {A}!
 FR: {S1} lance {o2} sur {o3} !
 
-EN: {A} points at {A} and mumbles some strange words.
-FR: {S1} désigne {o2} en marmonnant d’étranges paroles.
-
 EN: {A} points at you and mumbles some strange words.
 FR: {S1} vous désigne en marmonnant d’étranges paroles.
-
-EN: {A} stares at {A} and mumbles some strange words.
-FR: {S1} dévisage {o2} en marmonnant d’étranges paroles.
 
 EN: {A} stares at you and mumbles some strange words.
 FR: {S1} vous dévisage en marmonnant d’étranges paroles.
@@ -4801,20 +5986,8 @@ FR: Le cadavre {d1} se dissout dans les ombres !
 EN: {I} corpse shimmers and vanishes!
 FR: Le cadavre {d1} miroite et s’évanouit !
 
-EN: {A} calls on the powers of darkness!
-FR: {S1} appelle les puissances des ténèbres !
-
 EN: {A} draws from the surrounding life force!
 FR: {S1} puise dans la force vitale environnante !
-
-EN: {A} harnesses the cleansing power of fire!
-FR: {S1} exploite le pouvoir purificateur du feu !
-
-EN: {A} bursts into living lightning!
-FR: {S1} se change en foudre vivante !
-
-EN: {A} looks encouraged for a moment.
-FR: {S1} semble encouragé{e1} un instant.
 
 EN: {A} pulsates ominously.
 FR: {S1} pulse de façon inquiétante.
@@ -4825,23 +5998,8 @@ FR: {S1} frétille.
 EN: {A} laughs crazily.
 FR: {S1} rit comme un fou.
 
-EN: {A} glitters.
-FR: {S1} scintille.
-
 EN: {A} crackles and sizzles.
 FR: {S1} crépite et grésille.
-
-EN: {A} crackles with melancholic malice.
-FR: {S1} crépite d’une malice mélancolique.
-
-EN: {A} roars with sorrowful spite.
-FR: {S1} rugit d’une rancune chagrine.
-
-EN: {A} slips into darkness.
-FR: {S1} se glisse dans les ténèbres.
-
-EN: {A} conjures a glowing orb.
-FR: {S1} conjure un orbe luisant.
 
 EN: {A} shoots a slug.
 FR: {S1} tire une balle de plomb.
@@ -4857,12 +6015,6 @@ FR: {S1} agite les bras en grands cercles.
 
 EN: {A} invokes Trog's protection!
 FR: {S1} invoque la protection de Trog !
-
-EN: {A} seems to occupy many places at once.
-FR: {S1} semble occuper plusieurs endroits à la fois.
-
-EN: {A} weaves an illusion.
-FR: {S1} tisse une illusion.
 
 EN: {A} disperses!
 FR: {S1} se disperse !
@@ -4890,9 +6042,6 @@ FR: {S1} se débarrasse de la flamme collante en bougeant.
 
 EN: {A} begins to accept its allies' injuries.
 FR: {S1} commence à accepter les blessures de ses alliés.
-
-EN: {A} erupts in a flurry of living spells!
-FR: {S1} explose en une rafale de sorts vivants !
 
 EN: {A} utters an invocation to its god.
 FR: {S1} prononce une invocation à son dieu.
@@ -4975,14 +6124,8 @@ FR: {S1} entrelace sans passion des dimensions lointaines.
 EN: {A} prays to {X}.
 FR: {S1} prie {x2}.
 
-EN: Electricity crackles from {I} apparatus.
-FR: L’électricité crépite de l’appareil {d1}.
-
 EN: ooze floods into {I} lungs!
 FR: La vase envahit les poumons {d1} !
-
-EN: A wild whirl of fire shoots out from {A} at {A}.
-FR: Un tourbillon de feu sauvage jaillit {d1} vers {o2}.
 
 EN: {A} calls forth creatures from the Elven Halls!
 FR: {S1} appelle des créatures des Halls Elfiques !
@@ -5025,9 +6168,6 @@ FR: {S1} tend la main.
 
 EN: {A} unfurls their wings.
 FR: {S1} déploie ses ailes.
-
-EN: {A} beckons forth its champion.
-FR: {S1} appelle son champion.
 
 EN: {A} falls apart and the last of its fire goes out.
 FR: {S1} s’effondre et ses dernières flammes s’éteignent.
@@ -6529,9 +7669,6 @@ FR: {S1} est modérément blessé{e1}.
 EN: {A} is lightly wounded.
 FR: {S1} est légèrement blessé{e1}.
 
-EN: {A} shouts!
-FR: {S1} crie !
-
 EN: {A} is attracted toward you.
 FR: {S1} est attiré{e1} vers vous.
 
@@ -6549,18 +7686,6 @@ FR: {S1} apparaît dans une gerbe d’étincelles.
 
 EN: {A} materialises.
 FR: {S1} se matérialise.
-
-EN: {A} beckons forth restless souls!
-FR: {S1} appelle des âmes agitées !
-
-EN: {A} gurgles horribly!
-FR: {S1} gargouille horriblement !
-
-EN: {A} growls angrily.
-FR: {S1} grogne avec colère.
-
-EN: {A} trumpets!
-FR: {S1} barrit !
 
 EN: {A} howls an incantation.
 FR: {S1} hurle une incantation.
@@ -6589,24 +7714,6 @@ FR: {S1} miroite farouchement en psalmodiant d’indéchiffrables hymnes.
 EN: {A} invokes a beneficient rending in the name of Lugonu.
 FR: {S1} invoque un déchirement bénéfique au nom de Lugonu.
 
-EN: {A} begins to recite a word of recall!
-FR: {S1} commence à réciter un mot de rappel !
-
-EN: {A} calls freezing cold from the walls.
-FR: {S1} fait surgir un froid glacial des murs.
-
-EN: {A} blows a loud note on a signal horn!
-FR: {S1} sonne une note puissante dans un cor de signal !
-
-EN: {A} roars a perplexing riddle with a strange tongue.
-FR: {S1} rugit une énigme déroutante dans une langue étrange.
-
-EN: {A} glows turbulently.
-FR: {S1} luit de façon turbulente.
-
-EN: {A} pulses with an eldritch light!
-FR: {S1} pulse d’une lumière surnaturelle !
-
 EN: {A} revs up and whimsically whirls.
 FR: {S1} s’emballe et tournoie capricieusement.
 
@@ -6622,9 +7729,6 @@ FR: {S1} clignote vers vous.
 EN: {A} blinks.
 FR: {S1} clignote.
 
-EN: {A} gestures.
-FR: {S1} fait un geste.
-
 EN: {A} blocks your attack.
 FR: {S1} bloque votre attaque.
 
@@ -6636,9 +7740,6 @@ FR: {S1} est englouti{e1} par les flammes !
 
 EN: {A} can see invisible.
 FR: {S1} voit l’invisible.
-
-EN: {A} gestures, and weapons take to the air!
-FR: {S1} fait un geste, et des armes s’élèvent dans les airs !
 
 EN: {A} laughs, "Think you're sharper than me?"
 FR: {S1} rit : « Vous croyez être plus affûté que moi ? »
@@ -7186,20 +8287,8 @@ FR: Vous ouvrez le portail.
 EN: You open the huge gate.
 FR: Vous ouvrez l’immense portail.
 
-EN: You hear a bark!
-FR: Vous entendez un aboiement !
-
-EN: You hear a horrible gurgling sound!
-FR: Vous entendez un horrible gargouillis !
-
-EN: You hear a roar!
-FR: Vous entendez un rugissement !
-
 EN: You hear a sizzling sound!
 FR: Vous entendez un grésillement !
-
-EN: You hear a trumpeting!
-FR: Vous entendez un barrissement !
 
 EN: You hear the lone wailing of a funeral chant nearby.
 FR: Vous entendez la lamentation solitaire d’un chant funèbre à proximité.
@@ -7491,12 +8580,6 @@ FR: Bienvenue dans les Mines orques !
 
 EN: The Realm of Zot is guarded by orbs of winter.
 FR: Le Royaume de Zot est gardé par des orbes d’hiver.
-
-EN: You hear a deafening roar!
-FR: Vous entendez un rugissement assourdissant !
-
-EN: You hear an angry growl.
-FR: Vous entendez un grognement furieux.
 
 EN: You cannot affect that.
 FR: Vous ne pouvez pas affecter cela.

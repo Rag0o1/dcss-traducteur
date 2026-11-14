@@ -11,6 +11,11 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.21.6 — audit de dat/database : sorts et cris de monstres
+
+- Nouveau `phrases_a_trous/database_monstres.js` (447 phrases, généré par `outils/db/gen.py` depuis `outils/db/*.txt`) : échecs de sorts (miscast), cris et bruits (shout, « Vous entendez un aboiement ! ») et annonces de sorts de monstres (monspell.txt : « Le chacal tire un harpon sur vous. », « Sigmund conjure un orbe luisant. »…).
+- Reste à faire : godspeak (dieux), miscname (enfer, messages d’accueil), titres de Xom/Pakellas/Fedhas.
+
 ## 0.21.5 — audit de dat/database : uniques et fuites
 
 - Nouveau `titres_uniques.js` : les 87 titres des monstres uniques (montitle.txt), de « Agnes la Vagabonde » à « Zenata, Chercheuse de Sheza ». Corrige aussi « Urug la Baliste orque ».
