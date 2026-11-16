@@ -2732,7 +2732,7 @@ EN: Your strength is siphoned away, and you feel your attacks grow feeble!
 FR: Votre force est siphonnée, et vous sentez vos attaques s’affaiblir !
 
 EN: Your summoned allies are dismissed!
-FR: Vos alliés invoqués sont renvoyés !
+FR: Vos alliés convoqués sont renvoyés !
 
 EN: Your supernatural speed expires.
 FR: Votre vitesse surnaturelle expire.

@@ -11,6 +11,12 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.21.7 — audit du dictionnaire : nettoyage et cohérence
+
+- 85 entrées mortes supprimées (écrasées par une traduction plus récente, jamais affichées), surtout dans `officiel.js`.
+- 966 apostrophes droites remplacées par l’apostrophe typographique dans `officiel.js`.
+- « summon » = « convoquer » partout (48 textes disaient « invoquer ») ; le métier « Invocateur » garde son nom.
+
 ## 0.21.6 — audit de dat/database : sorts et cris de monstres
 
 - Nouveau `phrases_a_trous/database_monstres.js` (447 phrases, généré par `outils/db/gen.py` depuis `outils/db/*.txt`) : échecs de sorts (miscast), cris et bruits (shout, « Vous entendez un aboiement ! ») et annonces de sorts de monstres (monspell.txt : « Le chacal tire un harpon sur vous. », « Sigmund conjure un orbe luisant. »…).

@@ -154,9 +154,6 @@ FR: Charme
 EN: Animate Dead
 FR: Animation des morts
 
-EN: Pain
-FR: Douleur
-
 EN: Soul Splinter
 FR: Éclat d’âme
 
@@ -366,9 +363,6 @@ FR: Convocation de bête du péché
 
 EN: Bolt of Devastation
 FR: Rayon de dévastation
-
-EN: Spit Poison
-FR: Crachat de poison
 
 EN: Summon Undead
 FR: Convocation de mort-vivant

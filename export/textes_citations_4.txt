@@ -329,7 +329,7 @@ EN: Hey, you killed my favourite bat!
 FR: Hé, vous avez tué ma chauve-souris préférée !
 
 EN: Summoning is fun!
-FR: Invoquer, c’est amusant !
+FR: Convoquer, c’est amusant !
 
 EN: My allies will avenge me.
 FR: Mes alliés me vengeront.

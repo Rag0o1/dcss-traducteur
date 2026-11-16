@@ -101,7 +101,7 @@ globalThis.DCSS_TRADUCTIONS.citations_3 = {
 "How much finesse does it take to swing your arms real fast, anyway?": "Quelle finesse faut-il pour agiter les bras très vite, au juste ?",
 "I could take you in a fair duel. No cheating!": "Je pourrais vous battre en duel loyal. Sans tricher !",
 "At least you've got demons for company.": "Au moins vous avez des démons pour compagnie.",
-"Are you sure that summoning demons is a good idea?": "Êtes-vous sûr qu’invoquer des démons est une bonne idée ?",
+"Are you sure that summoning demons is a good idea?": "Êtes-vous sûr que convoquer des démons est une bonne idée ?",
 "Hey, watch where you throw those bolts!": "Hé, attention où vous lancez ces éclairs !",
 "What will you do after everything's destroyed?": "Que ferez-vous quand tout sera détruit ?",
 "I hate demons.": "Je déteste les démons.",

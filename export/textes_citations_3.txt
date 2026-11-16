@@ -299,7 +299,7 @@ EN: At least you've got demons for company.
 FR: Au moins vous avez des démons pour compagnie.
 
 EN: Are you sure that summoning demons is a good idea?
-FR: Êtes-vous sûr qu’invoquer des démons est une bonne idée ?
+FR: Êtes-vous sûr que convoquer des démons est une bonne idée ?
 
 EN: Hey, watch where you throw those bolts!
 FR: Hé, attention où vous lancez ces éclairs !

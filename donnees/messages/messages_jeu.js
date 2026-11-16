@@ -168,7 +168,6 @@ globalThis.DCSS_TRADUCTIONS.messages_jeu = {
 "You hear a choir sing!": "Vous entendez un chœur chanter !",
 "You hear a deep rumble.": "Vous entendez un grondement sourd.",
 "You hear a grinding noise.": "Vous entendez un grincement.",
-"You hear a loud \"Zot\"!": "Vous entendez un puissant « Zot » !",
 "You hear a loud crackle.": "Vous entendez un fort crépitement.",
 "You hear a sizzling splash.": "Vous entendez une éclaboussure grésillante.",
 "You hear a snapping sound.": "Vous entendez un claquement sec.",

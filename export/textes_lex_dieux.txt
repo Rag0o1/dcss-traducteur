@@ -311,7 +311,7 @@ EN: You can draw from decks of power.
 FR: Vous pouvez piocher dans des jeux de puissance.
 
 EN: You can encircle yourself with summoned briar patches.
-FR: Vous pouvez vous entourer de ronces invoquées.
+FR: Vous pouvez vous entourer de ronces convoquées.
 
 EN: You can engulf your surroundings in Yredelemnul's grip.
 FR: Vous pouvez envelopper les environs dans l’emprise de Yredelemnul.
@@ -440,13 +440,13 @@ EN: You can stomp with the beat.
 FR: Vous pouvez piétiner en rythme.
 
 EN: You can summon a divine warrior.
-FR: Vous pouvez invoquer un guerrier divin.
+FR: Vous pouvez convoquer un guerrier divin.
 
 EN: You can summon a storm of heavenly clouds to empower your attacks.
-FR: Vous pouvez invoquer une tempête de nuages célestes pour renforcer vos attaques.
+FR: Vous pouvez convoquer une tempête de nuages célestes pour renforcer vos attaques.
 
 EN: You can summon an infernal servant of Makhleb.
-FR: Vous pouvez invoquer un serviteur infernal de Makhleb.
+FR: Vous pouvez convoquer un serviteur infernal de Makhleb.
 
 EN: You can surround yourself with impenetrable night.
 FR: Vous pouvez vous envelopper d’une nuit impénétrable.
@@ -518,7 +518,7 @@ EN: Your shadow sometimes tangibly mimics your actions.
 FR: Votre ombre imite parfois vos actions de façon tangible.
 
 EN: Your summoned allies will not expire while fighting evil.
-FR: Vos alliés invoqués ne disparaissent pas tant qu’ils combattent le mal.
+FR: Vos alliés convoqués ne disparaissent pas tant qu’ils combattent le mal.
 
 EN: Yredelemnul forbids you from using holy magic or items.
 FR: Yredelemnul vous interdit d’utiliser de la magie ou des objets sacrés.

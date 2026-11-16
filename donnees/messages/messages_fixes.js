@@ -913,7 +913,7 @@ globalThis.DCSS_TRADUCTIONS.messages_fixes = {
 "Your stasis prevents you from being slowed.": "Votre stase vous empêche d’être ralenti.",
 "Your stasis prevents you from teleporting.": "Votre stase vous empêche de vous téléporter.",
 "Your strength is siphoned away, and you feel your attacks grow feeble!": "Votre force est siphonnée, et vous sentez vos attaques s’affaiblir !",
-"Your summoned allies are dismissed!": "Vos alliés invoqués sont renvoyés !",
+"Your summoned allies are dismissed!": "Vos alliés convoqués sont renvoyés !",
 "Your supernatural speed expires.": "Votre vitesse surnaturelle expire.",
 "Your surroundings flicker for a moment.": "Votre environnement vacille un instant.",
 "Your surroundings seem slightly different.": "Votre environnement semble légèrement différent.",

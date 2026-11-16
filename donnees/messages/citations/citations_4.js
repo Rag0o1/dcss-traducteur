@@ -111,7 +111,7 @@ globalThis.DCSS_TRADUCTIONS.citations_4 = {
 "Wait! Erolcha supposed to do that!": "Attendre ! Erolcha censé faire ça !",
 "At last I'll have my revenge!": "Enfin j’aurai ma revanche !",
 "Hey, you killed my favourite bat!": "Hé, vous avez tué ma chauve-souris préférée !",
-"Summoning is fun!": "Invoquer, c’est amusant !",
+"Summoning is fun!": "Convoquer, c’est amusant !",
 "My allies will avenge me.": "Mes alliés me vengeront.",
 "This atrocity can only be purified with blood!": "Cette atrocité ne peut être purifiée que par le sang !",
 "I will die for my friends!": "Je mourrai pour mes amis !",

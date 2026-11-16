@@ -218,7 +218,7 @@ EN: A block of ice shaped like a statue, but worked by no living hands.
 FR: Un bloc de glace façonné en statue, mais travaillé par aucune main vivante.
 
 EN: A malevolent and dangerous little sprite. The shadowy illusions it summons may not be real, but are deadly all the same.
-FR: Un petit lutin malveillant et dangereux. Les illusions d’ombre qu’il invoque ne sont peut-être pas réelles, mais elles sont tout aussi mortelles.
+FR: Un petit lutin malveillant et dangereux. Les illusions d’ombre qu’il convoque ne sont peut-être pas réelles, mais elles sont tout aussi mortelles.
 
 EN: An unassuming beetle filled with an incredible amount of hypergolic fluid. The sticky spray it fires is capable of igniting predators and unwary adventurers alike, though more experienced ones know to keep moving if they wish to avoid a fiery grave.
 FR: Un scarabée insignifiant rempli d’une quantité incroyable de fluide hypergolique. Le jet collant qu’il projette peut enflammer prédateurs et aventuriers imprudents, même si les plus expérimentés savent qu’il faut continuer à bouger pour éviter une tombe de feu.
@@ -620,7 +620,7 @@ EN: A violet-scaled serpent with faintly glowing eyes. It thirsts for magic as w
 FR: Un serpent aux écailles violettes et aux yeux faiblement luisants. Il a soif de magie autant que de chair, et sa morsure peut assécher en un rien de temps les réserves magiques même d’un puissant mage.
 
 EN: The flame-wreathed skeleton of a carnivorous fish, darting through air as easily as it once parted water. It burns with a hunger it could not satisfy in life and is singularly driven by in death. While a single one may be only a nuisance, the swarm is never far behind, and every bite it lands will summon more and more of them until every scrap of flesh on its prey has been devoured.
-FR: Le squelette enveloppé de flammes d’un poisson carnivore, filant dans l’air aussi aisément qu’il fendait jadis l’eau. Il brûle d’une faim qu’il n’a pu assouvir de son vivant et qui le pousse seule dans la mort. Un seul peut n’être qu’une nuisance, mais l’essaim n’est jamais loin, et chaque morsure qu’il porte en invoquera toujours plus jusqu’à ce que chaque lambeau de chair de sa proie soit dévoré.
+FR: Le squelette enveloppé de flammes d’un poisson carnivore, filant dans l’air aussi aisément qu’il fendait jadis l’eau. Il brûle d’une faim qu’il n’a pu assouvir de son vivant et qui le pousse seule dans la mort. Un seul peut n’être qu’une nuisance, mais l’essaim n’est jamais loin, et chaque morsure qu’il porte en convoquera toujours plus jusqu’à ce que chaque lambeau de chair de sa proie soit dévoré.
 
 EN: The wandering shade of a long-dead soul who died for a forgotten cause. Though their memories have turned to mist, something deep within still compels them to serve and sacrifice - no matter the cost.
 FR: L’ombre errante d’une âme morte depuis longtemps pour une cause oubliée. Bien que ses souvenirs se soient changés en brume, quelque chose en elle la pousse encore à servir et à se sacrifier, quel qu’en soit le prix.

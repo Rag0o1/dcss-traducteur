@@ -329,16 +329,16 @@ EN: Drawing this card will make its user turn pink and root for truffles.
 FR: Piocher cette carte rend son utilisateur tout rose et lui fait fouiller le sol à la recherche de truffes.
 
 EN: Drawing this card will summon an illusion of the user. Its power will depend upon one's own.
-FR: Piocher cette carte invoque une illusion de son utilisateur. Sa puissance dépend de la vôtre.
+FR: Piocher cette carte convoque une illusion de son utilisateur. Sa puissance dépend de la vôtre.
 
 EN: Drawing this card will summon bees.
-FR: Piocher cette carte invoque des abeilles.
+FR: Piocher cette carte convoque des abeilles.
 
 EN: Drawing this card will summon several archers.
-FR: Piocher cette carte invoque plusieurs archers.
+FR: Piocher cette carte convoque plusieurs archers.
 
 EN: Drawing this card will summon three beasts of the four elements.
-FR: Piocher cette carte invoque trois bêtes issues des quatre éléments.
+FR: Piocher cette carte convoque trois bêtes issues des quatre éléments.
 
 EN: Drawing this card will unleash a corrosive attack spell.
 FR: Piocher cette carte déchaîne un sort d’attaque corrosif.

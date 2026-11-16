@@ -209,7 +209,7 @@ EN: Cocytus is a grim and frost-bitten wasteland. Intruders will find the biting
 FR: Le Cocyte est une terre désolée, sinistre et mordue par le gel. Les intrus verront leur progression entravée par les vents cinglants et les habitants glacés de ces étendues.
 
 EN: Disciples of the Council learn to perform three martial techniques while moving around in combat. They will also be taught to move at unfathomable speeds for short distances, and become able to summon a storm of golden clouds to increase their precision and damage for as long as they keep using martial attacks.
-FR: Les disciples du Conseil apprennent à effectuer trois techniques martiales tout en se déplaçant au combat. On leur enseigne aussi à se déplacer à des vitesses inconcevables sur de courtes distances, et ils deviennent capables d’invoquer une tempête de nuages dorés qui augmente leur précision et leurs dégâts tant qu’ils continuent à utiliser des attaques martiales.
+FR: Les disciples du Conseil apprennent à effectuer trois techniques martiales tout en se déplaçant au combat. On leur enseigne aussi à se déplacer à des vitesses inconcevables sur de courtes distances, et ils deviennent capables de convoquer une tempête de nuages dorés qui augmente leur précision et leurs dégâts tant qu’ils continuent à utiliser des attaques martiales.
 
 EN: Drawing this card can banish nearby creatures to the abyss, with more being banished at higher power levels. It will never banish the user.
 FR: Piocher cette carte peut bannir les créatures proches dans l’abysse, davantage de créatures étant bannies aux niveaux de puissance élevés. Elle ne bannit jamais son utilisateur.
@@ -230,10 +230,10 @@ EN: Drawing this card will attempt to polymorph and malmutate nearby enemies int
 FR: Piocher cette carte tente de métamorphoser et de malmuter les ennemis proches en formes plus faibles, et étourdit brièvement ceux qui ne peuvent pas être métamorphosés.
 
 EN: Drawing this card will summon a dancing weapon. Its quality, brand, and friendliness are all affected by card power.
-FR: Piocher cette carte invoque une arme dansante. Sa qualité, son ego et son caractère amical dépendent de la puissance de la carte.
+FR: Piocher cette carte convoque une arme dansante. Sa qualité, son ego et son caractère amical dépendent de la puissance de la carte.
 
 EN: Drawing this card will summon a pair of demons to the user's aid. There is a small chance one of the demons will be hostile.
-FR: Piocher cette carte invoque deux démons à l’aide de son utilisateur. Il y a une petite chance que l’un des démons soit hostile.
+FR: Piocher cette carte convoque deux démons à l’aide de son utilisateur. Il y a une petite chance que l’un des démons soit hostile.
 
 EN: Earth Magic contains spells able to deal large amounts of direct physical damage, which cannot be resisted like fire, cold and lightning damage can. It is also linked with Alchemy, with spells to liquefy the earth around you, or to turn your enemies to stone.
 FR: La Magie de la Terre contient des sorts capables d’infliger de gros dégâts physiques directs, auxquels on ne peut pas résister comme aux dégâts de feu, de froid et de foudre. Elle est aussi liée à l’Alchimie, avec des sorts pour liquéfier la terre autour de vous ou changer vos ennemis en pierre.

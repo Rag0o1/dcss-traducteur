@@ -496,9 +496,6 @@ FR: Vous entendez un grondement sourd.
 EN: You hear a grinding noise.
 FR: Vous entendez un grincement.
 
-EN: You hear a loud "Zot"!
-FR: Vous entendez un puissant « Zot » !
-
 EN: You hear a loud crackle.
 FR: Vous entendez un fort crépitement.
 

@@ -536,7 +536,7 @@ EN: Your maw sometimes bites enemies in melee, at a rate independant of your own
 FR: Votre gueule mord parfois les ennemis en mêlée, à un rythme indépendant de votre propre vitesse d’attaque (une fois toutes les 15 aut en moyenne). Ses dégâts de base sont directement augmentés de 75 % de votre force.
 
 EN: When you kill an edible enemy in melee (any hostile, non-summoned, living or plant monster), your maw devours it, greatly increasing your regeneration for a short while. More powerful enemies provide a longer duration of this effect.
-FR: Lorsque vous tuez un ennemi comestible en mêlée (tout monstre hostile, non invoqué, vivant ou végétal), votre gueule le dévore, ce qui augmente grandement votre régénération pendant un court moment. Les ennemis plus puissants procurent une durée plus longue de cet effet.
+FR: Lorsque vous tuez un ennemi comestible en mêlée (tout monstre hostile, non convoqué, vivant ou végétal), votre gueule le dévore, ce qui augmente grandement votre régénération pendant un court moment. Les ennemis plus puissants procurent une durée plus longue de cet effet.
 
 EN: Your maw's appetite is insatiable. Whenever you first encounter an edible monster, there is a chance to become mesmerised by it and let out a loud growl.
 FR: L’appétit de votre gueule est insatiable. Chaque fois que vous rencontrez un monstre comestible pour la première fois, il y a une chance que vous soyez hypnotisé par lui et poussiez un grand grognement.
@@ -584,7 +584,7 @@ EN: Your Unleash Destruction ability is empowered by Dis. You are able to hurl b
 FR: Votre capacité Déchaîner la destruction est renforcée par Dis. Vous pouvez lancer des traits d’acide corrosif et d’éclats de métal au lieu d’énergie négative.
 
 EN: Your Infernal Servant ability is replaced with Infernal Legion, allowing you to call in a small army of demons over time. While individually short-lived, their numbers are inexhaustible for as long as the status lasts, and they will never be hostile to you. You may also unleash Makhleb's Destruction through your summoned allies without harming them.
-FR: Votre capacité Serviteur infernal est remplacée par Légion infernale, qui vous permet d’appeler une petite armée de démons au fil du temps. Bien que chacun ait une vie brève, leur nombre est inépuisable tant que le statut dure, et ils ne vous seront jamais hostiles. Vous pouvez aussi déchaîner la Destruction de Makhleb à travers vos alliés invoqués sans leur nuire.
+FR: Votre capacité Serviteur infernal est remplacée par Légion infernale, qui vous permet d’appeler une petite armée de démons au fil du temps. Bien que chacun ait une vie brève, leur nombre est inépuisable tant que le statut dure, et ils ne vous seront jamais hostiles. Vous pouvez aussi déchaîner la Destruction de Makhleb à travers vos alliés convoqués sans leur nuire.
 
 EN: When you kill enemies, they have a small chance to explode in a violent rain of gore, which damages adjacent foes proportional to the victim's maximum health. Enemies who die to this explosion will always explode themselves.
 FR: Lorsque vous tuez des ennemis, ils ont une petite chance d’exploser en une violente pluie de sang, qui blesse les ennemis adjacents proportionnellement aux PV maximum de la victime. Les ennemis qui meurent de cette explosion exploseront toujours à leur tour.
@@ -710,7 +710,7 @@ EN: Groups of enemies you encounter may have Warding, preventing all damage they
 FR: Les groupes d’ennemis que vous rencontrez peuvent être Protégés, ce qui empêche tous les dégâts qu’ils subiraient de toute source qui ne leur est pas actuellement adjacente (y compris les nuages, si leur créateur n’est pas actuellement adjacent).
 
 EN: Whenever an enemy summons monsters against you, they will usually appear adjacent to you instead of their summoner. Their duration is also increased and they will never lose track of your position, no matter where you flee.
-FR: Chaque fois qu’un ennemi invoque des monstres contre vous, ils apparaissent généralement adjacents à vous au lieu de leur invocateur. Leur durée est aussi augmentée et ils ne perdront jamais votre trace, où que vous fuyiez.
+FR: Chaque fois qu’un ennemi convoque des monstres contre vous, ils apparaissent généralement adjacents à vous au lieu de leur invocateur. Leur durée est aussi augmentée et ils ne perdront jamais votre trace, où que vous fuyiez.
 
 EN: When you are badly injured and alone, a reaper may come to claim you. These reapers will be immune to all damage from non-adjacent sources and, if your XL is less than 14, will additionally be slow. At higher XL, multiple reapers may appear at once. When this bane is lifted, all reapers summoned this way will immediately vanish.
-FR: Lorsque vous êtes gravement blessé et seul, un faucheur peut venir vous réclamer. Ces faucheurs sont immunisés contre tous les dégâts de sources non adjacentes et, si votre NX est inférieur à 14, seront en plus lents. À des NX plus élevés, plusieurs faucheurs peuvent apparaître à la fois. Lorsque ce fléau est levé, tous les faucheurs invoqués ainsi disparaissent immédiatement.
+FR: Lorsque vous êtes gravement blessé et seul, un faucheur peut venir vous réclamer. Ces faucheurs sont immunisés contre tous les dégâts de sources non adjacentes et, si votre NX est inférieur à 14, seront en plus lents. À des NX plus élevés, plusieurs faucheurs peuvent apparaître à la fois. Lorsque ce fléau est levé, tous les faucheurs convoqués ainsi disparaissent immédiatement.

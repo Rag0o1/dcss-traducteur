@@ -29,16 +29,16 @@ EN: The card depicts a pointy wizard's hat, scorched and resting on a pile of as
 FR: La carte représente un chapeau de sorcier pointu, roussi, posé sur un tas de cendres. Tirer cette carte fait agir la magie sauvage (comme lors d’un sort raté) sur les ennemis de l’utilisateur. Chaque créature affectée restaurera un peu de magie à l’utilisateur.
 
 EN: The card depicts cultists marking out a ritual pentagram on the floor. Drawing this card will summon a pair of demons to the user's aid. There is a small chance one of the demons will be hostile.
-FR: La carte représente des cultistes traçant un pentagramme rituel sur le sol. Tirer cette carte invoquera une paire de démons à l’aide de l’utilisateur. Il y a une petite chance que l’un des démons soit hostile.
+FR: La carte représente des cultistes traçant un pentagramme rituel sur le sol. Tirer cette carte convoquera une paire de démons à l’aide de l’utilisateur. Il y a une petite chance que l’un des démons soit hostile.
 
 EN: The card depicts an extravagantly-dressed, masked figure dancing alone in a vast room. Drawing this card will summon a dancing weapon. Its quality, brand, and friendliness are all affected by card power.
-FR: La carte représente une silhouette masquée, extravagamment vêtue, dansant seule dans une vaste salle. Tirer cette carte invoquera une arme dansante. Sa qualité, son enchantement et son amitié sont tous influencés par la puissance de la carte.
+FR: La carte représente une silhouette masquée, extravagamment vêtue, dansant seule dans une vaste salle. Tirer cette carte convoquera une arme dansante. Sa qualité, son enchantement et son amitié sont tous influencés par la puissance de la carte.
 
 EN: The card depicts a bear surrounded by a swarm of bees. It hums ominously. Drawing this card will summon bees.
-FR: La carte représente un ours entouré d’un essaim d’abeilles. Elle bourdonne de façon menaçante. Tirer cette carte invoquera des abeilles.
+FR: La carte représente un ours entouré d’un essaim d’abeilles. Elle bourdonne de façon menaçante. Tirer cette carte convoquera des abeilles.
 
 EN: The card depicts someone standing in a hall of mirrors, surrounded by their own reflections. Drawing this card will summon an illusion of the user. Its power will depend upon one's own.
-FR: La carte représente quelqu’un debout dans une galerie de miroirs, entouré de ses propres reflets. Tirer cette carte invoquera une illusion de l’utilisateur. Sa puissance dépendra de celle de l’utilisateur.
+FR: La carte représente quelqu’un debout dans une galerie de miroirs, entouré de ses propres reflets. Tirer cette carte convoquera une illusion de l’utilisateur. Sa puissance dépendra de celle de l’utilisateur.
 
 EN: The card depicts several Crawl players angrily filing several bug reports on Mantis. Drawing this card is a bug, if one ever encounters it as such.
 FR: La carte représente plusieurs joueurs de Crawl remplissant avec colère plusieurs rapports de bogue sur Mantis. Tirer cette carte est un bogue, si l’on la rencontre jamais comme telle.
@@ -209,16 +209,16 @@ EN: ~The card depicts a pointy wizard's hat, scorched and resting on a pile of a
 FR: La carte représente un chapeau de sorcier pointu, roussi, posé sur un tas de cendres. Tirer cette carte fait agir la magie sauvage (comme lors d’un sort raté) sur les ennemis de l’utilisateur. Chaque créature affectée restaurera un peu de magie à l’utilisateur.
 
 EN: ~The card depicts cultists marking out a ritual pentagram on the floor. Drawing this card will summon a pair of demons to the user's aid. There is a small chance one of the demons will be hostile.
-FR: La carte représente des cultistes traçant un pentagramme rituel sur le sol. Tirer cette carte invoquera une paire de démons à l’aide de l’utilisateur. Il y a une petite chance que l’un des démons soit hostile.
+FR: La carte représente des cultistes traçant un pentagramme rituel sur le sol. Tirer cette carte convoquera une paire de démons à l’aide de l’utilisateur. Il y a une petite chance que l’un des démons soit hostile.
 
 EN: ~The card depicts an extravagantly-dressed, masked figure dancing alone in a vast room. Drawing this card will summon a dancing weapon. Its quality, brand, and friendliness are all affected by card power.
-FR: La carte représente une silhouette masquée, extravagamment vêtue, dansant seule dans une vaste salle. Tirer cette carte invoquera une arme dansante. Sa qualité, son enchantement et son amitié sont tous influencés par la puissance de la carte.
+FR: La carte représente une silhouette masquée, extravagamment vêtue, dansant seule dans une vaste salle. Tirer cette carte convoquera une arme dansante. Sa qualité, son enchantement et son amitié sont tous influencés par la puissance de la carte.
 
 EN: ~The card depicts a bear surrounded by a swarm of bees. It hums ominously. Drawing this card will summon bees.
-FR: La carte représente un ours entouré d’un essaim d’abeilles. Elle bourdonne de façon menaçante. Tirer cette carte invoquera des abeilles.
+FR: La carte représente un ours entouré d’un essaim d’abeilles. Elle bourdonne de façon menaçante. Tirer cette carte convoquera des abeilles.
 
 EN: ~The card depicts someone standing in a hall of mirrors, surrounded by their own reflections. Drawing this card will summon an illusion of the user. Its power will depend upon one's own.
-FR: La carte représente quelqu’un debout dans une galerie de miroirs, entouré de ses propres reflets. Tirer cette carte invoquera une illusion de l’utilisateur. Sa puissance dépendra de celle de l’utilisateur.
+FR: La carte représente quelqu’un debout dans une galerie de miroirs, entouré de ses propres reflets. Tirer cette carte convoquera une illusion de l’utilisateur. Sa puissance dépendra de celle de l’utilisateur.
 
 EN: ~The card depicts several Crawl players angrily filing several bug reports on Mantis. Drawing this card is a bug, if one ever encounters it as such.
 FR: La carte représente plusieurs joueurs de Crawl remplissant avec colère plusieurs rapports de bogue sur Mantis. Tirer cette carte est un bogue, si l’on la rencontre jamais comme telle.
@@ -521,7 +521,7 @@ EN: ~ AC this way.
 FR:  CA de cette façon.
 
 EN: ~Your Infernal Servants are now summoned adjacent to a random enemy instead of near you. When they appear, they do so in a blast of your characteristic Destruction (which cannot hurt you or other allies).
-FR: Vos Serviteurs infernaux sont désormais invoqués adjacents à un ennemi aléatoire plutôt que près de vous. Lorsqu’ils apparaissent, ils le font dans une explosion de votre Destruction caractéristique (qui ne peut blesser ni vous ni vos alliés).
+FR: Vos Serviteurs infernaux sont désormais convoqués adjacents à un ennemi aléatoire plutôt que près de vous. Lorsqu’ils apparaissent, ils le font dans une explosion de votre Destruction caractéristique (qui ne peut blesser ni vous ni vos alliés).
 
 EN: ~(Your servants unleash blasts of either
 FR: (Vos serviteurs déchaînent des explosions de

@@ -461,7 +461,7 @@ EN: ~or by clicking on the memorisation tab and selecting the spell tile.
 FR: ou en cliquant sur l’onglet de mémorisation et en choisissant la tuile du sort.
 
 EN: ~Then try your new spell and summon a demonic ally!
-FR: Essayez ensuite votre nouveau sort et invoquez un allié démoniaque !
+FR: Essayez ensuite votre nouveau sort et convoquez un allié démoniaque !
 
 EN: ~At experience level 3, you'll be able to increase one of your stats — choosing Intelligence will help your spellcasting even further.
 FR: Au niveau d’expérience 3, vous pourrez augmenter l’une de vos caractéristiques : choisir l’Intelligence aidera encore plus vos sorts.
@@ -488,7 +488,7 @@ EN: ~Your summons will only stick around for a short time, so don't wait too lon
 FR: Vos invocations ne restent que peu de temps : n’attendez pas trop, ou renouvelez-les en relançant le sort avant de commencer un combat.
 
 EN: ~For example, your summoned imps are resistant to poison, so you can cast Mephitic Cloud to fight alongside them without harming your allies.
-FR: Par exemple, vos diablotins invoqués résistent au poison : vous pouvez lancer Nuage méphitique pour combattre à leurs côtés sans blesser vos alliés.
+FR: Par exemple, vos diablotins convoqués résistent au poison : vous pouvez lancer Nuage méphitique pour combattre à leurs côtés sans blesser vos alliés.
 
 EN: ~If necessary, rest up with
 FR: Si nécessaire, reposez-vous avec
@@ -500,7 +500,7 @@ EN: ~Make sure you are at full health and magic points before entering a new are
 FR: Assurez-vous d’avoir tous vos points de vie et de magie avant d’entrer dans une nouvelle zone.
 
 EN: ~You can only summon a limited number of allies at once from any given spell, so try to take advantage of a wide range of spells.
-FR: Un sort donné ne permet d’invoquer qu’un nombre limité d’alliés à la fois : essayez donc de profiter d’un large éventail de sorts.
+FR: Un sort donné ne permet de convoquer qu’un nombre limité d’alliés à la fois : essayez donc de profiter d’un large éventail de sorts.
 
 EN: ~At experience level 1, only level 1 spells are available to you.
 FR: Au niveau d’expérience 1, seuls les sorts de niveau 1 vous sont accessibles.
