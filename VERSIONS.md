@@ -11,6 +11,10 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.21.8 — relecture de officiel.js
+
+- 493 descriptions de l’ancienne traduction officielle corrigées (sur 834) : textes qui ne correspondaient plus à l’anglais actuel (retraduits), fautes (« Elle à », « qui on »), termes alignés sur le glossaire (Discrétion, Amulette, Lames courtes, Maléfices).
+
 ## 0.21.7 — audit du dictionnaire : nettoyage et cohérence
 
 - 85 entrées mortes supprimées (écrasées par une traduction plus récente, jamais affichées), surtout dans `officiel.js`.
