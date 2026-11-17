@@ -1,0 +1,1247 @@
+EN: Your mind reels, touched by the horrors through the portal.
+FR: Votre esprit chancelle, effleuré par les horreurs qui franchissent le portail.
+
+EN: You quiver within your mortal coil, caressed by the liquid insanity through the scintillating gateway.
+FR: Vous frémissez dans votre enveloppe mortelle, caressé par la folie liquide qui franchit le portail scintillant.
+
+EN: The summoning rite seems to take a not insignificant toll on your sanity.
+FR: Le rite de convocation semble prélever un tribut non négligeable sur votre santé mentale.
+
+EN: You have a brief vision of a great black cyclopean cityscape with towering stygian walls.
+FR: Vous avez la brève vision d’une immense cité cyclopéenne et noire aux murailles stygiennes vertigineuses.
+
+EN: Your vision is obscured by outlandish glyphs which seem to writhe squamously and alter their shape.
+FR: Votre vue est brouillée par d’étranges glyphes qui semblent se tordre comme des écailles et changer de forme.
+
+EN: You feel inexorably dogged by some nameless and implacable gloom.
+FR: Vous vous sentez inexorablement traqué par une morosité implacable et sans nom.
+
+EN: You reel in agony as your mind is raked by horrors beyond mortal ken.
+FR: Vous chancelez de douleur tandis que votre esprit est lacéré par des horreurs qui dépassent l’entendement mortel.
+
+EN: Your mind is seduced by sublime insanity as you glimpse through the portal into the nether beyond.
+FR: Votre esprit est séduit par une folie sublime tandis que vous entrevoyez l’au-delà infernal à travers le portail.
+
+EN: You cackle madly at the sight of the eldritch monstrosity.
+FR: Vous ricanez comme un fou à la vue de cette monstruosité surnaturelle.
+
+EN: You are seized by madness!
+FR: La folie s’empare de vous !
+
+EN: Attempting to comprehend the unknowable depths of infinity takes a toll on your sanity.
+FR: Tenter de comprendre les profondeurs insondables de l’infini met votre santé mentale à rude épreuve.
+
+EN: Your thoughts are inescapably tormented by a ceaseless, buzzing drone.
+FR: Vos pensées sont inexorablement tourmentées par un bourdonnement incessant.
+
+EN: Your mind collapses in madness at the sight of this blasphemy against creation!
+FR: Votre esprit sombre dans la folie à la vue de ce blasphème contre la création !
+
+EN: Your mind briefly shatters, though you barely manage to hold yourself together.
+FR: Votre esprit vole brièvement en éclats, mais vous parvenez de justesse à tenir bon.
+
+EN: You feel your tenuous grasp on sanity beginning to erode.
+FR: Vous sentez votre fragile emprise sur la raison commencer à s’éroder.
+
+EN: Penetrating whispers of deepest heresy ceaselessly assail your thoughts.
+FR: De pénétrants murmures de la plus profonde hérésie assaillent sans cesse vos pensées.
+
+EN: Your mind aches with revulsion at the sight of the undulating horrors you have wrought.
+FR: Votre esprit se révulse à la vue des horreurs ondulantes que vous avez créées.
+
+EN: For but a moment your mind is laid bare before the towering infinitude of the unimaginable.
+FR: L’espace d’un instant, votre esprit est mis à nu devant l’immensité vertigineuse de l’inimaginable.
+
+EN: Your skull pulses and throbs as words spoken in an unspeakable tongue drift across your psyche.
+FR: Votre crâne palpite et lancine tandis que des mots prononcés dans une langue innommable traversent votre psyché.
+
+EN: A thin, monotonous whinny from outside of time grows ever louder.
+FR: Un hennissement grêle et monotone venu d’en dehors du temps se fait de plus en plus fort.
+
+EN: Shapeless horrors persist on the edge of your vision, drawing ever closer.
+FR: Des horreurs informes persistent au bord de votre champ de vision et se rapprochent sans cesse.
+
+EN: You are overcome with an inexorable feeling of implacable gloom.
+FR: Vous êtes envahi par un sentiment inexorable de morosité implacable.
+
+EN: Coherent, reasonable thoughts seem alien to you.
+FR: Les pensées cohérentes et raisonnables vous semblent étrangères.
+
+EN: Tendrils of madness seep and wend into the darkest crevices of your mind.
+FR: Des vrilles de folie s’infiltrent et serpentent jusque dans les recoins les plus sombres de votre esprit.
+
+EN: You struggle to grasp the nature of the incomprehensible forces at work.
+FR: Vous peinez à saisir la nature des forces incompréhensibles à l’œuvre.
+
+EN: Nightmarish fiends assault your waking thoughts!
+FR: Des démons cauchemardesques assaillent vos pensées éveillées !
+
+EN: Seething terrors besiege your sanity!
+FR: Des terreurs bouillonnantes assiègent votre raison !
+
+EN: Lucidity slithers from your feeble grasp.
+FR: La lucidité glisse hors de votre faible emprise.
+
+EN: The heart of this dungeon contains the astounding artefact, the Orb of Zot.
+FR: Le cœur de ce donjon renferme un artefact stupéfiant : l’Orbe de Zot.
+
+EN: The heart of this dungeon contains the awesome artefact, the Orb of Zot.
+FR: Le cœur de ce donjon renferme un artefact formidable : l’Orbe de Zot.
+
+EN: The heart of this dungeon contains the breathtaking artefact, the Orb of Zot.
+FR: Le cœur de ce donjon renferme un artefact à couper le souffle : l’Orbe de Zot.
+
+EN: The heart of this dungeon contains the fabled artefact, the Orb of Zot.
+FR: Le cœur de ce donjon renferme un artefact mythique : l’Orbe de Zot.
+
+EN: The heart of this dungeon contains the fabulous artefact, the Orb of Zot.
+FR: Le cœur de ce donjon renferme un artefact fabuleux : l’Orbe de Zot.
+
+EN: The heart of this dungeon contains the fantabulous artefact, the Orb of Zot.
+FR: Le cœur de ce donjon renferme un artefact fantabuleux : l’Orbe de Zot.
+
+EN: The heart of this dungeon contains the glorious artefact, the Orb of Zot.
+FR: Le cœur de ce donjon renferme un artefact glorieux : l’Orbe de Zot.
+
+EN: The heart of this dungeon contains the incredible artefact, the Orb of Zot.
+FR: Le cœur de ce donjon renferme un artefact incroyable : l’Orbe de Zot.
+
+EN: The heart of this dungeon contains the legendary artefact, the Orb of Zot.
+FR: Le cœur de ce donjon renferme un artefact légendaire : l’Orbe de Zot.
+
+EN: The heart of this dungeon contains the magnificent artefact, the Orb of Zot.
+FR: Le cœur de ce donjon renferme un artefact magnifique : l’Orbe de Zot.
+
+EN: The heart of this dungeon contains the majestic artefact, the Orb of Zot.
+FR: Le cœur de ce donjon renferme un artefact majestueux : l’Orbe de Zot.
+
+EN: The heart of this dungeon contains the marvelous artefact, the Orb of Zot.
+FR: Le cœur de ce donjon renferme un artefact merveilleux : l’Orbe de Zot.
+
+EN: The heart of this dungeon contains the splendid artefact, the Orb of Zot.
+FR: Le cœur de ce donjon renferme un artefact splendide : l’Orbe de Zot.
+
+EN: The heart of this dungeon contains the stupendous artefact, the Orb of Zot.
+FR: Le cœur de ce donjon renferme un artefact prodigieux : l’Orbe de Zot.
+
+EN: The heart of this dungeon contains the sublime artefact, the Orb of Zot.
+FR: Le cœur de ce donjon renferme un artefact sublime : l’Orbe de Zot.
+
+EN: The heart of this dungeon contains the terrific artefact, the Orb of Zot.
+FR: Le cœur de ce donjon renferme un artefact formidable : l’Orbe de Zot.
+
+EN: The heart of this dungeon contains the transcendent artefact, the Orb of Zot.
+FR: Le cœur de ce donjon renferme un artefact transcendant : l’Orbe de Zot.
+
+EN: The heart of this dungeon contains the wondrous artefact, the Orb of Zot.
+FR: Le cœur de ce donjon renferme un artefact merveilleux : l’Orbe de Zot.
+
+EN: Will you be the one to retrieve the astounding Orb of Zot from the depths?
+FR: Serez-vous celui qui rapportera des profondeurs l’Orbe de Zot stupéfiante ?
+
+EN: Will you be the one to retrieve the awesome Orb of Zot from the depths?
+FR: Serez-vous celui qui rapportera des profondeurs l’Orbe de Zot formidable ?
+
+EN: Will you be the one to retrieve the breathtaking Orb of Zot from the depths?
+FR: Serez-vous celui qui rapportera des profondeurs l’Orbe de Zot à couper le souffle ?
+
+EN: Will you be the one to retrieve the fabled Orb of Zot from the depths?
+FR: Serez-vous celui qui rapportera des profondeurs l’Orbe de Zot mythique ?
+
+EN: Will you be the one to retrieve the fabulous Orb of Zot from the depths?
+FR: Serez-vous celui qui rapportera des profondeurs l’Orbe de Zot fabuleuse ?
+
+EN: Will you be the one to retrieve the fantabulous Orb of Zot from the depths?
+FR: Serez-vous celui qui rapportera des profondeurs l’Orbe de Zot fantabuleuse ?
+
+EN: Will you be the one to retrieve the glorious Orb of Zot from the depths?
+FR: Serez-vous celui qui rapportera des profondeurs l’Orbe de Zot glorieuse ?
+
+EN: Will you be the one to retrieve the incredible Orb of Zot from the depths?
+FR: Serez-vous celui qui rapportera des profondeurs l’Orbe de Zot incroyable ?
+
+EN: Will you be the one to retrieve the legendary Orb of Zot from the depths?
+FR: Serez-vous celui qui rapportera des profondeurs l’Orbe de Zot légendaire ?
+
+EN: Will you be the one to retrieve the magnificent Orb of Zot from the depths?
+FR: Serez-vous celui qui rapportera des profondeurs l’Orbe de Zot magnifique ?
+
+EN: Will you be the one to retrieve the majestic Orb of Zot from the depths?
+FR: Serez-vous celui qui rapportera des profondeurs l’Orbe de Zot majestueuse ?
+
+EN: Will you be the one to retrieve the marvelous Orb of Zot from the depths?
+FR: Serez-vous celui qui rapportera des profondeurs l’Orbe de Zot merveilleuse ?
+
+EN: Will you be the one to retrieve the splendid Orb of Zot from the depths?
+FR: Serez-vous celui qui rapportera des profondeurs l’Orbe de Zot splendide ?
+
+EN: Will you be the one to retrieve the stupendous Orb of Zot from the depths?
+FR: Serez-vous celui qui rapportera des profondeurs l’Orbe de Zot prodigieuse ?
+
+EN: Will you be the one to retrieve the sublime Orb of Zot from the depths?
+FR: Serez-vous celui qui rapportera des profondeurs l’Orbe de Zot sublime ?
+
+EN: Will you be the one to retrieve the terrific Orb of Zot from the depths?
+FR: Serez-vous celui qui rapportera des profondeurs l’Orbe de Zot formidable ?
+
+EN: Will you be the one to retrieve the transcendent Orb of Zot from the depths?
+FR: Serez-vous celui qui rapportera des profondeurs l’Orbe de Zot transcendante ?
+
+EN: Will you be the one to retrieve the wondrous Orb of Zot from the depths?
+FR: Serez-vous celui qui rapportera des profondeurs l’Orbe de Zot merveilleuse ?
+
+EN: It is said that the Orb of Zot exists deep within this dungeon.
+FR: On dit que l’Orbe de Zot se trouve au plus profond de ce donjon.
+
+EN: Are you destined to find the astounding Orb of Zot, or to die trying?
+FR: Êtes-vous destiné à trouver l’Orbe de Zot stupéfiante, ou à mourir en essayant ?
+
+EN: Are you destined to find the awesome Orb of Zot, or to die trying?
+FR: Êtes-vous destiné à trouver l’Orbe de Zot formidable, ou à mourir en essayant ?
+
+EN: Are you destined to find the breathtaking Orb of Zot, or to die trying?
+FR: Êtes-vous destiné à trouver l’Orbe de Zot à couper le souffle, ou à mourir en essayant ?
+
+EN: Are you destined to find the fabled Orb of Zot, or to die trying?
+FR: Êtes-vous destiné à trouver l’Orbe de Zot mythique, ou à mourir en essayant ?
+
+EN: Are you destined to find the fabulous Orb of Zot, or to die trying?
+FR: Êtes-vous destiné à trouver l’Orbe de Zot fabuleuse, ou à mourir en essayant ?
+
+EN: Are you destined to find the fantabulous Orb of Zot, or to die trying?
+FR: Êtes-vous destiné à trouver l’Orbe de Zot fantabuleuse, ou à mourir en essayant ?
+
+EN: Are you destined to find the glorious Orb of Zot, or to die trying?
+FR: Êtes-vous destiné à trouver l’Orbe de Zot glorieuse, ou à mourir en essayant ?
+
+EN: Are you destined to find the incredible Orb of Zot, or to die trying?
+FR: Êtes-vous destiné à trouver l’Orbe de Zot incroyable, ou à mourir en essayant ?
+
+EN: Are you destined to find the legendary Orb of Zot, or to die trying?
+FR: Êtes-vous destiné à trouver l’Orbe de Zot légendaire, ou à mourir en essayant ?
+
+EN: Are you destined to find the magnificent Orb of Zot, or to die trying?
+FR: Êtes-vous destiné à trouver l’Orbe de Zot magnifique, ou à mourir en essayant ?
+
+EN: Are you destined to find the majestic Orb of Zot, or to die trying?
+FR: Êtes-vous destiné à trouver l’Orbe de Zot majestueuse, ou à mourir en essayant ?
+
+EN: Are you destined to find the marvelous Orb of Zot, or to die trying?
+FR: Êtes-vous destiné à trouver l’Orbe de Zot merveilleuse, ou à mourir en essayant ?
+
+EN: Are you destined to find the splendid Orb of Zot, or to die trying?
+FR: Êtes-vous destiné à trouver l’Orbe de Zot splendide, ou à mourir en essayant ?
+
+EN: Are you destined to find the stupendous Orb of Zot, or to die trying?
+FR: Êtes-vous destiné à trouver l’Orbe de Zot prodigieuse, ou à mourir en essayant ?
+
+EN: Are you destined to find the sublime Orb of Zot, or to die trying?
+FR: Êtes-vous destiné à trouver l’Orbe de Zot sublime, ou à mourir en essayant ?
+
+EN: Are you destined to find the terrific Orb of Zot, or to die trying?
+FR: Êtes-vous destiné à trouver l’Orbe de Zot formidable, ou à mourir en essayant ?
+
+EN: Are you destined to find the transcendent Orb of Zot, or to die trying?
+FR: Êtes-vous destiné à trouver l’Orbe de Zot transcendante, ou à mourir en essayant ?
+
+EN: Are you destined to find the wondrous Orb of Zot, or to die trying?
+FR: Êtes-vous destiné à trouver l’Orbe de Zot merveilleuse, ou à mourir en essayant ?
+
+EN: Everyone else who sought the Orb of Zot has failed. Will you be different?
+FR: Tous ceux qui ont cherché l’Orbe de Zot ont échoué. Serez-vous différent ?
+
+EN: They say the Orb of Zot lies within this dungeon, but they say a lot of things.
+FR: On dit que l’Orbe de Zot se trouve dans ce donjon, mais on dit beaucoup de choses.
+
+EN: The astounding Orb of Zot lies far below, as if waiting for you to find it.
+FR: L’Orbe de Zot stupéfiante repose tout en bas, comme si elle attendait que vous la trouviez.
+
+EN: The awesome Orb of Zot lies far below, as if waiting for you to find it.
+FR: L’Orbe de Zot formidable repose tout en bas, comme si elle attendait que vous la trouviez.
+
+EN: The breathtaking Orb of Zot lies far below, as if waiting for you to find it.
+FR: L’Orbe de Zot à couper le souffle repose tout en bas, comme si elle attendait que vous la trouviez.
+
+EN: The fabled Orb of Zot lies far below, as if waiting for you to find it.
+FR: L’Orbe de Zot mythique repose tout en bas, comme si elle attendait que vous la trouviez.
+
+EN: The fabulous Orb of Zot lies far below, as if waiting for you to find it.
+FR: L’Orbe de Zot fabuleuse repose tout en bas, comme si elle attendait que vous la trouviez.
+
+EN: The fantabulous Orb of Zot lies far below, as if waiting for you to find it.
+FR: L’Orbe de Zot fantabuleuse repose tout en bas, comme si elle attendait que vous la trouviez.
+
+EN: The glorious Orb of Zot lies far below, as if waiting for you to find it.
+FR: L’Orbe de Zot glorieuse repose tout en bas, comme si elle attendait que vous la trouviez.
+
+EN: The incredible Orb of Zot lies far below, as if waiting for you to find it.
+FR: L’Orbe de Zot incroyable repose tout en bas, comme si elle attendait que vous la trouviez.
+
+EN: The legendary Orb of Zot lies far below, as if waiting for you to find it.
+FR: L’Orbe de Zot légendaire repose tout en bas, comme si elle attendait que vous la trouviez.
+
+EN: The magnificent Orb of Zot lies far below, as if waiting for you to find it.
+FR: L’Orbe de Zot magnifique repose tout en bas, comme si elle attendait que vous la trouviez.
+
+EN: The majestic Orb of Zot lies far below, as if waiting for you to find it.
+FR: L’Orbe de Zot majestueuse repose tout en bas, comme si elle attendait que vous la trouviez.
+
+EN: The marvelous Orb of Zot lies far below, as if waiting for you to find it.
+FR: L’Orbe de Zot merveilleuse repose tout en bas, comme si elle attendait que vous la trouviez.
+
+EN: The splendid Orb of Zot lies far below, as if waiting for you to find it.
+FR: L’Orbe de Zot splendide repose tout en bas, comme si elle attendait que vous la trouviez.
+
+EN: The stupendous Orb of Zot lies far below, as if waiting for you to find it.
+FR: L’Orbe de Zot prodigieuse repose tout en bas, comme si elle attendait que vous la trouviez.
+
+EN: The sublime Orb of Zot lies far below, as if waiting for you to find it.
+FR: L’Orbe de Zot sublime repose tout en bas, comme si elle attendait que vous la trouviez.
+
+EN: The terrific Orb of Zot lies far below, as if waiting for you to find it.
+FR: L’Orbe de Zot formidable repose tout en bas, comme si elle attendait que vous la trouviez.
+
+EN: The transcendent Orb of Zot lies far below, as if waiting for you to find it.
+FR: L’Orbe de Zot transcendante repose tout en bas, comme si elle attendait que vous la trouviez.
+
+EN: The wondrous Orb of Zot lies far below, as if waiting for you to find it.
+FR: L’Orbe de Zot merveilleuse repose tout en bas, comme si elle attendait que vous la trouviez.
+
+EN: Below lies the Orb of Zot, rumoured to be powerful enough to resurrect a god...
+FR: En bas repose l’Orbe de Zot, que l’on dit assez puissante pour ressusciter un dieu...
+
+EN: The Orb of Zot is coveted for many reasons. Will you seize it for your own?
+FR: L’Orbe de Zot est convoitée pour bien des raisons. Vous en emparerez-vous ?
+
+EN: A smirking vizier told you that the Orb of Zot is just within this dungeon.
+FR: Un vizir narquois vous a dit que l’Orbe de Zot se trouve juste dans ce donjon.
+
+EN: If you return without finding the Orb of Zot, so far below, it's all over!
+FR: Si vous revenez sans avoir trouvé l’Orbe de Zot, tout en bas, tout est fini !
+
+EN: It's a long way down to the Orb of Zot, but that shouldn't be any trouble.
+FR: Le chemin jusqu’à l’Orbe de Zot est long, mais cela ne devrait pas poser de problème.
+
+EN: They told you never to seek the Orb of Zot. Yet here you are.
+FR: On vous avait dit de ne jamais chercher l’Orbe de Zot. Et pourtant, vous voilà.
+
+EN: "Hmm... If I were the Orb of Zot, I'd be down here."
+FR: « Hmm... Si j’étais l’Orbe de Zot, je serais ici, en bas. »
+
+EN: The dungeon that contains the Orb of Zot... this must be the place.
+FR: Le donjon qui renferme l’Orbe de Zot... ce doit être ici.
+
+EN: A surly barkeep said this cave is the deepest in the world. At the bottom, the Orb of Zot.
+FR: Un tavernier bourru a dit que cette caverne est la plus profonde du monde. Tout au fond : l’Orbe de Zot.
+
+EN: It's much bigger on the inside, isn't it? You hope the Orb of Zot isn't too hard to find.
+FR: C’est bien plus grand à l’intérieur, non ? Vous espérez que l’Orbe de Zot ne sera pas trop difficile à trouver.
+
+EN: It was inevitable you'd end up here, seeking the Orb of Zot.
+FR: Il était inévitable que vous finissiez ici, à chercher l’Orbe de Zot.
+
+EN: The exit is right here. You can turn back anytime. But if you leave without the Orb of Zot, you'll be a failure.
+FR: La sortie est juste ici. Vous pouvez faire demi-tour à tout moment. Mais si vous partez sans l’Orbe de Zot, vous aurez échoué.
+
+EN: As you cross the threshold, the sounds of the outside world fade away. The Orb of Zot must be in here.
+FR: Lorsque vous franchissez le seuil, les bruits du monde extérieur s’estompent. L’Orbe de Zot doit être ici.
+
+EN: A legendary dungeon that contains the Orb of Zot. Let's see if what they say about this place is true...
+FR: Un donjon légendaire qui renferme l’Orbe de Zot. Voyons si ce qu’on dit de cet endroit est vrai...
+
+EN: No one who enters this dungeon returns the same. But you must have the Orb of Zot, hidden deep inside...
+FR: Nul ne ressort de ce donjon inchangé. Mais il vous faut l’Orbe de Zot, cachée tout au fond...
+
+EN: It looks like the Orb of Zot is deeper inside. Sigh... it's all downstairs from here.
+FR: On dirait que l’Orbe de Zot est plus loin à l’intérieur. Soupir... à partir d’ici, tout se passe en bas.
+
+EN: They say this dungeon is filled with gold! And the greatest treasure of all is the Orb of Zot!
+FR: On dit que ce donjon regorge d’or ! Et le plus grand de tous les trésors est l’Orbe de Zot !
+
+EN: Will you descend where others failed? Will you find the Orb of Zot?
+FR: Descendrez-vous là où d’autres ont échoué ? Trouverez-vous l’Orbe de Zot ?
+
+EN: Will you prevail where others failed? Will you find the Orb of Zot?
+FR: Triompherez-vous là où d’autres ont échoué ? Trouverez-vous l’Orbe de Zot ?
+
+EN: Will you be the one to descend and find the astounding Orb of Zot?
+FR: Serez-vous celui qui descendra trouver l’Orbe de Zot stupéfiante ?
+
+EN: Will you be the one to descend and find the awesome Orb of Zot?
+FR: Serez-vous celui qui descendra trouver l’Orbe de Zot formidable ?
+
+EN: Will you be the one to descend and find the breathtaking Orb of Zot?
+FR: Serez-vous celui qui descendra trouver l’Orbe de Zot à couper le souffle ?
+
+EN: Will you be the one to descend and find the fabled Orb of Zot?
+FR: Serez-vous celui qui descendra trouver l’Orbe de Zot mythique ?
+
+EN: Will you be the one to descend and find the fabulous Orb of Zot?
+FR: Serez-vous celui qui descendra trouver l’Orbe de Zot fabuleuse ?
+
+EN: Will you be the one to descend and find the fantabulous Orb of Zot?
+FR: Serez-vous celui qui descendra trouver l’Orbe de Zot fantabuleuse ?
+
+EN: Will you be the one to descend and find the glorious Orb of Zot?
+FR: Serez-vous celui qui descendra trouver l’Orbe de Zot glorieuse ?
+
+EN: Will you be the one to descend and find the incredible Orb of Zot?
+FR: Serez-vous celui qui descendra trouver l’Orbe de Zot incroyable ?
+
+EN: Will you be the one to descend and find the legendary Orb of Zot?
+FR: Serez-vous celui qui descendra trouver l’Orbe de Zot légendaire ?
+
+EN: Will you be the one to descend and find the magnificent Orb of Zot?
+FR: Serez-vous celui qui descendra trouver l’Orbe de Zot magnifique ?
+
+EN: Will you be the one to descend and find the majestic Orb of Zot?
+FR: Serez-vous celui qui descendra trouver l’Orbe de Zot majestueuse ?
+
+EN: Will you be the one to descend and find the marvelous Orb of Zot?
+FR: Serez-vous celui qui descendra trouver l’Orbe de Zot merveilleuse ?
+
+EN: Will you be the one to descend and find the splendid Orb of Zot?
+FR: Serez-vous celui qui descendra trouver l’Orbe de Zot splendide ?
+
+EN: Will you be the one to descend and find the stupendous Orb of Zot?
+FR: Serez-vous celui qui descendra trouver l’Orbe de Zot prodigieuse ?
+
+EN: Will you be the one to descend and find the sublime Orb of Zot?
+FR: Serez-vous celui qui descendra trouver l’Orbe de Zot sublime ?
+
+EN: Will you be the one to descend and find the terrific Orb of Zot?
+FR: Serez-vous celui qui descendra trouver l’Orbe de Zot formidable ?
+
+EN: Will you be the one to descend and find the transcendent Orb of Zot?
+FR: Serez-vous celui qui descendra trouver l’Orbe de Zot transcendante ?
+
+EN: Will you be the one to descend and find the wondrous Orb of Zot?
+FR: Serez-vous celui qui descendra trouver l’Orbe de Zot merveilleuse ?
+
+EN: Are you destined to descend to the astounding Orb of Zot, or to die trying?
+FR: Êtes-vous destiné à descendre jusqu’à l’Orbe de Zot stupéfiante, ou à mourir en essayant ?
+
+EN: Are you destined to descend to the awesome Orb of Zot, or to die trying?
+FR: Êtes-vous destiné à descendre jusqu’à l’Orbe de Zot formidable, ou à mourir en essayant ?
+
+EN: Are you destined to descend to the breathtaking Orb of Zot, or to die trying?
+FR: Êtes-vous destiné à descendre jusqu’à l’Orbe de Zot à couper le souffle, ou à mourir en essayant ?
+
+EN: Are you destined to descend to the fabled Orb of Zot, or to die trying?
+FR: Êtes-vous destiné à descendre jusqu’à l’Orbe de Zot mythique, ou à mourir en essayant ?
+
+EN: Are you destined to descend to the fabulous Orb of Zot, or to die trying?
+FR: Êtes-vous destiné à descendre jusqu’à l’Orbe de Zot fabuleuse, ou à mourir en essayant ?
+
+EN: Are you destined to descend to the fantabulous Orb of Zot, or to die trying?
+FR: Êtes-vous destiné à descendre jusqu’à l’Orbe de Zot fantabuleuse, ou à mourir en essayant ?
+
+EN: Are you destined to descend to the glorious Orb of Zot, or to die trying?
+FR: Êtes-vous destiné à descendre jusqu’à l’Orbe de Zot glorieuse, ou à mourir en essayant ?
+
+EN: Are you destined to descend to the incredible Orb of Zot, or to die trying?
+FR: Êtes-vous destiné à descendre jusqu’à l’Orbe de Zot incroyable, ou à mourir en essayant ?
+
+EN: Are you destined to descend to the legendary Orb of Zot, or to die trying?
+FR: Êtes-vous destiné à descendre jusqu’à l’Orbe de Zot légendaire, ou à mourir en essayant ?
+
+EN: Are you destined to descend to the magnificent Orb of Zot, or to die trying?
+FR: Êtes-vous destiné à descendre jusqu’à l’Orbe de Zot magnifique, ou à mourir en essayant ?
+
+EN: Are you destined to descend to the majestic Orb of Zot, or to die trying?
+FR: Êtes-vous destiné à descendre jusqu’à l’Orbe de Zot majestueuse, ou à mourir en essayant ?
+
+EN: Are you destined to descend to the marvelous Orb of Zot, or to die trying?
+FR: Êtes-vous destiné à descendre jusqu’à l’Orbe de Zot merveilleuse, ou à mourir en essayant ?
+
+EN: Are you destined to descend to the splendid Orb of Zot, or to die trying?
+FR: Êtes-vous destiné à descendre jusqu’à l’Orbe de Zot splendide, ou à mourir en essayant ?
+
+EN: Are you destined to descend to the stupendous Orb of Zot, or to die trying?
+FR: Êtes-vous destiné à descendre jusqu’à l’Orbe de Zot prodigieuse, ou à mourir en essayant ?
+
+EN: Are you destined to descend to the sublime Orb of Zot, or to die trying?
+FR: Êtes-vous destiné à descendre jusqu’à l’Orbe de Zot sublime, ou à mourir en essayant ?
+
+EN: Are you destined to descend to the terrific Orb of Zot, or to die trying?
+FR: Êtes-vous destiné à descendre jusqu’à l’Orbe de Zot formidable, ou à mourir en essayant ?
+
+EN: Are you destined to descend to the transcendent Orb of Zot, or to die trying?
+FR: Êtes-vous destiné à descendre jusqu’à l’Orbe de Zot transcendante, ou à mourir en essayant ?
+
+EN: Are you destined to descend to the wondrous Orb of Zot, or to die trying?
+FR: Êtes-vous destiné à descendre jusqu’à l’Orbe de Zot merveilleuse, ou à mourir en essayant ?
+
+EN: You feel drawn to descend into the unfathomable depths for the Orb of Zot...
+FR: Vous vous sentez poussé à descendre dans les profondeurs insondables pour l’Orbe de Zot...
+
+EN: The astounding Orb of Zot lies below, waiting for you to descend and find it.
+FR: L’Orbe de Zot stupéfiante repose en bas, attendant que vous descendiez la trouver.
+
+EN: The awesome Orb of Zot lies below, waiting for you to descend and find it.
+FR: L’Orbe de Zot formidable repose en bas, attendant que vous descendiez la trouver.
+
+EN: The breathtaking Orb of Zot lies below, waiting for you to descend and find it.
+FR: L’Orbe de Zot à couper le souffle repose en bas, attendant que vous descendiez la trouver.
+
+EN: The fabled Orb of Zot lies below, waiting for you to descend and find it.
+FR: L’Orbe de Zot mythique repose en bas, attendant que vous descendiez la trouver.
+
+EN: The fabulous Orb of Zot lies below, waiting for you to descend and find it.
+FR: L’Orbe de Zot fabuleuse repose en bas, attendant que vous descendiez la trouver.
+
+EN: The fantabulous Orb of Zot lies below, waiting for you to descend and find it.
+FR: L’Orbe de Zot fantabuleuse repose en bas, attendant que vous descendiez la trouver.
+
+EN: The glorious Orb of Zot lies below, waiting for you to descend and find it.
+FR: L’Orbe de Zot glorieuse repose en bas, attendant que vous descendiez la trouver.
+
+EN: The incredible Orb of Zot lies below, waiting for you to descend and find it.
+FR: L’Orbe de Zot incroyable repose en bas, attendant que vous descendiez la trouver.
+
+EN: The legendary Orb of Zot lies below, waiting for you to descend and find it.
+FR: L’Orbe de Zot légendaire repose en bas, attendant que vous descendiez la trouver.
+
+EN: The magnificent Orb of Zot lies below, waiting for you to descend and find it.
+FR: L’Orbe de Zot magnifique repose en bas, attendant que vous descendiez la trouver.
+
+EN: The majestic Orb of Zot lies below, waiting for you to descend and find it.
+FR: L’Orbe de Zot majestueuse repose en bas, attendant que vous descendiez la trouver.
+
+EN: The marvelous Orb of Zot lies below, waiting for you to descend and find it.
+FR: L’Orbe de Zot merveilleuse repose en bas, attendant que vous descendiez la trouver.
+
+EN: The splendid Orb of Zot lies below, waiting for you to descend and find it.
+FR: L’Orbe de Zot splendide repose en bas, attendant que vous descendiez la trouver.
+
+EN: The stupendous Orb of Zot lies below, waiting for you to descend and find it.
+FR: L’Orbe de Zot prodigieuse repose en bas, attendant que vous descendiez la trouver.
+
+EN: The sublime Orb of Zot lies below, waiting for you to descend and find it.
+FR: L’Orbe de Zot sublime repose en bas, attendant que vous descendiez la trouver.
+
+EN: The terrific Orb of Zot lies below, waiting for you to descend and find it.
+FR: L’Orbe de Zot formidable repose en bas, attendant que vous descendiez la trouver.
+
+EN: The transcendent Orb of Zot lies below, waiting for you to descend and find it.
+FR: L’Orbe de Zot transcendante repose en bas, attendant que vous descendiez la trouver.
+
+EN: The wondrous Orb of Zot lies below, waiting for you to descend and find it.
+FR: L’Orbe de Zot merveilleuse repose en bas, attendant que vous descendiez la trouver.
+
+EN: If you descend without finding the Orb of Zot, so far below, it's all over!
+FR: Si vous descendez sans trouver l’Orbe de Zot, tout en bas, tout est fini !
+
+EN: The monsters here aren't big trick-or-treat fans. If they won't give you the Orb of Zot, you'll have to take it.
+FR: Les monstres d’ici n’aiment pas trop « des bonbons ou un sort ». S’ils ne vous donnent pas l’Orbe de Zot, il faudra la prendre.
+
+EN: A terrible geas has sent you after the Orb of Zot. What a horrible night to have a curse!
+FR: Un terrible serment magique vous a lancé à la poursuite de l’Orbe de Zot. Quelle horrible nuit pour être maudit !
+
+EN: As you descend in search of the Orb, demonic hallucinations flock about you. This place is haunted!
+FR: Tandis que vous descendez à la recherche de l’Orbe, des hallucinations démoniaques se pressent autour de vous. Cet endroit est hanté !
+
+EN: As you descend in search of the Orb, disembodied spirits flock about you. This place is haunted!
+FR: Tandis que vous descendez à la recherche de l’Orbe, des esprits désincarnés se pressent autour de vous. Cet endroit est hanté !
+
+EN: As you descend in search of the Orb, ghosts and spectres flock about you. This place is haunted!
+FR: Tandis que vous descendez à la recherche de l’Orbe, des fantômes et des spectres se pressent autour de vous. Cet endroit est hanté !
+
+EN: As you descend in search of the Orb, grim spectres flock about you. This place is haunted!
+FR: Tandis que vous descendez à la recherche de l’Orbe, de sinistres spectres se pressent autour de vous. Cet endroit est hanté !
+
+EN: As you descend in search of the Orb, horrible apparitions flock about you. This place is haunted!
+FR: Tandis que vous descendez à la recherche de l’Orbe, d’horribles apparitions se pressent autour de vous. Cet endroit est hanté !
+
+EN: As you descend in search of the Orb, phantasmagorical visions flock about you. This place is haunted!
+FR: Tandis que vous descendez à la recherche de l’Orbe, des visions fantasmagoriques se pressent autour de vous. Cet endroit est hanté !
+
+EN: You hear a witch cackle, and suddenly arrive in the dungeon. If you don't find the Orb of Zot, you'll turn into a frog!
+FR: Vous entendez ricaner une sorcière, et vous arrivez soudain dans le donjon. Si vous ne trouvez pas l’Orbe de Zot, vous serez changé en grenouille !
+
+EN: You hear a witch cackle, and suddenly arrive in the dungeon. If you don't find the Orb of Zot, you'll turn into a newt!
+FR: Vous entendez ricaner une sorcière, et vous arrivez soudain dans le donjon. Si vous ne trouvez pas l’Orbe de Zot, vous serez changé en triton !
+
+EN: You hear a witch cackle, and suddenly arrive in the dungeon. If you don't find the Orb of Zot, you'll turn into a slug!
+FR: Vous entendez ricaner une sorcière, et vous arrivez soudain dans le donjon. Si vous ne trouvez pas l’Orbe de Zot, vous serez changé en limace !
+
+EN: You hear a witch cackle, and suddenly arrive in the dungeon. If you don't find the Orb of Zot, you'll turn into a toad!
+FR: Vous entendez ricaner une sorcière, et vous arrivez soudain dans le donjon. Si vous ne trouvez pas l’Orbe de Zot, vous serez changé en crapaud !
+
+EN: You hear a witch cackle, and suddenly arrive in the dungeon. If you don't find the Orb of Zot, you'll turn into a worm!
+FR: Vous entendez ricaner une sorcière, et vous arrivez soudain dans le donjon. Si vous ne trouvez pas l’Orbe de Zot, vous serez changé en ver !
+
+EN: If you want to find the Orb of Zot, you'll need a much better costume than that.
+FR: Si vous voulez trouver l’Orbe de Zot, il vous faudra un bien meilleur déguisement que ça.
+
+EN: You hope this place has the Orb of Zot, because it sure as hell doesn't have any candy.
+FR: Vous espérez que l’Orbe de Zot est ici, parce qu’il n’y a franchement pas le moindre bonbon.
+
+EN: Countless adventurers have entered the dungeon seeking the Orb of Zot, but there's always room for one more...
+FR: D’innombrables aventuriers sont entrés dans le donjon en quête de l’Orbe de Zot, mais il y a toujours de la place pour un de plus...
+
+EN: You sense the Orb of Zot calling to you... with horror, you realise the call is coming from inside the dungeon!
+FR: Vous sentez l’Orbe de Zot vous appeler... avec horreur, vous comprenez que l’appel vient de l’intérieur du donjon !
+
+EN: You smell brimstone.
+FR: Vous sentez une odeur de soufre.
+
+EN: Brimstone rains from above.
+FR: Une pluie de soufre tombe d’en haut.
+
+EN: "Abandon all hope!"
+FR: « Abandonnez tout espoir ! »
+
+EN: "Die, mortal!"
+FR: « Meurs, mortel ! »
+
+EN: "Leave now, before it is too late!"
+FR: « Pars maintenant, avant qu’il ne soit trop tard ! »
+
+EN: "No one will save a wretch like you!"
+FR: « Personne ne sauvera un misérable comme toi ! »
+
+EN: "Run while you still can, mortal!"
+FR: « Fuis tant que tu le peux encore, mortel ! »
+
+EN: "Trespassers are not welcome here!"
+FR: « Les intrus ne sont pas les bienvenus ici ! »
+
+EN: "We do not forgive those who trespass against us!"
+FR: « Nous ne pardonnons pas à ceux qui nous ont offensés ! »
+
+EN: "We have such sights to show you!"
+FR: « Nous avons tant de choses à te montrer ! »
+
+EN: "We have you now!"
+FR: « Nous te tenons ! »
+
+EN: "We will enjoy watching you die!"
+FR: « Nous prendrons plaisir à te regarder mourir ! »
+
+EN: "Whatever you seek here, you will find only death!"
+FR: « Quoi que tu cherches ici, tu ne trouveras que la mort ! »
+
+EN: "You are not welcome here!"
+FR: « Tu n’es pas le bienvenu ici ! »
+
+EN: "You do not belong in this place!"
+FR: « Tu n’as pas ta place ici ! »
+
+EN: "You have come here to die, fool!"
+FR: « Tu es venu ici pour mourir, imbécile ! »
+
+EN: "You should have left when you had the chance!"
+FR: « Tu aurais dû partir quand tu en avais l’occasion ! »
+
+EN: "You should not have come here!"
+FR: « Tu n’aurais pas dû venir ici ! »
+
+EN: "You will never escape!"
+FR: « Tu ne t’échapperas jamais ! »
+
+EN: "You will not leave this place!"
+FR: « Tu ne quitteras pas cet endroit ! »
+
+EN: For a moment, everything goes dark.
+FR: L’espace d’un instant, tout devient noir.
+
+EN: Something frightening happens.
+FR: Quelque chose d’effrayant se produit.
+
+EN: Something moves in the shadows at the edge of your vision.
+FR: Quelque chose bouge dans l’ombre, au bord de votre champ de vision.
+
+EN: You catch a glimpse of your own reflection and are repulsed by what you see.
+FR: Vous apercevez votre propre reflet et ce que vous voyez vous répugne.
+
+EN: You feel abandoned and deserted...
+FR: Vous vous sentez abandonné et délaissé...
+
+EN: You feel a strange tug, urging you deeper into the mouth of Hell...
+FR: Vous sentez une étrange attraction qui vous pousse plus loin dans la gueule de l’Enfer...
+
+EN: You feel a terrible foreboding...
+FR: Vous avez un terrible pressentiment...
+
+EN: You feel like no one will even care if you die here...
+FR: Vous avez l’impression que personne ne se souciera même de votre mort ici...
+
+EN: You feel like you've forgotten something very important...
+FR: Vous avez l’impression d’avoir oublié quelque chose de très important...
+
+EN: You feel lost and a long, long way from home...
+FR: Vous vous sentez perdu, très, très loin de chez vous...
+
+EN: You feel so tired, so weak... it would be so nice to just lie down... forever...
+FR: Vous vous sentez si fatigué, si faible... ce serait si bon de simplement vous allonger... pour toujours...
+
+EN: You feel totally surrounded, and yet so utterly alone...
+FR: Vous vous sentez totalement encerclé, et pourtant si seul...
+
+EN: You have a premonition of your own gruesome death.
+FR: Vous avez la prémonition de votre propre mort atroce.
+
+EN: You have a vision of yourself being tormented eternally.
+FR: Vous avez la vision de vous-même tourmenté pour l’éternité.
+
+EN: You regret coming to this forsaken place.
+FR: Vous regrettez d’être venu dans cet endroit maudit.
+
+EN: You sense a hostile presence.
+FR: Vous sentez une présence hostile.
+
+EN: You sense an ancient evil watching you...
+FR: Vous sentez un mal ancien qui vous observe...
+
+EN: You sense something behind you... but there's nothing there.
+FR: Vous sentez quelque chose derrière vous... mais il n’y a rien.
+
+EN: You shiver with fear.
+FR: Vous frissonnez de peur.
+
+EN: You shudder with dread.
+FR: Vous tremblez d’effroi.
+
+EN: You suddenly feel all small and vulnerable.
+FR: Vous vous sentez soudain tout petit et vulnérable.
+
+EN: Blood fills your mouth. It's definitely not yours.
+FR: Du sang emplit votre bouche. Ce n’est vraiment pas le vôtre.
+
+EN: "BEGONE, TRESPASSER!"
+FR: « VA-T’EN, INTRUS ! »
+
+EN: "WE'VE GOT YOU NOW!"
+FR: « NOUS TE TENONS ! »
+
+EN: A chorus of shrieks echoes around you!
+FR: Un chœur de hurlements résonne autour de vous !
+
+EN: A gut-wrenching scream fills the air!
+FR: Un cri à vous retourner les tripes emplit l’air !
+
+EN: A hateful voice recites your deepest, darkest secrets!
+FR: Une voix haineuse récite vos secrets les plus profonds et les plus sombres !
+
+EN: An anguished voice wails for what feels like eternity, then is suddenly cut off.
+FR: Une voix angoissée gémit pendant ce qui semble une éternité, puis s’interrompt brusquement.
+
+EN: You hear a dreadful howling, growing closer and closer...
+FR: Vous entendez un hurlement effroyable, qui se rapproche de plus en plus...
+
+EN: You hear a scream, and then it ends suddenly with a sickening wet crunch.
+FR: Vous entendez un cri, qui s’achève brusquement dans un craquement humide écœurant.
+
+EN: You hear abhorrent words that no mortal tongue could ever pronounce...
+FR: Vous entendez des mots abominables qu’aucune langue mortelle ne pourrait prononcer...
+
+EN: You hear an infernal cacophony!
+FR: Vous entendez une cacophonie infernale !
+
+EN: You hear diabolical laughter!
+FR: Vous entendez un rire diabolique !
+
+EN: You hear unearthly screeching!
+FR: Vous entendez des cris stridents surnaturels !
+
+EN: You hear the gnashing of teeth!
+FR: Vous entendez des grincements de dents !
+
+EN: You hear words spoken in a strange and terrible language...
+FR: Vous entendez des mots prononcés dans une langue étrange et terrible...
+
+EN: You hear your loved ones begging you to come home...
+FR: Vous entendez vos proches vous supplier de rentrer...
+
+EN: You hear your loved ones encouraging you to just give up and die...
+FR: Vous entendez vos proches vous encourager à abandonner et à mourir...
+
+EN: You hear your loved ones mocking you for coming here!
+FR: Vous entendez vos proches se moquer de vous pour être venu ici !
+
+EN: You hear your loved ones mourning your tragic, senseless death...
+FR: Vous entendez vos proches pleurer votre mort tragique et absurde...
+
+EN: You hear your loved ones weeping in eternal, hopeless despair...
+FR: Vous entendez vos proches sangloter dans un désespoir éternel et sans espoir...
+
+EN: You hear your own voice begging for death!
+FR: Vous entendez votre propre voix implorer la mort !
+
+EN: You hear your own voice laughing maniacally!
+FR: Vous entendez votre propre voix rire comme une démente !
+
+EN: You hear your own voice screaming in agony!
+FR: Vous entendez votre propre voix hurler de douleur !
+
+EN: You hear your own voice wailing miserably!
+FR: Vous entendez votre propre voix gémir misérablement !
+
+EN: Xom's Arena of Wonders
+FR: L’Arène des merveilles de Xom
+
+EN: Xom's Astounding Funhouse
+FR: La Stupéfiante Maison hantée de Xom
+
+EN: Xom's Carnival of Surprises
+FR: Le Carnaval des surprises de Xom
+
+EN: Xom's Dusty Attic
+FR: Le Grenier poussiéreux de Xom
+
+EN: The Wonderful World of Xom
+FR: Le Merveilleux Monde de Xom
+
+EN: The Crucible of Toys
+FR: Le Creuset des jouets
+
+EN: Xom's Toybox
+FR: Le Coffre à jouets de Xom
+
+EN: You have run entirely out of patience!
+FR: Vous êtes complètement à bout de patience !
+
+EN: Your sagacity is wasted on this audience!
+FR: Votre sagesse est gâchée pour ce public !
+
+EN: These dolts require a more hands-on lesson!
+FR: Ces abrutis ont besoin d’une leçon plus concrète !
+
+EN: No one ever listens!
+FR: Personne n’écoute jamais !
+
+EN: Reach enlightenment through violence!
+FR: Atteignez l’illumination par la violence !
+
+EN: Time to give them a lesson they'll never forget!
+FR: Il est temps de leur donner une leçon qu’ils n’oublieront jamais !
+
+EN: Pakellas the Inventive
+FR: Pakellas l’Inventif
+
+EN: Xom the Chaotic
+FR: Xom le Chaotique
+
+EN: Xom the Random
+FR: Xom l’Aléatoire
+
+EN: Xom the Random Number God
+FR: Xom, dieu des Nombres aléatoires
+
+EN: Xom the Elder Chaos God
+FR: Xom, Antique dieu du Chaos
+
+EN: Xom the Tricky
+FR: Xom le Roublard
+
+EN: Xom the Less-Predictable
+FR: Xom le Moins-Prévisible
+
+EN: Xom the Unpredictable
+FR: Xom l’Imprévisible
+
+EN: Xom of Many Doors
+FR: Xom aux Mille Portes
+
+EN: Xom the Capricious
+FR: Xom le Capricieux
+
+EN: Xom of Bloodstained Whimsey
+FR: Xom des Caprices sanglants
+
+EN: Xom of Enforced Whimsey
+FR: Xom des Caprices obligatoires
+
+EN: Xom of Bone-Dry Humour
+FR: Xom à l’Humour pince-sans-rire
+
+EN: Xom of Malevolent Giggling
+FR: Xom aux Gloussements malveillants
+
+EN: Xom of Malicious Giggling
+FR: Xom aux Gloussements malicieux
+
+EN: Xom of Gnomic Intent
+FR: Xom aux Desseins sibyllins
+
+EN: Xom of Ineffable Intent
+FR: Xom aux Desseins ineffables
+
+EN: Xom of Fickle Intent
+FR: Xom aux Desseins versatiles
+
+EN: Xom of Swiftly Tilting Intent
+FR: Xom aux Desseins vite basculants
+
+EN: Xom of Unknown Intent
+FR: Xom aux Desseins inconnus
+
+EN: Xom the Fickle
+FR: Xom le Versatile
+
+EN: Xom of Unknown Intention
+FR: Xom aux Intentions inconnues
+
+EN: The Xom-Meister
+FR: Le Grand Xom
+
+EN: The Xom-Meister, Xom-a-lom-a-ding-dong
+FR: Le Grand Xom, Xom-a-lom-a-ding-dong
+
+EN: The Xom-Meister, Xom-o-Rama
+FR: Le Grand Xom, Xom-o-Rama
+
+EN: The Xom-Meister, Xom-Xom-bo-Bom, Banana-Fana-fo-Fom
+FR: Le Grand Xom, Xom-Xom-bo-Bom, Banana-Fana-fo-Fom
+
+EN: Xom the Begetter of Turbulence
+FR: Xom, Géniteur de la Turbulence
+
+EN: Xom the Begetter of Discontinuities
+FR: Xom, Géniteur des Discontinuités
+
+EN: "This should solve all your mortal problems."
+FR: « Ceci devrait régler tous tes problèmes de mortel. »
+
+EN: "You have earned this, mortal."
+FR: « Tu l’as bien mérité, mortel. »
+
+EN: Xom offers you a trinket.
+FR: Xom vous offre une babiole.
+
+EN: Xom bestows a priceless treasure upon you.
+FR: Xom vous accorde un trésor inestimable.
+
+EN: Clutter rains down from above.
+FR: Un fatras d’objets pleut d’en haut.
+
+EN: "Surprise!"
+FR: « Surprise ! »
+
+EN: You hear rummaging in a distant attic.
+FR: Vous entendez fouiller dans un grenier lointain.
+
+EN: "A fitting gift for my favourite toy."
+FR: « Un cadeau digne de mon jouet préféré. »
+
+EN: "My favourite toy didn't want this, so you can have it instead."
+FR: « Mon jouet préféré n’en a pas voulu, alors tu peux l’avoir. »
+
+EN: "You seem to need some help staying out of trouble."
+FR: « Tu sembles avoir besoin d’aide pour éviter les ennuis. »
+
+EN: Xom thinks you could use some additional protection.
+FR: Xom pense qu’un peu plus de protection ne vous ferait pas de mal.
+
+EN: "This one will keep you safe."
+FR: « Celui-ci te protégera. »
+
+EN: "Guard the toy, my child."
+FR: « Garde le jouet, mon enfant. »
+
+EN: "I'm sure you two will get along fabulously."
+FR: « Je suis sûr que vous allez vous entendre à merveille, tous les deux. »
+
+EN: "This was the only babysitter available on short notice."
+FR: « C’était la seule nounou disponible au pied levé. »
+
+EN: "These ones will keep you safe."
+FR: « Ceux-ci te protégeront. »
+
+EN: "Guard the toy, my children."
+FR: « Gardez le jouet, mes enfants. »
+
+EN: "I'm sure all of you will get along fabulously."
+FR: « Je suis sûr que vous allez tous vous entendre à merveille. »
+
+EN: "Remember your place, mortal."
+FR: « N’oublie pas ta place, mortel. »
+
+EN: "Boring toys must be taught a lesson."
+FR: « Les jouets ennuyeux méritent une leçon. »
+
+EN: Xom tests your faith.
+FR: Xom met votre foi à l’épreuve.
+
+EN: "Amuse your god!"
+FR: « Divertis ton dieu ! »
+
+EN: Xom smiles daggers at you.
+FR: Xom vous lance un sourire assassin.
+
+EN: Xom's apathy hits you like a hurricane.
+FR: L’apathie de Xom vous frappe comme un ouragan.
+
+EN: "You require additional motivation, mortal."
+FR: « Il te faut un peu plus de motivation, mortel. »
+
+EN: "Isn't trouble so much fun?"
+FR: « Les ennuis, c’est tellement amusant, non ? »
+
+EN: "Have you ever considered the benefits of being very, very long?"
+FR: « As-tu déjà pensé aux avantages d’être très, très long ? »
+
+EN: "No, no, those are much too short."
+FR: « Non, non, ceux-là sont bien trop courts. »
+
+EN: "Let's see how stretchy you are!"
+FR: « Voyons à quel point tu es élastique ! »
+
+EN: Xom meddles with your body plan.
+FR: Xom bricole votre plan corporel.
+
+EN: "This is what peak performance looks like, mortal."
+FR: « Voilà à quoi ressemble la performance ultime, mortel. »
+
+EN: Xom invites you to prove yourself in combat! (Or flee; that is also acceptable.)
+FR: Xom vous invite à faire vos preuves au combat ! (Ou à fuir ; c’est acceptable aussi.)
+
+EN: Xom transports you to a magical carnival.
+FR: Xom vous transporte dans un carnaval magique.
+
+EN: Xom sets you up on a blind date.
+FR: Xom vous organise un rendez-vous à l’aveugle.
+
+EN: Xom invites you to a fabulous tea party.
+FR: Xom vous invite à un fabuleux goûter.
+
+EN: "This ought to be fun."
+FR: « Ça devrait être amusant. »
+
+EN: "Entertain your god!"
+FR: « Divertis ton dieu ! »
+
+EN: "Only one may leave!"
+FR: « Un seul pourra repartir ! »
+
+EN: "Dance, toys, dance!"
+FR: « Dansez, jouets, dansez ! »
+
+EN: Xom crowns you victorious!
+FR: Xom vous couronne vainqueur !
+
+EN: Xom crowns you mildly entertaining.
+FR: Xom vous couronne moyennement divertissant.
+
+EN: Xom crowns you minimally acceptable.
+FR: Xom vous couronne tout juste acceptable.
+
+EN: A tiny paper crown materialises on your head.
+FR: Une minuscule couronne de papier apparaît sur votre tête.
+
+EN: Xom thinks you've had quite enough fun for the moment.
+FR: Xom pense que vous vous êtes assez amusé pour le moment.
+
+EN: "See? Making new friends is easy."
+FR: « Tu vois ? Se faire de nouveaux amis, c’est facile. »
+
+EN: Xom puts you back where you came from.
+FR: Xom vous remet là d’où vous veniez.
+
+EN: Xom ushers you out before you can damage the room any further.
+FR: Xom vous raccompagne dehors avant que vous n’abîmiez davantage la pièce.
+
+EN: Xom hoots with approval!
+FR: Xom hulule d’approbation !
+
+EN: "This is for your own protection."
+FR: « C’est pour ta propre protection. »
+
+EN: "Toys shouldn't wander off."
+FR: « Les jouets ne doivent pas s’éloigner. »
+
+EN: Xom decides to protect an endangered species.
+FR: Xom décide de protéger une espèce menacée.
+
+EN: "I can't have my favourite toy go falling down the stairs!"
+FR: « Pas question que mon jouet préféré tombe dans l’escalier ! »
+
+EN: "Dancing on the stairs is bad for your health."
+FR: « Danser dans l’escalier, c’est mauvais pour la santé. »
+
+EN: "Well done, mortal."
+FR: « Bien joué, mortel. »
+
+EN: Xom graciously unlocks the door again.
+FR: Xom déverrouille gracieusement la porte.
+
+EN: "Now where did I put that key...."
+FR: « Où ai-je bien pu mettre cette clé... »
+
+EN: "Be free, my toy!"
+FR: « Sois libre, mon jouet ! »
+
+EN: Xom has second-thoughts about your captivity.
+FR: Xom se ravise au sujet de votre captivité.
+
+EN: "What a clever toy you are!"
+FR: « Quel jouet astucieux tu fais ! »
+
+EN: You feel a rush of knowledge for just a moment.
+FR: Vous ressentez un afflux de connaissances, l’espace d’un instant.
+
+EN: "Diversify thyself, my child."
+FR: « Diversifie-toi, mon enfant. »
+
+EN: "Have you ever considered trying this instead?"
+FR: « As-tu déjà pensé à essayer plutôt ceci ? »
+
+EN: Xom crams your mind full of knowledge.
+FR: Xom vous bourre le crâne de connaissances.
+
+EN: "Class is now in session."
+FR: « Le cours commence. »
+
+EN: Xom inundates you with a year's worth of experiences in a single moment.
+FR: Xom vous inonde d’une année d’expériences en un seul instant.
+
+EN: You feel a glimmer of Xom's boundless wisdom(?) touch upon you.
+FR: Vous sentez une lueur de la sagesse(?) infinie de Xom vous effleurer.
+
+EN: Xom teaches you a maddening secret.
+FR: Xom vous enseigne un secret à rendre fou.
+
+EN: Overwhelming understanding seizes you.
+FR: Une compréhension écrasante vous saisit.
+
+EN: "You could use a new trick."
+FR: « Un nouveau tour ne te ferait pas de mal. »
+
+EN: Xom's power brushes across your mind and you reel.
+FR: Le pouvoir de Xom effleure votre esprit et vous chancelez.
+
+EN: "Open your mind, my child."
+FR: « Ouvre ton esprit, mon enfant. »
+
+EN: Xom blesses you with insight into chaos.
+FR: Xom vous bénit d’une compréhension du chaos.
+
+EN: "Try not to let that happen again."
+FR: « Tâche que ça ne se reproduise pas. »
+
+EN: "Don't wander off like that."
+FR: « Ne t’éloigne pas comme ça. »
+
+EN: You sense Xom's disapproving frown.
+FR: Vous sentez le froncement de sourcils réprobateur de Xom.
+
+EN: "You mortals are so fragile."
+FR: « Vous, les mortels, êtes si fragiles. »
+
+EN: "Died hilariously, I hope!"
+FR: « Mort de façon hilarante, j’espère ! »
+
+EN: "And now for the sequel!"
+FR: « Et maintenant, la suite ! »
+
+EN: "Your duties are not yet fulfilled."
+FR: « Tes devoirs ne sont pas encore accomplis. »
+
+EN: "That wasn't supposed to happen."
+FR: « Ça n’était pas censé arriver. »
+
+EN: "Amuse me some more."
+FR: « Amuse-moi encore. »
+
+EN: "Casting spells with your hands is boring. Now you can do better, my child."
+FR: « Lancer des sorts avec les mains, c’est ennuyeux. Maintenant, tu peux faire mieux, mon enfant. »
+
+EN: "Unleash destruction with your footsteps!"
+FR: « Sème la destruction à chacun de tes pas ! »
+
+EN: "Put on a good show, my toy!"
+FR: « Offre-moi un beau spectacle, mon jouet ! »
+
+EN: "The curtain opens on a new scene."
+FR: « Le rideau se lève sur une nouvelle scène. »
+
+EN: "Show this realm the mightiest army they have ever seen!"
+FR: « Montre à ce royaume la plus puissante armée qu’il ait jamais vue ! »
+
+EN: "Sweep across this realm like an exorable tide!"
+FR: « Déferle sur ce royaume comme une marée exorable ! »
+
+EN: "Drive your enemies before you and take their shiny things!"
+FR: « Chasse tes ennemis devant toi et prends leurs trucs brillants ! »
+
+EN: Xom promotes you to Maple-General.
+FR: Xom vous promeut Général-Érable.
+
+EN: Xom gives you command of an army. (Some assembly required.)
+FR: Xom vous confie le commandement d’une armée. (Montage nécessaire.)
+
+EN: Xom sends (wooden) servants to aid you!
+FR: Xom envoie des serviteurs (en bois) pour vous aider !
+
+EN: Xom gifts you an army! (Of sorts....)
+FR: Xom vous offre une armée ! (Enfin, en quelque sorte...)
+
+EN: "Here, have some more understudies."
+FR: « Tiens, prends encore quelques doublures. »
+
+EN: Objects tumble out of Xom's toy box.
+FR: Des objets dégringolent du coffre à jouets de Xom.
+
+EN: "This one came highly recommended!"
+FR: « Celui-ci m’a été chaudement recommandé ! »
+
+EN: "I think this one might replace you if you don't step it up!"
+FR: « Je crois que celui-ci pourrait te remplacer si tu ne te bouges pas ! »
+
+EN: Xom sculpts chaos into a physical form.
+FR: Xom sculpte le chaos en une forme physique.
+
+EN: Xom lends you a pet cube.
+FR: Xom vous prête un cube de compagnie.
+
+EN: "It's time for a geometry lesson."
+FR: « C’est l’heure de la leçon de géométrie. »
+
+EN: "You look lonely; take this."
+FR: « Tu as l’air seul ; prends ça. »
+
+EN: "Enjoy this weightless companion dodecahedron."
+FR: « Profite de ce dodécaèdre de compagnie en apesanteur. »
+
+EN: Xom blesses you with excessive genetic potential.
+FR: Xom vous bénit d’un potentiel génétique excessif.
+
+EN: "You could use more variety in your organs."
+FR: « Un peu plus de variété dans tes organes ne te ferait pas de mal. »
+
+EN: Xom teaches you the importance of not being seen.
+FR: Xom vous apprend l’importance de ne pas être vu.
+
+EN: "Let's play hide and seek."
+FR: « Jouons à cache-cache. »
+
+EN: "Nobody ever suspects the barrel."
+FR: « Personne ne soupçonne jamais le tonneau. »
+
+EN: "They'll never see you coming."
+FR: « Ils ne te verront jamais venir. »
+
+EN: "Eeny, meeny, miny, moe...."
+FR: « Am, stram, gram... »
+
+EN: "Which is real and which is illusion?"
+FR: « Lequel est réel, et lequel est une illusion ? »
+
+EN: "Have a test of your perception, my child!"
+FR: « Voici un test de perception, mon enfant ! »
+
+EN: Xom adds a little enrichment to your environment.
+FR: Xom ajoute un peu d’enrichissement à votre environnement.
+
+EN: Xom reveals the presence of traps!
+FR: Xom révèle la présence de pièges !
+
+EN: Xom creates an obstacle course for you.
+FR: Xom vous crée un parcours d’obstacles.
+
+EN: "Watch out! This place is dangerous!"
+FR: « Attention ! Cet endroit est dangereux ! »
+
+EN: Xom draws the Minefield card.
+FR: Xom tire la carte Champ de mines.

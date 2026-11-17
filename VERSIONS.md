@@ -11,6 +11,11 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.21.9 — dat/database : enfer, accueil, Xom
+
+- Nouveau `messages/database_divers.js` (416 textes, généré par `outils/db/gen_exact.py` depuis `outils/db/miscname.txt`, `godname.txt`, `godspeak.txt`) : effets de l’Enfer (« Abandonnez tout espoir ! »), messages d’accueil sur l’Orbe de Zot (avec ses 18 adjectifs accordés), visions de la convocation d’horreurs, arènes de Xom, titres de Xom (« Xom le Roublard ») et de Pakellas, cadeaux et paroles de Xom (Xom tutoie, comme ailleurs).
+- Vérifié : les phrases de Xom à trous (décors, objets) étaient déjà traduites par le moteur de gabarits.
+
 ## 0.21.8 — relecture de officiel.js
 
 - 493 descriptions de l’ancienne traduction officielle corrigées (sur 834) : textes qui ne correspondaient plus à l’anglais actuel (retraduits), fautes (« Elle à », « qui on »), termes alignés sur le glossaire (Discrétion, Amulette, Lames courtes, Maléfices).
