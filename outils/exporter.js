@@ -40,5 +40,7 @@ const dm = {}; for (const [k, tab] of Object.entries(ctx.DCSS_DECORS_MACROS || {
 if (Object.keys(dm).length) { fs.writeFileSync(path.join(out, "decors_morceaux.txt"), bloc(dm)); tout.decors_morceaux = dm; total += Object.keys(dm).length; }
 const tit = {}; for (const [en, fr] of (ctx.DCSS_TITRES || [])) tit[en] = fr;
 if (Object.keys(tit).length) { fs.writeFileSync(path.join(out, "titres.txt"), bloc(tit)); tout.titres = tit; total += Object.keys(tit).length; }
+const pt = ctx.DCSS_PHRASES_TOUCHES || {};
+if (Object.keys(pt).length) { fs.writeFileSync(path.join(out, "phrases_touches.txt"), bloc(pt)); tout.phrases_touches = pt; total += Object.keys(pt).length; }
 fs.writeFileSync(path.join(out, "tout.json"), JSON.stringify(tout, null, 1));
 console.log("textes exportés :", total, "+", Object.keys(mon).length, "monstres +", Object.keys(proj).length, "projectiles");

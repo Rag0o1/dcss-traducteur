@@ -6,7 +6,7 @@ f = sys.argv[1]
 d = json.load(open(os.path.join(os.path.dirname(__file__), "priorites.json"), encoding="utf8"))
 wb = load_workbook(f)
 if "Priorités" in wb.sheetnames: del wb["Priorités"]
-ws = wb.create_sheet("Priorités", 0)
+ws = wb.create_sheet("Priorités", 1 if "Accueil" in wb.sheetnames else 0)
 gras = Font(bold=True); couleurs = {1: "F4CCCC", 2: "FCE5CD", 3: "FFF2CC", 4: "D9EAD3"}
 ws.append(["Priorité", "Sujet", "Source", "Volume", "Ce que c’est", "Décision / état"])
 for c in ws[1]: c.font = gras
@@ -23,6 +23,6 @@ for col, w in zip("ABCDEF", (9, 42, 40, 14, 60, 34)): ws.column_dimensions[col].
 for row in ws.iter_rows():
     for c in row: c.alignment = Alignment(wrap_text=True, vertical="top")
 ws.freeze_panes = "A2"
-wb.active = 0
+wb.active = wb.sheetnames.index("Traductions") if "Traductions" in wb.sheetnames else 0
 wb.save(f)
 print("page Priorités :", len(d["taches"]), "tâches,", len(d["astuces"]), "phrases")
