@@ -347,8 +347,54 @@ function traduireMemo(texte) {
     return resultat;
 }
 
+
+// ---------------------------------------------------------------------------------------------
+// Phrases à touches (astuces, tutoriel) : le jeu colore les touches (<w>x</w>) au milieu des phrases,
+// ce qui coupe la phrase en plusieurs nœuds texte. On reconnaît alors la phrase ENTIÈRE sur l'élément
+// parent : chaque élément enfant (la touche colorée) devient « Ⓚ », et seule une phrase complète
+// connue (donnees/interface/phrases_touches.js) est traduite. Garde-fou : aucun morceau isolé n'est
+// traduit, donc aucun risque ailleurs dans le jeu. Coût : une recherche dans un tableau par parent.
+// ---------------------------------------------------------------------------------------------
+const DCSS_PHRASES_TOUCHES = new Map(Object.entries(globalThis.DCSS_PHRASES_TOUCHES || {}));
+const dcssSigTouches = s => s.replace(/\s+/g, " ").trim();
+function traduirePhraseATouches(noeud) {
+    const parent = noeud.parentElement;
+    if (!parent || parent.childElementCount === 0 || parent.childNodes.length < 3) return false;
+    const contenu = parent.textContent;
+    if (parent.__dcssTouches === contenu) return false;          // déjà examiné, rien n'a changé
+    parent.__dcssTouches = contenu;
+    const parts = [[]], textes = [""];
+    for (const enfant of parent.childNodes) {
+        if (enfant.nodeType === Node.TEXT_NODE) { parts[parts.length - 1].push(enfant); textes[textes.length - 1] += enfant.nodeValue; }
+        else if (enfant.nodeType === Node.ELEMENT_NODE) { parts.push([]); textes.push(""); }
+    }
+    if (parts.length < 2) return false;
+    // Paragraphe par paragraphe (une fenêtre peut contenir plusieurs paragraphes).
+    let change = false;
+    const resultat = textes.join("Ⓚ").split(/(\n[ \t]*\n)/).map(bloc => {
+        const fr = DCSS_PHRASES_TOUCHES.get(dcssSigTouches(bloc));
+        if (typeof fr !== "string") return bloc;
+        change = true;
+        return bloc.match(/^\s*/)[0] + fr + bloc.match(/\s*$/)[0];
+    }).join("");
+    if (!change) return false;
+    const morceaux = resultat.split("Ⓚ");
+    if (morceaux.length !== parts.length) return false;
+    for (let i = 0; i < parts.length; i++) {
+        if (!parts[i].length) { if (morceaux[i].trim()) return false; continue; }
+    }
+    for (let i = 0; i < parts.length; i++) {
+        if (!parts[i].length) continue;
+        parts[i][0].nodeValue = morceaux[i];
+        for (let j = 1; j < parts[i].length; j++) parts[i][j].nodeValue = "";
+    }
+    parent.__dcssTouches = parent.textContent;
+    return true;
+}
+
 function traduireNoeudTexte(noeud) {
     if (!noeud || noeud.nodeType !== Node.TEXT_NODE) return;
+    if (DCSS_PHRASES_TOUCHES.size) traduirePhraseATouches(noeud);   // ne fait rien si la phrase n'est pas connue
     const original = noeud.nodeValue;
     if (typeof original !== "string") return;
     if (original.length > DCSS_MAX_TEXTE_SOURCE) {
