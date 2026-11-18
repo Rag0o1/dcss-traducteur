@@ -110,7 +110,8 @@
         "donnees/manuel/manuel_07.js",
         "donnees/manuel/manuel_08.js",
         "moteur/content.js",
-        "moteur/diagnostic.js"
+        "moteur/diagnostic.js",
+        "moteur/recherche.js"
       ],
       "run_at": "document_idle"
     }
