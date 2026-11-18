@@ -19,7 +19,7 @@
             if (m.index > d) out.push({ t: "lit", s: src.slice(d, m.index) });
             d = re.lastIndex;
             if (m[1] !== undefined) out.push({ t: "alt", opts: m[1].split("|") });
-            else if (m[2] !== undefined) out.push({ t: "ref", nom: ALIAS[m[2]] || m[2], gn: m[3] });
+            else if (m[2] !== undefined) { const suiv = fr && m[2].endsWith(">"); const nom = suiv ? m[2].slice(0, -1) : m[2]; out.push({ t: "ref", nom: ALIAS[nom] || nom, gn: m[3], suiv }); }
             else out.push({ t: "tag", v: m[4] });
         }
         if (d < src.length) out.push({ t: "lit", s: src.slice(d) });
@@ -74,10 +74,15 @@
         if (nd.feuille) {
             const n = nd.nom; let t = nd.texte;
             if (/^random_(god|skill)/.test(n)) { const r = T1(t); if (r && r !== t) t = r; else { const r2 = T1("the " + t); if (r2 && r2 !== "the " + t) t = r2.replace(/^(?:le|la|l’) ?/, m => m); } }
+            if (/_possessive$/.test(n)) t = t.replace(/[’']s$/, "");   // « Trog's » → « Trog » (le français écrit « de Trog »)
+            else if (/^(branch_name|god_name|xom_name|player_species)$/.test(n)) { const r = T1(t); if (r && r !== t) t = r; }
             return { s: t, gn: null };
         }
         let cur = ctx.gn || "ms", inv = !!ctx.inv, gnNoeud = null; const pris = {}; let sortie = "";
-        for (const t of nd.p.tf) {
+        const sousNoeud = (k, rang) => { let v = 0; for (const [nom, sub] of nd.enf) if (nom === k && ++v === rang) return sub; return null; };
+        const tf = nd.p.tf;
+        for (let ti = 0; ti < tf.length; ti++) {
+            const t = tf[ti];
             if (t.t === "tag") { if (t.v === "inv") inv = true; else { cur = t.v; if (!gnNoeud) gnNoeud = t.v; } }
             else if (t.t === "lit") sortie += accord(t.s, cur, inv);
             else if (t.t === "alt") { /* index pris dans l'ordre des alternatives anglaises */ nd._ia = (nd._ia || 0); const n = nd.alts[nd._ia++]; sortie += accord(t.opts[Math.min(n === undefined ? 0 : n, t.opts.length - 1)], cur, inv); }
@@ -85,14 +90,31 @@
                 const k = t.nom; pris[k] = (pris[k] || 0) + 1; let c = null, v = 0;
                 for (const [nom, sub] of nd.enf) if (nom === k && ++v === pris[k]) { c = sub; break; }
                 if (!c) return { s: "", gn: null, erreur: true };
-                const r = rendre(c, { gn: t.gn || cur, inv: inv || ctx.inv }); if (r.erreur) return r;
-                sortie += r.s; if (r.gn && !t.gn) { cur = r.gn; if (!gnNoeud) gnNoeud = r.gn; }
+                let gnRef = t.gn || cur;
+                if (t.suiv) {   // @règle>@ : s'accorde avec le morceau suivant (adjectif ou nombre placé devant le nom)
+                    for (let tj = ti + 1; tj < tf.length; tj++) if (tf[tj].t === "ref") {
+                        const k2 = tf[tj].nom, rang2 = (pris[k2] || 0) + (k2 === k ? 1 : 1);
+                        const c2 = sousNoeud(k2, k2 === k ? pris[k] + 1 : rang2);
+                        if (c2) { const r2 = rendre(c2, { gn: cur, inv: inv || ctx.inv }); if (r2.gn) gnRef = r2.gn; }
+                        break;
+                    }
+                }
+                const r = rendre(c, { gn: gnRef, inv: inv || ctx.inv }); if (r.erreur) return r;
+                if (sortie.includes("¤")) {   // ¤ = article défini accordé avec le morceau qui suit (noms d'artefacts)
+                    const g = (t.suiv ? gnRef : r.gn) || "ms";
+                    const art = g[1] === "p" ? "les " : /^[aeiouyhâàéèêëîïôœû]/i.test(r.s) ? "l’" : g[0] === "f" ? "la " : "le ";
+                    sortie = sortie.replace("¤", art);
+                }
+                sortie += r.s; if (r.gn && !t.gn && !t.suiv) { cur = r.gn; if (!gnNoeud) gnNoeud = r.gn; }
             }
         }
         nd._ia = 0;
         return { s: sortie, gn: gnNoeud };
     }
-    function elisions(s) { return s.replace(/\b([Dd]e|[Qq]ue) ([AEIOUYÉÈÊ])/g, (m, a, b) => a.slice(0, -1) + "’" + b); }
+    function elisions(s) {
+        return s.replace(/ {2,}/g, " ").trim().replace(/\b([Dd])e le /g, "$1u ").replace(/\b([Dd])e les /g, "$1es ").replace(/\bà le /g, "au ").replace(/\bà les /g, "aux ")
+            .replace(/\b([Dd]e|[Qq]ue) ([AEIOUYÉÈÊ])/g, (m, a, b) => a.slice(0, -1) + "’" + b);
+    }
 
     function traduire(regle, texte) {
         if (!REGLES) charger();
@@ -101,5 +123,17 @@
         const r = rendre(nd, { gn: "ms" }); if (r.erreur) return null;
         return elisions(r.s);
     }
-    globalThis.DCSS_GRAFFITIS = { traduire };
+    // Noms aléatoires d'artefacts (« of the Lonely Yaks ») : on essaie les règles de départ du jeu (weapon, armour, ring…).
+    const memoNoms = new Map();
+    function nomArtefact(suffixe) {
+        if (memoNoms.has(suffixe)) return memoNoms.get(suffixe);
+        if (!REGLES) charger();
+        let res = null;
+        const depart = globalThis.DCSS_NOMS_DEPART || [];
+        for (const r of depart) { if (REGLES[r] && (res = traduire(r, suffixe))) break; }
+        if (memoNoms.size > 2000) memoNoms.clear();
+        memoNoms.set(suffixe, res);
+        return res;
+    }
+    globalThis.DCSS_GRAFFITIS = { traduire, nomArtefact };
 })();

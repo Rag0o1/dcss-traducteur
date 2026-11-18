@@ -310,8 +310,25 @@ globalThis.DCSS_TRADUIRE_CHAINE = function chaine(texte) {
     texte = traduireSorts(texte);
     // Les libellés à colonnes d'abord (ils ne touchent qu'à des phrases précises), puis le moteur normal.
     const apresColonnes = traduireColonnes(texte);
-    return conserverLargeur(texte, traduireChaine(apresColonnes));
+    return traduireNomsArtefacts(texte, conserverLargeur(texte, traduireChaine(apresColonnes)));
 };
+// Noms aléatoires d'artefacts : le reste de la phrase est traduit normalement, puis le nom anglais restant
+// (« de Lonely Yaks ») est remplacé par sa traduction faite avec la grammaire du jeu (moteur/graffitis.js).
+const DCSS_RE_ARTEFACT = /(?<=\b[a-z]+ )of ((?:the )?[A-Z][^{}()"\n.,!?;:]*?)(?= \{| \(| \[|[.,!?;:]|\s*$)/g;
+function traduireNomsArtefacts(anglais, sortie) {
+    if (typeof sortie !== "string" || !globalThis.DCSS_GRAFFITIS || !globalThis.DCSS_GRAFFITIS.nomArtefact || anglais.indexOf(" of ") === -1) return sortie;
+    let m; DCSS_RE_ARTEFACT.lastIndex = 0;
+    while ((m = DCSS_RE_ARTEFACT.exec(anglais))) {
+        const nu = m[1].replace(/^the /, "");
+        const reste = "de " + nu;
+        const i = sortie.indexOf(reste);
+        if (i === -1 && sortie.indexOf("de " + m[1]) === -1) continue;
+        const fr = globalThis.DCSS_GRAFFITIS.nomArtefact("of " + m[1]);
+        if (!fr) continue;
+        sortie = i !== -1 ? sortie.replace(reste, fr) : sortie.replace("de " + m[1], fr);
+    }
+    return sortie;
+}
 // Tableaux en police fixe (compétences...) : le jeu complète les mots par des espaces pour aligner les colonnes.
 // Si la traduction n'a pas la même longueur, on retire ou ajoute des espaces finaux pour garder la même largeur.
 function conserverLargeur(original, sortie) {

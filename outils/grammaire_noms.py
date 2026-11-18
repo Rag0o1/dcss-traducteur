@@ -75,6 +75,7 @@ def main():
         f.write("// Grammaire des noms aléatoires d’artefacts (randname.txt, rand_*.txt) : [anglais, français] par production.\n")
         f.write("// Généré par outils/grammaire_noms.py à partir de outils/noms_aleatoires_fr.txt. Moteur : moteur/graffitis.js.\n")
         f.write("globalThis.DCSS_GRAFFITIS_REGLES = Object.assign(globalThis.DCSS_GRAFFITIS_REGLES || {}, " + json.dumps(donnees, ensure_ascii=False, indent=0) + ");\n")
+        f.write("globalThis.DCSS_NOMS_DEPART = " + json.dumps([n for n in ordre if not n.startswith("_") and "appearance" not in n and n not in ("divine_esteem", "death_or_doom", "other_weapon_name", "killer_name")], ensure_ascii=False) + ";\n")
     print("écrit", out, sum(len(v) for v in donnees.values()), "productions")
 
 main()
