@@ -581,7 +581,7 @@ EN: A passage leading back to the Lair of Beasts.
 FR: Un passage qui ramène au Repaire des Bêtes.
 
 EN: A passage leading to a sewer. It is gradually rusting away.
-FR: Ce passage conduit à un sewer. Il se détériore peu à peu sous la rouille.
+FR: Ce passage conduit au Sewer. Il se détériore peu à peu sous la rouille.
 
 EN: A passage leading to the Spider Nest.
 FR: Ce passage conduit au Nid des Araignées.
@@ -623,16 +623,16 @@ EN: A poor creature that looks hideously deformed.
 FR: La pauvre créature semble hideusement déformée.
 
 EN: A portal leading to a wizard's laboratory. It is fading away.
-FR: Ce portail conduit à un wizlab. Il semble s’effacer doucement.
+FR: Ce portail conduit au Wizlab. Il semble s’effacer doucement.
 
 EN: A portal leading to a ziggurat.
-FR: Ce portail conduit à un ziggurat.
+FR: Ce portail conduit à la Ziggurat.
 
 EN: A portal leading to an ice cave. The archway is gradually melting away.
-FR: Ce portail conduit à une ice cave. L’encadrement est en train de fondre.
+FR: Ce portail conduit à l’Ice Cave. L’encadrement est en train de fondre.
 
 EN: A portal leading to the heart of a volcano. Rocks are falling from the roof and sides of the tunnel, filling the entry.
-FR: Ce portail conduit au cœur d’un volcano. Des rochers tombent du plafond et des cotés, comblant le passage.
+FR: Ce portail conduit au cœur du Volcano. Des rochers tombent du plafond et des cotés, comblant le passage.
 
 EN: A potion which confers invisibility on one who consumes it. [[player invis desc]]
 FR: Une potion qui vous dissimule à la vue des autres.
@@ -866,7 +866,7 @@ EN: A staircase leading further down.
 FR: Ces escaliers mènent plus profondément.
 
 EN: A staircase leading to an ossuary. Sand is continuously pouring onto it, gradually blocking the entrance.
-FR: Cet escalier conduit à un ossuary. Du sable s’y déverse continuellement et en bloque peu à peu l’entrée.
+FR: Cet escalier conduit à l’Ossuary. Du sable s’y déverse continuellement et en bloque peu à peu l’entrée.
 
 EN: A staircase leading to the Crypt.
 FR: Cet escalier mène à la Crypte.

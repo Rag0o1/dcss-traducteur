@@ -11,6 +11,11 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.24.1 — messages des portails
+
+- 421 messages des portails traduits (`outils/db/portails.txt`, généré dans `database_divers.js`) : annonces (« Il y a une entrée vers le Sewer à ce niveau. Dépêchez-vous de la trouver avant que le portail ne rouille ! »), bruits qui s’éloignent, fermetures, noms des salles des Wizlab et des Troves.
+- Décision du 18/11 : les portails sont des noms propres → article défini (« vers la Ziggurat », « au Gauntlet », « du Volcano ») ; 29 textes corrigés.
+
 ## 0.24 — noms d’artefacts aléatoires, portails en anglais
 
 - Noms d’artefacts aléatoires traduits avec la grammaire du jeu (`randname.txt`, `rand_all/arm/wpn.txt` → `outils/noms_aleatoires_fr.txt`, généré par `outils/grammaire_noms.py`) : « l’épée longue +2 des Yaks solitaires », « l’armure de plates +8 de la Bienveillance de Xom », « la dague +1 de l’Aspic fortifiant ». Les noms inventés entre guillemets (« Vlaxus ») restent tels quels.

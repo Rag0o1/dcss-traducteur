@@ -210,7 +210,7 @@ globalThis.DCSS_TRADUCTIONS.lex_phrases = {
 "This branch contains the entrance to the Tomb of the Ancients.": "Cette branche contient l’entrée de la Tombe des Anciens.",
 "This branch contains the entrances to the Ecumenical Temple, the Lair of Beasts, the Orcish Mines, the Vaults and the Depths.": "Cette branche contient les entrées du Temple Œcuménique, de l’Antre des Bêtes, des Mines Orques, des Chambres Fortes et des Profondeurs.",
 "This branch contains the entrances to the Iron City of Dis, Gehenna, Cocytus and Tartarus.": "Cette branche contient les entrées de la Cité de Fer de Dis, de la Géhenne, du Cocyte et du Tartare.",
-"This branch contains the entrances to the Realm of Zot and a ziggurat.": "Cette branche contient les entrées du Royaume de Zot et d’une ziggurat.",
+"This branch contains the entrances to the Realm of Zot and a ziggurat.": "Cette branche contient les entrées du Royaume de Zot et de la Ziggurat.",
 "This branch contains the golden rune of Zot.": "Cette branche contient la rune dorée de Zot.",
 "This branch contains the gossamer rune of Zot.": "Cette branche contient la rune arachnéenne de Zot.",
 "This branch contains the icy rune of Zot.": "Cette branche contient la rune glacée de Zot.",

@@ -1245,3 +1245,1266 @@ FR: « Attention ! Cet endroit est dangereux ! »
 
 EN: Xom draws the Minefield card.
 FR: Xom tire la carte Champ de mines.
+
+EN: You hear the hiss of flowing sand.
+FR: Vous entendez le sifflement du sable qui s’écoule.
+
+EN: There is an entrance to an ossuary on this level. Hurry and find it before the portal is buried!
+FR: Il y a une entrée vers l’Ossuary à ce niveau. Dépêchez-vous de la trouver avant que le portail ne soit enseveli !
+
+EN: The hiss of flowing sand is almost imperceptible now.
+FR: Le sifflement du sable qui s’écoule est presque imperceptible à présent.
+
+EN: The hiss of flowing sand is gone.
+FR: Le sifflement du sable qui s’écoule a cessé.
+
+EN: There is a click, and some walls slide away!
+FR: Il y a un déclic, et des murs coulissent !
+
+EN: You hear the roar of battle.
+FR: Vous entendez le fracas de la bataille.
+
+EN: There is an entrance to a bailey on this level. Hurry and find it before the portal closes forever!
+FR: Il y a une entrée vers le Bailey à ce niveau. Dépêchez-vous de la trouver avant que le portail ne se referme à jamais !
+
+EN: The portcullis has been lowered almost to the ground.
+FR: La herse a été abaissée presque jusqu’au sol.
+
+EN: The portal closes with a thud.
+FR: Le portail se referme dans un bruit sourd.
+
+EN: You hear the crackle of arcane power.
+FR: Vous entendez le crépitement d’une puissance arcanique.
+
+EN: There is an entrance to a wizard's laboratory on this level! Hurry and find it before the portal closes forever!
+FR: Il y a une entrée vers le Wizlab à ce niveau ! Dépêchez-vous de la trouver avant que le portail ne se referme à jamais !
+
+EN: The crackle of the magical portal is almost imperceptible now.
+FR: Le crépitement du portail magique est presque imperceptible à présent.
+
+EN: The flow of magic halts.
+FR: Le flux de magie s’interrompt.
+
+EN: You hear the sound of rushing water.
+FR: Vous entendez le bruit d’une eau qui se précipite.
+
+EN: There is an entrance to a sewer on this level. Hurry and find it before the portal rusts away!
+FR: Il y a une entrée vers le Sewer à ce niveau. Dépêchez-vous de la trouver avant que le portail ne rouille !
+
+EN: You hear the drain falling apart.
+FR: Vous entendez la canalisation tomber en morceaux.
+
+EN: The drain falls to bits.
+FR: La canalisation tombe en morceaux.
+
+EN: You hear the sound of rushing sludge.
+FR: Vous entendez le bruit de la vase qui se précipite.
+
+EN: There is an entrance to a gutter gulch on this level. Hurry and find it before the portal rusts away!
+FR: Il y a une entrée vers le Gutter Gulch à ce niveau. Dépêchez-vous de la trouver avant que le portail ne rouille !
+
+EN: The mutagenic drain falls to bits.
+FR: La canalisation mutagène tombe en morceaux.
+
+EN: You hear a distant snort.
+FR: Vous entendez au loin un reniflement bruyant.
+
+EN: Hark! There is a gateway to a gauntlet on this level. Find the entrance quickly before the gate is sealed!
+FR: Écoutez ! Il y a une porte vers le Gauntlet à ce niveau. Trouvez vite l’entrée avant que la porte ne soit scellée !
+
+EN: After a thunderous strike, the drumbeats cease.
+FR: Après un coup tonitruant, les battements de tambour cessent.
+
+EN: The gate leading to a gauntlet disappears!
+FR: La porte menant au Gauntlet disparaît !
+
+EN: You feel a wave of frost pass over you.
+FR: Une vague de givre vous traverse.
+
+EN: There is an entrance to an ice cave on this level. Hurry and find it before the portal melts!
+FR: Il y a une entrée vers l’Ice Cave à ce niveau. Dépêchez-vous de la trouver avant que le portail ne fonde !
+
+EN: The crackling of melting ice is subsiding rapidly.
+FR: Le craquement de la glace fondante diminue rapidement.
+
+EN: The archway melts and disappears.
+FR: L’arche fond et disparaît.
+
+EN: You hear the solemn chanting of funerary rites.
+FR: Vous entendez le chant solennel de rites funéraires.
+
+EN: There is an entrance to the Necropolis on this level. Hurry and find it before the portal closes!
+FR: Il y a une entrée vers la Necropolis à ce niveau. Dépêchez-vous de la trouver avant que le portail ne se referme !
+
+EN: The funeral rites reach a fever pitch!
+FR: Les rites funéraires atteignent leur paroxysme !
+
+EN: The funeral rites fall silent, and the phantasmal passage disappears!
+FR: Les rites funéraires se taisent, et le passage fantasmatique disparaît !
+
+EN: You hear a distant wind.
+FR: Vous entendez un vent lointain.
+
+EN: There is a portal to the Desolation of Salt on this level. Hurry and find it before the gateway collapses!
+FR: Il y a un portail vers la Desolation of Salt à ce niveau. Dépêchez-vous de le trouver avant que le passage ne s’effondre !
+
+EN: The wind is rapidly growing quiet.
+FR: Le vent se calme rapidement.
+
+EN: The gateway collapses.
+FR: Le passage s’effondre.
+
+EN: You feel an oppressive heat about you.
+FR: Une chaleur oppressante vous enveloppe.
+
+EN: There is an entrance to a volcano on this level. Hurry and find it before the entrance collapses!
+FR: Il y a une entrée vers le Volcano à ce niveau. Dépêchez-vous de la trouver avant que l’entrée ne s’effondre !
+
+EN: The sound of falling rocks suddenly begins to subside.
+FR: Le bruit des éboulis se met soudain à diminuer.
+
+EN: There is a deep roar from within the tunnel. Moments later, a river of lava pours forth, sealing it permanently.
+FR: Un grondement sourd retentit au fond du tunnel. Quelques instants plus tard, un fleuve de lave se déverse et le scelle définitivement.
+
+EN: You hear coins being counted.
+FR: Vous entendez compter des pièces.
+
+EN: An interdimensional caravan has stopped on this level and set up a bazaar. Hurry and find its entrance before they move on!
+FR: Une caravane interdimensionnelle s’est arrêtée à ce niveau et a installé le Bazaar. Dépêchez-vous d’en trouver l’entrée avant qu’elle ne reparte !
+
+EN: You hear the last, dying notes of the bell.
+FR: Vous entendez les dernières notes mourantes de la cloche.
+
+EN: The gate to the bazaar disappears!
+FR: La porte du Bazaar disparaît !
+
+EN: The walls and floor vibrate strangely for a moment.
+FR: Les murs et le sol vibrent étrangement un instant.
+
+EN: Upon your arrival, your hatred by all makes the other customers disperse.
+FR: À votre arrivée, la haine universelle qui vous vise fait se disperser les autres clients.
+
+EN: Upon your arrival, your lonesome duellist's vow makes the other customers flee.
+FR: À votre arrivée, votre vœu de duelliste solitaire fait fuir les autres clients.
+
+EN: Xom shifts dimensions to make the bazaar a little more interesting.
+FR: Xom change de dimension pour rendre le Bazaar un peu plus intéressant.
+
+EN: You hear the bustle and chatter of other... customers...?
+FR: Vous entendez l’agitation et les bavardages d’autres... clients... ?
+
+EN: You hear the chatter and bustle of other customers!
+FR: Vous entendez les bavardages et l’agitation d’autres clients !
+
+EN: The air gets thick with the scent of sulphur.
+FR: L’air s’épaissit d’une odeur de soufre.
+
+EN: In the distance, the volcano erupts with a roar.
+FR: Au loin, le Volcano entre en éruption dans un rugissement.
+
+EN: The volcano comes to life with a roar!
+FR: Le Volcano se réveille dans un rugissement !
+
+EN: The volcano roars to life, belching forth lava!
+FR: Le Volcano se réveille dans un rugissement et crache de la lave !
+
+EN: There is a rumble as the volcano erupts. The roof shakes.
+FR: Un grondement retentit tandis que le Volcano entre en éruption. Le plafond tremble.
+
+EN: The volcano erupts! Nearby, a roof collapses.
+FR: Le Volcano entre en éruption ! Tout près, un plafond s’effondre.
+
+EN: The ground shudders ominously.
+FR: Le sol tremble de façon inquiétante.
+
+EN: In the distance, the volcano explodes with a roar! Lava spreads onto the path.
+FR: Au loin, le Volcano explose dans un rugissement ! La lave se répand sur le chemin.
+
+EN: The air is thick with the scent of sulphur.
+FR: L’air est épais d’une odeur de soufre.
+
+EN: There is another distant roar. More lava overflows!
+FR: Un autre rugissement retentit au loin. Davantage de lave déborde !
+
+EN: The ground moves violently!
+FR: Le sol bouge violemment !
+
+EN: The volcano erupts again! A thin layer of lava overflows to fill the cavern.
+FR: Le Volcano entre en éruption à nouveau ! Une fine couche de lave déborde et remplit la caverne.
+
+EN: The ground shudders. Some of the lava has hardened enough to walk over!
+FR: Le sol tremble. Une partie de la lave a durci assez pour qu’on puisse marcher dessus !
+
+EN: The walls briefly shake.
+FR: Les murs tremblent brièvement.
+
+EN: The walls violently shake.
+FR: Les murs tremblent violemment.
+
+EN: The walls fall away. The entombed are set free!
+FR: Les murs s’effondrent. Les emmurés sont libérés !
+
+EN: A door appears!
+FR: Une porte apparaît !
+
+EN: The walls vibrate.
+FR: Les murs vibrent.
+
+EN: Strange, shadowy figures dance through the air in front of you.
+FR: D’étranges silhouettes d’ombre dansent dans l’air devant vous.
+
+EN: This room is filled with shadowy figures, quietly meditating.
+FR: Cette salle est remplie de silhouettes d’ombre qui méditent en silence.
+
+EN: Here, spectral monks perform complicated, martial routines; they fade quickly.
+FR: Ici, des moines spectraux exécutent des enchaînements martiaux compliqués ; ils s’estompent vite.
+
+EN: Faint laughter comes from somewhere. Too faint to be real.
+FR: Un rire faible parvient de quelque part. Trop faible pour être réel.
+
+EN: There is a faint scream of pain from a crouched figure. This too fades quickly.
+FR: Une silhouette accroupie pousse un faible cri de douleur. Cela aussi s’estompe vite.
+
+EN: Grey monks gather around the fountain. They do not speak, nor look at each other.
+FR: Des moines gris se rassemblent autour de la fontaine. Ils ne parlent pas et ne se regardent pas.
+
+EN: A figure sits in silent meditation. It spots you, gestures wildly, and disappears.
+FR: Une silhouette est assise dans une méditation silencieuse. Elle vous repère, gesticule frénétiquement et disparaît.
+
+EN: One of the shadowy figures appears more solid!
+FR: L’une des silhouettes d’ombre paraît plus solide !
+
+EN: Shadows coalesce into solid form.
+FR: Les ombres se condensent en une forme solide.
+
+EN: The shadows inhabiting this place fade forever.
+FR: Les ombres qui habitent ce lieu s’effacent à jamais.
+
+EN: A lost soul coalesces out of thin air!
+FR: Une âme perdue se matérialise de nulle part !
+
+EN: The Chambers of the Cloud Mage
+FR: Les Chambres du Mage des nuages
+
+EN: Welcome to The Chambers of the Cloud Mage!
+FR: Bienvenue dans les Chambres du Mage des nuages !
+
+EN: The Hall of the Hellbinder
+FR: La Salle du Lieur d’Enfer
+
+EN: Welcome to The Hall of the Hellbinder!
+FR: Bienvenue dans la Salle du Lieur d’Enfer !
+
+EN: Doroklohe's Tomb
+FR: Le Tombeau de Doroklohe
+
+EN: Welcome to Doroklohe's Tomb!
+FR: Bienvenue au Tombeau de Doroklohe !
+
+EN: Cigotuvi's Fleshworks
+FR: Les Forges de chair de Cigotuvi
+
+EN: Welcome to Cigotuvi's Fleshworks!
+FR: Bienvenue dans les Forges de chair de Cigotuvi !
+
+EN: Iskenderun's Mystic Tower
+FR: La Tour mystique d’Iskenderun
+
+EN: Welcome to Iskenderun's Mystic Tower!
+FR: Bienvenue dans la Tour mystique d’Iskenderun !
+
+EN: Zonguldrok's Shrine
+FR: Le Sanctuaire de Zonguldrok
+
+EN: Welcome to Zonguldrok's Shrine!
+FR: Bienvenue au Sanctuaire de Zonguldrok !
+
+EN: Wucad Mu's Monastery
+FR: Le Monastère de Wucad Mu
+
+EN: Welcome to Wucad Mu's Monastery!
+FR: Bienvenue au Monastère de Wucad Mu !
+
+EN: The Roulette of Golubria
+FR: La Roulette de Golubria
+
+EN: Welcome to The Roulette of Golubria!
+FR: Bienvenue dans la Roulette de Golubria !
+
+EN: Lehudib's Moon Base
+FR: La Base lunaire de Lehudib
+
+EN: Welcome to Lehudib's Moon Base!
+FR: Bienvenue dans la Base lunaire de Lehudib !
+
+EN: Eringya's Formal Garden
+FR: Le Jardin à la française d’Eringya
+
+EN: Welcome to Eringya's Formal Garden!
+FR: Bienvenue au Jardin à la française d’Eringya !
+
+EN: Maxwell's Workshop
+FR: L’Atelier de Maxwell
+
+EN: Welcome to Maxwell's Workshop!
+FR: Bienvenue dans l’Atelier de Maxwell !
+
+EN: Yara's Duellist Academy
+FR: L’Académie de duel de Yara
+
+EN: Welcome to Yara's Duellist Academy!
+FR: Bienvenue dans l’Académie de duel de Yara !
+
+EN: Borgnjor's Mausoleum
+FR: Le Mausolée de Borgnjor
+
+EN: Welcome to Borgnjor's Mausoleum!
+FR: Bienvenue au Mausolée de Borgnjor !
+
+EN: Tukima's Studio
+FR: Le Studio de Tukima
+
+EN: Welcome to Tukima's Studio!
+FR: Bienvenue au Studio de Tukima !
+
+EN: Alistair's Party Mansion
+FR: Le Manoir festif d’Alistair
+
+EN: Welcome to Alistair's Party Mansion!
+FR: Bienvenue au Manoir festif d’Alistair !
+
+EN: Statue of Wucad Mu
+FR: Statue de Wucad Mu
+
+EN: The Name-Rending Infernalists' Reservoir
+FR: Le Réservoir des Infernalistes Fendeurs de noms
+
+EN: You've discovered The Name-Rending Infernalists' Reservoir!
+FR: Vous avez découvert le Réservoir des Infernalistes Fendeurs de noms !
+
+EN: Ozocubu's Refrigerator
+FR: Le Réfrigérateur d’Ozocubu
+
+EN: You've discovered Ozocubu's Refrigerator!
+FR: Vous avez découvert le Réfrigérateur d’Ozocubu !
+
+EN: The Storm Queen's Palace Crash-Site
+FR: Le Site d’écrasement du Palais de la Reine des tempêtes
+
+EN: You've discovered The Storm Queen's Palace Crash-Site!
+FR: Vous avez découvert le Site d’écrasement du Palais de la Reine des tempêtes !
+
+EN: Leda's Sunken Stockpile
+FR: Le Stock englouti de Leda
+
+EN: You've discovered Leda's Sunken Stockpile!
+FR: Vous avez découvert le Stock englouti de Leda !
+
+EN: Eringya's Secret Bog
+FR: Le Marais secret d’Eringya
+
+EN: You've discovered Eringya's Secret Bog!
+FR: Vous avez découvert le Marais secret d’Eringya !
+
+EN: Rutra's Hidden Sanctum
+FR: Le Sanctuaire caché de Rutra
+
+EN: You've discovered Rutra's Hidden Sanctum!
+FR: Vous avez découvert le Sanctuaire caché de Rutra !
+
+EN: The Dread Knight's Derelict Chapel
+FR: La Chapelle abandonnée du Chevalier de l’effroi
+
+EN: You've discovered The Dread Knight's Derelict Chapel!
+FR: Vous avez découvert la Chapelle abandonnée du Chevalier de l’effroi !
+
+EN: The First Justicar's Armoury
+FR: L’Armurerie du Premier Justicier
+
+EN: You've discovered The First Justicar's Armoury!
+FR: Vous avez découvert l’Armurerie du Premier Justicier !
+
+EN: The Octopus King's Forgotten Garden
+FR: Le Jardin oublié du Roi-Pieuvre
+
+EN: You've discovered The Octopus King's Forgotten Garden!
+FR: Vous avez découvert le Jardin oublié du Roi-Pieuvre !
+
+EN: The Lost Hoard of Erebora
+FR: Le Trésor perdu d’Erebora
+
+EN: You've discovered The Lost Hoard of Erebora!
+FR: Vous avez découvert le Trésor perdu d’Erebora !
+
+EN: You've discovered a devouring Rift!
+FR: Vous avez découvert une Faille dévorante !
+
+EN: You've discovered an orange crystal hatchery!
+FR: Vous avez découvert une couveuse de cristal orange !
+
+EN: Okay, then.
+FR: Très bien.
+
+EN: The portal accepts the item and buzzes to life!
+FR: Le portail accepte l’objet et s’anime dans un bourdonnement !
+
+EN: The portal accepts the items and buzzes to life!
+FR: Le portail accepte les objets et s’anime dans un bourdonnement !
+
+EN: The portal draws power from the presence of the item and buzzes to life!
+FR: Le portail puise de l’énergie dans la présence de l’objet et s’anime dans un bourdonnement !
+
+EN: The portal draws power from the presence of the items and buzzes to life!
+FR: Le portail puise de l’énergie dans la présence des objets et s’anime dans un bourdonnement !
+
+EN: You don't have the item to give!
+FR: Vous n’avez pas l’objet à donner !
+
+EN: You don't have the items to give!
+FR: Vous n’avez pas les objets à donner !
+
+EN: You must unequip the item first!
+FR: Vous devez d’abord retirer l’objet !
+
+EN: You must unequip the items first!
+FR: Vous devez d’abord retirer les objets !
+
+EN: The portal is engraved with runes symbolizing the primacy of the material over the divine. Those who enter it may find riches, but when they return, they will find that whatever gods they held dear have forgotten them in their absence.
+FR: Le portail est gravé de runes symbolisant la primauté du matériel sur le divin. Ceux qui y entrent trouveront peut-être des richesses, mais à leur retour, ils découvriront que les dieux qui leur étaient chers les ont oubliés pendant leur absence.
+
+EN: The portal is warded with dark magic that will temporarily drain a significant fraction of the maximum health of whoever enters it.
+FR: Le portail est protégé par une magie noire qui drainera temporairement une fraction importante des points de vie maximum de quiconque y entre.
+
+EN: The portal is warded with dark magic that will temporarily drain a significant fraction of the maximum health of whoever enters it. Enter anyway?
+FR: Le portail est protégé par une magie noire qui drainera temporairement une fraction importante des points de vie maximum de quiconque y entre. Entrer quand même ?
+
+EN: This portal proclaims the superiority of the material over the divine; entrants will become Ostracised and temporarily lose all standing with their god.
+FR: Ce portail proclame la supériorité du matériel sur le divin ; ceux qui y entrent seront Ostracised et perdront temporairement toute faveur auprès de leur dieu.
+
+EN: Enter anyway?
+FR: Entrer quand même ?
+
+EN: You hear the slow rusting of a very distant drain.
+FR: Vous entendez le rouillement lent d’une canalisation très lointaine.
+
+EN: You hear the slow rusting of a distant drain.
+FR: Vous entendez le rouillement lent d’une canalisation lointaine.
+
+EN: You hear the slow rusting of a drain nearby.
+FR: Vous entendez le rouillement lent d’une canalisation proche.
+
+EN: You hear the slow rusting of a drain very nearby.
+FR: Vous entendez le rouillement lent d’une canalisation toute proche.
+
+EN: You hear the slow rusting of a drain.
+FR: Vous entendez le rouillement lent d’une canalisation.
+
+EN: You hear the rusting of a very distant drain.
+FR: Vous entendez le rouillement d’une canalisation très lointaine.
+
+EN: You hear the rusting of a distant drain.
+FR: Vous entendez le rouillement d’une canalisation lointaine.
+
+EN: You hear the rusting of a drain nearby.
+FR: Vous entendez le rouillement d’une canalisation proche.
+
+EN: You hear the rusting of a drain very nearby.
+FR: Vous entendez le rouillement d’une canalisation toute proche.
+
+EN: You hear the rusting of a drain.
+FR: Vous entendez le rouillement d’une canalisation.
+
+EN: You hear the brisk rusting of a very distant drain.
+FR: Vous entendez le rouillement vif d’une canalisation très lointaine.
+
+EN: You hear the brisk rusting of a distant drain.
+FR: Vous entendez le rouillement vif d’une canalisation lointaine.
+
+EN: You hear the brisk rusting of a drain nearby.
+FR: Vous entendez le rouillement vif d’une canalisation proche.
+
+EN: You hear the brisk rusting of a drain very nearby.
+FR: Vous entendez le rouillement vif d’une canalisation toute proche.
+
+EN: You hear the brisk rusting of a drain.
+FR: Vous entendez le rouillement vif d’une canalisation.
+
+EN: You hear the quick rusting of a very distant drain.
+FR: Vous entendez le rouillement rapide d’une canalisation très lointaine.
+
+EN: You hear the quick rusting of a distant drain.
+FR: Vous entendez le rouillement rapide d’une canalisation lointaine.
+
+EN: You hear the quick rusting of a drain nearby.
+FR: Vous entendez le rouillement rapide d’une canalisation proche.
+
+EN: You hear the quick rusting of a drain very nearby.
+FR: Vous entendez le rouillement rapide d’une canalisation toute proche.
+
+EN: You hear the quick rusting of a drain.
+FR: Vous entendez le rouillement rapide d’une canalisation.
+
+EN: You hear the rapid rusting of a very distant drain.
+FR: Vous entendez le rouillement frénétique d’une canalisation très lointaine.
+
+EN: You hear the rapid rusting of a distant drain.
+FR: Vous entendez le rouillement frénétique d’une canalisation lointaine.
+
+EN: You hear the rapid rusting of a drain nearby.
+FR: Vous entendez le rouillement frénétique d’une canalisation proche.
+
+EN: You hear the rapid rusting of a drain very nearby.
+FR: Vous entendez le rouillement frénétique d’une canalisation toute proche.
+
+EN: You hear the rapid rusting of a drain.
+FR: Vous entendez le rouillement frénétique d’une canalisation.
+
+EN: You hear the slow rusting of a very distant mutagenic drain.
+FR: Vous entendez le rouillement lent d’une canalisation mutagène très lointaine.
+
+EN: You hear the slow rusting of a distant mutagenic drain.
+FR: Vous entendez le rouillement lent d’une canalisation mutagène lointaine.
+
+EN: You hear the slow rusting of a mutagenic drain nearby.
+FR: Vous entendez le rouillement lent d’une canalisation mutagène proche.
+
+EN: You hear the slow rusting of a mutagenic drain very nearby.
+FR: Vous entendez le rouillement lent d’une canalisation mutagène toute proche.
+
+EN: You hear the slow rusting of a mutagenic drain.
+FR: Vous entendez le rouillement lent d’une canalisation mutagène.
+
+EN: You hear the rusting of a very distant mutagenic drain.
+FR: Vous entendez le rouillement d’une canalisation mutagène très lointaine.
+
+EN: You hear the rusting of a distant mutagenic drain.
+FR: Vous entendez le rouillement d’une canalisation mutagène lointaine.
+
+EN: You hear the rusting of a mutagenic drain nearby.
+FR: Vous entendez le rouillement d’une canalisation mutagène proche.
+
+EN: You hear the rusting of a mutagenic drain very nearby.
+FR: Vous entendez le rouillement d’une canalisation mutagène toute proche.
+
+EN: You hear the rusting of a mutagenic drain.
+FR: Vous entendez le rouillement d’une canalisation mutagène.
+
+EN: You hear the brisk rusting of a very distant mutagenic drain.
+FR: Vous entendez le rouillement vif d’une canalisation mutagène très lointaine.
+
+EN: You hear the brisk rusting of a distant mutagenic drain.
+FR: Vous entendez le rouillement vif d’une canalisation mutagène lointaine.
+
+EN: You hear the brisk rusting of a mutagenic drain nearby.
+FR: Vous entendez le rouillement vif d’une canalisation mutagène proche.
+
+EN: You hear the brisk rusting of a mutagenic drain very nearby.
+FR: Vous entendez le rouillement vif d’une canalisation mutagène toute proche.
+
+EN: You hear the brisk rusting of a mutagenic drain.
+FR: Vous entendez le rouillement vif d’une canalisation mutagène.
+
+EN: You hear the quick rusting of a very distant mutagenic drain.
+FR: Vous entendez le rouillement rapide d’une canalisation mutagène très lointaine.
+
+EN: You hear the quick rusting of a distant mutagenic drain.
+FR: Vous entendez le rouillement rapide d’une canalisation mutagène lointaine.
+
+EN: You hear the quick rusting of a mutagenic drain nearby.
+FR: Vous entendez le rouillement rapide d’une canalisation mutagène proche.
+
+EN: You hear the quick rusting of a mutagenic drain very nearby.
+FR: Vous entendez le rouillement rapide d’une canalisation mutagène toute proche.
+
+EN: You hear the quick rusting of a mutagenic drain.
+FR: Vous entendez le rouillement rapide d’une canalisation mutagène.
+
+EN: You hear the rapid rusting of a very distant mutagenic drain.
+FR: Vous entendez le rouillement frénétique d’une canalisation mutagène très lointaine.
+
+EN: You hear the rapid rusting of a distant mutagenic drain.
+FR: Vous entendez le rouillement frénétique d’une canalisation mutagène lointaine.
+
+EN: You hear the rapid rusting of a mutagenic drain nearby.
+FR: Vous entendez le rouillement frénétique d’une canalisation mutagène proche.
+
+EN: You hear the rapid rusting of a mutagenic drain very nearby.
+FR: Vous entendez le rouillement frénétique d’une canalisation mutagène toute proche.
+
+EN: You hear the rapid rusting of a mutagenic drain.
+FR: Vous entendez le rouillement frénétique d’une canalisation mutagène.
+
+EN: You hear the slow hiss of a very distant avalanche of sand.
+FR: Vous entendez le sifflement lent d’une avalanche de sable très lointaine.
+
+EN: You hear the slow hiss of a distant avalanche of sand.
+FR: Vous entendez le sifflement lent d’une avalanche de sable lointaine.
+
+EN: You hear the slow hiss of an avalanche of sand nearby.
+FR: Vous entendez le sifflement lent d’une avalanche de sable proche.
+
+EN: You hear the slow hiss of an avalanche of sand very nearby.
+FR: Vous entendez le sifflement lent d’une avalanche de sable toute proche.
+
+EN: You hear the slow hiss of an avalanche of sand.
+FR: Vous entendez le sifflement lent d’une avalanche de sable.
+
+EN: You hear the hiss of a very distant avalanche of sand.
+FR: Vous entendez le sifflement d’une avalanche de sable très lointaine.
+
+EN: You hear the hiss of a distant avalanche of sand.
+FR: Vous entendez le sifflement d’une avalanche de sable lointaine.
+
+EN: You hear the hiss of an avalanche of sand nearby.
+FR: Vous entendez le sifflement d’une avalanche de sable proche.
+
+EN: You hear the hiss of an avalanche of sand very nearby.
+FR: Vous entendez le sifflement d’une avalanche de sable toute proche.
+
+EN: You hear the hiss of an avalanche of sand.
+FR: Vous entendez le sifflement d’une avalanche de sable.
+
+EN: You hear the brisk hiss of a very distant avalanche of sand.
+FR: Vous entendez le sifflement vif d’une avalanche de sable très lointaine.
+
+EN: You hear the brisk hiss of a distant avalanche of sand.
+FR: Vous entendez le sifflement vif d’une avalanche de sable lointaine.
+
+EN: You hear the brisk hiss of an avalanche of sand nearby.
+FR: Vous entendez le sifflement vif d’une avalanche de sable proche.
+
+EN: You hear the brisk hiss of an avalanche of sand very nearby.
+FR: Vous entendez le sifflement vif d’une avalanche de sable toute proche.
+
+EN: You hear the brisk hiss of an avalanche of sand.
+FR: Vous entendez le sifflement vif d’une avalanche de sable.
+
+EN: You hear the quick hiss of a very distant avalanche of sand.
+FR: Vous entendez le sifflement rapide d’une avalanche de sable très lointaine.
+
+EN: You hear the quick hiss of a distant avalanche of sand.
+FR: Vous entendez le sifflement rapide d’une avalanche de sable lointaine.
+
+EN: You hear the quick hiss of an avalanche of sand nearby.
+FR: Vous entendez le sifflement rapide d’une avalanche de sable proche.
+
+EN: You hear the quick hiss of an avalanche of sand very nearby.
+FR: Vous entendez le sifflement rapide d’une avalanche de sable toute proche.
+
+EN: You hear the quick hiss of an avalanche of sand.
+FR: Vous entendez le sifflement rapide d’une avalanche de sable.
+
+EN: You hear the rapid hiss of a very distant avalanche of sand.
+FR: Vous entendez le sifflement frénétique d’une avalanche de sable très lointaine.
+
+EN: You hear the rapid hiss of a distant avalanche of sand.
+FR: Vous entendez le sifflement frénétique d’une avalanche de sable lointaine.
+
+EN: You hear the rapid hiss of an avalanche of sand nearby.
+FR: Vous entendez le sifflement frénétique d’une avalanche de sable proche.
+
+EN: You hear the rapid hiss of an avalanche of sand very nearby.
+FR: Vous entendez le sifflement frénétique d’une avalanche de sable toute proche.
+
+EN: You hear the rapid hiss of an avalanche of sand.
+FR: Vous entendez le sifflement frénétique d’une avalanche de sable.
+
+EN: You hear the slow rumble of a very distant avalanche of rocks.
+FR: Vous entendez le grondement lent d’une avalanche de rochers très lointaine.
+
+EN: You hear the slow rumble of a distant avalanche of rocks.
+FR: Vous entendez le grondement lent d’une avalanche de rochers lointaine.
+
+EN: You hear the slow rumble of an avalanche of rocks nearby.
+FR: Vous entendez le grondement lent d’une avalanche de rochers proche.
+
+EN: You hear the slow rumble of an avalanche of rocks very nearby.
+FR: Vous entendez le grondement lent d’une avalanche de rochers toute proche.
+
+EN: You hear the slow rumble of an avalanche of rocks.
+FR: Vous entendez le grondement lent d’une avalanche de rochers.
+
+EN: You hear the rumble of a very distant avalanche of rocks.
+FR: Vous entendez le grondement d’une avalanche de rochers très lointaine.
+
+EN: You hear the rumble of a distant avalanche of rocks.
+FR: Vous entendez le grondement d’une avalanche de rochers lointaine.
+
+EN: You hear the rumble of an avalanche of rocks nearby.
+FR: Vous entendez le grondement d’une avalanche de rochers proche.
+
+EN: You hear the rumble of an avalanche of rocks very nearby.
+FR: Vous entendez le grondement d’une avalanche de rochers toute proche.
+
+EN: You hear the rumble of an avalanche of rocks.
+FR: Vous entendez le grondement d’une avalanche de rochers.
+
+EN: You hear the brisk rumble of a very distant avalanche of rocks.
+FR: Vous entendez le grondement vif d’une avalanche de rochers très lointaine.
+
+EN: You hear the brisk rumble of a distant avalanche of rocks.
+FR: Vous entendez le grondement vif d’une avalanche de rochers lointaine.
+
+EN: You hear the brisk rumble of an avalanche of rocks nearby.
+FR: Vous entendez le grondement vif d’une avalanche de rochers proche.
+
+EN: You hear the brisk rumble of an avalanche of rocks very nearby.
+FR: Vous entendez le grondement vif d’une avalanche de rochers toute proche.
+
+EN: You hear the brisk rumble of an avalanche of rocks.
+FR: Vous entendez le grondement vif d’une avalanche de rochers.
+
+EN: You hear the quick rumble of a very distant avalanche of rocks.
+FR: Vous entendez le grondement rapide d’une avalanche de rochers très lointaine.
+
+EN: You hear the quick rumble of a distant avalanche of rocks.
+FR: Vous entendez le grondement rapide d’une avalanche de rochers lointaine.
+
+EN: You hear the quick rumble of an avalanche of rocks nearby.
+FR: Vous entendez le grondement rapide d’une avalanche de rochers proche.
+
+EN: You hear the quick rumble of an avalanche of rocks very nearby.
+FR: Vous entendez le grondement rapide d’une avalanche de rochers toute proche.
+
+EN: You hear the quick rumble of an avalanche of rocks.
+FR: Vous entendez le grondement rapide d’une avalanche de rochers.
+
+EN: You hear the rapid rumble of a very distant avalanche of rocks.
+FR: Vous entendez le grondement frénétique d’une avalanche de rochers très lointaine.
+
+EN: You hear the rapid rumble of a distant avalanche of rocks.
+FR: Vous entendez le grondement frénétique d’une avalanche de rochers lointaine.
+
+EN: You hear the rapid rumble of an avalanche of rocks nearby.
+FR: Vous entendez le grondement frénétique d’une avalanche de rochers proche.
+
+EN: You hear the rapid rumble of an avalanche of rocks very nearby.
+FR: Vous entendez le grondement frénétique d’une avalanche de rochers toute proche.
+
+EN: You hear the rapid rumble of an avalanche of rocks.
+FR: Vous entendez le grondement frénétique d’une avalanche de rochers.
+
+EN: You hear the faint creaking of a very distant portcullis.
+FR: Vous entendez le grincement faible d’une herse très lointaine.
+
+EN: You hear the faint creaking of a distant portcullis.
+FR: Vous entendez le grincement faible d’une herse lointaine.
+
+EN: You hear the faint creaking of a portcullis nearby.
+FR: Vous entendez le grincement faible d’une herse proche.
+
+EN: You hear the faint creaking of a portcullis very nearby.
+FR: Vous entendez le grincement faible d’une herse toute proche.
+
+EN: You hear the faint creaking of a portcullis.
+FR: Vous entendez le grincement faible d’une herse.
+
+EN: You hear the creaking of a very distant portcullis.
+FR: Vous entendez le grincement d’une herse très lointaine.
+
+EN: You hear the creaking of a distant portcullis.
+FR: Vous entendez le grincement d’une herse lointaine.
+
+EN: You hear the creaking of a portcullis nearby.
+FR: Vous entendez le grincement d’une herse proche.
+
+EN: You hear the creaking of a portcullis very nearby.
+FR: Vous entendez le grincement d’une herse toute proche.
+
+EN: You hear the creaking of a portcullis.
+FR: Vous entendez le grincement d’une herse.
+
+EN: You hear the steady creaking of a very distant portcullis.
+FR: Vous entendez le grincement régulier d’une herse très lointaine.
+
+EN: You hear the steady creaking of a distant portcullis.
+FR: Vous entendez le grincement régulier d’une herse lointaine.
+
+EN: You hear the steady creaking of a portcullis nearby.
+FR: Vous entendez le grincement régulier d’une herse proche.
+
+EN: You hear the steady creaking of a portcullis very nearby.
+FR: Vous entendez le grincement régulier d’une herse toute proche.
+
+EN: You hear the steady creaking of a portcullis.
+FR: Vous entendez le grincement régulier d’une herse.
+
+EN: You hear the quick creaking of a very distant portcullis.
+FR: Vous entendez le grincement rapide d’une herse très lointaine.
+
+EN: You hear the quick creaking of a distant portcullis.
+FR: Vous entendez le grincement rapide d’une herse lointaine.
+
+EN: You hear the quick creaking of a portcullis nearby.
+FR: Vous entendez le grincement rapide d’une herse proche.
+
+EN: You hear the quick creaking of a portcullis very nearby.
+FR: Vous entendez le grincement rapide d’une herse toute proche.
+
+EN: You hear the quick creaking of a portcullis.
+FR: Vous entendez le grincement rapide d’une herse.
+
+EN: You hear the loud creaking of a very distant portcullis.
+FR: Vous entendez le grincement fort d’une herse très lointaine.
+
+EN: You hear the loud creaking of a distant portcullis.
+FR: Vous entendez le grincement fort d’une herse lointaine.
+
+EN: You hear the loud creaking of a portcullis nearby.
+FR: Vous entendez le grincement fort d’une herse proche.
+
+EN: You hear the loud creaking of a portcullis very nearby.
+FR: Vous entendez le grincement fort d’une herse toute proche.
+
+EN: You hear the loud creaking of a portcullis.
+FR: Vous entendez le grincement fort d’une herse.
+
+EN: You hear the faint crackling of a very distant melting archway.
+FR: Vous entendez le craquement faible d’une arche fondante très lointaine.
+
+EN: You hear the faint crackling of a distant melting archway.
+FR: Vous entendez le craquement faible d’une arche fondante lointaine.
+
+EN: You hear the faint crackling of a melting archway nearby.
+FR: Vous entendez le craquement faible d’une arche fondante proche.
+
+EN: You hear the faint crackling of a melting archway very nearby.
+FR: Vous entendez le craquement faible d’une arche fondante toute proche.
+
+EN: You hear the faint crackling of a melting archway.
+FR: Vous entendez le craquement faible d’une arche fondante.
+
+EN: You hear the crackling of a very distant melting archway.
+FR: Vous entendez le craquement d’une arche fondante très lointaine.
+
+EN: You hear the crackling of a distant melting archway.
+FR: Vous entendez le craquement d’une arche fondante lointaine.
+
+EN: You hear the crackling of a melting archway nearby.
+FR: Vous entendez le craquement d’une arche fondante proche.
+
+EN: You hear the crackling of a melting archway very nearby.
+FR: Vous entendez le craquement d’une arche fondante toute proche.
+
+EN: You hear the crackling of a melting archway.
+FR: Vous entendez le craquement d’une arche fondante.
+
+EN: You hear the steady crackling of a very distant melting archway.
+FR: Vous entendez le craquement régulier d’une arche fondante très lointaine.
+
+EN: You hear the steady crackling of a distant melting archway.
+FR: Vous entendez le craquement régulier d’une arche fondante lointaine.
+
+EN: You hear the steady crackling of a melting archway nearby.
+FR: Vous entendez le craquement régulier d’une arche fondante proche.
+
+EN: You hear the steady crackling of a melting archway very nearby.
+FR: Vous entendez le craquement régulier d’une arche fondante toute proche.
+
+EN: You hear the steady crackling of a melting archway.
+FR: Vous entendez le craquement régulier d’une arche fondante.
+
+EN: You hear the quick crackling of a very distant melting archway.
+FR: Vous entendez le craquement rapide d’une arche fondante très lointaine.
+
+EN: You hear the quick crackling of a distant melting archway.
+FR: Vous entendez le craquement rapide d’une arche fondante lointaine.
+
+EN: You hear the quick crackling of a melting archway nearby.
+FR: Vous entendez le craquement rapide d’une arche fondante proche.
+
+EN: You hear the quick crackling of a melting archway very nearby.
+FR: Vous entendez le craquement rapide d’une arche fondante toute proche.
+
+EN: You hear the quick crackling of a melting archway.
+FR: Vous entendez le craquement rapide d’une arche fondante.
+
+EN: You hear the loud crackling of a very distant melting archway.
+FR: Vous entendez le craquement fort d’une arche fondante très lointaine.
+
+EN: You hear the loud crackling of a distant melting archway.
+FR: Vous entendez le craquement fort d’une arche fondante lointaine.
+
+EN: You hear the loud crackling of a melting archway nearby.
+FR: Vous entendez le craquement fort d’une arche fondante proche.
+
+EN: You hear the loud crackling of a melting archway very nearby.
+FR: Vous entendez le craquement fort d’une arche fondante toute proche.
+
+EN: You hear the loud crackling of a melting archway.
+FR: Vous entendez le craquement fort d’une arche fondante.
+
+EN: You hear the stately crackle of a very distant magical portal.
+FR: Vous entendez le crépitement majestueux d’un portail magique très lointain.
+
+EN: You hear the stately crackle of a distant magical portal.
+FR: Vous entendez le crépitement majestueux d’un portail magique lointain.
+
+EN: You hear the stately crackle of a magical portal nearby.
+FR: Vous entendez le crépitement majestueux d’un portail magique proche.
+
+EN: You hear the stately crackle of a magical portal very nearby.
+FR: Vous entendez le crépitement majestueux d’un portail magique tout proche.
+
+EN: You hear the stately crackle of a magical portal.
+FR: Vous entendez le crépitement majestueux d’un portail magique.
+
+EN: You hear the crackle of a very distant magical portal.
+FR: Vous entendez le crépitement d’un portail magique très lointain.
+
+EN: You hear the crackle of a distant magical portal.
+FR: Vous entendez le crépitement d’un portail magique lointain.
+
+EN: You hear the crackle of a magical portal nearby.
+FR: Vous entendez le crépitement d’un portail magique proche.
+
+EN: You hear the crackle of a magical portal very nearby.
+FR: Vous entendez le crépitement d’un portail magique tout proche.
+
+EN: You hear the crackle of a magical portal.
+FR: Vous entendez le crépitement d’un portail magique.
+
+EN: You hear the brisk crackle of a very distant magical portal.
+FR: Vous entendez le crépitement vif d’un portail magique très lointain.
+
+EN: You hear the brisk crackle of a distant magical portal.
+FR: Vous entendez le crépitement vif d’un portail magique lointain.
+
+EN: You hear the brisk crackle of a magical portal nearby.
+FR: Vous entendez le crépitement vif d’un portail magique proche.
+
+EN: You hear the brisk crackle of a magical portal very nearby.
+FR: Vous entendez le crépitement vif d’un portail magique tout proche.
+
+EN: You hear the brisk crackle of a magical portal.
+FR: Vous entendez le crépitement vif d’un portail magique.
+
+EN: You hear the urgent crackle of a very distant magical portal.
+FR: Vous entendez le crépitement pressant d’un portail magique très lointain.
+
+EN: You hear the urgent crackle of a distant magical portal.
+FR: Vous entendez le crépitement pressant d’un portail magique lointain.
+
+EN: You hear the urgent crackle of a magical portal nearby.
+FR: Vous entendez le crépitement pressant d’un portail magique proche.
+
+EN: You hear the urgent crackle of a magical portal very nearby.
+FR: Vous entendez le crépitement pressant d’un portail magique tout proche.
+
+EN: You hear the urgent crackle of a magical portal.
+FR: Vous entendez le crépitement pressant d’un portail magique.
+
+EN: You hear the frantic crackle of a very distant magical portal.
+FR: Vous entendez le crépitement frénétique d’un portail magique très lointain.
+
+EN: You hear the frantic crackle of a distant magical portal.
+FR: Vous entendez le crépitement frénétique d’un portail magique lointain.
+
+EN: You hear the frantic crackle of a magical portal nearby.
+FR: Vous entendez le crépitement frénétique d’un portail magique proche.
+
+EN: You hear the frantic crackle of a magical portal very nearby.
+FR: Vous entendez le crépitement frénétique d’un portail magique tout proche.
+
+EN: You hear the frantic crackle of a magical portal.
+FR: Vous entendez le crépitement frénétique d’un portail magique.
+
+EN: You hear the stately tolling of a very distant bell.
+FR: Vous entendez le tintement majestueux d’une cloche très lointaine.
+
+EN: You hear the stately tolling of a distant bell.
+FR: Vous entendez le tintement majestueux d’une cloche lointaine.
+
+EN: You hear the stately tolling of a bell nearby.
+FR: Vous entendez le tintement majestueux d’une cloche proche.
+
+EN: You hear the stately tolling of a bell very nearby.
+FR: Vous entendez le tintement majestueux d’une cloche toute proche.
+
+EN: You hear the stately tolling of a bell.
+FR: Vous entendez le tintement majestueux d’une cloche.
+
+EN: You hear the tolling of a very distant bell.
+FR: Vous entendez le tintement d’une cloche très lointaine.
+
+EN: You hear the tolling of a distant bell.
+FR: Vous entendez le tintement d’une cloche lointaine.
+
+EN: You hear the tolling of a bell nearby.
+FR: Vous entendez le tintement d’une cloche proche.
+
+EN: You hear the tolling of a bell very nearby.
+FR: Vous entendez le tintement d’une cloche toute proche.
+
+EN: You hear the tolling of a bell.
+FR: Vous entendez le tintement d’une cloche.
+
+EN: You hear the brisk tolling of a very distant bell.
+FR: Vous entendez le tintement vif d’une cloche très lointaine.
+
+EN: You hear the brisk tolling of a distant bell.
+FR: Vous entendez le tintement vif d’une cloche lointaine.
+
+EN: You hear the brisk tolling of a bell nearby.
+FR: Vous entendez le tintement vif d’une cloche proche.
+
+EN: You hear the brisk tolling of a bell very nearby.
+FR: Vous entendez le tintement vif d’une cloche toute proche.
+
+EN: You hear the brisk tolling of a bell.
+FR: Vous entendez le tintement vif d’une cloche.
+
+EN: You hear the urgent tolling of a very distant bell.
+FR: Vous entendez le tintement pressant d’une cloche très lointaine.
+
+EN: You hear the urgent tolling of a distant bell.
+FR: Vous entendez le tintement pressant d’une cloche lointaine.
+
+EN: You hear the urgent tolling of a bell nearby.
+FR: Vous entendez le tintement pressant d’une cloche proche.
+
+EN: You hear the urgent tolling of a bell very nearby.
+FR: Vous entendez le tintement pressant d’une cloche toute proche.
+
+EN: You hear the urgent tolling of a bell.
+FR: Vous entendez le tintement pressant d’une cloche.
+
+EN: You hear the frantic tolling of a very distant bell.
+FR: Vous entendez le tintement frénétique d’une cloche très lointaine.
+
+EN: You hear the frantic tolling of a distant bell.
+FR: Vous entendez le tintement frénétique d’une cloche lointaine.
+
+EN: You hear the frantic tolling of a bell nearby.
+FR: Vous entendez le tintement frénétique d’une cloche proche.
+
+EN: You hear the frantic tolling of a bell very nearby.
+FR: Vous entendez le tintement frénétique d’une cloche toute proche.
+
+EN: You hear the frantic tolling of a bell.
+FR: Vous entendez le tintement frénétique d’une cloche.
+
+EN: You hear the faint whistling of a very distant wind.
+FR: Vous entendez le sifflement faible d’un vent très lointain.
+
+EN: You hear the faint whistling of a distant wind.
+FR: Vous entendez le sifflement faible d’un vent lointain.
+
+EN: You hear the faint whistling of a wind nearby.
+FR: Vous entendez le sifflement faible d’un vent proche.
+
+EN: You hear the faint whistling of a wind very nearby.
+FR: Vous entendez le sifflement faible d’un vent tout proche.
+
+EN: You hear the faint whistling of a wind.
+FR: Vous entendez le sifflement faible d’un vent.
+
+EN: You hear the quiet whistling of a very distant wind.
+FR: Vous entendez le sifflement discret d’un vent très lointain.
+
+EN: You hear the quiet whistling of a distant wind.
+FR: Vous entendez le sifflement discret d’un vent lointain.
+
+EN: You hear the quiet whistling of a wind nearby.
+FR: Vous entendez le sifflement discret d’un vent proche.
+
+EN: You hear the quiet whistling of a wind very nearby.
+FR: Vous entendez le sifflement discret d’un vent tout proche.
+
+EN: You hear the quiet whistling of a wind.
+FR: Vous entendez le sifflement discret d’un vent.
+
+EN: You hear the whistling of a very distant wind.
+FR: Vous entendez le sifflement d’un vent très lointain.
+
+EN: You hear the whistling of a distant wind.
+FR: Vous entendez le sifflement d’un vent lointain.
+
+EN: You hear the whistling of a wind nearby.
+FR: Vous entendez le sifflement d’un vent proche.
+
+EN: You hear the whistling of a wind very nearby.
+FR: Vous entendez le sifflement d’un vent tout proche.
+
+EN: You hear the whistling of a wind.
+FR: Vous entendez le sifflement d’un vent.
+
+EN: You hear the loud whistling of a very distant wind.
+FR: Vous entendez le sifflement fort d’un vent très lointain.
+
+EN: You hear the loud whistling of a distant wind.
+FR: Vous entendez le sifflement fort d’un vent lointain.
+
+EN: You hear the loud whistling of a wind nearby.
+FR: Vous entendez le sifflement fort d’un vent proche.
+
+EN: You hear the loud whistling of a wind very nearby.
+FR: Vous entendez le sifflement fort d’un vent tout proche.
+
+EN: You hear the loud whistling of a wind.
+FR: Vous entendez le sifflement fort d’un vent.
+
+EN: You hear the ear-piercing whistling of a very distant wind.
+FR: Vous entendez le sifflement strident d’un vent très lointain.
+
+EN: You hear the ear-piercing whistling of a distant wind.
+FR: Vous entendez le sifflement strident d’un vent lointain.
+
+EN: You hear the ear-piercing whistling of a wind nearby.
+FR: Vous entendez le sifflement strident d’un vent proche.
+
+EN: You hear the ear-piercing whistling of a wind very nearby.
+FR: Vous entendez le sifflement strident d’un vent tout proche.
+
+EN: You hear the ear-piercing whistling of a wind.
+FR: Vous entendez le sifflement strident d’un vent.
+
+EN: You hear the faint beating of a very distant drum.
+FR: Vous entendez le battement faible d’un tambour très lointain.
+
+EN: You hear the faint beating of a distant drum.
+FR: Vous entendez le battement faible d’un tambour lointain.
+
+EN: You hear the faint beating of a drum nearby.
+FR: Vous entendez le battement faible d’un tambour proche.
+
+EN: You hear the faint beating of a drum very nearby.
+FR: Vous entendez le battement faible d’un tambour tout proche.
+
+EN: You hear the faint beating of a drum.
+FR: Vous entendez le battement faible d’un tambour.
+
+EN: You hear the beating of a very distant drum.
+FR: Vous entendez le battement d’un tambour très lointain.
+
+EN: You hear the beating of a distant drum.
+FR: Vous entendez le battement d’un tambour lointain.
+
+EN: You hear the beating of a drum nearby.
+FR: Vous entendez le battement d’un tambour proche.
+
+EN: You hear the beating of a drum very nearby.
+FR: Vous entendez le battement d’un tambour tout proche.
+
+EN: You hear the beating of a drum.
+FR: Vous entendez le battement d’un tambour.
+
+EN: You hear the loud beating of a very distant drum.
+FR: Vous entendez le battement sonore d’un tambour très lointain.
+
+EN: You hear the loud beating of a distant drum.
+FR: Vous entendez le battement sonore d’un tambour lointain.
+
+EN: You hear the loud beating of a drum nearby.
+FR: Vous entendez le battement sonore d’un tambour proche.
+
+EN: You hear the loud beating of a drum very nearby.
+FR: Vous entendez le battement sonore d’un tambour tout proche.
+
+EN: You hear the loud beating of a drum.
+FR: Vous entendez le battement sonore d’un tambour.
+
+EN: You hear the thunderous beating of a very distant drum.
+FR: Vous entendez le battement tonitruant d’un tambour très lointain.
+
+EN: You hear the thunderous beating of a distant drum.
+FR: Vous entendez le battement tonitruant d’un tambour lointain.
+
+EN: You hear the thunderous beating of a drum nearby.
+FR: Vous entendez le battement tonitruant d’un tambour proche.
+
+EN: You hear the thunderous beating of a drum very nearby.
+FR: Vous entendez le battement tonitruant d’un tambour tout proche.
+
+EN: You hear the thunderous beating of a drum.
+FR: Vous entendez le battement tonitruant d’un tambour.
+
+EN: You hear the deafening beating of a very distant drum.
+FR: Vous entendez le battement assourdissant d’un tambour très lointain.
+
+EN: You hear the deafening beating of a distant drum.
+FR: Vous entendez le battement assourdissant d’un tambour lointain.
+
+EN: You hear the deafening beating of a drum nearby.
+FR: Vous entendez le battement assourdissant d’un tambour proche.
+
+EN: You hear the deafening beating of a drum very nearby.
+FR: Vous entendez le battement assourdissant d’un tambour tout proche.
+
+EN: You hear the deafening beating of a drum.
+FR: Vous entendez le battement assourdissant d’un tambour.
+
+EN: You hear the lone wailing of a very distant funeral chant.
+FR: Vous entendez le gémissement solitaire d’un chant funèbre très lointain.
+
+EN: You hear the lone wailing of a distant funeral chant.
+FR: Vous entendez le gémissement solitaire d’un chant funèbre lointain.
+
+EN: You hear the lone wailing of a funeral chant nearby.
+FR: Vous entendez le gémissement solitaire d’un chant funèbre proche.
+
+EN: You hear the lone wailing of a funeral chant very nearby.
+FR: Vous entendez le gémissement solitaire d’un chant funèbre tout proche.
+
+EN: You hear the lone wailing of a funeral chant.
+FR: Vous entendez le gémissement solitaire d’un chant funèbre.
+
+EN: You hear the small ensemble of a very distant funeral chant.
+FR: Vous entendez le petit ensemble d’un chant funèbre très lointain.
+
+EN: You hear the small ensemble of a distant funeral chant.
+FR: Vous entendez le petit ensemble d’un chant funèbre lointain.
+
+EN: You hear the small ensemble of a funeral chant nearby.
+FR: Vous entendez le petit ensemble d’un chant funèbre proche.
+
+EN: You hear the small ensemble of a funeral chant very nearby.
+FR: Vous entendez le petit ensemble d’un chant funèbre tout proche.
+
+EN: You hear the small ensemble of a funeral chant.
+FR: Vous entendez le petit ensemble d’un chant funèbre.
+
+EN: You hear the gathering chorus of a very distant funeral chant.
+FR: Vous entendez le chœur grandissant d’un chant funèbre très lointain.
+
+EN: You hear the gathering chorus of a distant funeral chant.
+FR: Vous entendez le chœur grandissant d’un chant funèbre lointain.
+
+EN: You hear the gathering chorus of a funeral chant nearby.
+FR: Vous entendez le chœur grandissant d’un chant funèbre proche.
+
+EN: You hear the gathering chorus of a funeral chant very nearby.
+FR: Vous entendez le chœur grandissant d’un chant funèbre tout proche.
+
+EN: You hear the gathering chorus of a funeral chant.
+FR: Vous entendez le chœur grandissant d’un chant funèbre.
+
+EN: You hear the rising multitudes of a very distant funeral chant.
+FR: Vous entendez les foules grandissantes d’un chant funèbre très lointain.
+
+EN: You hear the rising multitudes of a distant funeral chant.
+FR: Vous entendez les foules grandissantes d’un chant funèbre lointain.
+
+EN: You hear the rising multitudes of a funeral chant nearby.
+FR: Vous entendez les foules grandissantes d’un chant funèbre proche.
+
+EN: You hear the rising multitudes of a funeral chant very nearby.
+FR: Vous entendez les foules grandissantes d’un chant funèbre tout proche.
+
+EN: You hear the rising multitudes of a funeral chant.
+FR: Vous entendez les foules grandissantes d’un chant funèbre.
+
+EN: You hear the full choir of a very distant funeral chant.
+FR: Vous entendez le chœur au complet d’un chant funèbre très lointain.
+
+EN: You hear the full choir of a distant funeral chant.
+FR: Vous entendez le chœur au complet d’un chant funèbre lointain.
+
+EN: You hear the full choir of a funeral chant nearby.
+FR: Vous entendez le chœur au complet d’un chant funèbre proche.
+
+EN: You hear the full choir of a funeral chant very nearby.
+FR: Vous entendez le chœur au complet d’un chant funèbre tout proche.
+
+EN: You hear the full choir of a funeral chant.
+FR: Vous entendez le chœur au complet d’un chant funèbre.

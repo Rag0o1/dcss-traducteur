@@ -1490,7 +1490,7 @@ EN: You can't pick that up.
 FR: Vous ne pouvez pas ramasser cela.
 
 EN: You can't place a gateway to a ziggurat here.
-FR: Vous ne pouvez pas placer une porte vers une ziggurat ici.
+FR: Vous ne pouvez pas placer une porte vers la Ziggurat ici.
 
 EN: You can't place the prism on a creature.
 FR: Vous ne pouvez pas placer le prisme sur une créature.
@@ -2375,7 +2375,7 @@ EN: You set off the alarm!
 FR: Vous déclenchez l’alarme !
 
 EN: You set the figurine down, and a mystic portal to a ziggurat forms.
-FR: Vous posez la figurine, et un portail mystique vers une ziggurat se forme.
+FR: Vous posez la figurine, et un portail mystique vers la Ziggurat se forme.
 
 EN: You shrug off repeated attempt to disable you.
 FR: Vous repoussez la tentative répétée de vous neutraliser.

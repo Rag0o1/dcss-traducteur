@@ -137,7 +137,7 @@
         "You can act again.": "Vous pouvez de nouveau agir.", "You can breathe torrents of mud.": "Vous pouvez cracher des torrents de boue.",
         "You spew a torrent of mud.": "Vous crachez un torrent de boue.",
         "You die...": "Vous mourez…", "You resist.": "Vous résistez.", "You hold your ground!": "Vous tenez bon !",
-        "You enter an ornate necropolis!": "Vous entrez dans une Necropolis ornée !",
+        "You enter an ornate necropolis!": "Vous entrez dans la Necropolis ornée !",
         "You fade into invisibility!": "Vous vous fondez dans l’invisibilité !", "You flicker back into view.": "Vous réapparaissez.",
         "You flicker for a moment.": "Vous vacillez un instant.",
         "You feel a little less murderous for the moment.": "Vous vous sentez un peu moins meurtrier pour l’instant.",
