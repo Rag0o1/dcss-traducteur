@@ -1,0 +1,77 @@
+EN: Picking up and dropping items
+FR: Ramasser et lâcher des objets
+
+EN: Navigation and selecting items
+FR: Navigation et sélection des objets
+
+EN: Regular expressions
+FR: Expressions régulières
+
+EN: Category shortcuts
+FR: Raccourcis de catégories
+
+EN: Known items menu
+FR: Menu des objets connus
+
+EN: Selecting item types
+FR: Sélection des types d’objets
+
+EN: Viewing unknown and known items
+FR: Objets inconnus et connus
+
+EN: Restoring autopickup defaults
+FR: Rétablir le ramassage par défaut
+
+EN: Searching the stash-tracker
+FR: Recherche dans la réserve
+
+EN: Searching by item properties:
+FR: Recherche par propriétés :
+
+EN: Finding Dungeon Features:
+FR: Éléments du donjon :
+
+EN: Non-regex operators:
+FR: Opérateurs non-regex :
+
+EN: Level Map ('<w>X</w>' in the main screen):
+FR: Carte du niveau ('<w>X</w>' à l’écran principal) :
+
+EN: Travel exclusions
+FR: Exclusions de voyage
+
+EN: Waypoints
+FR: Points de passage
+
+EN: Cycle through features
+FR: Parcourir les éléments
+
+EN: Other
+FR: Autres
+
+EN: Skill management
+FR: Gestion des compétences
+
+EN: Spell Library
+FR: Bibliothèque de sorts
+
+EN: Create specified monster
+FR: Créer un monstre précis
+
+EN: Overriding Monster Names
+FR: Remplacer les noms de monstres
+
+EN: Overriding Monster Stats
+FR: Remplacer les stats de monstres
+
+EN: Overriding Monster Spells
+FR: Remplacer les sorts de monstres
+
+EN: Setting enchantments
+FR: Définir les enchantements
+
+EN: Editing macros and keymaps
+FR: Éditer macros et keymaps
+
+EN: Keycodes for console and webtiles
+FR: Codes de touche console et webtiles

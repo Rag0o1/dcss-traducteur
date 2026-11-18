@@ -1,0 +1,2561 @@
+== weapon
+of @_power_or_anger_@
+of @_battle_or_war_@
+of @player_doom@
+of @death_or_doom@
+of @_verbing_@ @death_or_doom@
+of @_adjective_@ @_strategy_or_justice_@
+of @_strategy_or_justice_@
+of the @_verbing_@ @_people_name_@
+of the @_people_name_@
+of the @_verbing_@ @_diviner_name_@
+of the @_verbing_@ @_weapon_animal_@
+of the @_weapon_animal_@
+of the @_plant_name_@
+of @_evil_stuff_@
+of @_catastrophe_name_@
+of @_chaos_name_@
+of @_balance_or_order_@
+of @_economics_or_politics_@
+of @branch_name@
+of @_place_name_@
+of @_discomfort_weapon_@
+of the @_item_name_@
+of @_magic_name_@
+of @_substance_name_@
+of @_science_name_@
+of @other_weapon_name@
+"@_plain_weapon_name_@"
+of @_time_name_@
+of @_sky_or_light_@
+of @_virtue_or_vice_@
+of @_number_or_qualifier_@ @_thing_names_@
+of @_destiny_name_@
+of @god_name_possessive@ @divine_esteem@
+of the @_verbing_@ Gods
+of the @_adjective_@ God
+of @god_name@, @_verbing_@
+of @god_name@
+== talisman
+@armour@
+== armour
+of @_armour_name_shielding_@
+of @_armour_property_name_@
+of @_wacky_armour_name_@
+of the @_profession_name_@
+of the @_adjective_@ @_profession_name_@
+of @_politics_name_armour_@
+of @_weather_name_@
+of @_good_or_divine_@
+of @_adjective_@ @_good_or_divine_@
+of the @_celestial_bodies_@
+of @_instrument_name_@
+of the @_armour_animal_@
+of the @_adjective_@ @_armour_animal_@
+of @_flower_name_@
+of the @_fruit_name_@
+of the @_critter_name_@
+of the @_adjective_@ @_critter_name_@
+of @_evil_being_@
+of @_discomfort_and_inaction_@
+of @_game_name_@
+of @_other_armour_name_@
+"@_plain_armour_name_@"
+of @_philosophy_or_science_@
+of @_place_name_@
+of @_time_name_@
+of @_sky_or_light_@
+of @_virtue_or_vice_@
+of @_number_or_qualifier_@ @_verbing_@ @_thing_names_@
+of @_number_or_qualifier_@ @_thing_names_@
+of @god_name_possessive@ @divine_esteem@
+of the @_verbing_@ Gods
+of the @_adjective_@ God
+of @god_name@, @_verbing_@
+of @god_name@
+of @branch_name@
+== jewellery
+of the @_jewellery_animal_@
+of @_jewellery_special_name_@
+of @_suspicion_name_@
+of the @_people_name_@
+of the @_verbing_@ @_people_name_@
+of @_balance_or_order_@
+of @_philosophy_name_@
+of @other_weapon_name@
+of the @_armour_animal_@
+of @_flower_name_@
+of the @_adjective_@ @_fruit_name_@
+of @_evil_being_@
+of @_good_or_divine_@
+of @_politics_name_armour_@
+"@_plain_armour_name_@"
+of @_time_name_@
+of @_sky_or_light_@
+of @god_name_possessive@ @divine_esteem@
+of the @_verbing_@ Gods
+of the @_adjective_@ God
+of @god_name@, @_verbing_@
+of Xom's @_xom_esteem_@
+of @_virtue_name_@
+of @_vice_name_@
+of @_number_or_qualifier_@ @_thing_names_@
+of @_number_or_qualifier_@ @_verbing_@ @_thing_names_@
+== Trog weapon
+of @_power_or_anger_@
+of @_adjective_@ @_power_or_anger_@
+of @_battle_or_war_@
+of the @_verbing_@ @_battle_or_war_@
+of @death_or_doom@
+of @_adjective_@ @death_or_doom@
+of @_strategy_name_@
+of @_justice_name_@
+of @_virtue_or_vice_@
+of Trog
+of Trog's @divine_esteem@
+of Trog's @_anger_quality_@
+of the @_weapon_animal_@
+of @_evil_stuff_@
+of @_catastrophe_name_@
+of @_chaos_name_@
+of @_balance_or_order_@
+of @_economics_or_politics_@
+of @branch_name@
+of @_place_name_@
+of @_time_name_@
+of @_sky_or_light_@
+of @_number_or_qualifier_@ @_thing_names_@
+of @_discomfort_weapon_@
+of the @_item_name_@
+of @_philosophy_name_@
+of @_science_name_@
+of @other_weapon_name@
+of @_monster_name_@@killer_name@
+"@_plain_weapon_name_@"
+"@_adjective_@ @_plain_weapon_name_@"
+== Okawaru weapon
+@weapon@
+of @player_name_possessive@ @_valour_name_@
+of Okawaru's @divine_esteem@
+of Okawaru, @_verbing_@
+of @_strategy_or_justice_@
+of @_philosophy_name_@
+of @_balance_or_order_@
+of @_power_name_@
+of @_virtue_name_@
+of the @_diviner_name_@
+of the @_weapon_animal_@
+of @_place_name_@
+of @_item_name_@
+== Okawaru robe
+@Okawaru armour@
+== Okawaru body armour
+@Okawaru armour@
+== Okawaru armour
+@armour@
+of @player_name_possessive@ @_valour_name_@
+of Okawaru's @divine_esteem@
+of the @_armour_animal_@
+of @_good_or_divine_@
+of @_armour_name_shielding_@
+of @_armour_property_name_@
+of @_wacky_armour_name_@
+of @_politics_name_armour_@
+== Xom weapon
+of @_chaos_name_@
+of Xom's @_xom_esteem_@
+of Xom's @divine_esteem@
+"Xom, @_verbing_@ and @_verbing_@"
+of the @_verbing_@ @_fruit_name_@
+of @xom_name@
+of @_game_name_@
+@weapon@
+@jewellery@
+@armour@
+== Xom robe
+@Xom armour@
+== Xom body armour
+@Xom armour@
+== Xom armour
+of @_chaos_name_@
+of Xom's @_xom_esteem_@
+of Xom's @divine_esteem@
+"@_adjective_@ Xom"
+of @xom_name@
+of @_game_name_@
+of @player_death@
+@armour@
+@jewellery@
+== Xom jewellery
+of @_chaos_name_@
+of Xom's @_xom_esteem_@
+of Xom's @divine_esteem@
+of @_verbing_@ Xom
+of @xom_name@
+of @_game_name_@
+of @player_death@
+of @player_doom@
+@jewellery@
+@armour@
+== Ashenzari
+of the @_ashenzari_adjective_@ @_ashenzari_object_@
+of @god_name_possessive@ @_ashenzari_object_@
+"@_ashenzari_adjective_@ @_ashenzari_object_@"
+"@_ashenzari_object_@ of @god_name@"
+"@_ashenzari_object_@ of the @_ashenzari_epithet_@"
+"@_celestial_bodies_@ of the @_ashenzari_epithet_@"
+of the @_ashenzari_epithet_@
+of the @_ashenzari_bound_adjective_@ @_celestial_bodies_@
+of the @_ashenzari_knowledge_adjective_@ @_celestial_bodies_@
+of @god_name_possessive@ @_celestial_bodies_@
+"Share My @_ashenzari_object_@"
+"@_ashenzari_bound_adjective_@ With Me"
+"@_ashenzari_bound_adjective_@ Together"
+of the @_ashenzari_bound_adjective_@ @_ashenzari_heavens_@
+of the @_ashenzari_knowledge_adjective_@ @_ashenzari_heavens_@
+of the Fated @_ashenzari_object_@
+of Apeiromancy
+"At What Cost Knowledge?"
+"Behold Eternity"
+of Cremastomancy
+of Curses and Power
+of Desmomancy
+of the Eye in the Sky
+"Gaze Upon Infinity"
+"I Knew You'd Do That"
+"I Foresaw This"
+of Ouranomancy
+"Overhang to Understand"
+"Per Aspera Ad Scientiam"
+of Panopticon
+of Star-Bound Wisdom
+of Supernal Gnosis
+of Supernal Knowledge
+of Supernal Understanding
+of Supernal Wisdom
+"Thunder Perfect Mind"
+of Toth-Mos' Legacy
+of the Unyielding Gaze
+of the Wild Blue Yonder
+"Oscillating Fan"
+== _ashenzari_object_
+Adversity
+Affliction
+Burden
+Fetters
+Gnosis
+Loss
+Omen
+Ordeal
+Portent
+Prison
+Regret
+Repose
+Ressentiment
+Sorrow
+Vision
+Yoke
+@_diviner_name_@
+@_discomfort_weapon_@
+@_philosophy_name_@
+@_discomfort_and_inaction_@
+@_suspicion_no_conflict_name_@
+== _ashenzari_adjective_
+@_ashenzari_bound_adjective_@
+@_ashenzari_knowledge_adjective_@
+@_ashenzari_celestial_adjective_@
+== _ashenzari_bound_adjective_
+Bound
+Chained
+Circumscribed
+Cursed
+Ensconced
+Eternal
+Lashed
+Restrained
+Ruined
+Shackled
+Shattered
+Tethered
+== _ashenzari_celestial_adjective_
+Astral
+Celestial
+Cosmic
+Distant
+Elysian
+Sidereal
+Stellar
+Sublime
+== _ashenzari_knowledge_adjective_
+All-seeing
+Astrological
+Clairvoyant
+Cryptic
+Enlightened
+Enigmatic
+Esoteric
+Gnostic
+Manifest
+Mantic
+Omniscient
+Oracular
+Pangnostic
+Perceptive
+Prescient
+Profound
+Prophetic
+Revealing
+Sibylline
+Unveiling
+Vaticinal
+== _ashenzari_epithet_
+@_ashenzari_adjective_@ God
+@_ashenzari_bound_adjective_@ Augur
+@_ashenzari_celestial_adjective_@ Augur
+@_ashenzari_bound_adjective_@ Sage
+@_ashenzari_celestial_adjective_@ Sage
+@_ashenzari_bound_adjective_@ Seer
+@_ashenzari_celestial_adjective_@ Seer
+All-Knowing
+Curse-Bearer
+Soothsayer
+Unmoving One
+== _ashenzari_heavens_
+Cosmos
+Empyrean
+Ether
+Firmament
+Heavens
+Sky
+Sphere
+Welkin
+== general appearance
+brightly glowing
+smoking
+scorched
+twisted
+shimmering
+warped
+transparent
+translucent
+encrusted
+pitted
+slimy
+polished
+fine
+incandescent
+ancient
+faintly glowing
+steaming
+dazzling
+masterwork
+smouldering
+glimmering
+buzzing
+fading
+blackened
+== weapon appearance
+iridescent
+bloodstained
+crystal
+jewelled
+ichor-stained
+ivory
+bone
+sapphire
+ebony
+@general appearance@
+== robe appearance
+fabulously ornate
+dull
+sheer
+thick
+heavy
+wizard
+ominously black
+brightly glowing
+smoking
+twisted
+shimmering
+warped
+transparent
+slimy
+fine
+luminous
+ripped
+colourful
+creamy pearl
+opalescent
+ancient
+faintly glowing
+steaming
+faintly humming
+bloodstained
+heavily jewelled
+ichor-stained
+distressingly furry
+tattered
+silken
+shadowed
+== body armour appearance
+smelly
+bronze
+@_gemstone_@-studded
+@_gemstone_@-encrusted
+@armour appearance@
+== armour appearance
+faintly humming
+bloodstained
+heavily runed
+jewelled
+ichor-stained
+distressingly furry
+spiked
+@general appearance@
+== _gemstone_
+diamond
+ruby
+jacinth
+sapphire
+black opal
+emerald
+turquoise
+citrine
+aquamarine
+amber
+topaz
+jet
+opal
+garnet
+amethyst
+jasper
+obsidian
+agate
+jade
+pearl
+tiger eye
+ametrine
+== _jewellery appearance_
+scintillating
+sparkling
+flickering
+glittering
+smoking
+scorched
+shimmering
+wavering
+warped
+transparent
+translucent
+pitted
+slimy
+fine
+radiant
+ancient
+brightly glowing
+faintly glowing
+steaming
+heavily runed
+vibrating
+twitching
+coiled
+corded
+clouded
+serpentine
+== _ring material_
+wooden
+ivory
+bone
+amber
+silver
+golden
+platinum
+iron
+steel
+bronze
+brass
+copper
+tin
+lead
+pewter
+granite
+marble
+jade
+turquoise
+lapis lazuli
+glass
+carnelian
+gossamer
+== _amulet material_
+ivory
+bone
+graven
+silver
+golden
+platinum
+iron
+steel
+bronze
+brass
+copper
+tin
+lead
+pewter
+zirconium
+sapphire
+emerald
+garnet
+ruby
+jade
+crystal
+diamond
+amethyst
+== ring appearance
+@_jewellery appearance_@ @_ring material_@
+== amulet appearance
+@_jewellery appearance_@ @_amulet material_@
+== _jewellery_animal_
+Death Scarab
+Firefly
+Scarab
+Magpie
+Raven
+== _jewellery_special_name_
+Attitude
+Disaster
+Ephemeral Luck
+False Pretenses
+Finality
+Lady Luck
+Moodiness
+Reimbursement
+the Tempest
+Temptation
+Velleity
+Wishful Thinking
+Yendor
+== _suspicion_no_conflict_name_
+Doubts
+Incredulity
+Jealousy
+Mistrust
+Paranoia
+Scepticism
+Secrets
+Suspected Treachery
+Suspicion
+Trepidation
+== _suspicion_name_
+@_suspicion_no_conflict_name_@
+@_conflict_name_@
+== divine_esteem
+Approval
+Benevolence
+Delight
+Esteem
+Favour
+Felicitations
+Generosity
+Grace
+Hope
+Inspiration
+Pride
+Regard
+Respect
+Supremacy
+Whim
+Castigation
+Condemnation
+Displeasure
+Envy
+Reproof
+@_anger_quality_@
+== _xom_esteem_
+@divine_esteem@
+Absentmindedness
+Amusement
+Attic
+Bemusement
+Best Wishes
+Capriciousness
+Entertainment
+Facetiousness
+Fair Game
+Flight of Fancy
+Full Attention
+Malicious Joy
+Passing Interest
+Recklessness
+Ringing Laughter
+Sleight of Hands
+Taradiddle
+Temerity
+Wantonness
+Whimsicality
+== _time_name_
+Autumn
+Dawn
+Day
+Dusk
+Eternal Night
+Eternal Winter
+Eternity
+Evenfall
+Midnight
+Midsummer
+Midwinter
+Noon
+Spring
+Springtime
+Summer
+Summertime
+Time Moved Backwards
+Tomorrow
+Twilight
+Winter
+Yesterday
+the Distant Future
+the Equinox
+the Evening
+the Everdark
+the Harvest
+the Morning
+the Past
+the Present
+the Solstice
+== _sky_colour_name_
+Black
+Blue
+Grey
+Indigo
+Orange
+Purple
+Red
+== _sky_or_light_
+Darkness
+Dim Light
+Light
+Starshine
+Sunlight
+the Endless Expanse
+the Gloaming
+the Heavens
+the Moon
+the Shining Light
+the Skies Above
+the Sky
+the Sun
+the @_sky_colour_name_@ Skies
+== _virtue_or_vice_
+@_virtue_name_@
+@_valour_name_@
+@_vice_name_@
+== _virtue_name_
+Benevolence
+Charity
+Compassion
+Devotion
+Discretion
+Generosity
+Grace
+Honesty
+Hospitality
+Kindness
+Largesse
+Modesty
+Patience
+Temperance
+Thoughtfulness
+Truth
+Understanding
+Virtue
+Wariness
+Wisdom
+== _vice_name_
+Gluttony
+Greed
+Lust
+Pride
+Sloth
+Vanity
+Amorality
+Cowardice
+Dishonesty
+Dishonour
+Equivocation
+Foolhardiness
+Immorality
+Impatience
+Lies
+Misconduct
+Moral Flaws
+Past Mistakes
+Recklessness
+Sin
+Spite
+Tergiversation
+Untruth
+Vice
+Youthful Indiscretion
+the Original Sin
+== _destiny_name_
+Causality
+Destiny
+Doom
+Fate
+Karma
+Kismet
+Wyrd
+== _number_or_qualifier_
+the Three
+the Four
+the Five
+the Six
+the Seven
+the Eight
+the Nine
+the Ten
+the Eleven
+the Twelve
+the Dozen
+the Thirteen
+the Twenty
+the Twenty-Seven
+the Fifty
+the Sixty-Six
+the Seventy-Seven
+the Ninety-Nine
+a Hundred
+the Hundredfold
+a Thousand
+a Million
+a Billion
+the
+the Assorted
+the Countless
+the Manifold
+the Many
+the Several
+the Aged
+the Ageless
+the Ancient
+the Battered
+the Bouncing
+the Bruised
+the Crushed
+the Curious
+the Disturbing
+the Endless
+the Exiled
+the Final
+the First
+the Foremost
+the Forgotten
+the Forsaken
+the Hidden
+the Illusory
+the Immovable
+the Inquisitive
+the Insatiable
+the Invisible
+the Jolly
+the Last
+the Lonely
+the Lost
+the Lumpy
+the Modern
+the Neverending
+the Peculiar
+the Postmodern
+the Pure
+the Secret
+the Sneaky
+the Special
+the Thirsty
+the Thoughtful
+the Tired
+the Unstoppable
+the Vanishing
+the Wary
+the Well-Known
+== _thing_names_
+Allies
+Artisans
+Artists
+Beasts
+Beds
+Beggars
+Blessings
+Bones
+Bounties
+Brambles
+Cities
+Coins
+Continents
+Curses
+Dances
+Deaths
+Defenders
+Domains
+Demons
+Dreams
+Ears
+Emperors
+Eyes
+Friends
+Friars
+Geomancers
+Ghosts
+Gods
+Heavens
+Hells
+Hosts
+Interlopers
+Invaders
+Knaves
+Knives
+Leylines
+Lies
+Lives
+Loafs
+Lovers
+Mice
+Moons
+Mouths
+Mystics
+Nightcaps
+Nightingales
+Nightmares
+Nights
+Olives
+Orbs
+People
+Persimmons
+Places
+Planets
+Portals
+Priests
+Princes
+Prophets
+Queens
+Quests
+Realms
+Runes
+Scars
+Seas
+Seers
+Servitors
+Ships
+Shrikes
+Songs
+Souls
+Spines
+Spirits
+Spreadsheets
+Stars
+Stories
+Suns
+Tables
+Tales
+Teeth
+Thickets
+Things
+Towns
+Tusks
+Ultimatums
+Underlurkers
+Villages
+Violins
+Visionaries
+Visions
+Wars
+Wishes
+Wonders
+Xalams
+Xenops
+Xeniums
+Xenophobes
+Yaks
+Youths
+Ziggurats
+== _verbing_
+Ageing
+Baking
+Bedazzling
+Bedighting
+Bespelling
+Blushing
+Breathing
+Brewing
+Building
+Burning
+Bursting
+Changing
+Charming
+Chewing
+Conjuring
+Crafting
+Cursing
+Dancing
+Destroying
+Devouring
+Disbelieving
+Dripping
+Enchanting
+Enfolding
+Feeding
+Flying
+Forging
+Fortifying
+Freezing
+Gazing
+Glimmering
+Glowing
+Gnashing
+Grinning
+Growing
+Hammering
+Healing
+Holding
+Howling
+Hugging
+Hungering
+Hurling
+Hurting
+Hurtling
+Imbibing
+Inviting
+Jumping
+Kissing
+Keeping
+Leaping
+Loving
+Lusting
+Malding
+Mauling
+Mashing
+Muttering
+Nurturing
+Protecting
+Rescuing
+Riding
+Scorching
+Screaming
+Sharing
+Sheltering
+Shifting
+Shimmering
+Shouting
+Shrinking
+Singing
+Smoking
+Stopping
+Summoning
+Supporting
+Teaching
+Telling
+Thieving
+Threshing
+Transmuting
+Twisting
+Uplifting
+Usurping
+Winnowing
+Witching
+Wizarding
+Writhing
+Bashing
+Slashing
+Piercing
+== _adjective_
+Blue
+Green
+Red
+Amorous
+Antique
+Arcadian
+Avant Garde
+Baleful
+Barnacled
+Beastly
+Bedazzled
+Bellicose
+Beloved
+Bequeathed
+Bespelled
+Bright
+Burning
+Bursted
+Burnt
+Carved
+Caustic
+Clean
+Cleverly Designed
+Charmed
+Charred
+Contumacious
+Damp
+Decaying
+Deeply Unsettling
+Delicate
+Delightful
+Demonic
+Divine
+Doomed
+Dowdy
+Dull
+Durable
+Enormous
+Ethereal
+Exceptional
+Extremely Toothy
+Eye-covered
+Fabulous
+Fae
+Feral
+Ferocious
+Festooned
+Filigreed
+Floral
+Freezing
+Fresh
+Futuristic
+Fuzzy
+Ghostly
+Glamorous
+Golden
+Grand
+Grim
+Hairy
+Haunted
+Histrionic
+Impassible
+Impish
+Indestructible
+Intense
+Irksome
+Jocular
+Lachrymose
+Living
+Majestic
+Meager
+Modern
+Mordant
+Narrow
+Nice
+Noxious
+Oily
+Ornamental
+Painted
+Parsimonious
+Powerful
+Puckish
+Quiescent
+Quick
+Reasonable
+Resonant
+Rotten
+Sandy
+Scuffed
+Sharp
+Shrieking
+Silly
+Slimy
+Solemn
+Soft
+Squeaky
+Stained
+Sufficient
+Tentacled
+Terrible
+Toothy
+Tortured
+Transparent
+Ubiquitous
+Unbearable
+Verdant
+Viny
+Voracious
+Weak
+Wicked
+Wonderful
+Zealous
+== _fruit_name_
+Orange
+Banana
+Banana Bread
+Pear
+Apple
+Apricot
+Tomato
+Peach
+Plum
+Rambutan
+Lychee
+Mango
+Watermelon
+Rockmelon
+Strawberry
+Coconut
+Breadfruit
+Eggfruit
+Dragonfruit
+Durian
+Jackfruit
+Longan
+Tamarind
+Guava
+Mangosteen
+Soursop
+Tangerine
+Cherry
+Grape
+Sultana
+Fig
+Date
+Lemon
+Lime
+Medlar
+== _armour_animal_
+Amoeba
+Tardigrade
+Ant
+Butterfly
+Cicada
+Cockroach
+Cricket
+Ladybird
+Locust
+Louse
+Mantidfly
+Tick
+Centipede
+Cuttlefish
+Gastropod
+Slug
+Snail
+Trilobite
+Worm
+Barnacle
+Clam
+Lobster
+Quahog
+Tarantula
+Frog
+Komodo Dragon
+Lizard
+Salamander
+Serpent
+Turtle
+Barracuda
+Catfish
+Cichlid
+Mackerel
+Marlin
+Salmon
+Sturgeon
+Sunfish
+Trout
+Tuna
+Albatross
+Eagle
+Falcon
+Heron
+Meadowlark
+Nightingale
+Raven
+Robin
+Shrike
+Sparrow
+Swan
+Turtledove
+Bull
+Camelopard
+Catamount
+Dolphin
+Echidna
+Elephant
+Hart
+Hippo
+Kangaroo
+Lion
+Monkey
+Okapi
+Stag
+Stallion
+Zebra
+Circus Animal
+Monkey's Uncle
+Centaur
+Cockatrice
+Chimera
+Dragon
+Griffon
+Hecatoncheires
+Hippogriff
+Kraken
+Leogriff
+Nuckelavee
+Pooka
+Quinotaur
+Sea Goat
+Skiapode
+Unicorn
+Akabeko
+Baku
+Byakko
+Ikuchi
+Kappa
+Kitsune
+Kodama
+Oni
+Shishi
+Tsukumogami
+Carbunclo
+Cherruve
+Cuero
+Curupira
+Ebigane
+Gasogonaga
+Mpinguari
+Tapire-iauara
+Biloko
+Guiamala
+Impundulu
+Isitwalangcengce
+Nkala
+Zankallala
+Bakunawa
+Minokawa
+Armchairtaur
+Giraffataur
+Elephantaur
+Mertaur
+Merwolf
+Platytaur
+Rhinotaur
+Taurataur
+Treeataur
+Wereyak
+Zebrataur
+Chupacabra
+Dropbear
+Jackalope
+Jersey Devil
+Skvader
+Snallygaster
+Tatzelwurm
+Wild Haggis
+Yeti
+== _flower_name_
+Daffodils
+Daisies
+Lilacs
+Periwinkles
+Purple Dead-Nettles
+Tulips
+Violets
+the Garden
+the Horehound
+the Lily
+the Lotus Blossom
+the Rose
+the Thistle
+== _critter_name_
+Alphagorgon
+Slorg
+Eight Boll Weevils
+Grue
+Hot Ocelot
+Jabberwock
+Were-rabbit
+Wumpus
+== _discomfort_and_inaction_
+Bad Feelings
+Bitterness
+Disappointment
+Entitlement
+Failure
+Insecurity
+Minor Irritation
+Negation
+Servitude
+Submission
+Vexation
+Apathy
+Boredom
+Ennui
+Inaction
+Lethargy
+Lifelessness
+Negligence
+Oblivion
+Omission
+Restlessness
+the Doldrums
+== _good_or_divine_
+Amelioration
+Awe
+Beauty
+Birdsong
+Cleverness
+Contentment
+Creativity
+Curiosity
+Eucatastrophe
+Freedom
+Fun
+Happiness
+Joy
+Knowledge
+Leaves
+Liberty
+Life
+Lucidity
+Mirth
+Music
+New Discoveries
+Satisfaction
+Surprise
+Tender Moments
+Wonder
+the Good
+the Leaf
+Divine Compulsion
+Divine Intervention
+Intercession
+Miracles
+Salvation
+the Invisible Hand
+the Will of the Gods
+== _armour_name_shielding_
+Complete Protection
+Death's Door
+Defence
+Exclusion
+Fortification
+Impermeability
+Inviolability
+Refuge
+Repulsion
+Shielding
+the Armoured One
+the Bulwark
+the Gate
+the Saviour
+the Stone Wall
+the Unbroken
+the Untouchables
+the Ward
+== _armour_property_name_
+Death Resistance
+Disguise
+Fashionability
+Fullness
+Grace
+Gravitas
+Impressiveness
+Least Resistance
+Polish
+Privacy
+Protective Custody
+Resilience
+Shadows and Fog
+Supple Strength
+Weightlessness
+== _wacky_armour_name_
+Absence
+Anaesthesia
+Baldness
+Compression
+Decompression
+Dramatic Exits
+Duck's Teeth
+Forking Paths
+Good Intentions
+Hadjma
+Hairiness
+Hedging
+Hubris
+Incorporation
+Indecent Exposure
+Indemnity
+Limited Liability
+Loss
+Love and Death
+Mezcal
+Pathos
+Philately
+Plasticity
+Poor Excuses
+Precision Catastrophes
+Space
+Terror
+Thrice Damned Blessings
+Too Many Cooks
+Untold Secrets
+Vlad
+Weirdness
+the Arcane
+the Armadillo
+the Blind Marksman
+the Earth
+the Eternal Fruit
+the Loofah
+the Old and Reckless
+the Onion
+the Pink Corner
+the Plethaurus
+the Road Less Travelled
+the True Pharaoh
+the Unemployed Unperson
+the Vacuum
+== _celestial_bodies_
+Blue Moon
+Comet
+Constellations
+Evening Star
+Harvest Moon
+Midnight Sun
+Moon
+Morning Star
+Northern Lights
+Planets
+Pleiades
+Stars
+Sun
+Black Moon
+== _instrument_name_
+Chimes
+Pan-Flutes
+Trumpets
+the Accordion
+the Bagpipe
+the Bells
+the Fiddle
+the Fife
+the Flute
+the Gusle
+the Harp
+the Kazoo
+the Kettle-Drum
+the Lute
+the Trombone
+== _evil_being_
+Demons
+Greater Demons
+Lesser Demons
+Tempters
+Vampiric Thralls
+the Archfiend
+the Demon Prince
+the Devil
+the Devil's Advocate
+the Devil's Team
+the Evil One
+the Fiend
+the Furies
+the Imp
+the Iron Devil
+the Lich-sworn
+the Little Devil
+the Prince of Darkness
+the Tormentor
+the Villain
+== _weather_name_
+Blue Skies
+Boiling Hail
+Chill Winds
+Cloud Cover
+Dust Devils
+Howling Wind
+Lightning Storm
+Perpetual Drought
+Pleasant Breezes
+Quiet Fog
+Soft Rains
+Spring Thaw
+the Blizzard
+the First Snow
+the Hurricane
+the Thunderstorm
+== _profession_name_
+Apprentice
+Apothecary
+Baker
+Barber Surgeon
+Bard
+Beekeeper
+Beggar
+Blacksmith
+Buccaneer
+Butcher
+Candlemaker
+Carpenter
+Cartwright
+Cobbler
+Cooper
+Ditch-Digger
+Engineer
+Farmer
+Farrier
+Fisher
+Fletcher
+Furrier
+Gardener
+Goldsmith
+Gravedigger
+Guardian
+Guild-Master
+Guilds
+Hunter
+Journeyman
+Learner
+Merchant
+Miller
+Minstrel
+Moneychanger
+Monk
+Pirate
+Playwright
+Sailor
+Scribe
+Silversmith
+Soldier
+Stonemason
+Tanner
+Teacher
+Thinker
+Undertaker
+Watchman
+Weaver
+Wheelwright
+== _game_name_
+Dice, Bag, and Bottle
+Fun and Games
+Parlour Games
+the Game Afoot
+the Game of Kings
+the Great Game
+Follow the Leader
+Hide-and-Seek
+Hopscotch
+Leapfrog
+Mumblety Peg
+Peek-a-Boo
+the King of the Hill
+Card Tricks
+Hangman
+Jigsaw
+Marbles
+Noughts and Crosses
+Snakes and Ladders
+Whack-A-Mole
+the Dice
+the Game of Life
+== _politics_name_armour_
+Coronation
+Democracy
+Nobility
+Royalty
+Sovereignty
+the Ban
+the Burgomaster
+the Cast Vote
+the Castellan
+the City
+the Commoners
+the Country
+the Crown
+the Doge
+the Duchess
+the Duke
+the Empire
+the Failed Coup
+the Greedy
+the King
+the Komtur
+the Mutiny
+the Oligarchy
+the Peasants
+the Prince
+the Princeling
+the Princess
+the Queen
+the Rabble
+the Republic
+the Suburbs
+the Townfolk
+the Voivode
+== _other_armour_name_
+Filth
+Grot
+Grottiness
+Slovenliness
+Bedevilment
+Broken Taboos
+Gestures
+Magic
+Muttered Phrases
+Sorcery
+Words of Power
+the Arcane
+Crawling
+Disaster
+Dogmatism
+Feasting
+Going Fast
+Happy Babbling
+Hedge Wizardry
+Imperfection
+Inevitability
+Insatiable Hunger
+Insurance
+Misanthropy
+Perfidy
+Time Monsters
+Trial and Error
+Unambiguity
+Undesirable Species
+Wasted Space
+Wrong Decisions
+the @_card_@ of @_suit_@
+the Hanged Man
+the Lost Path
+the Moon Troll
+the Orb
+the Orb Guardian
+the Other World
+the Sacrificial Victim
+the Slightly Bent
+the Storm King
+Ravioli
+Spaghetti
+Tortelloni
+Farfalle
+Rotini
+Vermicelli
+Macaroni
+Strozzapreti
+the Pastamancer
+Meatballs
+== _card_
+Two
+Three
+Four
+Five
+Six
+Seven
+Eight
+Nine
+Ten
+Page
+Knight
+Queen
+King
+Ace
+== _suit_
+Cups
+Pentacles
+Swords
+Wands
+== _plain_armour_name_
+Damnable Contraption
+Earthly Heaven
+Forget-Me-Not
+Hero's Friend
+Put-Me-On
+Trusted Companion
+== _power_or_anger_
+@_power_name_@
+@_conflict_name_@
+@_anger_name_@
+== _power_name_
+Big Damage
+Dominance
+Domination
+Friendship
+Glory
+Grandeur
+Hubris
+Intimidation
+Invincibility
+Magnificence
+Mastery
+Might
+Success
+Superiority
+Triumph
+Victory
+Wondrous Power
+== _conflict_name_
+Brawling
+Conflict
+Contention
+Discord
+Dissent
+Division
+Doubt
+Internal Strife
+Melee
+Resumed Hostilities
+Tension
+== _anger_name_
+@_anger_quality_@
+@_anger_possessive_@
+== _anger_quality_
+Anger
+Brutal Revenge
+Disproportionate Response
+Fury
+Hatred
+Indignation
+Outrage
+Righteous Anger
+Righteous Fury
+Scorn
+Vengeance
+Wrath
+== _anger_possessive_
+the Extremely Mad
+the Absolute Madman
+the Incandescent
+the Furious
+the Howling One
+the Gibberer
+the Hated
+the Scorned
+the Abhorred
+== _battle_or_war_
+Crusades
+Eternal War
+Iconoclasm
+Plunder
+Ravage
+Regicide
+Skirmishing
+War
+the Doomed Warrior
+the Endless March
+the Eternal Warrior
+the Onslaught
+the Pyrrhic Victory
+the Warrior
+Blood
+Blood-Lust
+Callousness
+Diet Blood
+Fear
+Joyful Slaughter
+Massacring
+Wounding
+Agony
+Hacking and Slashing
+Insufficient Pleasure
+Trauma
+Dullness
+Precise Incision
+Laceration
+Severance
+Truncation
+Death's Door
+Mourning
+the Grave
+== death_or_doom
+Bloody Death
+Certain Death
+Death
+Exquisite Death
+Imminent Death
+Instant Death
+Pain and Death
+Painful Death
+Quick Death
+Slow Death
+Sudden Death
+Uncertain Death
+Untimely Demise
+Destruction
+Disembowelment
+Doom
+Evisceration
+Execution
+Extermination
+Extinguishment
+Peril
+Premature Burial
+Anguish
+Dismemberment
+Excruciating Pain
+Exquisite Torment
+Infinite Pain
+Misery
+Terror
+Woe
+== _strategy_or_justice_
+@_strategy_name_@
+@_valour_name_@
+@_justice_name_@
+== _strategy_name_
+Defence
+Defence by Offence
+Expedience
+Guile
+Offence
+Optimality
+Overwhelming Force
+Reinforcement
+Strategic Superiority
+Subterfuge
+== _valour_name_
+Action
+Conatus
+Conscience
+Courage
+Daring
+Defiance
+Duty
+Eternal Vigilance
+Fortitude
+Gallantry
+Honour
+Indomitability
+Integrity
+Prudence
+Purpose
+Resourcefulness
+Responsibility
+Tenacity
+True Grit
+Valiance
+Watchfulness
+== _justice_name_
+Absolution
+Accidental Termination
+Blind Justice
+Capital Punishment
+Corporal Punishment
+Cruel Justice
+Exoneration
+Extenuating Circumstances
+False Accusations
+Forgiveness
+Guilt
+Innocence
+Judgement
+Punishment
+Tender Mercy
+Tortfeasance
+Trial by Ordeal
+Wrongful Imprisonment
+== _diviner_name_
+Augurer
+Fortune-Teller
+Oracle
+Prognosticator
+Seeker
+Seer
+Soothsayer
+Sybil
+Visionary
+Water Diviner
+== _people_name_
+Ancients
+Coward
+Enemy
+Fool
+Genius
+Hero
+Jester
+King
+Madman
+Messenger
+Pariah
+Philosopher
+Priest
+Queen
+Saviour
+Scapegrace
+Scavenger
+Traitor
+@_diviner_name_@
+== _weapon_animal_
+@_arachnid_name_@
+@_crustacean_name_@
+@_fish_name_@
+@_amphibian_name_@
+@_reptile_name_@
+@_bird_name_@
+@_mammal_name_@
+== _crustacean_name_
+Ant
+Barnacle
+Bee
+Blowfly
+Bristletail
+Butterfly
+Caddisfly
+Crab
+Crayfish
+Damselfly
+Dragonfly
+Firefly
+Flea
+Gnat
+Hornet
+June-Bug
+Krill
+Lacewing
+Lobster
+Louse
+Mayfly
+Mosquito
+Moth
+Pill Bug
+Prawn
+Shrimp
+Silverfish
+Wasp
+Weta
+Woodlouse
+Yellowjacket
+== _arachnid_name_
+Harvestman
+Scorpion
+Spider
+Tick
+== _amphibian_name_
+Axolotl
+Caecilian
+Frog
+Hellbender
+Newt
+Olm
+Salamander
+Siren
+Toad
+== _reptile_name_
+Alligator
+Asp
+Crocodile
+Gecko
+Gharial
+Krait
+Leatherback
+Lizard
+Python
+Rattlesnake
+Skink
+Terrapin
+Tortoise
+Turtle
+Viper
+== _fish_name_
+Big Fish
+Eel
+Lamprey
+Salmon
+Shark
+== _bird_name_
+Apostlebird
+Arctic Tern
+Auk
+Bustard
+Buzzard
+Cardinal
+Cassowary
+Dove
+Duck
+Emu
+Flamingo
+Forest Kingfisher
+Fulmar
+Goose
+Guillemot
+Hawk
+Hummingbird
+Hoatzin
+Kiwi
+Kookaburra
+Moa
+Noisy Friarbird
+Ostrich
+Owl
+Penguin
+Pigeon
+Potoo
+Puffin
+Rainbow Bee-Eater
+Razorbill
+Rhea
+Roseate Spoonbill
+Sage Grouse
+Shrike
+Stork
+Swan
+Superb Lyrebird
+Tawny Frogmouth
+Vulture
+== _mammal_name_
+Ass
+Badger
+Bear
+Boar
+Fox
+Goat
+Rat
+Stoat
+Tiger
+Weasel
+Whale
+Wolf
+== _plant_name_
+Eggplant
+Chickpea
+Lettuce
+Radish
+Sugar Beet
+Shallot
+Tomato
+Turnip
+Whelk
+Magic Mushroom
+Mushroom
+Puffball
+Slime-mould
+Toadstool
+== _evil_stuff_
+Abomination
+Abuse
+Ancient Evil
+Corruption
+Debasement
+Defilement
+Deformation
+Demonkind
+Evil
+Hell's Wrath
+Infection
+Mutilation
+Nightmares
+Perversion
+Putrescence
+Shrieking Terror
+Vitiation
+the Beast
+the Crawling Thing
+the Dead
+the Evil Eye
+the Ghost
+the Living Dead
+the Lurker
+the Reaper
+the Spectre
+the Thing
+the Undead
+the Unliving
+the Unspeakable One
+the Wraith
+== _catastrophe_name_
+Earthquakes
+Cataclysm
+Drought
+Floods
+Ruination
+the Inferno
+Annihilation
+Armageddon
+Ragnarok
+World Downfall
+World's End
+the Apocalypse
+the End of Times
+the Eschaton
+Famine
+Pestilence
+Plague
+War
+== _chaos_name_
+Ambiguity
+Arbitration
+Calamity
+Chance
+Change
+Confusion
+Constant Reorganisation
+Contradiction
+Disarray
+Disaster
+Disharmony
+Disintegration
+Disorder
+Dissolution
+Distraction
+Extremism
+Goblin Mode
+Havoc
+Imbalance
+Impermanence
+Incongruity
+Mayhem
+Revolt
+True Chaos
+Tumult
+Turmoil
+Upheaval
+the Extremes
+the Farrago
+the Fray
+the Hodge-Podge
+the Mish-Mash
+== _balance_or_order_
+Accord
+Arrival
+Ascent
+Balance
+Bodily Harmony
+Circularity
+Conformity
+Departure
+Descent
+Due Proportion
+Equilibrium
+Equivalence
+Eternal Harmony
+Fragile Peace
+Harmony
+Law
+Linearity
+Moderation
+Peace
+Propriety
+Symmetry
+the Establishment
+the Final Decision
+the Median
+the Middle
+== _economics_or_politics_
+Amortisation
+Animal Spirits
+Bankruptcy
+Collusion
+Compound Interest
+Currency
+Debt
+Deflation
+Demand
+Dividends
+Exchange
+Growth
+Income
+Inflation
+Luxury
+Profit
+Risk Management
+Supply
+Taxation
+Valuable Assets
+Welfare
+Attainder
+Breach
+Checks and Balances
+Conservatism
+Defenestration
+Fee Simple
+Freehold
+Fundamental Breach
+Governance
+Greatest Utility
+Impeachment
+Mandamus
+Popular Demand
+Poverty
+Radicalism
+Reapportionment
+Royalism
+Sequestration
+Termination
+Wealth
+the Common Good
+the Dark Horse
+the Demagogue
+the Imperium
+the Lame Duck
+the Lesser Evil
+the Little People
+the People
+the Revolution
+the Silent Majority
+Actus Reus
+Ad Valorem
+Adverse Possession
+Corpus Delicti
+Eminent Domain
+In Flagrante Delicto
+Ipse Dixit
+Locus Delicti
+Malum In Se
+Malum Prohibitum
+Mens Rea
+Nolo Contendere
+Non Obstante Veredicto
+Obiter Dictum
+Res Ipsa Loquitur
+Res Judicata
+== _place_name_
+Beyond
+Distant Shores
+Distant Worlds
+Parts Unknown
+Proximity
+Somewhere Else
+the Blessed Realm
+the Desert
+the Equator
+the Eternal Void
+the Forest
+the Hidden Vale
+the Hills
+the Known World
+the Land of Plenty
+the Maze
+the New World
+the Old World
+the Other Side
+the Pit
+the Poles
+the Sea
+the Shore
+the Spheres
+the Trees
+the Tundras
+the Unseen Realm
+the Valley
+the Valley of Death
+the Volcano
+the Wasteland
+the Wilderness
+the World
+== _discomfort_weapon_
+Annoyance
+Anxiety
+Awkwardness
+Chagrin
+Desperation
+Discomfort
+Disgust
+Dismay
+Dissatisfaction
+Embarrassment
+Flawed Execution
+Foul Odours
+Frustration
+Gloom
+Inconvenience
+Irritation
+Malaise
+Shame
+Stickiness
+Uncomfortable Rashes
+Unpleasantness
+Urgency
+== _philosophy_or_science_
+@_philosophy_name_@
+@_science_name_@
+== _philosophy_name_
+Absolutism
+Abstinence
+Activism
+Agnosticism
+Altruism
+Anarchy
+Asceticism
+Atheism
+Autotheism
+Cynicism
+Disestablishmentarianism
+Dogma
+Egalitarianism
+Elitism
+Ethics
+Existentialism
+Fallacy
+Fanaticism
+Free Expression
+Free Will
+Hedonism
+Henotheism
+Heresy
+Idealism
+Kathenotheism
+Levity
+Liberalism
+Limitation
+Maltheism
+Monotheism
+Morality
+Mutualism
+Mysticism
+Nihilism
+Optimism
+Orthodoxy
+Orthopraxy
+Panentheism
+Pantheism
+Pessimism
+Polytheism
+Pragmatism
+Rationality
+Relativism
+Serendipity
+Skepticism
+Sophism
+Stoicism
+Syndicalism
+Theistic Finitism
+the Ego
+== _science_name_
+Analysis
+Articulation
+Calculation
+Circular Logic
+Classification
+Context
+Evolution
+Experimentation
+Focus
+Gravity
+Inference
+Infinity
+Inquiry
+Instinct
+Intuition
+Objectivity
+Patterns
+Quantum Leap
+Reason
+Rotation
+Subjectivity
+Theory
+Unreason
+the Beginning
+the Big Bang
+the Boiling Point
+the End
+the Mind
+the Nexus
+== _item_name_
+Candelabrum
+Candle
+Chain
+Coin
+Cup
+Egg
+Feather
+Girdle
+Globe
+Horn
+Key
+Orb
+Pillar
+Purse
+Ring
+Scroll
+Ship
+Tent
+Vase
+Vine
+Walnut
+Wheel
+Yoke
+Brain
+Foot
+Hand
+Head
+Heart
+Kidney
+Mouth
+Throat
+Tooth
+== _magic_name_
+the Hierophant
+the Magi
+the Sage
+the Warrior-Mage
+== _substance_name_
+Ash
+Bile
+Bloodstone
+Bodily Humours
+Bread
+Cheese
+Cobwebs
+Crystal
+Dried Tears
+Dung
+Ichor
+Ointment
+Oozing Pus
+Paper
+Rubbish
+Salt
+Saltpetre
+Sharkskin
+Slime
+Sulphur
+Terra Cotta
+Dust
+Mana
+Spores
+Yeast
+== other_weapon_name
+Broken Luck
+Butchery
+Checkmate
+Conversion
+Crawling
+Desertification
+Doors
+Entrepreneurial Spirit
+False Hope
+Fulguration
+Gin and Tonic
+Grontol
+Hard Scrabble
+Interdependent Arising
+Irrepressible Laughter
+No Interval
+Prescription
+Red Wine
+Res Nullius
+Spontaneous Combustion
+Terra Nullius
+Traps
+Undoing
+Vodka
+the Blind Eye
+the Briny Deep
+the Empty Page
+the Final Chapter
+the Omega Point
+the Open Hand
+the Pharaoh's Fist
+the Real Monster
+the Spinneret
+the Two Names
+the Unkillable
+the Vendetta
+== short_monster_name_
+Acarine
+Beast
+Beetle
+Demon
+Dragon
+Giant
+Goblin
+Hydra
+Imp
+Jelly
+Lacertilian
+Newt
+Ogre
+Spider
+Testudine
+== _monster_name_
+@short_monster_name_@
+@player_species@
+Killer Bee
+Killer Klown
+Orb Guardian
+== _short_killer_name_
+bane
+slayer
+== killer_name
+'s Bane
+'s Curse
+'s Death
+'s Doom
+'s Foe
+'s Peril
+'s Regret
+== _long_killer_name_
+'s Death Toll
+'s Demise
+'s Funeral
+'s Nightmare
+'s Undoing
+'s Looming Annihilation
+== _real_weapon_name_
+Arbiter
+Arcanum
+Concordance
+Conservator
+Death Rattle
+Dragon's Tongue
+Earthworm
+Embalmer
+Eviscerator
+Grim
+Grim Tooth
+Hell-Harrower
+Hellblazer
+Leviticus
+Lifebane
+Murmur
+Pendulum
+Sarcophage
+Serial Peacemaker
+Tormentor
+Transmigrator
+Trog's @_anger_quality_@
+Ultimatum
+Undertaker
+Widowermaker
+Widowmaker
+Worm
+Worm's Wrath
+Gram
+== _joke_weapon_name_
+Aubergine
+Backscratcher
+Bingo
+Blob
+Brush
+Bung
+Cookie Cutter
+ETAOIN SHRDLU
+Egg
+Fish
+Giant's Toothpick
+Globulus
+Grom
+Grum
+Hulk
+Lorem Ipsum
+Mud Pie of Death
+No More Talking
+Omelette
+Ox
+Q
+Raisin
+Rummage
+Secret Weapon
+Starlight
+String
+Stringbean
+Tattletale
+Thing
+With Two Names
+X
+Xom's @_xom_esteem_@
+Z
+Glorpo
+Loopy
+Plojy
+== _plain_weapon_name_
+@short_monster_name_@@_short_killer_name_@
+@_monster_name_@@killer_name@
+@short_monster_name_@@_long_killer_name_@
+@player_death@
+@_real_weapon_name_@
+@_joke_weapon_name_@

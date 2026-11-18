@@ -39,7 +39,9 @@
         const perso = (globalThis.DCSS_TRADUCTIONS || {}).perso;
         if (perso && Object.prototype.hasOwnProperty.call(perso, cle)) return perso[cle];
         const m = globalThis.DCSS_MANUEL || {};
-        return Object.prototype.hasOwnProperty.call(m, cle) ? m[cle] : null;
+        if (Object.prototype.hasOwnProperty.call(m, cle)) return m[cle];
+        const t = globalThis.DCSS_PHRASES_TOUCHES || {};
+        return Object.prototype.hasOwnProperty.call(t, cle) && t[cle].indexOf("Ⓚ") === -1 ? t[cle] : null;   // paragraphes d'aide sans touche
     }
 
     globalThis.DCSS_TRADUIRE_MANUEL = function (texte) {
@@ -55,5 +57,7 @@
         }
         return change ? morceaux.join("") : texte;
     };
+    // Réutilisé par les phrases à touches (content.js) pour recouper les longues lignes.
+    globalThis.DCSS_ENVELOPPER = t => t.split("\n").map(envelopperLigne).join("\n");
     globalThis.DCSS_MANUEL = globalThis.DCSS_MANUEL || {};
 })();

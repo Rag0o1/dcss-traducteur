@@ -30,7 +30,7 @@
    "source": "dat/database/help.txt",
    "volume": "~456 lignes",
    "quoi": "Écrans d’aide : ramasser, naviguer, commandes",
-   "decision": "À traduire"
+   "decision": "Fait en 0.23"
   },
   {
    "priorite": 2,
@@ -38,31 +38,7 @@
    "source": "dat/database/FAQ.txt",
    "volume": "~177 lignes",
    "quoi": "Questions fréquentes (menu ?)",
-   "decision": "À traduire"
-  },
-  {
-   "priorite": 2,
-   "sujet": "Cris et répliques des monstres",
-   "source": "dat/database/monspeak.txt",
-   "volume": "~3 587 lignes",
-   "quoi": "Ce que disent les monstres en combat",
-   "decision": "À traduire (gros volume)"
-  },
-  {
-   "priorite": 2,
-   "sujet": "Insultes",
-   "source": "dat/database/insult.txt",
-   "volume": "~572 lignes",
-   "quoi": "Morceaux d’insultes assemblés (diablotins, orques…)",
-   "decision": "À traduire"
-  },
-  {
-   "priorite": 2,
-   "sujet": "Bruits d’armes",
-   "source": "dat/database/wpnnoise.txt",
-   "volume": "~648 lignes",
-   "quoi": "Armes bavardes (bouclier du gong…), verbes de cris",
-   "decision": "À traduire"
+   "decision": "Fait en 0.23"
   },
   {
    "priorite": 2,
@@ -70,7 +46,7 @@
    "source": "dat/database/decorlines.txt",
    "volume": "~121 lignes",
    "quoi": "« Vous voyez … sur la fontaine »",
-   "decision": "À traduire"
+   "decision": "Moteur fait ; quelques cas à revérifier"
   },
   {
    "priorite": 3,
@@ -94,7 +70,7 @@
    "source": "rand_all, rand_arm, rand_wpn, randname",
    "volume": "~2 400 lignes",
    "quoi": "« de la Malice joyeuse » : morceaux assemblés au hasard",
-   "decision": "À traduire (accords à gérer)"
+   "decision": "En cours (grammaire comme les graffitis)"
   },
   {
    "priorite": 3,

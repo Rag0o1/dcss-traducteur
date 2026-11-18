@@ -11,6 +11,11 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.23 — aide du jeu et FAQ
+
+- Écrans d’aide (`help.txt`) et FAQ (`FAQ.txt`) traduits : 235 paragraphes et 26 titres, ajoutés aux phrases à touches (`outils/phrases_touches_src.json`, `outils/aide_titres.json`, fichier généré par `outils/gen_phrases_touches.js`).
+- Moteur : un texte d’aide de plusieurs paragraphes sans touche colorée est traduit paragraphe par paragraphe ; les paragraphes mis en page sur plusieurs lignes sont recoupés à la même largeur.
+
 ## 0.22 — phrases à touches (astuces, tutoriel) et « Blink »
 
 - Nouveau dans le moteur (`moteur/content.js`, `traduirePhraseATouches`) : quand le jeu coupe une phrase avec des touches colorées, la phrase ENTIÈRE est reconnue sur l’élément parent et traduite d’un coup. Garde-fou : un morceau isolé (« You can ») n’est jamais traduit seul ; seule une phrase complète connue l’est.

@@ -375,7 +375,9 @@ function traduirePhraseATouches(noeud) {
         const fr = DCSS_PHRASES_TOUCHES.get(dcssSigTouches(bloc));
         if (typeof fr !== "string") return bloc;
         change = true;
-        return bloc.match(/^\s*/)[0] + fr + bloc.match(/\s*$/)[0];
+        // Texte d'aide mis en page sur plusieurs lignes : on recoupe la traduction de la même façon.
+        const texte = /\n/.test(bloc.trim()) && !/\n/.test(fr) && globalThis.DCSS_ENVELOPPER ? globalThis.DCSS_ENVELOPPER(fr) : fr;
+        return bloc.match(/^\s*/)[0] + texte + bloc.match(/\s*$/)[0];
     }).join("");
     if (!change) return false;
     const morceaux = resultat.split("Ⓚ");
@@ -409,7 +411,10 @@ function traduireNoeudTexte(noeud) {
         return;
     }
 
-    const traduit = traduireMemo(original);
+    let traduit = traduireMemo(original);
+    if ((typeof traduit !== "string" || traduit === original) && original.includes("\n\n") && typeof globalThis.DCSS_TRADUIRE_MANUEL === "function") {
+        traduit = globalThis.DCSS_TRADUIRE_MANUEL(original);   // plusieurs paragraphes d'aide dans un seul texte
+    }
     if (typeof traduit !== "string" || traduit === original) return;
     if (traduit.length > DCSS_MAX_TEXTE_TRADUIT) return;
 
