@@ -296,7 +296,7 @@ EN: ~There's no penalty for skipping it, but the portal will disappear if you wa
 FR: Il n’y a aucune pénalité à l’ignorer, mais le portail disparaîtra si vous attendez ; vous devez donc décider maintenant si vous voulez prendre le risque.
 
 EN: ~is a portal to an inter-dimensional bazaar filled with shops.
-FR: est un portail vers un bazar interdimensionnel rempli de boutiques.
+FR: est un portail vers un bazaar interdimensionnel rempli de boutiques.
 
 EN: ~It will disappear if you don't enter it soon, so hurry.
 FR: Il disparaîtra si vous n’y entrez pas bientôt, alors dépêchez-vous.

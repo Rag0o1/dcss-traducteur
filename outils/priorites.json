@@ -70,7 +70,7 @@
    "source": "rand_all, rand_arm, rand_wpn, randname",
    "volume": "~2 400 lignes",
    "quoi": "« de la Malice joyeuse » : morceaux assemblés au hasard",
-   "decision": "En cours (grammaire comme les graffitis)"
+   "decision": "Fait en 0.24 (environ 87 % des noms testés corrects ; quelques tournures à polir)"
   },
   {
    "priorite": 3,
@@ -127,6 +127,14 @@
    "volume": "~20 textes",
    "quoi": "« attaque sournoise » ou garder « stab » en anglais ?",
    "decision": "En attente de ta réponse"
+  },
+  {
+   "priorite": 1,
+   "sujet": "Portails en anglais",
+   "source": "tout le dictionnaire",
+   "volume": "62 textes",
+   "quoi": "Ziggurat, Sewer, Bazaar… gardent leur nom anglais",
+   "decision": "Fait en 0.24 (décision du 18/11)"
   }
  ],
  "astuces": [

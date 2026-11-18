@@ -68,7 +68,7 @@ EN: Bats
 FR: Chauves-souris
 
 EN: Bazaar
-FR: Bazar
+FR: Bazaar
 
 EN: Beogh the Shepherd
 FR: Beogh le Berger
@@ -122,7 +122,7 @@ EN: Depths
 FR: Profondeurs
 
 EN: Desolation
-FR: Désolation
+FR: Desolation
 
 EN: Dis
 FR: Dis
@@ -242,7 +242,7 @@ EN: Game Saving and Quitting:
 FR: Sauvegarde et sortie du jeu :
 
 EN: Gauntlet
-FR: Épreuve
+FR: Gauntlet
 
 EN: Gehenna
 FR: Géhenne
@@ -281,13 +281,13 @@ EN: Hexes
 FR: Maléfices
 
 EN: Ice Cave
-FR: Grotte de glace
+FR: Ice Cave
 
 EN: Ice Magic
 FR: Magie de Glace
 
 EN: Ice cave
-FR: Grotte de glace
+FR: Ice cave
 
 EN: Ice magic
 FR: Magie de la Glace
@@ -371,7 +371,7 @@ EN: Necromancy
 FR: Nécromancie
 
 EN: Necropolis
-FR: Nécropole
+FR: Necropolis
 
 EN: Nemelex Xobeh the Trickster
 FR: Nemelex Xobeh le Filou
@@ -398,7 +398,7 @@ EN: Orcish mines
 FR: Mines Orques
 
 EN: Ossuary
-FR: Ossuaire
+FR: Ossuary
 
 EN: Other Gameplay Actions:
 FR: Autres actions de jeu :
@@ -485,7 +485,7 @@ EN: Seething chaos
 FR: Chaos bouillonnant
 
 EN: Sewer
-FR: Égouts
+FR: Sewer
 
 EN: Shapeshifting
 FR: Métamorphose
@@ -671,7 +671,7 @@ EN: Trog the wrathful
 FR: Trog le Furieux
 
 EN: Trove
-FR: Trésor
+FR: Trove
 
 EN: Turn | Place | Note
 FR: Tour | Lieu | Note
@@ -704,7 +704,7 @@ EN: Vitriol
 FR: Vitriol
 
 EN: Volcano
-FR: Volcan
+FR: Volcano
 
 EN: Wall Jump
 FR: Saut mural
@@ -737,7 +737,7 @@ EN: Wisps of flame
 FR: Volutes de flammes
 
 EN: Wizlab
-FR: Laboratoire de mage
+FR: Wizlab
 
 EN: Wrath
 FR: Colère
@@ -755,7 +755,7 @@ EN: Yredelemnul the fallen
 FR: Yredelemnul le Déchu
 
 EN: Ziggurat
-FR: Ziggourat
+FR: Ziggurat
 
 EN: Zin the Law-Giver
 FR: Zin le Législateur

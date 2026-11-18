@@ -1,0 +1,2561 @@
+== weapon
+de @_power_or_anger_@
+de @_battle_or_war_@
+de @player_doom@
+de @death_or_doom@
+de @death_or_doom@ @_verbing_@
+de @_strategy_or_justice_@ @_adjective_@
+de @_strategy_or_justice_@
+de ¤@_people_name_@ @_verbing_@
+de ¤@_people_name_@
+de ¤@_diviner_name_@ @_verbing_@
+de ¤@_weapon_animal_@ @_verbing_@
+de ¤@_weapon_animal_@
+de ¤@_plant_name_@
+de @_evil_stuff_@
+de @_catastrophe_name_@
+de @_chaos_name_@
+de @_balance_or_order_@
+de @_economics_or_politics_@
+de @branch_name@
+de @_place_name_@
+de @_discomfort_weapon_@
+de ¤@_item_name_@
+de @_magic_name_@
+de @_substance_name_@
+de @_science_name_@
+de @other_weapon_name@
+"@_plain_weapon_name_@"
+de @_time_name_@
+de @_sky_or_light_@
+de @_virtue_or_vice_@
+de ¤@_number_or_qualifier_>@ @_thing_names_@
+de @_destiny_name_@
+de ¤@divine_esteem@ de @god_name_possessive@
+des Dieux {mp}@_verbing_@
+du Dieu {ms}@_adjective_@
+de @god_name@, @_verbing_@
+de @god_name@
+== talisman
+@armour@
+== armour
+de @_armour_name_shielding_@
+de @_armour_property_name_@
+de @_wacky_armour_name_@
+de ¤@_profession_name_@
+de ¤@_profession_name_@ @_adjective_@
+de @_politics_name_armour_@
+de @_weather_name_@
+de @_good_or_divine_@
+de @_good_or_divine_@ @_adjective_@
+de ¤@_celestial_bodies_@
+de @_instrument_name_@
+de ¤@_armour_animal_@
+de ¤@_armour_animal_@ @_adjective_@
+de @_flower_name_@
+de ¤@_fruit_name_@
+de ¤@_critter_name_@
+de ¤@_critter_name_@ @_adjective_@
+de @_evil_being_@
+de @_discomfort_and_inaction_@
+de @_game_name_@
+de @_other_armour_name_@
+"@_plain_armour_name_@"
+de @_philosophy_or_science_@
+de @_place_name_@
+de @_time_name_@
+de @_sky_or_light_@
+de @_virtue_or_vice_@
+de ¤@_number_or_qualifier_>@ @_thing_names_@ @_verbing_@
+de ¤@_number_or_qualifier_>@ @_thing_names_@
+de ¤@divine_esteem@ de @god_name_possessive@
+des Dieux {mp}@_verbing_@
+du Dieu {ms}@_adjective_@
+de @god_name@, @_verbing_@
+de @god_name@
+de @branch_name@
+== jewellery
+de ¤@_jewellery_animal_@
+de @_jewellery_special_name_@
+de @_suspicion_name_@
+de ¤@_people_name_@
+de ¤@_people_name_@ @_verbing_@
+de @_balance_or_order_@
+de @_philosophy_name_@
+de @other_weapon_name@
+de ¤@_armour_animal_@
+de @_flower_name_@
+de ¤@_fruit_name_@ @_adjective_@
+de @_evil_being_@
+de @_good_or_divine_@
+de @_politics_name_armour_@
+"@_plain_armour_name_@"
+de @_time_name_@
+de @_sky_or_light_@
+de ¤@divine_esteem@ de @god_name_possessive@
+des Dieux {mp}@_verbing_@
+du Dieu {ms}@_adjective_@
+de @god_name@, @_verbing_@
+de ¤@_xom_esteem_@ de Xom
+de @_virtue_name_@
+de @_vice_name_@
+de ¤@_number_or_qualifier_>@ @_thing_names_@
+de ¤@_number_or_qualifier_>@ @_thing_names_@ @_verbing_@
+== Trog weapon
+de @_power_or_anger_@
+de @_power_or_anger_@ @_adjective_@
+de @_battle_or_war_@
+de ¤@_battle_or_war_@ @_verbing_@
+de @death_or_doom@
+de @death_or_doom@ @_adjective_@
+de @_strategy_name_@
+de @_justice_name_@
+de @_virtue_or_vice_@
+de Trog
+de ¤@divine_esteem@ de Trog
+de ¤@_anger_quality_@ de Trog
+de ¤@_weapon_animal_@
+de @_evil_stuff_@
+de @_catastrophe_name_@
+de @_chaos_name_@
+de @_balance_or_order_@
+de @_economics_or_politics_@
+de @branch_name@
+de @_place_name_@
+de @_time_name_@
+de @_sky_or_light_@
+de ¤@_number_or_qualifier_>@ @_thing_names_@
+de @_discomfort_weapon_@
+de ¤@_item_name_@
+de @_philosophy_name_@
+de @_science_name_@
+de @other_weapon_name@
+de @_monster_name_@@killer_name@
+"@_plain_weapon_name_@"
+"@_plain_weapon_name_@ @_adjective_@"
+== Okawaru weapon
+@weapon@
+de ¤@_valour_name_@ de @player_name_possessive@
+de ¤@divine_esteem@ de Okawaru
+de Okawaru, @_verbing_@
+de @_strategy_or_justice_@
+de @_philosophy_name_@
+de @_balance_or_order_@
+de @_power_name_@
+de @_virtue_name_@
+de ¤@_diviner_name_@
+de ¤@_weapon_animal_@
+de @_place_name_@
+de @_item_name_@
+== Okawaru robe
+@Okawaru armour@
+== Okawaru body armour
+@Okawaru armour@
+== Okawaru armour
+@armour@
+de ¤@_valour_name_@ de @player_name_possessive@
+de ¤@divine_esteem@ de Okawaru
+de ¤@_armour_animal_@
+de @_good_or_divine_@
+de @_armour_name_shielding_@
+de @_armour_property_name_@
+de @_wacky_armour_name_@
+de @_politics_name_armour_@
+== Xom weapon
+de @_chaos_name_@
+de ¤@_xom_esteem_@ de Xom
+de ¤@divine_esteem@ de Xom
+"Xom, @_verbing_@ et @_verbing_@"
+de ¤@_fruit_name_@ @_verbing_@
+de @xom_name@
+de @_game_name_@
+@weapon@
+@jewellery@
+@armour@
+== Xom robe
+@Xom armour@
+== Xom body armour
+@Xom armour@
+== Xom armour
+de @_chaos_name_@
+de ¤@_xom_esteem_@ de Xom
+de ¤@divine_esteem@ de Xom
+"Xom @_adjective_@"
+de @xom_name@
+de @_game_name_@
+de @player_death@
+@armour@
+@jewellery@
+== Xom jewellery
+de @_chaos_name_@
+de ¤@_xom_esteem_@ de Xom
+de ¤@divine_esteem@ de Xom
+de Xom @_verbing_@
+de @xom_name@
+de @_game_name_@
+de @player_death@
+de @player_doom@
+@jewellery@
+@armour@
+== Ashenzari
+de ¤@_ashenzari_object_@ @_ashenzari_adjective_@
+de ¤@_ashenzari_object_@ de @god_name_possessive@
+"@_ashenzari_object_@ @_ashenzari_adjective_@"
+"@_ashenzari_object_@ de @god_name@"
+"@_ashenzari_object_@ de ¤@_ashenzari_epithet_@"
+"@_celestial_bodies_@ de ¤@_ashenzari_epithet_@"
+de ¤@_ashenzari_epithet_@
+de ¤@_celestial_bodies_@ @_ashenzari_bound_adjective_@
+de ¤@_celestial_bodies_@ @_ashenzari_knowledge_adjective_@
+de ¤@_celestial_bodies_@ de @god_name_possessive@
+"Partage mon @_ashenzari_object_@"
+"@_ashenzari_bound_adjective_@ à Moi"
+"@_ashenzari_bound_adjective_@ Ensemble"
+de ¤@_ashenzari_heavens_@ @_ashenzari_bound_adjective_@
+de ¤@_ashenzari_heavens_@ @_ashenzari_knowledge_adjective_@
+de ¤@_ashenzari_object_@ du Destin
+de Apéiromancie
+"Savoir, à Quel Prix ?"
+"Contemple l’Éternité"
+de Crémastomancie
+de Malédictions et Pouvoir
+de Desmomancie
+de l’Œil dans le Ciel
+"Contemple l’Infini"
+"Je Savais Que Tu Ferais Ça"
+"Je l’Avais Prévu"
+de Ouranomancie
+"Surplomber pour Comprendre"
+"Per Aspera Ad Scientiam"
+de Panopticon
+de Sagesse Liée aux Astres
+de Gnose Suprême
+de Savoir Suprême
+de Compréhension Suprême
+de Sagesse Suprême
+"Tonnerre, Esprit Parfait"
+du Legs de Toth-Mos
+du Regard Inflexible
+du Grand Bleu
+"Ventilateur Oscillant"
+== _ashenzari_object_
+{fs}Adversité
+{fs}Affliction
+{ms}Fardeau
+{fp}Entraves
+{fs}Gnose
+{fs}Perte
+{ms}Présage
+{fs}Épreuve
+{ms}Pronostic
+{fs}Prison
+{ms}Regret
+{ms}Repos
+{ms}Ressentiment
+{fs}Peine
+{fs}Vision
+{ms}Joug
+@_diviner_name_@
+@_discomfort_weapon_@
+@_philosophy_name_@
+@_discomfort_and_inaction_@
+@_suspicion_no_conflict_name_@
+== _ashenzari_adjective_
+@_ashenzari_bound_adjective_@
+@_ashenzari_knowledge_adjective_@
+@_ashenzari_celestial_adjective_@
+== _ashenzari_bound_adjective_
+lié/liée
+enchaîné/enchaînée
+circonscrit/circonscrite
+maudit/maudite
+niché/nichée
+éternel/éternelle
+ligoté/ligotée
+contenu/contenue
+ruiné/ruinée
+entravé/entravée
+brisé/brisée
+attaché/attachée
+== _ashenzari_celestial_adjective_
+astral/astrale
+céleste
+cosmique
+lointain/lointaine
+élyséen/élyséenne
+sidéral/sidérale
+stellaire
+sublime
+== _ashenzari_knowledge_adjective_
+omnivoyant/omnivoyante
+astrologique
+clairvoyant/clairvoyante
+cryptique
+éclairé/éclairée
+énigmatique
+ésotérique
+gnostique
+manifeste
+mantique
+omniscient/omnisciente
+oraculaire
+pangnostique
+perspicace
+prescient/presciente
+profond/profonde
+prophétique
+révélateur/révélatrice
+sibyllin/sibylline
+dévoilant/dévoilante
+vaticinal/vaticinale
+== _ashenzari_epithet_
+{ms}Dieu {ms}@_ashenzari_adjective_@
+{ms}Augure @_ashenzari_bound_adjective_@
+{ms}Augure @_ashenzari_celestial_adjective_@
+{ms}Sage @_ashenzari_bound_adjective_@
+{ms}Sage @_ashenzari_celestial_adjective_@
+{ms}Voyant @_ashenzari_bound_adjective_@
+{ms}Voyant @_ashenzari_celestial_adjective_@
+{ms}Omniscient
+{ms}Porte-Malédiction
+{ms}Devin
+{ms}Immobile
+== _ashenzari_heavens_
+{ms}Cosmos
+{ms}Empyrée
+{ms}Éther
+{ms}Firmament
+{mp}Cieux
+{ms}Ciel
+{fs}Sphère
+{fs}Voûte
+== general appearance
+éclatant/éclatante
+fumant/fumante
+roussi/roussie
+tordu/tordue
+chatoyant/chatoyante
+gauchi/gauchie
+transparent/transparente
+translucide
+incrusté/incrustée
+piqueté/piquetée
+visqueux/visqueuse
+poli/polie
+fin/fine
+incandescent/incandescente
+ancien/ancienne
+luisant/luisante
+vaporeux/vaporeuse
+éblouissant/éblouissante
+magistral/magistrale
+couvant/couvante
+scintillant/scintillante
+bourdonnant/bourdonnante
+pâlissant/pâlissante
+noirci/noircie
+== weapon appearance
+irisé/irisée
+ensanglanté/ensanglantée
+de cristal
+serti/sertie
+souillé/souillée d’ichor
+d’ivoire
+d’os
+de saphir
+d’ébène
+@general appearance@
+== robe appearance
+fastueux/fastueuse
+terne
+diaphane
+épais/épaisse
+lourd/lourde
+de mage
+d’un noir sinistre
+éclatant/éclatante
+fumant/fumante
+tordu/tordue
+chatoyant/chatoyante
+gauchi/gauchie
+transparent/transparente
+visqueux/visqueuse
+fin/fine
+lumineux/lumineuse
+déchiré/déchirée
+coloré/colorée
+blanc perle
+opalescent/opalescente
+ancien/ancienne
+luisant/luisante
+vaporeux/vaporeuse
+ronronnant/ronronnante
+ensanglanté/ensanglantée
+couvert/couverte de joyaux
+souillé/souillée d’ichor
+affreusement poilu/poilue
+en lambeaux
+soyeux/soyeuse
+ombré/ombrée
+== body armour appearance
+malodorant/malodorante
+en bronze
+à clous de @_gemstone_@
+à incrustations de @_gemstone_@
+@armour appearance@
+== armour appearance
+bourdonnant/bourdonnante
+ensanglanté/ensanglantée
+runique
+serti/sertie
+ichoreux/ichoreuse
+hirsute
+hérissé/hérissée
+@general appearance@
+== _gemstone_
+{ms}diamant
+{ms}rubis
+{fs}jacinthe
+{ms}saphir
+{fs}opale noire
+{fs}émeraude
+{fs}turquoise
+{fs}citrine
+{fs}aigue-marine
+{ms}ambre
+{fs}topaze
+{ms}jais
+{fs}opale
+{ms}grenat
+{fs}améthyste
+{ms}jaspe
+{fs}obsidienne
+{fs}agate
+{ms}jade
+{fs}perle
+{ms}œil-de-tigre
+{fs}amétrine
+== _jewellery appearance_
+scintillant/scintillante
+étincelant/étincelante
+vacillant/vacillante
+brillant/brillante
+fumant/fumante
+roussi/roussie
+chatoyant/chatoyante
+ondoyant/ondoyante
+gauchi/gauchie
+transparent/transparente
+translucide
+piqué/piquée
+visqueux/visqueuse
+fin/fine
+radieux/radieuse
+ancien/ancienne
+éclatant/éclatante
+luisant/luisante
+vaporeux/vaporeuse
+runique
+vibrant/vibrante
+frémissant/frémissante
+enroulé/enroulée
+cordé/cordée
+nuageux/nuageuse
+serpentin/serpentine
+== _ring material_
+en bois
+en ivoire
+en os
+en ambre
+en argent
+doré/dorée
+en platine
+en fer
+en acier
+en bronze
+en laiton
+en cuivre
+en étain
+en plomb
+en peltre
+en granit
+en marbre
+en jade
+turquoise
+en lapis-lazuli
+en verre
+en cornaline
+arachnéen/arachnéenne
+== _amulet material_
+en ivoire
+en os
+gravé/gravée
+en argent
+doré/dorée
+en platine
+en fer
+en acier
+en bronze
+en laiton
+en cuivre
+en étain
+en plomb
+en peltre
+en zirconium
+en saphir
+en émeraude
+en grenat
+en rubis
+en jade
+en cristal
+en diamant
+en améthyste
+== ring appearance
+@_jewellery appearance_@ @_ring material_@
+== amulet appearance
+@_jewellery appearance_@ @_amulet material_@
+== _jewellery_animal_
+{ms}Scarabée de la mort
+{fs}Luciole
+{ms}Scarabée
+{fs}Pie
+{ms}Corbeau
+== _jewellery_special_name_
+{fs}Attitude
+{ms}Désastre
+{fs}Chance éphémère
+{mp}Faux-semblants
+{fs}Finalité
+{fs}Dame Fortune
+{fs}Lubie
+{ms}Remboursement
+{fs}la Tempête
+{fs}Tentation
+{fs}Velléité
+{ms}Vœu pieux
+{ms}Yendor
+== _suspicion_no_conflict_name_
+{mp}Doutes
+{fs}Incrédulité
+{fs}Jalousie
+{fs}Méfiance
+{fs}Paranoïa
+{ms}Scepticisme
+{mp}Secrets
+{fs}Traîtrise suspectée
+{ms}Soupçon
+{fs}Appréhension
+== _suspicion_name_
+@_suspicion_no_conflict_name_@
+@_conflict_name_@
+== divine_esteem
+{fs}Approbation
+{fs}Bienveillance
+{ms}Ravissement
+{fs}Estime
+{fs}Faveur
+{fp}Félicitations
+{fs}Générosité
+{fs}Grâce
+{ms}Espoir
+{fs}Inspiration
+{fs}Fierté
+{fs}Considération
+{ms}Respect
+{fs}Suprématie
+{ms}Caprice
+{ms}Châtiment
+{fs}Condamnation
+{ms}Déplaisir
+{fs}Envie
+{ms}Reproche
+@_anger_quality_@
+== _xom_esteem_
+@divine_esteem@
+{fs}Distraction
+{ms}Amusement
+{ms}Grenier
+{fs}Perplexité
+{mp}Meilleurs vœux
+{fs}Fantaisie
+{ms}Divertissement
+{fs}Facétie
+{fs}Proie légitime
+{fs}Envolée fantasque
+{fs}Attention totale
+{fs}Joie malicieuse
+{ms}Intérêt passager
+{fs}Insouciance
+{mp}Rires sonores
+{mp}Tours de passe-passe
+{fs}Billevesée
+{fs}Témérité
+{ms}Dévergondage
+{fs}Excentricité
+== _time_name_
+{ms}Automne
+{fs}Aube
+{ms}Jour
+{ms}Couchant
+{fs}Nuit éternelle
+{ms}Hiver éternel
+{fs}Éternité
+{fs}Tombée du soir
+{ms}Minuit
+{ms}Plein été
+{ms}Plein hiver
+{ms}Midi
+{ms}Printemps
+{ms}Renouveau
+{ms}Été
+{fs}Belle saison
+{ms}Temps à rebours
+{ms}Demain
+{ms}Crépuscule
+{ms}Hiver
+{ms}Hier
+{ms}le Futur lointain
+{ms}l’Équinoxe
+{ms}le Soir
+{fs}la Nuit sans fin
+{fs}la Moisson
+{ms}le Matin
+{ms}le Passé
+{ms}le Présent
+{ms}le Solstice
+== _sky_colour_name_
+noir/noire
+bleu/bleue
+gris/grise
+indigo
+orange
+violet/violette
+rouge
+== _sky_or_light_
+{fp}Ténèbres
+{fs}Lueur blafarde
+{fs}Lumière
+{fs}Lumière stellaire
+{fs}Clarté solaire
+{fs}l’Étendue infinie
+{ms}le Crépuscule
+{mp}les Firmaments
+{fs}la Lune
+{fs}la Lumière éclatante
+{mp}les Cieux d’en haut
+{ms}le Ciel
+{ms}le Soleil
+{mp}les Ciels @_sky_colour_name_@
+== _virtue_or_vice_
+@_virtue_name_@
+@_valour_name_@
+@_vice_name_@
+== _virtue_name_
+{fs}Bienveillance
+{fs}Charité
+{fs}Compassion
+{ms}Dévouement
+{fs}Discrétion
+{fs}Générosité
+{fs}Grâce
+{fs}Honnêteté
+{fs}Hospitalité
+{fs}Gentillesse
+{fs}Largesse
+{fs}Modestie
+{fs}Patience
+{fs}Tempérance
+{fs}Prévenance
+{fs}Vérité
+{fs}Compréhension
+{fs}Vertu
+{fs}Prudence
+{fs}Sagesse
+== _vice_name_
+{fs}Gloutonnerie
+{fs}Cupidité
+{fs}Luxure
+{ms}Orgueil
+{fs}Paresse
+{fs}Vanité
+{fs}Amoralité
+{fs}Lâcheté
+{fs}Malhonnêteté
+{ms}Déshonneur
+{fs}Équivoque
+{fs}Imprudence
+{fs}Immoralité
+{fs}Impatience
+{mp}Mensonges
+{fs}Inconduite
+{fp}Failles morales
+{fp}Erreurs passées
+{fs}Désinvolture
+{ms}Péché
+{ms}Dépit
+{fs}Tergiversation
+{fs}Contre-vérité
+{ms}Vice
+{fs}Incartade de jeunesse
+{ms}le Péché originel
+== _destiny_name_
+{fs}Causalité
+{ms}Destin
+{fs}Perdition
+{ms}Sort
+{ms}Karma
+{ms}Kismet
+{ms}Wyrd
+== _number_or_qualifier_
+trois
+quatre
+cinq
+six
+sept
+huit
+neuf
+dix
+onze
+douze
+douze
+treize
+vingt
+vingt-sept
+cinquante
+soixante-six
+soixante-dix-sept
+quatre-vingt-dix-neuf
+cent
+centuple
+mille
+innombrable
+incalculable
+{inv}
+{apres}assorti/assortie
+innombrable
+multiple
+nombreux/nombreuses
+plusieurs
+{apres}âgé/âgée
+{apres}intemporel/intemporelle
+ancien/ancienne
+{apres}cabossé/cabossée
+{apres}bondissant/bondissante
+{apres}meurtri/meurtrie
+{apres}écrasé/écrasée
+{apres}curieux/curieuse
+{apres}troublant/troublante
+{apres}infini/infinie
+{apres}exilé/exilée
+{apres}final/finale
+premier/première
+{apres}principal/principale
+{apres}oublié/oubliée
+{apres}abandonné/abandonnée
+{apres}caché/cachée
+{apres}illusoire/illusoire
+{apres}immuable/immuable
+{apres}fouineur/fouineuse
+{apres}insatiable/insatiable
+{apres}invisible/invisible
+{apres}jovial/joviale
+dernier/dernière
+{apres}solitaire/solitaire
+{apres}perdu/perdue
+{apres}grumeleux/grumeleuse
+{apres}moderne/moderne
+{apres}interminable/interminable
+{apres}singulier/singulière
+{apres}postmoderne/postmoderne
+{apres}pur/pure
+{apres}secret/secrète
+{apres}sournois/sournoise
+{apres}spécial/spéciale
+{apres}assoiffé/assoiffée
+{apres}pensif/pensive
+{apres}fatigué/fatiguée
+{apres}imparable/imparable
+{apres}évanescent/évanescente
+{apres}prudent/prudente
+{apres}célèbre/célèbre
+== _thing_names_
+{mp}Alliés
+{mp}Artisans
+{mp}Artistes
+{fp}Bêtes
+{mp}Lits
+{mp}Mendiants
+{fp}Bénédictions
+{mp}Os
+{fp}Récompenses
+{fp}Ronces
+{fp}Cités
+{fp}Pièces
+{mp}Continents
+{fp}Malédictions
+{fp}Danses
+{fp}Morts
+{mp}Défenseurs
+{mp}Domaines
+{mp}Démons
+{mp}Rêves
+{fp}Oreilles
+{mp}Empereurs
+{mp}Yeux
+{mp}Amis
+{mp}Frères
+{mp}Géomanciens
+{mp}Fantômes
+{mp}Dieux
+{mp}Cieux
+{mp}Enfers
+{fp}Armées
+{mp}Intrus
+{mp}Envahisseurs
+{mp}Fripons
+{mp}Couteaux
+{fp}Lignes telluriques
+{mp}Mensonges
+{fp}Vies
+{mp}Pains
+{mp}Amants
+{fp}Souris
+{fp}Lunes
+{fp}Bouches
+{mp}Mystiques
+{mp}Bonnets de nuit
+{mp}Rossignols
+{mp}Cauchemars
+{fp}Nuits
+{fp}Olives
+{mp}Orbes
+{mp}Peuples
+{mp}Kakis
+{mp}Lieux
+{fp}Planètes
+{mp}Portails
+{mp}Prêtres
+{mp}Princes
+{mp}Prophètes
+{fp}Reines
+{fp}Quêtes
+{mp}Royaumes
+{fp}Runes
+{fp}Cicatrices
+{fp}Mers
+{mp}Voyants
+{mp}Serviteurs
+{mp}Navires
+{fp}Pies-grièches
+{mp}Chants
+{fp}Âmes
+{fp}Échines
+{mp}Esprits
+{mp}Tableurs
+{fp}Étoiles
+{fp}Histoires
+{mp}Soleils
+{fp}Tables
+{mp}Contes
+{fp}Dents
+{mp}Fourrés
+{fp}Choses
+{fp}Villes
+{fp}Défenses
+{mp}Ultimatums
+{mp}Underlurkers
+{mp}Villages
+{mp}Violons
+{mp}Visionnaires
+{fp}Visions
+{fp}Guerres
+{mp}Vœux
+{fp}Merveilles
+{mp}Xalams
+{mp}Xenops
+{mp}Xeniums
+{mp}Xénophobes
+{mp}Yaks
+{fp}Jeunesses
+{mp}Ziggurats
+== _verbing_
+vieillissant/vieillissante
+cuisant/cuisante
+éblouissant/éblouissante
+parant/parante
+ensorcelant/ensorcelante
+rougissant/rougissante
+respirant/respirante
+infusant/infusante
+bâtissant/bâtissante
+brûlant/brûlante
+éclatant/éclatante
+changeant/changeante
+charmant/charmante
+mâchant/mâchante
+conjurant/conjurante
+façonnant/façonnante
+maudissant/maudissante
+dansant/dansante
+détruisant/détruisante
+dévorant/dévorante
+incrédule
+dégoulinant/dégoulinante
+enchanteur/enchanteresse
+enveloppant/enveloppante
+nourrissant/nourrissante
+volant/volante
+forgeant/forgeante
+fortifiant/fortifiante
+glaçant/glaçante
+contemplant/contemplante
+miroitant/miroitante
+rougeoyant/rougeoyante
+grinçant/grinçante
+ricanant/ricanante
+croissant/croissante
+martelant/martelante
+guérisseur/guérisseuse
+tenant/tenante
+hurlant/hurlante
+étreignant/étreignante
+affamé/affamée
+lançant/lançante
+blessant/blessante
+fonçant/fonçante
+buvant/buvante
+invitant/invitante
+sautant/sautante
+embrassant/embrassante
+gardant/gardante
+bondissant/bondissante
+aimant/aimante
+concupiscent/concupiscente
+enrageant/enrageante
+mutilant/mutilante
+broyant/broyante
+marmonnant/marmonnante
+nourricier/nourricière
+protecteur/protectrice
+salvateur/salvatrice
+chevauchant/chevauchante
+torride
+criant/criante
+partageant/partageante
+abritant/abritante
+mouvant/mouvante
+chatoyant/chatoyante
+vociférant/vociférante
+rétrécissant/rétrécissante
+chantant/chantante
+fumant/fumante
+arrêtant/arrêtante
+invoquant/invoquante
+soutenant/soutenante
+enseignant/enseignante
+racontant/racontante
+voleur/voleuse
+battant/battante
+transmutant/transmutante
+tordant/tordante
+édifiant/édifiante
+usurpateur/usurpatrice
+vannant/vannante
+envoûtant/envoûtante
+magique
+contorsionné/contorsionnée
+fracassant/fracassante
+tranchant/tranchante
+perçant/perçante
+== _adjective_
+bleu/bleue
+vert/verte
+rouge
+amoureux/amoureuse
+antique
+arcadien/arcadienne
+avant-gardiste
+funeste
+incrusté/incrustée
+bestial/bestiale
+ébloui/éblouie
+belliqueux/belliqueuse
+bien-aimé/bien-aimée
+légué/léguée
+ensorcelé/ensorcelée
+brillant/brillante
+brûlant/brûlante
+éclaté/éclatée
+brûlé/brûlée
+sculpté/sculptée
+caustique
+propre
+ingénieux/ingénieuse
+charmé/charmée
+carbonisé/carbonisée
+rebelle
+humide
+pourrissant/pourrissante
+inquiétant/inquiétante
+délicat/délicate
+délicieux/délicieuse
+démoniaque
+divin/divine
+condamné/condamnée
+fade
+terne
+durable
+énorme
+éthéré/éthérée
+exceptionnel/exceptionnelle
+carnassier/carnassière
+oculé/oculée
+fabuleux/fabuleuse
+féerique
+sauvage
+féroce
+festonné/festonnée
+filigrané/filigranée
+floral/florale
+glacial/glaciale
+frais/fraîche
+futuriste
+duveteux/duveteuse
+spectral/spectrale
+élégant/élégante
+doré/dorée
+grand/grande
+sinistre
+poilu/poilue
+hanté/hantée
+histrionique
+impassible
+espiègle
+indestructible
+intense
+agaçant/agaçante
+badin/badine
+larmoyant/larmoyante
+vivant/vivante
+majestueux/majestueuse
+maigre
+moderne
+mordant/mordante
+étroit/étroite
+agréable
+nocif/nocive
+huileux/huileuse
+ornemental/ornementale
+peint/peinte
+parcimonieux/parcimonieuse
+puissant/puissante
+malicieux/malicieuse
+quiescent/quiescente
+rapide
+raisonnable
+résonnant/résonnante
+pourri/pourrie
+sablonneux/sablonneuse
+éraflé/éraflée
+aiguisé/aiguisée
+strident/stridente
+sot/sotte
+visqueux/visqueuse
+solennel/solennelle
+doux/douce
+couinant/couinante
+taché/tachée
+suffisant/suffisante
+tentaculaire
+terrible
+denté/dentée
+torturé/torturée
+transparent/transparente
+omniprésent/omniprésente
+insupportable
+verdoyant/verdoyante
+sarmenteux/sarmenteuse
+vorace
+faible
+méchant/méchante
+merveilleux/merveilleuse
+zélé/zélée
+== _fruit_name_
+{fs}Orange
+{fs}Banane
+{ms}Pain à la banane
+{fs}Poire
+{fs}Pomme
+{ms}Abricot
+{fs}Tomate
+{fs}Pêche
+{fs}Prune
+{ms}Ramboutan
+{ms}Litchi
+{fs}Mangue
+{fs}Pastèque
+{ms}Cantaloup
+{fs}Fraise
+{fs}Noix de coco
+{ms}Fruit à pain
+{ms}Canistel
+{ms}Fruit du dragon
+{ms}Durian
+{ms}Jaque
+{ms}Longane
+{ms}Tamarin
+{fs}Goyave
+{ms}Mangoustan
+{ms}Corossol
+{fs}Mandarine
+{fs}Cerise
+{ms}Raisin
+{fs}Sultanine
+{fs}Figue
+{fs}Datte
+{ms}Citron
+{ms}Citron vert
+{fs}Nèfle
+== _armour_animal_
+{fs}Amibe
+{ms}Tardigrade
+{fs}Fourmi
+{ms}Papillon
+{fs}Cigale
+{ms}Cafard
+{ms}Grillon
+{fs}Coccinelle
+{fs}Sauterelle
+{ms}Pou
+{fs}Mantispe
+{fs}Tique
+{fs}Scolopendre
+{fs}Seiche
+{ms}Gastéropode
+{fs}Limace
+{ms}Escargot
+{ms}Trilobite
+{ms}Ver
+{fs}Anatife
+{fs}Palourde
+{ms}Homard
+{ms}Quahog
+{fs}Tarentule
+{fs}Grenouille
+{ms}Dragon de Komodo
+{ms}Lézard
+{fs}Salamandre
+{ms}Serpent
+{fs}Tortue
+{ms}Barracuda
+{ms}Poisson-chat
+{ms}Cichlidé
+{ms}Maquereau
+{ms}Marlin
+{ms}Saumon
+{ms}Esturgeon
+{ms}Poisson-lune
+{fs}Truite
+{ms}Thon
+{ms}Albatros
+{ms}Aigle
+{ms}Faucon
+{ms}Héron
+{fs}Sturnelle
+{ms}Rossignol
+{ms}Corbeau
+{ms}Rouge-gorge
+{fs}Pie-grièche
+{ms}Moineau
+{ms}Cygne
+{fs}Tourterelle
+{ms}Taureau
+{ms}Camélopard
+{ms}Couguar
+{ms}Dauphin
+{ms}Échidné
+{ms}Éléphant
+{ms}Cerf
+{ms}Hippopotame
+{ms}Kangourou
+{ms}Lion
+{ms}Singe
+{ms}Okapi
+{ms}Cervidé
+{ms}Étalon
+{ms}Zèbre
+{ms}Animal de cirque
+{ms}Oncle du singe
+{ms}Centaure
+{fs}Cockatrice
+{fs}Chimère
+{ms}Dragon
+{ms}Griffon
+{mp}Hécatonchires
+{ms}Hippogriffe
+{ms}Kraken
+{ms}Léogriffe
+{ms}Nuckelavee
+{ms}Pooka
+{ms}Quinotaure
+{fs}Chèvre de mer
+{ms}Sciapode
+{fs}Licorne
+{ms}Akabeko
+{ms}Baku
+{ms}Byakko
+{ms}Ikuchi
+{ms}Kappa
+{ms}Kitsune
+{ms}Kodama
+{ms}Oni
+{ms}Shishi
+{ms}Tsukumogami
+{ms}Carbunclo
+{ms}Cherruve
+{ms}Cuero
+{ms}Curupira
+{ms}Ebigane
+{ms}Gasogonaga
+{ms}Mpinguari
+{ms}Tapire-iauara
+{ms}Biloko
+{ms}Guiamala
+{ms}Impundulu
+{ms}Isitwalangcengce
+{ms}Nkala
+{ms}Zankallala
+{ms}Bakunawa
+{ms}Minokawa
+{ms}Armchairtaur
+{ms}Giraffataur
+{ms}Elephantaur
+{ms}Mertaur
+{ms}Merwolf
+{ms}Platytaur
+{ms}Rhinotaur
+{ms}Taurataur
+{ms}Treeataur
+{ms}Wereyak
+{ms}Zebrataur
+{ms}Chupacabra
+{ms}Dropbear
+{ms}Jackalope
+{ms}Diable de Jersey
+{ms}Skvader
+{ms}Snallygaster
+{ms}Tatzelwurm
+{ms}Haggis sauvage
+{ms}Yéti
+== _flower_name_
+{fp}Jonquilles
+{fp}Pâquerettes
+{mp}Lilas
+{fp}Pervenches
+{mp}Lamiers pourpres
+{fp}Tulipes
+{fp}Violettes
+{ms}le Jardin
+{ms}le Marrube
+{ms}le Lys
+{fs}la Fleur de lotus
+{fs}la Rose
+{ms}le Chardon
+== _critter_name_
+{ms}Alphagorgon
+{ms}Slorg
+{mp}Huit Charançons
+{fs}Grue
+{ms}Ocelot ardent
+{ms}Jabberwock
+{ms}Lapin-garou
+{ms}Wumpus
+== _discomfort_and_inaction_
+{mp}Mauvais Pressentiments
+{fs}Amertume
+{fs}Déception
+{fs}Prétention
+{ms}Échec
+{fs}Insécurité
+{fs}Légère Irritation
+{fs}Négation
+{fs}Servitude
+{fs}Soumission
+{fs}Vexation
+{fs}Apathie
+{ms}Ennui
+{ms}Spleen
+{fs}Inaction
+{fs}Léthargie
+{fs}Inertie
+{fs}Négligence
+{ms}Oubli
+{fs}Omission
+{fs}Agitation
+{mp}les Calmes plats
+== _good_or_divine_
+{fs}Amélioration
+{fs}Révérence
+{fs}Beauté
+{ms}Chant d’oiseaux
+{fs}Ingéniosité
+{ms}Contentement
+{fs}Créativité
+{fs}Curiosité
+{fs}Eucatastrophe
+{fs}Liberté
+{ms}Amusement
+{ms}Bonheur
+{fs}Joie
+{ms}Savoir
+{fp}Feuilles
+{fs}Indépendance
+{fs}Vie
+{fs}Lucidité
+{fs}Gaieté
+{fs}Musique
+{fp}Découvertes nouvelles
+{fs}Satisfaction
+{fs}Surprise
+{mp}Moments tendres
+{ms}Émerveillement
+{ms}le Bien
+{fs}la Feuille
+{fs}Contrainte divine
+{fs}Intervention divine
+{fs}Intercession
+{mp}Miracles
+{ms}Salut
+{fs}la Main invisible
+{fs}la Volonté des dieux
+== _armour_name_shielding_
+{fs}Protection totale
+{fs}Porte de la Mort
+{fs}Défense
+{fs}Exclusion
+{fs}Fortification
+{fs}Imperméabilité
+{fs}Inviolabilité
+{ms}Refuge
+{fs}Répulsion
+{ms}Blindage
+{ms}le Cuirassé
+{ms}le Rempart
+{fs}la Porte
+{ms}le Sauveur
+{ms}le Mur de pierre
+{ms}l’Indompté
+{mp}les Intouchables
+{ms}le Rempart sacré
+== _armour_property_name_
+{fs}Résistance à la mort
+{ms}Déguisement
+{fs}Élégance
+{fs}Plénitude
+{fs}Grâce
+{fs}Gravité
+{fs}Prestance
+{fs}Moindre Résistance
+{ms}Lustre
+{fs}Intimité
+{fs}Garde à vue
+{fs}Résilience
+{mp}Ombres et Brumes
+{fs}Force souple
+{fs}Apesanteur
+== _wacky_armour_name_
+{fs}Absence
+{fs}Anesthésie
+{fs}Calvitie
+{fs}Compression
+{fs}Décompression
+{fp}Sorties théâtrales
+{fp}Dents de canard
+{mp}Chemins qui bifurquent
+{fp}Bonnes Intentions
+{ms}Hadjma
+{fs}Pilosité
+{fs}Esquive
+{fs}Démesure
+{fs}Incorporation
+{fs}Exhibition indécente
+{fs}Indemnité
+{fs}Responsabilité limitée
+{fs}Perte
+{ms}Amour et Mort
+{ms}Mezcal
+{ms}Pathos
+{fs}Philatélie
+{fs}Plasticité
+{fp}Mauvaises Excuses
+{fp}Catastrophes précises
+{ms}Espace
+{fs}Terreur
+{fp}Bénédictions trois fois maudites
+{ms}Trop de Cuisiniers
+{mp}Secrets inavoués
+{ms}Vlad
+{fs}Étrangeté
+{ms}l’Arcane
+{ms}le Tatou
+{ms}le Tireur aveugle
+{fs}la Terre
+{ms}le Fruit éternel
+{fs}la Luffa
+{ms}le Vieux Téméraire
+{ms}l’Oignon
+{ms}le Coin rose
+{ms}le Plethaurus
+{fs}la Route la moins fréquentée
+{ms}le Vrai Pharaon
+{ms}le Sans-emploi
+{ms}le Vide
+== _celestial_bodies_
+{fs}Lune bleue
+{fs}Comète
+{fp}Constellations
+{fs}Étoile du soir
+{fs}Lune des moissons
+{ms}Soleil de minuit
+{fs}Lune
+{fs}Étoile du matin
+{fp}Aurores boréales
+{fp}Planètes
+{fp}Pléiades
+{fp}Étoiles
+{ms}Soleil
+{fs}Lune noire
+== _instrument_name_
+{mp}Carillons
+{fp}Flûtes de Pan
+{fp}Trompettes
+{ms}l’Accordéon
+{fs}la Cornemuse
+{fp}les Cloches
+{ms}le Violon
+{ms}le Fifre
+{fs}la Flûte
+{fs}la Gusle
+{fs}la Harpe
+{ms}le Kazoo
+{ms}le Timbale
+{ms}le Luth
+{ms}le Trombone
+== _evil_being_
+{mp}Démons
+{mp}Démons supérieurs
+{mp}Démons inférieurs
+{mp}Tentateurs
+{mp}Esclaves vampiriques
+{ms}l’Archidémon
+{ms}le Prince démon
+{ms}le Diable
+{ms}l’Avocat du diable
+{fs}l’Équipe du diable
+{ms}le Malin
+{ms}le Démon
+{fp}les Furies
+{ms}le Diablotin
+{ms}le Diable de fer
+{ms}le Lich-juré
+{ms}le Petit Diable
+{ms}le Prince des Ténèbres
+{ms}le Tourmenteur
+{ms}le Scélérat
+== _weather_name_
+{mp}Ciels bleus
+{fs}Grêle bouillante
+{mp}Vents froids
+{fs}Couverture nuageuse
+{mp}Diables de poussière
+{ms}Vent hurlant
+{ms}Orage électrique
+{fs}Sécheresse perpétuelle
+{fp}Brises agréables
+{fs}Brume calme
+{fp}Pluies douces
+{ms}Dégel printanier
+{ms}le Blizzard
+{fs}la Première Neige
+{ms}l’Ouragan
+{ms}l’Orage
+== _profession_name_
+{ms}Apprenti
+{ms}Apothicaire
+{ms}Boulanger
+{ms}Barbier-chirurgien
+{ms}Barde
+{ms}Apiculteur
+{ms}Mendiant
+{ms}Forgeron
+{ms}Boucanier
+{ms}Boucher
+{ms}Chandelier
+{ms}Charpentier
+{ms}Charron
+{ms}Cordonnier
+{ms}Tonnelier
+{ms}Fossoyeur de fossés
+{ms}Ingénieur
+{ms}Fermier
+{ms}Maréchal-ferrant
+{ms}Pêcheur
+{ms}Fléchier
+{ms}Fourreur
+{ms}Jardinier
+{ms}Orfèvre
+{ms}Fossoyeur
+{ms}Gardien
+{ms}Maître de guilde
+{fp}Guildes
+{ms}Chasseur
+{ms}Compagnon
+{ms}Étudiant
+{ms}Marchand
+{ms}Meunier
+{ms}Ménestrel
+{ms}Changeur
+{ms}Moine
+{ms}Pirate
+{ms}Dramaturge
+{ms}Marin
+{ms}Scribe
+{ms}Argentier
+{ms}Soldat
+{ms}Maçon
+{ms}Tanneur
+{ms}Maître
+{ms}Penseur
+{ms}Croque-mort
+{ms}Veilleur
+{ms}Tisserand
+{ms}Charron de roues
+== _game_name_
+{mp}Dés, Sac et Bouteille
+{mp}Jeux et Amusements
+{mp}Jeux de salon
+{ms}le Jeu qui commence
+{ms}le Jeu des Rois
+{ms}le Grand Jeu
+{ms}Jeu du Chef
+{ms}Cache-cache
+{fs}Marelle
+{ms}Saute-mouton
+{ms}Mumblety Peg
+{ms}Coucou
+{ms}le Roi de la colline
+{mp}Tours de cartes
+{ms}Pendu
+{ms}Puzzle
+{fp}Billes
+{ms}Morpion
+{mp}Serpents et Échelles
+{ms}Tape-taupe
+{mp}les Dés
+{ms}le Jeu de la vie
+== _politics_name_armour_
+{ms}Couronnement
+{fs}Démocratie
+{fs}Noblesse
+{fs}Royauté
+{fs}Souveraineté
+{ms}le Ban
+{ms}le Bourgmestre
+{ms}le Vote décisif
+{ms}le Châtelain
+{fs}la Cité
+{mp}les Roturiers
+{ms}le Pays
+{fs}la Couronne
+{ms}le Doge
+{fs}la Duchesse
+{ms}le Duc
+{ms}l’Empire
+{ms}le Coup d’État raté
+{mp}les Avides
+{ms}le Roi
+{ms}le Komtur
+{fs}la Mutinerie
+{fs}l’Oligarchie
+{mp}les Paysans
+{ms}le Prince
+{ms}le Principicule
+{fs}la Princesse
+{fs}la Reine
+{fs}la Racaille
+{fs}la République
+{fp}les Banlieues
+{mp}les Villageois
+{ms}le Voïvode
+== _other_armour_name_
+{fs}Crasse
+{ms}Grot
+{fs}Crasserie
+{fs}Négligence
+{ms}Ensorcellement
+{mp}Tabous brisés
+{mp}Gestes
+{fs}Magie
+{fp}Phrases marmonnées
+{fs}Sorcellerie
+{mp}Mots de pouvoir
+{ms}l’Arcane
+{ms}Rampement
+{ms}Désastre
+{ms}Dogmatisme
+{ms}Festin
+{fs}Course folle
+{ms}Babillage heureux
+{fs}Sorcellerie de haie
+{fs}Imperfection
+{fs}Inévitabilité
+{fs}Faim insatiable
+{fs}Assurance
+{fs}Misanthropie
+{fs}Perfidie
+{mp}Monstres du temps
+{ms}Essai et Erreur
+{fs}Absence d’ambiguïté
+{fp}Espèces indésirables
+{ms}Espace gaspillé
+{fp}Mauvaises Décisions
+{ms}¤@_card_@ de @_suit_@
+{ms}le Pendu
+{ms}le Chemin perdu
+{ms}le Troll lunaire
+{fs}l’Orbe
+{ms}le Gardien de l’Orbe
+{ms}l’Autre Monde
+{fs}la Victime sacrificielle
+{ms}le Légèrement Courbé
+{ms}le Roi des tempêtes
+{mp}Ravioli
+{mp}Spaghetti
+{mp}Tortelloni
+{mp}Farfalle
+{mp}Rotini
+{mp}Vermicelles
+{mp}Macaronis
+{mp}Strozzapreti
+{ms}le Pastamancien
+{fp}Boulettes de viande
+== _card_
+{ms}Deux
+{ms}Trois
+{ms}Quatre
+{ms}Cinq
+{ms}Six
+{ms}Sept
+{ms}Huit
+{ms}Neuf
+{ms}Dix
+{ms}Valet
+{ms}Cavalier
+{fs}Reine
+{ms}Roi
+{ms}As
+== _suit_
+{fp}Coupes
+{mp}Deniers
+{fp}Épées
+{mp}Bâtons
+== _plain_armour_name_
+{fs}Maudite Machine
+{ms}Paradis terrestre
+{ms}Myosotis
+{ms}Ami du héros
+{ms}Mets-moi
+{ms}Fidèle Compagnon
+== _power_or_anger_
+@_power_name_@
+@_conflict_name_@
+@_anger_name_@
+== _power_name_
+{fs}Grosse Puissance
+{fs}Dominance
+{fs}Domination
+{fs}Amitié
+{fs}Gloire
+{fs}Grandeur
+{fs}Démesure
+{fs}Intimidation
+{fs}Invincibilité
+{fs}Magnificence
+{fs}Maîtrise
+{fs}Puissance
+{ms}Succès
+{fs}Supériorité
+{ms}Triomphe
+{fs}Victoire
+{fs}Puissance prodigieuse
+== _conflict_name_
+{fs}Bagarre
+{ms}Conflit
+{fs}Querelle
+{fs}Discorde
+{ms}Désaccord
+{fs}Division
+{ms}Doute
+{fs}Lutte intestine
+{fs}Mêlée
+{fp}Hostilités rouvertes
+{fs}Tension
+== _anger_name_
+@_anger_quality_@
+@_anger_possessive_@
+== _anger_quality_
+{fs}Colère
+{fs}Vengeance brutale
+{fs}Riposte disproportionnée
+{fs}Fureur
+{fs}Haine
+{fs}Indignation
+{ms}Outrage
+{fs}Juste Colère
+{fs}Juste Fureur
+{ms}Mépris
+{fs}Vengeance
+{ms}Courroux
+== _anger_possessive_
+{ms}le Très Furieux
+{ms}le Fou absolu
+{ms}l’Incandescent
+{ms}le Furieux
+{ms}le Hurleur
+{ms}le Baragouineur
+{ms}le Haï
+{ms}le Méprisé
+{ms}l’Abhorré
+== _battle_or_war_
+{fp}Croisades
+{fs}Guerre éternelle
+{fs}Iconoclastie
+{ms}Pillage
+{ms}Ravage
+{ms}Régicide
+{fs}Escarmouche
+{fs}Guerre
+{ms}le Guerrier condamné
+{fs}la Marche sans fin
+{ms}le Guerrier éternel
+{fs}l’Attaque
+{fs}la Victoire à la Pyrrhus
+{ms}le Guerrier
+{ms}Sang
+{fs}Soif de sang
+{fs}Insensibilité
+{ms}Sang léger
+{fs}Peur
+{ms}Massacre joyeux
+{ms}Massacre
+{fs}Blessure
+{fs}Agonie
+{ms}Taillade
+{ms}Plaisir insuffisant
+{ms}Traumatisme
+{fs}Émoussure
+{fs}Incision précise
+{fs}Lacération
+{fs}Séparation
+{fs}Troncature
+{fs}Porte de la Mort
+{ms}Deuil
+{fs}la Tombe
+== death_or_doom
+{fs}Mort sanglante
+{fs}Mort certaine
+{fs}Mort
+{fs}Mort exquise
+{fs}Mort imminente
+{fs}Mort instantanée
+{fs}Mort et Douleur
+{fs}Mort douloureuse
+{fs}Mort rapide
+{fs}Mort lente
+{fs}Mort subite
+{fs}Mort incertaine
+{fs}Fin prématurée
+{fs}Destruction
+{ms}Éventrement
+{fs}Perdition
+{ms}Éviscération
+{fs}Exécution
+{ms}Extermination
+{fs}Extinction
+{ms}Péril
+{fs}Inhumation prématurée
+{fs}Angoisse
+{ms}Démembrement
+{fs}Douleur atroce
+{ms}Supplice exquis
+{fs}Douleur infinie
+{fs}Misère
+{fs}Terreur
+{ms}Malheur
+== _strategy_or_justice_
+@_strategy_name_@
+@_valour_name_@
+@_justice_name_@
+== _strategy_name_
+{fs}Défense
+{fs}Défense par l’Attaque
+{ms}Expédient
+{fs}Ruse
+{fs}Attaque
+{fs}Optimalité
+{fs}Force écrasante
+{ms}Renfort
+{fs}Supériorité stratégique
+{ms}Subterfuge
+== _valour_name_
+{fs}Action
+{ms}Conatus
+{fs}Conscience
+{ms}Courage
+{fs}Audace
+{fs}Défiance
+{ms}Devoir
+{fs}Vigilance éternelle
+{fs}Force d’âme
+{fs}Vaillance
+{ms}Honneur
+{fs}Indomptabilité
+{fs}Intégrité
+{fs}Prudence
+{ms}But
+{fs}Ingéniosité
+{fs}Responsabilité
+{fs}Ténacité
+{ms}Cran
+{fs}Bravoure
+{fs}Vigilance
+== _justice_name_
+{fs}Absolution
+{fs}Mort accidentelle
+{fs}Justice aveugle
+{fs}Peine capitale
+{ms}Châtiment corporel
+{fs}Justice cruelle
+{fs}Disculpation
+{fp}Circonstances atténuantes
+{fp}Fausses Accusations
+{ms}Pardon
+{fs}Culpabilité
+{fs}Innocence
+{ms}Jugement
+{fs}Punition
+{fs}Tendre Clémence
+{fs}Tortfeasance
+{ms}Jugement de Dieu
+{fs}Détention injustifiée
+== _diviner_name_
+{ms}Augure
+{ms}Diseur de bonne aventure
+{ms}Oracle
+{ms}Pronostiqueur
+{ms}Chercheur
+{ms}Voyant
+{ms}Devin
+{fs}Sibylle
+{ms}Visionnaire
+{ms}Sourcier
+== _people_name_
+{mp}Anciens
+{ms}Lâche
+{ms}Ennemi
+{ms}Fou
+{ms}Génie
+{ms}Héros
+{ms}Bouffon
+{ms}Roi
+{ms}Dément
+{ms}Messager
+{ms}Paria
+{ms}Philosophe
+{ms}Prêtre
+{fs}Reine
+{ms}Sauveur
+{ms}Vaurien
+{ms}Charognard
+{ms}Traître
+@_diviner_name_@
+== _weapon_animal_
+@_arachnid_name_@
+@_crustacean_name_@
+@_fish_name_@
+@_amphibian_name_@
+@_reptile_name_@
+@_bird_name_@
+@_mammal_name_@
+== _crustacean_name_
+{fs}Fourmi
+{ms}Anatife
+{fs}Abeille
+{fs}Mouche à viande
+{ms}Thysanoure
+{ms}Papillon
+{fs}Phrygane
+{ms}Crabe
+{fs}Écrevisse
+{fs}Demoiselle
+{fs}Libellule
+{fs}Luciole
+{fs}Puce
+{ms}Moucheron
+{ms}Frelon
+{ms}Scarabée de juin
+{ms}Krill
+{ms}Chrysope
+{ms}Homard
+{ms}Pou
+{fs}Éphémère
+{ms}Moustique
+{fs}Phalène
+{ms}Cloporte
+{fs}Crevette rose
+{fs}Crevette
+{ms}Poisson d’argent
+{fs}Guêpe
+{ms}Wéta
+{ms}Cloporte des bois
+{fs}Guêpe jaune
+== _arachnid_name_
+{ms}Faucheux
+{ms}Scorpion
+{fs}Araignée
+{fs}Tique
+== _amphibian_name_
+{ms}Axolotl
+{ms}Cécilien
+{fs}Grenouille
+{ms}Ménopome
+{ms}Triton
+{ms}Protée
+{fs}Salamandre
+{fs}Sirène
+{ms}Crapaud
+== _reptile_name_
+{ms}Alligator
+{ms}Aspic
+{ms}Crocodile
+{ms}Gecko
+{ms}Gavial
+{ms}Krait
+{fs}Tortue luth
+{ms}Lézard
+{ms}Python
+{ms}Crotale
+{ms}Scinque
+{fs}Tortue des marais
+{fs}Tortue terrestre
+{fs}Tortue
+{fs}Vipère
+== _fish_name_
+{ms}Gros Poisson
+{fs}Anguille
+{fs}Lamproie
+{ms}Saumon
+{ms}Requin
+== _bird_name_
+{ms}Apôtre
+{fs}Sterne arctique
+{ms}Pingouin
+{fs}Outarde
+{fs}Buse
+{ms}Cardinal
+{ms}Casoar
+{fs}Colombe
+{ms}Canard
+{ms}Émeu
+{ms}Flamant
+{ms}Martin-chasseur des forêts
+{ms}Fulmar
+{fs}Oie
+{ms}Guillemot
+{ms}Faucon
+{ms}Colibri
+{ms}Hoazin
+{ms}Kiwi
+{ms}Kookaburra
+{ms}Polochion bruyant
+{ms}Moa
+{fs}Autruche
+{ms}Hibou
+{ms}Manchot
+{ms}Pigeon
+{ms}Ibijau
+{ms}Macareux
+{ms}Guêpier arc-en-ciel
+{ms}Petit Pingouin
+{ms}Nandou
+{fs}Spatule rose
+{ms}Tétras des armoises
+{fs}Pie-grièche
+{fs}Cigogne
+{ms}Cygne
+{ms}Ménure superbe
+{ms}Podarge
+{ms}Vautour
+== _mammal_name_
+{ms}Âne
+{ms}Blaireau
+{ms}Ours
+{ms}Sanglier
+{ms}Renard
+{fs}Chèvre
+{ms}Rat
+{fs}Hermine
+{ms}Tigre
+{fs}Belette
+{fs}Baleine
+{ms}Loup
+== _plant_name_
+{fs}Aubergine
+{ms}Pois chiche
+{fs}Laitue
+{ms}Radis
+{fs}Betterave sucrière
+{fs}Échalote
+{fs}Tomate
+{ms}Navet
+{ms}Buccin
+{ms}Champignon magique
+{ms}Champignon
+{fs}Vesse-de-loup
+{ms}Myxomycète
+{ms}Champignon vénéneux
+== _evil_stuff_
+{fs}Abomination
+{ms}Abus
+{ms}Mal ancien
+{fs}Corruption
+{fs}Dégradation
+{fs}Souillure
+{fs}Difformité
+{fs}Engeance démoniaque
+{ms}Mal
+{fs}Colère de l’Enfer
+{fs}Infection
+{fs}Mutilation
+{mp}Cauchemars
+{fs}Perversion
+{fs}Putrescence
+{fs}Terreur hurlante
+{ms}Viciement
+{fs}la Bête
+{ms}le Rampant
+{mp}les Morts
+{ms}le Mauvais Œil
+{ms}le Fantôme
+{mp}les Morts-vivants
+{ms}le Rôdeur
+{fs}la Faucheuse
+{ms}le Spectre
+{fs}la Chose
+{mp}les Non-morts
+{ms}le Sans-vie
+{ms}l’Innommable
+{ms}le Spectre
+== _catastrophe_name_
+{mp}Séismes
+{ms}Cataclysme
+{fs}Sécheresse
+{fp}Inondations
+{fs}Ruine
+{ms}l’Enfer
+{fs}Annihilation
+{ms}Armageddon
+{ms}Ragnarök
+{fs}Chute du Monde
+{ms}Fin du monde
+{fs}l’Apocalypse
+{fs}la Fin des temps
+{ms}l’Eschaton
+{fs}Famine
+{fs}Pestilence
+{fs}Peste
+{fs}Guerre
+== _chaos_name_
+{fs}Ambiguïté
+{fs}Arbitrage
+{fs}Calamité
+{ms}Hasard
+{ms}Changement
+{fs}Confusion
+{fs}Réorganisation perpétuelle
+{fs}Contradiction
+{ms}Désarroi
+{ms}Désastre
+{fs}Désharmonie
+{fs}Désintégration
+{ms}Désordre
+{fs}Dissolution
+{fs}Distraction
+{ms}Extrémisme
+{ms}Mode gobelin
+{ms}Ravage
+{ms}Déséquilibre
+{fs}Impermanence
+{fs}Incongruité
+{ms}Chaos
+{fs}Révolte
+{ms}Chaos véritable
+{ms}Tumulte
+{ms}Tourment
+{ms}Bouleversement
+{mp}les Extrêmes
+{ms}le Fatras
+{fs}la Mêlée
+{ms}le Méli-mélo
+{ms}le Bric-à-brac
+== _balance_or_order_
+{ms}Accord
+{fs}Arrivée
+{fs}Ascension
+{ms}Équilibre
+{fs}Harmonie corporelle
+{fs}Circularité
+{fs}Conformité
+{ms}Départ
+{fs}Descente
+{fs}Juste Proportion
+{ms}Équilibre
+{fs}Équivalence
+{fs}Harmonie éternelle
+{fs}Paix fragile
+{fs}Harmonie
+{fs}Loi
+{fs}Linéarité
+{fs}Modération
+{fs}Paix
+{fs}Bienséance
+{fs}Symétrie
+{ms}l’Ordre établi
+{fs}la Décision finale
+{fs}la Médiane
+{ms}le Milieu
+== _economics_or_politics_
+{fs}Amortissement
+{mp}Esprits animaux
+{fs}Faillite
+{fs}Collusion
+{mp}Intérêts composés
+{fs}Monnaie
+{fs}Dette
+{fs}Déflation
+{fs}Demande
+{mp}Dividendes
+{ms}Échange
+{fs}Croissance
+{mp}Revenus
+{fs}Inflation
+{ms}Luxe
+{ms}Profit
+{fs}Gestion des risques
+{fs}Offre
+{fs}Taxation
+{mp}Biens précieux
+{ms}Bien-être
+{ms}Attainder
+{fs}Infraction
+{mp}Contre-pouvoirs
+{ms}Conservatisme
+{fs}Défenestration
+{ms}Fee simple
+{ms}Freehold
+{fs}Violation fondamentale
+{fs}Gouvernance
+{fs}Plus grande utilité
+{fs}Destitution
+{ms}Mandamus
+{fs}Demande populaire
+{fs}Pauvreté
+{ms}Radicalisme
+{ms}Redécoupage
+{ms}Royalisme
+{ms}Séquestre
+{fs}Résiliation
+{fs}Richesse
+{ms}le Bien commun
+{ms}le Cheval noir
+{ms}le Démagogue
+{ms}l’Imperium
+{ms}le Canard boiteux
+{ms}le Moindre Mal
+{ms}le Petit Peuple
+{ms}le Peuple
+{fs}la Révolution
+{fs}la Majorité silencieuse
+{ms}Actus Reus
+{ms}Ad Valorem
+{fs}Adverse Possession
+{ms}Corpus Delicti
+{ms}Eminent Domain
+{ms}In Flagrante Delicto
+{ms}Ipse Dixit
+{ms}Locus Delicti
+{ms}Malum In Se
+{ms}Malum Prohibitum
+{fs}Mens Rea
+{ms}Nolo Contendere
+{ms}Non Obstante Veredicto
+{ms}Obiter Dictum
+{fs}Res Ipsa Loquitur
+{fs}Res Judicata
+== _place_name_
+{ms}Au-delà
+{fp}Rives lointaines
+{mp}Mondes lointains
+{fp}Contrées inconnues
+{fs}Proximité
+{ms}Ailleurs
+{ms}le Royaume béni
+{ms}le Désert
+{ms}l’Équateur
+{ms}le Vide éternel
+{fs}la Forêt
+{ms}le Vallon caché
+{fp}les Collines
+{ms}le Monde connu
+{ms}le Pays d’abondance
+{ms}le Labyrinthe
+{ms}le Nouveau Monde
+{ms}le Vieux Monde
+{ms}l’Autre Rive
+{fs}la Fosse
+{mp}les Pôles
+{fs}la Mer
+{ms}le Rivage
+{fp}les Sphères
+{mp}les Arbres
+{fp}les Toundras
+{ms}le Royaume invisible
+{fs}la Vallée
+{fs}la Vallée de la Mort
+{ms}le Volcan
+{fs}la Friche
+{fs}la Nature sauvage
+{ms}le Monde
+== _discomfort_weapon_
+{fs}Contrariété
+{fs}Angoisse
+{fs}Gêne
+{ms}Dépit
+{fs}Désespoir
+{ms}Malaise
+{ms}Dégoût
+{ms}Désarroi
+{fs}Insatisfaction
+{ms}Embarras
+{fs}Exécution défectueuse
+{fp}Odeurs fétides
+{fs}Frustration
+{fs}Morosité
+{ms}Inconvénient
+{fs}Irritation
+{ms}Malaise
+{fs}Honte
+{fs}Viscosité
+{fp}Rougeurs gênantes
+{ms}Désagrément
+{fs}Urgence
+== _philosophy_or_science_
+@_philosophy_name_@
+@_science_name_@
+== _philosophy_name_
+{ms}Absolutisme
+{fs}Abstinence
+{ms}Activisme
+{ms}Agnosticisme
+{ms}Altruisme
+{fs}Anarchie
+{ms}Ascétisme
+{ms}Athéisme
+{ms}Autothéisme
+{ms}Cynisme
+{ms}Antidisétablissementarisme
+{ms}Dogme
+{ms}Égalitarisme
+{ms}Élitisme
+{fs}Éthique
+{ms}Existentialisme
+{fs}Fallace
+{ms}Fanatisme
+{fs}Liberté d’expression
+{ms}Libre Arbitre
+{ms}Hédonisme
+{ms}Hénothéisme
+{fs}Hérésie
+{ms}Idéalisme
+{ms}Cathénothéisme
+{fs}Légèreté
+{ms}Libéralisme
+{fs}Limitation
+{ms}Maltheisme
+{ms}Monothéisme
+{fs}Moralité
+{ms}Mutualisme
+{ms}Mysticisme
+{ms}Nihilisme
+{ms}Optimisme
+{fs}Orthodoxie
+{fs}Orthopraxie
+{ms}Panenthéisme
+{ms}Panthéisme
+{ms}Pessimisme
+{ms}Polythéisme
+{ms}Pragmatisme
+{fs}Rationalité
+{ms}Relativisme
+{fs}Sérendipité
+{ms}Scepticisme
+{ms}Sophisme
+{ms}Stoïcisme
+{ms}Syndicalisme
+{ms}Finitisme théiste
+{ms}l’Ego
+== _science_name_
+{fs}Analyse
+{fs}Articulation
+{ms}Calcul
+{fs}Logique circulaire
+{fs}Classification
+{ms}Contexte
+{fs}Évolution
+{fs}Expérimentation
+{fs}Concentration
+{fs}Gravité
+{fs}Inférence
+{ms}Infini
+{fs}Enquête
+{ms}Instinct
+{fs}Intuition
+{fs}Objectivité
+{mp}Motifs
+{ms}Saut quantique
+{fs}Raison
+{fs}Rotation
+{fs}Subjectivité
+{fs}Théorie
+{fs}Déraison
+{ms}le Commencement
+{ms}le Big Bang
+{ms}le Point d’ébullition
+{fs}la Fin
+{ms}l’Esprit
+{ms}le Nexus
+== _item_name_
+{ms}Candélabre
+{fs}Bougie
+{fs}Chaîne
+{fs}Pièce
+{fs}Coupe
+{ms}Œuf
+{fs}Plume
+{fs}Ceinture
+{ms}Globe
+{ms}Cor
+{fs}Clé
+{fs}Orbe
+{ms}Pilier
+{fs}Bourse
+{fs}Bague
+{ms}Parchemin
+{ms}Navire
+{fs}Tente
+{ms}Vase
+{fs}Vigne
+{fs}Noix
+{fs}Roue
+{ms}Joug
+{ms}Cerveau
+{ms}Pied
+{fs}Main
+{fs}Tête
+{ms}Cœur
+{ms}Rein
+{fs}Bouche
+{fs}Gorge
+{fs}Dent
+== _magic_name_
+{ms}l’Hiérophante
+{mp}les Mages
+{ms}le Sage
+{ms}le Mage-guerrier
+== _substance_name_
+{fs}Cendre
+{fs}Bile
+{fs}Pierre de sang
+{fp}Humeurs corporelles
+{ms}Pain
+{ms}Fromage
+{fp}Toiles d’araignée
+{ms}Cristal
+{fp}Larmes séchées
+{ms}Fumier
+{ms}Ichor
+{ms}Onguent
+{ms}Pus suintant
+{ms}Papier
+{mp}Déchets
+{ms}Sel
+{ms}Salpêtre
+{fs}Peau de requin
+{fs}Vase
+{ms}Soufre
+{fs}Terre cuite
+{fs}Poussière
+{ms}Mana
+{fp}Spores
+{fs}Levure
+== other_weapon_name
+{fs}Chance brisée
+{fs}Boucherie
+{ms}Échec et mat
+{fs}Conversion
+{ms}Rampement
+{fs}Désertification
+{fp}Portes
+{ms}Esprit d’entreprise
+{ms}Faux Espoir
+{fs}Fulguration
+{ms}Gin tonic
+{ms}Grontol
+{fs}Vie de misère
+{fs}Interdépendance
+{ms}Rire irrépressible
+{ms}Sans répit
+{fs}Prescription
+{ms}Vin rouge
+{fs}Res Nullius
+{fs}Combustion spontanée
+{fs}Terra Nullius
+{mp}Pièges
+{ms}Défaire
+{fs}Vodka
+{ms}le Regard détourné
+{fs}la Mer profonde
+{fs}la Page blanche
+{ms}le Dernier Chapitre
+{ms}le Point oméga
+{fs}la Main ouverte
+{ms}le Poing du Pharaon
+{ms}le Vrai Monstre
+{fs}la Filière
+{mp}les Deux Noms
+{ms}l’Intuable
+{fs}la Vendetta
+== short_monster_name_
+{ms}Acarien
+{fs}Bête
+{ms}Scarabée
+{ms}Démon
+{ms}Dragon
+{ms}Géant
+{ms}Gobelin
+{fs}Hydre
+{ms}Diablotin
+{fs}Gelée
+{ms}Lacertilien
+{ms}Triton
+{ms}Ogre
+{fs}Araignée
+{ms}Testudiné
+== _monster_name_
+@short_monster_name_@
+@player_species@
+{fs}Abeille tueuse
+{ms}Klown tueur
+{ms}Gardien de l’Orbe
+== _short_killer_name_
+{ms}fléau de
+{ms}tueur de
+== killer_name
+{ms}Fléau de
+{fs}Malédiction de
+{fs}Mort de
+{fs}Perdition de
+{ms}Ennemi de
+{ms}Péril de
+{ms}Regret de
+== _long_killer_name_
+{ms}Glas de
+{fs}Chute de
+{fp}Funérailles de
+{ms}Cauchemar de
+{fs}Perte de
+{fs}Annihilation imminente de
+== _real_weapon_name_
+{ms}Arbitre
+{ms}Arcanum
+{fs}Concordance
+{ms}Conservateur
+{ms}Râle de la mort
+{fs}Langue du dragon
+{ms}Lombric
+{ms}Embaumeur
+{ms}Éventreur
+{ms}Sinistre
+{fs}Dent sinistre
+{ms}Tourmenteur d’Enfer
+{ms}Brasier de l’Enfer
+{ms}Lévitique
+{ms}Fléau de vie
+{ms}Murmure
+{ms}Pendule
+{ms}Sarcophage
+{ms}Pacificateur en série
+{ms}Tourmenteur
+{ms}Transmigrateur
+@_anger_quality_@ de Trog
+{ms}Ultimatum
+{ms}Croque-mort
+{ms}Faiseur de veuves
+{ms}Faiseur de veuves
+{ms}Ver
+{fs}Colère du ver
+{ms}Gram
+== _joke_weapon_name_
+{fs}Aubergine
+{ms}Gratte-dos
+{ms}Bingo
+{ms}Blob
+{fs}Brosse
+{ms}Bouchon
+{ms}Emporte-pièce
+{ms}ETAOIN SHRDLU
+{ms}Œuf
+{ms}Poisson
+{ms}Cure-dent du géant
+{ms}Globulus
+{ms}Grom
+{ms}Grum
+{ms}Hulk
+{ms}Lorem Ipsum
+{fs}Tarte à la boue mortelle
+{ms}Silence définitif
+{fs}Omelette
+{ms}Bœuf
+{ms}Q
+{ms}Raisin sec
+{ms}Fouillis
+{fs}Arme secrète
+{fs}Lumière stellaire
+{fs}Ficelle
+{ms}Haricot vert
+{ms}Rapporteur
+{fs}Chose
+{ms}Avec deux noms
+{ms}X
+@_xom_esteem_@ de Xom
+{ms}Z
+{ms}Glorpo
+{ms}Loopy
+{ms}Plojy
+== _plain_weapon_name_
+@_short_killer_name_@ @short_monster_name_@
+@killer_name@ @_monster_name_@
+@_long_killer_name_@ @short_monster_name_@
+@player_death@
+@_real_weapon_name_@
+@_joke_weapon_name_@

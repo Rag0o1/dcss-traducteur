@@ -101,7 +101,7 @@ globalThis.DCSS_TRADUCTIONS.astuces_morceaux = {
 "~Others can be very dangerous, better visited when your character is more powerful.": "D’autres peuvent être très dangereuses et gagnent à être visitées quand votre personnage sera plus puissant.",
 "~is a portal to an optional level, offering extra loot in exchange for extra danger.": "est un portail vers un niveau optionnel, offrant du butin supplémentaire en échange d’un danger supplémentaire.",
 "~There's no penalty for skipping it, but the portal will disappear if you wait, so you have to decide now if you want to risk it.": "Il n’y a aucune pénalité à l’ignorer, mais le portail disparaîtra si vous attendez ; vous devez donc décider maintenant si vous voulez prendre le risque.",
-"~is a portal to an inter-dimensional bazaar filled with shops.": "est un portail vers un bazar interdimensionnel rempli de boutiques.",
+"~is a portal to an inter-dimensional bazaar filled with shops.": "est un portail vers un bazaar interdimensionnel rempli de boutiques.",
 "~It will disappear if you don't enter it soon, so hurry.": "Il disparaîtra si vous n’y entrez pas bientôt, alors dépêchez-vous.",
 "~You can enter a portal just like a set of stairs, by standing on it and": "Vous pouvez entrer dans un portail comme dans un escalier, en vous tenant dessus et en",
 "~To return, find": "Pour revenir, trouvez",

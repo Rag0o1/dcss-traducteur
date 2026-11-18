@@ -581,7 +581,7 @@ EN: A passage leading back to the Lair of Beasts.
 FR: Un passage qui ramène au Repaire des Bêtes.
 
 EN: A passage leading to a sewer. It is gradually rusting away.
-FR: Ce passage conduit à un égout. Il se détériore peu à peu sous la rouille.
+FR: Ce passage conduit à un sewer. Il se détériore peu à peu sous la rouille.
 
 EN: A passage leading to the Spider Nest.
 FR: Ce passage conduit au Nid des Araignées.
@@ -623,16 +623,16 @@ EN: A poor creature that looks hideously deformed.
 FR: La pauvre créature semble hideusement déformée.
 
 EN: A portal leading to a wizard's laboratory. It is fading away.
-FR: Ce portail conduit au laboratoire d’un magicien. Il semble s’effacer doucement.
+FR: Ce portail conduit à un wizlab. Il semble s’effacer doucement.
 
 EN: A portal leading to a ziggurat.
 FR: Ce portail conduit à un ziggurat.
 
 EN: A portal leading to an ice cave. The archway is gradually melting away.
-FR: Ce portail conduit à une grotte gelée. L’encadrement est en train de fondre.
+FR: Ce portail conduit à une ice cave. L’encadrement est en train de fondre.
 
 EN: A portal leading to the heart of a volcano. Rocks are falling from the roof and sides of the tunnel, filling the entry.
-FR: Ce portail conduit au cœur d’un volcan. Des rochers tombent du plafond et des cotés, comblant le passage.
+FR: Ce portail conduit au cœur d’un volcano. Des rochers tombent du plafond et des cotés, comblant le passage.
 
 EN: A potion which confers invisibility on one who consumes it. [[player invis desc]]
 FR: Une potion qui vous dissimule à la vue des autres.
@@ -866,7 +866,7 @@ EN: A staircase leading further down.
 FR: Ces escaliers mènent plus profondément.
 
 EN: A staircase leading to an ossuary. Sand is continuously pouring onto it, gradually blocking the entrance.
-FR: Cet escalier conduit à un ossuaire. Du sable s’y déverse continuellement et en bloque peu à peu l’entrée.
+FR: Cet escalier conduit à un ossuary. Du sable s’y déverse continuellement et en bloque peu à peu l’entrée.
 
 EN: A staircase leading to the Crypt.
 FR: Cet escalier mène à la Crypte.
@@ -1469,7 +1469,7 @@ EN: Breathes a blast of poison gas at a targeted creature.
 FR: Crache un souffle de gaz empoisonné sur le monstre ciblé.
 
 EN: Built from enormous blocks of obsidian, the volcano's sweltering chambers may once have served as a temple to some strange deity, or perhaps the dwelling of a mighty fire giant. The air shimmers with oppressive heat, and the dull roar of the volcano's heart never ceases.
-FR: Bâties de gigantesques blocs d’obsidienne, les chambres étouffantes du volcan ont peut-être servi de temple à quelque étrange divinité, ou de demeure à un puissant géant du feu. L’air frémit d’une chaleur oppressante, et le grondement sourd du cœur du volcan ne cesse jamais.
+FR: Bâties de gigantesques blocs d’obsidienne, les chambres étouffantes du volcano ont peut-être servi de temple à quelque étrange divinité, ou de demeure à un puissant géant du feu. L’air frémit d’une chaleur oppressante, et le grondement sourd du cœur du volcano ne cesse jamais.
 
 EN: By training Stealth, you can make it less likely that monsters will notice you if they are asleep or otherwise unalert, and increase your chances of monsters losing track of you after you leave their vision. Note that more powerful monsters tend to be more suspicious and observant.
 FR: En entraînant la Discrétion, vous pouvez rendre moins probable que les monstres vous remarquent s’ils sont endormis ou autrement inattentifs, et accroître vos chances qu’ils perdent votre trace après que vous avez quitté leur champ de vision. Notez que les monstres plus puissants ont tendance à être plus méfiants et observateurs.
@@ -1736,7 +1736,7 @@ EN: Erases all travel exclusions on the level.
 FR: Efface toutes les exclusions de déplacement du niveau.
 
 EN: Every inhabited place needs to dispose of its waste products. The Dungeon too has its stinking sewers and drains, full of filthy water and ignored by most but used as hideaways by the disgusting and the desperate. Old tales speak of dangerous creatures stalking through the foul-smelling green water, preying on each other without mercy. The tales also allude to valuable items accidentally washed into the drainage tunnels, forgotten and left to grow mouldy in the damp caverns.
-FR: Chaque lieu habité doit se débarrasser de ses déchets. Le Donjon a lui aussi ses égouts et ses canaux puants, pleins d’eau sale et ignorés de la plupart, mais utilisés comme refuges par les répugnants et les désespérés. D’anciens récits parlent de créatures dangereuses rôdant dans l’eau verte et nauséabonde, se dévorant entre elles sans pitié. Ces récits font aussi allusion à des objets de valeur emportés par accident dans les tunnels d’évacuation, oubliés et laissés à moisir dans les cavernes humides.
+FR: Chaque lieu habité doit se débarrasser de ses déchets. Le Donjon a lui aussi ses sewers et ses canaux puants, pleins d’eau sale et ignorés de la plupart, mais utilisés comme refuges par les répugnants et les désespérés. D’anciens récits parlent de créatures dangereuses rôdant dans l’eau verte et nauséabonde, se dévorant entre elles sans pitié. Ces récits font aussi allusion à des objets de valeur emportés par accident dans les tunnels d’évacuation, oubliés et laissés à moisir dans les cavernes humides.
 
 EN: Exhales a large cloud of blessed flame, shining with the glory of the good gods. These flames are especially dangerous to undead and demonic creatures, and have no effect on holy creatures.
 FR: Expire un large nuage de flammes bénies, brillant de la gloire des bons dieux. Ces flammes sont particulièrement dangereuses pour les morts-vivants et les démons, et n’ont aucun effet sur les créatures saintes.
@@ -2042,7 +2042,7 @@ EN: Once upon a time, an enterprising thief and wizard created a system of porta
 FR: Il était une fois un voleur et magicien entreprenant, qui créa un système de portails menant aux caches de trésors secrets et aux chambres des riches. Trop effrayé pour les piller lui-même, il fit payer un prix exorbitant à quiconque voulait les fouiller.
 
 EN: Once upon a time, an enterprising thief and wizard created a system of portals leading into the secret treasure troves and chambers of the rich. Too scared to loot them himself, he instead charged an extortionate fee for entry to anyone who wanted to rifle through them. The items inside such troves are likely to be useful, but beware: the wizard is long dead, and even while alive he never offered a money-back guarantee.
-FR: Il était une fois un voleur et magicien entreprenant, qui créa un système de portails menant aux caches de trésors secrets et aux chambres des riches. Trop effrayé pour les piller lui-même, il fit payer un prix exorbitant à quiconque voulait les fouiller. Les objets de ces caches seront probablement utiles, mais attention : le magicien est mort depuis longtemps et, même de son vivant, il n’a jamais offert de garantie de remboursement.
+FR: Il était une fois un voleur et magicien entreprenant, qui créa un système de portails menant aux caches de trésors secrets et aux chambres des riches. Trop effrayé pour les piller lui-même, il fit payer un prix exorbitant à quiconque voulait les fouiller. Les objets de ces troves seront probablement utiles, mais attention : le magicien est mort depuis longtemps et, même de son vivant, il n’a jamais offert de garantie de remboursement.
 
 EN: One of the eight rings once worn by the Octopus King and now scattered across the land. Each has its own unique enchantment.
 FR: L’un des huit anneaux portés jadis par le Roi Octopus et désormais dispersés à travers le pays. Chacun a son enchantement unique.
@@ -2309,7 +2309,7 @@ EN: The apparition of an unfortunate adventurer, retaining many of the skills an
 FR: L’apparition d’un aventurier infortuné, gardant une bonne partie de ses aptitudes et habilités de sa vie d’aventurier précédente. Il est condamné à hanter ce niveau du donjon, s’en prenant violemment au prochain aventurier croisant son chemin.
 
 EN: The bailey is the occupied and well-guarded fortress of a ruthless warlord. The treasures within are protected by both physical barriers and large numbers of well-armed humanoid warriors.
-FR: Le Bailey est la forteresse occupée et bien gardée d’un seigneur de guerre impitoyable. Les trésors qu’elle renferme sont protégés par des barrières physiques et un grand nombre de guerriers humanoïdes bien armés.
+FR: Le bailey est la forteresse occupée et bien gardée d’un seigneur de guerre impitoyable. Les trésors qu’elle renferme sont protégés par des barrières physiques et un grand nombre de guerriers humanoïdes bien armés.
 
 EN: The card depicts a screaming figure being tortured on the rack. Drawing this card will cause agonising injury to the user.
 FR: La carte représente une figure hurlante torturée sur le chevalet. Piocher cette carte causera des blessures atroces à l’utilisateur.
@@ -2339,13 +2339,13 @@ EN: The floor.
 FR: Le sol.
 
 EN: The items inside such troves are likely to be useful, but beware: the wizard is long dead, and even while alive he never offered a money-back guarantee.
-FR: Les objets à l’intérieur de ces caches seront très certainement très utiles mais attention : le magicien est mort depuis longtemps et, même de son vivant, il n’a jamais offert de garantie de remboursement.
+FR: Les objets à l’intérieur de ces troves seront très certainement très utiles mais attention : le magicien est mort depuis longtemps et, même de son vivant, il n’a jamais offert de garantie de remboursement.
 
 EN: The mighty tentacle of a kraken. Any damage dealt to it hurts the whole creature.
 FR: Le puissant tentacule d’un kraken. Toute blessure qui lui est infligée blesse l’ensemble de la créature.
 
 EN: The ossuary is a small tomb containing the remains and grave goods of some distant relatives of the pharaohs, along with the corpses of their retainers and household animals. It is undoubtedly riddled with many traps, and its undead denizens are unlikely to take kindly to looting.
-FR: L’Ossuaire est une petite tombe contenant les restes de quelques parents éloignés des pharaons accompagnés des corps de leurs serviteurs et de leurs animaux familiers. C’est sans nul doute un site largement piégé, et ses habitants n’y apprécient guère le pillage.
+FR: L’ossuary est une petite tombe contenant les restes de quelques parents éloignés des pharaons accompagnés des corps de leurs serviteurs et de leurs animaux familiers. C’est sans nul doute un site largement piégé, et ses habitants n’y apprécient guère le pillage.
 
 EN: The skeletal remains of someone who died unmourned and forgotten. It burns with an unquenchable hunger to be remembered.
 FR: Les restes squelettiques de quelqu’un qui est mort sans être pleuré et oublié. Il brûle d’une faim inextinguible d’être rappelé au souvenir des vivants.
@@ -2459,7 +2459,7 @@ EN: While it seems inconceivable that the divine could be shackled, Ashenzari is
 FR: Bien qu’il semble inconcevable que le divin puisse être enchainé, Ashenzari est tout simplement cloué définitivement au ciel pour l’éternité. Le dieu immobile voit tout et sait tout. Ses fidèles dévoués sont autorisés à saisir des parcelles de sa connaissance et de sa clairvoyance mais attention : pour Ashenzari, pouvoir, bénédiction et malédiction sont une seule et même chose.
 
 EN: While some merchants set up shop in the dungeon, others travel in caravans from place to place. The bazaars of these itinerant traders feature a number of different shops and often have better stock than the sedentary ones, sometimes even at a bargain.
-FR: Alors que certains marchands s’installent dans le donjon, d’autres voyagent en caravanes d’un endroit à un autre. Les bazars de ces marchands itinérants comptent plusieurs boutiques différentes et ont souvent un meilleur stock que les sédentaires, parfois même à prix cassé.
+FR: Alors que certains marchands s’installent dans le donjon, d’autres voyagent en caravanes d’un endroit à un autre. Les bazaars de ces marchands itinérants comptent plusieurs boutiques différentes et ont souvent un meilleur stock que les sédentaires, parfois même à prix cassé.
 
 EN: Worshippers of Vehumet will quickly be able to recover their magical energy upon killing beings. As they gain favour, they will also gain enhancements to their destructive spells — first assistance in casting such spells and then increased range for conjurations. Vehumet will offer followers the knowledge of increasingly powerful destructive spells as they gain piety.
 FR: Les adorateurs de Vehumet pourront rapidement récupérer leur énergie magique en tuant des êtres. À mesure qu’ils gagneront en faveur, ils obtiendront aussi des améliorations de leurs sorts destructeurs – d’abord une aide pour lancer de tels sorts, puis une portée accrue pour les conjurations. Vehumet proposera aux fidèles la connaissance de sorts destructeurs de plus en plus puissants à mesure qu’ils gagneront en piété.

@@ -314,18 +314,29 @@ globalThis.DCSS_TRADUIRE_CHAINE = function chaine(texte) {
 };
 // Noms aléatoires d'artefacts : le reste de la phrase est traduit normalement, puis le nom anglais restant
 // (« de Lonely Yaks ») est remplacé par sa traduction faite avec la grammaire du jeu (moteur/graffitis.js).
-const DCSS_RE_ARTEFACT = /(?<=\b[a-z]+ )of ((?:the )?[A-Z][^{}()"\n.,!?;:]*?)(?= \{| \(| \[|[.,!?;:]|\s*$)/g;
+const DCSS_RE_ARTEFACT = /(?<=\b[a-z]+ )of ((?:the )?[A-Z][^{}()"\n.,!?;:]*?(?:, [A-Z][\w’'-]*)?)(?= \{| \(| \[|[.,!?;:]|\s*$)/g;
+let dcssDansArtefact = false;   // évite que la retraduction de secours ne se rappelle elle-même
 function traduireNomsArtefacts(anglais, sortie) {
-    if (typeof sortie !== "string" || !globalThis.DCSS_GRAFFITIS || !globalThis.DCSS_GRAFFITIS.nomArtefact || anglais.indexOf(" of ") === -1) return sortie;
+    if (dcssDansArtefact || typeof sortie !== "string" || !globalThis.DCSS_GRAFFITIS || !globalThis.DCSS_GRAFFITIS.nomArtefact || anglais.indexOf(" of ") === -1) return sortie;
     let m; DCSS_RE_ARTEFACT.lastIndex = 0;
     while ((m = DCSS_RE_ARTEFACT.exec(anglais))) {
         const nu = m[1].replace(/^the /, "");
-        const reste = "de " + nu;
-        const i = sortie.indexOf(reste);
-        if (i === -1 && sortie.indexOf("de " + m[1]) === -1) continue;
+        // le reste du moteur a laissé le nom en anglais derrière « de », « du », « des »…
+        const re = new RegExp("(?:\\b[Dd]e (?:la |l’)?|\\b[Dd]u |\\b[Dd]es |\\bd’)(?:the )?" + DCSS_ECHAPPER(nu) + "(?![\\p{L}’'-])", "u");
+        const trouve = re.test(sortie);
+        const toutAnglais = !trouve && sortie.indexOf("of " + m[1]) !== -1;
+        if (!trouve && !toutAnglais) continue;
         const fr = globalThis.DCSS_GRAFFITIS.nomArtefact("of " + m[1]);
         if (!fr) continue;
-        sortie = i !== -1 ? sortie.replace(reste, fr) : sortie.replace("de " + m[1], fr);
+        if (trouve) { sortie = sortie.replace(re, () => fr); continue; }
+        // Rien n'a été traduit (objet non reconnu à cause du nom) : on retraduit avec un nom bidon d'un seul mot, puis on le remplace.
+        const essai = anglais.slice(0, m.index) + "of Zqxw" + anglais.slice(m.index + m[0].length);
+        dcssDansArtefact = true;
+        let base;
+        try { base = traduireChaine(essai); } finally { dcssDansArtefact = false; }
+        const i = base.search(/\b(?:de |d’)Zqxw\b/);
+        if (i === -1) continue;
+        return base.replace(/\b(?:de |d’)Zqxw\b/, () => fr);
     }
     return sortie;
 }

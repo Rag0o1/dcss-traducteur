@@ -107,13 +107,13 @@ EN: A trap that creates a loud noise to attract nearby monsters. In addition to 
 FR: Un piège qui produit un bruit fort pour attirer les monstres proches. En plus du bruit, il applique un enchantement qui informe tous les monstres du niveau de votre position. Les monstres hostiles peuvent déclencher ce piège eux-mêmes pour en retourner les effets contre vous, mais vos alliés éviteront de marcher dessus.
 
 EN: A portal leading to a bailey, gradually fading away as the standard is lowered to the ground.
-FR: Un portail menant à une cour fortifiée, qui s’efface peu à peu à mesure que l’étendard est abaissé vers le sol.
+FR: Un portail menant à un bailey, qui s’efface peu à peu à mesure que l’étendard est abaissé vers le sol.
 
 EN: A portal leading to a bazaar, where itinerant merchants gather to sell their wares. They never stay in one place for very long.
-FR: Un portail menant à un bazar, où des marchands itinérants se rassemblent pour vendre leurs marchandises. Ils ne restent jamais très longtemps au même endroit.
+FR: Un portail menant à un bazaar, où des marchands itinérants se rassemblent pour vendre leurs marchandises. Ils ne restent jamais très longtemps au même endroit.
 
 EN: A portal leading to a bazaar, where itinerant merchants gather to sell their wares. They will wait for you, but once you get a chance to browse their inventory, the merchants will depart in search of other customers.
-FR: Un portail menant à un bazar, où des marchands itinérants se rassemblent pour vendre leurs marchandises. Ils vous attendront, mais dès que vous aurez pu parcourir leur inventaire, les marchands partiront en quête d’autres clients.
+FR: Un portail menant à un bazaar, où des marchands itinérants se rassemblent pour vendre leurs marchandises. Ils vous attendront, mais dès que vous aurez pu parcourir leur inventaire, les marchands partiront en quête d’autres clients.
 
 EN: A collapsed passage which cannot be used anymore.
 FR: Un passage effondré qui ne peut plus être utilisé.
@@ -1496,7 +1496,7 @@ EN: ~You cannot use magical devices. This includes wands and most items evoked w
 FR: Vous ne pouvez pas utiliser les dispositifs magiques. Cela inclut les baguettes et la plupart des objets évoqués avec
 
 EN: ~, excepting reaching weapons, talismans, and ziggurat figurines. This also renders magical staves much less effective in melee.
-FR: , à l’exception des armes à allonge, des talismans et des figurines de ziggourat. Cela rend aussi les bâtons magiques beaucoup moins efficaces en mêlée.
+FR: , à l’exception des armes à allonge, des talismans et des figurines de ziggurat. Cela rend aussi les bâtons magiques beaucoup moins efficaces en mêlée.
 
 EN: ~You rampage swiftly towards enemies and can continue to trample forward once you reach them, pushing entire lines of enemies backwards as you attack.
 FR: Vous foncez rapidement vers vos ennemis et pouvez continuer à piétiner vers l’avant une fois arrivé, repoussant des lignes entières d’ennemis en attaquant.
@@ -2162,10 +2162,10 @@ EN: a gateway leading deeper into the Abyss
 FR: un portail menant plus profondément dans l’Abysse
 
 EN: A gateway to a ziggurat
-FR: Un portail vers une ziggourat
+FR: Un portail vers une ziggurat
 
 EN: a gateway to a ziggurat
-FR: un portail vers une ziggourat
+FR: un portail vers une ziggurat
 
 EN: A gateway to the ashen valley of Gehenna
 FR: Un portail vers la vallée cendreuse de Gehenna
@@ -2648,22 +2648,22 @@ EN: a flagged portal
 FR: un portail à étendard
 
 EN: A gauntlet entrance
-FR: Une entrée de parcours du combattant
+FR: Une entrée de gauntlet
 
 EN: a gauntlet entrance
-FR: une entrée de parcours du combattant
+FR: une entrée de gauntlet
 
 EN: A flickering gateway to a bazaar
-FR: Un portail vacillant vers un bazar
+FR: Un portail vacillant vers un bazaar
 
 EN: a flickering gateway to a bazaar
-FR: un portail vacillant vers un bazar
+FR: un portail vacillant vers un bazaar
 
 EN: A gateway to a bazaar
-FR: Un portail vers un bazar
+FR: Un portail vers un bazaar
 
 EN: a gateway to a bazaar
-FR: un portail vers un bazar
+FR: un portail vers un bazaar
 
 EN: A phantasmal passage
 FR: Un passage fantasmagorique
@@ -2696,10 +2696,10 @@ EN: a glowing drain
 FR: un drain rayonnant
 
 EN: A portal to a secret trove of treasure
-FR: Un portail vers un trésor secret
+FR: Un portail vers un trove secret
 
 EN: a portal to a secret trove of treasure
-FR: un portail vers un trésor secret
+FR: un portail vers un trove secret
 
 EN: A dark tunnel
 FR: Un tunnel sombre

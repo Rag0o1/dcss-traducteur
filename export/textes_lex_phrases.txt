@@ -359,7 +359,7 @@ EN: It is only found in Nemelex Xobeh's deck of punishment.
 FR: On ne la trouve que dans le jeu de punition de Nemelex Xobeh.
 
 EN: Long-range teleports are impossible in Gauntlets.
-FR: Les téléportations à longue portée sont impossibles dans les Épreuves.
+FR: Les téléportations à longue portée sont impossibles dans les Gauntlets.
 
 EN: Many portals to the Abyss can be found corrupting one floor late in the Dungeon.
 FR: De nombreux portails vers l’Abysse corrompent un étage tardif du Donjon.
@@ -611,7 +611,7 @@ EN: This branch contains the entrances to the Iron City of Dis, Gehenna, Cocytus
 FR: Cette branche contient les entrées de la Cité de Fer de Dis, de la Géhenne, du Cocyte et du Tartare.
 
 EN: This branch contains the entrances to the Realm of Zot and a ziggurat.
-FR: Cette branche contient les entrées du Royaume de Zot et d’une ziggourat.
+FR: Cette branche contient les entrées du Royaume de Zot et d’une ziggurat.
 
 EN: This branch contains the golden rune of Zot.
 FR: Cette branche contient la rune dorée de Zot.

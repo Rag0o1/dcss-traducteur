@@ -11,6 +11,12 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.24 — noms d’artefacts aléatoires, portails en anglais
+
+- Noms d’artefacts aléatoires traduits avec la grammaire du jeu (`randname.txt`, `rand_all/arm/wpn.txt` → `outils/noms_aleatoires_fr.txt`, généré par `outils/grammaire_noms.py`) : « l’épée longue +2 des Yaks solitaires », « l’armure de plates +8 de la Bienveillance de Xom », « la dague +1 de l’Aspic fortifiant ». Les noms inventés entre guillemets (« Vlaxus ») restent tels quels.
+- Moteur (`moteur/graffitis.js`, `moteur/content.js`) : article accordé `¤`, adjectif placé devant le nom `@règle>@` ou rejeté après `{apres}`, contractions « du / des », choix de la règle la plus précise ; un nom qui n’est presque qu’un mot libre (« of Cocytus ») n’est pas touché.
+- Décision du 18/11 : les noms des portails restent en anglais, y compris dans les descriptions (Ziggurat, Sewer, Ossuary, Bailey, Ice Cave, Volcano, Wizlab, Desolation, Bazaar, Trove, Gauntlet, Necropolis, Labyrinth) : 62 textes corrigés.
+
 ## 0.23 — aide du jeu et FAQ
 
 - Écrans d’aide (`help.txt`) et FAQ (`FAQ.txt`) traduits : 235 paragraphes et 26 titres, ajoutés aux phrases à touches (`outils/phrases_touches_src.json`, `outils/aide_titres.json`, fichier généré par `outils/gen_phrases_touches.js`).

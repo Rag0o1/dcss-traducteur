@@ -2523,3 +2523,7341 @@ FR: @any_pattern@ @any_colour@ sur fond @any_glowing_colour#ms@
 
 EN: [any_glowing_colour_pattern] @any_glowing_colour@ on @any_glowing_colour@ @any_pattern@
 FR: @any_pattern@ @any_glowing_colour@ sur fond @any_glowing_colour#ms@
+
+EN: [weapon] of @_power_or_anger_@
+FR: de @_power_or_anger_@
+
+EN: [weapon] of @_battle_or_war_@
+FR: de @_battle_or_war_@
+
+EN: [weapon] of @player_doom@
+FR: de @player_doom@
+
+EN: [weapon] of @death_or_doom@
+FR: de @death_or_doom@
+
+EN: [weapon] of @_verbing_@ @death_or_doom@
+FR: de @death_or_doom@ @_verbing_@
+
+EN: [weapon] of @_adjective_@ @_strategy_or_justice_@
+FR: de @_strategy_or_justice_@ @_adjective_@
+
+EN: [weapon] of @_strategy_or_justice_@
+FR: de @_strategy_or_justice_@
+
+EN: [weapon] of the @_verbing_@ @_people_name_@
+FR: de ¤@_people_name_@ @_verbing_@
+
+EN: [weapon] of the @_people_name_@
+FR: de ¤@_people_name_@
+
+EN: [weapon] of the @_verbing_@ @_diviner_name_@
+FR: de ¤@_diviner_name_@ @_verbing_@
+
+EN: [weapon] of the @_verbing_@ @_weapon_animal_@
+FR: de ¤@_weapon_animal_@ @_verbing_@
+
+EN: [weapon] of the @_weapon_animal_@
+FR: de ¤@_weapon_animal_@
+
+EN: [weapon] of the @_plant_name_@
+FR: de ¤@_plant_name_@
+
+EN: [weapon] of @_evil_stuff_@
+FR: de @_evil_stuff_@
+
+EN: [weapon] of @_catastrophe_name_@
+FR: de @_catastrophe_name_@
+
+EN: [weapon] of @_chaos_name_@
+FR: de @_chaos_name_@
+
+EN: [weapon] of @_balance_or_order_@
+FR: de @_balance_or_order_@
+
+EN: [weapon] of @_economics_or_politics_@
+FR: de @_economics_or_politics_@
+
+EN: [weapon] of @branch_name@
+FR: de @branch_name@
+
+EN: [weapon] of @_place_name_@
+FR: de @_place_name_@
+
+EN: [weapon] of @_discomfort_weapon_@
+FR: de @_discomfort_weapon_@
+
+EN: [weapon] of the @_item_name_@
+FR: de ¤@_item_name_@
+
+EN: [weapon] of @_magic_name_@
+FR: de @_magic_name_@
+
+EN: [weapon] of @_substance_name_@
+FR: de @_substance_name_@
+
+EN: [weapon] of @_science_name_@
+FR: de @_science_name_@
+
+EN: [weapon] of @other_weapon_name@
+FR: de @other_weapon_name@
+
+EN: [weapon] "@_plain_weapon_name_@"
+FR: "@_plain_weapon_name_@"
+
+EN: [weapon] of @_time_name_@
+FR: de @_time_name_@
+
+EN: [weapon] of @_sky_or_light_@
+FR: de @_sky_or_light_@
+
+EN: [weapon] of @_virtue_or_vice_@
+FR: de @_virtue_or_vice_@
+
+EN: [weapon] of @_number_or_qualifier_@ @_thing_names_@
+FR: de ¤@_number_or_qualifier_>@ @_thing_names_@
+
+EN: [weapon] of @_destiny_name_@
+FR: de @_destiny_name_@
+
+EN: [weapon] of @god_name_possessive@ @divine_esteem@
+FR: de ¤@divine_esteem@ de @god_name_possessive@
+
+EN: [weapon] of the @_verbing_@ Gods
+FR: des Dieux {mp}@_verbing_@
+
+EN: [weapon] of the @_adjective_@ God
+FR: du Dieu {ms}@_adjective_@
+
+EN: [weapon] of @god_name@, @_verbing_@
+FR: de @god_name@, @_verbing_@
+
+EN: [weapon] of @god_name@
+FR: de @god_name@
+
+EN: [talisman] @armour@
+FR: @armour@
+
+EN: [armour] of @_armour_name_shielding_@
+FR: de @_armour_name_shielding_@
+
+EN: [armour] of @_armour_property_name_@
+FR: de @_armour_property_name_@
+
+EN: [armour] of @_wacky_armour_name_@
+FR: de @_wacky_armour_name_@
+
+EN: [armour] of the @_profession_name_@
+FR: de ¤@_profession_name_@
+
+EN: [armour] of the @_adjective_@ @_profession_name_@
+FR: de ¤@_profession_name_@ @_adjective_@
+
+EN: [armour] of @_politics_name_armour_@
+FR: de @_politics_name_armour_@
+
+EN: [armour] of @_weather_name_@
+FR: de @_weather_name_@
+
+EN: [armour] of @_good_or_divine_@
+FR: de @_good_or_divine_@
+
+EN: [armour] of @_adjective_@ @_good_or_divine_@
+FR: de @_good_or_divine_@ @_adjective_@
+
+EN: [armour] of the @_celestial_bodies_@
+FR: de ¤@_celestial_bodies_@
+
+EN: [armour] of @_instrument_name_@
+FR: de @_instrument_name_@
+
+EN: [armour] of the @_armour_animal_@
+FR: de ¤@_armour_animal_@
+
+EN: [armour] of the @_adjective_@ @_armour_animal_@
+FR: de ¤@_armour_animal_@ @_adjective_@
+
+EN: [armour] of @_flower_name_@
+FR: de @_flower_name_@
+
+EN: [armour] of the @_fruit_name_@
+FR: de ¤@_fruit_name_@
+
+EN: [armour] of the @_critter_name_@
+FR: de ¤@_critter_name_@
+
+EN: [armour] of the @_adjective_@ @_critter_name_@
+FR: de ¤@_critter_name_@ @_adjective_@
+
+EN: [armour] of @_evil_being_@
+FR: de @_evil_being_@
+
+EN: [armour] of @_discomfort_and_inaction_@
+FR: de @_discomfort_and_inaction_@
+
+EN: [armour] of @_game_name_@
+FR: de @_game_name_@
+
+EN: [armour] of @_other_armour_name_@
+FR: de @_other_armour_name_@
+
+EN: [armour] "@_plain_armour_name_@"
+FR: "@_plain_armour_name_@"
+
+EN: [armour] of @_philosophy_or_science_@
+FR: de @_philosophy_or_science_@
+
+EN: [armour] of @_place_name_@
+FR: de @_place_name_@
+
+EN: [armour] of @_time_name_@
+FR: de @_time_name_@
+
+EN: [armour] of @_sky_or_light_@
+FR: de @_sky_or_light_@
+
+EN: [armour] of @_virtue_or_vice_@
+FR: de @_virtue_or_vice_@
+
+EN: [armour] of @_number_or_qualifier_@ @_verbing_@ @_thing_names_@
+FR: de ¤@_number_or_qualifier_>@ @_thing_names_@ @_verbing_@
+
+EN: [armour] of @_number_or_qualifier_@ @_thing_names_@
+FR: de ¤@_number_or_qualifier_>@ @_thing_names_@
+
+EN: [armour] of @god_name_possessive@ @divine_esteem@
+FR: de ¤@divine_esteem@ de @god_name_possessive@
+
+EN: [armour] of the @_verbing_@ Gods
+FR: des Dieux {mp}@_verbing_@
+
+EN: [armour] of the @_adjective_@ God
+FR: du Dieu {ms}@_adjective_@
+
+EN: [armour] of @god_name@, @_verbing_@
+FR: de @god_name@, @_verbing_@
+
+EN: [armour] of @god_name@
+FR: de @god_name@
+
+EN: [armour] of @branch_name@
+FR: de @branch_name@
+
+EN: [jewellery] of the @_jewellery_animal_@
+FR: de ¤@_jewellery_animal_@
+
+EN: [jewellery] of @_jewellery_special_name_@
+FR: de @_jewellery_special_name_@
+
+EN: [jewellery] of @_suspicion_name_@
+FR: de @_suspicion_name_@
+
+EN: [jewellery] of the @_people_name_@
+FR: de ¤@_people_name_@
+
+EN: [jewellery] of the @_verbing_@ @_people_name_@
+FR: de ¤@_people_name_@ @_verbing_@
+
+EN: [jewellery] of @_balance_or_order_@
+FR: de @_balance_or_order_@
+
+EN: [jewellery] of @_philosophy_name_@
+FR: de @_philosophy_name_@
+
+EN: [jewellery] of @other_weapon_name@
+FR: de @other_weapon_name@
+
+EN: [jewellery] of the @_armour_animal_@
+FR: de ¤@_armour_animal_@
+
+EN: [jewellery] of @_flower_name_@
+FR: de @_flower_name_@
+
+EN: [jewellery] of the @_adjective_@ @_fruit_name_@
+FR: de ¤@_fruit_name_@ @_adjective_@
+
+EN: [jewellery] of @_evil_being_@
+FR: de @_evil_being_@
+
+EN: [jewellery] of @_good_or_divine_@
+FR: de @_good_or_divine_@
+
+EN: [jewellery] of @_politics_name_armour_@
+FR: de @_politics_name_armour_@
+
+EN: [jewellery] "@_plain_armour_name_@"
+FR: "@_plain_armour_name_@"
+
+EN: [jewellery] of @_time_name_@
+FR: de @_time_name_@
+
+EN: [jewellery] of @_sky_or_light_@
+FR: de @_sky_or_light_@
+
+EN: [jewellery] of @god_name_possessive@ @divine_esteem@
+FR: de ¤@divine_esteem@ de @god_name_possessive@
+
+EN: [jewellery] of the @_verbing_@ Gods
+FR: des Dieux {mp}@_verbing_@
+
+EN: [jewellery] of the @_adjective_@ God
+FR: du Dieu {ms}@_adjective_@
+
+EN: [jewellery] of @god_name@, @_verbing_@
+FR: de @god_name@, @_verbing_@
+
+EN: [jewellery] of Xom's @_xom_esteem_@
+FR: de ¤@_xom_esteem_@ de Xom
+
+EN: [jewellery] of @_virtue_name_@
+FR: de @_virtue_name_@
+
+EN: [jewellery] of @_vice_name_@
+FR: de @_vice_name_@
+
+EN: [jewellery] of @_number_or_qualifier_@ @_thing_names_@
+FR: de ¤@_number_or_qualifier_>@ @_thing_names_@
+
+EN: [jewellery] of @_number_or_qualifier_@ @_verbing_@ @_thing_names_@
+FR: de ¤@_number_or_qualifier_>@ @_thing_names_@ @_verbing_@
+
+EN: [Trog weapon] of @_power_or_anger_@
+FR: de @_power_or_anger_@
+
+EN: [Trog weapon] of @_adjective_@ @_power_or_anger_@
+FR: de @_power_or_anger_@ @_adjective_@
+
+EN: [Trog weapon] of @_battle_or_war_@
+FR: de @_battle_or_war_@
+
+EN: [Trog weapon] of the @_verbing_@ @_battle_or_war_@
+FR: de ¤@_battle_or_war_@ @_verbing_@
+
+EN: [Trog weapon] of @death_or_doom@
+FR: de @death_or_doom@
+
+EN: [Trog weapon] of @_adjective_@ @death_or_doom@
+FR: de @death_or_doom@ @_adjective_@
+
+EN: [Trog weapon] of @_strategy_name_@
+FR: de @_strategy_name_@
+
+EN: [Trog weapon] of @_justice_name_@
+FR: de @_justice_name_@
+
+EN: [Trog weapon] of @_virtue_or_vice_@
+FR: de @_virtue_or_vice_@
+
+EN: [Trog weapon] of Trog
+FR: de Trog
+
+EN: [Trog weapon] of Trog's @divine_esteem@
+FR: de ¤@divine_esteem@ de Trog
+
+EN: [Trog weapon] of Trog's @_anger_quality_@
+FR: de ¤@_anger_quality_@ de Trog
+
+EN: [Trog weapon] of the @_weapon_animal_@
+FR: de ¤@_weapon_animal_@
+
+EN: [Trog weapon] of @_evil_stuff_@
+FR: de @_evil_stuff_@
+
+EN: [Trog weapon] of @_catastrophe_name_@
+FR: de @_catastrophe_name_@
+
+EN: [Trog weapon] of @_chaos_name_@
+FR: de @_chaos_name_@
+
+EN: [Trog weapon] of @_balance_or_order_@
+FR: de @_balance_or_order_@
+
+EN: [Trog weapon] of @_economics_or_politics_@
+FR: de @_economics_or_politics_@
+
+EN: [Trog weapon] of @branch_name@
+FR: de @branch_name@
+
+EN: [Trog weapon] of @_place_name_@
+FR: de @_place_name_@
+
+EN: [Trog weapon] of @_time_name_@
+FR: de @_time_name_@
+
+EN: [Trog weapon] of @_sky_or_light_@
+FR: de @_sky_or_light_@
+
+EN: [Trog weapon] of @_number_or_qualifier_@ @_thing_names_@
+FR: de ¤@_number_or_qualifier_>@ @_thing_names_@
+
+EN: [Trog weapon] of @_discomfort_weapon_@
+FR: de @_discomfort_weapon_@
+
+EN: [Trog weapon] of the @_item_name_@
+FR: de ¤@_item_name_@
+
+EN: [Trog weapon] of @_philosophy_name_@
+FR: de @_philosophy_name_@
+
+EN: [Trog weapon] of @_science_name_@
+FR: de @_science_name_@
+
+EN: [Trog weapon] of @other_weapon_name@
+FR: de @other_weapon_name@
+
+EN: [Trog weapon] of @_monster_name_@@killer_name@
+FR: de @_monster_name_@@killer_name@
+
+EN: [Trog weapon] "@_plain_weapon_name_@"
+FR: "@_plain_weapon_name_@"
+
+EN: [Trog weapon] "@_adjective_@ @_plain_weapon_name_@"
+FR: "@_plain_weapon_name_@ @_adjective_@"
+
+EN: [Okawaru weapon] @weapon@
+FR: @weapon@
+
+EN: [Okawaru weapon] of @player_name_possessive@ @_valour_name_@
+FR: de ¤@_valour_name_@ de @player_name_possessive@
+
+EN: [Okawaru weapon] of Okawaru's @divine_esteem@
+FR: de ¤@divine_esteem@ de Okawaru
+
+EN: [Okawaru weapon] of Okawaru, @_verbing_@
+FR: de Okawaru, @_verbing_@
+
+EN: [Okawaru weapon] of @_strategy_or_justice_@
+FR: de @_strategy_or_justice_@
+
+EN: [Okawaru weapon] of @_philosophy_name_@
+FR: de @_philosophy_name_@
+
+EN: [Okawaru weapon] of @_balance_or_order_@
+FR: de @_balance_or_order_@
+
+EN: [Okawaru weapon] of @_power_name_@
+FR: de @_power_name_@
+
+EN: [Okawaru weapon] of @_virtue_name_@
+FR: de @_virtue_name_@
+
+EN: [Okawaru weapon] of the @_diviner_name_@
+FR: de ¤@_diviner_name_@
+
+EN: [Okawaru weapon] of the @_weapon_animal_@
+FR: de ¤@_weapon_animal_@
+
+EN: [Okawaru weapon] of @_place_name_@
+FR: de @_place_name_@
+
+EN: [Okawaru weapon] of @_item_name_@
+FR: de @_item_name_@
+
+EN: [Okawaru robe] @Okawaru armour@
+FR: @Okawaru armour@
+
+EN: [Okawaru body armour] @Okawaru armour@
+FR: @Okawaru armour@
+
+EN: [Okawaru armour] @armour@
+FR: @armour@
+
+EN: [Okawaru armour] of @player_name_possessive@ @_valour_name_@
+FR: de ¤@_valour_name_@ de @player_name_possessive@
+
+EN: [Okawaru armour] of Okawaru's @divine_esteem@
+FR: de ¤@divine_esteem@ de Okawaru
+
+EN: [Okawaru armour] of the @_armour_animal_@
+FR: de ¤@_armour_animal_@
+
+EN: [Okawaru armour] of @_good_or_divine_@
+FR: de @_good_or_divine_@
+
+EN: [Okawaru armour] of @_armour_name_shielding_@
+FR: de @_armour_name_shielding_@
+
+EN: [Okawaru armour] of @_armour_property_name_@
+FR: de @_armour_property_name_@
+
+EN: [Okawaru armour] of @_wacky_armour_name_@
+FR: de @_wacky_armour_name_@
+
+EN: [Okawaru armour] of @_politics_name_armour_@
+FR: de @_politics_name_armour_@
+
+EN: [Xom weapon] of @_chaos_name_@
+FR: de @_chaos_name_@
+
+EN: [Xom weapon] of Xom's @_xom_esteem_@
+FR: de ¤@_xom_esteem_@ de Xom
+
+EN: [Xom weapon] of Xom's @divine_esteem@
+FR: de ¤@divine_esteem@ de Xom
+
+EN: [Xom weapon] "Xom, @_verbing_@ and @_verbing_@"
+FR: "Xom, @_verbing_@ et @_verbing_@"
+
+EN: [Xom weapon] of the @_verbing_@ @_fruit_name_@
+FR: de ¤@_fruit_name_@ @_verbing_@
+
+EN: [Xom weapon] of @xom_name@
+FR: de @xom_name@
+
+EN: [Xom weapon] of @_game_name_@
+FR: de @_game_name_@
+
+EN: [Xom weapon] @weapon@
+FR: @weapon@
+
+EN: [Xom weapon] @jewellery@
+FR: @jewellery@
+
+EN: [Xom weapon] @armour@
+FR: @armour@
+
+EN: [Xom robe] @Xom armour@
+FR: @Xom armour@
+
+EN: [Xom body armour] @Xom armour@
+FR: @Xom armour@
+
+EN: [Xom armour] of @_chaos_name_@
+FR: de @_chaos_name_@
+
+EN: [Xom armour] of Xom's @_xom_esteem_@
+FR: de ¤@_xom_esteem_@ de Xom
+
+EN: [Xom armour] of Xom's @divine_esteem@
+FR: de ¤@divine_esteem@ de Xom
+
+EN: [Xom armour] "@_adjective_@ Xom"
+FR: "Xom @_adjective_@"
+
+EN: [Xom armour] of @xom_name@
+FR: de @xom_name@
+
+EN: [Xom armour] of @_game_name_@
+FR: de @_game_name_@
+
+EN: [Xom armour] of @player_death@
+FR: de @player_death@
+
+EN: [Xom armour] @armour@
+FR: @armour@
+
+EN: [Xom armour] @jewellery@
+FR: @jewellery@
+
+EN: [Xom jewellery] of @_chaos_name_@
+FR: de @_chaos_name_@
+
+EN: [Xom jewellery] of Xom's @_xom_esteem_@
+FR: de ¤@_xom_esteem_@ de Xom
+
+EN: [Xom jewellery] of Xom's @divine_esteem@
+FR: de ¤@divine_esteem@ de Xom
+
+EN: [Xom jewellery] of @_verbing_@ Xom
+FR: de Xom @_verbing_@
+
+EN: [Xom jewellery] of @xom_name@
+FR: de @xom_name@
+
+EN: [Xom jewellery] of @_game_name_@
+FR: de @_game_name_@
+
+EN: [Xom jewellery] of @player_death@
+FR: de @player_death@
+
+EN: [Xom jewellery] of @player_doom@
+FR: de @player_doom@
+
+EN: [Xom jewellery] @jewellery@
+FR: @jewellery@
+
+EN: [Xom jewellery] @armour@
+FR: @armour@
+
+EN: [Ashenzari] of the @_ashenzari_adjective_@ @_ashenzari_object_@
+FR: de ¤@_ashenzari_object_@ @_ashenzari_adjective_@
+
+EN: [Ashenzari] of @god_name_possessive@ @_ashenzari_object_@
+FR: de ¤@_ashenzari_object_@ de @god_name_possessive@
+
+EN: [Ashenzari] "@_ashenzari_adjective_@ @_ashenzari_object_@"
+FR: "@_ashenzari_object_@ @_ashenzari_adjective_@"
+
+EN: [Ashenzari] "@_ashenzari_object_@ of @god_name@"
+FR: "@_ashenzari_object_@ de @god_name@"
+
+EN: [Ashenzari] "@_ashenzari_object_@ of the @_ashenzari_epithet_@"
+FR: "@_ashenzari_object_@ de ¤@_ashenzari_epithet_@"
+
+EN: [Ashenzari] "@_celestial_bodies_@ of the @_ashenzari_epithet_@"
+FR: "@_celestial_bodies_@ de ¤@_ashenzari_epithet_@"
+
+EN: [Ashenzari] of the @_ashenzari_epithet_@
+FR: de ¤@_ashenzari_epithet_@
+
+EN: [Ashenzari] of the @_ashenzari_bound_adjective_@ @_celestial_bodies_@
+FR: de ¤@_celestial_bodies_@ @_ashenzari_bound_adjective_@
+
+EN: [Ashenzari] of the @_ashenzari_knowledge_adjective_@ @_celestial_bodies_@
+FR: de ¤@_celestial_bodies_@ @_ashenzari_knowledge_adjective_@
+
+EN: [Ashenzari] of @god_name_possessive@ @_celestial_bodies_@
+FR: de ¤@_celestial_bodies_@ de @god_name_possessive@
+
+EN: [Ashenzari] "Share My @_ashenzari_object_@"
+FR: "Partage mon @_ashenzari_object_@"
+
+EN: [Ashenzari] "@_ashenzari_bound_adjective_@ With Me"
+FR: "@_ashenzari_bound_adjective_@ à Moi"
+
+EN: [Ashenzari] "@_ashenzari_bound_adjective_@ Together"
+FR: "@_ashenzari_bound_adjective_@ Ensemble"
+
+EN: [Ashenzari] of the @_ashenzari_bound_adjective_@ @_ashenzari_heavens_@
+FR: de ¤@_ashenzari_heavens_@ @_ashenzari_bound_adjective_@
+
+EN: [Ashenzari] of the @_ashenzari_knowledge_adjective_@ @_ashenzari_heavens_@
+FR: de ¤@_ashenzari_heavens_@ @_ashenzari_knowledge_adjective_@
+
+EN: [Ashenzari] of the Fated @_ashenzari_object_@
+FR: de ¤@_ashenzari_object_@ du Destin
+
+EN: [Ashenzari] of Apeiromancy
+FR: de Apéiromancie
+
+EN: [Ashenzari] "At What Cost Knowledge?"
+FR: "Savoir, à Quel Prix ?"
+
+EN: [Ashenzari] "Behold Eternity"
+FR: "Contemple l’Éternité"
+
+EN: [Ashenzari] of Cremastomancy
+FR: de Crémastomancie
+
+EN: [Ashenzari] of Curses and Power
+FR: de Malédictions et Pouvoir
+
+EN: [Ashenzari] of Desmomancy
+FR: de Desmomancie
+
+EN: [Ashenzari] of the Eye in the Sky
+FR: de l’Œil dans le Ciel
+
+EN: [Ashenzari] "Gaze Upon Infinity"
+FR: "Contemple l’Infini"
+
+EN: [Ashenzari] "I Knew You'd Do That"
+FR: "Je Savais Que Tu Ferais Ça"
+
+EN: [Ashenzari] "I Foresaw This"
+FR: "Je l’Avais Prévu"
+
+EN: [Ashenzari] of Ouranomancy
+FR: de Ouranomancie
+
+EN: [Ashenzari] "Overhang to Understand"
+FR: "Surplomber pour Comprendre"
+
+EN: [Ashenzari] "Per Aspera Ad Scientiam"
+FR: "Per Aspera Ad Scientiam"
+
+EN: [Ashenzari] of Panopticon
+FR: de Panopticon
+
+EN: [Ashenzari] of Star-Bound Wisdom
+FR: de Sagesse Liée aux Astres
+
+EN: [Ashenzari] of Supernal Gnosis
+FR: de Gnose Suprême
+
+EN: [Ashenzari] of Supernal Knowledge
+FR: de Savoir Suprême
+
+EN: [Ashenzari] of Supernal Understanding
+FR: de Compréhension Suprême
+
+EN: [Ashenzari] of Supernal Wisdom
+FR: de Sagesse Suprême
+
+EN: [Ashenzari] "Thunder Perfect Mind"
+FR: "Tonnerre, Esprit Parfait"
+
+EN: [Ashenzari] of Toth-Mos' Legacy
+FR: du Legs de Toth-Mos
+
+EN: [Ashenzari] of the Unyielding Gaze
+FR: du Regard Inflexible
+
+EN: [Ashenzari] of the Wild Blue Yonder
+FR: du Grand Bleu
+
+EN: [Ashenzari] "Oscillating Fan"
+FR: "Ventilateur Oscillant"
+
+EN: [_ashenzari_object_] Adversity
+FR: {fs}Adversité
+
+EN: [_ashenzari_object_] Affliction
+FR: {fs}Affliction
+
+EN: [_ashenzari_object_] Burden
+FR: {ms}Fardeau
+
+EN: [_ashenzari_object_] Fetters
+FR: {fp}Entraves
+
+EN: [_ashenzari_object_] Gnosis
+FR: {fs}Gnose
+
+EN: [_ashenzari_object_] Loss
+FR: {fs}Perte
+
+EN: [_ashenzari_object_] Omen
+FR: {ms}Présage
+
+EN: [_ashenzari_object_] Ordeal
+FR: {fs}Épreuve
+
+EN: [_ashenzari_object_] Portent
+FR: {ms}Pronostic
+
+EN: [_ashenzari_object_] Prison
+FR: {fs}Prison
+
+EN: [_ashenzari_object_] Regret
+FR: {ms}Regret
+
+EN: [_ashenzari_object_] Repose
+FR: {ms}Repos
+
+EN: [_ashenzari_object_] Ressentiment
+FR: {ms}Ressentiment
+
+EN: [_ashenzari_object_] Sorrow
+FR: {fs}Peine
+
+EN: [_ashenzari_object_] Vision
+FR: {fs}Vision
+
+EN: [_ashenzari_object_] Yoke
+FR: {ms}Joug
+
+EN: [_ashenzari_object_] @_diviner_name_@
+FR: @_diviner_name_@
+
+EN: [_ashenzari_object_] @_discomfort_weapon_@
+FR: @_discomfort_weapon_@
+
+EN: [_ashenzari_object_] @_philosophy_name_@
+FR: @_philosophy_name_@
+
+EN: [_ashenzari_object_] @_discomfort_and_inaction_@
+FR: @_discomfort_and_inaction_@
+
+EN: [_ashenzari_object_] @_suspicion_no_conflict_name_@
+FR: @_suspicion_no_conflict_name_@
+
+EN: [_ashenzari_adjective_] @_ashenzari_bound_adjective_@
+FR: @_ashenzari_bound_adjective_@
+
+EN: [_ashenzari_adjective_] @_ashenzari_knowledge_adjective_@
+FR: @_ashenzari_knowledge_adjective_@
+
+EN: [_ashenzari_adjective_] @_ashenzari_celestial_adjective_@
+FR: @_ashenzari_celestial_adjective_@
+
+EN: [_ashenzari_bound_adjective_] Bound
+FR: lié/liée
+
+EN: [_ashenzari_bound_adjective_] Chained
+FR: enchaîné/enchaînée
+
+EN: [_ashenzari_bound_adjective_] Circumscribed
+FR: circonscrit/circonscrite
+
+EN: [_ashenzari_bound_adjective_] Cursed
+FR: maudit/maudite
+
+EN: [_ashenzari_bound_adjective_] Ensconced
+FR: niché/nichée
+
+EN: [_ashenzari_bound_adjective_] Eternal
+FR: éternel/éternelle
+
+EN: [_ashenzari_bound_adjective_] Lashed
+FR: ligoté/ligotée
+
+EN: [_ashenzari_bound_adjective_] Restrained
+FR: contenu/contenue
+
+EN: [_ashenzari_bound_adjective_] Ruined
+FR: ruiné/ruinée
+
+EN: [_ashenzari_bound_adjective_] Shackled
+FR: entravé/entravée
+
+EN: [_ashenzari_bound_adjective_] Shattered
+FR: brisé/brisée
+
+EN: [_ashenzari_bound_adjective_] Tethered
+FR: attaché/attachée
+
+EN: [_ashenzari_celestial_adjective_] Astral
+FR: astral/astrale
+
+EN: [_ashenzari_celestial_adjective_] Celestial
+FR: céleste
+
+EN: [_ashenzari_celestial_adjective_] Cosmic
+FR: cosmique
+
+EN: [_ashenzari_celestial_adjective_] Distant
+FR: lointain/lointaine
+
+EN: [_ashenzari_celestial_adjective_] Elysian
+FR: élyséen/élyséenne
+
+EN: [_ashenzari_celestial_adjective_] Sidereal
+FR: sidéral/sidérale
+
+EN: [_ashenzari_celestial_adjective_] Stellar
+FR: stellaire
+
+EN: [_ashenzari_celestial_adjective_] Sublime
+FR: sublime
+
+EN: [_ashenzari_knowledge_adjective_] All-seeing
+FR: omnivoyant/omnivoyante
+
+EN: [_ashenzari_knowledge_adjective_] Astrological
+FR: astrologique
+
+EN: [_ashenzari_knowledge_adjective_] Clairvoyant
+FR: clairvoyant/clairvoyante
+
+EN: [_ashenzari_knowledge_adjective_] Cryptic
+FR: cryptique
+
+EN: [_ashenzari_knowledge_adjective_] Enlightened
+FR: éclairé/éclairée
+
+EN: [_ashenzari_knowledge_adjective_] Enigmatic
+FR: énigmatique
+
+EN: [_ashenzari_knowledge_adjective_] Esoteric
+FR: ésotérique
+
+EN: [_ashenzari_knowledge_adjective_] Gnostic
+FR: gnostique
+
+EN: [_ashenzari_knowledge_adjective_] Manifest
+FR: manifeste
+
+EN: [_ashenzari_knowledge_adjective_] Mantic
+FR: mantique
+
+EN: [_ashenzari_knowledge_adjective_] Omniscient
+FR: omniscient/omnisciente
+
+EN: [_ashenzari_knowledge_adjective_] Oracular
+FR: oraculaire
+
+EN: [_ashenzari_knowledge_adjective_] Pangnostic
+FR: pangnostique
+
+EN: [_ashenzari_knowledge_adjective_] Perceptive
+FR: perspicace
+
+EN: [_ashenzari_knowledge_adjective_] Prescient
+FR: prescient/presciente
+
+EN: [_ashenzari_knowledge_adjective_] Profound
+FR: profond/profonde
+
+EN: [_ashenzari_knowledge_adjective_] Prophetic
+FR: prophétique
+
+EN: [_ashenzari_knowledge_adjective_] Revealing
+FR: révélateur/révélatrice
+
+EN: [_ashenzari_knowledge_adjective_] Sibylline
+FR: sibyllin/sibylline
+
+EN: [_ashenzari_knowledge_adjective_] Unveiling
+FR: dévoilant/dévoilante
+
+EN: [_ashenzari_knowledge_adjective_] Vaticinal
+FR: vaticinal/vaticinale
+
+EN: [_ashenzari_epithet_] @_ashenzari_adjective_@ God
+FR: {ms}Dieu {ms}@_ashenzari_adjective_@
+
+EN: [_ashenzari_epithet_] @_ashenzari_bound_adjective_@ Augur
+FR: {ms}Augure @_ashenzari_bound_adjective_@
+
+EN: [_ashenzari_epithet_] @_ashenzari_celestial_adjective_@ Augur
+FR: {ms}Augure @_ashenzari_celestial_adjective_@
+
+EN: [_ashenzari_epithet_] @_ashenzari_bound_adjective_@ Sage
+FR: {ms}Sage @_ashenzari_bound_adjective_@
+
+EN: [_ashenzari_epithet_] @_ashenzari_celestial_adjective_@ Sage
+FR: {ms}Sage @_ashenzari_celestial_adjective_@
+
+EN: [_ashenzari_epithet_] @_ashenzari_bound_adjective_@ Seer
+FR: {ms}Voyant @_ashenzari_bound_adjective_@
+
+EN: [_ashenzari_epithet_] @_ashenzari_celestial_adjective_@ Seer
+FR: {ms}Voyant @_ashenzari_celestial_adjective_@
+
+EN: [_ashenzari_epithet_] All-Knowing
+FR: {ms}Omniscient
+
+EN: [_ashenzari_epithet_] Curse-Bearer
+FR: {ms}Porte-Malédiction
+
+EN: [_ashenzari_epithet_] Soothsayer
+FR: {ms}Devin
+
+EN: [_ashenzari_epithet_] Unmoving One
+FR: {ms}Immobile
+
+EN: [_ashenzari_heavens_] Cosmos
+FR: {ms}Cosmos
+
+EN: [_ashenzari_heavens_] Empyrean
+FR: {ms}Empyrée
+
+EN: [_ashenzari_heavens_] Ether
+FR: {ms}Éther
+
+EN: [_ashenzari_heavens_] Firmament
+FR: {ms}Firmament
+
+EN: [_ashenzari_heavens_] Heavens
+FR: {mp}Cieux
+
+EN: [_ashenzari_heavens_] Sky
+FR: {ms}Ciel
+
+EN: [_ashenzari_heavens_] Sphere
+FR: {fs}Sphère
+
+EN: [_ashenzari_heavens_] Welkin
+FR: {fs}Voûte
+
+EN: [general appearance] brightly glowing
+FR: éclatant/éclatante
+
+EN: [general appearance] smoking
+FR: fumant/fumante
+
+EN: [general appearance] scorched
+FR: roussi/roussie
+
+EN: [general appearance] twisted
+FR: tordu/tordue
+
+EN: [general appearance] shimmering
+FR: chatoyant/chatoyante
+
+EN: [general appearance] warped
+FR: gauchi/gauchie
+
+EN: [general appearance] transparent
+FR: transparent/transparente
+
+EN: [general appearance] translucent
+FR: translucide
+
+EN: [general appearance] encrusted
+FR: incrusté/incrustée
+
+EN: [general appearance] pitted
+FR: piqueté/piquetée
+
+EN: [general appearance] slimy
+FR: visqueux/visqueuse
+
+EN: [general appearance] polished
+FR: poli/polie
+
+EN: [general appearance] fine
+FR: fin/fine
+
+EN: [general appearance] incandescent
+FR: incandescent/incandescente
+
+EN: [general appearance] ancient
+FR: ancien/ancienne
+
+EN: [general appearance] faintly glowing
+FR: luisant/luisante
+
+EN: [general appearance] steaming
+FR: vaporeux/vaporeuse
+
+EN: [general appearance] dazzling
+FR: éblouissant/éblouissante
+
+EN: [general appearance] masterwork
+FR: magistral/magistrale
+
+EN: [general appearance] smouldering
+FR: couvant/couvante
+
+EN: [general appearance] glimmering
+FR: scintillant/scintillante
+
+EN: [general appearance] buzzing
+FR: bourdonnant/bourdonnante
+
+EN: [general appearance] fading
+FR: pâlissant/pâlissante
+
+EN: [general appearance] blackened
+FR: noirci/noircie
+
+EN: [weapon appearance] iridescent
+FR: irisé/irisée
+
+EN: [weapon appearance] bloodstained
+FR: ensanglanté/ensanglantée
+
+EN: [weapon appearance] crystal
+FR: de cristal
+
+EN: [weapon appearance] jewelled
+FR: serti/sertie
+
+EN: [weapon appearance] ichor-stained
+FR: souillé/souillée d’ichor
+
+EN: [weapon appearance] ivory
+FR: d’ivoire
+
+EN: [weapon appearance] bone
+FR: d’os
+
+EN: [weapon appearance] sapphire
+FR: de saphir
+
+EN: [weapon appearance] ebony
+FR: d’ébène
+
+EN: [weapon appearance] @general appearance@
+FR: @general appearance@
+
+EN: [robe appearance] fabulously ornate
+FR: fastueux/fastueuse
+
+EN: [robe appearance] dull
+FR: terne
+
+EN: [robe appearance] sheer
+FR: diaphane
+
+EN: [robe appearance] thick
+FR: épais/épaisse
+
+EN: [robe appearance] heavy
+FR: lourd/lourde
+
+EN: [robe appearance] wizard
+FR: de mage
+
+EN: [robe appearance] ominously black
+FR: d’un noir sinistre
+
+EN: [robe appearance] brightly glowing
+FR: éclatant/éclatante
+
+EN: [robe appearance] smoking
+FR: fumant/fumante
+
+EN: [robe appearance] twisted
+FR: tordu/tordue
+
+EN: [robe appearance] shimmering
+FR: chatoyant/chatoyante
+
+EN: [robe appearance] warped
+FR: gauchi/gauchie
+
+EN: [robe appearance] transparent
+FR: transparent/transparente
+
+EN: [robe appearance] slimy
+FR: visqueux/visqueuse
+
+EN: [robe appearance] fine
+FR: fin/fine
+
+EN: [robe appearance] luminous
+FR: lumineux/lumineuse
+
+EN: [robe appearance] ripped
+FR: déchiré/déchirée
+
+EN: [robe appearance] colourful
+FR: coloré/colorée
+
+EN: [robe appearance] creamy pearl
+FR: blanc perle
+
+EN: [robe appearance] opalescent
+FR: opalescent/opalescente
+
+EN: [robe appearance] ancient
+FR: ancien/ancienne
+
+EN: [robe appearance] faintly glowing
+FR: luisant/luisante
+
+EN: [robe appearance] steaming
+FR: vaporeux/vaporeuse
+
+EN: [robe appearance] faintly humming
+FR: ronronnant/ronronnante
+
+EN: [robe appearance] bloodstained
+FR: ensanglanté/ensanglantée
+
+EN: [robe appearance] heavily jewelled
+FR: couvert/couverte de joyaux
+
+EN: [robe appearance] ichor-stained
+FR: souillé/souillée d’ichor
+
+EN: [robe appearance] distressingly furry
+FR: affreusement poilu/poilue
+
+EN: [robe appearance] tattered
+FR: en lambeaux
+
+EN: [robe appearance] silken
+FR: soyeux/soyeuse
+
+EN: [robe appearance] shadowed
+FR: ombré/ombrée
+
+EN: [body armour appearance] smelly
+FR: malodorant/malodorante
+
+EN: [body armour appearance] bronze
+FR: en bronze
+
+EN: [body armour appearance] @_gemstone_@-studded
+FR: à clous de @_gemstone_@
+
+EN: [body armour appearance] @_gemstone_@-encrusted
+FR: à incrustations de @_gemstone_@
+
+EN: [body armour appearance] @armour appearance@
+FR: @armour appearance@
+
+EN: [armour appearance] faintly humming
+FR: bourdonnant/bourdonnante
+
+EN: [armour appearance] bloodstained
+FR: ensanglanté/ensanglantée
+
+EN: [armour appearance] heavily runed
+FR: runique
+
+EN: [armour appearance] jewelled
+FR: serti/sertie
+
+EN: [armour appearance] ichor-stained
+FR: ichoreux/ichoreuse
+
+EN: [armour appearance] distressingly furry
+FR: hirsute
+
+EN: [armour appearance] spiked
+FR: hérissé/hérissée
+
+EN: [armour appearance] @general appearance@
+FR: @general appearance@
+
+EN: [_gemstone_] diamond
+FR: {ms}diamant
+
+EN: [_gemstone_] ruby
+FR: {ms}rubis
+
+EN: [_gemstone_] jacinth
+FR: {fs}jacinthe
+
+EN: [_gemstone_] sapphire
+FR: {ms}saphir
+
+EN: [_gemstone_] black opal
+FR: {fs}opale noire
+
+EN: [_gemstone_] emerald
+FR: {fs}émeraude
+
+EN: [_gemstone_] turquoise
+FR: {fs}turquoise
+
+EN: [_gemstone_] citrine
+FR: {fs}citrine
+
+EN: [_gemstone_] aquamarine
+FR: {fs}aigue-marine
+
+EN: [_gemstone_] amber
+FR: {ms}ambre
+
+EN: [_gemstone_] topaz
+FR: {fs}topaze
+
+EN: [_gemstone_] jet
+FR: {ms}jais
+
+EN: [_gemstone_] opal
+FR: {fs}opale
+
+EN: [_gemstone_] garnet
+FR: {ms}grenat
+
+EN: [_gemstone_] amethyst
+FR: {fs}améthyste
+
+EN: [_gemstone_] jasper
+FR: {ms}jaspe
+
+EN: [_gemstone_] obsidian
+FR: {fs}obsidienne
+
+EN: [_gemstone_] agate
+FR: {fs}agate
+
+EN: [_gemstone_] jade
+FR: {ms}jade
+
+EN: [_gemstone_] pearl
+FR: {fs}perle
+
+EN: [_gemstone_] tiger eye
+FR: {ms}œil-de-tigre
+
+EN: [_gemstone_] ametrine
+FR: {fs}amétrine
+
+EN: [_jewellery appearance_] scintillating
+FR: scintillant/scintillante
+
+EN: [_jewellery appearance_] sparkling
+FR: étincelant/étincelante
+
+EN: [_jewellery appearance_] flickering
+FR: vacillant/vacillante
+
+EN: [_jewellery appearance_] glittering
+FR: brillant/brillante
+
+EN: [_jewellery appearance_] smoking
+FR: fumant/fumante
+
+EN: [_jewellery appearance_] scorched
+FR: roussi/roussie
+
+EN: [_jewellery appearance_] shimmering
+FR: chatoyant/chatoyante
+
+EN: [_jewellery appearance_] wavering
+FR: ondoyant/ondoyante
+
+EN: [_jewellery appearance_] warped
+FR: gauchi/gauchie
+
+EN: [_jewellery appearance_] transparent
+FR: transparent/transparente
+
+EN: [_jewellery appearance_] translucent
+FR: translucide
+
+EN: [_jewellery appearance_] pitted
+FR: piqué/piquée
+
+EN: [_jewellery appearance_] slimy
+FR: visqueux/visqueuse
+
+EN: [_jewellery appearance_] fine
+FR: fin/fine
+
+EN: [_jewellery appearance_] radiant
+FR: radieux/radieuse
+
+EN: [_jewellery appearance_] ancient
+FR: ancien/ancienne
+
+EN: [_jewellery appearance_] brightly glowing
+FR: éclatant/éclatante
+
+EN: [_jewellery appearance_] faintly glowing
+FR: luisant/luisante
+
+EN: [_jewellery appearance_] steaming
+FR: vaporeux/vaporeuse
+
+EN: [_jewellery appearance_] heavily runed
+FR: runique
+
+EN: [_jewellery appearance_] vibrating
+FR: vibrant/vibrante
+
+EN: [_jewellery appearance_] twitching
+FR: frémissant/frémissante
+
+EN: [_jewellery appearance_] coiled
+FR: enroulé/enroulée
+
+EN: [_jewellery appearance_] corded
+FR: cordé/cordée
+
+EN: [_jewellery appearance_] clouded
+FR: nuageux/nuageuse
+
+EN: [_jewellery appearance_] serpentine
+FR: serpentin/serpentine
+
+EN: [_ring material_] wooden
+FR: en bois
+
+EN: [_ring material_] ivory
+FR: en ivoire
+
+EN: [_ring material_] bone
+FR: en os
+
+EN: [_ring material_] amber
+FR: en ambre
+
+EN: [_ring material_] silver
+FR: en argent
+
+EN: [_ring material_] golden
+FR: doré/dorée
+
+EN: [_ring material_] platinum
+FR: en platine
+
+EN: [_ring material_] iron
+FR: en fer
+
+EN: [_ring material_] steel
+FR: en acier
+
+EN: [_ring material_] bronze
+FR: en bronze
+
+EN: [_ring material_] brass
+FR: en laiton
+
+EN: [_ring material_] copper
+FR: en cuivre
+
+EN: [_ring material_] tin
+FR: en étain
+
+EN: [_ring material_] lead
+FR: en plomb
+
+EN: [_ring material_] pewter
+FR: en peltre
+
+EN: [_ring material_] granite
+FR: en granit
+
+EN: [_ring material_] marble
+FR: en marbre
+
+EN: [_ring material_] jade
+FR: en jade
+
+EN: [_ring material_] turquoise
+FR: turquoise
+
+EN: [_ring material_] lapis lazuli
+FR: en lapis-lazuli
+
+EN: [_ring material_] glass
+FR: en verre
+
+EN: [_ring material_] carnelian
+FR: en cornaline
+
+EN: [_ring material_] gossamer
+FR: arachnéen/arachnéenne
+
+EN: [_amulet material_] ivory
+FR: en ivoire
+
+EN: [_amulet material_] bone
+FR: en os
+
+EN: [_amulet material_] graven
+FR: gravé/gravée
+
+EN: [_amulet material_] silver
+FR: en argent
+
+EN: [_amulet material_] golden
+FR: doré/dorée
+
+EN: [_amulet material_] platinum
+FR: en platine
+
+EN: [_amulet material_] iron
+FR: en fer
+
+EN: [_amulet material_] steel
+FR: en acier
+
+EN: [_amulet material_] bronze
+FR: en bronze
+
+EN: [_amulet material_] brass
+FR: en laiton
+
+EN: [_amulet material_] copper
+FR: en cuivre
+
+EN: [_amulet material_] tin
+FR: en étain
+
+EN: [_amulet material_] lead
+FR: en plomb
+
+EN: [_amulet material_] pewter
+FR: en peltre
+
+EN: [_amulet material_] zirconium
+FR: en zirconium
+
+EN: [_amulet material_] sapphire
+FR: en saphir
+
+EN: [_amulet material_] emerald
+FR: en émeraude
+
+EN: [_amulet material_] garnet
+FR: en grenat
+
+EN: [_amulet material_] ruby
+FR: en rubis
+
+EN: [_amulet material_] jade
+FR: en jade
+
+EN: [_amulet material_] crystal
+FR: en cristal
+
+EN: [_amulet material_] diamond
+FR: en diamant
+
+EN: [_amulet material_] amethyst
+FR: en améthyste
+
+EN: [ring appearance] @_jewellery appearance_@ @_ring material_@
+FR: @_jewellery appearance_@ @_ring material_@
+
+EN: [amulet appearance] @_jewellery appearance_@ @_amulet material_@
+FR: @_jewellery appearance_@ @_amulet material_@
+
+EN: [_jewellery_animal_] Death Scarab
+FR: {ms}Scarabée de la mort
+
+EN: [_jewellery_animal_] Firefly
+FR: {fs}Luciole
+
+EN: [_jewellery_animal_] Scarab
+FR: {ms}Scarabée
+
+EN: [_jewellery_animal_] Magpie
+FR: {fs}Pie
+
+EN: [_jewellery_animal_] Raven
+FR: {ms}Corbeau
+
+EN: [_jewellery_special_name_] Attitude
+FR: {fs}Attitude
+
+EN: [_jewellery_special_name_] Disaster
+FR: {ms}Désastre
+
+EN: [_jewellery_special_name_] Ephemeral Luck
+FR: {fs}Chance éphémère
+
+EN: [_jewellery_special_name_] False Pretenses
+FR: {mp}Faux-semblants
+
+EN: [_jewellery_special_name_] Finality
+FR: {fs}Finalité
+
+EN: [_jewellery_special_name_] Lady Luck
+FR: {fs}Dame Fortune
+
+EN: [_jewellery_special_name_] Moodiness
+FR: {fs}Lubie
+
+EN: [_jewellery_special_name_] Reimbursement
+FR: {ms}Remboursement
+
+EN: [_jewellery_special_name_] the Tempest
+FR: {fs}la Tempête
+
+EN: [_jewellery_special_name_] Temptation
+FR: {fs}Tentation
+
+EN: [_jewellery_special_name_] Velleity
+FR: {fs}Velléité
+
+EN: [_jewellery_special_name_] Wishful Thinking
+FR: {ms}Vœu pieux
+
+EN: [_jewellery_special_name_] Yendor
+FR: {ms}Yendor
+
+EN: [_suspicion_no_conflict_name_] Doubts
+FR: {mp}Doutes
+
+EN: [_suspicion_no_conflict_name_] Incredulity
+FR: {fs}Incrédulité
+
+EN: [_suspicion_no_conflict_name_] Jealousy
+FR: {fs}Jalousie
+
+EN: [_suspicion_no_conflict_name_] Mistrust
+FR: {fs}Méfiance
+
+EN: [_suspicion_no_conflict_name_] Paranoia
+FR: {fs}Paranoïa
+
+EN: [_suspicion_no_conflict_name_] Scepticism
+FR: {ms}Scepticisme
+
+EN: [_suspicion_no_conflict_name_] Secrets
+FR: {mp}Secrets
+
+EN: [_suspicion_no_conflict_name_] Suspected Treachery
+FR: {fs}Traîtrise suspectée
+
+EN: [_suspicion_no_conflict_name_] Suspicion
+FR: {ms}Soupçon
+
+EN: [_suspicion_no_conflict_name_] Trepidation
+FR: {fs}Appréhension
+
+EN: [_suspicion_name_] @_suspicion_no_conflict_name_@
+FR: @_suspicion_no_conflict_name_@
+
+EN: [_suspicion_name_] @_conflict_name_@
+FR: @_conflict_name_@
+
+EN: [divine_esteem] Approval
+FR: {fs}Approbation
+
+EN: [divine_esteem] Benevolence
+FR: {fs}Bienveillance
+
+EN: [divine_esteem] Delight
+FR: {ms}Ravissement
+
+EN: [divine_esteem] Esteem
+FR: {fs}Estime
+
+EN: [divine_esteem] Favour
+FR: {fs}Faveur
+
+EN: [divine_esteem] Felicitations
+FR: {fp}Félicitations
+
+EN: [divine_esteem] Generosity
+FR: {fs}Générosité
+
+EN: [divine_esteem] Grace
+FR: {fs}Grâce
+
+EN: [divine_esteem] Hope
+FR: {ms}Espoir
+
+EN: [divine_esteem] Inspiration
+FR: {fs}Inspiration
+
+EN: [divine_esteem] Pride
+FR: {fs}Fierté
+
+EN: [divine_esteem] Regard
+FR: {fs}Considération
+
+EN: [divine_esteem] Respect
+FR: {ms}Respect
+
+EN: [divine_esteem] Supremacy
+FR: {fs}Suprématie
+
+EN: [divine_esteem] Whim
+FR: {ms}Caprice
+
+EN: [divine_esteem] Castigation
+FR: {ms}Châtiment
+
+EN: [divine_esteem] Condemnation
+FR: {fs}Condamnation
+
+EN: [divine_esteem] Displeasure
+FR: {ms}Déplaisir
+
+EN: [divine_esteem] Envy
+FR: {fs}Envie
+
+EN: [divine_esteem] Reproof
+FR: {ms}Reproche
+
+EN: [divine_esteem] @_anger_quality_@
+FR: @_anger_quality_@
+
+EN: [_xom_esteem_] @divine_esteem@
+FR: @divine_esteem@
+
+EN: [_xom_esteem_] Absentmindedness
+FR: {fs}Distraction
+
+EN: [_xom_esteem_] Amusement
+FR: {ms}Amusement
+
+EN: [_xom_esteem_] Attic
+FR: {ms}Grenier
+
+EN: [_xom_esteem_] Bemusement
+FR: {fs}Perplexité
+
+EN: [_xom_esteem_] Best Wishes
+FR: {mp}Meilleurs vœux
+
+EN: [_xom_esteem_] Capriciousness
+FR: {fs}Fantaisie
+
+EN: [_xom_esteem_] Entertainment
+FR: {ms}Divertissement
+
+EN: [_xom_esteem_] Facetiousness
+FR: {fs}Facétie
+
+EN: [_xom_esteem_] Fair Game
+FR: {fs}Proie légitime
+
+EN: [_xom_esteem_] Flight of Fancy
+FR: {fs}Envolée fantasque
+
+EN: [_xom_esteem_] Full Attention
+FR: {fs}Attention totale
+
+EN: [_xom_esteem_] Malicious Joy
+FR: {fs}Joie malicieuse
+
+EN: [_xom_esteem_] Passing Interest
+FR: {ms}Intérêt passager
+
+EN: [_xom_esteem_] Recklessness
+FR: {fs}Insouciance
+
+EN: [_xom_esteem_] Ringing Laughter
+FR: {mp}Rires sonores
+
+EN: [_xom_esteem_] Sleight of Hands
+FR: {mp}Tours de passe-passe
+
+EN: [_xom_esteem_] Taradiddle
+FR: {fs}Billevesée
+
+EN: [_xom_esteem_] Temerity
+FR: {fs}Témérité
+
+EN: [_xom_esteem_] Wantonness
+FR: {ms}Dévergondage
+
+EN: [_xom_esteem_] Whimsicality
+FR: {fs}Excentricité
+
+EN: [_time_name_] Autumn
+FR: {ms}Automne
+
+EN: [_time_name_] Dawn
+FR: {fs}Aube
+
+EN: [_time_name_] Day
+FR: {ms}Jour
+
+EN: [_time_name_] Dusk
+FR: {ms}Couchant
+
+EN: [_time_name_] Eternal Night
+FR: {fs}Nuit éternelle
+
+EN: [_time_name_] Eternal Winter
+FR: {ms}Hiver éternel
+
+EN: [_time_name_] Eternity
+FR: {fs}Éternité
+
+EN: [_time_name_] Evenfall
+FR: {fs}Tombée du soir
+
+EN: [_time_name_] Midnight
+FR: {ms}Minuit
+
+EN: [_time_name_] Midsummer
+FR: {ms}Plein été
+
+EN: [_time_name_] Midwinter
+FR: {ms}Plein hiver
+
+EN: [_time_name_] Noon
+FR: {ms}Midi
+
+EN: [_time_name_] Spring
+FR: {ms}Printemps
+
+EN: [_time_name_] Springtime
+FR: {ms}Renouveau
+
+EN: [_time_name_] Summer
+FR: {ms}Été
+
+EN: [_time_name_] Summertime
+FR: {fs}Belle saison
+
+EN: [_time_name_] Time Moved Backwards
+FR: {ms}Temps à rebours
+
+EN: [_time_name_] Tomorrow
+FR: {ms}Demain
+
+EN: [_time_name_] Twilight
+FR: {ms}Crépuscule
+
+EN: [_time_name_] Winter
+FR: {ms}Hiver
+
+EN: [_time_name_] Yesterday
+FR: {ms}Hier
+
+EN: [_time_name_] the Distant Future
+FR: {ms}le Futur lointain
+
+EN: [_time_name_] the Equinox
+FR: {ms}l’Équinoxe
+
+EN: [_time_name_] the Evening
+FR: {ms}le Soir
+
+EN: [_time_name_] the Everdark
+FR: {fs}la Nuit sans fin
+
+EN: [_time_name_] the Harvest
+FR: {fs}la Moisson
+
+EN: [_time_name_] the Morning
+FR: {ms}le Matin
+
+EN: [_time_name_] the Past
+FR: {ms}le Passé
+
+EN: [_time_name_] the Present
+FR: {ms}le Présent
+
+EN: [_time_name_] the Solstice
+FR: {ms}le Solstice
+
+EN: [_sky_colour_name_] Black
+FR: noir/noire
+
+EN: [_sky_colour_name_] Blue
+FR: bleu/bleue
+
+EN: [_sky_colour_name_] Grey
+FR: gris/grise
+
+EN: [_sky_colour_name_] Indigo
+FR: indigo
+
+EN: [_sky_colour_name_] Orange
+FR: orange
+
+EN: [_sky_colour_name_] Purple
+FR: violet/violette
+
+EN: [_sky_colour_name_] Red
+FR: rouge
+
+EN: [_sky_or_light_] Darkness
+FR: {fp}Ténèbres
+
+EN: [_sky_or_light_] Dim Light
+FR: {fs}Lueur blafarde
+
+EN: [_sky_or_light_] Light
+FR: {fs}Lumière
+
+EN: [_sky_or_light_] Starshine
+FR: {fs}Lumière stellaire
+
+EN: [_sky_or_light_] Sunlight
+FR: {fs}Clarté solaire
+
+EN: [_sky_or_light_] the Endless Expanse
+FR: {fs}l’Étendue infinie
+
+EN: [_sky_or_light_] the Gloaming
+FR: {ms}le Crépuscule
+
+EN: [_sky_or_light_] the Heavens
+FR: {mp}les Firmaments
+
+EN: [_sky_or_light_] the Moon
+FR: {fs}la Lune
+
+EN: [_sky_or_light_] the Shining Light
+FR: {fs}la Lumière éclatante
+
+EN: [_sky_or_light_] the Skies Above
+FR: {mp}les Cieux d’en haut
+
+EN: [_sky_or_light_] the Sky
+FR: {ms}le Ciel
+
+EN: [_sky_or_light_] the Sun
+FR: {ms}le Soleil
+
+EN: [_sky_or_light_] the @_sky_colour_name_@ Skies
+FR: {mp}les Ciels @_sky_colour_name_@
+
+EN: [_virtue_or_vice_] @_virtue_name_@
+FR: @_virtue_name_@
+
+EN: [_virtue_or_vice_] @_valour_name_@
+FR: @_valour_name_@
+
+EN: [_virtue_or_vice_] @_vice_name_@
+FR: @_vice_name_@
+
+EN: [_virtue_name_] Benevolence
+FR: {fs}Bienveillance
+
+EN: [_virtue_name_] Charity
+FR: {fs}Charité
+
+EN: [_virtue_name_] Compassion
+FR: {fs}Compassion
+
+EN: [_virtue_name_] Devotion
+FR: {ms}Dévouement
+
+EN: [_virtue_name_] Discretion
+FR: {fs}Discrétion
+
+EN: [_virtue_name_] Generosity
+FR: {fs}Générosité
+
+EN: [_virtue_name_] Grace
+FR: {fs}Grâce
+
+EN: [_virtue_name_] Honesty
+FR: {fs}Honnêteté
+
+EN: [_virtue_name_] Hospitality
+FR: {fs}Hospitalité
+
+EN: [_virtue_name_] Kindness
+FR: {fs}Gentillesse
+
+EN: [_virtue_name_] Largesse
+FR: {fs}Largesse
+
+EN: [_virtue_name_] Modesty
+FR: {fs}Modestie
+
+EN: [_virtue_name_] Patience
+FR: {fs}Patience
+
+EN: [_virtue_name_] Temperance
+FR: {fs}Tempérance
+
+EN: [_virtue_name_] Thoughtfulness
+FR: {fs}Prévenance
+
+EN: [_virtue_name_] Truth
+FR: {fs}Vérité
+
+EN: [_virtue_name_] Understanding
+FR: {fs}Compréhension
+
+EN: [_virtue_name_] Virtue
+FR: {fs}Vertu
+
+EN: [_virtue_name_] Wariness
+FR: {fs}Prudence
+
+EN: [_virtue_name_] Wisdom
+FR: {fs}Sagesse
+
+EN: [_vice_name_] Gluttony
+FR: {fs}Gloutonnerie
+
+EN: [_vice_name_] Greed
+FR: {fs}Cupidité
+
+EN: [_vice_name_] Lust
+FR: {fs}Luxure
+
+EN: [_vice_name_] Pride
+FR: {ms}Orgueil
+
+EN: [_vice_name_] Sloth
+FR: {fs}Paresse
+
+EN: [_vice_name_] Vanity
+FR: {fs}Vanité
+
+EN: [_vice_name_] Amorality
+FR: {fs}Amoralité
+
+EN: [_vice_name_] Cowardice
+FR: {fs}Lâcheté
+
+EN: [_vice_name_] Dishonesty
+FR: {fs}Malhonnêteté
+
+EN: [_vice_name_] Dishonour
+FR: {ms}Déshonneur
+
+EN: [_vice_name_] Equivocation
+FR: {fs}Équivoque
+
+EN: [_vice_name_] Foolhardiness
+FR: {fs}Imprudence
+
+EN: [_vice_name_] Immorality
+FR: {fs}Immoralité
+
+EN: [_vice_name_] Impatience
+FR: {fs}Impatience
+
+EN: [_vice_name_] Lies
+FR: {mp}Mensonges
+
+EN: [_vice_name_] Misconduct
+FR: {fs}Inconduite
+
+EN: [_vice_name_] Moral Flaws
+FR: {fp}Failles morales
+
+EN: [_vice_name_] Past Mistakes
+FR: {fp}Erreurs passées
+
+EN: [_vice_name_] Recklessness
+FR: {fs}Désinvolture
+
+EN: [_vice_name_] Sin
+FR: {ms}Péché
+
+EN: [_vice_name_] Spite
+FR: {ms}Dépit
+
+EN: [_vice_name_] Tergiversation
+FR: {fs}Tergiversation
+
+EN: [_vice_name_] Untruth
+FR: {fs}Contre-vérité
+
+EN: [_vice_name_] Vice
+FR: {ms}Vice
+
+EN: [_vice_name_] Youthful Indiscretion
+FR: {fs}Incartade de jeunesse
+
+EN: [_vice_name_] the Original Sin
+FR: {ms}le Péché originel
+
+EN: [_destiny_name_] Causality
+FR: {fs}Causalité
+
+EN: [_destiny_name_] Destiny
+FR: {ms}Destin
+
+EN: [_destiny_name_] Doom
+FR: {fs}Perdition
+
+EN: [_destiny_name_] Fate
+FR: {ms}Sort
+
+EN: [_destiny_name_] Karma
+FR: {ms}Karma
+
+EN: [_destiny_name_] Kismet
+FR: {ms}Kismet
+
+EN: [_destiny_name_] Wyrd
+FR: {ms}Wyrd
+
+EN: [_number_or_qualifier_] the Three
+FR: trois
+
+EN: [_number_or_qualifier_] the Four
+FR: quatre
+
+EN: [_number_or_qualifier_] the Five
+FR: cinq
+
+EN: [_number_or_qualifier_] the Six
+FR: six
+
+EN: [_number_or_qualifier_] the Seven
+FR: sept
+
+EN: [_number_or_qualifier_] the Eight
+FR: huit
+
+EN: [_number_or_qualifier_] the Nine
+FR: neuf
+
+EN: [_number_or_qualifier_] the Ten
+FR: dix
+
+EN: [_number_or_qualifier_] the Eleven
+FR: onze
+
+EN: [_number_or_qualifier_] the Twelve
+FR: douze
+
+EN: [_number_or_qualifier_] the Dozen
+FR: douze
+
+EN: [_number_or_qualifier_] the Thirteen
+FR: treize
+
+EN: [_number_or_qualifier_] the Twenty
+FR: vingt
+
+EN: [_number_or_qualifier_] the Twenty-Seven
+FR: vingt-sept
+
+EN: [_number_or_qualifier_] the Fifty
+FR: cinquante
+
+EN: [_number_or_qualifier_] the Sixty-Six
+FR: soixante-six
+
+EN: [_number_or_qualifier_] the Seventy-Seven
+FR: soixante-dix-sept
+
+EN: [_number_or_qualifier_] the Ninety-Nine
+FR: quatre-vingt-dix-neuf
+
+EN: [_number_or_qualifier_] a Hundred
+FR: cent
+
+EN: [_number_or_qualifier_] the Hundredfold
+FR: centuple
+
+EN: [_number_or_qualifier_] a Thousand
+FR: mille
+
+EN: [_number_or_qualifier_] a Million
+FR: innombrable
+
+EN: [_number_or_qualifier_] a Billion
+FR: incalculable
+
+EN: [_number_or_qualifier_] the
+FR: {inv}
+
+EN: [_number_or_qualifier_] the Assorted
+FR: {apres}assorti/assortie
+
+EN: [_number_or_qualifier_] the Countless
+FR: innombrable
+
+EN: [_number_or_qualifier_] the Manifold
+FR: multiple
+
+EN: [_number_or_qualifier_] the Many
+FR: nombreux/nombreuses
+
+EN: [_number_or_qualifier_] the Several
+FR: plusieurs
+
+EN: [_number_or_qualifier_] the Aged
+FR: {apres}âgé/âgée
+
+EN: [_number_or_qualifier_] the Ageless
+FR: {apres}intemporel/intemporelle
+
+EN: [_number_or_qualifier_] the Ancient
+FR: ancien/ancienne
+
+EN: [_number_or_qualifier_] the Battered
+FR: {apres}cabossé/cabossée
+
+EN: [_number_or_qualifier_] the Bouncing
+FR: {apres}bondissant/bondissante
+
+EN: [_number_or_qualifier_] the Bruised
+FR: {apres}meurtri/meurtrie
+
+EN: [_number_or_qualifier_] the Crushed
+FR: {apres}écrasé/écrasée
+
+EN: [_number_or_qualifier_] the Curious
+FR: {apres}curieux/curieuse
+
+EN: [_number_or_qualifier_] the Disturbing
+FR: {apres}troublant/troublante
+
+EN: [_number_or_qualifier_] the Endless
+FR: {apres}infini/infinie
+
+EN: [_number_or_qualifier_] the Exiled
+FR: {apres}exilé/exilée
+
+EN: [_number_or_qualifier_] the Final
+FR: {apres}final/finale
+
+EN: [_number_or_qualifier_] the First
+FR: premier/première
+
+EN: [_number_or_qualifier_] the Foremost
+FR: {apres}principal/principale
+
+EN: [_number_or_qualifier_] the Forgotten
+FR: {apres}oublié/oubliée
+
+EN: [_number_or_qualifier_] the Forsaken
+FR: {apres}abandonné/abandonnée
+
+EN: [_number_or_qualifier_] the Hidden
+FR: {apres}caché/cachée
+
+EN: [_number_or_qualifier_] the Illusory
+FR: {apres}illusoire/illusoire
+
+EN: [_number_or_qualifier_] the Immovable
+FR: {apres}immuable/immuable
+
+EN: [_number_or_qualifier_] the Inquisitive
+FR: {apres}fouineur/fouineuse
+
+EN: [_number_or_qualifier_] the Insatiable
+FR: {apres}insatiable/insatiable
+
+EN: [_number_or_qualifier_] the Invisible
+FR: {apres}invisible/invisible
+
+EN: [_number_or_qualifier_] the Jolly
+FR: {apres}jovial/joviale
+
+EN: [_number_or_qualifier_] the Last
+FR: dernier/dernière
+
+EN: [_number_or_qualifier_] the Lonely
+FR: {apres}solitaire/solitaire
+
+EN: [_number_or_qualifier_] the Lost
+FR: {apres}perdu/perdue
+
+EN: [_number_or_qualifier_] the Lumpy
+FR: {apres}grumeleux/grumeleuse
+
+EN: [_number_or_qualifier_] the Modern
+FR: {apres}moderne/moderne
+
+EN: [_number_or_qualifier_] the Neverending
+FR: {apres}interminable/interminable
+
+EN: [_number_or_qualifier_] the Peculiar
+FR: {apres}singulier/singulière
+
+EN: [_number_or_qualifier_] the Postmodern
+FR: {apres}postmoderne/postmoderne
+
+EN: [_number_or_qualifier_] the Pure
+FR: {apres}pur/pure
+
+EN: [_number_or_qualifier_] the Secret
+FR: {apres}secret/secrète
+
+EN: [_number_or_qualifier_] the Sneaky
+FR: {apres}sournois/sournoise
+
+EN: [_number_or_qualifier_] the Special
+FR: {apres}spécial/spéciale
+
+EN: [_number_or_qualifier_] the Thirsty
+FR: {apres}assoiffé/assoiffée
+
+EN: [_number_or_qualifier_] the Thoughtful
+FR: {apres}pensif/pensive
+
+EN: [_number_or_qualifier_] the Tired
+FR: {apres}fatigué/fatiguée
+
+EN: [_number_or_qualifier_] the Unstoppable
+FR: {apres}imparable/imparable
+
+EN: [_number_or_qualifier_] the Vanishing
+FR: {apres}évanescent/évanescente
+
+EN: [_number_or_qualifier_] the Wary
+FR: {apres}prudent/prudente
+
+EN: [_number_or_qualifier_] the Well-Known
+FR: {apres}célèbre/célèbre
+
+EN: [_thing_names_] Allies
+FR: {mp}Alliés
+
+EN: [_thing_names_] Artisans
+FR: {mp}Artisans
+
+EN: [_thing_names_] Artists
+FR: {mp}Artistes
+
+EN: [_thing_names_] Beasts
+FR: {fp}Bêtes
+
+EN: [_thing_names_] Beds
+FR: {mp}Lits
+
+EN: [_thing_names_] Beggars
+FR: {mp}Mendiants
+
+EN: [_thing_names_] Blessings
+FR: {fp}Bénédictions
+
+EN: [_thing_names_] Bones
+FR: {mp}Os
+
+EN: [_thing_names_] Bounties
+FR: {fp}Récompenses
+
+EN: [_thing_names_] Brambles
+FR: {fp}Ronces
+
+EN: [_thing_names_] Cities
+FR: {fp}Cités
+
+EN: [_thing_names_] Coins
+FR: {fp}Pièces
+
+EN: [_thing_names_] Continents
+FR: {mp}Continents
+
+EN: [_thing_names_] Curses
+FR: {fp}Malédictions
+
+EN: [_thing_names_] Dances
+FR: {fp}Danses
+
+EN: [_thing_names_] Deaths
+FR: {fp}Morts
+
+EN: [_thing_names_] Defenders
+FR: {mp}Défenseurs
+
+EN: [_thing_names_] Domains
+FR: {mp}Domaines
+
+EN: [_thing_names_] Demons
+FR: {mp}Démons
+
+EN: [_thing_names_] Dreams
+FR: {mp}Rêves
+
+EN: [_thing_names_] Ears
+FR: {fp}Oreilles
+
+EN: [_thing_names_] Emperors
+FR: {mp}Empereurs
+
+EN: [_thing_names_] Eyes
+FR: {mp}Yeux
+
+EN: [_thing_names_] Friends
+FR: {mp}Amis
+
+EN: [_thing_names_] Friars
+FR: {mp}Frères
+
+EN: [_thing_names_] Geomancers
+FR: {mp}Géomanciens
+
+EN: [_thing_names_] Ghosts
+FR: {mp}Fantômes
+
+EN: [_thing_names_] Gods
+FR: {mp}Dieux
+
+EN: [_thing_names_] Heavens
+FR: {mp}Cieux
+
+EN: [_thing_names_] Hells
+FR: {mp}Enfers
+
+EN: [_thing_names_] Hosts
+FR: {fp}Armées
+
+EN: [_thing_names_] Interlopers
+FR: {mp}Intrus
+
+EN: [_thing_names_] Invaders
+FR: {mp}Envahisseurs
+
+EN: [_thing_names_] Knaves
+FR: {mp}Fripons
+
+EN: [_thing_names_] Knives
+FR: {mp}Couteaux
+
+EN: [_thing_names_] Leylines
+FR: {fp}Lignes telluriques
+
+EN: [_thing_names_] Lies
+FR: {mp}Mensonges
+
+EN: [_thing_names_] Lives
+FR: {fp}Vies
+
+EN: [_thing_names_] Loafs
+FR: {mp}Pains
+
+EN: [_thing_names_] Lovers
+FR: {mp}Amants
+
+EN: [_thing_names_] Mice
+FR: {fp}Souris
+
+EN: [_thing_names_] Moons
+FR: {fp}Lunes
+
+EN: [_thing_names_] Mouths
+FR: {fp}Bouches
+
+EN: [_thing_names_] Mystics
+FR: {mp}Mystiques
+
+EN: [_thing_names_] Nightcaps
+FR: {mp}Bonnets de nuit
+
+EN: [_thing_names_] Nightingales
+FR: {mp}Rossignols
+
+EN: [_thing_names_] Nightmares
+FR: {mp}Cauchemars
+
+EN: [_thing_names_] Nights
+FR: {fp}Nuits
+
+EN: [_thing_names_] Olives
+FR: {fp}Olives
+
+EN: [_thing_names_] Orbs
+FR: {mp}Orbes
+
+EN: [_thing_names_] People
+FR: {mp}Peuples
+
+EN: [_thing_names_] Persimmons
+FR: {mp}Kakis
+
+EN: [_thing_names_] Places
+FR: {mp}Lieux
+
+EN: [_thing_names_] Planets
+FR: {fp}Planètes
+
+EN: [_thing_names_] Portals
+FR: {mp}Portails
+
+EN: [_thing_names_] Priests
+FR: {mp}Prêtres
+
+EN: [_thing_names_] Princes
+FR: {mp}Princes
+
+EN: [_thing_names_] Prophets
+FR: {mp}Prophètes
+
+EN: [_thing_names_] Queens
+FR: {fp}Reines
+
+EN: [_thing_names_] Quests
+FR: {fp}Quêtes
+
+EN: [_thing_names_] Realms
+FR: {mp}Royaumes
+
+EN: [_thing_names_] Runes
+FR: {fp}Runes
+
+EN: [_thing_names_] Scars
+FR: {fp}Cicatrices
+
+EN: [_thing_names_] Seas
+FR: {fp}Mers
+
+EN: [_thing_names_] Seers
+FR: {mp}Voyants
+
+EN: [_thing_names_] Servitors
+FR: {mp}Serviteurs
+
+EN: [_thing_names_] Ships
+FR: {mp}Navires
+
+EN: [_thing_names_] Shrikes
+FR: {fp}Pies-grièches
+
+EN: [_thing_names_] Songs
+FR: {mp}Chants
+
+EN: [_thing_names_] Souls
+FR: {fp}Âmes
+
+EN: [_thing_names_] Spines
+FR: {fp}Échines
+
+EN: [_thing_names_] Spirits
+FR: {mp}Esprits
+
+EN: [_thing_names_] Spreadsheets
+FR: {mp}Tableurs
+
+EN: [_thing_names_] Stars
+FR: {fp}Étoiles
+
+EN: [_thing_names_] Stories
+FR: {fp}Histoires
+
+EN: [_thing_names_] Suns
+FR: {mp}Soleils
+
+EN: [_thing_names_] Tables
+FR: {fp}Tables
+
+EN: [_thing_names_] Tales
+FR: {mp}Contes
+
+EN: [_thing_names_] Teeth
+FR: {fp}Dents
+
+EN: [_thing_names_] Thickets
+FR: {mp}Fourrés
+
+EN: [_thing_names_] Things
+FR: {fp}Choses
+
+EN: [_thing_names_] Towns
+FR: {fp}Villes
+
+EN: [_thing_names_] Tusks
+FR: {fp}Défenses
+
+EN: [_thing_names_] Ultimatums
+FR: {mp}Ultimatums
+
+EN: [_thing_names_] Underlurkers
+FR: {mp}Underlurkers
+
+EN: [_thing_names_] Villages
+FR: {mp}Villages
+
+EN: [_thing_names_] Violins
+FR: {mp}Violons
+
+EN: [_thing_names_] Visionaries
+FR: {mp}Visionnaires
+
+EN: [_thing_names_] Visions
+FR: {fp}Visions
+
+EN: [_thing_names_] Wars
+FR: {fp}Guerres
+
+EN: [_thing_names_] Wishes
+FR: {mp}Vœux
+
+EN: [_thing_names_] Wonders
+FR: {fp}Merveilles
+
+EN: [_thing_names_] Xalams
+FR: {mp}Xalams
+
+EN: [_thing_names_] Xenops
+FR: {mp}Xenops
+
+EN: [_thing_names_] Xeniums
+FR: {mp}Xeniums
+
+EN: [_thing_names_] Xenophobes
+FR: {mp}Xénophobes
+
+EN: [_thing_names_] Yaks
+FR: {mp}Yaks
+
+EN: [_thing_names_] Youths
+FR: {fp}Jeunesses
+
+EN: [_thing_names_] Ziggurats
+FR: {mp}Ziggurats
+
+EN: [_verbing_] Ageing
+FR: vieillissant/vieillissante
+
+EN: [_verbing_] Baking
+FR: cuisant/cuisante
+
+EN: [_verbing_] Bedazzling
+FR: éblouissant/éblouissante
+
+EN: [_verbing_] Bedighting
+FR: parant/parante
+
+EN: [_verbing_] Bespelling
+FR: ensorcelant/ensorcelante
+
+EN: [_verbing_] Blushing
+FR: rougissant/rougissante
+
+EN: [_verbing_] Breathing
+FR: respirant/respirante
+
+EN: [_verbing_] Brewing
+FR: infusant/infusante
+
+EN: [_verbing_] Building
+FR: bâtissant/bâtissante
+
+EN: [_verbing_] Burning
+FR: brûlant/brûlante
+
+EN: [_verbing_] Bursting
+FR: éclatant/éclatante
+
+EN: [_verbing_] Changing
+FR: changeant/changeante
+
+EN: [_verbing_] Charming
+FR: charmant/charmante
+
+EN: [_verbing_] Chewing
+FR: mâchant/mâchante
+
+EN: [_verbing_] Conjuring
+FR: conjurant/conjurante
+
+EN: [_verbing_] Crafting
+FR: façonnant/façonnante
+
+EN: [_verbing_] Cursing
+FR: maudissant/maudissante
+
+EN: [_verbing_] Dancing
+FR: dansant/dansante
+
+EN: [_verbing_] Destroying
+FR: détruisant/détruisante
+
+EN: [_verbing_] Devouring
+FR: dévorant/dévorante
+
+EN: [_verbing_] Disbelieving
+FR: incrédule
+
+EN: [_verbing_] Dripping
+FR: dégoulinant/dégoulinante
+
+EN: [_verbing_] Enchanting
+FR: enchanteur/enchanteresse
+
+EN: [_verbing_] Enfolding
+FR: enveloppant/enveloppante
+
+EN: [_verbing_] Feeding
+FR: nourrissant/nourrissante
+
+EN: [_verbing_] Flying
+FR: volant/volante
+
+EN: [_verbing_] Forging
+FR: forgeant/forgeante
+
+EN: [_verbing_] Fortifying
+FR: fortifiant/fortifiante
+
+EN: [_verbing_] Freezing
+FR: glaçant/glaçante
+
+EN: [_verbing_] Gazing
+FR: contemplant/contemplante
+
+EN: [_verbing_] Glimmering
+FR: miroitant/miroitante
+
+EN: [_verbing_] Glowing
+FR: rougeoyant/rougeoyante
+
+EN: [_verbing_] Gnashing
+FR: grinçant/grinçante
+
+EN: [_verbing_] Grinning
+FR: ricanant/ricanante
+
+EN: [_verbing_] Growing
+FR: croissant/croissante
+
+EN: [_verbing_] Hammering
+FR: martelant/martelante
+
+EN: [_verbing_] Healing
+FR: guérisseur/guérisseuse
+
+EN: [_verbing_] Holding
+FR: tenant/tenante
+
+EN: [_verbing_] Howling
+FR: hurlant/hurlante
+
+EN: [_verbing_] Hugging
+FR: étreignant/étreignante
+
+EN: [_verbing_] Hungering
+FR: affamé/affamée
+
+EN: [_verbing_] Hurling
+FR: lançant/lançante
+
+EN: [_verbing_] Hurting
+FR: blessant/blessante
+
+EN: [_verbing_] Hurtling
+FR: fonçant/fonçante
+
+EN: [_verbing_] Imbibing
+FR: buvant/buvante
+
+EN: [_verbing_] Inviting
+FR: invitant/invitante
+
+EN: [_verbing_] Jumping
+FR: sautant/sautante
+
+EN: [_verbing_] Kissing
+FR: embrassant/embrassante
+
+EN: [_verbing_] Keeping
+FR: gardant/gardante
+
+EN: [_verbing_] Leaping
+FR: bondissant/bondissante
+
+EN: [_verbing_] Loving
+FR: aimant/aimante
+
+EN: [_verbing_] Lusting
+FR: concupiscent/concupiscente
+
+EN: [_verbing_] Malding
+FR: enrageant/enrageante
+
+EN: [_verbing_] Mauling
+FR: mutilant/mutilante
+
+EN: [_verbing_] Mashing
+FR: broyant/broyante
+
+EN: [_verbing_] Muttering
+FR: marmonnant/marmonnante
+
+EN: [_verbing_] Nurturing
+FR: nourricier/nourricière
+
+EN: [_verbing_] Protecting
+FR: protecteur/protectrice
+
+EN: [_verbing_] Rescuing
+FR: salvateur/salvatrice
+
+EN: [_verbing_] Riding
+FR: chevauchant/chevauchante
+
+EN: [_verbing_] Scorching
+FR: torride
+
+EN: [_verbing_] Screaming
+FR: criant/criante
+
+EN: [_verbing_] Sharing
+FR: partageant/partageante
+
+EN: [_verbing_] Sheltering
+FR: abritant/abritante
+
+EN: [_verbing_] Shifting
+FR: mouvant/mouvante
+
+EN: [_verbing_] Shimmering
+FR: chatoyant/chatoyante
+
+EN: [_verbing_] Shouting
+FR: vociférant/vociférante
+
+EN: [_verbing_] Shrinking
+FR: rétrécissant/rétrécissante
+
+EN: [_verbing_] Singing
+FR: chantant/chantante
+
+EN: [_verbing_] Smoking
+FR: fumant/fumante
+
+EN: [_verbing_] Stopping
+FR: arrêtant/arrêtante
+
+EN: [_verbing_] Summoning
+FR: invoquant/invoquante
+
+EN: [_verbing_] Supporting
+FR: soutenant/soutenante
+
+EN: [_verbing_] Teaching
+FR: enseignant/enseignante
+
+EN: [_verbing_] Telling
+FR: racontant/racontante
+
+EN: [_verbing_] Thieving
+FR: voleur/voleuse
+
+EN: [_verbing_] Threshing
+FR: battant/battante
+
+EN: [_verbing_] Transmuting
+FR: transmutant/transmutante
+
+EN: [_verbing_] Twisting
+FR: tordant/tordante
+
+EN: [_verbing_] Uplifting
+FR: édifiant/édifiante
+
+EN: [_verbing_] Usurping
+FR: usurpateur/usurpatrice
+
+EN: [_verbing_] Winnowing
+FR: vannant/vannante
+
+EN: [_verbing_] Witching
+FR: envoûtant/envoûtante
+
+EN: [_verbing_] Wizarding
+FR: magique
+
+EN: [_verbing_] Writhing
+FR: contorsionné/contorsionnée
+
+EN: [_verbing_] Bashing
+FR: fracassant/fracassante
+
+EN: [_verbing_] Slashing
+FR: tranchant/tranchante
+
+EN: [_verbing_] Piercing
+FR: perçant/perçante
+
+EN: [_adjective_] Blue
+FR: bleu/bleue
+
+EN: [_adjective_] Green
+FR: vert/verte
+
+EN: [_adjective_] Red
+FR: rouge
+
+EN: [_adjective_] Amorous
+FR: amoureux/amoureuse
+
+EN: [_adjective_] Antique
+FR: antique
+
+EN: [_adjective_] Arcadian
+FR: arcadien/arcadienne
+
+EN: [_adjective_] Avant Garde
+FR: avant-gardiste
+
+EN: [_adjective_] Baleful
+FR: funeste
+
+EN: [_adjective_] Barnacled
+FR: incrusté/incrustée
+
+EN: [_adjective_] Beastly
+FR: bestial/bestiale
+
+EN: [_adjective_] Bedazzled
+FR: ébloui/éblouie
+
+EN: [_adjective_] Bellicose
+FR: belliqueux/belliqueuse
+
+EN: [_adjective_] Beloved
+FR: bien-aimé/bien-aimée
+
+EN: [_adjective_] Bequeathed
+FR: légué/léguée
+
+EN: [_adjective_] Bespelled
+FR: ensorcelé/ensorcelée
+
+EN: [_adjective_] Bright
+FR: brillant/brillante
+
+EN: [_adjective_] Burning
+FR: brûlant/brûlante
+
+EN: [_adjective_] Bursted
+FR: éclaté/éclatée
+
+EN: [_adjective_] Burnt
+FR: brûlé/brûlée
+
+EN: [_adjective_] Carved
+FR: sculpté/sculptée
+
+EN: [_adjective_] Caustic
+FR: caustique
+
+EN: [_adjective_] Clean
+FR: propre
+
+EN: [_adjective_] Cleverly Designed
+FR: ingénieux/ingénieuse
+
+EN: [_adjective_] Charmed
+FR: charmé/charmée
+
+EN: [_adjective_] Charred
+FR: carbonisé/carbonisée
+
+EN: [_adjective_] Contumacious
+FR: rebelle
+
+EN: [_adjective_] Damp
+FR: humide
+
+EN: [_adjective_] Decaying
+FR: pourrissant/pourrissante
+
+EN: [_adjective_] Deeply Unsettling
+FR: inquiétant/inquiétante
+
+EN: [_adjective_] Delicate
+FR: délicat/délicate
+
+EN: [_adjective_] Delightful
+FR: délicieux/délicieuse
+
+EN: [_adjective_] Demonic
+FR: démoniaque
+
+EN: [_adjective_] Divine
+FR: divin/divine
+
+EN: [_adjective_] Doomed
+FR: condamné/condamnée
+
+EN: [_adjective_] Dowdy
+FR: fade
+
+EN: [_adjective_] Dull
+FR: terne
+
+EN: [_adjective_] Durable
+FR: durable
+
+EN: [_adjective_] Enormous
+FR: énorme
+
+EN: [_adjective_] Ethereal
+FR: éthéré/éthérée
+
+EN: [_adjective_] Exceptional
+FR: exceptionnel/exceptionnelle
+
+EN: [_adjective_] Extremely Toothy
+FR: carnassier/carnassière
+
+EN: [_adjective_] Eye-covered
+FR: oculé/oculée
+
+EN: [_adjective_] Fabulous
+FR: fabuleux/fabuleuse
+
+EN: [_adjective_] Fae
+FR: féerique
+
+EN: [_adjective_] Feral
+FR: sauvage
+
+EN: [_adjective_] Ferocious
+FR: féroce
+
+EN: [_adjective_] Festooned
+FR: festonné/festonnée
+
+EN: [_adjective_] Filigreed
+FR: filigrané/filigranée
+
+EN: [_adjective_] Floral
+FR: floral/florale
+
+EN: [_adjective_] Freezing
+FR: glacial/glaciale
+
+EN: [_adjective_] Fresh
+FR: frais/fraîche
+
+EN: [_adjective_] Futuristic
+FR: futuriste
+
+EN: [_adjective_] Fuzzy
+FR: duveteux/duveteuse
+
+EN: [_adjective_] Ghostly
+FR: spectral/spectrale
+
+EN: [_adjective_] Glamorous
+FR: élégant/élégante
+
+EN: [_adjective_] Golden
+FR: doré/dorée
+
+EN: [_adjective_] Grand
+FR: grand/grande
+
+EN: [_adjective_] Grim
+FR: sinistre
+
+EN: [_adjective_] Hairy
+FR: poilu/poilue
+
+EN: [_adjective_] Haunted
+FR: hanté/hantée
+
+EN: [_adjective_] Histrionic
+FR: histrionique
+
+EN: [_adjective_] Impassible
+FR: impassible
+
+EN: [_adjective_] Impish
+FR: espiègle
+
+EN: [_adjective_] Indestructible
+FR: indestructible
+
+EN: [_adjective_] Intense
+FR: intense
+
+EN: [_adjective_] Irksome
+FR: agaçant/agaçante
+
+EN: [_adjective_] Jocular
+FR: badin/badine
+
+EN: [_adjective_] Lachrymose
+FR: larmoyant/larmoyante
+
+EN: [_adjective_] Living
+FR: vivant/vivante
+
+EN: [_adjective_] Majestic
+FR: majestueux/majestueuse
+
+EN: [_adjective_] Meager
+FR: maigre
+
+EN: [_adjective_] Modern
+FR: moderne
+
+EN: [_adjective_] Mordant
+FR: mordant/mordante
+
+EN: [_adjective_] Narrow
+FR: étroit/étroite
+
+EN: [_adjective_] Nice
+FR: agréable
+
+EN: [_adjective_] Noxious
+FR: nocif/nocive
+
+EN: [_adjective_] Oily
+FR: huileux/huileuse
+
+EN: [_adjective_] Ornamental
+FR: ornemental/ornementale
+
+EN: [_adjective_] Painted
+FR: peint/peinte
+
+EN: [_adjective_] Parsimonious
+FR: parcimonieux/parcimonieuse
+
+EN: [_adjective_] Powerful
+FR: puissant/puissante
+
+EN: [_adjective_] Puckish
+FR: malicieux/malicieuse
+
+EN: [_adjective_] Quiescent
+FR: quiescent/quiescente
+
+EN: [_adjective_] Quick
+FR: rapide
+
+EN: [_adjective_] Reasonable
+FR: raisonnable
+
+EN: [_adjective_] Resonant
+FR: résonnant/résonnante
+
+EN: [_adjective_] Rotten
+FR: pourri/pourrie
+
+EN: [_adjective_] Sandy
+FR: sablonneux/sablonneuse
+
+EN: [_adjective_] Scuffed
+FR: éraflé/éraflée
+
+EN: [_adjective_] Sharp
+FR: aiguisé/aiguisée
+
+EN: [_adjective_] Shrieking
+FR: strident/stridente
+
+EN: [_adjective_] Silly
+FR: sot/sotte
+
+EN: [_adjective_] Slimy
+FR: visqueux/visqueuse
+
+EN: [_adjective_] Solemn
+FR: solennel/solennelle
+
+EN: [_adjective_] Soft
+FR: doux/douce
+
+EN: [_adjective_] Squeaky
+FR: couinant/couinante
+
+EN: [_adjective_] Stained
+FR: taché/tachée
+
+EN: [_adjective_] Sufficient
+FR: suffisant/suffisante
+
+EN: [_adjective_] Tentacled
+FR: tentaculaire
+
+EN: [_adjective_] Terrible
+FR: terrible
+
+EN: [_adjective_] Toothy
+FR: denté/dentée
+
+EN: [_adjective_] Tortured
+FR: torturé/torturée
+
+EN: [_adjective_] Transparent
+FR: transparent/transparente
+
+EN: [_adjective_] Ubiquitous
+FR: omniprésent/omniprésente
+
+EN: [_adjective_] Unbearable
+FR: insupportable
+
+EN: [_adjective_] Verdant
+FR: verdoyant/verdoyante
+
+EN: [_adjective_] Viny
+FR: sarmenteux/sarmenteuse
+
+EN: [_adjective_] Voracious
+FR: vorace
+
+EN: [_adjective_] Weak
+FR: faible
+
+EN: [_adjective_] Wicked
+FR: méchant/méchante
+
+EN: [_adjective_] Wonderful
+FR: merveilleux/merveilleuse
+
+EN: [_adjective_] Zealous
+FR: zélé/zélée
+
+EN: [_fruit_name_] Orange
+FR: {fs}Orange
+
+EN: [_fruit_name_] Banana
+FR: {fs}Banane
+
+EN: [_fruit_name_] Banana Bread
+FR: {ms}Pain à la banane
+
+EN: [_fruit_name_] Pear
+FR: {fs}Poire
+
+EN: [_fruit_name_] Apple
+FR: {fs}Pomme
+
+EN: [_fruit_name_] Apricot
+FR: {ms}Abricot
+
+EN: [_fruit_name_] Tomato
+FR: {fs}Tomate
+
+EN: [_fruit_name_] Peach
+FR: {fs}Pêche
+
+EN: [_fruit_name_] Plum
+FR: {fs}Prune
+
+EN: [_fruit_name_] Rambutan
+FR: {ms}Ramboutan
+
+EN: [_fruit_name_] Lychee
+FR: {ms}Litchi
+
+EN: [_fruit_name_] Mango
+FR: {fs}Mangue
+
+EN: [_fruit_name_] Watermelon
+FR: {fs}Pastèque
+
+EN: [_fruit_name_] Rockmelon
+FR: {ms}Cantaloup
+
+EN: [_fruit_name_] Strawberry
+FR: {fs}Fraise
+
+EN: [_fruit_name_] Coconut
+FR: {fs}Noix de coco
+
+EN: [_fruit_name_] Breadfruit
+FR: {ms}Fruit à pain
+
+EN: [_fruit_name_] Eggfruit
+FR: {ms}Canistel
+
+EN: [_fruit_name_] Dragonfruit
+FR: {ms}Fruit du dragon
+
+EN: [_fruit_name_] Durian
+FR: {ms}Durian
+
+EN: [_fruit_name_] Jackfruit
+FR: {ms}Jaque
+
+EN: [_fruit_name_] Longan
+FR: {ms}Longane
+
+EN: [_fruit_name_] Tamarind
+FR: {ms}Tamarin
+
+EN: [_fruit_name_] Guava
+FR: {fs}Goyave
+
+EN: [_fruit_name_] Mangosteen
+FR: {ms}Mangoustan
+
+EN: [_fruit_name_] Soursop
+FR: {ms}Corossol
+
+EN: [_fruit_name_] Tangerine
+FR: {fs}Mandarine
+
+EN: [_fruit_name_] Cherry
+FR: {fs}Cerise
+
+EN: [_fruit_name_] Grape
+FR: {ms}Raisin
+
+EN: [_fruit_name_] Sultana
+FR: {fs}Sultanine
+
+EN: [_fruit_name_] Fig
+FR: {fs}Figue
+
+EN: [_fruit_name_] Date
+FR: {fs}Datte
+
+EN: [_fruit_name_] Lemon
+FR: {ms}Citron
+
+EN: [_fruit_name_] Lime
+FR: {ms}Citron vert
+
+EN: [_fruit_name_] Medlar
+FR: {fs}Nèfle
+
+EN: [_armour_animal_] Amoeba
+FR: {fs}Amibe
+
+EN: [_armour_animal_] Tardigrade
+FR: {ms}Tardigrade
+
+EN: [_armour_animal_] Ant
+FR: {fs}Fourmi
+
+EN: [_armour_animal_] Butterfly
+FR: {ms}Papillon
+
+EN: [_armour_animal_] Cicada
+FR: {fs}Cigale
+
+EN: [_armour_animal_] Cockroach
+FR: {ms}Cafard
+
+EN: [_armour_animal_] Cricket
+FR: {ms}Grillon
+
+EN: [_armour_animal_] Ladybird
+FR: {fs}Coccinelle
+
+EN: [_armour_animal_] Locust
+FR: {fs}Sauterelle
+
+EN: [_armour_animal_] Louse
+FR: {ms}Pou
+
+EN: [_armour_animal_] Mantidfly
+FR: {fs}Mantispe
+
+EN: [_armour_animal_] Tick
+FR: {fs}Tique
+
+EN: [_armour_animal_] Centipede
+FR: {fs}Scolopendre
+
+EN: [_armour_animal_] Cuttlefish
+FR: {fs}Seiche
+
+EN: [_armour_animal_] Gastropod
+FR: {ms}Gastéropode
+
+EN: [_armour_animal_] Slug
+FR: {fs}Limace
+
+EN: [_armour_animal_] Snail
+FR: {ms}Escargot
+
+EN: [_armour_animal_] Trilobite
+FR: {ms}Trilobite
+
+EN: [_armour_animal_] Worm
+FR: {ms}Ver
+
+EN: [_armour_animal_] Barnacle
+FR: {fs}Anatife
+
+EN: [_armour_animal_] Clam
+FR: {fs}Palourde
+
+EN: [_armour_animal_] Lobster
+FR: {ms}Homard
+
+EN: [_armour_animal_] Quahog
+FR: {ms}Quahog
+
+EN: [_armour_animal_] Tarantula
+FR: {fs}Tarentule
+
+EN: [_armour_animal_] Frog
+FR: {fs}Grenouille
+
+EN: [_armour_animal_] Komodo Dragon
+FR: {ms}Dragon de Komodo
+
+EN: [_armour_animal_] Lizard
+FR: {ms}Lézard
+
+EN: [_armour_animal_] Salamander
+FR: {fs}Salamandre
+
+EN: [_armour_animal_] Serpent
+FR: {ms}Serpent
+
+EN: [_armour_animal_] Turtle
+FR: {fs}Tortue
+
+EN: [_armour_animal_] Barracuda
+FR: {ms}Barracuda
+
+EN: [_armour_animal_] Catfish
+FR: {ms}Poisson-chat
+
+EN: [_armour_animal_] Cichlid
+FR: {ms}Cichlidé
+
+EN: [_armour_animal_] Mackerel
+FR: {ms}Maquereau
+
+EN: [_armour_animal_] Marlin
+FR: {ms}Marlin
+
+EN: [_armour_animal_] Salmon
+FR: {ms}Saumon
+
+EN: [_armour_animal_] Sturgeon
+FR: {ms}Esturgeon
+
+EN: [_armour_animal_] Sunfish
+FR: {ms}Poisson-lune
+
+EN: [_armour_animal_] Trout
+FR: {fs}Truite
+
+EN: [_armour_animal_] Tuna
+FR: {ms}Thon
+
+EN: [_armour_animal_] Albatross
+FR: {ms}Albatros
+
+EN: [_armour_animal_] Eagle
+FR: {ms}Aigle
+
+EN: [_armour_animal_] Falcon
+FR: {ms}Faucon
+
+EN: [_armour_animal_] Heron
+FR: {ms}Héron
+
+EN: [_armour_animal_] Meadowlark
+FR: {fs}Sturnelle
+
+EN: [_armour_animal_] Nightingale
+FR: {ms}Rossignol
+
+EN: [_armour_animal_] Raven
+FR: {ms}Corbeau
+
+EN: [_armour_animal_] Robin
+FR: {ms}Rouge-gorge
+
+EN: [_armour_animal_] Shrike
+FR: {fs}Pie-grièche
+
+EN: [_armour_animal_] Sparrow
+FR: {ms}Moineau
+
+EN: [_armour_animal_] Swan
+FR: {ms}Cygne
+
+EN: [_armour_animal_] Turtledove
+FR: {fs}Tourterelle
+
+EN: [_armour_animal_] Bull
+FR: {ms}Taureau
+
+EN: [_armour_animal_] Camelopard
+FR: {ms}Camélopard
+
+EN: [_armour_animal_] Catamount
+FR: {ms}Couguar
+
+EN: [_armour_animal_] Dolphin
+FR: {ms}Dauphin
+
+EN: [_armour_animal_] Echidna
+FR: {ms}Échidné
+
+EN: [_armour_animal_] Elephant
+FR: {ms}Éléphant
+
+EN: [_armour_animal_] Hart
+FR: {ms}Cerf
+
+EN: [_armour_animal_] Hippo
+FR: {ms}Hippopotame
+
+EN: [_armour_animal_] Kangaroo
+FR: {ms}Kangourou
+
+EN: [_armour_animal_] Lion
+FR: {ms}Lion
+
+EN: [_armour_animal_] Monkey
+FR: {ms}Singe
+
+EN: [_armour_animal_] Okapi
+FR: {ms}Okapi
+
+EN: [_armour_animal_] Stag
+FR: {ms}Cervidé
+
+EN: [_armour_animal_] Stallion
+FR: {ms}Étalon
+
+EN: [_armour_animal_] Zebra
+FR: {ms}Zèbre
+
+EN: [_armour_animal_] Circus Animal
+FR: {ms}Animal de cirque
+
+EN: [_armour_animal_] Monkey's Uncle
+FR: {ms}Oncle du singe
+
+EN: [_armour_animal_] Centaur
+FR: {ms}Centaure
+
+EN: [_armour_animal_] Cockatrice
+FR: {fs}Cockatrice
+
+EN: [_armour_animal_] Chimera
+FR: {fs}Chimère
+
+EN: [_armour_animal_] Dragon
+FR: {ms}Dragon
+
+EN: [_armour_animal_] Griffon
+FR: {ms}Griffon
+
+EN: [_armour_animal_] Hecatoncheires
+FR: {mp}Hécatonchires
+
+EN: [_armour_animal_] Hippogriff
+FR: {ms}Hippogriffe
+
+EN: [_armour_animal_] Kraken
+FR: {ms}Kraken
+
+EN: [_armour_animal_] Leogriff
+FR: {ms}Léogriffe
+
+EN: [_armour_animal_] Nuckelavee
+FR: {ms}Nuckelavee
+
+EN: [_armour_animal_] Pooka
+FR: {ms}Pooka
+
+EN: [_armour_animal_] Quinotaur
+FR: {ms}Quinotaure
+
+EN: [_armour_animal_] Sea Goat
+FR: {fs}Chèvre de mer
+
+EN: [_armour_animal_] Skiapode
+FR: {ms}Sciapode
+
+EN: [_armour_animal_] Unicorn
+FR: {fs}Licorne
+
+EN: [_armour_animal_] Akabeko
+FR: {ms}Akabeko
+
+EN: [_armour_animal_] Baku
+FR: {ms}Baku
+
+EN: [_armour_animal_] Byakko
+FR: {ms}Byakko
+
+EN: [_armour_animal_] Ikuchi
+FR: {ms}Ikuchi
+
+EN: [_armour_animal_] Kappa
+FR: {ms}Kappa
+
+EN: [_armour_animal_] Kitsune
+FR: {ms}Kitsune
+
+EN: [_armour_animal_] Kodama
+FR: {ms}Kodama
+
+EN: [_armour_animal_] Oni
+FR: {ms}Oni
+
+EN: [_armour_animal_] Shishi
+FR: {ms}Shishi
+
+EN: [_armour_animal_] Tsukumogami
+FR: {ms}Tsukumogami
+
+EN: [_armour_animal_] Carbunclo
+FR: {ms}Carbunclo
+
+EN: [_armour_animal_] Cherruve
+FR: {ms}Cherruve
+
+EN: [_armour_animal_] Cuero
+FR: {ms}Cuero
+
+EN: [_armour_animal_] Curupira
+FR: {ms}Curupira
+
+EN: [_armour_animal_] Ebigane
+FR: {ms}Ebigane
+
+EN: [_armour_animal_] Gasogonaga
+FR: {ms}Gasogonaga
+
+EN: [_armour_animal_] Mpinguari
+FR: {ms}Mpinguari
+
+EN: [_armour_animal_] Tapire-iauara
+FR: {ms}Tapire-iauara
+
+EN: [_armour_animal_] Biloko
+FR: {ms}Biloko
+
+EN: [_armour_animal_] Guiamala
+FR: {ms}Guiamala
+
+EN: [_armour_animal_] Impundulu
+FR: {ms}Impundulu
+
+EN: [_armour_animal_] Isitwalangcengce
+FR: {ms}Isitwalangcengce
+
+EN: [_armour_animal_] Nkala
+FR: {ms}Nkala
+
+EN: [_armour_animal_] Zankallala
+FR: {ms}Zankallala
+
+EN: [_armour_animal_] Bakunawa
+FR: {ms}Bakunawa
+
+EN: [_armour_animal_] Minokawa
+FR: {ms}Minokawa
+
+EN: [_armour_animal_] Armchairtaur
+FR: {ms}Armchairtaur
+
+EN: [_armour_animal_] Giraffataur
+FR: {ms}Giraffataur
+
+EN: [_armour_animal_] Elephantaur
+FR: {ms}Elephantaur
+
+EN: [_armour_animal_] Mertaur
+FR: {ms}Mertaur
+
+EN: [_armour_animal_] Merwolf
+FR: {ms}Merwolf
+
+EN: [_armour_animal_] Platytaur
+FR: {ms}Platytaur
+
+EN: [_armour_animal_] Rhinotaur
+FR: {ms}Rhinotaur
+
+EN: [_armour_animal_] Taurataur
+FR: {ms}Taurataur
+
+EN: [_armour_animal_] Treeataur
+FR: {ms}Treeataur
+
+EN: [_armour_animal_] Wereyak
+FR: {ms}Wereyak
+
+EN: [_armour_animal_] Zebrataur
+FR: {ms}Zebrataur
+
+EN: [_armour_animal_] Chupacabra
+FR: {ms}Chupacabra
+
+EN: [_armour_animal_] Dropbear
+FR: {ms}Dropbear
+
+EN: [_armour_animal_] Jackalope
+FR: {ms}Jackalope
+
+EN: [_armour_animal_] Jersey Devil
+FR: {ms}Diable de Jersey
+
+EN: [_armour_animal_] Skvader
+FR: {ms}Skvader
+
+EN: [_armour_animal_] Snallygaster
+FR: {ms}Snallygaster
+
+EN: [_armour_animal_] Tatzelwurm
+FR: {ms}Tatzelwurm
+
+EN: [_armour_animal_] Wild Haggis
+FR: {ms}Haggis sauvage
+
+EN: [_armour_animal_] Yeti
+FR: {ms}Yéti
+
+EN: [_flower_name_] Daffodils
+FR: {fp}Jonquilles
+
+EN: [_flower_name_] Daisies
+FR: {fp}Pâquerettes
+
+EN: [_flower_name_] Lilacs
+FR: {mp}Lilas
+
+EN: [_flower_name_] Periwinkles
+FR: {fp}Pervenches
+
+EN: [_flower_name_] Purple Dead-Nettles
+FR: {mp}Lamiers pourpres
+
+EN: [_flower_name_] Tulips
+FR: {fp}Tulipes
+
+EN: [_flower_name_] Violets
+FR: {fp}Violettes
+
+EN: [_flower_name_] the Garden
+FR: {ms}le Jardin
+
+EN: [_flower_name_] the Horehound
+FR: {ms}le Marrube
+
+EN: [_flower_name_] the Lily
+FR: {ms}le Lys
+
+EN: [_flower_name_] the Lotus Blossom
+FR: {fs}la Fleur de lotus
+
+EN: [_flower_name_] the Rose
+FR: {fs}la Rose
+
+EN: [_flower_name_] the Thistle
+FR: {ms}le Chardon
+
+EN: [_critter_name_] Alphagorgon
+FR: {ms}Alphagorgon
+
+EN: [_critter_name_] Slorg
+FR: {ms}Slorg
+
+EN: [_critter_name_] Eight Boll Weevils
+FR: {mp}Huit Charançons
+
+EN: [_critter_name_] Grue
+FR: {fs}Grue
+
+EN: [_critter_name_] Hot Ocelot
+FR: {ms}Ocelot ardent
+
+EN: [_critter_name_] Jabberwock
+FR: {ms}Jabberwock
+
+EN: [_critter_name_] Were-rabbit
+FR: {ms}Lapin-garou
+
+EN: [_critter_name_] Wumpus
+FR: {ms}Wumpus
+
+EN: [_discomfort_and_inaction_] Bad Feelings
+FR: {mp}Mauvais Pressentiments
+
+EN: [_discomfort_and_inaction_] Bitterness
+FR: {fs}Amertume
+
+EN: [_discomfort_and_inaction_] Disappointment
+FR: {fs}Déception
+
+EN: [_discomfort_and_inaction_] Entitlement
+FR: {fs}Prétention
+
+EN: [_discomfort_and_inaction_] Failure
+FR: {ms}Échec
+
+EN: [_discomfort_and_inaction_] Insecurity
+FR: {fs}Insécurité
+
+EN: [_discomfort_and_inaction_] Minor Irritation
+FR: {fs}Légère Irritation
+
+EN: [_discomfort_and_inaction_] Negation
+FR: {fs}Négation
+
+EN: [_discomfort_and_inaction_] Servitude
+FR: {fs}Servitude
+
+EN: [_discomfort_and_inaction_] Submission
+FR: {fs}Soumission
+
+EN: [_discomfort_and_inaction_] Vexation
+FR: {fs}Vexation
+
+EN: [_discomfort_and_inaction_] Apathy
+FR: {fs}Apathie
+
+EN: [_discomfort_and_inaction_] Boredom
+FR: {ms}Ennui
+
+EN: [_discomfort_and_inaction_] Ennui
+FR: {ms}Spleen
+
+EN: [_discomfort_and_inaction_] Inaction
+FR: {fs}Inaction
+
+EN: [_discomfort_and_inaction_] Lethargy
+FR: {fs}Léthargie
+
+EN: [_discomfort_and_inaction_] Lifelessness
+FR: {fs}Inertie
+
+EN: [_discomfort_and_inaction_] Negligence
+FR: {fs}Négligence
+
+EN: [_discomfort_and_inaction_] Oblivion
+FR: {ms}Oubli
+
+EN: [_discomfort_and_inaction_] Omission
+FR: {fs}Omission
+
+EN: [_discomfort_and_inaction_] Restlessness
+FR: {fs}Agitation
+
+EN: [_discomfort_and_inaction_] the Doldrums
+FR: {mp}les Calmes plats
+
+EN: [_good_or_divine_] Amelioration
+FR: {fs}Amélioration
+
+EN: [_good_or_divine_] Awe
+FR: {fs}Révérence
+
+EN: [_good_or_divine_] Beauty
+FR: {fs}Beauté
+
+EN: [_good_or_divine_] Birdsong
+FR: {ms}Chant d’oiseaux
+
+EN: [_good_or_divine_] Cleverness
+FR: {fs}Ingéniosité
+
+EN: [_good_or_divine_] Contentment
+FR: {ms}Contentement
+
+EN: [_good_or_divine_] Creativity
+FR: {fs}Créativité
+
+EN: [_good_or_divine_] Curiosity
+FR: {fs}Curiosité
+
+EN: [_good_or_divine_] Eucatastrophe
+FR: {fs}Eucatastrophe
+
+EN: [_good_or_divine_] Freedom
+FR: {fs}Liberté
+
+EN: [_good_or_divine_] Fun
+FR: {ms}Amusement
+
+EN: [_good_or_divine_] Happiness
+FR: {ms}Bonheur
+
+EN: [_good_or_divine_] Joy
+FR: {fs}Joie
+
+EN: [_good_or_divine_] Knowledge
+FR: {ms}Savoir
+
+EN: [_good_or_divine_] Leaves
+FR: {fp}Feuilles
+
+EN: [_good_or_divine_] Liberty
+FR: {fs}Indépendance
+
+EN: [_good_or_divine_] Life
+FR: {fs}Vie
+
+EN: [_good_or_divine_] Lucidity
+FR: {fs}Lucidité
+
+EN: [_good_or_divine_] Mirth
+FR: {fs}Gaieté
+
+EN: [_good_or_divine_] Music
+FR: {fs}Musique
+
+EN: [_good_or_divine_] New Discoveries
+FR: {fp}Découvertes nouvelles
+
+EN: [_good_or_divine_] Satisfaction
+FR: {fs}Satisfaction
+
+EN: [_good_or_divine_] Surprise
+FR: {fs}Surprise
+
+EN: [_good_or_divine_] Tender Moments
+FR: {mp}Moments tendres
+
+EN: [_good_or_divine_] Wonder
+FR: {ms}Émerveillement
+
+EN: [_good_or_divine_] the Good
+FR: {ms}le Bien
+
+EN: [_good_or_divine_] the Leaf
+FR: {fs}la Feuille
+
+EN: [_good_or_divine_] Divine Compulsion
+FR: {fs}Contrainte divine
+
+EN: [_good_or_divine_] Divine Intervention
+FR: {fs}Intervention divine
+
+EN: [_good_or_divine_] Intercession
+FR: {fs}Intercession
+
+EN: [_good_or_divine_] Miracles
+FR: {mp}Miracles
+
+EN: [_good_or_divine_] Salvation
+FR: {ms}Salut
+
+EN: [_good_or_divine_] the Invisible Hand
+FR: {fs}la Main invisible
+
+EN: [_good_or_divine_] the Will of the Gods
+FR: {fs}la Volonté des dieux
+
+EN: [_armour_name_shielding_] Complete Protection
+FR: {fs}Protection totale
+
+EN: [_armour_name_shielding_] Death's Door
+FR: {fs}Porte de la Mort
+
+EN: [_armour_name_shielding_] Defence
+FR: {fs}Défense
+
+EN: [_armour_name_shielding_] Exclusion
+FR: {fs}Exclusion
+
+EN: [_armour_name_shielding_] Fortification
+FR: {fs}Fortification
+
+EN: [_armour_name_shielding_] Impermeability
+FR: {fs}Imperméabilité
+
+EN: [_armour_name_shielding_] Inviolability
+FR: {fs}Inviolabilité
+
+EN: [_armour_name_shielding_] Refuge
+FR: {ms}Refuge
+
+EN: [_armour_name_shielding_] Repulsion
+FR: {fs}Répulsion
+
+EN: [_armour_name_shielding_] Shielding
+FR: {ms}Blindage
+
+EN: [_armour_name_shielding_] the Armoured One
+FR: {ms}le Cuirassé
+
+EN: [_armour_name_shielding_] the Bulwark
+FR: {ms}le Rempart
+
+EN: [_armour_name_shielding_] the Gate
+FR: {fs}la Porte
+
+EN: [_armour_name_shielding_] the Saviour
+FR: {ms}le Sauveur
+
+EN: [_armour_name_shielding_] the Stone Wall
+FR: {ms}le Mur de pierre
+
+EN: [_armour_name_shielding_] the Unbroken
+FR: {ms}l’Indompté
+
+EN: [_armour_name_shielding_] the Untouchables
+FR: {mp}les Intouchables
+
+EN: [_armour_name_shielding_] the Ward
+FR: {ms}le Rempart sacré
+
+EN: [_armour_property_name_] Death Resistance
+FR: {fs}Résistance à la mort
+
+EN: [_armour_property_name_] Disguise
+FR: {ms}Déguisement
+
+EN: [_armour_property_name_] Fashionability
+FR: {fs}Élégance
+
+EN: [_armour_property_name_] Fullness
+FR: {fs}Plénitude
+
+EN: [_armour_property_name_] Grace
+FR: {fs}Grâce
+
+EN: [_armour_property_name_] Gravitas
+FR: {fs}Gravité
+
+EN: [_armour_property_name_] Impressiveness
+FR: {fs}Prestance
+
+EN: [_armour_property_name_] Least Resistance
+FR: {fs}Moindre Résistance
+
+EN: [_armour_property_name_] Polish
+FR: {ms}Lustre
+
+EN: [_armour_property_name_] Privacy
+FR: {fs}Intimité
+
+EN: [_armour_property_name_] Protective Custody
+FR: {fs}Garde à vue
+
+EN: [_armour_property_name_] Resilience
+FR: {fs}Résilience
+
+EN: [_armour_property_name_] Shadows and Fog
+FR: {mp}Ombres et Brumes
+
+EN: [_armour_property_name_] Supple Strength
+FR: {fs}Force souple
+
+EN: [_armour_property_name_] Weightlessness
+FR: {fs}Apesanteur
+
+EN: [_wacky_armour_name_] Absence
+FR: {fs}Absence
+
+EN: [_wacky_armour_name_] Anaesthesia
+FR: {fs}Anesthésie
+
+EN: [_wacky_armour_name_] Baldness
+FR: {fs}Calvitie
+
+EN: [_wacky_armour_name_] Compression
+FR: {fs}Compression
+
+EN: [_wacky_armour_name_] Decompression
+FR: {fs}Décompression
+
+EN: [_wacky_armour_name_] Dramatic Exits
+FR: {fp}Sorties théâtrales
+
+EN: [_wacky_armour_name_] Duck's Teeth
+FR: {fp}Dents de canard
+
+EN: [_wacky_armour_name_] Forking Paths
+FR: {mp}Chemins qui bifurquent
+
+EN: [_wacky_armour_name_] Good Intentions
+FR: {fp}Bonnes Intentions
+
+EN: [_wacky_armour_name_] Hadjma
+FR: {ms}Hadjma
+
+EN: [_wacky_armour_name_] Hairiness
+FR: {fs}Pilosité
+
+EN: [_wacky_armour_name_] Hedging
+FR: {fs}Esquive
+
+EN: [_wacky_armour_name_] Hubris
+FR: {fs}Démesure
+
+EN: [_wacky_armour_name_] Incorporation
+FR: {fs}Incorporation
+
+EN: [_wacky_armour_name_] Indecent Exposure
+FR: {fs}Exhibition indécente
+
+EN: [_wacky_armour_name_] Indemnity
+FR: {fs}Indemnité
+
+EN: [_wacky_armour_name_] Limited Liability
+FR: {fs}Responsabilité limitée
+
+EN: [_wacky_armour_name_] Loss
+FR: {fs}Perte
+
+EN: [_wacky_armour_name_] Love and Death
+FR: {ms}Amour et Mort
+
+EN: [_wacky_armour_name_] Mezcal
+FR: {ms}Mezcal
+
+EN: [_wacky_armour_name_] Pathos
+FR: {ms}Pathos
+
+EN: [_wacky_armour_name_] Philately
+FR: {fs}Philatélie
+
+EN: [_wacky_armour_name_] Plasticity
+FR: {fs}Plasticité
+
+EN: [_wacky_armour_name_] Poor Excuses
+FR: {fp}Mauvaises Excuses
+
+EN: [_wacky_armour_name_] Precision Catastrophes
+FR: {fp}Catastrophes précises
+
+EN: [_wacky_armour_name_] Space
+FR: {ms}Espace
+
+EN: [_wacky_armour_name_] Terror
+FR: {fs}Terreur
+
+EN: [_wacky_armour_name_] Thrice Damned Blessings
+FR: {fp}Bénédictions trois fois maudites
+
+EN: [_wacky_armour_name_] Too Many Cooks
+FR: {ms}Trop de Cuisiniers
+
+EN: [_wacky_armour_name_] Untold Secrets
+FR: {mp}Secrets inavoués
+
+EN: [_wacky_armour_name_] Vlad
+FR: {ms}Vlad
+
+EN: [_wacky_armour_name_] Weirdness
+FR: {fs}Étrangeté
+
+EN: [_wacky_armour_name_] the Arcane
+FR: {ms}l’Arcane
+
+EN: [_wacky_armour_name_] the Armadillo
+FR: {ms}le Tatou
+
+EN: [_wacky_armour_name_] the Blind Marksman
+FR: {ms}le Tireur aveugle
+
+EN: [_wacky_armour_name_] the Earth
+FR: {fs}la Terre
+
+EN: [_wacky_armour_name_] the Eternal Fruit
+FR: {ms}le Fruit éternel
+
+EN: [_wacky_armour_name_] the Loofah
+FR: {fs}la Luffa
+
+EN: [_wacky_armour_name_] the Old and Reckless
+FR: {ms}le Vieux Téméraire
+
+EN: [_wacky_armour_name_] the Onion
+FR: {ms}l’Oignon
+
+EN: [_wacky_armour_name_] the Pink Corner
+FR: {ms}le Coin rose
+
+EN: [_wacky_armour_name_] the Plethaurus
+FR: {ms}le Plethaurus
+
+EN: [_wacky_armour_name_] the Road Less Travelled
+FR: {fs}la Route la moins fréquentée
+
+EN: [_wacky_armour_name_] the True Pharaoh
+FR: {ms}le Vrai Pharaon
+
+EN: [_wacky_armour_name_] the Unemployed Unperson
+FR: {ms}le Sans-emploi
+
+EN: [_wacky_armour_name_] the Vacuum
+FR: {ms}le Vide
+
+EN: [_celestial_bodies_] Blue Moon
+FR: {fs}Lune bleue
+
+EN: [_celestial_bodies_] Comet
+FR: {fs}Comète
+
+EN: [_celestial_bodies_] Constellations
+FR: {fp}Constellations
+
+EN: [_celestial_bodies_] Evening Star
+FR: {fs}Étoile du soir
+
+EN: [_celestial_bodies_] Harvest Moon
+FR: {fs}Lune des moissons
+
+EN: [_celestial_bodies_] Midnight Sun
+FR: {ms}Soleil de minuit
+
+EN: [_celestial_bodies_] Moon
+FR: {fs}Lune
+
+EN: [_celestial_bodies_] Morning Star
+FR: {fs}Étoile du matin
+
+EN: [_celestial_bodies_] Northern Lights
+FR: {fp}Aurores boréales
+
+EN: [_celestial_bodies_] Planets
+FR: {fp}Planètes
+
+EN: [_celestial_bodies_] Pleiades
+FR: {fp}Pléiades
+
+EN: [_celestial_bodies_] Stars
+FR: {fp}Étoiles
+
+EN: [_celestial_bodies_] Sun
+FR: {ms}Soleil
+
+EN: [_celestial_bodies_] Black Moon
+FR: {fs}Lune noire
+
+EN: [_instrument_name_] Chimes
+FR: {mp}Carillons
+
+EN: [_instrument_name_] Pan-Flutes
+FR: {fp}Flûtes de Pan
+
+EN: [_instrument_name_] Trumpets
+FR: {fp}Trompettes
+
+EN: [_instrument_name_] the Accordion
+FR: {ms}l’Accordéon
+
+EN: [_instrument_name_] the Bagpipe
+FR: {fs}la Cornemuse
+
+EN: [_instrument_name_] the Bells
+FR: {fp}les Cloches
+
+EN: [_instrument_name_] the Fiddle
+FR: {ms}le Violon
+
+EN: [_instrument_name_] the Fife
+FR: {ms}le Fifre
+
+EN: [_instrument_name_] the Flute
+FR: {fs}la Flûte
+
+EN: [_instrument_name_] the Gusle
+FR: {fs}la Gusle
+
+EN: [_instrument_name_] the Harp
+FR: {fs}la Harpe
+
+EN: [_instrument_name_] the Kazoo
+FR: {ms}le Kazoo
+
+EN: [_instrument_name_] the Kettle-Drum
+FR: {ms}le Timbale
+
+EN: [_instrument_name_] the Lute
+FR: {ms}le Luth
+
+EN: [_instrument_name_] the Trombone
+FR: {ms}le Trombone
+
+EN: [_evil_being_] Demons
+FR: {mp}Démons
+
+EN: [_evil_being_] Greater Demons
+FR: {mp}Démons supérieurs
+
+EN: [_evil_being_] Lesser Demons
+FR: {mp}Démons inférieurs
+
+EN: [_evil_being_] Tempters
+FR: {mp}Tentateurs
+
+EN: [_evil_being_] Vampiric Thralls
+FR: {mp}Esclaves vampiriques
+
+EN: [_evil_being_] the Archfiend
+FR: {ms}l’Archidémon
+
+EN: [_evil_being_] the Demon Prince
+FR: {ms}le Prince démon
+
+EN: [_evil_being_] the Devil
+FR: {ms}le Diable
+
+EN: [_evil_being_] the Devil's Advocate
+FR: {ms}l’Avocat du diable
+
+EN: [_evil_being_] the Devil's Team
+FR: {fs}l’Équipe du diable
+
+EN: [_evil_being_] the Evil One
+FR: {ms}le Malin
+
+EN: [_evil_being_] the Fiend
+FR: {ms}le Démon
+
+EN: [_evil_being_] the Furies
+FR: {fp}les Furies
+
+EN: [_evil_being_] the Imp
+FR: {ms}le Diablotin
+
+EN: [_evil_being_] the Iron Devil
+FR: {ms}le Diable de fer
+
+EN: [_evil_being_] the Lich-sworn
+FR: {ms}le Lich-juré
+
+EN: [_evil_being_] the Little Devil
+FR: {ms}le Petit Diable
+
+EN: [_evil_being_] the Prince of Darkness
+FR: {ms}le Prince des Ténèbres
+
+EN: [_evil_being_] the Tormentor
+FR: {ms}le Tourmenteur
+
+EN: [_evil_being_] the Villain
+FR: {ms}le Scélérat
+
+EN: [_weather_name_] Blue Skies
+FR: {mp}Ciels bleus
+
+EN: [_weather_name_] Boiling Hail
+FR: {fs}Grêle bouillante
+
+EN: [_weather_name_] Chill Winds
+FR: {mp}Vents froids
+
+EN: [_weather_name_] Cloud Cover
+FR: {fs}Couverture nuageuse
+
+EN: [_weather_name_] Dust Devils
+FR: {mp}Diables de poussière
+
+EN: [_weather_name_] Howling Wind
+FR: {ms}Vent hurlant
+
+EN: [_weather_name_] Lightning Storm
+FR: {ms}Orage électrique
+
+EN: [_weather_name_] Perpetual Drought
+FR: {fs}Sécheresse perpétuelle
+
+EN: [_weather_name_] Pleasant Breezes
+FR: {fp}Brises agréables
+
+EN: [_weather_name_] Quiet Fog
+FR: {fs}Brume calme
+
+EN: [_weather_name_] Soft Rains
+FR: {fp}Pluies douces
+
+EN: [_weather_name_] Spring Thaw
+FR: {ms}Dégel printanier
+
+EN: [_weather_name_] the Blizzard
+FR: {ms}le Blizzard
+
+EN: [_weather_name_] the First Snow
+FR: {fs}la Première Neige
+
+EN: [_weather_name_] the Hurricane
+FR: {ms}l’Ouragan
+
+EN: [_weather_name_] the Thunderstorm
+FR: {ms}l’Orage
+
+EN: [_profession_name_] Apprentice
+FR: {ms}Apprenti
+
+EN: [_profession_name_] Apothecary
+FR: {ms}Apothicaire
+
+EN: [_profession_name_] Baker
+FR: {ms}Boulanger
+
+EN: [_profession_name_] Barber Surgeon
+FR: {ms}Barbier-chirurgien
+
+EN: [_profession_name_] Bard
+FR: {ms}Barde
+
+EN: [_profession_name_] Beekeeper
+FR: {ms}Apiculteur
+
+EN: [_profession_name_] Beggar
+FR: {ms}Mendiant
+
+EN: [_profession_name_] Blacksmith
+FR: {ms}Forgeron
+
+EN: [_profession_name_] Buccaneer
+FR: {ms}Boucanier
+
+EN: [_profession_name_] Butcher
+FR: {ms}Boucher
+
+EN: [_profession_name_] Candlemaker
+FR: {ms}Chandelier
+
+EN: [_profession_name_] Carpenter
+FR: {ms}Charpentier
+
+EN: [_profession_name_] Cartwright
+FR: {ms}Charron
+
+EN: [_profession_name_] Cobbler
+FR: {ms}Cordonnier
+
+EN: [_profession_name_] Cooper
+FR: {ms}Tonnelier
+
+EN: [_profession_name_] Ditch-Digger
+FR: {ms}Fossoyeur de fossés
+
+EN: [_profession_name_] Engineer
+FR: {ms}Ingénieur
+
+EN: [_profession_name_] Farmer
+FR: {ms}Fermier
+
+EN: [_profession_name_] Farrier
+FR: {ms}Maréchal-ferrant
+
+EN: [_profession_name_] Fisher
+FR: {ms}Pêcheur
+
+EN: [_profession_name_] Fletcher
+FR: {ms}Fléchier
+
+EN: [_profession_name_] Furrier
+FR: {ms}Fourreur
+
+EN: [_profession_name_] Gardener
+FR: {ms}Jardinier
+
+EN: [_profession_name_] Goldsmith
+FR: {ms}Orfèvre
+
+EN: [_profession_name_] Gravedigger
+FR: {ms}Fossoyeur
+
+EN: [_profession_name_] Guardian
+FR: {ms}Gardien
+
+EN: [_profession_name_] Guild-Master
+FR: {ms}Maître de guilde
+
+EN: [_profession_name_] Guilds
+FR: {fp}Guildes
+
+EN: [_profession_name_] Hunter
+FR: {ms}Chasseur
+
+EN: [_profession_name_] Journeyman
+FR: {ms}Compagnon
+
+EN: [_profession_name_] Learner
+FR: {ms}Étudiant
+
+EN: [_profession_name_] Merchant
+FR: {ms}Marchand
+
+EN: [_profession_name_] Miller
+FR: {ms}Meunier
+
+EN: [_profession_name_] Minstrel
+FR: {ms}Ménestrel
+
+EN: [_profession_name_] Moneychanger
+FR: {ms}Changeur
+
+EN: [_profession_name_] Monk
+FR: {ms}Moine
+
+EN: [_profession_name_] Pirate
+FR: {ms}Pirate
+
+EN: [_profession_name_] Playwright
+FR: {ms}Dramaturge
+
+EN: [_profession_name_] Sailor
+FR: {ms}Marin
+
+EN: [_profession_name_] Scribe
+FR: {ms}Scribe
+
+EN: [_profession_name_] Silversmith
+FR: {ms}Argentier
+
+EN: [_profession_name_] Soldier
+FR: {ms}Soldat
+
+EN: [_profession_name_] Stonemason
+FR: {ms}Maçon
+
+EN: [_profession_name_] Tanner
+FR: {ms}Tanneur
+
+EN: [_profession_name_] Teacher
+FR: {ms}Maître
+
+EN: [_profession_name_] Thinker
+FR: {ms}Penseur
+
+EN: [_profession_name_] Undertaker
+FR: {ms}Croque-mort
+
+EN: [_profession_name_] Watchman
+FR: {ms}Veilleur
+
+EN: [_profession_name_] Weaver
+FR: {ms}Tisserand
+
+EN: [_profession_name_] Wheelwright
+FR: {ms}Charron de roues
+
+EN: [_game_name_] Dice, Bag, and Bottle
+FR: {mp}Dés, Sac et Bouteille
+
+EN: [_game_name_] Fun and Games
+FR: {mp}Jeux et Amusements
+
+EN: [_game_name_] Parlour Games
+FR: {mp}Jeux de salon
+
+EN: [_game_name_] the Game Afoot
+FR: {ms}le Jeu qui commence
+
+EN: [_game_name_] the Game of Kings
+FR: {ms}le Jeu des Rois
+
+EN: [_game_name_] the Great Game
+FR: {ms}le Grand Jeu
+
+EN: [_game_name_] Follow the Leader
+FR: {ms}Jeu du Chef
+
+EN: [_game_name_] Hide-and-Seek
+FR: {ms}Cache-cache
+
+EN: [_game_name_] Hopscotch
+FR: {fs}Marelle
+
+EN: [_game_name_] Leapfrog
+FR: {ms}Saute-mouton
+
+EN: [_game_name_] Mumblety Peg
+FR: {ms}Mumblety Peg
+
+EN: [_game_name_] Peek-a-Boo
+FR: {ms}Coucou
+
+EN: [_game_name_] the King of the Hill
+FR: {ms}le Roi de la colline
+
+EN: [_game_name_] Card Tricks
+FR: {mp}Tours de cartes
+
+EN: [_game_name_] Hangman
+FR: {ms}Pendu
+
+EN: [_game_name_] Jigsaw
+FR: {ms}Puzzle
+
+EN: [_game_name_] Marbles
+FR: {fp}Billes
+
+EN: [_game_name_] Noughts and Crosses
+FR: {ms}Morpion
+
+EN: [_game_name_] Snakes and Ladders
+FR: {mp}Serpents et Échelles
+
+EN: [_game_name_] Whack-A-Mole
+FR: {ms}Tape-taupe
+
+EN: [_game_name_] the Dice
+FR: {mp}les Dés
+
+EN: [_game_name_] the Game of Life
+FR: {ms}le Jeu de la vie
+
+EN: [_politics_name_armour_] Coronation
+FR: {ms}Couronnement
+
+EN: [_politics_name_armour_] Democracy
+FR: {fs}Démocratie
+
+EN: [_politics_name_armour_] Nobility
+FR: {fs}Noblesse
+
+EN: [_politics_name_armour_] Royalty
+FR: {fs}Royauté
+
+EN: [_politics_name_armour_] Sovereignty
+FR: {fs}Souveraineté
+
+EN: [_politics_name_armour_] the Ban
+FR: {ms}le Ban
+
+EN: [_politics_name_armour_] the Burgomaster
+FR: {ms}le Bourgmestre
+
+EN: [_politics_name_armour_] the Cast Vote
+FR: {ms}le Vote décisif
+
+EN: [_politics_name_armour_] the Castellan
+FR: {ms}le Châtelain
+
+EN: [_politics_name_armour_] the City
+FR: {fs}la Cité
+
+EN: [_politics_name_armour_] the Commoners
+FR: {mp}les Roturiers
+
+EN: [_politics_name_armour_] the Country
+FR: {ms}le Pays
+
+EN: [_politics_name_armour_] the Crown
+FR: {fs}la Couronne
+
+EN: [_politics_name_armour_] the Doge
+FR: {ms}le Doge
+
+EN: [_politics_name_armour_] the Duchess
+FR: {fs}la Duchesse
+
+EN: [_politics_name_armour_] the Duke
+FR: {ms}le Duc
+
+EN: [_politics_name_armour_] the Empire
+FR: {ms}l’Empire
+
+EN: [_politics_name_armour_] the Failed Coup
+FR: {ms}le Coup d’État raté
+
+EN: [_politics_name_armour_] the Greedy
+FR: {mp}les Avides
+
+EN: [_politics_name_armour_] the King
+FR: {ms}le Roi
+
+EN: [_politics_name_armour_] the Komtur
+FR: {ms}le Komtur
+
+EN: [_politics_name_armour_] the Mutiny
+FR: {fs}la Mutinerie
+
+EN: [_politics_name_armour_] the Oligarchy
+FR: {fs}l’Oligarchie
+
+EN: [_politics_name_armour_] the Peasants
+FR: {mp}les Paysans
+
+EN: [_politics_name_armour_] the Prince
+FR: {ms}le Prince
+
+EN: [_politics_name_armour_] the Princeling
+FR: {ms}le Principicule
+
+EN: [_politics_name_armour_] the Princess
+FR: {fs}la Princesse
+
+EN: [_politics_name_armour_] the Queen
+FR: {fs}la Reine
+
+EN: [_politics_name_armour_] the Rabble
+FR: {fs}la Racaille
+
+EN: [_politics_name_armour_] the Republic
+FR: {fs}la République
+
+EN: [_politics_name_armour_] the Suburbs
+FR: {fp}les Banlieues
+
+EN: [_politics_name_armour_] the Townfolk
+FR: {mp}les Villageois
+
+EN: [_politics_name_armour_] the Voivode
+FR: {ms}le Voïvode
+
+EN: [_other_armour_name_] Filth
+FR: {fs}Crasse
+
+EN: [_other_armour_name_] Grot
+FR: {ms}Grot
+
+EN: [_other_armour_name_] Grottiness
+FR: {fs}Crasserie
+
+EN: [_other_armour_name_] Slovenliness
+FR: {fs}Négligence
+
+EN: [_other_armour_name_] Bedevilment
+FR: {ms}Ensorcellement
+
+EN: [_other_armour_name_] Broken Taboos
+FR: {mp}Tabous brisés
+
+EN: [_other_armour_name_] Gestures
+FR: {mp}Gestes
+
+EN: [_other_armour_name_] Magic
+FR: {fs}Magie
+
+EN: [_other_armour_name_] Muttered Phrases
+FR: {fp}Phrases marmonnées
+
+EN: [_other_armour_name_] Sorcery
+FR: {fs}Sorcellerie
+
+EN: [_other_armour_name_] Words of Power
+FR: {mp}Mots de pouvoir
+
+EN: [_other_armour_name_] the Arcane
+FR: {ms}l’Arcane
+
+EN: [_other_armour_name_] Crawling
+FR: {ms}Rampement
+
+EN: [_other_armour_name_] Disaster
+FR: {ms}Désastre
+
+EN: [_other_armour_name_] Dogmatism
+FR: {ms}Dogmatisme
+
+EN: [_other_armour_name_] Feasting
+FR: {ms}Festin
+
+EN: [_other_armour_name_] Going Fast
+FR: {fs}Course folle
+
+EN: [_other_armour_name_] Happy Babbling
+FR: {ms}Babillage heureux
+
+EN: [_other_armour_name_] Hedge Wizardry
+FR: {fs}Sorcellerie de haie
+
+EN: [_other_armour_name_] Imperfection
+FR: {fs}Imperfection
+
+EN: [_other_armour_name_] Inevitability
+FR: {fs}Inévitabilité
+
+EN: [_other_armour_name_] Insatiable Hunger
+FR: {fs}Faim insatiable
+
+EN: [_other_armour_name_] Insurance
+FR: {fs}Assurance
+
+EN: [_other_armour_name_] Misanthropy
+FR: {fs}Misanthropie
+
+EN: [_other_armour_name_] Perfidy
+FR: {fs}Perfidie
+
+EN: [_other_armour_name_] Time Monsters
+FR: {mp}Monstres du temps
+
+EN: [_other_armour_name_] Trial and Error
+FR: {ms}Essai et Erreur
+
+EN: [_other_armour_name_] Unambiguity
+FR: {fs}Absence d’ambiguïté
+
+EN: [_other_armour_name_] Undesirable Species
+FR: {fp}Espèces indésirables
+
+EN: [_other_armour_name_] Wasted Space
+FR: {ms}Espace gaspillé
+
+EN: [_other_armour_name_] Wrong Decisions
+FR: {fp}Mauvaises Décisions
+
+EN: [_other_armour_name_] the @_card_@ of @_suit_@
+FR: {ms}¤@_card_@ de @_suit_@
+
+EN: [_other_armour_name_] the Hanged Man
+FR: {ms}le Pendu
+
+EN: [_other_armour_name_] the Lost Path
+FR: {ms}le Chemin perdu
+
+EN: [_other_armour_name_] the Moon Troll
+FR: {ms}le Troll lunaire
+
+EN: [_other_armour_name_] the Orb
+FR: {fs}l’Orbe
+
+EN: [_other_armour_name_] the Orb Guardian
+FR: {ms}le Gardien de l’Orbe
+
+EN: [_other_armour_name_] the Other World
+FR: {ms}l’Autre Monde
+
+EN: [_other_armour_name_] the Sacrificial Victim
+FR: {fs}la Victime sacrificielle
+
+EN: [_other_armour_name_] the Slightly Bent
+FR: {ms}le Légèrement Courbé
+
+EN: [_other_armour_name_] the Storm King
+FR: {ms}le Roi des tempêtes
+
+EN: [_other_armour_name_] Ravioli
+FR: {mp}Ravioli
+
+EN: [_other_armour_name_] Spaghetti
+FR: {mp}Spaghetti
+
+EN: [_other_armour_name_] Tortelloni
+FR: {mp}Tortelloni
+
+EN: [_other_armour_name_] Farfalle
+FR: {mp}Farfalle
+
+EN: [_other_armour_name_] Rotini
+FR: {mp}Rotini
+
+EN: [_other_armour_name_] Vermicelli
+FR: {mp}Vermicelles
+
+EN: [_other_armour_name_] Macaroni
+FR: {mp}Macaronis
+
+EN: [_other_armour_name_] Strozzapreti
+FR: {mp}Strozzapreti
+
+EN: [_other_armour_name_] the Pastamancer
+FR: {ms}le Pastamancien
+
+EN: [_other_armour_name_] Meatballs
+FR: {fp}Boulettes de viande
+
+EN: [_card_] Two
+FR: {ms}Deux
+
+EN: [_card_] Three
+FR: {ms}Trois
+
+EN: [_card_] Four
+FR: {ms}Quatre
+
+EN: [_card_] Five
+FR: {ms}Cinq
+
+EN: [_card_] Six
+FR: {ms}Six
+
+EN: [_card_] Seven
+FR: {ms}Sept
+
+EN: [_card_] Eight
+FR: {ms}Huit
+
+EN: [_card_] Nine
+FR: {ms}Neuf
+
+EN: [_card_] Ten
+FR: {ms}Dix
+
+EN: [_card_] Page
+FR: {ms}Valet
+
+EN: [_card_] Knight
+FR: {ms}Cavalier
+
+EN: [_card_] Queen
+FR: {fs}Reine
+
+EN: [_card_] King
+FR: {ms}Roi
+
+EN: [_card_] Ace
+FR: {ms}As
+
+EN: [_suit_] Cups
+FR: {fp}Coupes
+
+EN: [_suit_] Pentacles
+FR: {mp}Deniers
+
+EN: [_suit_] Swords
+FR: {fp}Épées
+
+EN: [_suit_] Wands
+FR: {mp}Bâtons
+
+EN: [_plain_armour_name_] Damnable Contraption
+FR: {fs}Maudite Machine
+
+EN: [_plain_armour_name_] Earthly Heaven
+FR: {ms}Paradis terrestre
+
+EN: [_plain_armour_name_] Forget-Me-Not
+FR: {ms}Myosotis
+
+EN: [_plain_armour_name_] Hero's Friend
+FR: {ms}Ami du héros
+
+EN: [_plain_armour_name_] Put-Me-On
+FR: {ms}Mets-moi
+
+EN: [_plain_armour_name_] Trusted Companion
+FR: {ms}Fidèle Compagnon
+
+EN: [_power_or_anger_] @_power_name_@
+FR: @_power_name_@
+
+EN: [_power_or_anger_] @_conflict_name_@
+FR: @_conflict_name_@
+
+EN: [_power_or_anger_] @_anger_name_@
+FR: @_anger_name_@
+
+EN: [_power_name_] Big Damage
+FR: {fs}Grosse Puissance
+
+EN: [_power_name_] Dominance
+FR: {fs}Dominance
+
+EN: [_power_name_] Domination
+FR: {fs}Domination
+
+EN: [_power_name_] Friendship
+FR: {fs}Amitié
+
+EN: [_power_name_] Glory
+FR: {fs}Gloire
+
+EN: [_power_name_] Grandeur
+FR: {fs}Grandeur
+
+EN: [_power_name_] Hubris
+FR: {fs}Démesure
+
+EN: [_power_name_] Intimidation
+FR: {fs}Intimidation
+
+EN: [_power_name_] Invincibility
+FR: {fs}Invincibilité
+
+EN: [_power_name_] Magnificence
+FR: {fs}Magnificence
+
+EN: [_power_name_] Mastery
+FR: {fs}Maîtrise
+
+EN: [_power_name_] Might
+FR: {fs}Puissance
+
+EN: [_power_name_] Success
+FR: {ms}Succès
+
+EN: [_power_name_] Superiority
+FR: {fs}Supériorité
+
+EN: [_power_name_] Triumph
+FR: {ms}Triomphe
+
+EN: [_power_name_] Victory
+FR: {fs}Victoire
+
+EN: [_power_name_] Wondrous Power
+FR: {fs}Puissance prodigieuse
+
+EN: [_conflict_name_] Brawling
+FR: {fs}Bagarre
+
+EN: [_conflict_name_] Conflict
+FR: {ms}Conflit
+
+EN: [_conflict_name_] Contention
+FR: {fs}Querelle
+
+EN: [_conflict_name_] Discord
+FR: {fs}Discorde
+
+EN: [_conflict_name_] Dissent
+FR: {ms}Désaccord
+
+EN: [_conflict_name_] Division
+FR: {fs}Division
+
+EN: [_conflict_name_] Doubt
+FR: {ms}Doute
+
+EN: [_conflict_name_] Internal Strife
+FR: {fs}Lutte intestine
+
+EN: [_conflict_name_] Melee
+FR: {fs}Mêlée
+
+EN: [_conflict_name_] Resumed Hostilities
+FR: {fp}Hostilités rouvertes
+
+EN: [_conflict_name_] Tension
+FR: {fs}Tension
+
+EN: [_anger_name_] @_anger_quality_@
+FR: @_anger_quality_@
+
+EN: [_anger_name_] @_anger_possessive_@
+FR: @_anger_possessive_@
+
+EN: [_anger_quality_] Anger
+FR: {fs}Colère
+
+EN: [_anger_quality_] Brutal Revenge
+FR: {fs}Vengeance brutale
+
+EN: [_anger_quality_] Disproportionate Response
+FR: {fs}Riposte disproportionnée
+
+EN: [_anger_quality_] Fury
+FR: {fs}Fureur
+
+EN: [_anger_quality_] Hatred
+FR: {fs}Haine
+
+EN: [_anger_quality_] Indignation
+FR: {fs}Indignation
+
+EN: [_anger_quality_] Outrage
+FR: {ms}Outrage
+
+EN: [_anger_quality_] Righteous Anger
+FR: {fs}Juste Colère
+
+EN: [_anger_quality_] Righteous Fury
+FR: {fs}Juste Fureur
+
+EN: [_anger_quality_] Scorn
+FR: {ms}Mépris
+
+EN: [_anger_quality_] Vengeance
+FR: {fs}Vengeance
+
+EN: [_anger_quality_] Wrath
+FR: {ms}Courroux
+
+EN: [_anger_possessive_] the Extremely Mad
+FR: {ms}le Très Furieux
+
+EN: [_anger_possessive_] the Absolute Madman
+FR: {ms}le Fou absolu
+
+EN: [_anger_possessive_] the Incandescent
+FR: {ms}l’Incandescent
+
+EN: [_anger_possessive_] the Furious
+FR: {ms}le Furieux
+
+EN: [_anger_possessive_] the Howling One
+FR: {ms}le Hurleur
+
+EN: [_anger_possessive_] the Gibberer
+FR: {ms}le Baragouineur
+
+EN: [_anger_possessive_] the Hated
+FR: {ms}le Haï
+
+EN: [_anger_possessive_] the Scorned
+FR: {ms}le Méprisé
+
+EN: [_anger_possessive_] the Abhorred
+FR: {ms}l’Abhorré
+
+EN: [_battle_or_war_] Crusades
+FR: {fp}Croisades
+
+EN: [_battle_or_war_] Eternal War
+FR: {fs}Guerre éternelle
+
+EN: [_battle_or_war_] Iconoclasm
+FR: {fs}Iconoclastie
+
+EN: [_battle_or_war_] Plunder
+FR: {ms}Pillage
+
+EN: [_battle_or_war_] Ravage
+FR: {ms}Ravage
+
+EN: [_battle_or_war_] Regicide
+FR: {ms}Régicide
+
+EN: [_battle_or_war_] Skirmishing
+FR: {fs}Escarmouche
+
+EN: [_battle_or_war_] War
+FR: {fs}Guerre
+
+EN: [_battle_or_war_] the Doomed Warrior
+FR: {ms}le Guerrier condamné
+
+EN: [_battle_or_war_] the Endless March
+FR: {fs}la Marche sans fin
+
+EN: [_battle_or_war_] the Eternal Warrior
+FR: {ms}le Guerrier éternel
+
+EN: [_battle_or_war_] the Onslaught
+FR: {fs}l’Attaque
+
+EN: [_battle_or_war_] the Pyrrhic Victory
+FR: {fs}la Victoire à la Pyrrhus
+
+EN: [_battle_or_war_] the Warrior
+FR: {ms}le Guerrier
+
+EN: [_battle_or_war_] Blood
+FR: {ms}Sang
+
+EN: [_battle_or_war_] Blood-Lust
+FR: {fs}Soif de sang
+
+EN: [_battle_or_war_] Callousness
+FR: {fs}Insensibilité
+
+EN: [_battle_or_war_] Diet Blood
+FR: {ms}Sang léger
+
+EN: [_battle_or_war_] Fear
+FR: {fs}Peur
+
+EN: [_battle_or_war_] Joyful Slaughter
+FR: {ms}Massacre joyeux
+
+EN: [_battle_or_war_] Massacring
+FR: {ms}Massacre
+
+EN: [_battle_or_war_] Wounding
+FR: {fs}Blessure
+
+EN: [_battle_or_war_] Agony
+FR: {fs}Agonie
+
+EN: [_battle_or_war_] Hacking and Slashing
+FR: {ms}Taillade
+
+EN: [_battle_or_war_] Insufficient Pleasure
+FR: {ms}Plaisir insuffisant
+
+EN: [_battle_or_war_] Trauma
+FR: {ms}Traumatisme
+
+EN: [_battle_or_war_] Dullness
+FR: {fs}Émoussure
+
+EN: [_battle_or_war_] Precise Incision
+FR: {fs}Incision précise
+
+EN: [_battle_or_war_] Laceration
+FR: {fs}Lacération
+
+EN: [_battle_or_war_] Severance
+FR: {fs}Séparation
+
+EN: [_battle_or_war_] Truncation
+FR: {fs}Troncature
+
+EN: [_battle_or_war_] Death's Door
+FR: {fs}Porte de la Mort
+
+EN: [_battle_or_war_] Mourning
+FR: {ms}Deuil
+
+EN: [_battle_or_war_] the Grave
+FR: {fs}la Tombe
+
+EN: [death_or_doom] Bloody Death
+FR: {fs}Mort sanglante
+
+EN: [death_or_doom] Certain Death
+FR: {fs}Mort certaine
+
+EN: [death_or_doom] Death
+FR: {fs}Mort
+
+EN: [death_or_doom] Exquisite Death
+FR: {fs}Mort exquise
+
+EN: [death_or_doom] Imminent Death
+FR: {fs}Mort imminente
+
+EN: [death_or_doom] Instant Death
+FR: {fs}Mort instantanée
+
+EN: [death_or_doom] Pain and Death
+FR: {fs}Mort et Douleur
+
+EN: [death_or_doom] Painful Death
+FR: {fs}Mort douloureuse
+
+EN: [death_or_doom] Quick Death
+FR: {fs}Mort rapide
+
+EN: [death_or_doom] Slow Death
+FR: {fs}Mort lente
+
+EN: [death_or_doom] Sudden Death
+FR: {fs}Mort subite
+
+EN: [death_or_doom] Uncertain Death
+FR: {fs}Mort incertaine
+
+EN: [death_or_doom] Untimely Demise
+FR: {fs}Fin prématurée
+
+EN: [death_or_doom] Destruction
+FR: {fs}Destruction
+
+EN: [death_or_doom] Disembowelment
+FR: {ms}Éventrement
+
+EN: [death_or_doom] Doom
+FR: {fs}Perdition
+
+EN: [death_or_doom] Evisceration
+FR: {ms}Éviscération
+
+EN: [death_or_doom] Execution
+FR: {fs}Exécution
+
+EN: [death_or_doom] Extermination
+FR: {ms}Extermination
+
+EN: [death_or_doom] Extinguishment
+FR: {fs}Extinction
+
+EN: [death_or_doom] Peril
+FR: {ms}Péril
+
+EN: [death_or_doom] Premature Burial
+FR: {fs}Inhumation prématurée
+
+EN: [death_or_doom] Anguish
+FR: {fs}Angoisse
+
+EN: [death_or_doom] Dismemberment
+FR: {ms}Démembrement
+
+EN: [death_or_doom] Excruciating Pain
+FR: {fs}Douleur atroce
+
+EN: [death_or_doom] Exquisite Torment
+FR: {ms}Supplice exquis
+
+EN: [death_or_doom] Infinite Pain
+FR: {fs}Douleur infinie
+
+EN: [death_or_doom] Misery
+FR: {fs}Misère
+
+EN: [death_or_doom] Terror
+FR: {fs}Terreur
+
+EN: [death_or_doom] Woe
+FR: {ms}Malheur
+
+EN: [_strategy_or_justice_] @_strategy_name_@
+FR: @_strategy_name_@
+
+EN: [_strategy_or_justice_] @_valour_name_@
+FR: @_valour_name_@
+
+EN: [_strategy_or_justice_] @_justice_name_@
+FR: @_justice_name_@
+
+EN: [_strategy_name_] Defence
+FR: {fs}Défense
+
+EN: [_strategy_name_] Defence by Offence
+FR: {fs}Défense par l’Attaque
+
+EN: [_strategy_name_] Expedience
+FR: {ms}Expédient
+
+EN: [_strategy_name_] Guile
+FR: {fs}Ruse
+
+EN: [_strategy_name_] Offence
+FR: {fs}Attaque
+
+EN: [_strategy_name_] Optimality
+FR: {fs}Optimalité
+
+EN: [_strategy_name_] Overwhelming Force
+FR: {fs}Force écrasante
+
+EN: [_strategy_name_] Reinforcement
+FR: {ms}Renfort
+
+EN: [_strategy_name_] Strategic Superiority
+FR: {fs}Supériorité stratégique
+
+EN: [_strategy_name_] Subterfuge
+FR: {ms}Subterfuge
+
+EN: [_valour_name_] Action
+FR: {fs}Action
+
+EN: [_valour_name_] Conatus
+FR: {ms}Conatus
+
+EN: [_valour_name_] Conscience
+FR: {fs}Conscience
+
+EN: [_valour_name_] Courage
+FR: {ms}Courage
+
+EN: [_valour_name_] Daring
+FR: {fs}Audace
+
+EN: [_valour_name_] Defiance
+FR: {fs}Défiance
+
+EN: [_valour_name_] Duty
+FR: {ms}Devoir
+
+EN: [_valour_name_] Eternal Vigilance
+FR: {fs}Vigilance éternelle
+
+EN: [_valour_name_] Fortitude
+FR: {fs}Force d’âme
+
+EN: [_valour_name_] Gallantry
+FR: {fs}Vaillance
+
+EN: [_valour_name_] Honour
+FR: {ms}Honneur
+
+EN: [_valour_name_] Indomitability
+FR: {fs}Indomptabilité
+
+EN: [_valour_name_] Integrity
+FR: {fs}Intégrité
+
+EN: [_valour_name_] Prudence
+FR: {fs}Prudence
+
+EN: [_valour_name_] Purpose
+FR: {ms}But
+
+EN: [_valour_name_] Resourcefulness
+FR: {fs}Ingéniosité
+
+EN: [_valour_name_] Responsibility
+FR: {fs}Responsabilité
+
+EN: [_valour_name_] Tenacity
+FR: {fs}Ténacité
+
+EN: [_valour_name_] True Grit
+FR: {ms}Cran
+
+EN: [_valour_name_] Valiance
+FR: {fs}Bravoure
+
+EN: [_valour_name_] Watchfulness
+FR: {fs}Vigilance
+
+EN: [_justice_name_] Absolution
+FR: {fs}Absolution
+
+EN: [_justice_name_] Accidental Termination
+FR: {fs}Mort accidentelle
+
+EN: [_justice_name_] Blind Justice
+FR: {fs}Justice aveugle
+
+EN: [_justice_name_] Capital Punishment
+FR: {fs}Peine capitale
+
+EN: [_justice_name_] Corporal Punishment
+FR: {ms}Châtiment corporel
+
+EN: [_justice_name_] Cruel Justice
+FR: {fs}Justice cruelle
+
+EN: [_justice_name_] Exoneration
+FR: {fs}Disculpation
+
+EN: [_justice_name_] Extenuating Circumstances
+FR: {fp}Circonstances atténuantes
+
+EN: [_justice_name_] False Accusations
+FR: {fp}Fausses Accusations
+
+EN: [_justice_name_] Forgiveness
+FR: {ms}Pardon
+
+EN: [_justice_name_] Guilt
+FR: {fs}Culpabilité
+
+EN: [_justice_name_] Innocence
+FR: {fs}Innocence
+
+EN: [_justice_name_] Judgement
+FR: {ms}Jugement
+
+EN: [_justice_name_] Punishment
+FR: {fs}Punition
+
+EN: [_justice_name_] Tender Mercy
+FR: {fs}Tendre Clémence
+
+EN: [_justice_name_] Tortfeasance
+FR: {fs}Tortfeasance
+
+EN: [_justice_name_] Trial by Ordeal
+FR: {ms}Jugement de Dieu
+
+EN: [_justice_name_] Wrongful Imprisonment
+FR: {fs}Détention injustifiée
+
+EN: [_diviner_name_] Augurer
+FR: {ms}Augure
+
+EN: [_diviner_name_] Fortune-Teller
+FR: {ms}Diseur de bonne aventure
+
+EN: [_diviner_name_] Oracle
+FR: {ms}Oracle
+
+EN: [_diviner_name_] Prognosticator
+FR: {ms}Pronostiqueur
+
+EN: [_diviner_name_] Seeker
+FR: {ms}Chercheur
+
+EN: [_diviner_name_] Seer
+FR: {ms}Voyant
+
+EN: [_diviner_name_] Soothsayer
+FR: {ms}Devin
+
+EN: [_diviner_name_] Sybil
+FR: {fs}Sibylle
+
+EN: [_diviner_name_] Visionary
+FR: {ms}Visionnaire
+
+EN: [_diviner_name_] Water Diviner
+FR: {ms}Sourcier
+
+EN: [_people_name_] Ancients
+FR: {mp}Anciens
+
+EN: [_people_name_] Coward
+FR: {ms}Lâche
+
+EN: [_people_name_] Enemy
+FR: {ms}Ennemi
+
+EN: [_people_name_] Fool
+FR: {ms}Fou
+
+EN: [_people_name_] Genius
+FR: {ms}Génie
+
+EN: [_people_name_] Hero
+FR: {ms}Héros
+
+EN: [_people_name_] Jester
+FR: {ms}Bouffon
+
+EN: [_people_name_] King
+FR: {ms}Roi
+
+EN: [_people_name_] Madman
+FR: {ms}Dément
+
+EN: [_people_name_] Messenger
+FR: {ms}Messager
+
+EN: [_people_name_] Pariah
+FR: {ms}Paria
+
+EN: [_people_name_] Philosopher
+FR: {ms}Philosophe
+
+EN: [_people_name_] Priest
+FR: {ms}Prêtre
+
+EN: [_people_name_] Queen
+FR: {fs}Reine
+
+EN: [_people_name_] Saviour
+FR: {ms}Sauveur
+
+EN: [_people_name_] Scapegrace
+FR: {ms}Vaurien
+
+EN: [_people_name_] Scavenger
+FR: {ms}Charognard
+
+EN: [_people_name_] Traitor
+FR: {ms}Traître
+
+EN: [_people_name_] @_diviner_name_@
+FR: @_diviner_name_@
+
+EN: [_weapon_animal_] @_arachnid_name_@
+FR: @_arachnid_name_@
+
+EN: [_weapon_animal_] @_crustacean_name_@
+FR: @_crustacean_name_@
+
+EN: [_weapon_animal_] @_fish_name_@
+FR: @_fish_name_@
+
+EN: [_weapon_animal_] @_amphibian_name_@
+FR: @_amphibian_name_@
+
+EN: [_weapon_animal_] @_reptile_name_@
+FR: @_reptile_name_@
+
+EN: [_weapon_animal_] @_bird_name_@
+FR: @_bird_name_@
+
+EN: [_weapon_animal_] @_mammal_name_@
+FR: @_mammal_name_@
+
+EN: [_crustacean_name_] Ant
+FR: {fs}Fourmi
+
+EN: [_crustacean_name_] Barnacle
+FR: {ms}Anatife
+
+EN: [_crustacean_name_] Bee
+FR: {fs}Abeille
+
+EN: [_crustacean_name_] Blowfly
+FR: {fs}Mouche à viande
+
+EN: [_crustacean_name_] Bristletail
+FR: {ms}Thysanoure
+
+EN: [_crustacean_name_] Butterfly
+FR: {ms}Papillon
+
+EN: [_crustacean_name_] Caddisfly
+FR: {fs}Phrygane
+
+EN: [_crustacean_name_] Crab
+FR: {ms}Crabe
+
+EN: [_crustacean_name_] Crayfish
+FR: {fs}Écrevisse
+
+EN: [_crustacean_name_] Damselfly
+FR: {fs}Demoiselle
+
+EN: [_crustacean_name_] Dragonfly
+FR: {fs}Libellule
+
+EN: [_crustacean_name_] Firefly
+FR: {fs}Luciole
+
+EN: [_crustacean_name_] Flea
+FR: {fs}Puce
+
+EN: [_crustacean_name_] Gnat
+FR: {ms}Moucheron
+
+EN: [_crustacean_name_] Hornet
+FR: {ms}Frelon
+
+EN: [_crustacean_name_] June-Bug
+FR: {ms}Scarabée de juin
+
+EN: [_crustacean_name_] Krill
+FR: {ms}Krill
+
+EN: [_crustacean_name_] Lacewing
+FR: {ms}Chrysope
+
+EN: [_crustacean_name_] Lobster
+FR: {ms}Homard
+
+EN: [_crustacean_name_] Louse
+FR: {ms}Pou
+
+EN: [_crustacean_name_] Mayfly
+FR: {fs}Éphémère
+
+EN: [_crustacean_name_] Mosquito
+FR: {ms}Moustique
+
+EN: [_crustacean_name_] Moth
+FR: {fs}Phalène
+
+EN: [_crustacean_name_] Pill Bug
+FR: {ms}Cloporte
+
+EN: [_crustacean_name_] Prawn
+FR: {fs}Crevette rose
+
+EN: [_crustacean_name_] Shrimp
+FR: {fs}Crevette
+
+EN: [_crustacean_name_] Silverfish
+FR: {ms}Poisson d’argent
+
+EN: [_crustacean_name_] Wasp
+FR: {fs}Guêpe
+
+EN: [_crustacean_name_] Weta
+FR: {ms}Wéta
+
+EN: [_crustacean_name_] Woodlouse
+FR: {ms}Cloporte des bois
+
+EN: [_crustacean_name_] Yellowjacket
+FR: {fs}Guêpe jaune
+
+EN: [_arachnid_name_] Harvestman
+FR: {ms}Faucheux
+
+EN: [_arachnid_name_] Scorpion
+FR: {ms}Scorpion
+
+EN: [_arachnid_name_] Spider
+FR: {fs}Araignée
+
+EN: [_arachnid_name_] Tick
+FR: {fs}Tique
+
+EN: [_amphibian_name_] Axolotl
+FR: {ms}Axolotl
+
+EN: [_amphibian_name_] Caecilian
+FR: {ms}Cécilien
+
+EN: [_amphibian_name_] Frog
+FR: {fs}Grenouille
+
+EN: [_amphibian_name_] Hellbender
+FR: {ms}Ménopome
+
+EN: [_amphibian_name_] Newt
+FR: {ms}Triton
+
+EN: [_amphibian_name_] Olm
+FR: {ms}Protée
+
+EN: [_amphibian_name_] Salamander
+FR: {fs}Salamandre
+
+EN: [_amphibian_name_] Siren
+FR: {fs}Sirène
+
+EN: [_amphibian_name_] Toad
+FR: {ms}Crapaud
+
+EN: [_reptile_name_] Alligator
+FR: {ms}Alligator
+
+EN: [_reptile_name_] Asp
+FR: {ms}Aspic
+
+EN: [_reptile_name_] Crocodile
+FR: {ms}Crocodile
+
+EN: [_reptile_name_] Gecko
+FR: {ms}Gecko
+
+EN: [_reptile_name_] Gharial
+FR: {ms}Gavial
+
+EN: [_reptile_name_] Krait
+FR: {ms}Krait
+
+EN: [_reptile_name_] Leatherback
+FR: {fs}Tortue luth
+
+EN: [_reptile_name_] Lizard
+FR: {ms}Lézard
+
+EN: [_reptile_name_] Python
+FR: {ms}Python
+
+EN: [_reptile_name_] Rattlesnake
+FR: {ms}Crotale
+
+EN: [_reptile_name_] Skink
+FR: {ms}Scinque
+
+EN: [_reptile_name_] Terrapin
+FR: {fs}Tortue des marais
+
+EN: [_reptile_name_] Tortoise
+FR: {fs}Tortue terrestre
+
+EN: [_reptile_name_] Turtle
+FR: {fs}Tortue
+
+EN: [_reptile_name_] Viper
+FR: {fs}Vipère
+
+EN: [_fish_name_] Big Fish
+FR: {ms}Gros Poisson
+
+EN: [_fish_name_] Eel
+FR: {fs}Anguille
+
+EN: [_fish_name_] Lamprey
+FR: {fs}Lamproie
+
+EN: [_fish_name_] Salmon
+FR: {ms}Saumon
+
+EN: [_fish_name_] Shark
+FR: {ms}Requin
+
+EN: [_bird_name_] Apostlebird
+FR: {ms}Apôtre
+
+EN: [_bird_name_] Arctic Tern
+FR: {fs}Sterne arctique
+
+EN: [_bird_name_] Auk
+FR: {ms}Pingouin
+
+EN: [_bird_name_] Bustard
+FR: {fs}Outarde
+
+EN: [_bird_name_] Buzzard
+FR: {fs}Buse
+
+EN: [_bird_name_] Cardinal
+FR: {ms}Cardinal
+
+EN: [_bird_name_] Cassowary
+FR: {ms}Casoar
+
+EN: [_bird_name_] Dove
+FR: {fs}Colombe
+
+EN: [_bird_name_] Duck
+FR: {ms}Canard
+
+EN: [_bird_name_] Emu
+FR: {ms}Émeu
+
+EN: [_bird_name_] Flamingo
+FR: {ms}Flamant
+
+EN: [_bird_name_] Forest Kingfisher
+FR: {ms}Martin-chasseur des forêts
+
+EN: [_bird_name_] Fulmar
+FR: {ms}Fulmar
+
+EN: [_bird_name_] Goose
+FR: {fs}Oie
+
+EN: [_bird_name_] Guillemot
+FR: {ms}Guillemot
+
+EN: [_bird_name_] Hawk
+FR: {ms}Faucon
+
+EN: [_bird_name_] Hummingbird
+FR: {ms}Colibri
+
+EN: [_bird_name_] Hoatzin
+FR: {ms}Hoazin
+
+EN: [_bird_name_] Kiwi
+FR: {ms}Kiwi
+
+EN: [_bird_name_] Kookaburra
+FR: {ms}Kookaburra
+
+EN: [_bird_name_] Moa
+FR: {ms}Polochion bruyant
+
+EN: [_bird_name_] Noisy Friarbird
+FR: {ms}Moa
+
+EN: [_bird_name_] Ostrich
+FR: {fs}Autruche
+
+EN: [_bird_name_] Owl
+FR: {ms}Hibou
+
+EN: [_bird_name_] Penguin
+FR: {ms}Manchot
+
+EN: [_bird_name_] Pigeon
+FR: {ms}Pigeon
+
+EN: [_bird_name_] Potoo
+FR: {ms}Ibijau
+
+EN: [_bird_name_] Puffin
+FR: {ms}Macareux
+
+EN: [_bird_name_] Rainbow Bee-Eater
+FR: {ms}Guêpier arc-en-ciel
+
+EN: [_bird_name_] Razorbill
+FR: {ms}Petit Pingouin
+
+EN: [_bird_name_] Rhea
+FR: {ms}Nandou
+
+EN: [_bird_name_] Roseate Spoonbill
+FR: {fs}Spatule rose
+
+EN: [_bird_name_] Sage Grouse
+FR: {ms}Tétras des armoises
+
+EN: [_bird_name_] Shrike
+FR: {fs}Pie-grièche
+
+EN: [_bird_name_] Stork
+FR: {fs}Cigogne
+
+EN: [_bird_name_] Swan
+FR: {ms}Cygne
+
+EN: [_bird_name_] Superb Lyrebird
+FR: {ms}Ménure superbe
+
+EN: [_bird_name_] Tawny Frogmouth
+FR: {ms}Podarge
+
+EN: [_bird_name_] Vulture
+FR: {ms}Vautour
+
+EN: [_mammal_name_] Ass
+FR: {ms}Âne
+
+EN: [_mammal_name_] Badger
+FR: {ms}Blaireau
+
+EN: [_mammal_name_] Bear
+FR: {ms}Ours
+
+EN: [_mammal_name_] Boar
+FR: {ms}Sanglier
+
+EN: [_mammal_name_] Fox
+FR: {ms}Renard
+
+EN: [_mammal_name_] Goat
+FR: {fs}Chèvre
+
+EN: [_mammal_name_] Rat
+FR: {ms}Rat
+
+EN: [_mammal_name_] Stoat
+FR: {fs}Hermine
+
+EN: [_mammal_name_] Tiger
+FR: {ms}Tigre
+
+EN: [_mammal_name_] Weasel
+FR: {fs}Belette
+
+EN: [_mammal_name_] Whale
+FR: {fs}Baleine
+
+EN: [_mammal_name_] Wolf
+FR: {ms}Loup
+
+EN: [_plant_name_] Eggplant
+FR: {fs}Aubergine
+
+EN: [_plant_name_] Chickpea
+FR: {ms}Pois chiche
+
+EN: [_plant_name_] Lettuce
+FR: {fs}Laitue
+
+EN: [_plant_name_] Radish
+FR: {ms}Radis
+
+EN: [_plant_name_] Sugar Beet
+FR: {fs}Betterave sucrière
+
+EN: [_plant_name_] Shallot
+FR: {fs}Échalote
+
+EN: [_plant_name_] Tomato
+FR: {fs}Tomate
+
+EN: [_plant_name_] Turnip
+FR: {ms}Navet
+
+EN: [_plant_name_] Whelk
+FR: {ms}Buccin
+
+EN: [_plant_name_] Magic Mushroom
+FR: {ms}Champignon magique
+
+EN: [_plant_name_] Mushroom
+FR: {ms}Champignon
+
+EN: [_plant_name_] Puffball
+FR: {fs}Vesse-de-loup
+
+EN: [_plant_name_] Slime-mould
+FR: {ms}Myxomycète
+
+EN: [_plant_name_] Toadstool
+FR: {ms}Champignon vénéneux
+
+EN: [_evil_stuff_] Abomination
+FR: {fs}Abomination
+
+EN: [_evil_stuff_] Abuse
+FR: {ms}Abus
+
+EN: [_evil_stuff_] Ancient Evil
+FR: {ms}Mal ancien
+
+EN: [_evil_stuff_] Corruption
+FR: {fs}Corruption
+
+EN: [_evil_stuff_] Debasement
+FR: {fs}Dégradation
+
+EN: [_evil_stuff_] Defilement
+FR: {fs}Souillure
+
+EN: [_evil_stuff_] Deformation
+FR: {fs}Difformité
+
+EN: [_evil_stuff_] Demonkind
+FR: {fs}Engeance démoniaque
+
+EN: [_evil_stuff_] Evil
+FR: {ms}Mal
+
+EN: [_evil_stuff_] Hell's Wrath
+FR: {fs}Colère de l’Enfer
+
+EN: [_evil_stuff_] Infection
+FR: {fs}Infection
+
+EN: [_evil_stuff_] Mutilation
+FR: {fs}Mutilation
+
+EN: [_evil_stuff_] Nightmares
+FR: {mp}Cauchemars
+
+EN: [_evil_stuff_] Perversion
+FR: {fs}Perversion
+
+EN: [_evil_stuff_] Putrescence
+FR: {fs}Putrescence
+
+EN: [_evil_stuff_] Shrieking Terror
+FR: {fs}Terreur hurlante
+
+EN: [_evil_stuff_] Vitiation
+FR: {ms}Viciement
+
+EN: [_evil_stuff_] the Beast
+FR: {fs}la Bête
+
+EN: [_evil_stuff_] the Crawling Thing
+FR: {ms}le Rampant
+
+EN: [_evil_stuff_] the Dead
+FR: {mp}les Morts
+
+EN: [_evil_stuff_] the Evil Eye
+FR: {ms}le Mauvais Œil
+
+EN: [_evil_stuff_] the Ghost
+FR: {ms}le Fantôme
+
+EN: [_evil_stuff_] the Living Dead
+FR: {mp}les Morts-vivants
+
+EN: [_evil_stuff_] the Lurker
+FR: {ms}le Rôdeur
+
+EN: [_evil_stuff_] the Reaper
+FR: {fs}la Faucheuse
+
+EN: [_evil_stuff_] the Spectre
+FR: {ms}le Spectre
+
+EN: [_evil_stuff_] the Thing
+FR: {fs}la Chose
+
+EN: [_evil_stuff_] the Undead
+FR: {mp}les Non-morts
+
+EN: [_evil_stuff_] the Unliving
+FR: {ms}le Sans-vie
+
+EN: [_evil_stuff_] the Unspeakable One
+FR: {ms}l’Innommable
+
+EN: [_evil_stuff_] the Wraith
+FR: {ms}le Spectre
+
+EN: [_catastrophe_name_] Earthquakes
+FR: {mp}Séismes
+
+EN: [_catastrophe_name_] Cataclysm
+FR: {ms}Cataclysme
+
+EN: [_catastrophe_name_] Drought
+FR: {fs}Sécheresse
+
+EN: [_catastrophe_name_] Floods
+FR: {fp}Inondations
+
+EN: [_catastrophe_name_] Ruination
+FR: {fs}Ruine
+
+EN: [_catastrophe_name_] the Inferno
+FR: {ms}l’Enfer
+
+EN: [_catastrophe_name_] Annihilation
+FR: {fs}Annihilation
+
+EN: [_catastrophe_name_] Armageddon
+FR: {ms}Armageddon
+
+EN: [_catastrophe_name_] Ragnarok
+FR: {ms}Ragnarök
+
+EN: [_catastrophe_name_] World Downfall
+FR: {fs}Chute du Monde
+
+EN: [_catastrophe_name_] World's End
+FR: {ms}Fin du monde
+
+EN: [_catastrophe_name_] the Apocalypse
+FR: {fs}l’Apocalypse
+
+EN: [_catastrophe_name_] the End of Times
+FR: {fs}la Fin des temps
+
+EN: [_catastrophe_name_] the Eschaton
+FR: {ms}l’Eschaton
+
+EN: [_catastrophe_name_] Famine
+FR: {fs}Famine
+
+EN: [_catastrophe_name_] Pestilence
+FR: {fs}Pestilence
+
+EN: [_catastrophe_name_] Plague
+FR: {fs}Peste
+
+EN: [_catastrophe_name_] War
+FR: {fs}Guerre
+
+EN: [_chaos_name_] Ambiguity
+FR: {fs}Ambiguïté
+
+EN: [_chaos_name_] Arbitration
+FR: {fs}Arbitrage
+
+EN: [_chaos_name_] Calamity
+FR: {fs}Calamité
+
+EN: [_chaos_name_] Chance
+FR: {ms}Hasard
+
+EN: [_chaos_name_] Change
+FR: {ms}Changement
+
+EN: [_chaos_name_] Confusion
+FR: {fs}Confusion
+
+EN: [_chaos_name_] Constant Reorganisation
+FR: {fs}Réorganisation perpétuelle
+
+EN: [_chaos_name_] Contradiction
+FR: {fs}Contradiction
+
+EN: [_chaos_name_] Disarray
+FR: {ms}Désarroi
+
+EN: [_chaos_name_] Disaster
+FR: {ms}Désastre
+
+EN: [_chaos_name_] Disharmony
+FR: {fs}Désharmonie
+
+EN: [_chaos_name_] Disintegration
+FR: {fs}Désintégration
+
+EN: [_chaos_name_] Disorder
+FR: {ms}Désordre
+
+EN: [_chaos_name_] Dissolution
+FR: {fs}Dissolution
+
+EN: [_chaos_name_] Distraction
+FR: {fs}Distraction
+
+EN: [_chaos_name_] Extremism
+FR: {ms}Extrémisme
+
+EN: [_chaos_name_] Goblin Mode
+FR: {ms}Mode gobelin
+
+EN: [_chaos_name_] Havoc
+FR: {ms}Ravage
+
+EN: [_chaos_name_] Imbalance
+FR: {ms}Déséquilibre
+
+EN: [_chaos_name_] Impermanence
+FR: {fs}Impermanence
+
+EN: [_chaos_name_] Incongruity
+FR: {fs}Incongruité
+
+EN: [_chaos_name_] Mayhem
+FR: {ms}Chaos
+
+EN: [_chaos_name_] Revolt
+FR: {fs}Révolte
+
+EN: [_chaos_name_] True Chaos
+FR: {ms}Chaos véritable
+
+EN: [_chaos_name_] Tumult
+FR: {ms}Tumulte
+
+EN: [_chaos_name_] Turmoil
+FR: {ms}Tourment
+
+EN: [_chaos_name_] Upheaval
+FR: {ms}Bouleversement
+
+EN: [_chaos_name_] the Extremes
+FR: {mp}les Extrêmes
+
+EN: [_chaos_name_] the Farrago
+FR: {ms}le Fatras
+
+EN: [_chaos_name_] the Fray
+FR: {fs}la Mêlée
+
+EN: [_chaos_name_] the Hodge-Podge
+FR: {ms}le Méli-mélo
+
+EN: [_chaos_name_] the Mish-Mash
+FR: {ms}le Bric-à-brac
+
+EN: [_balance_or_order_] Accord
+FR: {ms}Accord
+
+EN: [_balance_or_order_] Arrival
+FR: {fs}Arrivée
+
+EN: [_balance_or_order_] Ascent
+FR: {fs}Ascension
+
+EN: [_balance_or_order_] Balance
+FR: {ms}Équilibre
+
+EN: [_balance_or_order_] Bodily Harmony
+FR: {fs}Harmonie corporelle
+
+EN: [_balance_or_order_] Circularity
+FR: {fs}Circularité
+
+EN: [_balance_or_order_] Conformity
+FR: {fs}Conformité
+
+EN: [_balance_or_order_] Departure
+FR: {ms}Départ
+
+EN: [_balance_or_order_] Descent
+FR: {fs}Descente
+
+EN: [_balance_or_order_] Due Proportion
+FR: {fs}Juste Proportion
+
+EN: [_balance_or_order_] Equilibrium
+FR: {ms}Équilibre
+
+EN: [_balance_or_order_] Equivalence
+FR: {fs}Équivalence
+
+EN: [_balance_or_order_] Eternal Harmony
+FR: {fs}Harmonie éternelle
+
+EN: [_balance_or_order_] Fragile Peace
+FR: {fs}Paix fragile
+
+EN: [_balance_or_order_] Harmony
+FR: {fs}Harmonie
+
+EN: [_balance_or_order_] Law
+FR: {fs}Loi
+
+EN: [_balance_or_order_] Linearity
+FR: {fs}Linéarité
+
+EN: [_balance_or_order_] Moderation
+FR: {fs}Modération
+
+EN: [_balance_or_order_] Peace
+FR: {fs}Paix
+
+EN: [_balance_or_order_] Propriety
+FR: {fs}Bienséance
+
+EN: [_balance_or_order_] Symmetry
+FR: {fs}Symétrie
+
+EN: [_balance_or_order_] the Establishment
+FR: {ms}l’Ordre établi
+
+EN: [_balance_or_order_] the Final Decision
+FR: {fs}la Décision finale
+
+EN: [_balance_or_order_] the Median
+FR: {fs}la Médiane
+
+EN: [_balance_or_order_] the Middle
+FR: {ms}le Milieu
+
+EN: [_economics_or_politics_] Amortisation
+FR: {fs}Amortissement
+
+EN: [_economics_or_politics_] Animal Spirits
+FR: {mp}Esprits animaux
+
+EN: [_economics_or_politics_] Bankruptcy
+FR: {fs}Faillite
+
+EN: [_economics_or_politics_] Collusion
+FR: {fs}Collusion
+
+EN: [_economics_or_politics_] Compound Interest
+FR: {mp}Intérêts composés
+
+EN: [_economics_or_politics_] Currency
+FR: {fs}Monnaie
+
+EN: [_economics_or_politics_] Debt
+FR: {fs}Dette
+
+EN: [_economics_or_politics_] Deflation
+FR: {fs}Déflation
+
+EN: [_economics_or_politics_] Demand
+FR: {fs}Demande
+
+EN: [_economics_or_politics_] Dividends
+FR: {mp}Dividendes
+
+EN: [_economics_or_politics_] Exchange
+FR: {ms}Échange
+
+EN: [_economics_or_politics_] Growth
+FR: {fs}Croissance
+
+EN: [_economics_or_politics_] Income
+FR: {mp}Revenus
+
+EN: [_economics_or_politics_] Inflation
+FR: {fs}Inflation
+
+EN: [_economics_or_politics_] Luxury
+FR: {ms}Luxe
+
+EN: [_economics_or_politics_] Profit
+FR: {ms}Profit
+
+EN: [_economics_or_politics_] Risk Management
+FR: {fs}Gestion des risques
+
+EN: [_economics_or_politics_] Supply
+FR: {fs}Offre
+
+EN: [_economics_or_politics_] Taxation
+FR: {fs}Taxation
+
+EN: [_economics_or_politics_] Valuable Assets
+FR: {mp}Biens précieux
+
+EN: [_economics_or_politics_] Welfare
+FR: {ms}Bien-être
+
+EN: [_economics_or_politics_] Attainder
+FR: {ms}Attainder
+
+EN: [_economics_or_politics_] Breach
+FR: {fs}Infraction
+
+EN: [_economics_or_politics_] Checks and Balances
+FR: {mp}Contre-pouvoirs
+
+EN: [_economics_or_politics_] Conservatism
+FR: {ms}Conservatisme
+
+EN: [_economics_or_politics_] Defenestration
+FR: {fs}Défenestration
+
+EN: [_economics_or_politics_] Fee Simple
+FR: {ms}Fee simple
+
+EN: [_economics_or_politics_] Freehold
+FR: {ms}Freehold
+
+EN: [_economics_or_politics_] Fundamental Breach
+FR: {fs}Violation fondamentale
+
+EN: [_economics_or_politics_] Governance
+FR: {fs}Gouvernance
+
+EN: [_economics_or_politics_] Greatest Utility
+FR: {fs}Plus grande utilité
+
+EN: [_economics_or_politics_] Impeachment
+FR: {fs}Destitution
+
+EN: [_economics_or_politics_] Mandamus
+FR: {ms}Mandamus
+
+EN: [_economics_or_politics_] Popular Demand
+FR: {fs}Demande populaire
+
+EN: [_economics_or_politics_] Poverty
+FR: {fs}Pauvreté
+
+EN: [_economics_or_politics_] Radicalism
+FR: {ms}Radicalisme
+
+EN: [_economics_or_politics_] Reapportionment
+FR: {ms}Redécoupage
+
+EN: [_economics_or_politics_] Royalism
+FR: {ms}Royalisme
+
+EN: [_economics_or_politics_] Sequestration
+FR: {ms}Séquestre
+
+EN: [_economics_or_politics_] Termination
+FR: {fs}Résiliation
+
+EN: [_economics_or_politics_] Wealth
+FR: {fs}Richesse
+
+EN: [_economics_or_politics_] the Common Good
+FR: {ms}le Bien commun
+
+EN: [_economics_or_politics_] the Dark Horse
+FR: {ms}le Cheval noir
+
+EN: [_economics_or_politics_] the Demagogue
+FR: {ms}le Démagogue
+
+EN: [_economics_or_politics_] the Imperium
+FR: {ms}l’Imperium
+
+EN: [_economics_or_politics_] the Lame Duck
+FR: {ms}le Canard boiteux
+
+EN: [_economics_or_politics_] the Lesser Evil
+FR: {ms}le Moindre Mal
+
+EN: [_economics_or_politics_] the Little People
+FR: {ms}le Petit Peuple
+
+EN: [_economics_or_politics_] the People
+FR: {ms}le Peuple
+
+EN: [_economics_or_politics_] the Revolution
+FR: {fs}la Révolution
+
+EN: [_economics_or_politics_] the Silent Majority
+FR: {fs}la Majorité silencieuse
+
+EN: [_economics_or_politics_] Actus Reus
+FR: {ms}Actus Reus
+
+EN: [_economics_or_politics_] Ad Valorem
+FR: {ms}Ad Valorem
+
+EN: [_economics_or_politics_] Adverse Possession
+FR: {fs}Adverse Possession
+
+EN: [_economics_or_politics_] Corpus Delicti
+FR: {ms}Corpus Delicti
+
+EN: [_economics_or_politics_] Eminent Domain
+FR: {ms}Eminent Domain
+
+EN: [_economics_or_politics_] In Flagrante Delicto
+FR: {ms}In Flagrante Delicto
+
+EN: [_economics_or_politics_] Ipse Dixit
+FR: {ms}Ipse Dixit
+
+EN: [_economics_or_politics_] Locus Delicti
+FR: {ms}Locus Delicti
+
+EN: [_economics_or_politics_] Malum In Se
+FR: {ms}Malum In Se
+
+EN: [_economics_or_politics_] Malum Prohibitum
+FR: {ms}Malum Prohibitum
+
+EN: [_economics_or_politics_] Mens Rea
+FR: {fs}Mens Rea
+
+EN: [_economics_or_politics_] Nolo Contendere
+FR: {ms}Nolo Contendere
+
+EN: [_economics_or_politics_] Non Obstante Veredicto
+FR: {ms}Non Obstante Veredicto
+
+EN: [_economics_or_politics_] Obiter Dictum
+FR: {ms}Obiter Dictum
+
+EN: [_economics_or_politics_] Res Ipsa Loquitur
+FR: {fs}Res Ipsa Loquitur
+
+EN: [_economics_or_politics_] Res Judicata
+FR: {fs}Res Judicata
+
+EN: [_place_name_] Beyond
+FR: {ms}Au-delà
+
+EN: [_place_name_] Distant Shores
+FR: {fp}Rives lointaines
+
+EN: [_place_name_] Distant Worlds
+FR: {mp}Mondes lointains
+
+EN: [_place_name_] Parts Unknown
+FR: {fp}Contrées inconnues
+
+EN: [_place_name_] Proximity
+FR: {fs}Proximité
+
+EN: [_place_name_] Somewhere Else
+FR: {ms}Ailleurs
+
+EN: [_place_name_] the Blessed Realm
+FR: {ms}le Royaume béni
+
+EN: [_place_name_] the Desert
+FR: {ms}le Désert
+
+EN: [_place_name_] the Equator
+FR: {ms}l’Équateur
+
+EN: [_place_name_] the Eternal Void
+FR: {ms}le Vide éternel
+
+EN: [_place_name_] the Forest
+FR: {fs}la Forêt
+
+EN: [_place_name_] the Hidden Vale
+FR: {ms}le Vallon caché
+
+EN: [_place_name_] the Hills
+FR: {fp}les Collines
+
+EN: [_place_name_] the Known World
+FR: {ms}le Monde connu
+
+EN: [_place_name_] the Land of Plenty
+FR: {ms}le Pays d’abondance
+
+EN: [_place_name_] the Maze
+FR: {ms}le Labyrinthe
+
+EN: [_place_name_] the New World
+FR: {ms}le Nouveau Monde
+
+EN: [_place_name_] the Old World
+FR: {ms}le Vieux Monde
+
+EN: [_place_name_] the Other Side
+FR: {ms}l’Autre Rive
+
+EN: [_place_name_] the Pit
+FR: {fs}la Fosse
+
+EN: [_place_name_] the Poles
+FR: {mp}les Pôles
+
+EN: [_place_name_] the Sea
+FR: {fs}la Mer
+
+EN: [_place_name_] the Shore
+FR: {ms}le Rivage
+
+EN: [_place_name_] the Spheres
+FR: {fp}les Sphères
+
+EN: [_place_name_] the Trees
+FR: {mp}les Arbres
+
+EN: [_place_name_] the Tundras
+FR: {fp}les Toundras
+
+EN: [_place_name_] the Unseen Realm
+FR: {ms}le Royaume invisible
+
+EN: [_place_name_] the Valley
+FR: {fs}la Vallée
+
+EN: [_place_name_] the Valley of Death
+FR: {fs}la Vallée de la Mort
+
+EN: [_place_name_] the Volcano
+FR: {ms}le Volcan
+
+EN: [_place_name_] the Wasteland
+FR: {fs}la Friche
+
+EN: [_place_name_] the Wilderness
+FR: {fs}la Nature sauvage
+
+EN: [_place_name_] the World
+FR: {ms}le Monde
+
+EN: [_discomfort_weapon_] Annoyance
+FR: {fs}Contrariété
+
+EN: [_discomfort_weapon_] Anxiety
+FR: {fs}Angoisse
+
+EN: [_discomfort_weapon_] Awkwardness
+FR: {fs}Gêne
+
+EN: [_discomfort_weapon_] Chagrin
+FR: {ms}Dépit
+
+EN: [_discomfort_weapon_] Desperation
+FR: {fs}Désespoir
+
+EN: [_discomfort_weapon_] Discomfort
+FR: {ms}Malaise
+
+EN: [_discomfort_weapon_] Disgust
+FR: {ms}Dégoût
+
+EN: [_discomfort_weapon_] Dismay
+FR: {ms}Désarroi
+
+EN: [_discomfort_weapon_] Dissatisfaction
+FR: {fs}Insatisfaction
+
+EN: [_discomfort_weapon_] Embarrassment
+FR: {ms}Embarras
+
+EN: [_discomfort_weapon_] Flawed Execution
+FR: {fs}Exécution défectueuse
+
+EN: [_discomfort_weapon_] Foul Odours
+FR: {fp}Odeurs fétides
+
+EN: [_discomfort_weapon_] Frustration
+FR: {fs}Frustration
+
+EN: [_discomfort_weapon_] Gloom
+FR: {fs}Morosité
+
+EN: [_discomfort_weapon_] Inconvenience
+FR: {ms}Inconvénient
+
+EN: [_discomfort_weapon_] Irritation
+FR: {fs}Irritation
+
+EN: [_discomfort_weapon_] Malaise
+FR: {ms}Malaise
+
+EN: [_discomfort_weapon_] Shame
+FR: {fs}Honte
+
+EN: [_discomfort_weapon_] Stickiness
+FR: {fs}Viscosité
+
+EN: [_discomfort_weapon_] Uncomfortable Rashes
+FR: {fp}Rougeurs gênantes
+
+EN: [_discomfort_weapon_] Unpleasantness
+FR: {ms}Désagrément
+
+EN: [_discomfort_weapon_] Urgency
+FR: {fs}Urgence
+
+EN: [_philosophy_or_science_] @_philosophy_name_@
+FR: @_philosophy_name_@
+
+EN: [_philosophy_or_science_] @_science_name_@
+FR: @_science_name_@
+
+EN: [_philosophy_name_] Absolutism
+FR: {ms}Absolutisme
+
+EN: [_philosophy_name_] Abstinence
+FR: {fs}Abstinence
+
+EN: [_philosophy_name_] Activism
+FR: {ms}Activisme
+
+EN: [_philosophy_name_] Agnosticism
+FR: {ms}Agnosticisme
+
+EN: [_philosophy_name_] Altruism
+FR: {ms}Altruisme
+
+EN: [_philosophy_name_] Anarchy
+FR: {fs}Anarchie
+
+EN: [_philosophy_name_] Asceticism
+FR: {ms}Ascétisme
+
+EN: [_philosophy_name_] Atheism
+FR: {ms}Athéisme
+
+EN: [_philosophy_name_] Autotheism
+FR: {ms}Autothéisme
+
+EN: [_philosophy_name_] Cynicism
+FR: {ms}Cynisme
+
+EN: [_philosophy_name_] Disestablishmentarianism
+FR: {ms}Antidisétablissementarisme
+
+EN: [_philosophy_name_] Dogma
+FR: {ms}Dogme
+
+EN: [_philosophy_name_] Egalitarianism
+FR: {ms}Égalitarisme
+
+EN: [_philosophy_name_] Elitism
+FR: {ms}Élitisme
+
+EN: [_philosophy_name_] Ethics
+FR: {fs}Éthique
+
+EN: [_philosophy_name_] Existentialism
+FR: {ms}Existentialisme
+
+EN: [_philosophy_name_] Fallacy
+FR: {fs}Fallace
+
+EN: [_philosophy_name_] Fanaticism
+FR: {ms}Fanatisme
+
+EN: [_philosophy_name_] Free Expression
+FR: {fs}Liberté d’expression
+
+EN: [_philosophy_name_] Free Will
+FR: {ms}Libre Arbitre
+
+EN: [_philosophy_name_] Hedonism
+FR: {ms}Hédonisme
+
+EN: [_philosophy_name_] Henotheism
+FR: {ms}Hénothéisme
+
+EN: [_philosophy_name_] Heresy
+FR: {fs}Hérésie
+
+EN: [_philosophy_name_] Idealism
+FR: {ms}Idéalisme
+
+EN: [_philosophy_name_] Kathenotheism
+FR: {ms}Cathénothéisme
+
+EN: [_philosophy_name_] Levity
+FR: {fs}Légèreté
+
+EN: [_philosophy_name_] Liberalism
+FR: {ms}Libéralisme
+
+EN: [_philosophy_name_] Limitation
+FR: {fs}Limitation
+
+EN: [_philosophy_name_] Maltheism
+FR: {ms}Maltheisme
+
+EN: [_philosophy_name_] Monotheism
+FR: {ms}Monothéisme
+
+EN: [_philosophy_name_] Morality
+FR: {fs}Moralité
+
+EN: [_philosophy_name_] Mutualism
+FR: {ms}Mutualisme
+
+EN: [_philosophy_name_] Mysticism
+FR: {ms}Mysticisme
+
+EN: [_philosophy_name_] Nihilism
+FR: {ms}Nihilisme
+
+EN: [_philosophy_name_] Optimism
+FR: {ms}Optimisme
+
+EN: [_philosophy_name_] Orthodoxy
+FR: {fs}Orthodoxie
+
+EN: [_philosophy_name_] Orthopraxy
+FR: {fs}Orthopraxie
+
+EN: [_philosophy_name_] Panentheism
+FR: {ms}Panenthéisme
+
+EN: [_philosophy_name_] Pantheism
+FR: {ms}Panthéisme
+
+EN: [_philosophy_name_] Pessimism
+FR: {ms}Pessimisme
+
+EN: [_philosophy_name_] Polytheism
+FR: {ms}Polythéisme
+
+EN: [_philosophy_name_] Pragmatism
+FR: {ms}Pragmatisme
+
+EN: [_philosophy_name_] Rationality
+FR: {fs}Rationalité
+
+EN: [_philosophy_name_] Relativism
+FR: {ms}Relativisme
+
+EN: [_philosophy_name_] Serendipity
+FR: {fs}Sérendipité
+
+EN: [_philosophy_name_] Skepticism
+FR: {ms}Scepticisme
+
+EN: [_philosophy_name_] Sophism
+FR: {ms}Sophisme
+
+EN: [_philosophy_name_] Stoicism
+FR: {ms}Stoïcisme
+
+EN: [_philosophy_name_] Syndicalism
+FR: {ms}Syndicalisme
+
+EN: [_philosophy_name_] Theistic Finitism
+FR: {ms}Finitisme théiste
+
+EN: [_philosophy_name_] the Ego
+FR: {ms}l’Ego
+
+EN: [_science_name_] Analysis
+FR: {fs}Analyse
+
+EN: [_science_name_] Articulation
+FR: {fs}Articulation
+
+EN: [_science_name_] Calculation
+FR: {ms}Calcul
+
+EN: [_science_name_] Circular Logic
+FR: {fs}Logique circulaire
+
+EN: [_science_name_] Classification
+FR: {fs}Classification
+
+EN: [_science_name_] Context
+FR: {ms}Contexte
+
+EN: [_science_name_] Evolution
+FR: {fs}Évolution
+
+EN: [_science_name_] Experimentation
+FR: {fs}Expérimentation
+
+EN: [_science_name_] Focus
+FR: {fs}Concentration
+
+EN: [_science_name_] Gravity
+FR: {fs}Gravité
+
+EN: [_science_name_] Inference
+FR: {fs}Inférence
+
+EN: [_science_name_] Infinity
+FR: {ms}Infini
+
+EN: [_science_name_] Inquiry
+FR: {fs}Enquête
+
+EN: [_science_name_] Instinct
+FR: {ms}Instinct
+
+EN: [_science_name_] Intuition
+FR: {fs}Intuition
+
+EN: [_science_name_] Objectivity
+FR: {fs}Objectivité
+
+EN: [_science_name_] Patterns
+FR: {mp}Motifs
+
+EN: [_science_name_] Quantum Leap
+FR: {ms}Saut quantique
+
+EN: [_science_name_] Reason
+FR: {fs}Raison
+
+EN: [_science_name_] Rotation
+FR: {fs}Rotation
+
+EN: [_science_name_] Subjectivity
+FR: {fs}Subjectivité
+
+EN: [_science_name_] Theory
+FR: {fs}Théorie
+
+EN: [_science_name_] Unreason
+FR: {fs}Déraison
+
+EN: [_science_name_] the Beginning
+FR: {ms}le Commencement
+
+EN: [_science_name_] the Big Bang
+FR: {ms}le Big Bang
+
+EN: [_science_name_] the Boiling Point
+FR: {ms}le Point d’ébullition
+
+EN: [_science_name_] the End
+FR: {fs}la Fin
+
+EN: [_science_name_] the Mind
+FR: {ms}l’Esprit
+
+EN: [_science_name_] the Nexus
+FR: {ms}le Nexus
+
+EN: [_item_name_] Candelabrum
+FR: {ms}Candélabre
+
+EN: [_item_name_] Candle
+FR: {fs}Bougie
+
+EN: [_item_name_] Chain
+FR: {fs}Chaîne
+
+EN: [_item_name_] Coin
+FR: {fs}Pièce
+
+EN: [_item_name_] Cup
+FR: {fs}Coupe
+
+EN: [_item_name_] Egg
+FR: {ms}Œuf
+
+EN: [_item_name_] Feather
+FR: {fs}Plume
+
+EN: [_item_name_] Girdle
+FR: {fs}Ceinture
+
+EN: [_item_name_] Globe
+FR: {ms}Globe
+
+EN: [_item_name_] Horn
+FR: {ms}Cor
+
+EN: [_item_name_] Key
+FR: {fs}Clé
+
+EN: [_item_name_] Orb
+FR: {fs}Orbe
+
+EN: [_item_name_] Pillar
+FR: {ms}Pilier
+
+EN: [_item_name_] Purse
+FR: {fs}Bourse
+
+EN: [_item_name_] Ring
+FR: {fs}Bague
+
+EN: [_item_name_] Scroll
+FR: {ms}Parchemin
+
+EN: [_item_name_] Ship
+FR: {ms}Navire
+
+EN: [_item_name_] Tent
+FR: {fs}Tente
+
+EN: [_item_name_] Vase
+FR: {ms}Vase
+
+EN: [_item_name_] Vine
+FR: {fs}Vigne
+
+EN: [_item_name_] Walnut
+FR: {fs}Noix
+
+EN: [_item_name_] Wheel
+FR: {fs}Roue
+
+EN: [_item_name_] Yoke
+FR: {ms}Joug
+
+EN: [_item_name_] Brain
+FR: {ms}Cerveau
+
+EN: [_item_name_] Foot
+FR: {ms}Pied
+
+EN: [_item_name_] Hand
+FR: {fs}Main
+
+EN: [_item_name_] Head
+FR: {fs}Tête
+
+EN: [_item_name_] Heart
+FR: {ms}Cœur
+
+EN: [_item_name_] Kidney
+FR: {ms}Rein
+
+EN: [_item_name_] Mouth
+FR: {fs}Bouche
+
+EN: [_item_name_] Throat
+FR: {fs}Gorge
+
+EN: [_item_name_] Tooth
+FR: {fs}Dent
+
+EN: [_magic_name_] the Hierophant
+FR: {ms}l’Hiérophante
+
+EN: [_magic_name_] the Magi
+FR: {mp}les Mages
+
+EN: [_magic_name_] the Sage
+FR: {ms}le Sage
+
+EN: [_magic_name_] the Warrior-Mage
+FR: {ms}le Mage-guerrier
+
+EN: [_substance_name_] Ash
+FR: {fs}Cendre
+
+EN: [_substance_name_] Bile
+FR: {fs}Bile
+
+EN: [_substance_name_] Bloodstone
+FR: {fs}Pierre de sang
+
+EN: [_substance_name_] Bodily Humours
+FR: {fp}Humeurs corporelles
+
+EN: [_substance_name_] Bread
+FR: {ms}Pain
+
+EN: [_substance_name_] Cheese
+FR: {ms}Fromage
+
+EN: [_substance_name_] Cobwebs
+FR: {fp}Toiles d’araignée
+
+EN: [_substance_name_] Crystal
+FR: {ms}Cristal
+
+EN: [_substance_name_] Dried Tears
+FR: {fp}Larmes séchées
+
+EN: [_substance_name_] Dung
+FR: {ms}Fumier
+
+EN: [_substance_name_] Ichor
+FR: {ms}Ichor
+
+EN: [_substance_name_] Ointment
+FR: {ms}Onguent
+
+EN: [_substance_name_] Oozing Pus
+FR: {ms}Pus suintant
+
+EN: [_substance_name_] Paper
+FR: {ms}Papier
+
+EN: [_substance_name_] Rubbish
+FR: {mp}Déchets
+
+EN: [_substance_name_] Salt
+FR: {ms}Sel
+
+EN: [_substance_name_] Saltpetre
+FR: {ms}Salpêtre
+
+EN: [_substance_name_] Sharkskin
+FR: {fs}Peau de requin
+
+EN: [_substance_name_] Slime
+FR: {fs}Vase
+
+EN: [_substance_name_] Sulphur
+FR: {ms}Soufre
+
+EN: [_substance_name_] Terra Cotta
+FR: {fs}Terre cuite
+
+EN: [_substance_name_] Dust
+FR: {fs}Poussière
+
+EN: [_substance_name_] Mana
+FR: {ms}Mana
+
+EN: [_substance_name_] Spores
+FR: {fp}Spores
+
+EN: [_substance_name_] Yeast
+FR: {fs}Levure
+
+EN: [other_weapon_name] Broken Luck
+FR: {fs}Chance brisée
+
+EN: [other_weapon_name] Butchery
+FR: {fs}Boucherie
+
+EN: [other_weapon_name] Checkmate
+FR: {ms}Échec et mat
+
+EN: [other_weapon_name] Conversion
+FR: {fs}Conversion
+
+EN: [other_weapon_name] Crawling
+FR: {ms}Rampement
+
+EN: [other_weapon_name] Desertification
+FR: {fs}Désertification
+
+EN: [other_weapon_name] Doors
+FR: {fp}Portes
+
+EN: [other_weapon_name] Entrepreneurial Spirit
+FR: {ms}Esprit d’entreprise
+
+EN: [other_weapon_name] False Hope
+FR: {ms}Faux Espoir
+
+EN: [other_weapon_name] Fulguration
+FR: {fs}Fulguration
+
+EN: [other_weapon_name] Gin and Tonic
+FR: {ms}Gin tonic
+
+EN: [other_weapon_name] Grontol
+FR: {ms}Grontol
+
+EN: [other_weapon_name] Hard Scrabble
+FR: {fs}Vie de misère
+
+EN: [other_weapon_name] Interdependent Arising
+FR: {fs}Interdépendance
+
+EN: [other_weapon_name] Irrepressible Laughter
+FR: {ms}Rire irrépressible
+
+EN: [other_weapon_name] No Interval
+FR: {ms}Sans répit
+
+EN: [other_weapon_name] Prescription
+FR: {fs}Prescription
+
+EN: [other_weapon_name] Red Wine
+FR: {ms}Vin rouge
+
+EN: [other_weapon_name] Res Nullius
+FR: {fs}Res Nullius
+
+EN: [other_weapon_name] Spontaneous Combustion
+FR: {fs}Combustion spontanée
+
+EN: [other_weapon_name] Terra Nullius
+FR: {fs}Terra Nullius
+
+EN: [other_weapon_name] Traps
+FR: {mp}Pièges
+
+EN: [other_weapon_name] Undoing
+FR: {ms}Défaire
+
+EN: [other_weapon_name] Vodka
+FR: {fs}Vodka
+
+EN: [other_weapon_name] the Blind Eye
+FR: {ms}le Regard détourné
+
+EN: [other_weapon_name] the Briny Deep
+FR: {fs}la Mer profonde
+
+EN: [other_weapon_name] the Empty Page
+FR: {fs}la Page blanche
+
+EN: [other_weapon_name] the Final Chapter
+FR: {ms}le Dernier Chapitre
+
+EN: [other_weapon_name] the Omega Point
+FR: {ms}le Point oméga
+
+EN: [other_weapon_name] the Open Hand
+FR: {fs}la Main ouverte
+
+EN: [other_weapon_name] the Pharaoh's Fist
+FR: {ms}le Poing du Pharaon
+
+EN: [other_weapon_name] the Real Monster
+FR: {ms}le Vrai Monstre
+
+EN: [other_weapon_name] the Spinneret
+FR: {fs}la Filière
+
+EN: [other_weapon_name] the Two Names
+FR: {mp}les Deux Noms
+
+EN: [other_weapon_name] the Unkillable
+FR: {ms}l’Intuable
+
+EN: [other_weapon_name] the Vendetta
+FR: {fs}la Vendetta
+
+EN: [short_monster_name_] Acarine
+FR: {ms}Acarien
+
+EN: [short_monster_name_] Beast
+FR: {fs}Bête
+
+EN: [short_monster_name_] Beetle
+FR: {ms}Scarabée
+
+EN: [short_monster_name_] Demon
+FR: {ms}Démon
+
+EN: [short_monster_name_] Dragon
+FR: {ms}Dragon
+
+EN: [short_monster_name_] Giant
+FR: {ms}Géant
+
+EN: [short_monster_name_] Goblin
+FR: {ms}Gobelin
+
+EN: [short_monster_name_] Hydra
+FR: {fs}Hydre
+
+EN: [short_monster_name_] Imp
+FR: {ms}Diablotin
+
+EN: [short_monster_name_] Jelly
+FR: {fs}Gelée
+
+EN: [short_monster_name_] Lacertilian
+FR: {ms}Lacertilien
+
+EN: [short_monster_name_] Newt
+FR: {ms}Triton
+
+EN: [short_monster_name_] Ogre
+FR: {ms}Ogre
+
+EN: [short_monster_name_] Spider
+FR: {fs}Araignée
+
+EN: [short_monster_name_] Testudine
+FR: {ms}Testudiné
+
+EN: [_monster_name_] @short_monster_name_@
+FR: @short_monster_name_@
+
+EN: [_monster_name_] @player_species@
+FR: @player_species@
+
+EN: [_monster_name_] Killer Bee
+FR: {fs}Abeille tueuse
+
+EN: [_monster_name_] Killer Klown
+FR: {ms}Klown tueur
+
+EN: [_monster_name_] Orb Guardian
+FR: {ms}Gardien de l’Orbe
+
+EN: [_short_killer_name_] bane
+FR: {ms}fléau de
+
+EN: [_short_killer_name_] slayer
+FR: {ms}tueur de
+
+EN: [killer_name] 's Bane
+FR: {ms}Fléau de
+
+EN: [killer_name] 's Curse
+FR: {fs}Malédiction de
+
+EN: [killer_name] 's Death
+FR: {fs}Mort de
+
+EN: [killer_name] 's Doom
+FR: {fs}Perdition de
+
+EN: [killer_name] 's Foe
+FR: {ms}Ennemi de
+
+EN: [killer_name] 's Peril
+FR: {ms}Péril de
+
+EN: [killer_name] 's Regret
+FR: {ms}Regret de
+
+EN: [_long_killer_name_] 's Death Toll
+FR: {ms}Glas de
+
+EN: [_long_killer_name_] 's Demise
+FR: {fs}Chute de
+
+EN: [_long_killer_name_] 's Funeral
+FR: {fp}Funérailles de
+
+EN: [_long_killer_name_] 's Nightmare
+FR: {ms}Cauchemar de
+
+EN: [_long_killer_name_] 's Undoing
+FR: {fs}Perte de
+
+EN: [_long_killer_name_] 's Looming Annihilation
+FR: {fs}Annihilation imminente de
+
+EN: [_real_weapon_name_] Arbiter
+FR: {ms}Arbitre
+
+EN: [_real_weapon_name_] Arcanum
+FR: {ms}Arcanum
+
+EN: [_real_weapon_name_] Concordance
+FR: {fs}Concordance
+
+EN: [_real_weapon_name_] Conservator
+FR: {ms}Conservateur
+
+EN: [_real_weapon_name_] Death Rattle
+FR: {ms}Râle de la mort
+
+EN: [_real_weapon_name_] Dragon's Tongue
+FR: {fs}Langue du dragon
+
+EN: [_real_weapon_name_] Earthworm
+FR: {ms}Lombric
+
+EN: [_real_weapon_name_] Embalmer
+FR: {ms}Embaumeur
+
+EN: [_real_weapon_name_] Eviscerator
+FR: {ms}Éventreur
+
+EN: [_real_weapon_name_] Grim
+FR: {ms}Sinistre
+
+EN: [_real_weapon_name_] Grim Tooth
+FR: {fs}Dent sinistre
+
+EN: [_real_weapon_name_] Hell-Harrower
+FR: {ms}Tourmenteur d’Enfer
+
+EN: [_real_weapon_name_] Hellblazer
+FR: {ms}Brasier de l’Enfer
+
+EN: [_real_weapon_name_] Leviticus
+FR: {ms}Lévitique
+
+EN: [_real_weapon_name_] Lifebane
+FR: {ms}Fléau de vie
+
+EN: [_real_weapon_name_] Murmur
+FR: {ms}Murmure
+
+EN: [_real_weapon_name_] Pendulum
+FR: {ms}Pendule
+
+EN: [_real_weapon_name_] Sarcophage
+FR: {ms}Sarcophage
+
+EN: [_real_weapon_name_] Serial Peacemaker
+FR: {ms}Pacificateur en série
+
+EN: [_real_weapon_name_] Tormentor
+FR: {ms}Tourmenteur
+
+EN: [_real_weapon_name_] Transmigrator
+FR: {ms}Transmigrateur
+
+EN: [_real_weapon_name_] Trog's @_anger_quality_@
+FR: @_anger_quality_@ de Trog
+
+EN: [_real_weapon_name_] Ultimatum
+FR: {ms}Ultimatum
+
+EN: [_real_weapon_name_] Undertaker
+FR: {ms}Croque-mort
+
+EN: [_real_weapon_name_] Widowermaker
+FR: {ms}Faiseur de veuves
+
+EN: [_real_weapon_name_] Widowmaker
+FR: {ms}Faiseur de veuves
+
+EN: [_real_weapon_name_] Worm
+FR: {ms}Ver
+
+EN: [_real_weapon_name_] Worm's Wrath
+FR: {fs}Colère du ver
+
+EN: [_real_weapon_name_] Gram
+FR: {ms}Gram
+
+EN: [_joke_weapon_name_] Aubergine
+FR: {fs}Aubergine
+
+EN: [_joke_weapon_name_] Backscratcher
+FR: {ms}Gratte-dos
+
+EN: [_joke_weapon_name_] Bingo
+FR: {ms}Bingo
+
+EN: [_joke_weapon_name_] Blob
+FR: {ms}Blob
+
+EN: [_joke_weapon_name_] Brush
+FR: {fs}Brosse
+
+EN: [_joke_weapon_name_] Bung
+FR: {ms}Bouchon
+
+EN: [_joke_weapon_name_] Cookie Cutter
+FR: {ms}Emporte-pièce
+
+EN: [_joke_weapon_name_] ETAOIN SHRDLU
+FR: {ms}ETAOIN SHRDLU
+
+EN: [_joke_weapon_name_] Egg
+FR: {ms}Œuf
+
+EN: [_joke_weapon_name_] Fish
+FR: {ms}Poisson
+
+EN: [_joke_weapon_name_] Giant's Toothpick
+FR: {ms}Cure-dent du géant
+
+EN: [_joke_weapon_name_] Globulus
+FR: {ms}Globulus
+
+EN: [_joke_weapon_name_] Grom
+FR: {ms}Grom
+
+EN: [_joke_weapon_name_] Grum
+FR: {ms}Grum
+
+EN: [_joke_weapon_name_] Hulk
+FR: {ms}Hulk
+
+EN: [_joke_weapon_name_] Lorem Ipsum
+FR: {ms}Lorem Ipsum
+
+EN: [_joke_weapon_name_] Mud Pie of Death
+FR: {fs}Tarte à la boue mortelle
+
+EN: [_joke_weapon_name_] No More Talking
+FR: {ms}Silence définitif
+
+EN: [_joke_weapon_name_] Omelette
+FR: {fs}Omelette
+
+EN: [_joke_weapon_name_] Ox
+FR: {ms}Bœuf
+
+EN: [_joke_weapon_name_] Q
+FR: {ms}Q
+
+EN: [_joke_weapon_name_] Raisin
+FR: {ms}Raisin sec
+
+EN: [_joke_weapon_name_] Rummage
+FR: {ms}Fouillis
+
+EN: [_joke_weapon_name_] Secret Weapon
+FR: {fs}Arme secrète
+
+EN: [_joke_weapon_name_] Starlight
+FR: {fs}Lumière stellaire
+
+EN: [_joke_weapon_name_] String
+FR: {fs}Ficelle
+
+EN: [_joke_weapon_name_] Stringbean
+FR: {ms}Haricot vert
+
+EN: [_joke_weapon_name_] Tattletale
+FR: {ms}Rapporteur
+
+EN: [_joke_weapon_name_] Thing
+FR: {fs}Chose
+
+EN: [_joke_weapon_name_] With Two Names
+FR: {ms}Avec deux noms
+
+EN: [_joke_weapon_name_] X
+FR: {ms}X
+
+EN: [_joke_weapon_name_] Xom's @_xom_esteem_@
+FR: @_xom_esteem_@ de Xom
+
+EN: [_joke_weapon_name_] Z
+FR: {ms}Z
+
+EN: [_joke_weapon_name_] Glorpo
+FR: {ms}Glorpo
+
+EN: [_joke_weapon_name_] Loopy
+FR: {ms}Loopy
+
+EN: [_joke_weapon_name_] Plojy
+FR: {ms}Plojy
+
+EN: [_plain_weapon_name_] @short_monster_name_@@_short_killer_name_@
+FR: @_short_killer_name_@ @short_monster_name_@
+
+EN: [_plain_weapon_name_] @_monster_name_@@killer_name@
+FR: @killer_name@ @_monster_name_@
+
+EN: [_plain_weapon_name_] @short_monster_name_@@_long_killer_name_@
+FR: @_long_killer_name_@ @short_monster_name_@
+
+EN: [_plain_weapon_name_] @player_death@
+FR: @player_death@
+
+EN: [_plain_weapon_name_] @_real_weapon_name_@
+FR: @_real_weapon_name_@
+
+EN: [_plain_weapon_name_] @_joke_weapon_name_@
+FR: @_joke_weapon_name_@

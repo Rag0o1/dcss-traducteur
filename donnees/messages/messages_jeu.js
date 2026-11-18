@@ -7,7 +7,7 @@ globalThis.DCSS_TRADUCTIONS.messages_jeu = {
 "A divine halo surrounds you!": "Un halo divin vous entoure !",
 "A dragon tries to answer your call, but you don't have enough magical power!": "Un dragon tente de répondre à votre appel, mais vous n’avez pas assez de puissance magique !",
 "A draining tide of despair and horror washes over you and your surroundings!": "Une marée épuisante de désespoir et d’horreur déferle sur vous et sur vos alentours !",
-"A magic seal in the Gauntlet prevents you from opening a passage!": "Un sceau magique du Défi vous empêche d’ouvrir un passage !",
+"A magic seal in the Gauntlet prevents you from opening a passage!": "Un sceau magique du Gauntlet vous empêche d’ouvrir un passage !",
 "A shower of butterflies erupts from you!": "Une pluie de papillons jaillit de vous !",
 "A storm instantly forms around you!": "Une tempête se forme instantanément autour de vous !",
 "A wave of disorienting energy ripples outward as you feel the reach of Zot diminish.": "Une vague d’énergie désorientante se propage tandis que vous sentez la portée de Zot diminuer.",

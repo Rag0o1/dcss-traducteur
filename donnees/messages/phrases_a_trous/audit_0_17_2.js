@@ -12,8 +12,8 @@
     const BR = { "the Dungeon": "le Donjon", "the Temple": "le Temple", "the Lair of Beasts": "l’Antre des Bêtes", "the Orcish Mines": "les Mines Orques", "the Hive": "la Ruche",
         "the Vaults": "les Cryptes", "the Snake Pit": "la Fosse aux Serpents", "the Swamp": "le Marais", "the Shoals": "les Hauts-fonds", "the Spider Nest": "le Nid d’Araignées",
         "the Slime Pits": "les Fosses de Gelée", "the Elven Halls": "les Salles Elfiques", "the Depths": "les Profondeurs", "the Realm of Zot": "le Royaume de Zot",
-        "the Abyss": "l’Abysse", "Pandemonium": "le Pandémonium", "the Crypt": "la Crypte", "the Tomb": "le Tombeau", "the Ossuary": "l’Ossuaire", "the Sewer": "l’Égout",
-        "the Ice Cave": "la Grotte de Glace", "the Volcano": "le Volcan", "the Bazaar": "le Bazar", "the Labyrinth": "le Labyrinthe", "the Gauntlet": "l’Épreuve" };
+        "the Abyss": "l’Abysse", "Pandemonium": "le Pandémonium", "the Crypt": "la Crypte", "the Tomb": "le Tombeau", "the Ossuary": "l’Ossuary", "the Sewer": "le Sewer",
+        "the Ice Cave": "l’Ice Cave", "the Volcano": "le Volcano", "the Bazaar": "le Bazaar", "the Labyrinth": "le Labyrinth", "the Gauntlet": "le Gauntlet" };
     const brTrad = b => BR[b] || null;
     const deBr = f => f.replace(/^(?:le |la |l’|les )/, x => x === "le " ? "du " : x === "les " ? "des " : x === "la " ? "de la " : "de l’");
     const dansBr = f => /^l’/.test(f) ? "dans " + f : f.startsWith("le ") ? "dans le " + f.slice(3) : f.startsWith("la ") ? "dans la " + f.slice(3) : "dans " + f;

@@ -308,7 +308,7 @@ EN: Finish your current sermon first, please.
 FR: Terminez d’abord votre sermon en cours, s’il vous plaît.
 
 EN: Finish your current ziggurat first!
-FR: Terminez d’abord votre ziggourat en cours !
+FR: Terminez d’abord votre ziggurat en cours !
 
 EN: Flames leap up around you!
 FR: Des flammes jaillissent autour de vous !
@@ -1490,7 +1490,7 @@ EN: You can't pick that up.
 FR: Vous ne pouvez pas ramasser cela.
 
 EN: You can't place a gateway to a ziggurat here.
-FR: Vous ne pouvez pas placer une porte vers une ziggourat ici.
+FR: Vous ne pouvez pas placer une porte vers une ziggurat ici.
 
 EN: You can't place the prism on a creature.
 FR: Vous ne pouvez pas placer le prisme sur une créature.
@@ -2189,7 +2189,7 @@ EN: You have nothing you can fire or use right now.
 FR: Vous n’avez rien que vous puissiez tirer ou utiliser pour le moment.
 
 EN: You have passed through the Ziggurat. Zot will hunt you nevermore.
-FR: Vous avez traversé la Ziggourat. Zot ne vous traquera plus jamais.
+FR: Vous avez traversé la Ziggurat. Zot ne vous traquera plus jamais.
 
 EN: You have turned to stone.
 FR: Vous vous êtes changé en pierre.
@@ -2375,7 +2375,7 @@ EN: You set off the alarm!
 FR: Vous déclenchez l’alarme !
 
 EN: You set the figurine down, and a mystic portal to a ziggurat forms.
-FR: Vous posez la figurine, et un portail mystique vers une ziggourat se forme.
+FR: Vous posez la figurine, et un portail mystique vers une ziggurat se forme.
 
 EN: You shrug off repeated attempt to disable you.
 FR: Vous repoussez la tentative répétée de vous neutraliser.

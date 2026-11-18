@@ -638,7 +638,7 @@ EN: A beguiling merfolk whose voice can mesmerise listeners.
 FR: Un sirénien séduisant dont la voix peut hypnotiser ceux qui l’écoutent.
 
 EN: A large muscular human with the head of a bull. It makes its home in a gauntlet where it awaits worthy challengers.
-FR: Un grand humain musclé à tête de taureau. Il a élu domicile dans un labyrinthe où il attend de dignes adversaires.
+FR: Un grand humain musclé à tête de taureau. Il a élu domicile dans un gauntlet où il attend de dignes adversaires.
 
 EN: A hideous molten stone statue come to life, with flames licking across its body.
 FR: Une hideuse statue de pierre en fusion revenue à la vie, des flammes léchant son corps.

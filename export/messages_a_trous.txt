@@ -8246,7 +8246,7 @@ EN: You hold your ground!
 FR: Vous tenez bon !
 
 EN: You enter an ornate necropolis!
-FR: Vous entrez dans une Nécropole ornée !
+FR: Vous entrez dans une Necropolis ornée !
 
 EN: You fade into invisibility!
 FR: Vous vous fondez dans l’invisibilité !
@@ -8336,10 +8336,10 @@ EN: no status effects
 FR: aucun effet de statut
 
 EN: There is an entrance to the Necropolis on this level. Hurry and find it before the portal closes!
-FR: Il y a une entrée vers la Nécropole sur ce niveau. Dépêchez-vous de la trouver avant que le portail ne se ferme !
+FR: Il y a une entrée vers la Necropolis sur ce niveau. Dépêchez-vous de la trouver avant que le portail ne se ferme !
 
 EN: There is an entrance to the Necropolis on this level. Hurry and find it before
-FR: Il y a une entrée vers la Nécropole sur ce niveau. Dépêchez-vous de la trouver avant que
+FR: Il y a une entrée vers la Necropolis sur ce niveau. Dépêchez-vous de la trouver avant que
 
 EN: the portal closes!
 FR: le portail ne se ferme !

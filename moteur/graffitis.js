@@ -14,7 +14,7 @@
     const ALIAS = { graffiti_author_any: "_graffiti_author_any_" };
 
     function jetons(src, fr) {
-        const out = []; const re = fr ? /\[([^\]]*)\]|@([^@#]+)(?:#([mf][sp]))?@|\{(inv|[mf][sp])\}/g : /\[([^\]]*)\]|@([^@]+)@/g; let d = 0, m;
+        const out = []; const re = fr ? /\[([^\]]*)\]|@([^@#]+)(?:#([mf][sp]))?@|\{(inv|apres|[mf][sp])\}/g : /\[([^\]]*)\]|@([^@]+)@/g; let d = 0, m;
         while ((m = re.exec(src))) {
             if (m.index > d) out.push({ t: "lit", s: src.slice(d, m.index) });
             d = re.lastIndex;
@@ -64,26 +64,29 @@
         let meilleur = Infinity;
         const libres = nd => nd.feuille ? nd.texte.length + 1 : (nd.enf || []).reduce((t, [, c]) => t + libres(c), 0);
         reg(regle, 0, (e, nd) => { if (e === s.length) { const sc = libres(nd); if (sc < meilleur) { meilleur = sc; trouve = nd; } } return meilleur === 0; });
+        if (trouve) trouve.score = meilleur;
         return trouve;
     }
 
     // --- Reconstruction avec la grammaire française ---
     const accord = (txt, gn, inv) => txt.replace(/([\p{L}’'-]+)\/([\p{L}’'-]+)/gu, (m, a, b) => {
-        let w = inv ? a : (gn[0] === "f" ? b : a); if (!inv && gn[1] === "p" && !/[sxz]$/.test(w)) w += "s"; return w; });
+        let w = inv ? a : (gn[0] === "f" ? b : a);
+        if (!inv && gn[1] === "p") { if (gn[0] === "m" && /al$/.test(w)) w = w.slice(0, -2) + "aux"; else if (!/[sxz]$/.test(w)) w += "s"; }
+        return w; });
     function rendre(nd, ctx) {
         if (nd.feuille) {
             const n = nd.nom; let t = nd.texte;
             if (/^random_(god|skill)/.test(n)) { const r = T1(t); if (r && r !== t) t = r; else { const r2 = T1("the " + t); if (r2 && r2 !== "the " + t) t = r2.replace(/^(?:le|la|l’) ?/, m => m); } }
             if (/_possessive$/.test(n)) t = t.replace(/[’']s$/, "");   // « Trog's » → « Trog » (le français écrit « de Trog »)
-            else if (/^(branch_name|god_name|xom_name|player_species)$/.test(n)) { const r = T1(t); if (r && r !== t) t = r; }
+            else if (/^(branch_name|god_name|xom_name|player_species)$/.test(n)) { const r = T1(t); if (r && r !== t) t = r; else t = t.replace(/^the /, ""); }
             return { s: t, gn: null };
         }
-        let cur = ctx.gn || "ms", inv = !!ctx.inv, gnNoeud = null; const pris = {}; let sortie = "";
+        let cur = ctx.gn || "ms", inv = !!ctx.inv, gnNoeud = null, apres = false, garde = null; const pris = {}; let sortie = "";
         const sousNoeud = (k, rang) => { let v = 0; for (const [nom, sub] of nd.enf) if (nom === k && ++v === rang) return sub; return null; };
         const tf = nd.p.tf;
         for (let ti = 0; ti < tf.length; ti++) {
             const t = tf[ti];
-            if (t.t === "tag") { if (t.v === "inv") inv = true; else { cur = t.v; if (!gnNoeud) gnNoeud = t.v; } }
+            if (t.t === "tag") { if (t.v === "apres") apres = true; else if (t.v === "inv") inv = true; else { cur = t.v; if (!gnNoeud) gnNoeud = t.v; } }
             else if (t.t === "lit") sortie += accord(t.s, cur, inv);
             else if (t.t === "alt") { /* index pris dans l'ordre des alternatives anglaises */ nd._ia = (nd._ia || 0); const n = nd.alts[nd._ia++]; sortie += accord(t.opts[Math.min(n === undefined ? 0 : n, t.opts.length - 1)], cur, inv); }
             else {
@@ -105,24 +108,28 @@
                     const art = g[1] === "p" ? "les " : /^[aeiouyhâàéèêëîïôœû]/i.test(r.s) ? "l’" : g[0] === "f" ? "la " : "le ";
                     sortie = sortie.replace("¤", art);
                 }
+                if (t.suiv && r.apres) { garde = r.s; continue; }   // {apres} : cet adjectif se place finalement après le nom
                 sortie += r.s; if (r.gn && !t.gn && !t.suiv) { cur = r.gn; if (!gnNoeud) gnNoeud = r.gn; }
+                if (garde !== null && !t.suiv) { sortie += " " + garde; garde = null; }
             }
         }
         nd._ia = 0;
-        return { s: sortie, gn: gnNoeud };
+        if (garde !== null) sortie += " " + garde;
+        return { s: sortie, gn: gnNoeud, apres };
     }
     function elisions(s) {
         return s.replace(/ {2,}/g, " ").trim().replace(/\b([Dd])e le /g, "$1u ").replace(/\b([Dd])e les /g, "$1es ").replace(/\bà le /g, "au ").replace(/\bà les /g, "aux ")
             .replace(/\b([Dd]e|[Qq]ue) ([AEIOUYÉÈÊ])/g, (m, a, b) => a.slice(0, -1) + "’" + b);
     }
 
-    function traduire(regle, texte) {
+    function traduireAvecScore(regle, texte) {
         if (!REGLES) charger();
         if (!REGLES || !texte) return null;
         const nd = analyser(regle, texte); if (!nd) return null;
         const r = rendre(nd, { gn: "ms" }); if (r.erreur) return null;
-        return elisions(r.s);
+        return { s: elisions(r.s), score: nd.score || 0 };
     }
+    function traduire(regle, texte) { const r = traduireAvecScore(regle, texte); return r ? r.s : null; }
     // Noms aléatoires d'artefacts (« of the Lonely Yaks ») : on essaie les règles de départ du jeu (weapon, armour, ring…).
     const memoNoms = new Map();
     function nomArtefact(suffixe) {
@@ -130,7 +137,13 @@
         if (!REGLES) charger();
         let res = null;
         const depart = globalThis.DCSS_NOMS_DEPART || [];
-        for (const r of depart) { if (REGLES[r] && (res = traduire(r, suffixe))) break; }
+        let meilleur = Infinity;   // la règle qui reconnaît le nom avec le moins de morceaux libres
+        for (const r of depart) {
+            if (!REGLES[r]) continue;
+            const t = traduireAvecScore(r, suffixe);
+            if (t && t.score < meilleur) { meilleur = t.score; res = t.s; if (!meilleur) break; }
+        }
+        if (res !== null && meilleur >= suffixe.length - 4) res = null;   // presque tout « libre » (« of Cocytus ») : ce n'est pas un nom d'artefact
         if (memoNoms.size > 2000) memoNoms.clear();
         memoNoms.set(suffixe, res);
         return res;

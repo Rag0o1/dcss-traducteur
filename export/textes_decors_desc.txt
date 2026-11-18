@@ -161,13 +161,13 @@ EN: A magical trap built to bolster the armies of some conquering despot. When y
 FR: Un piège magique construit pour renforcer les armées de quelque despote conquérant. Quand vous ou un monstre hostile marchez dessus, vos attaques de mêlée seront affaiblies pour que jusqu’à trois des monstres les plus dangereux en vue deviennent plus forts. Vos alliés éviteront d’y marcher.
 
 EN: A portal leading to one of many Necropolis repositories, where the freshly slain and deeply resentful are sealed away. This wandering rift will eventually move elsewhere to receive further dead.
-FR: Un portail menant à l’un des nombreux dépôts de la Nécropole, où les fraîchement tués et profondément rancuniers sont scellés. Cette brèche errante finira par se déplacer ailleurs pour recevoir d’autres morts.
+FR: Un portail menant à l’un des nombreux dépôts de la Necropolis, où les fraîchement tués et profondément rancuniers sont scellés. Cette brèche errante finira par se déplacer ailleurs pour recevoir d’autres morts.
 
 EN: A portal leading to a glacial chasm, far more dangerous than the icy caverns found in the shallower reaches of the Dungeon. The archway is gradually melting away.
 FR: Un portail menant à un gouffre glaciaire, bien plus dangereux que les cavernes glacées des niveaux moins profonds du Donjon. L’arche fond peu à peu.
 
 EN: A portal leading to a treasure trove. This portal is unstable and will collapse after a single use.
-FR: Un portail menant à un trésor. Ce portail est instable et s’effondrera après un seul usage.
+FR: Un portail menant à un trove. Ce portail est instable et s’effondrera après un seul usage.
 
 EN: A salt-encrusted arch, covered with carved entreaties to the good gods to contain the evils sealed therein. Whatever protections this arch once offered have finally succumbed to the ravages of time, and a bitter breeze pours forth from the distant land beyond.
 FR: Une arche incrustée de sel, couverte de supplications gravées aux bons dieux pour contenir les maux qui y sont scellés. Les protections que cette arche offrait jadis ont fini par succomber aux ravages du temps, et une brise amère s’en échappe depuis la terre lointaine au-delà.
