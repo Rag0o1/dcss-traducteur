@@ -1,5 +1,5 @@
 EN: You cannot teleport or blink.
-FR: Vous ne pouvez ni vous téléporter ni clignoter.
+FR: Vous ne pouvez ni vous téléporter ni faire de Blink.
 
 EN: You have a chance of going berserk when you make a melee attack.
 FR: Vous avez une chance de devenir berserk quand vous effectuez une attaque de mêlée.

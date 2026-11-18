@@ -269,7 +269,7 @@ EN: The ground here is liquefied, making movement slow and causing any attempts 
 FR: Le sol ici est liquéfié, ralentissant le mouvement et faisant échouer parfois toute tentative d’attaque en mêlée.
 
 EN: This area is bathed in translocational energy, causing creatures to blink away from the originator of the energy with an increasing chance the closer they are to the caster.
-FR: Cette zone est baignée d’énergie de translocation, faisant clignoter les créatures loin de l’émetteur de l’énergie avec une chance croissante à mesure qu’elles sont proches du lanceur.
+FR: Cette zone est baignée d’énergie de translocation, faisant faire un Blink aux créatures loin de l’émetteur de l’énergie avec une chance croissante à mesure qu’elles sont proches du lanceur.
 
 EN: This tree has been temporarily enchanted to grant it some limited motility, allowing it to lash out out at any adjacent enemies of the creature who awoke it.
 FR: Cet arbre a été temporairement enchanté pour lui accorder une mobilité limitée, lui permettant de frapper tous les ennemis adjacents de la créature qui l’a éveillé.

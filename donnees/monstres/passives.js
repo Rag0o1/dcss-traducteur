@@ -2,7 +2,7 @@
 // Pour corriger une phrase : changez simplement le texte français à droite.
 globalThis.DCSS_TRADUCTIONS = globalThis.DCSS_TRADUCTIONS || {};
 globalThis.DCSS_TRADUCTIONS.passives_desc = {
-"You cannot teleport or blink.": "Vous ne pouvez ni vous téléporter ni clignoter.",
+"You cannot teleport or blink.": "Vous ne pouvez ni vous téléporter ni faire de Blink.",
 "You have a chance of going berserk when you make a melee attack.": "Vous avez une chance de devenir berserk quand vous effectuez une attaque de mêlée.",
 "You have a chance of being corroded when you take damage.": "Vous avez une chance d’être corrodé quand vous subissez des dégâts.",
 "You have a chance of being slowed when you take damage.": "Vous avez une chance d’être ralenti quand vous subissez des dégâts.",

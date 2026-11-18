@@ -11,6 +11,13 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.22 — phrases à touches (astuces, tutoriel) et « Blink »
+
+- Nouveau dans le moteur (`moteur/content.js`, `traduirePhraseATouches`) : quand le jeu coupe une phrase avec des touches colorées, la phrase ENTIÈRE est reconnue sur l’élément parent et traduite d’un coup. Garde-fou : un morceau isolé (« You can ») n’est jamais traduit seul ; seule une phrase complète connue l’est.
+- Nouveau `donnees/interface/phrases_touches.js` (192 phrases des astuces et du tutoriel, source : `outils/phrases_touches_src.json`).
+- « blink » = « Blink » partout (décision du 18/11) : « Vous faites un Blink. », « parchemin de Blink », « Le gobelin fait un Blink vers vous. ». « en un clin d’œil » (blink of an eye) reste tel quel ; l’option « noms de sorts en français » garde « Clignement ».
+- Page « Priorités » dans le tableau Excel (`outils/priorites.py`).
+
 ## 0.21.9 — dat/database : enfer, accueil, Xom
 
 - Nouveau `messages/database_divers.js` (416 textes, généré par `outils/db/gen_exact.py` depuis `outils/db/miscname.txt`, `godname.txt`, `godspeak.txt`) : effets de l’Enfer (« Abandonnez tout espoir ! »), messages d’accueil sur l’Orbe de Zot (avec ses 18 adjectifs accordés), visions de la convocation d’horreurs, arènes de Xom, titres de Xom (« Xom le Roublard ») et de Pakellas, cadeaux et paroles de Xom (Xom tutoie, comme ailleurs).

@@ -14,7 +14,7 @@ EN: A sentinel's mark forms upon you.
 FR: La marque d’une sentinelle se forme sur vous.
 
 EN: As you read the scroll of blinking, it crumbles to dust.
-FR: Alors que vous lisez le parchemin de clignotement, il s’effrite en poussière.
+FR: Alors que vous lisez le parchemin de Blink, il s’effrite en poussière.
 
 EN: Barbed spikes become lodged in your body.
 FR: Des pointes barbelées se logent dans votre corps.
@@ -866,7 +866,7 @@ EN: Spell assigned to 'l'.
 FR: Sort assigné à « l ».
 
 EN: Blink to where?
-FR: Clignoter vers où ?
+FR: Blink vers où ?
 
 EN: Cast which spell? (? or * to list)
 FR: Quel sort ? (? ou * : liste)

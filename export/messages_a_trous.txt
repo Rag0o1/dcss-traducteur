@@ -7721,13 +7721,13 @@ EN: {A} launches the last of itself at you with a shrill rumble.
 FR: {S1} se lance tout entier sur vous dans un grondement strident.
 
 EN: {A} blinks away.
-FR: {S1} clignote au loin.
+FR: {S1} fait un Blink au loin.
 
 EN: {A} blinks toward you.
-FR: {S1} clignote vers vous.
+FR: {S1} fait un Blink vers vous.
 
 EN: {A} blinks.
-FR: {S1} clignote.
+FR: {S1} fait un Blink.
 
 EN: {A} blocks your attack.
 FR: {S1} bloque votre attaque.

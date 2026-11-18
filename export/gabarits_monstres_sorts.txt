@@ -32,7 +32,7 @@ EN: @The_monster@ blasts magma @at@ @target@!
 FR: @M_S@ projette du magma @sur@ @T_o@ !
 
 EN: @The_monster@ blinks @at@ @target@.
-FR: @M_S@ clignote @vers@ @T_o@.
+FR: @M_S@ fait un Blink @vers@ @T_o@.
 
 EN: @The_monster@ breathes @beam@ @at@ @target@.
 FR: @M_S@ souffle @beam@ @sur@ @T_o@.

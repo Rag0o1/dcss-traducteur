@@ -374,7 +374,7 @@ EN: ~It splashes victims with acid (2d4 damage, Corrosion).
 FR: Il éclabousse ses victimes d’acide (2d4 dégâts, Corrosion).
 
 EN: ~You cannot teleport or blink.
-FR: Vous ne pouvez ni vous téléporter ni vous translocaliser.
+FR: Vous ne pouvez ni vous téléporter ni faire de Blink.
 
 EN: ~A stone of unearthly beauty and almost immeasurable value outside the dungeon. Within its confines, it is utterly useless.
 FR: Une pierre d’une beauté surnaturelle et d’une valeur presque incommensurable hors du donjon. Dans ses murs, elle est tout à fait inutile.

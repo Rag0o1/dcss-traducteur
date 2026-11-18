@@ -803,7 +803,7 @@ EN: A sorcerer who, by accident or design, has been afflicted with the curse of 
 FR: Un sorcier qui, par accident ou par choix, a été frappé de la malédiction du vampire. Quoi qu’il en soit, dans la non-vie, il a enfin maîtrisé l’art de la magie noire.
 
 EN: A species of frog that possesses the ability to blink at will. It can blink itself close to its intended prey, or blink away to escape harm. It is commonly found in packs.
-FR: Une espèce de grenouille qui possède la capacité de faire des sauts éclairs à volonté. Elle peut ainsi se rapprocher de sa proie, ou s’échapper d’un saut éclair. On la trouve couramment en groupe.
+FR: Une espèce de grenouille qui possède la capacité de faire des Blink à volonté. Elle peut ainsi se rapprocher de sa proie, ou s’échapper d’un saut éclair. On la trouve couramment en groupe.
 
 EN: A spider which weaves webs between its front legs and leaps at its prey, ensnaring them. The speed with which it leaps is almost supernatural.
 FR: Une araignée qui tisse des toiles entre ses pattes de devant et bondit sur sa proie pour l’emprisonner. La vitesse de son bond est presque surnaturelle.
@@ -2441,7 +2441,7 @@ EN: Wanderers start with random equipment and skills.
 FR: Les Vagabonds commencent avec un équipement et des compétences aléatoires.
 
 EN: Warpers start with a weapon of their choice, a scroll of blinking, darts of disjunction, and some Translocation spells in their library.
-FR: Les Translocateurs commencent avec une arme de leur choix, un parchemin de blink, des fléchettes de disjonction et quelques sorts de Translocation dans leur bibliothèque.
+FR: Les Translocateurs commencent avec une arme de leur choix, un parchemin de Blink, des fléchettes de disjonction et quelques sorts de Translocation dans leur bibliothèque.
 
 EN: Warps the flow of time, causing monsters to skip forwards in time relative to you.
 FR: Perturbe l’écoulement du temps autour de vous, déplaçant les monstres plus avant dans le temps par rapport à vous.

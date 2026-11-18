@@ -303,7 +303,7 @@
         const pl = n && +n[1] > 1;
         const marque = dt + (pl ? "scrolls" : "scroll") + " of blinking";
         const r = globalThis.DCSS_TRADUIRE_CHAINE ? globalThis.DCSS_TRADUIRE_CHAINE(m[1] + marque + m[3]) : null;
-        const connu = pl ? n[1] + " parchemins de clignotement" : dt === "the " ? "le parchemin de clignotement" : "un parchemin de clignotement";
+        const connu = pl ? n[1] + " parchemins de Blink" : dt === "the " ? "le parchemin de Blink" : "un parchemin de Blink";
         if (!r || r.indexOf(connu) === -1) return null;
         const p = parch.translate(parch.regex.exec(obj));
         return p ? r.replace(connu, p) : null; } };

@@ -74,7 +74,7 @@ EN: A military axe with a long haft and a single-bladed head.
 FR: Une hache militaire au long manche et à la tête à lame unique.
 
 EN: A parchment of Blink.
-FR: Un parchemin de Clignement.
+FR: Un parchemin de Blink.
 
 EN: A personal stabbing weapon with a short grip.
 FR: Une arme personnelle de poignardage à la poignée courte.

@@ -36,7 +36,7 @@ globalThis.DCSS_GABARITS_TEXTES = (globalThis.DCSS_GABARITS_TEXTES || []).concat
 @M_S@ projette du magma @sur@ @T_o@ !
 
 @The_monster@ blinks @at@ @target@.
-@M_S@ clignote @vers@ @T_o@.
+@M_S@ fait un Blink @vers@ @T_o@.
 
 @The_monster@ breathes @beam@ @at@ @target@.
 @M_S@ souffle @beam@ @sur@ @T_o@.

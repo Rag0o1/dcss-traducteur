@@ -566,7 +566,7 @@ EN: You are overcome with fear and cannot move towards the monster causing fear 
 FR: Vous êtes submergé par la peur et ne pouvez pas avancer vers le monstre qui vous terrifie. L’effet peut être brisé en tuant ou en rendant confus le monstre responsable, ou en rompant la ligne de vue avec lui.
 
 EN: You are prevented from teleporting or blinking.
-FR: Il vous est impossible de vous téléporter ou de cligner.
+FR: Il vous est impossible de vous téléporter ou de faire un Blink.
 
 EN: You cannot walk, fly around, slither, etc. You can still take other actions, and can still be moved via translocations or by being pushed, pulled, and so on.
 FR: Vous ne pouvez ni marcher, ni voler, ni ramper, etc. Vous pouvez toujours effectuer d’autres actions, et pouvez toujours être déplacé par des translocations ou en étant poussé, tiré, etc.
@@ -653,7 +653,7 @@ EN: You are duelling a foe in Okawaru's Arena, and will be returned whence you c
 FR: Vous affrontez un ennemi dans l’Arène d’Okawaru, et serez renvoyé d’où vous venez si vous êtes victorieux.
 
 EN: You are destabilising space around yourself, causing nearby monsters to be randomly blinked away from you.
-FR: Vous déstabilisez l’espace autour de vous, ce qui fait que les monstres proches sont éloignés de vous par un clignement aléatoire.
+FR: Vous déstabilisez l’espace autour de vous, ce qui fait que les monstres proches sont éloignés de vous par un Blink aléatoire.
 
 EN: Your weapon is temporarily enhanced by the souls of the damned, providing slaying bonuses that increase with every enemy killed. At the maximum bonus, foes adjacent to your attacks' targets suffer pain damage.
 FR: Votre arme est temporairement renforcée par les âmes des damnés, offrant des bonus de dégâts qui augmentent à chaque ennemi tué. Au bonus maximal, les ennemis adjacents aux cibles de vos attaques subissent des dégâts de douleur.
@@ -740,10 +740,10 @@ EN: You have been transformed into a swirling mass of dark shadows. You are perm
 FR: Vous avez été transformé en une masse tourbillonnante d’ombres sombres. Vous êtes invisible en permanence et immunisé contre le poison, le drain et le tourment. Tous les dégâts reçus sont divisés par deux, vous saignez de la fumée à chaque attaque reçue, et votre volonté est infinie. Cependant, votre capacité à infliger des dégâts en mêlée et à distance est divisée par deux, votre puissance de lanceur de sorts est grandement entravée, et votre santé maximale est encore drainée quand vous subissez des dégâts.
 
 EN: You are near (or perhaps holding) the Orb of Zot, whose energies disrupt translocation magic. Teleportation will take longer and scrolls of blinking may transport you a short distance away from your intended destination.
-FR: Vous êtes près de l’Orbe de Zot (ou peut-être le tenez-vous), dont les énergies perturbent la magie de translocation. La téléportation prendra plus de temps et les parchemins de clignement pourront vous transporter à courte distance de votre destination prévue.
+FR: Vous êtes près de l’Orbe de Zot (ou peut-être le tenez-vous), dont les énergies perturbent la magie de translocation. La téléportation prendra plus de temps et les parchemins de Blink pourront vous transporter à courte distance de votre destination prévue.
 
 EN: You are holding the Charlatan's Orb, whose energies disrupt translocation magic. Teleportation will take longer and scrolls of blinking may transport you a short distance away from your intended destination.
-FR: Vous tenez l’Orbe du Charlatan, dont les énergies perturbent la magie de translocation. La téléportation prendra plus de temps et les parchemins de clignement pourront vous transporter à courte distance de votre destination prévue.
+FR: Vous tenez l’Orbe du Charlatan, dont les énergies perturbent la magie de translocation. La téléportation prendra plus de temps et les parchemins de Blink pourront vous transporter à courte distance de votre destination prévue.
 
 EN: Your legs are tired, and you are unable to hop. This status will only recover after you spend several turns not moving. (Other actions, such as attacking or casting spells, are fine.)
 FR: Vos jambes sont fatiguées, et vous êtes incapable de bondir. Ce statut ne se rétablit qu’après plusieurs tours passés sans bouger. (Les autres actions, comme attaquer ou lancer des sorts, sont sans effet.)
@@ -800,7 +800,7 @@ EN: The wrath of Ignis prevents you from resisting fire.
 FR: La colère d’Ignis vous empêche de résister au feu.
 
 EN: You are unstable and cannot cast Blink or activate evoked blink abilities for a short period of time. Powerful sources of translocation magic such as scrolls of blinking ignore this limitation, as do external sources of blinking outside of your control.
-FR: Vous êtes instable et ne pouvez pas lancer Blink ni activer de capacités de clignement évoquées pendant un court moment. Les sources puissantes de magie de translocation, comme les parchemins de clignement, ignorent cette limitation, tout comme les sources externes de clignement hors de votre contrôle.
+FR: Vous êtes instable et ne pouvez pas lancer Blink ni activer de capacités de Blink évoquées pendant un court moment. Les sources puissantes de magie de translocation, comme les parchemins de Blink, ignorent cette limitation, tout comme les sources externes de clignement hors de votre contrôle.
 
 EN: You are recovering from becoming lightning, and are unable to blinkbolt again for a short duration.
 FR: Vous vous remettez de votre transformation en foudre, et êtes incapable de refaire un Blinkbolt pendant un court moment.
@@ -923,7 +923,7 @@ EN: You are winding up your clockwork bee. It cannot attack its target until it 
 FR: Vous remontez votre abeille mécanique. Elle ne peut pas attaquer sa cible avant d’être complètement remontée.
 
 EN: You have become untethered in space, blinking randomly each turn and suffering a small amount of damage each time you do so.
-FR: Vous êtes détaché de l’espace, clignant au hasard à chaque tour et subissant de petits dégâts chaque fois que cela arrive.
+FR: Vous êtes détaché de l’espace, faisant un Blink au hasard à chaque tour et subissant de petits dégâts chaque fois que cela arrive.
 
 EN: You have recently announced your regal presence and it simply would not do to leave the floor again so soon afterward.
 FR: Vous avez récemment annoncé votre présence royale et il ne serait pas convenable de quitter l’étage si tôt après.

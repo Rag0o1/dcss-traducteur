@@ -38,10 +38,10 @@ EN: This spell is dangerous to cast!
 FR: Ce sort est dangereux à lancer !
 
 EN: You blink.
-FR: Vous clignez.
+FR: Vous faites un Blink.
 
 EN: You feel ready to blink again.
-FR: Vous vous sentez prêt à cligner à nouveau.
+FR: Vous vous sentez prêt à refaire un Blink.
 
 EN: Quiet
 FR: Discret

@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "DCSS Traducteur",
-  "version": "0.21.9",
+  "version": "0.22",
   "description": "Couche de traduction française pour DCSS Web",
   "content_scripts": [
     {
@@ -60,6 +60,7 @@
         "donnees/interface/astuces.js",
         "donnees/interface/astuces_morceaux.js",
         "donnees/interface/astuces_morceaux2.js",
+        "donnees/interface/phrases_touches.js",
         "donnees/interface/statuts_lumieres.js",
         "donnees/interface/descriptions_diverses.js",
         "donnees/personnage/dieux.js",

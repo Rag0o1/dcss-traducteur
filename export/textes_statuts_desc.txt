@@ -368,7 +368,7 @@ EN: This creature's melee attacks deal 25% more damage, its accuracy is slightly
 FR: Les attaques de mêlée de cette créature infligent 25 % de dégâts en plus, sa précision est légèrement accrue, et ses sorts et capacités ont été légèrement renforcés.
 
 EN: This creature has become unmoored in space, allowing it to Manifold Assault as a natural ability. Whenever they do, there is 33% chance they will also blink to a random nearby location.
-FR: Cette créature s’est détachée de l’espace, lui permettant d’utiliser Manifold Assault comme capacité naturelle. Chaque fois qu’elle le fait, elle a 33 % de chances de clignoter aussi vers un endroit aléatoire proche.
+FR: Cette créature s’est détachée de l’espace, lui permettant d’utiliser Manifold Assault comme capacité naturelle. Chaque fois qu’elle le fait, elle a 33 % de chances de faire un Blink aussi vers un endroit aléatoire proche.
 
 EN: This creature is unable to see you because you are invisible. Its accuracy against you is greatly decreased, it cannot make attacks of opportunity, and spells it casts may sometimes be aimed at the wrong locations. It may also stumble around and eventually lose track of you, especially if it has low intelligence.
 FR: Cette créature est incapable de vous voir parce que vous êtes invisible. Sa précision contre vous est fortement diminuée, elle ne peut pas faire d’attaques d’opportunité, et les sorts qu’elle lance peuvent parfois être mal dirigés. Elle peut aussi tituber et finir par vous perdre de vue, surtout si elle a une faible intelligence.
@@ -383,7 +383,7 @@ EN: This creature provides no experience or piety when slain.
 FR: Cette créature ne procure ni expérience ni piété quand elle est tuée.
 
 EN: Each turn, this creature blinks a short distance further away from you and suffers a small amount of damage.
-FR: Chaque tour, cette créature clignote un peu plus loin de vous et subit une petite quantité de dégâts.
+FR: Chaque tour, cette créature fait un Blink un peu plus loin de vous et subit une petite quantité de dégâts.
 
 EN: This creature's evasion is slightly increased.
 FR: L’esquive de cette créature est légèrement accrue.

@@ -524,10 +524,10 @@ EN: Pain shoots through your body!
 FR: Une douleur vous traverse le corps !
 
 EN: Please don't blink into the map border.
-FR: Ne vous téléportez pas dans la bordure de la carte, s’il vous plaît.
+FR: Ne faites pas de Blink dans la bordure de la carte, s’il vous plaît.
 
 EN: Please don't try to blink into monsters.
-FR: N’essayez pas de vous téléporter dans des monstres, s’il vous plaît.
+FR: N’essayez pas de faire un Blink dans des monstres, s’il vous plaît.
 
 EN: Poisonous fumes billow in the air!
 FR: Des vapeurs empoisonnées emplissent l’air !

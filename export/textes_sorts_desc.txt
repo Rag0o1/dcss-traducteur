@@ -65,7 +65,7 @@ EN: Bestows an enchantment on other nearby living creatures that causes them to 
 FR: Confère aux autres créatures vivantes proches un enchantement qui les fait renaître en simulacres après leur mort.
 
 EN: Blinks allies in sight of the caster away from a nearby enemy.
-FR: Fait clignoter au loin d’un ennemi proche les alliés en vue du lanceur.
+FR: Éloigne d’un ennemi proche, par Blink, les alliés en vue du lanceur.
 
 EN: Translocates a number of allies in the caster's sight to surround a targeted enemy.
 FR: Translocalise plusieurs alliés en vue du lanceur pour qu’ils encerclent un ennemi ciblé.
@@ -1103,7 +1103,7 @@ EN: Throws a harmful yet strangely delicious pie that can inflict its victim wit
 FR: Lance une tarte nocive mais étrangement délicieuse qui peut infliger à sa victime plusieurs effets temporaires irrésistibles et handicapants : vertige, silence, vulnérabilité au feu, fragilité, cécité ou aversion pour les potions.
 
 EN: Unmoors a random nearby ally from space, granting it Manifold Assault as a natural ability (which permits it to strike many distant foes with a single melee attack that can't miss), and also giving it a chance to blink when it uses such.
-FR: Détache de l’espace un allié proche au hasard, lui accordant l’Assaut multiple comme aptitude naturelle (qui lui permet de frapper de nombreux ennemis distants d’une seule attaque de mêlée qui ne peut pas rater), et lui donnant aussi une chance de clignoter quand il l’utilise.
+FR: Détache de l’espace un allié proche au hasard, lui accordant l’Assaut multiple comme aptitude naturelle (qui lui permet de frapper de nombreux ennemis distants d’une seule attaque de mêlée qui ne peut pas rater), et lui donnant aussi une chance de faire un Blink quand il l’utilise.
 
 EN: Conjures forth a fragment of the caster's essence and twists it into a fragment of death, painfully draining the victim. The caster, too, will find their health reduced, until they gain enough experience to recover.
 FR: Fait surgir un fragment de l’essence du lanceur et le tord en fragment de mort, drainant douloureusement la victime. Le lanceur voit lui aussi sa santé réduite, jusqu’à ce qu’il gagne assez d’expérience pour se rétablir.
@@ -1157,7 +1157,7 @@ EN: Twists a creature's body with mutagenic corruption, doing a small amount of 
 FR: Tord le corps d’une créature d’une corruption mutagène, infligeant quelques dégâts et une mutation transitoire. Si la cible subit déjà plusieurs mutations transitoires, elle subit Vitrification à la place.
 
 EN: Creates a brief but violent rift in space, damaging everything caught in its wake and sometimes blinking them a short distance away.
-FR: Crée une brève mais violente déchirure de l’espace, blessant tout ce qui se trouve sur son passage et le faisant parfois clignoter à courte distance.
+FR: Crée une brève mais violente déchirure de l’espace, blessant tout ce qui se trouve sur son passage et lui faisant parfois faire un Blink à courte distance.
 
 EN: Causes the water around or under the target to violently swirl, dealing damage. It can affect targets standing in or flying above water.
 FR: Fait tourbillonner violemment l’eau autour ou sous la cible, infligeant des dégâts. Peut affecter des cibles debout dans l’eau ou volant au-dessus.

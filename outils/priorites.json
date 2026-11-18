@@ -4,9 +4,9 @@
    "priorite": 1,
    "sujet": "Phrases d’aide coupées par une touche",
    "source": "dat/descript/hints.txt, tutorial.txt",
-   "volume": "17 phrases",
+   "volume": "192 phrases (23 restantes)",
    "quoi": "Conseils et tutoriel : la touche (X) coupe la phrase, la fin reste en anglais",
-   "decision": "À corriger une par une (liste ci-dessous)"
+   "decision": "Fait en 0.22 (moteur phrases à touches). Restent 23 phrases avec touche ou nom de dieu collés au texte."
   },
   {
    "priorite": 1,
@@ -14,7 +14,7 @@
    "source": "tout le dictionnaire",
    "volume": "~30 textes",
    "quoi": "Mot traduit de 4 façons (clignotement, translocation, saut…)",
-   "decision": "Décidé : « Blink » en anglais"
+   "decision": "Fait en 0.22"
   },
   {
    "priorite": 1,
@@ -22,7 +22,7 @@
    "source": "tout le dictionnaire",
    "volume": "—",
    "quoi": "Un nom de sort reste en anglais, même quand le mot sert ailleurs (parchemin, objet…)",
-   "decision": "Décidé : anglais"
+   "decision": "Décidé : anglais (déjà le réglage par défaut)"
   },
   {
    "priorite": 2,
@@ -143,6 +143,14 @@
    "volume": "—",
    "quoi": "Audit en spectateur, userscript",
    "decision": "Plus tard"
+  },
+  {
+   "priorite": 1,
+   "sujet": "« stab »",
+   "source": "tout le dictionnaire",
+   "volume": "~20 textes",
+   "quoi": "« attaque sournoise » ou garder « stab » en anglais ?",
+   "decision": "En attente de ta réponse"
   }
  ],
  "astuces": [

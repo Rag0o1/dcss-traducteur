@@ -31,7 +31,7 @@ globalThis.DCSS_TRADUCTIONS.lex_textes_longs = {
 "A light leather suit reinforced with a covering of metal rings. It is protective in combat, but slightly uncomfortable due to the added weight.": "Une légère tenue de cuir renforcée d’une couverture d’anneaux de métal. Elle protège bien au combat, mais elle est un peu inconfortable à cause du poids ajouté.",
 "A long runed staff.": "Un long bâton gravé de runes.",
 "A military axe with a long haft and a single-bladed head.": "Une hache militaire au long manche et à la tête à lame unique.",
-"A parchment of Blink.": "Un parchemin de Clignement.",
+"A parchment of Blink.": "Un parchemin de Blink.",
 "A personal stabbing weapon with a short grip.": "Une arme personnelle de poignardage à la poignée courte.",
 "A petrifying cloud. Creatures caught in the cloud for any length of time will find themselves turning to stone, though more experienced creatures may be able to resist the effects.": "Un nuage pétrifiant. Les créatures prises dedans pendant un certain temps se changent en pierre, bien que les plus expérimentées puissent résister à ses effets.",
 "A raging forest fire. Any creature not entirely immune to fire will be hurt by time spent in the flames. The flames will intermittently flare up and fill their surroundings with lesser fires. Any trees unfortunate enough to be nearby will often find themselves transformed into more kindling for the fire.": "Un feu de forêt déchaîné. Toute créature qui n’est pas totalement immunisée contre le feu sera blessée si elle reste dans les flammes. Les flammes se ravivent par intermittence et remplissent les environs de feux plus petits. Les arbres malchanceux qui se trouvent à proximité se transforment souvent en combustible supplémentaire pour l’incendie.",

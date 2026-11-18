@@ -692,7 +692,7 @@
         "enchant armour": "d’enchantement d’armure", "frog": "de grenouille", "plinking": "de cailloux", "torment": "de tourment", "immolation": "d’immolation",
         "magic mapping": "de cartographie magique", "fog": "de brouillard", "acquirement": "d’acquisition",
         "silence": "de silence", "amnesia": "d’amnésie", "poison": "de poison",
-        "blinking": "de clignotement", "brand weapon": "de marque d’arme", "butterflies": "de papillons", "curse armour": "de malédiction d’armure",
+        "blinking": "de Blink", "brand weapon": "de marque d’arme", "butterflies": "de papillons", "curse armour": "de malédiction d’armure",
         "curse jewellery": "de malédiction de bijou", "curse weapon": "de malédiction d’arme", "holy word": "de parole sacrée"
     };
 

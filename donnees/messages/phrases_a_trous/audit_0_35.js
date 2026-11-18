@@ -30,7 +30,7 @@
         "glows turbulently.": "{S1} luit de façon turbulente.", "pulses with an eldritch light!": "{S1} pulse d’une lumière surnaturelle !",
         "revs up and whimsically whirls.": "{S1} s’emballe et tournoie capricieusement.",
         "launches the last of itself at you with a shrill rumble.": "{S1} se lance tout entier sur vous dans un grondement strident.",
-        "blinks away.": "{S1} clignote au loin.", "blinks toward you.": "{S1} clignote vers vous.", "blinks.": "{S1} clignote.",
+        "blinks away.": "{S1} fait un Blink au loin.", "blinks toward you.": "{S1} fait un Blink vers vous.", "blinks.": "{S1} fait un Blink.",
         "gestures.": "{S1} fait un geste.", "seems to speed up.": "{S1} semble accélérer.",
         "disappears in a puff of smoke!": "{S1} disparaît dans un nuage de fumée !",
         "blocks your attack.": "{S1} bloque votre attaque.", "repels the wail of negative energy!": "{S1} repousse {o2} !",

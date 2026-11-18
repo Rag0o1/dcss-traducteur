@@ -29,7 +29,7 @@ EN: Blasts a targeted enemy with damnation. These unholy forces harm the victim 
 FR: Frappe un ennemi ciblé de damnation. Ces forces impies blessent la victime et quiconque lui est adjacent, et ne sont affectées par aucun moyen de protection, comme l’armure ou les résistances. Cependant, certaines créatures, généralement celles capables d’invoquer elles-mêmes la damnation, en sont totalement indemnes.
 
 EN: Speaks a word of chaos, forcing enemies nearby to blink away from the user. Additionally, those affected may be slowed, ensnared, or terrified by the experience. Invoking a word of chaos is no easy feat and will drain the user's maximum health somewhat, and the ability then cannot be used again for a short time.
-FR: Prononce un mot de chaos, forçant les ennemis proches à clignoter loin de l’utilisateur. De plus, ceux qui sont affectés peuvent être ralentis, entravés ou terrifiés par l’expérience. Invoquer un mot de chaos n’est pas chose facile et draine quelque peu la santé maximale de l’utilisateur, et la capacité ne peut ensuite être réutilisée avant un court moment.
+FR: Prononce un mot de chaos, forçant les ennemis proches à faire un Blink loin de l’utilisateur. De plus, ceux qui sont affectés peuvent être ralentis, entravés ou terrifiés par l’expérience. Invoquer un mot de chaos n’est pas chose facile et draine quelque peu la santé maximale de l’utilisateur, et la capacité ne peut ensuite être réutilisée avant un court moment.
 
 EN: Heals the user significantly, with a chance of permanently reducing the user's maximum magic capacity by one.
 FR: Soigne considérablement l’utilisateur, avec une chance de réduire définitivement de un sa capacité magique maximale.
