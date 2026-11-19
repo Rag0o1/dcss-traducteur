@@ -26,7 +26,7 @@ EN: The barbed spikes dig painfully into your body as you move.
 FR: Les pointes barbelées s’enfoncent douloureusement dans votre corps quand vous bougez.
 
 EN: The barbs in your skin will harm you if you move. Continue?
-FR: Les barbes dans votre peau vous blesseront si vous bougez. Continuer ?
+FR: Les pointes barbelées dans votre peau vous blesseront si vous bougez. Continuer ?
 
 EN: You carefully extract the barbed spikes from your body.
 FR: Vous extrayez avec précaution les pointes barbelées de votre corps.
@@ -311,10 +311,10 @@ EN: Press the letter of a skill to read its description.
 FR: Lettre d’une compétence : voir sa description.
 
 EN: Press: ? - help, . - travel
-FR: Appuyez: ? - aide, . - voyage
+FR: Tapez : ? - aide, . - voyage
 
 EN: Press: ? - help, . - travel, g - get item
-FR: Appuyez: ? - aide, . - voyage, g - prendre
+FR: Appuyez : ? - aide, . - voyage, g - prendre
 
 EN: There are many items here.
 FR: Il y a beaucoup d’objets ici.
@@ -512,7 +512,7 @@ EN: deal increased damage.
 FR: infligeront des dégâts accrus.
 
 EN: will awaken it, though melee attacks against it (even by other monsters) will
-FR: le réveillera, mais les attaques de mêlée contre elle (même par d’autres monstres)
+FR: la réveillera, mais les attaques de mêlée contre elle (même par d’autres monstres)
 
 EN: This creature is unable to move, act, block, or dodge. Any hostile action
 FR: Cette créature est incapable de bouger, d’agir, de bloquer ou d’esquiver. Toute action hostile
@@ -653,13 +653,13 @@ EN: The apparition of rago the Trooper, a novice Demonspawn Monk of Makhleb.
 FR: L’apparition de rago le Soldat, Moine Rejeton-démon novice de Makhleb.
 
 EN: Rago's ghost shrieks, "They lied to you. The Dungeon just goes down and down forever."
-FR: Le fantôme de Rago hurle : « Ils vous ont menti. Le Donjon descend, descend, à jamais. »
+FR: Le fantôme de Rago hurle : « Ils t’ont menti. Le Donjon descend, descend, à jamais. »
 
 EN: TCC's ghost whispers, "The ORB doesn't exist."
 FR: Le fantôme de TCC murmure : « L’ORBE n’existe pas. »
 
 EN: Rago's ghost shrieks, "They lied to you.
-FR: Le fantôme de Rago hurle : « Ils vous ont menti.
+FR: Le fantôme de Rago hurle : « Ils t’ont menti.
 
 EN: Rago's ghost.
 FR: Le fantôme de Rago.
@@ -1073,19 +1073,19 @@ EN: Search for what [Enter for "."]?
 FR: Chercher quoi ? [Entrée : « . »]
 
 EN: Press: ? - help,
-FR: Appuyez: ? - aide,
+FR: Tapez : ? - aide,
 
 EN: Press: ? - help, Dir - look around, f - activate
-FR: Appuyez: ? - aide, Dir - voir, f - activer
+FR: Appuyez : ? - aide, Dir - voir, f - activer
 
 EN: Press: ? - help, Dir - move target
-FR: Appuyez: ? - aide, Dir - cible
+FR: Appuyez : ? - aide, Dir - cible
 
 EN: Press: ? - help, Shift-Dir - straight line
 FR: Appuyez : ? - aide, Maj-Dir - ligne droite
 
 EN: Press: ? - help, v - describe, . - travel
-FR: Appuyez: ? - aide, v - décrire, . - voyage
+FR: Tapez : ? - aide, v - décrire, . - voyage
 
 EN: 1 match
 FR: 1 résultat

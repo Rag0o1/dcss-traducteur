@@ -11,6 +11,11 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.25.5 — relecture des messages et de l’interface
+
+- 4 324 textes relus (messages fixes, messages du jeu, interface, menus, états, compléments, messages de mutations) : 66 corrections. Contresens corrigés ; compétences restées en anglais traduites (Esquive, Métamorphose, Combat à mains nues, Alchimie, Forge) ; noms de sorts remis en anglais ; « la Tombe » ; « pointes barbelées » ; espace avant « : » dans les invites.
+- « Abysse » partout (au lieu de « Abîme », qui restait dans 12 textes).
+
 ## 0.25.4 — tutoiement dans les répliques
 
 - Décision du 19/11 : un monstre, démon, dieu ou arme qui parle AU joueur le tutoie (« Meurs, mortel ! », « Je vais te tuer ! », « Tu es un hérétique et tu dois être détruit ! ») ; il vouvoie quand il parle de sa race ou d’un groupe (« Vous, les mortels… »). La narration du jeu reste au vouvoiement. 750 répliques revues.

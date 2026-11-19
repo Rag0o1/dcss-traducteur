@@ -686,7 +686,7 @@ EN: That felt strangely inert.
 FR: Cela a semblé étrangement inerte.
 
 EN: That felt strangely unrewarding.
-FR: Cela n’a pas été étrangement gratifiant.
+FR: Cela a semblé étrangement peu gratifiant.
 
 EN: That is beyond the maximum range.
 FR: C’est au-delà de la portée maximale.
@@ -764,7 +764,7 @@ EN: The demon of the infinite void smiles upon you.
 FR: Le démon du vide infini vous sourit.
 
 EN: The door bursts into shrapnel!
-FR: La porte éclate en éclats !
+FR: La porte explose en fragments !
 
 EN: The door is shut tight!
 FR: La porte est bien fermée !
@@ -1880,7 +1880,7 @@ EN: You feel extremely strange.
 FR: Vous vous sentez extrêmement étrange.
 
 EN: You feel forgetful for a moment.
-FR: Vous vous sentez distrait un instant.
+FR: Vous vous sentez oublieux un instant.
 
 EN: You feel guileless.
 FR: Vous vous sentez sans malice.
@@ -2267,7 +2267,7 @@ EN: You no longer feel resistant to poison.
 FR: Vous ne vous sentez plus résistant au poison.
 
 EN: You ooze up the stairs.
-FR: Vous glissez en suintant dans l’escalier.
+FR: Vous remontez l’escalier en suintant.
 
 EN: You open a gateway and unleash terrible monstrosities upon the world.
 FR: Vous ouvrez un portail et déchaînez d’horribles monstruosités sur le monde.

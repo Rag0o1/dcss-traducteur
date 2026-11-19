@@ -35,7 +35,7 @@ EN: This creature has used a breath ability recently and cannot use it again for
 FR: Cette créature a utilisé récemment une capacité de souffle et ne peut la réutiliser avant un court moment.
 
 EN: This creature is chanting a Word of Recall. This will recall intelligent allies from elsewhere on the floor to the caster's vicinity after a short delay, but can be interrupted by most effects which would normally prevent it from casting spells.
-FR: Cette créature psalmodie un Mot de Rappel. Cela rappellera les alliés intelligents d’ailleurs sur l’étage dans le voisinage du lanceur après un court délai, mais peut être interrompu par la plupart des effets qui l’empêcheraient normalement de lancer des sorts.
+FR: Cette créature psalmodie un Word of Recall. Cela rappellera les alliés intelligents d’ailleurs sur l’étage dans le voisinage du lanceur après un court délai, mais peut être interrompu par la plupart des effets qui l’empêcheraient normalement de lancer des sorts.
 
 EN: This creature has been charmed and will fight for your cause for a short while. This effect will wear off immediately if you attempt to harm it in any way.
 FR: Cette créature a été charmée et combattra pour votre cause pendant un court moment. Cet effet cessera immédiatement si vous tentez de lui nuire de quelque manière que ce soit.
@@ -62,7 +62,7 @@ EN: This formerly-friendly creature has been charmed by another creature to join
 FR: Cette créature autrefois amie a été charmée par une autre créature pour rejoindre son camp. Si vous tuez la source de ce charme, elle retrouvera ses esprits.
 
 EN: This creature has been coated in sticky flame, and will take AC-ignoring fire damage each turn. Movement will shake off the flames, causing it to expire much more rapidly and stepping into water will extinguish it entirely.
-FR: Cette créature a été enduite de flammes collantes, et subira à chaque tour des dégâts de feu ignorant la CA. Le mouvement fait secouer les flammes, les faisant expirer bien plus vite, et entrer dans l’eau les éteindra entièrement.
+FR: Cette créature a été enduite de flammes collantes, et subira à chaque tour des dégâts de feu ignorant la CA. Se déplacer secoue les flammes, qui s’éteignent alors bien plus vite, et entrer dans l’eau les éteindra entièrement.
 
 EN: This creature is unable to evade attacks or turn invisible. If it dies, it will leave behind a cloud of magnetised fragments. Each time Magnavolt is cast, a beam of electricity will automatically be fired at this creature.
 FR: Cette créature est incapable d’esquiver les attaques ou de devenir invisible. Si elle meurt, elle laissera derrière elle un nuage de fragments magnétisés. Chaque fois que Magnavolt est lancé, un rayon d’électricité sera automatiquement tiré sur cette créature.
@@ -242,13 +242,13 @@ EN: This creature is surrounded by a field of unnatural silence which eliminates
 FR: Cette créature est entourée d’un champ de silence surnaturel qui élimine tout bruit émis en son sein et empêche les vocalisations nécessaires à de nombreuses créatures (vous compris) pour lire des parchemins, lancer des sorts ou invoquer l’aide divine. Si cet effet a été causé par un sort, le rayon du champ rétrécira avec le temps.
 
 EN: This creature shines with Olgreb's Toxic Radiance and will continuously inflict poison damage on all foes in sight for several turns.
-FR: Cette créature brille de la Radiance Toxique d’Olgreb et infligera continuellement des dégâts de poison à tous les ennemis en vue pendant plusieurs tours.
+FR: Cette créature brille sous l’effet d’Olgreb's Toxic Radiance et infligera continuellement des dégâts de poison à tous les ennemis en vue pendant plusieurs tours.
 
 EN: This creature has been defeated in honourable combat and may be recruited as one of your apostles via the ability menu.
 FR: Cette créature a été vaincue en combat honorable et peut être recrutée comme l’un de vos apôtres via le menu des capacités.
 
 EN: This creature has not yet inflicted you with Oblivion Howl and may attempt to do so.
-FR: Cette créature ne vous a pas encore infligé le Hurlement de l’Oubli et peut tenter de le faire.
+FR: Cette créature ne vous a pas encore infligé Oblivion Howl et peut tenter de le faire.
 
 EN: This creature's Sundering weapon is fully charged and its next attack will be more accurate, inflict greatly increased damage, and cleave with increased range. This effect will be lost if it moves.
 FR: L’arme Fendeuse de cette créature est entièrement chargée et sa prochaine attaque sera plus précise, infligera des dégâts fortement accrus et fauchera avec une portée accrue. Cet effet sera perdu si elle bouge.
@@ -263,7 +263,7 @@ EN: This creature regenerates health at a greatly increased rate, proportion to 
 FR: Cette créature régénère sa santé à un rythme fortement accru, proportionnel à sa santé maximale.
 
 EN: This creature has been ordered to flee in a given direction, and will not attack or return to your side until they are given new instructions or have travelled a sufficient distance
-FR: Cette créature a reçu l’ordre de fuir dans une direction donnée, et n’attaquera pas ni ne reviendra à vos côtés tant qu’elle n’aura pas reçu de nouvelles instructions ou parcouru une distance suffisante
+FR: Cette créature a reçu l’ordre de fuir dans une direction donnée, et n’attaquera ni ne reviendra à vos côtés tant qu’elle n’aura pas reçu de nouvelles instructions ou parcouru une distance suffisante
 
 EN: This creature has curled into a ball, increasing its movement speed and melee damage by 100% until the next time it attacks something (or becomes unable to move).
 FR: Cette créature s’est enroulée en boule, augmentant de 100 % sa vitesse de déplacement et ses dégâts de mêlée jusqu’à la prochaine fois qu’elle attaque quelque chose (ou devient incapable de bouger).

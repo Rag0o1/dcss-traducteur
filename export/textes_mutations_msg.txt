@@ -557,7 +557,7 @@ EN: Your feet thicken and deform.
 FR: Vos pieds s’épaississent et se déforment.
 
 EN: Your feet have mutated into hooves.
-FR: Vos pieds se sont mutés en sabots.
+FR: Vos pieds ont muté en sabots.
 
 EN: Your hooves expand and flesh out into feet!
 FR: Vos sabots s’étendent et redeviennent des pieds !
@@ -620,13 +620,13 @@ EN: naga tail
 FR: queue de naga
 
 EN: Your lower body turns into a snake tail.
-FR: Votre bas du corps se transforme en queue de serpent.
+FR: Le bas de votre corps se transforme en queue de serpent.
 
 EN: Your tail grows strong enough to constrict your enemies.
 FR: Votre queue devient assez forte pour enserrer vos ennemis.
 
 EN: Your lower body returns to normal.
-FR: Votre bas du corps redevient normal.
+FR: Le bas de votre corps redevient normal.
 
 EN: Your snake tail weakens and can no longer constrict your enemies.
 FR: Votre queue de serpent s’affaiblit et ne peut plus enserrer vos ennemis.
@@ -662,7 +662,7 @@ EN: frog-like legs
 FR: jambes de grenouille
 
 EN: Your legs feel stronger.
-FR: Vos jambes se sentent plus fortes.
+FR: Vous sentez vos jambes plus fortes.
 
 EN: armoured tail
 FR: queue blindée
@@ -2135,7 +2135,7 @@ EN: South Wind's embodiment
 FR: incarnation du Vent du Sud
 
 EN: The South Wind quickens your rampage movements after stabbing.
-FR: Le Vent du Sud accélère vos mouvements de ruée après un coup porté.
+FR: Le Vent du Sud accélère vos mouvements de ruée après une attaque sournoise.
 
 EN: You feel the capricious South Wind quickening your steps.
 FR: Vous sentez le capricieux Vent du Sud accélérer vos pas.

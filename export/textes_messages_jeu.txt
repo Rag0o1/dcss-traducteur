@@ -122,7 +122,7 @@ EN: See you next game!
 FR: À la prochaine partie !
 
 EN: Sorry, but your quest for the Orb is now rather pointless. You quit...
-FR: Désolé, mais votre quête de l’Orbe n’a plus guère de sens. Vous abandonnez…
+FR: Désolé, mais votre quête de l’Orbe n’a plus guère de sens. Vous abandonnez...
 
 EN: Space begins to contract around you, but something blocks your path.
 FR: L’espace commence à se contracter autour de vous, mais quelque chose bloque votre chemin.
@@ -134,7 +134,7 @@ EN: That skill was removed.
 FR: Cette compétence a été supprimée.
 
 EN: The Abyss bends around you!
-FR: L’Abîme se courbe autour de vous !
+FR: L’Abysse se courbe autour de vous !
 
 EN: The Orb lets out a furious burst of light!
 FR: L’Orbe émet un éclat de lumière furieux !
@@ -164,7 +164,7 @@ EN: The dungeon rumbles!
 FR: Le donjon gronde !
 
 EN: The dungeon rumbles... harmlessly?
-FR: Le donjon gronde… sans danger ?
+FR: Le donjon gronde... sans danger ?
 
 EN: The electricity makes your body seize.
 FR: L’électricité contracte votre corps.
@@ -281,10 +281,10 @@ EN: You are already as afflicted as possible.
 FR: Vous êtes déjà aussi affligé que possible.
 
 EN: You are banished to a different region of the Abyss.
-FR: Vous êtes banni dans une autre région de l’Abîme.
+FR: Vous êtes banni dans une autre région de l’Abysse.
 
 EN: You are cast deeper into the Abyss!
-FR: Vous êtes projeté plus profondément dans l’Abîme !
+FR: Vous êtes projeté plus profondément dans l’Abysse !
 
 EN: You are dazed by the spores!
 FR: Les spores vous étourdissent !
@@ -308,7 +308,7 @@ EN: You are slowing down.
 FR: Vous ralentissez.
 
 EN: You are suddenly pulled into a different region of the Abyss!
-FR: Vous êtes soudain aspiré dans une autre région de l’Abîme !
+FR: Vous êtes soudain aspiré dans une autre région de l’Abysse !
 
 EN: You bathe in the mists of the mutagenic serum and feel extremely strange.
 FR: Vous vous baignez dans les brumes du sérum mutagène et vous vous sentez extrêmement bizarre.
@@ -365,7 +365,7 @@ EN: You feel a burst of inspiration! You are finally ready to make a one-of-a-ki
 FR: Vous ressentez un éclair d’inspiration ! Vous êtes enfin prêt à fabriquer un gadget unique en son genre !
 
 EN: You feel a dangerous fate closing in on you...
-FR: Vous sentez un destin dangereux se refermer sur vous…
+FR: Vous sentez un destin dangereux se refermer sur vous...
 
 EN: You feel a distressing malevolence running through your instability!
 FR: Vous sentez une malveillance angoissante parcourir votre instabilité !
@@ -395,7 +395,7 @@ EN: You feel devious.
 FR: Vous vous sentez sournois.
 
 EN: You feel extremely nervous for a moment...
-FR: Vous ressentez une extrême nervosité un instant…
+FR: Vous ressentez une extrême nervosité un instant...
 
 EN: You feel less pious.
 FR: Vous vous sentez moins pieux.
@@ -545,7 +545,7 @@ EN: You pick up the Orb of Zot!
 FR: Vous ramassez l’Orbe de Zot !
 
 EN: You plunge deeper into the Abyss.
-FR: Vous plongez plus profondément dans l’Abîme.
+FR: Vous plongez plus profondément dans l’Abysse.
 
 EN: You produce a hideous howling noise!
 FR: Vous produisez un hurlement hideux !

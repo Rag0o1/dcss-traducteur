@@ -128,7 +128,7 @@
         "Welcome back to the Orcish Mines!": "Bon retour dans les Mines orques !",
         "Welcome back to the Vaults!": "Bon retour dans les Chambres Fortes !",
         "Welcome to the Vaults!": "Bienvenue dans les Chambres Fortes !",
-        "You are cast into the Abyss!": "Vous êtes projeté dans l’Abîme !",
+        "You are cast into the Abyss!": "Vous êtes projeté dans l’Abysse !",
         "You are encased in ice.": "Vous êtes pris dans la glace.", "The ice encasing you melts away.": "La glace qui vous enserre fond.",
         "The frost grips you.": "Le givre vous saisit.",
         "You are engulfed in blazing flames.": "Vous êtes englouti par des flammes ardentes.",

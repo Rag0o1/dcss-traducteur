@@ -1679,7 +1679,7 @@ EN: {A} guffaws at your puny god.
 FR: {S1} éclate de rire devant votre dieu insignifiant.
 
 EN: {A} has fought their way back out of the Abyss!
-FR: {S1} est parvenu{e1} à sortir de l’Abîme en combattant !
+FR: {S1} est parvenu{e1} à sortir de l’Abysse en combattant !
 
 EN: {A} hatches with a roar like a landslide!
 FR: {S1} éclot dans un rugissement semblable à un éboulement !
@@ -1919,7 +1919,7 @@ EN: {A} is paralysed.
 FR: {S1} est paralysé{e1}.
 
 EN: {A} is pulled into the Abyss.
-FR: {S1} est aspiré{e1} dans l’Abîme.
+FR: {S1} est aspiré{e1} dans l’Abysse.
 
 EN: {A} is recalled by Beogh.
 FR: {S1} est rappelé{e1} par Beogh.
@@ -2516,7 +2516,7 @@ EN: {X} protects your slime from harm.
 FR: {x1} protège votre gelée du mal.
 
 EN: {X} pulls their child back from the Abyss.
-FR: {x1} ramène son enfant de l’Abîme.
+FR: {x1} ramène son enfant de l’Abysse.
 
 EN: {X} purifies the foul vapours!
 FR: {x1} purifie les vapeurs infectes !
@@ -2528,7 +2528,7 @@ EN: {X} refuses to forgive you so easily!
 FR: {x1} refuse de vous pardonner si facilement !
 
 EN: {X} refuses to let the Abyss claim you during a challenge!
-FR: {x1} refuse que l’Abîme vous réclame pendant un défi !
+FR: {x1} refuse que l’Abysse vous réclame pendant un défi !
 
 EN: {X} restores the support of your attributes.
 FR: {x1} rétablit le soutien de vos attributs.
@@ -7613,16 +7613,16 @@ EN: You can call upon Elyvilon for divine vigour.
 FR: Vous pouvez invoquer Elyvilon pour obtenir une vigueur divine.
 
 EN: You can now depart the Abyss.
-FR: Vous pouvez désormais quitter l’Abîme.
+FR: Vous pouvez désormais quitter l’Abysse.
 
 EN: You may now depart the Abyss.
-FR: Vous pouvez désormais quitter l’Abîme.
+FR: Vous pouvez désormais quitter l’Abysse.
 
 EN: You can no longer depart the Abyss.
-FR: Vous ne pouvez plus quitter l’Abîme.
+FR: Vous ne pouvez plus quitter l’Abysse.
 
 EN: You can depart the Abyss.
-FR: Vous pouvez quitter l’Abîme.
+FR: Vous pouvez quitter l’Abysse.
 
 EN: You can now banish your foes.
 FR: Vous pouvez désormais bannir vos ennemis.
@@ -7649,16 +7649,16 @@ EN: You can corrupt the fabric of space.
 FR: Vous pouvez corrompre la trame de l’espace.
 
 EN: You can now gate yourself to the Abyss.
-FR: Vous pouvez désormais vous ouvrir un portail vers l’Abîme.
+FR: Vous pouvez désormais vous ouvrir un portail vers l’Abysse.
 
 EN: You may now gate yourself to the Abyss.
-FR: Vous pouvez désormais vous ouvrir un portail vers l’Abîme.
+FR: Vous pouvez désormais vous ouvrir un portail vers l’Abysse.
 
 EN: You can no longer gate yourself to the Abyss.
-FR: Vous ne pouvez plus vous ouvrir un portail vers l’Abîme.
+FR: Vous ne pouvez plus vous ouvrir un portail vers l’Abysse.
 
 EN: You can gate yourself to the Abyss.
-FR: Vous pouvez vous ouvrir un portail vers l’Abîme.
+FR: Vous pouvez vous ouvrir un portail vers l’Abysse.
 
 EN: You can now smite your foes.
 FR: Vous pouvez désormais foudroyer vos ennemis.
@@ -9161,7 +9161,7 @@ EN: Welcome to the Vaults!
 FR: Bienvenue dans les Chambres Fortes !
 
 EN: You are cast into the Abyss!
-FR: Vous êtes projeté dans l’Abîme !
+FR: Vous êtes projeté dans l’Abysse !
 
 EN: You are encased in ice.
 FR: Vous êtes pris dans la glace.
