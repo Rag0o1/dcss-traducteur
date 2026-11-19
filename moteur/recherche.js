@@ -1,5 +1,8 @@
 // =====================================================================
-//  recherche.js : recherche Ctrl+F en français
+//  recherche.js : recherche Ctrl+F et « ? / » (Describe what?) en français
+//  ---------------------------------------------------------------------
+//  « ? / » : voir traduireInfos() plus bas (un seul nom -> envoyé seul, la fiche s'ouvre).
+//  Test : python3 outils/test_recherche/test_recherche.py <crawl-ref/source/dat/descript>
 //  ---------------------------------------------------------------------
 //  Le jeu compare la recherche aux noms ANGLAIS, côté serveur. Quand le
 //  joueur valide (Entrée) la question « Search for what? / Chercher quoi ? »,
@@ -17,7 +20,8 @@
 (function () {
     "use strict";
 
-    const LONGUEUR_MAX = 399;   // le serveur lit au plus 399 caractères
+    const LONGUEUR_MAX = 399;          // Ctrl+F : le serveur lit au plus 399 caractères
+    const LONGUEUR_MAX_INFOS = 79;     // « ? / » (Describe what?) : au plus 79 caractères
     const MAX_RESULTATS = 60;   // au-delà, la regex devient inutilisable
     const LONGUEUR_MAX_ENTREE = 50;
 
@@ -41,6 +45,8 @@
 
     // La question du Ctrl+F, en anglais ou déjà traduite par l'extension
     const QUESTION_RECHERCHE = /Search for what|Chercher quoi/i;
+    // La question de « ? » puis « / » (rechercher une info), en anglais ou traduite
+    const QUESTION_INFOS = /Describe what|Décrire quoi/i;
 
     // ---------- outils ----------
 
@@ -114,27 +120,11 @@
 
     // ---------- traduction de la requête ----------
 
-    function traduireRequete(brut) {
-        if (!index) construireIndex();
-        let requete = String(brut);
-
-        // Cas spéciaux du jeu, laissés tels quels : vide (= dernière recherche), « ? » (aide),
-        // « . » / « .. », « /regex », « =texte exact », « * » ou chiffre (waypoints), syntaxe Lua.
-        if (!requete.trim()) return brut;
-        if (/^(\?|\.{1,2}|\*|\d)$/.test(requete.trim())) return brut;
-        if (/^[\/=]/.test(requete)) return brut;
-        if (/&&|\|\||!!/.test(requete)) return brut;
-
-        // « @ » = niveau actuel seulement : on le garde devant.
-        let prefixe = "";
-        if (requete.startsWith("@")) {
-            prefixe = "@";
-            requete = requete.slice(1);
-            if (/^[\/=]/.test(requete)) return brut;
-        }
-
+    // Cherche les noms anglais qui correspondent à une saisie française (déjà sans préfixe).
+    // Renvoie null (rien trouvé), { motif } (plusieurs mots combinés) ou { anglais, garderSaisie }.
+    function chercherAnglais(requete) {
         const q = normaliser(requete);
-        if (!q) return brut;
+        if (!q) return null;
         const mots = q.split(" ").filter(m => !MOTS_VIDES.has(m));
 
         // 1) exact ; 2) noms qui contiennent la saisie ; 3) noms qui contiennent tous les mots
@@ -156,59 +146,137 @@
                 const parts = listes.map(l => "(" + [...new Set(l.flatMap(e => e.en))].map(echapperRegex).join("|") + ")");
                 let motif = parts.join(".*");
                 if (parts.length === 2) motif = parts[0] + ".*" + parts[1] + "|" + parts[1] + ".*" + parts[0];
-                return finaliser(prefixe, "(" + motif + ")", brut);
+                return { motif };
             }
         }
 
-        if (!trouves.length) return brut;   // inconnu : envoyé tel quel (peut-être de l'anglais)
+        if (!trouves.length) return null;   // inconnu : envoyé tel quel (peut-être de l'anglais)
 
         // Le plus court d'abord ; si un terme en contient un autre, le plus court suffit.
         let anglais = [...new Set(trouves.flatMap(e => e.en))].sort((a, b) => a.length - b.length);
         anglais = anglais.filter((t, i) => !anglais.slice(0, i).some(c => t.includes(c))).slice(0, MAX_RESULTATS);
 
-        const alternatives = anglais.map(motifAnglais);
-        // Mot français connu (« or », « parchemin ») : on n'envoie que l'anglais -> /(gold).
-        // Simple morceau d'un nom français (« arm » dans « arme ») : on garde aussi la saisie,
-        // car c'est peut-être un mot anglais -> /(weapon|arm).
-        if (!motComplet && estAscii(requete.trim()) && !anglais.includes(q)) alternatives.push(echapperRegex(q));
-
-        return finaliser(prefixe, "(" + alternatives.join("|") + ")", brut);
+        // Mot français connu (« or ») : seulement l'anglais. Simple morceau d'un nom français
+        // (« arm » dans « arme ») : on garde aussi la saisie, c'est peut-être de l'anglais.
+        const garderSaisie = !motComplet && estAscii(requete.trim()) && !anglais.includes(q) ? q : null;
+        return { anglais, garderSaisie };
     }
 
-    function finaliser(prefixe, motif, brut) {
-        let resultat = prefixe + "/" + motif;
-        if (resultat.length > LONGUEUR_MAX) {
-            const coupe = resultat.slice(0, LONGUEUR_MAX - 1);
-            const dernier = coupe.lastIndexOf("|");
-            if (dernier <= 0) return brut;
-            resultat = coupe.slice(0, dernier) + ")";
-            console.warn("[Recherche FR] requête tronquée : trop de résultats");
+    // Ctrl+F (recherche dans ce que vous avez vu) : « or » -> « /(gold) »
+    function traduireRequete(brut) {
+        if (!index) construireIndex();
+        let requete = String(brut);
+
+        // Cas spéciaux du jeu, laissés tels quels : vide (= dernière recherche), « ? » (aide),
+        // « . » / « .. », « /regex », « =texte exact », « * » ou chiffre (waypoints), syntaxe Lua.
+        if (!requete.trim()) return brut;
+        if (/^(\?|\.{1,2}|\*|\d)$/.test(requete.trim())) return brut;
+        if (/^[\/=]/.test(requete)) return brut;
+        if (/&&|\|\||!!/.test(requete)) return brut;
+
+        // « @ » = niveau actuel seulement : on le garde devant.
+        let prefixe = "";
+        if (requete.startsWith("@")) {
+            prefixe = "@";
+            requete = requete.slice(1);
+            if (/^[\/=]/.test(requete)) return brut;
         }
-        return resultat;
+
+        const r = chercherAnglais(requete);
+        if (!r) return brut;
+        if (r.motif) return finaliser(prefixe + "/(" + r.motif + ")", LONGUEUR_MAX, brut);
+        const alternatives = r.anglais.map(motifAnglais);
+        if (r.garderSaisie) alternatives.push(echapperRegex(r.garderSaisie));
+        return finaliser(prefixe + "/(" + alternatives.join("|") + ")", LONGUEUR_MAX, brut);
+    }
+
+    // « ? » puis « / » (Describe what?) : le serveur lit TOUJOURS une regex, comparée aux noms
+    // anglais de sa base (au singulier) et aux descriptions. Un seul nom trouvé -> on l'envoie
+    // seul (« orc »), et le jeu ouvre directement sa fiche ; sinon « a|b|c ».
+    function traduireInfos(brut) {
+        if (!index) construireIndex();
+        let requete = String(brut).trim();
+
+        // Vide, une seule lettre (recherche par symbole : « o » = orcs) ou regex écrite à la main : inchangé.
+        if (!requete || requete.length === 1) return brut;
+        if (/[\\^$|()[\]{}*+?]/.test(requete)) return brut;
+        // « =texte » : pas de traduction (le « = » est retiré, le jeu ne le connaît pas ici).
+        if (requete.startsWith("=")) return requete.slice(1);
+
+        // Sorts : « @école » cherche par école (« @feu » -> « @fire magic »).
+        let prefixe = "";
+        if (requete.startsWith("@")) {
+            prefixe = "@";
+            requete = requete.slice(1);
+        }
+
+        const r = chercherAnglais(requete);
+        if (!r) return brut;
+        if (r.motif) return finaliser(prefixe + r.motif, LONGUEUR_MAX_INFOS, brut);
+        const alternatives = r.anglais.map(echapperRegex);
+        if (r.garderSaisie) alternatives.push(echapperRegex(r.garderSaisie));
+        return finaliser(prefixe + alternatives.join("|"), LONGUEUR_MAX_INFOS, brut);
+    }
+
+    // Coupe proprement à la dernière alternative complète si c'est trop long.
+    function finaliser(resultat, max, brut) {
+        if (resultat.length <= max) return resultat;
+        const coupe = resultat.slice(0, max - 1);
+        const dernier = coupe.lastIndexOf("|");
+        if (dernier <= 0) return brut;
+        console.warn("[Recherche FR] requête raccourcie : trop de résultats");
+        const ouvertes = (coupe.slice(0, dernier).match(/\(/g) || []).length
+                       - (coupe.slice(0, dernier).match(/\)/g) || []).length;
+        return coupe.slice(0, dernier) + ")".repeat(Math.max(0, ouvertes));
     }
 
     // ---------- interception de la saisie ----------
 
+    // Champ Ctrl+F : WebTiles lui donne l'étiquette « input_stash_search » ; on garde aussi
+    // la reconnaissance par le texte de la question au cas où.
     function estChampRecherche(champ) {
         if (!(champ instanceof HTMLInputElement) || !champ.classList.contains("text")) return false;
+        if (champ.closest(".input_stash_search")) return true;
         const conteneur = champ.closest("#input_dialog, .game_message, #messages");
         return !!conteneur && QUESTION_RECHERCHE.test(conteneur.textContent || "");
     }
 
-    // Phase de capture sur window : on passe AVANT le gestionnaire de WebTiles,
-    // qui lit ensuite input.value et l'envoie au serveur (message « text_input »).
+    // Champ « Describe what? » : petite fenêtre « msgwin-get-line » dont le texte est
+    // synchronisé avec le serveur (data-sync-id) à chaque frappe.
+    function estChampInfos(champ) {
+        if (!(champ instanceof HTMLInputElement) || !champ.hasAttribute("data-sync-id")) return false;
+        const fenetre = champ.closest(".msgwin-get-line, .ui-popup, [data-generation-id]");
+        return !!fenetre && QUESTION_INFOS.test(fenetre.textContent || "");
+    }
+
+    // Phase de capture sur window : on passe AVANT les gestionnaires de WebTiles.
     window.addEventListener("keydown", ev => {
         if (ev.key !== "Enter" && ev.keyCode !== 13) return;
         const champ = ev.target;
-        if (!estChampRecherche(champ)) return;
-        const avant = champ.value;
-        const apres = traduireRequete(avant);
-        if (apres !== avant) {
-            champ.value = apres;
-            console.log("[Recherche FR]", JSON.stringify(avant), "->", JSON.stringify(apres));
+
+        if (estChampRecherche(champ)) {
+            // WebTiles lit ensuite input.value et l'envoie (message « text_input »).
+            const avant = champ.value;
+            const apres = traduireRequete(avant);
+            if (apres !== avant) {
+                champ.value = apres;
+                console.log("[Recherche FR]", JSON.stringify(avant), "->", JSON.stringify(apres));
+            }
+        } else if (estChampInfos(champ)) {
+            // Le serveur garde sa propre copie du texte : après le remplacement, on déclenche
+            // un événement « input » pour que WebTiles lui renvoie le texte anglais
+            // (« ui_state_sync ») AVANT la touche Entrée.
+            const avant = champ.value;
+            const apres = traduireInfos(avant);
+            if (apres !== avant) {
+                champ.value = apres;
+                champ.dispatchEvent(new Event("input", { bubbles: true }));
+                console.log("[Recherche FR] (infos)", JSON.stringify(avant), "->", JSON.stringify(apres));
+            }
         }
     }, true);
 
     globalThis.traduireRecherche = traduireRequete;
-    console.log("[Recherche FR] Ctrl+F en français activé");
+    globalThis.traduireRechercheInfos = traduireInfos;
+    console.log("[Recherche FR] Ctrl+F et « ? / » en français activés");
 })();

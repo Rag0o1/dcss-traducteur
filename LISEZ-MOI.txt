@@ -73,7 +73,7 @@ Les commandes du jeu ne sont jamais traduites
 Vérifier que ça marche
 ----------------------
 Ouvrez la console (F12, onglet « Console »). Au chargement, vous devez voir :
-  [Recherche FR] Ctrl+F en français activé
+  [Recherche FR] Ctrl+F et « ? / » en français activés
 Puis, à chaque recherche traduite, une ligne comme :
   [Recherche FR] "or" -> "/(gold)"
 Pour tester sans partie, tapez dans la console :  traduireRecherche("parchemin")
@@ -83,5 +83,65 @@ Limites
 - La recherche ne connaît que les noms présents dans les dictionnaires : un nom
   pas encore traduit doit être tapé en anglais.
 - La traduction de la liste des résultats n’a pas encore été vérifiée en jeu.
+- L’historique du jeu (flèche du haut) garde la recherche déjà traduite
+  (ex. « /(gold) » au lieu de « or ») : elle marche quand même.
 - Le serveur accepte au plus 399 caractères : un mot très général (ex. « a »)
   peut donner trop de résultats ; la recherche est alors raccourcie.
+
+
+RECHERCHE D’INFOS EN FRANÇAIS (« ? » PUIS « / »)
+================================================
+
+À quoi ça sert
+--------------
+« ? » puis « / » (« Rechercher une info ») ouvre la fiche d’un monstre, d’un objet,
+d’un sort, d’une compétence, d’un dieu, d’un décor… Le jeu demande alors
+« Describe what? » (« Décrire quoi ? »). Là aussi, le serveur ne connaît que les noms
+anglais : l’extension traduit votre saisie au moment où vous appuyez sur Entrée.
+
+Différences avec Ctrl+F
+-----------------------
+- Ici, le jeu lit TOUJOURS une expression régulière : pas de « / » au début.
+- Quand un seul nom anglais correspond, il est envoyé seul : le jeu ouvre alors
+  DIRECTEMENT sa fiche (« gobelin » -> « goblin »). Sinon, la liste des noms
+  possibles est envoyée (« a|b|c ») et le jeu affiche une liste.
+- Le jeu cherche aussi dans le TEXTE des descriptions (en anglais).
+- Au plus 79 caractères.
+- Cette fenêtre envoie votre texte au serveur à chaque lettre tapée : après la
+  traduction, l’extension lui renvoie le texte anglais juste avant la touche Entrée.
+
+Exemples
+--------
+  Vous tapez             Envoyé au serveur      Résultat
+  ---------------------  ---------------------  -------------------------------
+  gobelin                goblin                 fiche du gobelin
+  orc                    orc                    fiche de l’orc
+  dague                  dagger                 fiche de la dague
+  potion de guérison     potion of curing       fiche de la potion
+  épée longue            long sword             fiche de l’épée longue
+  lames longues          long blades            fiche de la compétence
+  esquive                dodging                fiche de la compétence
+  parchemin              scroll                 liste des parchemins
+  autel                  altar                  liste des autels
+  @feu                   @fire                  sorts de l’école du feu
+  o                      o                      monstres affichés avec « o »
+  dagger                 dagger                 inchangé (anglais)
+
+Ce qui n’est jamais traduit
+---------------------------
+  (vide)        annule (« Okay, then. »)
+  une lettre    recherche par symbole (« o » = orcs…)
+  regex         un texte qui contient | ( ) [ ] * + ? ^ $ est envoyé tel quel
+  =texte        envoyé SANS traduction et sans le « = » (ex. « =orc » -> « orc »)
+
+Les autres fenêtres de saisie (nommer un objet, notes…) ne sont pas touchées.
+Dans la console (F12), chaque traduction affiche une ligne comme :
+  [Recherche FR] (infos) "gobelin" -> "goblin"
+Test sans partie, dans la console :  traduireRechercheInfos("gobelin")
+
+
+TEST AUTOMATIQUE (pour les développeurs)
+========================================
+outils/test_recherche/test_recherche.py charge l’extension dans un vrai Chrome,
+sur une page qui reproduit le client WebTiles, avec la vraie base de descriptions
+de DCSS. Voir les instructions en tête du fichier.

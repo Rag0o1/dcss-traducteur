@@ -1,0 +1,108 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><title>DCSS WebTiles (simulation fidèle)</title></head>
+<body><div id="game">
+<div id="messages"><div class="game_message">Welcome to Dungeon Crawl Stone Soup.</div></div>
+<div id="ui-stack"></div>
+<div id="input_dialog"></div>
+<div id="resultats"></div>
+</div>
+<div class="templates" style="display: none">
+  <div class="msgwin-get-line">
+    <div class="header"></div>
+    <input type="text" data-sync-id="input" />
+    <div data-hotkey="Enter"></div>
+    <div data-hotkey="Escape"></div>
+  </div>
+</div>
+<script>
+// ======== Client : reproduction de textinput.js / ui.js (WebTiles) ========
+window.envoyes = [];
+const comm = { send_message(msg, data) { const m = Object.assign({ msg }, data); window.envoyes.push(m); serveur(m); } };
+const histories = {};
+
+// textinput.js : display_input() pour une saisie « generic » (Ctrl+F : tag stash_search)
+function display_input(input_data) {
+  const input = document.createElement("input"); input.className = "text"; input.type = "text";
+  if (input_data.maxlen) input.maxLength = input_data.maxlen;
+  const div = document.createElement("div"); div.className = "input_" + input_data.tag; div.id = "input_text";
+  const sp = document.createElement("span"); sp.textContent = input_data.prompt; div.appendChild(sp);
+  const box = document.createElement("span"); box.className = "input_dialog_box"; box.appendChild(input); div.appendChild(box);
+  const dlg = document.getElementById("input_dialog"); dlg.innerHTML = ""; dlg.appendChild(div);
+  const history = histories[input_data.historyId] = histories[input_data.historyId] || [];
+  let pos = history.length;
+  function send_input_line(finalChar) {
+    if (input.value.length > 0) { const i = history.indexOf(input.value); if (i != -1) history.splice(i, 1); history.push(input.value); }
+    const text = input.value + String.fromCharCode(finalChar);
+    comm.send_message("key", { keycode: 21 }); comm.send_message("key", { keycode: 11 });
+    comm.send_message("text_input", { text });
+    dlg.innerHTML = "";
+  }
+  // jQuery input.keydown(...) : gestionnaire posé sur le champ lui-même
+  input.addEventListener("keydown", ev => {
+    if (ev.which == 13) { send_input_line(13); ev.preventDefault(); return false; }
+    if ((ev.which == 38 || ev.which == 40) && history.length) { pos += ev.which == 38 ? -1 : 1; if (pos < 0) pos = history.length - 1; if (pos >= history.length) pos = 0; input.value = history[pos]; ev.preventDefault(); }
+  });
+  input.focus();
+}
+
+// ui.js : fenêtres « ui-popup » ; la saisie est synchronisée avec le serveur à chaque frappe
+let generation = 0;
+function show_popup_msgwin_get_line(prompt) {
+  const tpl = document.querySelector(".templates > .msgwin-get-line").cloneNode(true);
+  tpl.querySelector(".header").textContent = prompt;
+  const popup = document.createElement("div"); popup.className = "ui-popup"; popup.setAttribute("data-generation-id", String(++generation));
+  const inner = document.createElement("div"); inner.className = "ui-popup-inner"; inner.appendChild(tpl); popup.appendChild(inner);
+  document.getElementById("ui-stack").appendChild(popup);
+  popup.querySelector("input").focus();
+}
+// $(document).on("input.ui", "[data-sync-id]", ui_input_handler)
+document.addEventListener("input", ev => {
+  const el = ev.target; if (!el.matches || !el.matches("[data-sync-id]")) return;
+  const pop = el.closest("[data-generation-id]");
+  comm.send_message("ui_state_sync", { text: el.value, generation_id: +pop.getAttribute("data-generation-id"), widget_id: el.getAttribute("data-sync-id") });
+});
+// game_keydown -> ui_hotkey_handler : Entrée dans une fenêtre = clic sur [data-hotkey="Enter"] = touche envoyée
+document.addEventListener("keydown", ev => {
+  const top = document.querySelector("#ui-stack .ui-popup:last-child"); if (!top) return;
+  const el = top.querySelector('[data-hotkey="' + ev.key + '"]');
+  if (el) { comm.send_message("key", { keycode: ev.key === "Enter" ? 13 : 27 }); ev.preventDefault(); ev.stopPropagation(); }
+});
+
+// ======== Serveur (simulation) ========
+const DB = __DB__;
+const OBJETS_VUS = ["a scroll of teleportation {Dungeon 2}", "2 potions of curing {Dungeon 1}", "a potion of heal wounds {Dungeon 3}",
+  "a ring of fire {Dungeon 4}", "a +0 dagger {Dungeon 1}", "a +2 long sword {Dungeon 5}", "a bubbling blue potion {Dungeon 2}",
+  "an orc corpse {Dungeon 1}", "a scroll of blinking {Dungeon 4}", "73 gold pieces {Dungeon 2}",
+  "an altar to Trog {Dungeon 3} feature", "a stone staircase leading down {Dungeon 2} feature"];
+let attente = null, texteServeur = "";   // copie du texte gardée par le serveur (TextEntry)
+function serveur(m) {
+  const out = document.getElementById("resultats");
+  if (m.msg === "text_input" && attente && attente.type === "stash") {
+    let q = m.text.replace(/\r$/, ""); attente = null;
+    if (q.startsWith("@")) q = q.slice(1);
+    let res;
+    if (q.startsWith("/")) { const re = new RegExp(q.slice(1), "i"); res = OBJETS_VUS.filter(o => re.test(o)); }
+    else { if (q.startsWith("=")) q = q.slice(1); res = OBJETS_VUS.filter(o => o.toLowerCase().includes(q.toLowerCase())); }
+    out.textContent = res.length ? res.join(" | ") : "Can't find anything matching that.";
+  }
+  if (m.msg === "ui_state_sync") texteServeur = m.text;
+  if (m.msg === "key" && m.keycode === 13 && attente && attente.type === "infos") {
+    const t = attente.categorie; attente = null; document.getElementById("ui-stack").innerHTML = "";
+    const q = texteServeur.trim(); texteServeur = "";
+    if (!q) { out.textContent = "Okay, then."; return; }
+    const entrees = DB[t];
+    const exact = entrees.find(([k]) => k.toLowerCase() === q.toLowerCase());
+    if (exact) { out.textContent = "FICHE : " + exact[0]; return; }
+    let re; try { re = new RegExp(q.replace(/^@/, ""), "i"); } catch (e) { out.textContent = "Invalid regex"; return; }
+    const parNom = entrees.filter(([k]) => re.test(k)).map(([k]) => k);
+    const parTexte = entrees.filter(([k, b]) => !re.test(k) && re.test(b)).map(([k]) => k);
+    const tout = parNom.concat(parTexte);
+    out.textContent = tout.length ? "LISTE (" + tout.length + ") : " + tout.slice(0, 8).join(" | ") + (tout.length > 8 ? " …" : "")
+                                  : "No matching " + t + "s.";
+  }
+}
+// Ctrl+F et « ? / » : le serveur demande une saisie
+window.ouvrirCtrlF = () => { attente = { type: "stash" }; display_input({ tag: "stash_search", historyId: "stash", maxlen: 399, prompt: "Search for what [? for help]? " }); };
+const ARTICLES = { monster: "a monster", item: "an item", feature: "a feature", skill: "a skill", god: "a god", branch: "a branch" };
+window.ouvrirInfos = (categorie) => { attente = { type: "infos", categorie }; texteServeur = "";
+  show_popup_msgwin_get_line("Describe " + ARTICLES[categorie] + "; partial names and regexps are fine." + (categorie === "monster" ? " Enter a single letter to list monsters displayed by that symbol." : "") + "\nDescribe what? "); };
+</script></body></html>
