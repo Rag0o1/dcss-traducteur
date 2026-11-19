@@ -1,5 +1,5 @@
 EN: You think you're better than me?
-FR: Vous vous croyez meilleur que moi ?
+FR: Tu te crois meilleur que moi ?
 
 EN: Afraid of a little sting?
 FR: Peur d’une petite piqûre ?
@@ -11,13 +11,13 @@ EN: Demons are the only companions you can really rely on.
 FR: Les démons sont les seuls compagnons sur qui on peut vraiment compter.
 
 EN: Need some antivenom? Don't worry, you can trust me.
-FR: Besoin d’un antivenin ? Ne vous inquiétez pas, vous pouvez me faire confiance.
+FR: Besoin d’un antivenin ? Ne t’inquiète pas, tu peux me faire confiance.
 
 EN: Once I find the ORB, I'll be cured. I'll be normal again!
 FR: Quand j’aurai trouvé l’ORBE, je serai guéri. Je redeviendrai normal !
 
 EN: Eyes close, heart stop, nighty-night for you...
-FR: Les yeux se ferment, le cœur s’arrête, bonne nuit pour vous...
+FR: Les yeux se ferment, le cœur s’arrête, bonne nuit pour toi...
 
 EN: Follow my lead, little ones.
 FR: Suivez-moi, mes petits.
@@ -32,7 +32,7 @@ EN: Come closer, little fly.
 FR: Approchez, petite mouche.
 
 EN: I'm done suffering for art; you can suffer instead.
-FR: J’ai assez souffert pour l’art ; c’est à vous de souffrir.
+FR: J’ai assez souffert pour l’art ; c’est à toi de souffrir.
 
 EN: My silk is a match for both steel and spell.
 FR: Ma soie résiste à l’acier comme aux sorts.
@@ -44,22 +44,22 @@ EN: This is my domain now; anyone trespasses at their own peril!
 FR: C’est mon domaine, maintenant ; quiconque y entre le fait à ses risques et périls !
 
 EN: Soon your soul will belong to Makhleb.
-FR: Bientôt votre âme appartiendra à Makhleb.
+FR: Bientôt ton âme appartiendra à Makhleb.
 
 EN: Makhleb has given me powers of destruction.
 FR: Makhleb m’a donné des pouvoirs de destruction.
 
 EN: Your corpse will decorate my castle walls.
-FR: Votre cadavre ornera les murs de mon château.
+FR: Ton cadavre ornera les murs de mon château.
 
 EN: In my kingdom, weaklings like you are put to the sword.
-FR: Dans mon royaume, les faibles comme vous passent par l’épée.
+FR: Dans mon royaume, les faibles comme toi passent par l’épée.
 
 EN: No maze can contain me.
 FR: Aucun labyrinthe ne peut me contenir.
 
 EN: Enter my house and I will deliver you from evil.
-FR: Entrez dans ma maison et je vous délivrerai du mal.
+FR: Entre dans ma maison et je te délivrerai du mal.
 
 EN: My mother, she was a queen.
 FR: Ma mère, c’était une reine.
@@ -71,25 +71,25 @@ EN: My home has fourteen doors!
 FR: Ma maison a quatorze portes !
 
 EN: Your valuables will do nicely in my coffers.
-FR: Vos objets de valeur feront très bien dans mes coffres.
+FR: Tes objets de valeur feront très bien dans mes coffres.
 
 EN: Ah, a wizard! I'll enjoy hearing you beg for your life.
-FR: Ah, un magicien ! Je me réjouis de vous entendre supplier pour votre vie.
+FR: Ah, un magicien ! Je me réjouis de t’entendre supplier pour ta vie.
 
 EN: You're no warrior. You fight like a peasant!
-FR: Vous n’êtes pas un guerrier. Vous vous battez comme un paysan !
+FR: Tu n’es pas un guerrier. Tu te bats comme un paysan !
 
 EN: In the name of our god, lay down your life!
-FR: Au nom de notre dieu, donnez votre vie !
+FR: Au nom de notre dieu, donne ta vie !
 
 EN: Kneel before Makhleb, unbeliever!
-FR: Agenouillez-vous devant Makhleb, infidèle !
+FR: Agenouille-toi devant Makhleb, infidèle !
 
 EN: What ORB?! I have an entire kingdom!
 FR: Quel ORBE ?! J’ai un royaume entier !
 
 EN: Bow down before your king! Bow! Bow!!
-FR: Inclinez-vous devant votre roi ! Inclinez-vous ! Inclinez-vous !!
+FR: Incline-toi devant ton roi ! Incline-toi ! Incline-toi !!
 
 EN: The power of Makhleb!
 FR: Le pouvoir de Makhleb !
@@ -101,22 +101,22 @@ EN: Burn! Burn! All of it must BURN!
 FR: Brûlez ! Brûlez ! Tout doit BRÛLER !
 
 EN: Are you flammable?
-FR: Êtes-vous inflammable ?
+FR: Es-tu inflammable ?
 
 EN: Are you inflammable?
-FR: Êtes-vous combustible ?
+FR: Es-tu combustible ?
 
 EN: Are you feeling hot?
-FR: Êtes-vous brûlant ?
+FR: Es-tu brûlant ?
 
 EN: No! No! YES! No!
 FR: Non ! Non ! OUI ! Non !
 
 EN: May the fleas of a thousand camels infest your armpits.
-FR: Que les puces de mille chameaux infestent vos aisselles.
+FR: Que les puces de mille chameaux infestent tes aisselles.
 
 EN: Do you still suffer from delusions of adequacy?
-FR: Souffrez-vous toujours de délires de compétence ?
+FR: Souffres-tu toujours de délires de compétence ?
 
 EN: You child of a motherless goat.
 FR: Espèce d’enfant de chèvre sans mère.
@@ -125,7 +125,7 @@ EN: You child of a rabid dog! Grandchild of a stinking jackal! Great-grandchild 
 FR: Enfant de chien enragé ! Petit-enfant de chacal puant ! Arrière-petit-enfant de vautour plumé !
 
 EN: May a porcupine live in your trousers for a thousand days and die there for a thousand and one.
-FR: Qu’un porc-épic vive dans votre pantalon pendant mille jours et y meure pendant mille et un.
+FR: Qu’un porc-épic vive dans ton pantalon pendant mille jours et y meure pendant mille et un.
 
 EN: Damn that jealous turtle monk.
 FR: Maudit soit ce moine tortue jaloux.
@@ -149,10 +149,10 @@ EN: I believe in me!
 FR: Je crois en moi !
 
 EN: You need a new perspective.
-FR: Il vous faut un nouveau point de vue.
+FR: Il te faut un nouveau point de vue.
 
 EN: Let me show you how many colours things can be!
-FR: Laissez-moi vous montrer combien de couleurs les choses peuvent avoir !
+FR: Laisse-moi te montrer combien de couleurs les choses peuvent avoir !
 
 EN: Beogh has given me so many different colours to drink.
 FR: Beogh m’a donné tant de couleurs différentes à boire.
@@ -167,7 +167,7 @@ EN: Such pretty colours everywhere...
 FR: Tant de jolies couleurs partout...
 
 EN: What are you like inside? I'll break you open and find out!
-FR: Comment êtes-vous à l’intérieur ? Je vais vous ouvrir en deux pour le savoir !
+FR: Comment es-tu à l’intérieur ? Je vais t’ouvrir en deux pour le savoir !
 
 EN: It's all true! You just have to believe!
 FR: Tout est vrai ! Il suffit d’y croire !
@@ -176,22 +176,22 @@ EN: Look beyond the surface! Nothing is what it seems!
 FR: Regardez au-delà de la surface ! Rien n’est ce qu’il paraît !
 
 EN: I'll make you see things how they really are!
-FR: Je vous ferai voir les choses telles qu’elles sont vraiment !
+FR: Je te ferai voir les choses telles qu’elles sont vraiment !
 
 EN: There's so much colour in the world. Let me show it to you.
-FR: Il y a tant de couleurs dans le monde. Laissez-moi vous les montrer.
+FR: Il y a tant de couleurs dans le monde. Laisse-moi te les montrer.
 
 EN: The problem is, you see everything in terms of black and white.
-FR: Le problème, c’est que vous voyez tout en noir et blanc.
+FR: Le problème, c’est que tu vois tout en noir et blanc.
 
 EN: Things are no longer grey! Not since my great insight!
 FR: Les choses ne sont plus grises ! Plus depuis ma grande révélation !
 
 EN: You can't imagine my power.
-FR: Vous ne pouvez imaginer ma puissance.
+FR: Tu ne peux imaginer ma puissance.
 
 EN: You want the ORB? You'll never get it.
-FR: Vous voulez l’ORBE ? Vous ne l’aurez jamais.
+FR: Tu veux l’ORBE ? Tu ne l’auras jamais.
 
 EN: My power is unlimited.
 FR: Mon pouvoir est illimité.
@@ -200,13 +200,13 @@ EN: You mortals are all unique only in the ways you'll break.
 FR: Vous, mortels, n’êtes uniques que par la façon dont vous vous briserez.
 
 EN: You can't kill me in a way that matters.
-FR: Vous ne pouvez pas me tuer d’une façon qui compte.
+FR: Tu ne peux pas me tuer d’une façon qui compte.
 
 EN: I know the secret of eternal life. Do you?
-FR: Je connais le secret de la vie éternelle. Et vous ?
+FR: Je connais le secret de la vie éternelle. Et toi ?
 
 EN: I know your future. Your future is death.
-FR: Je connais votre avenir. Votre avenir, c’est la mort.
+FR: Je connais ton avenir. Ton avenir, c’est la mort.
 
 EN: Who wants to live forever? Me.
 FR: Qui veut vivre éternellement ? Moi.
@@ -215,10 +215,10 @@ EN: There's only one solution for all of you. To die.
 FR: Il n’y a qu’une solution pour vous tous. Mourir.
 
 EN: You can never win.
-FR: Vous ne pouvez jamais gagner.
+FR: Tu ne peux jamais gagner.
 
 EN: I didn't invite you.
-FR: Je ne vous ai pas invité.
+FR: Je ne t’ai pas invité.
 
 EN: The world, the flesh, and the devil.
 FR: Le monde, la chair et le diable.
@@ -233,16 +233,16 @@ EN: I care not for such insignificant forces as time or death.
 FR: Je me moque de forces aussi insignifiantes que le temps ou la mort.
 
 EN: Magic. You know nothing about it.
-FR: La magie. Vous n’y connaissez rien.
+FR: La magie. Tu n’y connais rien.
 
 EN: Join my legions of the broken and the beaten.
 FR: Rejoignez mes légions de brisés et de battus.
 
 EN: You haven't seen the last of me!
-FR: Vous n’avez pas vu le dernier de moi !
+FR: Tu n’as pas vu le dernier de moi !
 
 EN: I'll get you next time!
-FR: Je vous aurai la prochaine fois !
+FR: Je t’aurai la prochaine fois !
 
 EN: This isn't over yet!
 FR: Ce n’est pas fini !
@@ -257,7 +257,7 @@ EN: Kill me? I think not!
 FR: Me tuer ? Je ne crois pas !
 
 EN: You cannot defeat me so easily!
-FR: Vous ne pouvez pas me vaincre si facilement !
+FR: Tu ne peux pas me vaincre si facilement !
 
 EN: We will meet again!
 FR: Nous nous reverrons !
@@ -266,34 +266,34 @@ EN: Do I look like the kind of man who dies?
 FR: Ai-je l’air du genre d’homme qui meurt ?
 
 EN: You can't fire me, I quit!
-FR: Vous ne pouvez pas me virer, je démissionne !
+FR: Tu ne peux pas me virer, je démissionne !
 
 EN: And that's the last I'll see of you.
-FR: Et voilà, c’est la dernière fois que je vous vois.
+FR: Et voilà, c’est la dernière fois que je te vois.
 
 EN: I'd like to see you come back from this one.
-FR: J’aimerais vous voir revenir de celle-là.
+FR: J’aimerais te voir revenir de celle-là.
 
 EN: I'll treasure this one.
 FR: Celle-ci, je la chérirai.
 
 EN: You would ask such trivialities of one who has solved death itself?
-FR: Vous poseriez de telles futilités à quelqu’un qui a résolu la mort elle-même ?
+FR: Tu poserais de telles futilités à quelqu’un qui a résolu la mort elle-même ?
 
 EN: A terrible fate awaits all who seek the ORB - and yours worst of all.
 FR: Un terrible sort attend tous ceux qui cherchent l’ORBE - et le vôtre sera le pire.
 
 EN: Abandon your quest, lest a terrible end find us all.
-FR: Abandonnez votre quête, de peur qu’une fin terrible ne nous trouve tous.
+FR: Abandonne ta quête, de peur qu’une fin terrible ne nous trouve tous.
 
 EN: Turn back while you still can!
-FR: Faites demi-tour tant que vous le pouvez encore !
+FR: Fais demi-tour tant que tu le peux encore !
 
 EN: The road you walk has only one end and you would not wish it even upon your enemies.
-FR: La route que vous suivez n’a qu’une seule fin et vous ne la souhaiteriez pas même à vos ennemis.
+FR: La route que tu suis n’a qu’une seule fin et tu ne la souhaiterais pas même à tes ennemis.
 
 EN: You know not what is at stake here!
-FR: Vous ne savez pas ce qui est en jeu ici !
+FR: Tu ne sais pas ce qui est en jeu ici !
 
 EN: You never know good fortune from ill. It is because you cannot see into the future.
 FR: On ne distingue jamais la bonne fortune de la mauvaise, faute de voir l’avenir.
@@ -314,19 +314,19 @@ EN: Did I... did I finally change the future?
 FR: Ai-je... ai-je enfin changé l’avenir ?
 
 EN: I... tried to warn you...
-FR: J’ai... essayé de vous prévenir...
+FR: J’ai... essayé de te prévenir...
 
 EN: No one... ever listens...
 FR: Personne... n’écoute jamais...
 
 EN: Your fate... be upon your own head...
-FR: Votre sort... retombera sur votre tête...
+FR: Ton sort... retombera sur ta tête...
 
 EN: Will you not heed even the word of a friend and end this?
-FR: N’écouterez-vous donc pas même la parole d’un ami pour en finir ?
+FR: N’écouteras-tu donc pas même la parole d’un ami pour en finir ?
 
 EN: Even I cannot save you if you persist in this.
-FR: Même moi, je ne peux pas vous sauver si vous persistez.
+FR: Même moi, je ne peux pas te sauver si tu persistes.
 
 EN: Me like rocks.
 FR: Moi aimer cailloux.
@@ -338,7 +338,7 @@ EN: Want to see my rocks?
 FR: Vouloir voir mes cailloux ?
 
 EN: You look bit like rock.
-FR: Vous ressembler un peu à caillou.
+FR: Toi ressembler un peu à caillou.
 
 EN: Big rocks, small rocks, huge rocks! Magic rocks!
 FR: Gros cailloux, petits cailloux, énormes cailloux ! Cailloux magiques !
@@ -350,7 +350,7 @@ EN: No steal rocks!
 FR: Pas voler cailloux !
 
 EN: You took it. Me saw.
-FR: Vous l’avoir pris. Moi voir.
+FR: Toi l’avoir pris. Moi voir.
 
 EN: Best rocks! Rocks!
 FR: Meilleurs cailloux ! Cailloux !
@@ -389,19 +389,19 @@ EN: It is extremely absurd to expect to be enlightened by reason, and yet to pre
 FR: Il est extrêmement absurde d’attendre d’être éclairé par la raison, tout en lui prescrivant à l’avance de quel côté elle doit pencher.
 
 EN: The real reality is there, but everything you KNOW about 'it' is in your mind and yours to do with as you like.
-FR: La vraie réalité est là, mais tout ce que vous SAVEZ « d’elle » est dans votre esprit, et vous en faites ce que vous voulez.
+FR: La vraie réalité est là, mais tout ce que tu SAIS « d’elle » est dans ton esprit, et tu en fais ce que tu veux.
 
 EN: Wait for me!
 FR: Attendez-moi !
 
 EN: You found it!
-FR: Vous l’avez trouvé !
+FR: Tu l’as trouvé !
 
 EN: Get me out of this place.
 FR: Sortez-moi de cet endroit.
 
 EN: You came back for me.
-FR: Vous êtes revenu me chercher.
+FR: Tu es revenu me chercher.
 
 EN: This beard itches something crazy!
 FR: Cette barbe me gratte à un point fou !
@@ -410,7 +410,7 @@ EN: I wonder if I left the window open.
 FR: Je me demande si j’ai laissé la fenêtre ouverte.
 
 EN: Have you seen my glasses?
-FR: Avez-vous vu mes lunettes ?
+FR: As-tu vu mes lunettes ?
 
 EN: Perhaps I shall have lamb for dinner.
 FR: Peut-être prendrai-je de l’agneau pour dîner.
@@ -419,7 +419,7 @@ EN: Oh, this is rather nice.
 FR: Oh, c’est plutôt agréable.
 
 EN: Have you seen my cloak?
-FR: Avez-vous vu ma cape ?
+FR: As-tu vu ma cape ?
 
 EN: My, my head's in a spin!
 FR: Mon, mon, ma tête tourne !
@@ -428,7 +428,7 @@ EN: I feel rather peculiar.
 FR: Je me sens plutôt bizarre.
 
 EN: You leg down broken song, no?
-FR: Vous jambe en bas chanson cassée, non ?
+FR: Toi jambe en bas chanson cassée, non ?
 
 EN: Crazy? Crazy!? PORCUPINE!
 FR: Fou ? Fou !? PORC-ÉPIC !
@@ -446,7 +446,7 @@ EN: Reality is only just a word.
 FR: La réalité n’est qu’un mot.
 
 EN: Join with me for eternity!
-FR: Unissez-vous à moi pour l’éternité !
+FR: Unis-toi à moi pour l’éternité !
 
 EN: Become one with my sorrow!
 FR: Ne faites plus qu’un avec ma peine !
@@ -485,7 +485,7 @@ EN: There's not enough treasure in here.
 FR: Il n’y a pas assez de trésors ici.
 
 EN: You've already taken the rune from here, haven't you?
-FR: Vous avez déjà pris la rune d’ici, n’est-ce pas ?
+FR: Tu as déjà pris la rune d’ici, n’est-ce pas ?
 
 EN: The so-called 'good' gods are just as evil as the rest. I hate hypocrisy.
 FR: Les dieux dits « bons » sont aussi mauvais que les autres. Je déteste l’hypocrisie.
@@ -512,7 +512,7 @@ EN: What do they mine anyway? I've never seen them mine anything.
 FR: Qu’est-ce qu’ils minent, au juste ? Je ne les ai jamais vus miner quoi que ce soit.
 
 EN: Have you ever seen an orcish miner? Me neither.
-FR: Avez-vous déjà vu un mineur orc ? Moi non plus.
+FR: As-tu déjà vu un mineur orc ? Moi non plus.
 
 EN: Why is it so dark? Have they never heard of torches?
 FR: Pourquoi est-ce si sombre ? N’ont-ils jamais entendu parler des torches ?
@@ -578,7 +578,7 @@ EN: Damn it, I left my flaming sword at home.
 FR: Zut, j’ai laissé mon épée enflammée à la maison.
 
 EN: Don't you hate leeches? I know I do.
-FR: Vous ne détestez pas les sangsues ? Moi si.
+FR: Tu ne détestes pas les sangsues ? Moi si.
 
 EN: I hate mosquitoes. Almost as much as I hate swamp water.
 FR: Je déteste les moustiques. Presque autant que l’eau des marais.
@@ -629,7 +629,7 @@ EN: Those krakens don't even look real.
 FR: Ces krakens n’ont même pas l’air réels.
 
 EN: I'm looking for Ms. Medusa. Have you seen her?
-FR: Je cherche Mme Méduse. L’avez-vous vue ?
+FR: Je cherche Mme Méduse. L’as-tu vue ?
 
 EN: I don't understand half of what these people say. It's all Greek to me.
 FR: Je ne comprends pas la moitié de ce que disent ces gens. Pour moi, c’est du grec.
@@ -650,7 +650,7 @@ EN: This tentacle just came out of nowhere and touched me. I hate tentacles!
 FR: Ce tentacule est sorti de nulle part et m’a touché. Je déteste les tentacules !
 
 EN: There's a spider on your neck!
-FR: Il y a une araignée sur votre cou !
+FR: Il y a une araignée sur ton cou !
 
 EN: I hate crawling things.
 FR: Je déteste les choses qui rampent.
@@ -722,10 +722,10 @@ EN: What's so magical about quicksilver, anyway?
 FR: Qu’y a-t-il de si magique dans le vif-argent, au juste ?
 
 EN: You know that hissing noise? I hate that.
-FR: Vous connaissez ce sifflement ? Je déteste ça.
+FR: Tu connais ce sifflement ? Je déteste ça.
 
 EN: You know that slithering noise? I hate that.
-FR: Vous connaissez ce bruit de reptation ? Je déteste ça.
+FR: Tu connais ce bruit de reptation ? Je déteste ça.
 
 EN: I'd like to make these snakes into gloves, but I hate gloves.
 FR: J’aimerais faire des gants avec ces serpents, mais je déteste les gants.
@@ -782,7 +782,7 @@ EN: The Vaults? They should've called it the Dumps.
 FR: Les Caveaux ? Ils auraient dû les appeler la Décharge.
 
 EN: Don't bother, there's only junk at the bottom.
-FR: Ne vous embêtez pas, il n’y a que de la camelote au fond.
+FR: Ne t’embête pas, il n’y a que de la camelote au fond.
 
 EN: I asked the warden where the rune was. She slammed the door in my face.
 FR: J’ai demandé à la gardienne où était la rune. Elle m’a claqué la porte au nez.
@@ -854,10 +854,10 @@ EN: Where are all the doors?
 FR: Où sont toutes les portes ?
 
 EN: You know, I thought there'd be more coffins in a crypt...
-FR: Vous savez, je pensais qu’il y aurait plus de cercueils dans une crypte...
+FR: Tu sais, je pensais qu’il y aurait plus de cercueils dans une crypte...
 
 EN: Have you seen a sarcophagus full of treasure around? Me neither.
-FR: Avez-vous vu un sarcophage plein de trésors ? Moi non plus.
+FR: As-tu vu un sarcophage plein de trésors ? Moi non plus.
 
 EN: I just hope the loot isn't guarded by liches. I hate liches.
 FR: J’espère juste que le butin n’est pas gardé par des liches. Je déteste les liches.

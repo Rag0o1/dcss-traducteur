@@ -1,11 +1,11 @@
 EN: You are a heretic and must be destroyed!
-FR: Vous êtes un hérétique et vous devez être détruit !
+FR: Tu es un hérétique et tu dois être détruit !
 
 EN: You will make a fine sacrifice.
-FR: Vous ferez un beau sacrifice.
+FR: Tu feras un beau sacrifice.
 
 EN: You must be punished!
-FR: Vous devez être puni !
+FR: Tu dois être puni !
 
 EN: All sinners must die.
 FR: Tous les pécheurs doivent mourir.
@@ -17,10 +17,10 @@ EN: Right in the middle of my sermon, too.
 FR: Juste au milieu de mon sermon, en plus.
 
 EN: The wages of sin are death, you know.
-FR: Le salaire du péché, c’est la mort, vous savez.
+FR: Le salaire du péché, c’est la mort, tu sais.
 
 EN: I'll spare you if you take my job.
-FR: Je vous épargnerai si vous prenez mon travail.
+FR: Je t’épargnerai si tu prends mon travail.
 
 EN: Deep inside, it's sometimes so empty.
 FR: Au fond de moi, c’est parfois tellement vide.
@@ -29,22 +29,22 @@ EN: Taste sacred energy, fool.
 FR: Goûtez l’énergie sacrée, imbécile.
 
 EN: Your suffering will cleanse you of your heresy.
-FR: Votre souffrance vous purifiera de votre hérésie.
+FR: Ta souffrance te purifiera de ton hérésie.
 
 EN: One false step and I'll kill you.
-FR: Un faux pas et je vous tue.
+FR: Un faux pas et je te tue.
 
 EN: I'm going to kill you! Now!
-FR: Je vais vous tuer ! Maintenant !
+FR: Je vais te tuer ! Maintenant !
 
 EN: You will never get the ORB!
-FR: Vous n’aurez jamais l’ORBE !
+FR: Tu n’auras jamais l’ORBE !
 
 EN: No trespassing is allowed here.
 FR: Il est interdit de pénétrer ici.
 
 EN: Drop everything you've found here and return home.
-FR: Laissez tout ce que vous avez trouvé ici et rentrez chez vous.
+FR: Laisse tout ce que tu as trouvé ici et rentre chez toi.
 
 EN: Return every stolen item!
 FR: Rendez chaque objet volé !
@@ -53,19 +53,19 @@ EN: Intruder!
 FR: Intrus !
 
 EN: Now you've reached the end of your journey.
-FR: Vous voilà au bout de votre voyage.
+FR: Te voilà au bout de ton voyage.
 
 EN: It's nothing personal.
 FR: Rien de personnel.
 
 EN: Coming here was your last mistake.
-FR: Venir ici a été votre dernière erreur.
+FR: Venir ici a été ta dernière erreur.
 
 EN: The best offence is a good offence.
 FR: La meilleure défense, c’est l’attaque.
 
 EN: Return immediately or I'll kill you!
-FR: Revenez tout de suite ou je vous tue !
+FR: Reviens tout de suite ou je te tue !
 
 EN: A dead adventurer is a good adventurer.
 FR: Un aventurier mort est un bon aventurier.
@@ -74,19 +74,19 @@ EN: It's the end of the party!
 FR: C’est la fin de la fête !
 
 EN: Surrender and die!
-FR: Rendez-vous et mourez !
+FR: Rends-toi et meurs !
 
 EN: You can't withstand my power!
-FR: Vous ne pouvez pas résister à ma puissance !
+FR: Tu ne peux pas résister à ma puissance !
 
 EN: You are history!
-FR: Vous êtes de l’histoire ancienne !
+FR: Tu es de l’histoire ancienne !
 
 EN: OK, boss!
 FR: D’accord, patron !
 
 EN: The Orb is all yours.
-FR: L’Orbe est tout à vous.
+FR: L’Orbe est tout à toi.
 
 EN: Isn't this more fun with friends?
 FR: C’est plus drôle entre amis, non ?
@@ -95,7 +95,7 @@ EN: Uh-oh! Wait. OK.
 FR: Oups ! Attendez. D’accord.
 
 EN: You're so much nicer than my last boss.
-FR: Vous êtes tellement plus gentil que mon ancien patron.
+FR: Tu es tellement plus gentil que mon ancien patron.
 
 EN: Stay back! It could be a ploy!
 FR: Restez en arrière ! Ça pourrait être un coup fourré !
@@ -119,13 +119,13 @@ EN: I'm here!
 FR: Je suis là !
 
 EN: You called?
-FR: Vous avez appelé ?
+FR: Tu as appelé ?
 
 EN: What's happening?!
 FR: Que se passe-t-il ?!
 
 EN: Can't catch me!
-FR: Vous ne m’attraperez pas !
+FR: Tu ne m’attraperas pas !
 
 EN: I'm losing control!
 FR: Je perds le contrôle !
@@ -143,7 +143,7 @@ EN: Why is everything spinning?
 FR: Pourquoi tout tourne ?
 
 EN: I'll kill you anyway!
-FR: Je vous tuerai quand même !
+FR: Je te tuerai quand même !
 
 EN: Get them off me!
 FR: Enlevez-les de moi !
@@ -152,7 +152,7 @@ EN: My nostrils!
 FR: Mes narines !
 
 EN: Who are you?
-FR: Qui êtes-vous ?
+FR: Qui es-tu ?
 
 EN: What the hell are we doing here? Hmm, I see...
 FR: Qu’est-ce qu’on fiche ici ? Hmm, je vois...
@@ -167,10 +167,10 @@ EN: Cover me!
 FR: Couvrez-moi !
 
 EN: Don't forget your friends!
-FR: N’oubliez pas vos amis !
+FR: N’oublie pas tes amis !
 
 EN: Please protect me!
-FR: Je vous en prie, protégez-moi !
+FR: Je t’en prie, protège-moi !
 
 EN: GO AWAY!
 FR: PARTEZ !
@@ -179,7 +179,7 @@ EN: Oh dear! Oh dear!
 FR: Oh là là ! Oh là là !
 
 EN: Please don't kill me!
-FR: Ne me tuez pas, je vous en prie !
+FR: Ne me tue pas, je t’en prie !
 
 EN: Why can't we all just get along?
 FR: Pourquoi ne peut-on pas tous s’entendre ?
@@ -212,19 +212,19 @@ EN: Waaaaaa!
 FR: Ouiiiiin !
 
 EN: Please! I have a lot of children!
-FR: Je vous en prie ! J’ai plein d’enfants !
+FR: Je t’en prie ! J’ai plein d’enfants !
 
 EN: Of all the rotten luck!
 FR: Quelle poisse !
 
 EN: I like you, cousin!
-FR: Je vous aime bien, cousin !
+FR: Je t’aime bien, cousin !
 
 EN: You and me, we're family.
-FR: Vous et moi, on est de la famille.
+FR: Toi et moi, on est de la famille.
 
 EN: Run! I'll cover you!
-FR: Courez ! Je vous couvre !
+FR: Cours ! Je te couvre !
 
 EN: Die, monster!
 FR: Meurs, monstre !
@@ -233,7 +233,7 @@ EN: Be careful!
 FR: Faites attention !
 
 EN: I'll never leave you.
-FR: Je ne vous abandonnerai jamais.
+FR: Je ne t’abandonnerai jamais.
 
 EN: It's nice to have friends.
 FR: C’est agréable d’avoir des amis.
@@ -242,37 +242,37 @@ EN: No mercy! Kill them all!
 FR: Pas de quartier ! Tuez-les tous !
 
 EN: Don't worry. I'm here with you.
-FR: Ne vous inquiétez pas. Je suis là avec vous.
+FR: Ne t’inquiète pas. Je suis là avec toi.
 
 EN: Beware of monsters!
-FR: Méfiez-vous des monstres !
+FR: Méfie-toi des monstres !
 
 EN: I have defeated monsters you have never seen.
-FR: J’ai vaincu des monstres que vous n’avez jamais vus.
+FR: J’ai vaincu des monstres que tu n’as jamais vus.
 
 EN: My insurmountable tactics guarantee your defeat.
-FR: Mes tactiques imparables garantissent votre défaite.
+FR: Mes tactiques imparables garantissent ta défaite.
 
 EN: Are you willing to die fighting? I was!
-FR: Êtes-vous prêt à mourir en combattant ? Moi, je l’étais !
+FR: Es-tu prêt à mourir en combattant ? Moi, je l’étais !
 
 EN: Do you call that fighting?
-FR: Vous appelez ça se battre ?
+FR: Tu appelles ça se battre ?
 
 EN: And you think you're capable of finding the ORB? I had it, you know. Then I gave it away so I could steal it AGAIN.
-FR: Et vous pensez pouvoir trouver l’ORBE ? Je l’ai eu, vous savez. Puis je l’ai donné pour pouvoir le voler ENCORE.
+FR: Et tu penses pouvoir trouver l’ORBE ? Je l’ai eu, tu sais. Puis je l’ai donné pour pouvoir le voler ENCORE.
 
 EN: It's not the size of the blade that matters, it's how you use it.
 FR: Ce n’est pas la taille de la lame qui compte, c’est la façon de s’en servir.
 
 EN: You sneer at my short blade, I will sneer at your cold corpse.
-FR: Vous ricanez devant ma lame courte, je ricanerai devant votre cadavre froid.
+FR: Tu ricanes devant ma lame courte, je ricanerai devant ton cadavre froid.
 
 EN: Live by the sword, die by the sword.
 FR: Qui vit par l’épée périt par l’épée.
 
 EN: I'll split you in two!
-FR: Je vais vous couper en deux !
+FR: Je vais te couper en deux !
 
 EN: They all look like pillowcases to me...
 FR: Pour moi, ils ressemblent tous à des taies d’oreiller...
@@ -281,16 +281,16 @@ EN: Try not to bleed too much.
 FR: Essayez de ne pas trop saigner.
 
 EN: They'll have to sweep you off the floor after I'm finished with you!
-FR: Il faudra vous ramasser à la pelle quand j’en aurai fini avec vous !
+FR: Il faudra te ramasser à la pelle quand j’en aurai fini avec toi !
 
 EN: Crushing you to a pulp will hurt a lot. After that? Painless! I promise!
-FR: Vous réduire en bouillie fera très mal. Après ? Plus rien ! Je le promets !
+FR: Te réduire en bouillie fera très mal. Après ? Plus rien ! Je le promets !
 
 EN: Your head on a pike would complement this floor nicely.
-FR: Votre tête au bout d’une pique irait très bien avec ce sol.
+FR: Ta tête au bout d’une pique irait très bien avec ce sol.
 
 EN: Your head would complement my pike nicely.
-FR: Votre tête irait très bien avec ma pique.
+FR: Ta tête irait très bien avec ma pique.
 
 EN: I excel at staving off weak adventurers.
 FR: Je suis doué pour repousser les aventuriers faibles.
@@ -299,10 +299,10 @@ EN: The bigger they are, the harder they fall!
 FR: Plus ils sont grands, plus dure est la chute !
 
 EN: Do you have an apple? I have a shot I want to try.
-FR: Avez-vous une pomme ? J’ai un tir que je veux essayer.
+FR: As-tu une pomme ? J’ai un tir que je veux essayer.
 
 EN: You cannot hurt me!
-FR: Vous ne pouvez pas me blesser !
+FR: Tu ne peux pas me blesser !
 
 EN: I am invincible!
 FR: Je suis invincible !
@@ -320,7 +320,7 @@ EN: Too slow!
 FR: Trop lent !
 
 EN: You can hit me, but you can't hurt me.
-FR: Vous pouvez me frapper, mais vous ne pouvez pas me blesser.
+FR: Tu peux me frapper, mais tu ne peux pas me blesser.
 
 EN: Only the weak need weapons.
 FR: Seuls les faibles ont besoin d’armes.
@@ -335,52 +335,52 @@ EN: I am proof that knowledge is power.
 FR: Je suis la preuve que savoir, c’est pouvoir.
 
 EN: Watch and be amazed!
-FR: Regardez et émerveillez-vous !
+FR: Regarde et émerveille-toi !
 
 EN: I practised a lot since I died.
 FR: Je me suis beaucoup entraîné depuis que je suis mort.
 
 EN: I am smarter than you!
-FR: Je suis plus malin que vous !
+FR: Je suis plus malin que toi !
 
 EN: I will blast you to bits.
-FR: Je vais vous réduire en miettes.
+FR: Je vais te réduire en miettes.
 
 EN: You will soon be helpless to avoid my power.
-FR: Bientôt, vous serez incapable d’éviter ma puissance.
+FR: Bientôt, tu seras incapable d’éviter ma puissance.
 
 EN: When I snap my fingers, you will think you are a chicken.
-FR: Quand je claquerai des doigts, vous vous prendrez pour une poule.
+FR: Quand je claquerai des doigts, tu te prendras pour une poule.
 
 EN: It's dangerous to adventure alone.
 FR: Il est dangereux d’aventurer seul.
 
 EN: Death will end your pain.
-FR: La mort mettra fin à votre douleur.
+FR: La mort mettra fin à ta douleur.
 
 EN: Don't worry, I won't let your corpse go to waste.
-FR: Ne vous inquiétez pas, je ne laisserai pas votre cadavre se perdre.
+FR: Ne t’inquiète pas, je ne laisserai pas ton cadavre se perdre.
 
 EN: After I kill you, I will kill you again.
-FR: Après vous avoir tué, je vous tuerai encore.
+FR: Après t’avoir tué, je te tuerai encore.
 
 EN: I need your bones for a spell of mine.
-FR: J’ai besoin de vos os pour un de mes sorts.
+FR: J’ai besoin de tes os pour un de mes sorts.
 
 EN: I love the smell of burning flesh.
 FR: J’adore l’odeur de la chair brûlée.
 
 EN: Would you like to be cremated?
-FR: Voulez-vous être incinéré ?
+FR: Veux-tu être incinéré ?
 
 EN: Don't worry, you'll be warm in a moment.
-FR: Ne vous inquiétez pas, vous aurez chaud dans un instant.
+FR: Ne t’inquiète pas, tu auras chaud dans un instant.
 
 EN: I hope the next monster to meet you likes frozen food!
-FR: J’espère que le prochain monstre qui vous rencontrera aime les surgelés !
+FR: J’espère que le prochain monstre qui te rencontrera aime les surgelés !
 
 EN: An ice sculpture of you would look very nice here.
-FR: Une sculpture de glace à votre effigie serait très belle ici.
+FR: Une sculpture de glace à ton effigie serait très belle ici.
 
 EN: I'm really charged up about this fight.
 FR: Je suis vraiment chargé à bloc pour ce combat.
@@ -398,19 +398,19 @@ EN: Go ahead. Run away.
 FR: Allez-y. Fuyez.
 
 EN: It doesn't matter if you kill me. You'll still die.
-FR: Peu importe que vous me tuiez. Vous mourrez quand même.
+FR: Peu importe que tu me tues. Tu mourras quand même.
 
 EN: Don't move, or the poison will kill you faster.
-FR: Ne bougez pas, ou le poison vous tuera plus vite.
+FR: Ne bouge pas, ou le poison te tuera plus vite.
 
 EN: I don't need to breathe anymore, but you do!
-FR: Je n’ai plus besoin de respirer, mais vous, si !
+FR: Je n’ai plus besoin de respirer, mais toi, si !
 
 EN: This is what relying on the gods got me.
 FR: Voilà ce que m’a valu de compter sur les dieux.
 
 EN: Where's your god now?
-FR: Où est votre dieu maintenant ?
+FR: Où est ton dieu maintenant ?
 
 EN: Bah, the gods are useless!
 FR: Bah, les dieux sont inutiles !
@@ -419,7 +419,7 @@ EN: So much for the promised afterlife.
 FR: Voilà pour la vie après la mort promise.
 
 EN: Are you sure you're pointing that wand in the right direction?
-FR: Êtes-vous sûr de pointer cette baguette dans la bonne direction ?
+FR: Es-tu sûr de pointer cette baguette dans la bonne direction ?
 
 EN: Form is emptiness; emptiness is form.
 FR: La forme est vide ; le vide est forme.
@@ -428,16 +428,16 @@ EN: Look on my works and despair!
 FR: Contemplez mes œuvres et désespérez !
 
 EN: My constructs will outlast you.
-FR: Mes constructions vous survivront.
+FR: Mes constructions te survivront.
 
 EN: Life is a curse, you will soon understand.
-FR: La vie est une malédiction, vous allez bientôt le comprendre.
+FR: La vie est une malédiction, tu vas bientôt le comprendre.
 
 EN: Your future is not even bleak.
-FR: Votre avenir n’est même pas sombre.
+FR: Ton avenir n’est même pas sombre.
 
 EN: You will be nailed to the ground forevermore.
-FR: Vous serez cloué au sol pour toujours.
+FR: Tu seras cloué au sol pour toujours.
 
 EN: Through my death, I saw my mistakes, and the mistakes of many more...
 FR: Par ma mort, j’ai vu mes erreurs, et celles de bien d’autres...
@@ -446,7 +446,7 @@ EN: And yet I knew I would end up like that...
 FR: Et pourtant je savais que je finirais comme ça...
 
 EN: I will read your future in your entrails.
-FR: Je lirai votre avenir dans vos entrailles.
+FR: Je lirai ton avenir dans tes entrailles.
 
 EN: Nobody wants to follow a dead messiah!
 FR: Personne ne veut suivre un messie mort !
@@ -455,25 +455,25 @@ EN: I used to walk on water. Now I just fly over it.
 FR: Je marchais sur l’eau. Maintenant, je ne fais que la survoler.
 
 EN: I don't need an army to kill you!
-FR: Je n’ai pas besoin d’une armée pour vous tuer !
+FR: Je n’ai pas besoin d’une armée pour te tuer !
 
 EN: What's the hurry? You'll die anyway.
-FR: Pourquoi se presser ? Vous mourrez de toute façon.
+FR: Pourquoi se presser ? Tu mourras de toute façon.
 
 EN: You can run, but you can't hide!
-FR: Vous pouvez courir, mais vous ne pouvez pas vous cacher !
+FR: Tu peux courir, mais tu ne peux pas te cacher !
 
 EN: I shall send you to the shadows!
-FR: Je vous enverrai dans les ténèbres !
+FR: Je t’enverrai dans les ténèbres !
 
 EN: Just let the darkness consume you.
-FR: Laissez simplement les ténèbres vous consumer.
+FR: Laisse simplement les ténèbres te consumer.
 
 EN: I walk in shadow, and soon so shall you.
-FR: Je marche dans l’ombre, et bientôt vous aussi.
+FR: Je marche dans l’ombre, et bientôt toi aussi.
 
 EN: In life, I might have healed you instead.
-FR: De mon vivant, j’aurais peut-être pu vous soigner à la place.
+FR: De mon vivant, j’aurais peut-être pu te soigner à la place.
 
 EN: I thought violence couldn't solve anything, but it solved me.
 FR: Je pensais que la violence ne réglait rien, mais elle m’a réglé mon compte.
@@ -485,34 +485,34 @@ EN: Why did I trust plants to save my life?
 FR: Pourquoi ai-je fait confiance aux plantes pour me sauver la vie ?
 
 EN: I can no longer spread life, but I can still bring your death!
-FR: Je ne peux plus répandre la vie, mais je peux encore vous apporter la mort !
+FR: Je ne peux plus répandre la vie, mais je peux encore t’apporter la mort !
 
 EN: You will make such fine fertiliser.
-FR: Vous ferez un si bel engrais.
+FR: Tu feras un si bel engrais.
 
 EN: Life goes in cycles. In a little while, you'll be reborn as a tapeworm.
-FR: La vie va par cycles. Dans peu de temps, vous renaîtrez en ver solitaire.
+FR: La vie va par cycles. Dans peu de temps, tu renaîtras en ver solitaire.
 
 EN: You're as good as gold.
-FR: Vous valez de l’or.
+FR: Tu vaux de l’or.
 
 EN: I guess you can't buy your way into a good afterlife.
 FR: Je suppose qu’on ne peut pas acheter son passage vers une bonne vie après la mort.
 
 EN: If I can't kill you now, I'll help my descendant do it later.
-FR: Si je ne peux pas vous tuer maintenant, j’aiderai mon descendant à le faire plus tard.
+FR: Si je ne peux pas te tuer maintenant, j’aiderai mon descendant à le faire plus tard.
 
 EN: I'll give you a battle you'll never forget!
-FR: Je vais vous offrir un combat que vous n’oublierez jamais !
+FR: Je vais t’offrir un combat que tu n’oublieras jamais !
 
 EN: I'm committing your attacks to memory.
-FR: Je grave vos attaques dans ma mémoire.
+FR: Je grave tes attaques dans ma mémoire.
 
 EN: I burned twice as bright, and look where it got me...
 FR: J’ai brûlé deux fois plus fort, et regardez où ça m’a mené...
 
 EN: Ashes to ashes... so for me, and next for you!
-FR: Cendres aux cendres... ainsi pour moi, et bientôt pour vous !
+FR: Cendres aux cendres... ainsi pour moi, et bientôt pour toi !
 
 EN: Still so attached to shiny items?
 FR: Toujours aussi attaché aux objets brillants ?
@@ -527,46 +527,46 @@ EN: I was going to become a lich, but this is almost as good.
 FR: J’allais devenir une liche, mais ceci est presque aussi bien.
 
 EN: You cannot imagine the pain and torment in store for you!
-FR: Vous ne pouvez imaginer la douleur et le tourment qui vous attendent !
+FR: Tu ne peux imaginer la douleur et le tourment qui t’attendent !
 
 EN: You haven't seen true ruin and despair yet!
-FR: Vous n’avez pas encore vu la vraie ruine et le vrai désespoir !
+FR: Tu n’as pas encore vu la vraie ruine et le vrai désespoir !
 
 EN: Death will always conquer life.
 FR: La mort vaincra toujours la vie.
 
 EN: You would make a fine zombie.
-FR: Vous feriez un excellent zombie.
+FR: Tu ferais un excellent zombie.
 
 EN: I wish I had corrupted all of this!
 FR: J’aurais voulu tout corrompre ici !
 
 EN: What a barren place. A pity you won't get a chance to visit the Abyss!
-FR: Quel endroit désolé. Dommage que vous n’ayez pas l’occasion de visiter l’Abysse !
+FR: Quel endroit désolé. Dommage que tu n’aies pas l’occasion de visiter l’Abysse !
 
 EN: A renegade god deserves renegade ghosts.
 FR: Un dieu renégat mérite des fantômes renégats.
 
 EN: I won't need demonic support against you.
-FR: Je n’aurai pas besoin d’aide démoniaque contre vous.
+FR: Je n’aurai pas besoin d’aide démoniaque contre toi.
 
 EN: I died to destroy people like you for fun.
-FR: Je suis mort pour détruire des gens comme vous, pour le plaisir.
+FR: Je suis mort pour détruire des gens comme toi, pour le plaisir.
 
 EN: Destruction is an occupation beyond life.
 FR: La destruction est une occupation au-delà de la vie.
 
 EN: First you will suffer, then you will die.
-FR: D’abord vous souffrirez, ensuite vous mourrez.
+FR: D’abord tu souffriras, ensuite tu mourras.
 
 EN: I survived the Crucible of Flesh! I fear nothing now!
 FR: J’ai survécu au Creuset de Chair ! Je ne crains plus rien !
 
 EN: The cards don't hold a good future for you.
-FR: Les cartes ne vous promettent pas un bel avenir.
+FR: Les cartes ne te promettent pas un bel avenir.
 
 EN: I will deal out your death!
-FR: Je distribuerai votre mort !
+FR: Je distribuerai ta mort !
 
 EN: I was once a great warrior, and I still am!
 FR: J’étais jadis un grand guerrier, et je le suis toujours !
@@ -575,28 +575,28 @@ EN: Ah, a second chance to prove myself in battle!
 FR: Ah, une seconde chance de faire mes preuves au combat !
 
 EN: You're just another problem to be solved.
-FR: Vous n’êtes qu’un problème de plus à résoudre.
+FR: Tu n’es qu’un problème de plus à résoudre.
 
 EN: You're really going to get a charge out of this one.
-FR: Vous allez vraiment en prendre plein la figure avec celui-là.
+FR: Tu vas vraiment en prendre plein la figure avec celui-là.
 
 EN: Spells? Hah! My gadgets will show what real magic is!
-FR: Des sorts ? Ha ! Mes gadgets vont vous montrer ce qu’est la vraie magie !
+FR: Des sorts ? Ha ! Mes gadgets vont te montrer ce qu’est la vraie magie !
 
 EN: A storm is coming...
 FR: Une tempête approche...
 
 EN: Let nature run its course against you!
-FR: Laissez la nature suivre son cours contre vous !
+FR: Laisse la nature suivre son cours contre toi !
 
 EN: The earth shall destroy you!
-FR: La terre vous détruira !
+FR: La terre te détruira !
 
 EN: I sacrificed my body for ultimate power!
 FR: J’ai sacrifié mon corps pour le pouvoir ultime !
 
 EN: I'll show you the great annihilating truth!
-FR: Je vais vous montrer la grande vérité annihilante !
+FR: Je vais te montrer la grande vérité annihilante !
 
 EN: None of this matters. None of this is real!
 FR: Rien de tout cela n’a d’importance. Rien de tout cela n’est réel !
@@ -632,13 +632,13 @@ EN: As in life, so in death: Kill! Kill!! Kill!!!
 FR: Comme dans la vie, dans la mort : tuer ! Tuer !! Tuer !!!
 
 EN: It's your last dance!
-FR: C’est votre dernière danse !
+FR: C’est ta dernière danse !
 
 EN: Let me show you true rhythm.
-FR: Laissez-moi vous montrer le vrai rythme.
+FR: Laisse-moi te montrer le vrai rythme.
 
 EN: You either stomp with the beat or get stomped.
-FR: Soit vous marquez le rythme du pied, soit on vous piétine.
+FR: Soit tu marques le rythme du pied, soit on te piétine.
 
 EN: I used to wander and follow the dancing life. Look where it got me.
 FR: J’errais et suivais la vie qui danse. Regardez où ça m’a mené.
@@ -647,22 +647,22 @@ EN: Finally, a proper audience!
 FR: Enfin, un vrai public !
 
 EN: I'm fresh out of hellfire, but you will end anyway.
-FR: Je n’ai plus de feu d’enfer, mais vous finirez quand même.
+FR: Je n’ai plus de feu d’enfer, mais tu finiras quand même.
 
 EN: The agents of utter destruction are not stopped by death.
 FR: Les agents de la destruction totale ne sont pas arrêtés par la mort.
 
 EN: After taking care of you, I will research a spell that consumes the world.
-FR: Après m’être occupé de vous, je chercherai un sort qui consume le monde.
+FR: Après m’être occupé de toi, je chercherai un sort qui consume le monde.
 
 EN: Do not fail me, O fires of Iskenderun!
 FR: Ne me faites pas défaut, ô feux d’Iskenderun !
 
 EN: You lack the discipline to defeat me.
-FR: Vous manquez de discipline pour me vaincre.
+FR: Tu manques de discipline pour me vaincre.
 
 EN: Let's see how well you move.
-FR: Voyons comment vous bougez.
+FR: Voyons comment tu bouges.
 
 EN: I'm much more flexible now that I'm not limited by flesh.
 FR: Je suis bien plus souple maintenant que je ne suis plus limité par la chair.
@@ -671,7 +671,7 @@ EN: I laugh when killing. So smile when dying. SMILE!
 FR: Je ris en tuant. Alors souriez en mourant. SOURIEZ !
 
 EN: You're an easy kill, but not a fun one.
-FR: Vous êtes une proie facile, mais pas amusante.
+FR: Tu es une proie facile, mais pas amusante.
 
 EN: I miss the gifts and the pranks.
 FR: Les cadeaux et les farces me manquent.
@@ -686,10 +686,10 @@ EN: I need scissors! I think I chipped a nail somewhere...
 FR: Il me faut des ciseaux ! Je crois que je me suis ébréché un ongle quelque part...
 
 EN: Your soul may be of use to me.
-FR: Votre âme pourrait m’être utile.
+FR: Ton âme pourrait m’être utile.
 
 EN: First you will die, then you will suffer.
-FR: D’abord vous mourrez, ensuite vous souffrirez.
+FR: D’abord tu mourras, ensuite tu souffriras.
 
 EN: I died poor and in vain, but not as a freak.
 FR: Je suis mort pauvre et pour rien, mais pas en monstre de foire.
@@ -698,7 +698,7 @@ EN: For all the tithing, I expected a more glorious afterlife than this.
 FR: Pour toutes ces dîmes, j’espérais une vie après la mort plus glorieuse que ça.
 
 EN: What do you have that I didn't have?
-FR: Qu’avez-vous que je n’avais pas ?
+FR: Qu’as-tu que je n’avais pas ?
 
 EN: There's no hope.
 FR: Il n’y a aucun espoir.
@@ -707,43 +707,43 @@ EN: The ORB doesn't exist.
 FR: L’ORBE n’existe pas.
 
 EN: They lied to you. The Dungeon just goes down and down forever.
-FR: On vous a menti. Le Donjon descend, descend, sans fin.
+FR: On t’a menti. Le Donjon descend, descend, sans fin.
 
 EN: You will join me soon!
-FR: Vous me rejoindrez bientôt !
+FR: Tu me rejoindras bientôt !
 
 EN: You must not succeed where I failed!
-FR: Vous ne devez pas réussir là où j’ai échoué !
+FR: Tu ne dois pas réussir là où j’ai échoué !
 
 EN: There is no future for you.
-FR: Il n’y a pas d’avenir pour vous.
+FR: Il n’y a pas d’avenir pour toi.
 
 EN: I was like you once.
-FR: J’étais comme vous, autrefois.
+FR: J’étais comme toi, autrefois.
 
 EN: Very impressive. But it won't help. Nothing will.
 FR: Très impressionnant. Mais ça n’y changera rien. Rien n’y changera rien.
 
 EN: I have seen your future, and it is all used up.
-FR: J’ai vu votre avenir, et il est épuisé.
+FR: J’ai vu ton avenir, et il est épuisé.
 
 EN: Do you think the gods will protect you?
-FR: Pensez-vous que les dieux vous protégeront ?
+FR: Penses-tu que les dieux te protégeront ?
 
 EN: I'll kill anyone who wants the ORB!
 FR: Je tuerai quiconque veut l’ORBE !
 
 EN: Don't try to defend! You have no chance!
-FR: N’essayez pas de vous défendre ! Vous n’avez aucune chance !
+FR: N’essaie pas de te défendre ! Tu n’as aucune chance !
 
 EN: Zot is a myth, the ORB is a fable, you'll soon be a tale!
-FR: Zot est un mythe, l’ORBE est une fable, bientôt vous serez un conte !
+FR: Zot est un mythe, l’ORBE est une fable, bientôt tu seras un conte !
 
 EN: Death is liberation.
 FR: La mort est une libération.
 
 EN: Death is your only future!
-FR: La mort est votre seul avenir !
+FR: La mort est ton seul avenir !
 
 EN: Meet the emptiness of death!
 FR: Rencontrez le vide de la mort !
@@ -752,7 +752,7 @@ EN: There is no future for me!
 FR: Il n’y a pas d’avenir pour moi !
 
 EN: They're coming for you...
-FR: Ils viennent pour vous...
+FR: Ils viennent pour toi...
 
 EN: Trust me. Just give in.
 FR: Croyez-moi. Cédez, c’est tout.
@@ -761,22 +761,22 @@ EN: To die, to sleep, no more.
 FR: Mourir, dormir, rien de plus.
 
 EN: Everlasting silence awaits you...
-FR: Un silence éternel vous attend...
+FR: Un silence éternel t’attend...
 
 EN: Death doesn't hurt. What you feel is life.
-FR: La mort ne fait pas mal. Ce que vous ressentez, c’est la vie.
+FR: La mort ne fait pas mal. Ce que tu ressens, c’est la vie.
 
 EN: You will understand me better in a moment.
-FR: Vous me comprendrez mieux dans un instant.
+FR: Tu me comprendras mieux dans un instant.
 
 EN: It is all a dream - a grotesque and foolish dream.
 FR: Tout n’est qu’un rêve, un rêve grotesque et stupide.
 
 EN: Soon you will have time, lots of time...
-FR: Bientôt vous aurez du temps, beaucoup de temps...
+FR: Bientôt tu auras du temps, beaucoup de temps...
 
 EN: You must not fail where I succeeded!
-FR: Vous ne devez pas échouer là où j’ai réussi !
+FR: Tu ne dois pas échouer là où j’ai réussi !
 
 EN: Feeling sleepy?
 FR: Un peu de sommeil ?
@@ -785,7 +785,7 @@ EN: I wasn't actually sleeping!
 FR: Je ne dormais pas, en fait !
 
 EN: I'll haunt your nightmares!
-FR: Je hanterai vos cauchemars !
+FR: Je hanterai tes cauchemars !
 
 EN: Sweet dreams!
 FR: Faites de beaux rêves !
@@ -794,7 +794,7 @@ EN: Everybody has to sleep sometimes.
 FR: Tout le monde doit dormir un jour.
 
 EN: Fancy a snooze?
-FR: Une petite sieste, ça vous dit ?
+FR: Une petite sieste, ça te dit ?
 
 EN: They said they'd gotten someone better!
 FR: Ils ont dit qu’ils avaient trouvé quelqu’un de mieux !
@@ -806,34 +806,34 @@ EN: No job prospects! Who wants sleepy Aizul to guard their treasure?
 FR: Pas de perspective d’emploi ! Qui veut d’Aizul le somnolent pour garder son trésor ?
 
 EN: You dishonour your ancestors.
-FR: Vous déshonorez vos ancêtres.
+FR: Tu déshonores tes ancêtres.
 
 EN: I despise a dishonourable opponent.
 FR: Je méprise un adversaire sans honneur.
 
 EN: It is my duty to kill you, but also my pleasure.
-FR: C’est mon devoir de vous tuer, mais aussi mon plaisir.
+FR: C’est mon devoir de te tuer, mais aussi mon plaisir.
 
 EN: I never trained for this.
 FR: Je ne me suis jamais entraîné pour ça.
 
 EN: You will find the Path of Peace easy to follow, in death.
-FR: Vous trouverez le Chemin de la Paix facile à suivre, dans la mort.
+FR: Tu trouveras le Chemin de la Paix facile à suivre, dans la mort.
 
 EN: The ORB is mine by right.
 FR: L’ORBE est à moi de plein droit.
 
 EN: I will kick you around like a rattan ball!
-FR: Je vais vous balloter comme une balle de rotin !
+FR: Je vais te balloter comme une balle de rotin !
 
 EN: Have you seen my kris anywhere?
-FR: Avez-vous vu mon kriss quelque part ?
+FR: As-tu vu mon kriss quelque part ?
 
 EN: I could really go for a good breadfruit right now.
 FR: Je mangerais bien un bon fruit à pain en ce moment.
 
 EN: May you follow the Path of Peace in your next life.
-FR: Puissiez-vous suivre le Chemin de la Paix dans votre prochaine vie.
+FR: Puisses-tu suivre le Chemin de la Paix dans ta prochaine vie.
 
 EN: Your soul will be trapped in ice for ten thousand years.
-FR: Votre âme sera prisonnière de la glace pendant dix mille ans.
+FR: Ton âme sera prisonnière de la glace pendant dix mille ans.

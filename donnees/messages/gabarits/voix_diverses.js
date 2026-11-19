@@ -4,13 +4,13 @@ Well, hello there.
 Eh bien, bonjour.
 
 Aren't you a tasty little thing?
-N’êtes-vous pas une petite chose savoureuse ?
+N’es-tu pas une petite chose savoureuse ?
 
 We're going to have a lot of fun together.
 Nous allons bien nous amuser ensemble.
 
 Let's make your enemies cower, shall we?
-Faisons trembler vos ennemis, voulez-vous ?
+Faisons trembler tes ennemis, veux-tu ?
 
 You scratch my back, I'll scratch yours... and I'm one HELL of a backscratcher.
 Grattez-moi le dos, je gratterai le vôtre... et je suis un SACRÉ gratteur de dos.
@@ -22,7 +22,7 @@ This should be good.
 Ça devrait être bien.
 
 Let me show you the power of Hell.
-Laissez-moi vous montrer le pouvoir de l’Enfer.
+Laisse-moi te montrer le pouvoir de l’Enfer.
 
 Embrace the darkness.
 Embrassez les ténèbres.
@@ -37,13 +37,13 @@ Now here's how it's done.
 Voici comment on fait.
 
 Your soul is simply delicious.
-Votre âme est tout simplement délicieuse.
+Ton âme est tout simplement délicieuse.
 
 Has anyone ever told you how good your soul tastes?
-Quelqu’un vous a-t-il déjà dit combien votre âme est bonne ?
+Quelqu’un t’a-t-il déjà dit combien ton âme est bonne ?
 
 You're beginning to bore me.
-Vous commencez à m’ennuyer.
+Tu commences à m’ennuyer.
 
 My talents are wasted here.
 Mes talents sont gaspillés ici.
@@ -52,7 +52,7 @@ Why bother with such petty cantrips?
 Pourquoi s’embêter avec de si petits tours ?
 
 A demon of Hell at your fingers, and you cast that...
-Un démon de l’Enfer au bout des doigts, et vous lancez ça...
+Un démon de l’Enfer au bout des doigts, et tu lances ça...
 
 Now, try casting something FUN.
 Essayez donc de lancer quelque chose d’AMUSANT.
@@ -67,31 +67,31 @@ Finally, someone more useful than... these people.
 Enfin, quelqu’un de plus utile que... ces gens-là.
 
 I knew you could not resist the dark call for long.
-Je savais que vous ne résisteriez pas longtemps à l’appel des ténèbres.
+Je savais que tu ne résisterais pas longtemps à l’appel des ténèbres.
 
 I shall forgive your past transgressions, as long as you remember your place this time.
-Je pardonnerai vos transgressions passées, à condition que vous vous souveniez de votre place cette fois.
+Je pardonnerai tes transgressions passées, à condition que tu te souviennes de ta place cette fois.
 
 I shall graciously assume that you are merely clumsy, not stupid.
-Je veux bien supposer que vous n’êtes que maladroit, pas stupide.
+Je veux bien supposer que tu n’es que maladroit, pas stupide.
 
 Don't test my patience; I have made greater than you beg for death over less!
-Ne testez pas ma patience ; j’ai fait supplier la mort de plus grands que vous pour moins que cela !
+Ne teste pas ma patience ; j’ai fait supplier la mort de plus grands que toi pour moins que cela !
 
 Finally...
 Enfin...
 
 You'll be back again, mark my words....
-Vous reviendrez, croyez-moi....
+Tu reviendras, crois-moi....
 
 Dare you to relinquish me? You shall regret this insult!
-Osez-vous m’abandonner ? Vous regretterez cette insulte !
+Oses-tu m’abandonner ? Tu regretteras cette insulte !
 
 How arrogant, to think that any shield could be mightier than the power of Zonguldrok!
 Quelle arrogance de croire qu’un bouclier puisse être plus puissant que le pouvoir de Zonguldrok !
 
 I wasn't done with you!
-Je n’en avais pas fini avec vous !
+Je n’en avais pas fini avec toi !
 
 At last; a crown worthy of my station.
 Enfin ; une couronne digne de mon rang.
@@ -100,7 +100,7 @@ A good hat truly is one of the finest things in life or death.
 Un bon chapeau est vraiment l’une des plus belles choses de la vie, ou de la mort.
 
 I applaud your taste in fashion, my scion.
-J’applaudis votre goût en matière de mode, mon rejeton.
+J’applaudis ton goût en matière de mode, mon rejeton.
 
 Our enemies shall surely prostrate themselves before my majesty now.
 Nos ennemis se prosterneront sûrement devant ma majesté maintenant.
@@ -115,7 +115,7 @@ The magic in this cap shall complement my own adequately.
 La magie de ce couvre-chef complétera la mienne de façon satisfaisante.
 
 How dare you fob such a shabby cap upon my head!
-Comment osez-vous me refiler un couvre-chef aussi miteux !
+Comment oses-tu me refiler un couvre-chef aussi miteux !
 
 What an insult, to strut around in such shoddy millinery.
 Quelle insulte, de parader dans une chapellerie aussi médiocre.
@@ -145,7 +145,7 @@ Our combined strength is more than our foes can bear!
 Notre force combinée est plus que nos ennemis ne peuvent supporter !
 
 Be a stabber in the dark, treacherous to foes!
-Soyez un poignardeur dans l’ombre, traître envers vos ennemis !
+Sois un poignardeur dans l’ombre, traître envers tes ennemis !
 
 Four thousand throats may be cut in one night by a running man.
 Quatre mille gorges peuvent être tranchées en une nuit par un homme qui court.
@@ -169,10 +169,10 @@ All our enemies can now be test subjects!
 Tous nos ennemis peuvent désormais servir de cobayes !
 
 Even if you find the elixir of immortality, remember: I was immortal first!
-Même si vous trouvez l’élixir d’immortalité, souvenez-vous : j’étais immortel le premier !
+Même si tu trouves l’élixir d’immortalité, souviens-toi : j’étais immortel le premier !
 
 Scion, are you pondering what I'm pondering?
-Rejeton, songez-vous à ce à quoi je songe ?
+Rejeton, songes-tu à ce à quoi je songe ?
 
 I can tolerate a stained cap for power such as this!
 Je peux tolérer un couvre-chef taché pour un tel pouvoir !

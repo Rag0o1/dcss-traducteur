@@ -533,7 +533,7 @@ EN: If you descend without finding the Orb of Zot, so far below, it's all over!
 FR: Si vous descendez sans trouver l’Orbe de Zot, tout en bas, tout est fini !
 
 EN: The monsters here aren't big trick-or-treat fans. If they won't give you the Orb of Zot, you'll have to take it.
-FR: Les monstres d’ici n’aiment pas trop « des bonbons ou un sort ». S’ils ne vous donnent pas l’Orbe de Zot, il faudra le prendre.
+FR: Les monstres d’ici n’aiment pas trop « des bonbons ou un sort ». S’ils ne vous donnent pas l’Orbe de Zot, vous devrez prendre l’Orbe vous-même.
 
 EN: A terrible geas has sent you after the Orb of Zot. What a horrible night to have a curse!
 FR: Un terrible serment magique vous a lancé à la poursuite de l’Orbe de Zot. Quelle horrible nuit pour être maudit !
@@ -599,10 +599,10 @@ EN: "Leave now, before it is too late!"
 FR: « Partez maintenant, avant qu’il ne soit trop tard ! »
 
 EN: "No one will save a wretch like you!"
-FR: « Personne ne sauvera un misérable comme vous ! »
+FR: « Personne ne sauvera un misérable comme toi ! »
 
 EN: "Run while you still can, mortal!"
-FR: « Fuyez tant que vous le pouvez encore, mortel ! »
+FR: « Fuis tant que tu le peux encore, mortel ! »
 
 EN: "Trespassers are not welcome here!"
 FR: « Les intrus ne sont pas les bienvenus ici ! »
@@ -611,37 +611,37 @@ EN: "We do not forgive those who trespass against us!"
 FR: « Nous ne pardonnons pas à ceux qui nous ont offensés ! »
 
 EN: "We have such sights to show you!"
-FR: « Nous avons tant de choses à vous montrer ! »
+FR: « Nous avons tant de choses à te montrer ! »
 
 EN: "We have you now!"
-FR: « Nous vous tenons ! »
+FR: « Nous te tenons ! »
 
 EN: "We will enjoy watching you die!"
-FR: « Nous prendrons plaisir à vous regarder mourir ! »
+FR: « Nous prendrons plaisir à te regarder mourir ! »
 
 EN: "Whatever you seek here, you will find only death!"
-FR: « Quoi que vous cherchiez ici, vous ne trouverez que la mort ! »
+FR: « Quoi que tu cherches ici, tu ne trouveras que la mort ! »
 
 EN: "You are not welcome here!"
-FR: « Vous n’êtes pas le bienvenu ici ! »
+FR: « Tu n’es pas le bienvenu ici ! »
 
 EN: "You do not belong in this place!"
-FR: « Vous n’avez pas votre place ici ! »
+FR: « Tu n’as pas ta place ici ! »
 
 EN: "You have come here to die, fool!"
-FR: « Vous êtes venu ici pour mourir, imbécile ! »
+FR: « Tu es venu ici pour mourir, imbécile ! »
 
 EN: "You should have left when you had the chance!"
-FR: « Vous auriez dû partir quand vous en aviez l’occasion ! »
+FR: « Tu aurais dû partir quand tu en avais l’occasion ! »
 
 EN: "You should not have come here!"
-FR: « Vous n’auriez pas dû venir ici ! »
+FR: « Tu n’aurais pas dû venir ici ! »
 
 EN: "You will never escape!"
-FR: « Vous ne vous échapperez jamais ! »
+FR: « Tu ne t’échapperas jamais ! »
 
 EN: "You will not leave this place!"
-FR: « Vous ne quitterez pas cet endroit ! »
+FR: « Tu ne quitteras pas cet endroit ! »
 
 EN: For a moment, everything goes dark.
 FR: L’espace d’un instant, tout devient noir.

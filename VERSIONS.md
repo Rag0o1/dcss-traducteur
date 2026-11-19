@@ -11,6 +11,11 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.25.4 — tutoiement dans les répliques
+
+- Décision du 19/11 : un monstre, démon, dieu ou arme qui parle AU joueur le tutoie (« Meurs, mortel ! », « Je vais te tuer ! », « Tu es un hérétique et tu dois être détruit ! ») ; il vouvoie quand il parle de sa race ou d’un groupe (« Vous, les mortels… »). La narration du jeu reste au vouvoiement. 750 répliques revues.
+- Message d’accueil d’Halloween : « vous devrez prendre l’Orbe vous-même ».
+
 ## 0.25.3 — relecture des textes générés
 
 - 1 466 textes générés (sorts et cris de monstres, Enfer, Xom, portails, nouveautés 0.35) relus : 22 corrections. Les voix de l’Enfer et les répliques de monstres vouvoient le joueur, comme le reste des répliques (« Mourez, mortel ! ») ; seul Xom tutoie. Orbe au masculin (« le prendre »), « comme un dément ».
