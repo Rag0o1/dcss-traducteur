@@ -111,8 +111,8 @@
         if (fr === null) return null;
         let pref = "";
         if (qty) pref = qty + " ";
-        else if (art === "the") pref = pluriel ? "les " : (genre === "f" ? "la " : "le ");
-        else if (art) pref = genre === "f" ? "une " : "un ";
+        else if (art === "the") pref = pluriel ? "les " : globalThis.DCSS_ELIDE(fr) ? "l’" : (genre === "f" ? "la " : "le ");
+        else if (art) pref = pluriel ? "des " : genre === "f" ? "une " : "un ";
         return pref + fr + (bonus ? " " + bonus : "");
     }
     globalThis.DCSS_OBJET_PLUS = objetPlus;
@@ -151,6 +151,10 @@
         if ((m = reste.match(/^(\d+) gold (.+)$/))) { prix = `${m[1]} or `; reste = m[2]; }
         const o = objetPlus(reste) ?? (prix ? reste : null);
         if (o === null) return null;
+        {   // accord de « (porté) » avec l'objet : « une robe (portée) », « des écailles… (portées) »
+            const pl = /^(des|les|\d+) /.test(o), fem = /^(une|la) /.test(o) || /^(des|les) écailles/.test(o);
+            const i = suffixes.indexOf("(porté)"); if (i !== -1) suffixes[i] = "(porté" + (fem ? "e" : "") + (pl ? "s" : "") + ")";
+        }
         if (prix) return prefixe + prix + o + (suffixes.length ? " " + suffixes.join(" ") : "");
         return prefixe + o + (suffixes.length ? " " + suffixes.join(" ") : "");
     }

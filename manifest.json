@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "DCSS Traducteur",
-  "version": "0.24.1",
+  "version": "0.24.2",
   "description": "Couche de traduction française pour DCSS Web",
   "content_scripts": [
     {
@@ -11,6 +11,7 @@
       ],
       "js": [
         "OPTIONS.js",
+        "moteur/elision.js",
         "donnees/officiel.js",
         "donnees/personnage/mutations.js",
         "donnees/personnage/mutations_msg.js",

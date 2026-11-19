@@ -105,7 +105,7 @@
                 const r = rendre(c, { gn: gnRef, inv: inv || ctx.inv }); if (r.erreur) return r;
                 if (sortie.includes("¤")) {   // ¤ = article défini accordé avec le morceau qui suit (noms d'artefacts)
                     const g = (t.suiv ? gnRef : r.gn) || "ms";
-                    const art = g[1] === "p" ? "les " : /^[aeiouyhâàéèêëîïôœû]/i.test(r.s) ? "l’" : g[0] === "f" ? "la " : "le ";
+                    const art = g[1] === "p" ? "les " : globalThis.DCSS_ELIDE(r.s) ? "l’" : g[0] === "f" ? "la " : "le ";
                     sortie = sortie.replace("¤", art);
                 }
                 if (t.suiv && r.apres) { garde = r.s; continue; }   // {apres} : cet adjectif se place finalement après le nom
