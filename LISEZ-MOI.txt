@@ -1,3 +1,86 @@
 DCSS TRADUCTEUR (version ctrl+f test)
 ==============================
 version de test avant de la passez dans main pour voir si le ctrl+f marche aussi en français avec les modification apporter et voir si ça pose des problème au niveau de la fluidité du jeux, si ce la marche mais que ça pose des problème de fluidité/avec les règle du tournois il y auras une branche séparer qui garderas cette fonctionnalités en +.
+
+RECHERCHE CTRL+F EN FRANÇAIS
+============================
+
+À quoi ça sert
+--------------
+Dans DCSS, Ctrl+F cherche un objet, un décor (autel, escalier, boutique…) ou un
+monstre parmi tout ce que vous avez déjà vu. Mais c’est le serveur du jeu qui fait
+la recherche, et il ne connaît que les noms ANGLAIS : sans l’extension, taper
+« parchemin » ne trouve rien. Avec l’extension, vous pouvez chercher en français.
+
+Comment ça marche
+-----------------
+1. Vous faites Ctrl+F et vous tapez votre recherche en français, par ex. « or ».
+2. Au moment où vous appuyez sur Entrée, AVANT que le texte parte au serveur,
+   l’extension le remplace par une recherche en anglais : « or » devient « /(gold) ».
+3. Le serveur reçoit donc de l’anglais et trouve les bons objets. Rien n’est modifié
+   côté serveur : tout se passe dans votre navigateur.
+
+Le « / » au début dit au jeu de lire la recherche comme une « expression régulière » :
+une recherche qui peut contenir plusieurs possibilités séparées par « | » (qui veut
+dire « ou »). Par ex. « /(scroll|potion) » cherche les parchemins OU les potions.
+
+Les traductions viennent des dictionnaires de l’extension (monstres, armes, armures,
+décors, potions, parchemins, ego, couleurs, compétences, races, métiers) et d’une
+petite liste de mots généraux (objet, arme, autel, boutique, cadavre…).
+
+Les règles
+----------
+- Un mot ou un nom français connu  ->  seule la traduction anglaise est envoyée.
+- Un nom qui contient tous les mots tapés est trouvé, même dans le désordre
+  ou sans « de » : « anneau feu » trouve « anneau de feu ».
+- Deux mots qui ne forment pas un nom connu sont cherchés ensemble :
+  « potion bleue » cherche « potion » ET « blue » dans le même nom.
+- Les accents et les majuscules ne comptent pas : « teleport » = « Téléport ».
+- Le pluriel est géré : « potion de guérison » trouve aussi « 2 potions of curing ».
+- Un simple MORCEAU d’un mot français (ex. « arm », qui est dans « arme ») :
+  l’extension envoie les traductions ET votre texte, au cas où ce serait de l’anglais.
+- Un mot inconnu (ex. « dagger ») est envoyé tel quel : l’anglais marche toujours.
+
+Exemples
+--------
+  Vous tapez             Envoyé au serveur
+  ---------------------  ---------------------------------------
+  or                     /(gold)
+  parchemin              /(scroll)
+  autel                  /(altar)
+  escalier               /(staircase)
+  dague                  /(dagger)
+  épée longue            /(long sword)
+  potion de guérison     /(potion(e?s)? of curing)
+  potion de soin         /(potion(e?s)? of heal wounds)
+  parchemin blink        /(scroll(e?s)? of blinking)
+  potion bleue           /((potion).*(blue)|(blue).*(potion))
+  @potion                @/(potion)      (étage actuel seulement)
+  arm                    /(armour|weapon|…|arm)
+  dagger                 dagger          (inchangé)
+
+Les commandes du jeu ne sont jamais traduites
+---------------------------------------------
+  (vide)    Entrée sans rien taper : refait la dernière recherche
+  ?         aide de la recherche
+  . ou ..   objets de l’étage actuel
+  @texte    cherche seulement à l’étage actuel (le texte, lui, est traduit)
+  /texte    votre propre expression régulière, envoyée telle quelle
+  =texte    recherche exacte SANS traduction (ex. « =or » cherche vraiment « or »)
+  * ou 0-9  contenu des points de passage
+  && || !!  recherches combinées
+
+Vérifier que ça marche
+----------------------
+Ouvrez la console (F12, onglet « Console »). Au chargement, vous devez voir :
+  [Recherche FR] Ctrl+F en français activé
+Puis, à chaque recherche traduite, une ligne comme :
+  [Recherche FR] "or" -> "/(gold)"
+Pour tester sans partie, tapez dans la console :  traduireRecherche("parchemin")
+
+Limites
+-------
+- La liste des résultats est traduite comme le reste du jeu, mais la recherche ne
+  connaît que les noms présents dans les dictionnaires.
+- Le serveur accepte au plus 399 caractères : un mot très général (ex. « a »)
+  peut donner trop de résultats ; la recherche est alors raccourcie.
