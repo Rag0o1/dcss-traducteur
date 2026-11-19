@@ -26,9 +26,9 @@
 
     // --- Phrases fixes ---
     const FIXE = {
-        "A malevolent force fills the Orcish Mines...": "Une force malveillante emplit les Mines orques...",
-        "Welcome to the Orcish Mines!": "Bienvenue dans les Mines orques !",
-        "The Realm of Zot is guarded by orbs of winter.": "Le Royaume de Zot est gardé par des orbes d’hiver.",
+        "A malevolent force fills the Orcish Mines...": "Une force malveillante emplit les Orcish Mines...",
+        "Welcome to the Orcish Mines!": "Bienvenue dans les Orcish Mines !",
+        "The Realm of Zot is guarded by orbs of winter.": "Le Realm of Zot est gardé par des orbes d’hiver.",
         "You hear a deafening roar!": "Vous entendez un rugissement assourdissant !",
         "You hear an angry growl.": "Vous entendez un grognement furieux.",
         "You cannot affect that.": "Vous ne pouvez pas affecter cela.",
@@ -122,7 +122,7 @@
         const l = m[1].split(/, | and /).map(x => T1(x) || x); const ll = l.length < 2 ? l[0] : l.slice(0, -1).join(", ") + " et " + l[l.length - 1];
         return `Vous étudiez ${ll}.`; } });
     const DE = x => /^le /.test(x) ? "du " + x.slice(3) : /^les /.test(x) ? "des " + x.slice(4) : /^la /.test(x) ? "de la " + x.slice(3) : /^l’/.test(x) ? "de l’" + x.slice(2) : "de " + x;
-    R.push({ regex: /^You found it on level (\d+) of (.+)\.$/, translate: m => { const BR = { Dungeon: "du Donjon", Lair: "de l’Antre", "Orcish Mines": "des Mines orques" }; const b = BR[m[2].replace(/^the /, "")]; if (b) return `Vous l’avez trouvé au niveau ${m[1]} ${b}.`;
+    R.push({ regex: /^You found it on level (\d+) of (.+)\.$/, translate: m => { const BR = { Dungeon: "du Dungeon", Lair: "du Lair", "Orcish Mines": "des Orcish Mines" }; const b = BR[m[2].replace(/^the /, "")]; if (b) return `Vous l’avez trouvé au niveau ${m[1]} ${b}.`;
         const t = T1(m[2].replace(/^the /, "")); return t && t !== m[2].replace(/^the /, "") ? `Vous l’avez trouvé au niveau ${m[1]} ${DE("le " + t)}.` : null; } });
     R.push({ regex: /^(.+ \([A-Za-z]{4}\)) Turns: (\d+), Time: ([\d:]+)$/, translate: m => `${m[1]} Tours : ${m[2]}, Durée : ${m[3]}` });
     R.push({ regex: /^(\d+\/\d+) runes: (.+)$/, translate: m => { const RU = { decaying: "putrescente", serpentine: "serpentine" };

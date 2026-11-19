@@ -239,7 +239,7 @@ d’un groupe de moines s’entraînant à [des attaques|des mouvements] martiau
 d’un groupe de fabricants de potions s’entraînant à soigner les autres
 d’un groupe d’ascètes méprisant leur corps et discutant de sacrifices
 d’un groupe de [croisés|moralistes] [discutant du|s’opposant au] mal dans le monde
-d’un groupe varié de gens discutant de leurs expériences dans l’Abysse
+d’un groupe varié de gens discutant de leurs expériences dans l’Abyss
 == _graffiti_mass_meeting_religious_
 d’un [club de tricheurs|groupe d’adorateurs de Nemelex Xobeh] jouant aux cartes comme Nemelex Xobeh l’entendait
 d’un groupe d’adorateurs de Zin soutenant les Axiomes de la Loi
@@ -263,7 +263,7 @@ d’un groupe d’adorateurs d’Elyvilon s’entraînant à soigner les autres
 d’un groupe d’adorateurs d’Ashenzari s’entraînant à scruter les choses
 d’un groupe d’adorateurs de Ru méprisant leur corps et discutant de sacrifices
 d’un groupe d’adorateurs du Shining One [discutant du|s’opposant au] mal dans le monde
-d’un groupe d’[adorateurs de Lugonu|acolytes fous de Lugonu] discutant de leurs expériences dans l’Abysse
+d’un groupe d’[adorateurs de Lugonu|acolytes fous de Lugonu] discutant de leurs expériences dans l’Abyss
 d’un groupe d’orcs faisant la promotion de la parole de Beogh
 == _graffiti_obscenities_
 de diverses obscénités
@@ -353,7 +353,7 @@ promouvant Elyvilon et expliquant qu’apporter la paix au monde est essentiel
 admirant Ashenzari et expliquant que les malédictions et les entraves sont des bénédictions quand elles mènent au savoir
 rendant hommage à Ru et expliquant que toute la réalité n’est pas ce que vous croyez
 couvrant d’éloges le Shining One et expliquant qu’il est essentiel de purger honorablement le mal du monde
-flattant Lugonu et expliquant que Lugonu et les forces de l’Abysse régneront bientôt sur tout
+flattant Lugonu et expliquant que Lugonu et les forces de l’Abyss régneront bientôt sur tout
 glorifiant un dieu inconnu
 ne se contentant pas de saluer mais glorifiant @_graffiti_hailed_god_@
 == _graffiti_religion_orc_

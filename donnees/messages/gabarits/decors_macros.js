@@ -25,7 +25,7 @@ globalThis.DCSS_DECORS_MACROS = (() => {
         ["some adder jerky. Delicious.", "de la viande séchée de vipère. Délicieuse."], ["a slice of magically-preserved pepperoni pizza. Delicious.", "une part de pizza au pepperoni conservée par magie. Délicieuse."],
         ["some smoked snail. Delicious.", "de l’escargot fumé. Délicieux."], ["some death yak haggis. Delicious.", "du haggis de yak de la mort. Délicieux."],
         ["some alligator jerky. Delicious.", "de la viande séchée d’alligator. Délicieuse."], ["some cured dream mutton. Ephemeral.", "du mouton onirique fumé. Éphémère."],
-        ["a slice of magically-preserved Pandemonium pizza. Delectable.", "une part de pizza Pandémonium conservée par magie. Succulente."], ["a candy-coated scorpion. Crunchy.", "un scorpion enrobé de bonbon. Croquant."],
+        ["a slice of magically-preserved Pandemonium pizza. Delectable.", "une part de pizza Pandemonium conservée par magie. Succulente."], ["a candy-coated scorpion. Crunchy.", "un scorpion enrobé de bonbon. Croquant."],
         ["a pickled kraken tentacle. Astonishing!", "un tentacule de kraken mariné. Stupéfiant !"], ["a cured hell ham hock. Spicy!", "un jarret de jambon infernal fumé. Épicé !"],
         ["some shrike confit. Tangy!", "du confit de pie-grièche. Acidulé !"], ["a century hydra egg. An acquired taste.", "un œuf d’hydre centenaire. Un goût qui s’acquiert."]]);
     ajouter("baked", [

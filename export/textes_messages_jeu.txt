@@ -134,7 +134,7 @@ EN: That skill was removed.
 FR: Cette compétence a été supprimée.
 
 EN: The Abyss bends around you!
-FR: L’Abysse se courbe autour de vous !
+FR: L’Abyss se courbe autour de vous !
 
 EN: The Orb lets out a furious burst of light!
 FR: L’Orbe émet un éclat de lumière furieux !
@@ -197,7 +197,7 @@ EN: The liquid fire finally exhausts itself.
 FR: Le feu liquide finit par s’épuiser.
 
 EN: The lords of Pandemonium are not amused. Beware!
-FR: Les seigneurs du Pandémonium ne sont pas amusés. Prenez garde !
+FR: Les seigneurs du Pandemonium ne sont pas amusés. Prenez garde !
 
 EN: The mercury splashes!
 FR: Le mercure éclabousse !
@@ -281,10 +281,10 @@ EN: You are already as afflicted as possible.
 FR: Vous êtes déjà aussi affligé que possible.
 
 EN: You are banished to a different region of the Abyss.
-FR: Vous êtes banni dans une autre région de l’Abysse.
+FR: Vous êtes banni dans une autre région de l’Abyss.
 
 EN: You are cast deeper into the Abyss!
-FR: Vous êtes projeté plus profondément dans l’Abysse !
+FR: Vous êtes projeté plus profondément dans l’Abyss !
 
 EN: You are dazed by the spores!
 FR: Les spores vous étourdissent !
@@ -308,7 +308,7 @@ EN: You are slowing down.
 FR: Vous ralentissez.
 
 EN: You are suddenly pulled into a different region of the Abyss!
-FR: Vous êtes soudain aspiré dans une autre région de l’Abysse !
+FR: Vous êtes soudain aspiré dans une autre région de l’Abyss !
 
 EN: You bathe in the mists of the mutagenic serum and feel extremely strange.
 FR: Vous vous baignez dans les brumes du sérum mutagène et vous vous sentez extrêmement bizarre.
@@ -545,7 +545,7 @@ EN: You pick up the Orb of Zot!
 FR: Vous ramassez l’Orbe de Zot !
 
 EN: You plunge deeper into the Abyss.
-FR: Vous plongez plus profondément dans l’Abysse.
+FR: Vous plongez plus profondément dans l’Abyss.
 
 EN: You produce a hideous howling noise!
 FR: Vous produisez un hurlement hideux !

@@ -11,6 +11,11 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.25.7 — noms de lieux en anglais
+
+- Décision du 19/11 : les noms de lieux restent en anglais, comme les portails, avec l’article défini et le genre du mot français : le Dungeon, le Lair (of Beasts), le Swamp, les Shoals, le Snake Pit, le Spider Nest, les Slime Pits, les Orcish Mines, les Elven Halls, les Vaults, la Crypt, la Tomb (of the Ancients), les Depths, le Vestibule of Hell, le Hell (h aspiré : « du Hell »), les Hells, l’Iron City of Dis, la Gehenna, le Cocytus, le Tartarus, l’Abyss, le Pandemonium, le Realm of Zot (environ 690 remplacements).
+- Restent en français : les expressions et les noms qui ne désignent pas le lieu (« À bientôt en enfer », chien de l’enfer, Lieur d’Enfer, le titre « l’Enfer » pour Inferno, le Marais secret d’Eringya, la citation de Milton).
+
 ## 0.25.6 — stab = attaque furtive
 
 - Décision du 19/11 : « stab » = « attaque furtive » (au lieu de « attaque sournoise ») ; la mécanique « frapper un ennemi qui ne vous a pas vu » se dit « attaquer furtivement » dans les descriptions (dagues, Discrétion, l’Étincelant, mutations). Le verbe de combat « vous poignarde » ne change pas.

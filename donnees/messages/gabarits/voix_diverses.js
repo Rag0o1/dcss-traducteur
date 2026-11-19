@@ -22,7 +22,7 @@ This should be good.
 Ça devrait être bien.
 
 Let me show you the power of Hell.
-Laisse-moi te montrer le pouvoir de l’Enfer.
+Laisse-moi te montrer le pouvoir du Hell.
 
 Embrace the darkness.
 Embrassez les ténèbres.
@@ -52,7 +52,7 @@ Why bother with such petty cantrips?
 Pourquoi s’embêter avec de si petits tours ?
 
 A demon of Hell at your fingers, and you cast that...
-Un démon de l’Enfer au bout des doigts, et tu lances ça...
+Un démon du Hell au bout des doigts, et tu lances ça...
 
 Now, try casting something FUN.
 Essayez donc de lancer quelque chose d’AMUSANT.

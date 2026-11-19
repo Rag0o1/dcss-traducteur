@@ -20,7 +20,7 @@ EN: I saw a sphinx earlier. I hate that.
 FR: J’ai vu un sphinx tout à l’heure. Je déteste ça.
 
 EN: The Crypt, the Tomb, what's next? The Coffin?
-FR: La Crypte, la Tombe, et ensuite ? Le Cercueil ?
+FR: La Crypt, la Tomb, et ensuite ? Le Cercueil ?
 
 EN: All these vampires have me hopping mad!
 FR: Tous ces vampires me rendent fou furieux !
@@ -323,7 +323,7 @@ EN: I hate pacts.
 FR: Je déteste les pactes.
 
 EN: I hate the Hells.
-FR: Je déteste les Enfers.
+FR: Je déteste les Hells.
 
 EN: I just stubbed my toe. Does that mean I'm cleansed?
 FR: Je viens de me cogner l’orteil. Ça veut dire que je suis purifié ?
@@ -380,7 +380,7 @@ EN: I heard Trog has abandonment issues.
 FR: J’ai entendu dire que Trog a des problèmes d’abandon.
 
 EN: I bet Trog's next axe will take you to the Abyss.
-FR: Je parie que la prochaine hache de Trog t’enverra dans l’Abysse.
+FR: Je parie que la prochaine hache de Trog t’enverra dans l’Abyss.
 
 EN: I considered Trog, but the aftereffects of berserk scare me.
 FR: J’ai pensé à Trog, mais les effets secondaires de la berserk me font peur.
@@ -446,10 +446,10 @@ EN: For every monster you don't kill, I'll kill three.
 FR: Pour chaque monstre que tu ne tues pas, j’en tuerai trois.
 
 EN: Why would you want to visit the Abyss? For a holiday?
-FR: Pourquoi voudrais-tu visiter l’Abysse ? Pour des vacances ?
+FR: Pourquoi voudrais-tu visiter l’Abyss ? Pour des vacances ?
 
 EN: Nothing ever attacks me when I'm in the Abyss.
-FR: Rien ne m’attaque jamais quand je suis dans l’Abysse.
+FR: Rien ne m’attaque jamais quand je suis dans l’Abyss.
 
 EN: Are you going to banish me, too?
 FR: Vas-tu me bannir aussi ?
@@ -461,7 +461,7 @@ EN: You must really love eldritch horrors. I hate them.
 FR: Tu dois vraiment aimer les horreurs surnaturelles. Moi, je les déteste.
 
 EN: How can a god be banished to the Abyss?
-FR: Comment un dieu peut-il être banni dans l’Abysse ?
+FR: Comment un dieu peut-il être banni dans l’Abyss ?
 
 EN: Beogh must be pretty vain, having all those worshippers get remade in Beogh's image.
 FR: Beogh doit être assez vaniteux, à faire refaire tous ses adorateurs à son image.

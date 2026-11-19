@@ -2034,7 +2034,7 @@ zélé/zélée
 {fs}Difformité
 {fs}Engeance démoniaque
 {ms}Mal
-{fs}Colère de l’Enfer
+{fs}Colère du Hell
 {fs}Infection
 {fs}Mutilation
 {mp}Cauchemars

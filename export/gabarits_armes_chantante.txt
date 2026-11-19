@@ -398,7 +398,7 @@ EN: @The_weapon@ says, "I want to meet the serpentine blade!"
 FR: @The_weapon@ dit : « Je veux rencontrer la lame serpentine ! »
 
 EN: @The_weapon@ says, "Take me to Pandemonium! Now!!!"
-FR: @The_weapon@ dit : « Emmenez-moi au Pandémonium ! Tout de suite !!! »
+FR: @The_weapon@ dit : « Emmenez-moi au Pandemonium ! Tout de suite !!! »
 
 EN: @The_weapon@ recounts funny stories of hydra head multiplication.
 FR: @The_weapon@ raconte des histoires drôles sur la multiplication des têtes d’hydre.

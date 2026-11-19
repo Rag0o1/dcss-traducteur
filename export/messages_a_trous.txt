@@ -953,7 +953,7 @@ EN: Zot senses the otherworldly energies of your {G} gem, and will surely shatte
 FR: Zot perçoit les énergies d’outre-monde de votre joyau {x1} et la brisera sûrement si vous restez plus longtemps dans cette branche !
 
 EN: You need at least {X} runes to enter the Realm of Zot.
-FR: Il vous faut au moins {x1} runes pour entrer dans le Royaume de Zot.
+FR: Il vous faut au moins {x1} runes pour entrer dans le Realm of Zot.
 
 EN: You've found all the gems! Together, they sparkle an otherworldly {X}!
 FR: Vous avez trouvé tous les joyaux ! Ensemble, ils scintillent d’un éclat surnaturel : {x1} !
@@ -1679,7 +1679,7 @@ EN: {A} guffaws at your puny god.
 FR: {S1} éclate de rire devant votre dieu insignifiant.
 
 EN: {A} has fought their way back out of the Abyss!
-FR: {S1} est parvenu{e1} à sortir de l’Abysse en combattant !
+FR: {S1} est parvenu{e1} à sortir de l’Abyss en combattant !
 
 EN: {A} hatches with a roar like a landslide!
 FR: {S1} éclot dans un rugissement semblable à un éboulement !
@@ -1919,7 +1919,7 @@ EN: {A} is paralysed.
 FR: {S1} est paralysé{e1}.
 
 EN: {A} is pulled into the Abyss.
-FR: {S1} est aspiré{e1} dans l’Abysse.
+FR: {S1} est aspiré{e1} dans l’Abyss.
 
 EN: {A} is recalled by Beogh.
 FR: {S1} est rappelé{e1} par Beogh.
@@ -2516,7 +2516,7 @@ EN: {X} protects your slime from harm.
 FR: {x1} protège votre gelée du mal.
 
 EN: {X} pulls their child back from the Abyss.
-FR: {x1} ramène son enfant de l’Abysse.
+FR: {x1} ramène son enfant de l’Abyss.
 
 EN: {X} purifies the foul vapours!
 FR: {x1} purifie les vapeurs infectes !
@@ -2528,7 +2528,7 @@ EN: {X} refuses to forgive you so easily!
 FR: {x1} refuse de vous pardonner si facilement !
 
 EN: {X} refuses to let the Abyss claim you during a challenge!
-FR: {x1} refuse que l’Abysse vous réclame pendant un défi !
+FR: {x1} refuse que l’Abyss vous réclame pendant un défi !
 
 EN: {X} restores the support of your attributes.
 FR: {x1} rétablit le soutien de vos attributs.
@@ -2627,7 +2627,7 @@ EN: {X} sends the divine host to punish you for your evil ways!
 FR: {x1} envoie l’armée divine vous punir de vos mauvaises actions !
 
 EN: {X} will now unseal the treasures of the Slime Pits.
-FR: {x1} va maintenant desceller les trésors des Fosses de gélatine.
+FR: {x1} va maintenant desceller les trésors des Slime Pits.
 
 EN: {X} Hand of Corruption reaches out!
 FR: La Main de Corruption de {x1} se tend !
@@ -2657,7 +2657,7 @@ EN: {X}'s wrath scatters you!
 FR: La colère {d1} vous disperse !
 
 EN: {X}'s power protects you from the chaos of Hell!
-FR: La puissance {d1} vous protège du chaos de l’Enfer !
+FR: La puissance {d1} vous protège du chaos du Hell !
 
 EN: {X}'s voice booms out: Traitor to your kin!
 FR: La voix {d1} tonne : Traître à ton peuple !
@@ -5192,16 +5192,16 @@ EN: No other quiver actions available for cycling.
 FR: Aucune autre action de carquois disponible pour le changement.
 
 EN: The abyss shimmers again as the detected abyssal rune vanishes from your memory.
-FR: L’Abysse miroite de nouveau tandis que la rune abyssale détectée s’efface de votre mémoire.
+FR: L’Abyss miroite de nouveau tandis que la rune abyssale détectée s’efface de votre mémoire.
 
 EN: The abyss shimmers again as the detected abyssal rune vanishes from your memory and reappears.
-FR: L’Abysse miroite de nouveau tandis que la rune abyssale détectée s’efface de votre mémoire et réapparaît.
+FR: L’Abyss miroite de nouveau tandis que la rune abyssale détectée s’efface de votre mémoire et réapparaît.
 
 EN: The substance of the Abyss twists violently, and a gateway leading down appears!
-FR: La substance de l’Abysse se tord violemment, et un passage menant vers le bas apparaît !
+FR: La substance de l’Abyss se tord violemment, et un passage menant vers le bas apparaît !
 
 EN: The substance of the Abyss twists violently, and a gateway leading out appears!
-FR: La substance de l’Abysse se tord violemment, et un passage menant vers l’extérieur apparaît !
+FR: La substance de l’Abyss se tord violemment, et un passage menant vers l’extérieur apparaît !
 
 EN: {A} shreds {A}.
 FR: {S1} lacère {o2}.
@@ -7091,19 +7091,19 @@ EN: ooze floods into {I} lungs!
 FR: La vase envahit les poumons {d1} ! ¦ La vase envahit vos poumons !
 
 EN: {A} calls forth creatures from the Elven Halls!
-FR: {S1} appelle des créatures des Halls Elfiques !
+FR: {S1} appelle des créatures des Elven Halls !
 
 EN: {A} calls forth creatures from the Crypt!
-FR: {S1} appelle des créatures de la Crypte !
+FR: {S1} appelle des créatures de la Crypt !
 
 EN: {A} calls forth creatures from the Tomb of the Ancients!
-FR: {S1} appelle des créatures de la Tombe des Anciens !
+FR: {S1} appelle des créatures de la Tomb of the Ancients !
 
 EN: {A} calls forth creatures from the Vaults!
-FR: {S1} appelle des créatures des Chambres Fortes !
+FR: {S1} appelle des créatures des Vaults !
 
 EN: {A} calls forth creatures from the Realm of Zot!
-FR: {S1} appelle des créatures du Royaume de Zot !
+FR: {S1} appelle des créatures du Realm of Zot !
 
 EN: {A} releases spores at {A} but does no damage.
 FR: {S1} libère des spores sur {o2} sans lui infliger de dégâts.
@@ -7613,16 +7613,16 @@ EN: You can call upon Elyvilon for divine vigour.
 FR: Vous pouvez invoquer Elyvilon pour obtenir une vigueur divine.
 
 EN: You can now depart the Abyss.
-FR: Vous pouvez désormais quitter l’Abysse.
+FR: Vous pouvez désormais quitter l’Abyss.
 
 EN: You may now depart the Abyss.
-FR: Vous pouvez désormais quitter l’Abysse.
+FR: Vous pouvez désormais quitter l’Abyss.
 
 EN: You can no longer depart the Abyss.
-FR: Vous ne pouvez plus quitter l’Abysse.
+FR: Vous ne pouvez plus quitter l’Abyss.
 
 EN: You can depart the Abyss.
-FR: Vous pouvez quitter l’Abysse.
+FR: Vous pouvez quitter l’Abyss.
 
 EN: You can now banish your foes.
 FR: Vous pouvez désormais bannir vos ennemis.
@@ -7649,16 +7649,16 @@ EN: You can corrupt the fabric of space.
 FR: Vous pouvez corrompre la trame de l’espace.
 
 EN: You can now gate yourself to the Abyss.
-FR: Vous pouvez désormais vous ouvrir un portail vers l’Abysse.
+FR: Vous pouvez désormais vous ouvrir un portail vers l’Abyss.
 
 EN: You may now gate yourself to the Abyss.
-FR: Vous pouvez désormais vous ouvrir un portail vers l’Abysse.
+FR: Vous pouvez désormais vous ouvrir un portail vers l’Abyss.
 
 EN: You can no longer gate yourself to the Abyss.
-FR: Vous ne pouvez plus vous ouvrir un portail vers l’Abysse.
+FR: Vous ne pouvez plus vous ouvrir un portail vers l’Abyss.
 
 EN: You can gate yourself to the Abyss.
-FR: Vous pouvez vous ouvrir un portail vers l’Abysse.
+FR: Vous pouvez vous ouvrir un portail vers l’Abyss.
 
 EN: You can now smite your foes.
 FR: Vous pouvez désormais foudroyer vos ennemis.
@@ -9098,7 +9098,7 @@ EN: A whirlwind of blades manifests around you!
 FR: Un tourbillon de lames se manifeste autour de vous !
 
 EN: A malevolent force fills the Vaults...
-FR: Une force maléfique emplit les Chambres Fortes…
+FR: Une force maléfique emplit les Vaults…
 
 EN: As you read the scroll of fog, it dissolves into smoke.
 FR: Alors que vous lisez le parchemin de brouillard, il se dissout en fumée.
@@ -9149,19 +9149,19 @@ EN: The terrible wounds on your body vanish.
 FR: Les terribles blessures de votre corps disparaissent.
 
 EN: Welcome back to the Elven Halls!
-FR: Bon retour dans les Halls Elfiques !
+FR: Bon retour dans les Elven Halls !
 
 EN: Welcome back to the Orcish Mines!
-FR: Bon retour dans les Mines orques !
+FR: Bon retour dans les Orcish Mines !
 
 EN: Welcome back to the Vaults!
-FR: Bon retour dans les Chambres Fortes !
+FR: Bon retour dans les Vaults !
 
 EN: Welcome to the Vaults!
-FR: Bienvenue dans les Chambres Fortes !
+FR: Bienvenue dans les Vaults !
 
 EN: You are cast into the Abyss!
-FR: Vous êtes projeté dans l’Abysse !
+FR: Vous êtes projeté dans l’Abyss !
 
 EN: You are encased in ice.
 FR: Vous êtes pris dans la glace.
@@ -9530,13 +9530,13 @@ EN: You thump {A}!
 FR: Vous cognez {o1} !
 
 EN: A malevolent force fills the Orcish Mines...
-FR: Une force malveillante emplit les Mines orques...
+FR: Une force malveillante emplit les Orcish Mines...
 
 EN: Welcome to the Orcish Mines!
-FR: Bienvenue dans les Mines orques !
+FR: Bienvenue dans les Orcish Mines !
 
 EN: The Realm of Zot is guarded by orbs of winter.
-FR: Le Royaume de Zot est gardé par des orbes d’hiver.
+FR: Le Realm of Zot est gardé par des orbes d’hiver.
 
 EN: You cannot affect that.
 FR: Vous ne pouvez pas affecter cela.
@@ -9944,7 +9944,7 @@ EN: A walking alembic.
 FR: Un alambic ambulant.
 
 EN: A staircase to the Lair.
-FR: Un escalier vers l’Antre.
+FR: Un escalier vers le Lair.
 
 EN: There is a cloud of sparse dust here.
 FR: Il y a un nuage de poussière clairsemée ici.
@@ -10376,7 +10376,7 @@ EN: A forgotten god smites you!
 FR: Un dieu oublié vous foudroie !
 
 EN: A malevolent force fills the Lair of Beasts...
-FR: Une force malveillante emplit l’Antre des Bêtes...
+FR: Une force malveillante emplit le Lair of Beasts...
 
 EN: {A} opens the large door.
 FR: {S1} ouvre la grande porte.

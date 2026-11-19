@@ -401,7 +401,7 @@ D’une voix hystérique, @the_weapon@ entame une marche.
 @The_weapon@ dit : « Je veux rencontrer la lame serpentine ! »
 
 @The_weapon@ says, "Take me to Pandemonium! Now!!!"
-@The_weapon@ dit : « Emmenez-moi au Pandémonium ! Tout de suite !!! »
+@The_weapon@ dit : « Emmenez-moi au Pandemonium ! Tout de suite !!! »
 
 @The_weapon@ recounts funny stories of hydra head multiplication.
 @The_weapon@ raconte des histoires drôles sur la multiplication des têtes d’hydre.

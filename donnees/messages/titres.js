@@ -1375,7 +1375,7 @@ globalThis.DCSS_TITRES = [
 ],
 [
 "Abyss-Baptised",
-"le Baptisé de l’Abysse"
+"le Baptisé de l’Abyss"
 ],
 [
 "Unweaver",

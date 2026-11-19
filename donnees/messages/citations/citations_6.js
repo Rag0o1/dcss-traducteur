@@ -283,7 +283,7 @@ globalThis.DCSS_TRADUCTIONS.citations_6 = {
 "So many ways magic can go wrong!": "Tant de façons dont la magie peut mal tourner !",
 "No fresh air for enemies!": "Pas d’air frais pour les ennemis !",
 "Healing and magic? Woohoo!": "Soin et magie ? Youpi !",
-"The Abyss is a horrible place!": "L’Abysse est un endroit horrible !",
+"The Abyss is a horrible place!": "L’Abyss est un endroit horrible !",
 "I don't want to be sealed in with no windows!": "Je ne veux pas être enfermé sans fenêtres !",
 "Know when to walk away, know when to run.": "Sachez quand partir, sachez quand courir.",
 "Hope the weapon's aim is true!": "J’espère que l’arme vise juste !",

@@ -218,7 +218,7 @@ EN: It surrounds you with a glowing halo, revealing invisible creatures, increas
 FR: Elle vous entoure d’un halo lumineux qui révèle les créatures invisibles, augmente la précision contre tous ceux qui s’y trouvent sauf vous, et réduit votre discrétion.
 
 EN: It warps and distorts space around it, and may blink, banish, or inflict extra damage upon those it strikes. Unwielding it can teleport you to foes or banish you to the Abyss.
-FR: Elle déforme l’espace autour d’elle, et peut faire faire un Blink, bannir ou infliger des dégâts supplémentaires à ceux qu’elle frappe. La retirer peut vous téléporter auprès d’ennemis ou vous bannir dans l’Abysse.
+FR: Elle déforme l’espace autour d’elle, et peut faire faire un Blink, bannir ou infliger des dégâts supplémentaires à ceux qu’elle frappe. La retirer peut vous téléporter auprès d’ennemis ou vous bannir dans l’Abyss.
 
 EN: It weakens both your willpower and the willpower of everyone you hex, the latter of which is increased by your Evocations skill.
 FR: Elle affaiblit votre volonté ainsi que celle de tous ceux que vous maudissez, cette dernière étant augmentée par votre compétence Évocations.

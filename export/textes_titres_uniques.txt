@@ -8,13 +8,13 @@ EN: Amaemon the Diabolical Poisoner
 FR: Amaemon l’Empoisonneur diabolique
 
 EN: Antaeus, Guardian of Cocytus
-FR: Antée, Gardien du Cocyte
+FR: Antée, Gardien du Cocytus
 
 EN: Arachne the Outcast
 FR: Arachné l’Exilée
 
 EN: Asmodeus, Prince of Gehenna
-FR: Asmodée, Prince de la Géhenne
+FR: Asmodée, Prince de la Gehenna
 
 EN: Asterion the Fallen King
 FR: Astérion le Roi déchu
@@ -59,7 +59,7 @@ EN: Edmund the Younger
 FR: Edmund le Jeune
 
 EN: Ereshkigal, Queen of Tartarus
-FR: Ereshkigal, Reine du Tartare
+FR: Ereshkigal, Reine du Tartarus
 
 EN: Erica the Fiery-Tempered
 FR: Erica la Tempérament de feu
@@ -74,7 +74,7 @@ EN: Fannar the Cold-Hearted
 FR: Fannar au Cœur froid
 
 EN: Frances, Duchess of Pandemonium
-FR: Frances, Duchesse du Pandémonium
+FR: Frances, Duchesse du Pandemonium
 
 EN: Frederick the Flawless
 FR: Frederick l’Impeccable
@@ -83,7 +83,7 @@ EN: Gastronok the Ponderous
 FR: Gastronok le Pesant
 
 EN: Geryon, Gatekeeper of Hell
-FR: Géryon, Gardien des portes de l’Enfer
+FR: Géryon, Gardien des portes du Hell
 
 EN: Gloorx Vloq, Demon Lord of Darkness
 FR: Gloorx Vloq, Seigneur démon des Ténèbres

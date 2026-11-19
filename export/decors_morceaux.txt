@@ -80,7 +80,7 @@ EN: [meat] some cured dream mutton. Ephemeral.
 FR: du mouton onirique fumé. Éphémère.
 
 EN: [meat] a slice of magically-preserved Pandemonium pizza. Delectable.
-FR: une part de pizza Pandémonium conservée par magie. Succulente.
+FR: une part de pizza Pandemonium conservée par magie. Succulente.
 
 EN: [meat] a candy-coated scorpion. Crunchy.
 FR: un scorpion enrobé de bonbon. Croquant.

@@ -171,7 +171,7 @@ Object.assign(globalThis.DCSS_VARIABLES = globalThis.DCSS_VARIABLES || {}, {
     "With a frightful flash, the power of Zot shatters your {G} gem into ten thousand fragments!": "Dans un éclair effrayant, le pouvoir de Zot brise votre joyau {x1} en dix mille fragments !",
     "If you linger in this branch much longer, the power of Zot will shatter your {G} gem.": "Si vous traînez encore dans cette branche, le pouvoir de Zot brisera votre joyau {x1}.",
     "Zot senses the otherworldly energies of your {G} gem, and will surely shatter it if you linger in this branch any longer!": "Zot perçoit les énergies d’outre-monde de votre joyau {x1} et la brisera sûrement si vous restez plus longtemps dans cette branche !",
-    "You need at least {X} runes to enter the Realm of Zot.": "Il vous faut au moins {x1} runes pour entrer dans le Royaume de Zot.",
+    "You need at least {X} runes to enter the Realm of Zot.": "Il vous faut au moins {x1} runes pour entrer dans le Realm of Zot.",
     "You've found all the gems! Together, they sparkle an otherworldly {X}!": "Vous avez trouvé tous les joyaux ! Ensemble, ils scintillent d’un éclat surnaturel : {x1} !",
     // --- Dieux : prière, passifs ---
     "{X} accepts your prayer!": "{x1} accepte votre prière !",

@@ -542,7 +542,7 @@ EN: I wish I had corrupted all of this!
 FR: J’aurais voulu tout corrompre ici !
 
 EN: What a barren place. A pity you won't get a chance to visit the Abyss!
-FR: Quel endroit désolé. Dommage que tu n’aies pas l’occasion de visiter l’Abysse !
+FR: Quel endroit désolé. Dommage que tu n’aies pas l’occasion de visiter l’Abyss !
 
 EN: A renegade god deserves renegade ghosts.
 FR: Un dieu renégat mérite des fantômes renégats.
@@ -707,7 +707,7 @@ EN: The ORB doesn't exist.
 FR: L’ORBE n’existe pas.
 
 EN: They lied to you. The Dungeon just goes down and down forever.
-FR: On t’a menti. Le Donjon descend, descend, sans fin.
+FR: On t’a menti. Le Dungeon descend, descend, sans fin.
 
 EN: You will join me soon!
 FR: Tu me rejoindras bientôt !

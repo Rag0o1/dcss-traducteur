@@ -56,10 +56,10 @@ EN: The other people here are really rude.
 FR: Les autres gens ici sont vraiment impolis.
 
 EN: Maybe I'll visit Hell next.
-FR: Peut-être que je visiterai l’Enfer ensuite.
+FR: Peut-être que je visiterai le Hell ensuite.
 
 EN: The Vaults look kind of boring.
-FR: Les Caveaux ont l’air plutôt ennuyeux.
+FR: Les Vaults ont l’air plutôt ennuyeux.
 
 EN: I can never work out what any of these scrolls mean.
 FR: Je ne comprends jamais ce que veut dire aucun de ces parchemins.
@@ -113,7 +113,7 @@ EN: I'm dying. I hate that.
 FR: Je meurs. Je déteste ça.
 
 EN: Banished to the Abyss. I hate that.
-FR: Banni dans l’Abysse. Je déteste ça.
+FR: Banni dans l’Abyss. Je déteste ça.
 
 EN: I won. I... don't hate that.
 FR: J’ai gagné. Je... ne déteste pas ça.
@@ -383,7 +383,7 @@ EN: Warriors are made for war and combat. Do you call yourself a warrior?
 FR: Les guerriers sont faits pour la guerre et le combat. Te dis-tu guerrier ?
 
 EN: Even the Halls of Hell could not contain me.
-FR: Même les Halls de l’Enfer ne pouvaient me contenir.
+FR: Même les Halls du Hell ne pouvaient me contenir.
 
 EN: I will defeat you, of this I have no doubt!
 FR: Je te vaincrai, je n’en ai aucun doute !

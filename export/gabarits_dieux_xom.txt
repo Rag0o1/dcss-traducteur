@@ -74,7 +74,7 @@ EN: Xom shows off a fistful of green thumbs.
 FR: Xom exhibe une poignée de pouces verts.
 
 EN: Xom spreads life in this Dungeon full of death.
-FR: Xom répand la vie dans ce Donjon plein de mort.
+FR: Xom répand la vie dans ce Dungeon plein de mort.
 
 EN: Xom incites some dramatic evolution in the adjacent floor mould.
 FR: Xom provoque une évolution spectaculaire de la moisissure voisine.
@@ -83,7 +83,7 @@ EN: "It's alive! It's alive!"
 FR: « Elle est vivante ! Elle est vivante ! »
 
 EN: Xom adds fresh vegetables to this Dungeon dish.
-FR: Xom ajoute des légumes frais à ce plat du Donjon.
+FR: Xom ajoute des légumes frais à ce plat du Dungeon.
 
 EN: Xom plants some magic beans in the ground.
 FR: Xom plante des haricots magiques dans le sol.
@@ -116,7 +116,7 @@ EN: Xom [offers|fetches] you some snacks.
 FR: Xom vous [offre|apporte] quelques en-cas.
 
 EN: Xom prepares a banquet formed from your trail of carnage through the Dungeon.
-FR: Xom prépare un banquet fait de la traînée de carnage que vous laissez dans le Donjon.
+FR: Xom prépare un banquet fait de la traînée de carnage que vous laissez dans le Dungeon.
 
 EN: Xom offers some snacks, fresh out of the oven.
 FR: Xom offre des en-cas tout juste sortis du four.
@@ -596,7 +596,7 @@ EN: "Let's see if it's strong enough to survive yet."
 FR: « Voyons s’il est déjà assez fort pour survivre. »
 
 EN: Xom feels like there should be more of you to share with the Dungeon.
-FR: Xom trouve qu’il devrait y avoir davantage de vous à partager avec le Donjon.
+FR: Xom trouve qu’il devrait y avoir davantage de vous à partager avec le Dungeon.
 
 EN: Xom gently smashes a mirror over your [@random_body_part_external_singular@|@random_body_part_external_plural@].
 FR: Xom brise doucement un miroir sur @~random_body_part_external_singular@.
@@ -641,7 +641,7 @@ EN: "You have grown too comfortable in your little world, mortal!"
 FR: « Tu es devenu trop à l’aise dans ton petit monde, mortel ! »
 
 EN: Xom casts you into the Abyss!
-FR: Xom vous jette dans l’Abysse !
+FR: Xom vous jette dans l’Abyss !
 
 EN: The world seems to spin as Xom's maniacal laughter rings.
 FR: Le monde semble tournoyer tandis que résonne le rire dément de Xom.
@@ -692,7 +692,7 @@ EN: Xom reshapes the earth.
 FR: Xom remodèle la terre.
 
 EN: Xom reveals the great annihilating truth to the Dungeon's walls!
-FR: Xom révèle la grande vérité annihilante aux murs du Donjon !
+FR: Xom révèle la grande vérité annihilante aux murs du Dungeon !
 
 EN: "Over there now!"
 FR: « Là-bas, maintenant ! »
@@ -785,7 +785,7 @@ EN: Xom recounts a horror story in an instant.
 FR: Xom raconte une histoire d’horreur en un instant.
 
 EN: Xom joyfully recalls the collapse of multiple Dungeon civilisations.
-FR: Xom évoque joyeusement l’effondrement de plusieurs civilisations du Donjon.
+FR: Xom évoque joyeusement l’effondrement de plusieurs civilisations du Dungeon.
 
 EN: Xom folds spacetime into a dazzling origami [yak|yak|quokka|quokka|duck]!
 FR: Xom plie l’espace-temps en un éblouissant origami de [yak|yak|quokka|quokka|canard] !
@@ -1250,7 +1250,7 @@ EN: Lugonu says: Spread carnage and corruption!
 FR: Lugonu dit : Répands le carnage et la corruption !
 
 EN: Lugonu says: Depart the Abyss and spread corruption, my servant!
-FR: Lugonu dit : Quitte l’Abysse et répands la corruption, mon serviteur !
+FR: Lugonu dit : Quitte l’Abyss et répands la corruption, mon serviteur !
 
 EN: Blood and souls for Makhleb!
 FR: Du sang et des âmes pour Makhleb !

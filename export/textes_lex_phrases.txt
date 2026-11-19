@@ -1,5 +1,5 @@
 EN: (If you entered the Abyss now, you could be pulled as deep as Abyss:1.)
-FR: (Si vous entriez dans l’Abysse maintenant, vous pourriez être entraîné jusqu’à Abysse:1.)
+FR: (Si vous entriez dans l’Abyss maintenant, vous pourriez être entraîné jusqu’à Abyss:1.)
 
 EN: (If you're not sure, you can check in-game with '?v'.)
 FR: (Si vous n’êtes pas sûr, vous pouvez vérifier en jeu avec « ?v ».)
@@ -170,16 +170,16 @@ EN: A cloud of thin mist. Atmospheric, but harmless.
 FR: Un nuage de brume légère. Il crée une ambiance, mais reste inoffensif.
 
 EN: A dungeon features only one of the Shoals and Swamp branches.
-FR: Un donjon ne contient qu’une seule des branches Hauts-fonds et Marais.
+FR: Un donjon ne contient qu’une seule des branches Shoals et Swamp.
 
 EN: A dungeon features only one of the Snake Pit and Spider Nest branches.
-FR: Un donjon ne contient qu’une seule des branches Fosse aux serpents et Nid des Araignées.
+FR: Un donjon ne contient qu’une seule des branches Snake Pit et Spider Nest.
 
 EN: A dungeon features only one of the Spider Nest and Snake Pit branches.
-FR: Un donjon ne contient qu’une seule des branches Nid des Araignées et Fosse aux serpents.
+FR: Un donjon ne contient qu’une seule des branches Spider Nest et Snake Pit.
 
 EN: A dungeon features only one of the Swamp and Shoals branches.
-FR: Un donjon ne contient qu’une seule des branches Marais et Hauts-fonds.
+FR: Un donjon ne contient qu’une seule des branches Swamp et Shoals.
 
 EN: A haze of aerosolised moonshine so thick that creatures can become drunk just walking through it.
 FR: Une brume d’alcool de contrebande vaporisé, si épaisse que les créatures peuvent s’enivrer rien qu’en la traversant.
@@ -362,7 +362,7 @@ EN: Long-range teleports are impossible in Gauntlets.
 FR: Les téléportations à longue portée sont impossibles dans les Gauntlets.
 
 EN: Many portals to the Abyss can be found corrupting one floor late in the Dungeon.
-FR: De nombreux portails vers l’Abysse corrompent un étage tardif du Donjon.
+FR: De nombreux portails vers l’Abyss corrompent un étage tardif du Dungeon.
 
 EN: Mutation
 FR: Mutation
@@ -371,7 +371,7 @@ EN: Neither of these types can be enchanted or branded, either temporarily or pe
 FR: Aucun de ces deux types ne peut être enchanté ni marqué d’un ego, ni temporairement ni de façon permanente.
 
 EN: No fewer than five runes of Zot can be found in Pandemonium:
-FR: Pas moins de cinq runes de Zot se trouvent dans le Pandémonium :
+FR: Pas moins de cinq runes de Zot se trouvent dans le Pandemonium :
 
 EN: Okawaru's most favoured followers are granted access to the Arena to duel against their foes.
 FR: Les disciples préférés d’Okawaru ont accès à l’Arène pour y affronter leurs ennemis en duel.
@@ -380,7 +380,7 @@ EN: Please report bugs on github (https://github.com/crawl/crawl/issues).
 FR: Merci de signaler les bogues sur GitHub (https://github.com/crawl/crawl/issues).
 
 EN: Portals to Pandemonium are found abundantly in the Depths.
-FR: Les portails vers le Pandémonium sont nombreux dans les Profondeurs.
+FR: Les portails vers le Pandemonium sont nombreux dans les Depths.
 
 EN: Q: How can I avoid dying all the time? Can you give me some playing tips?
 FR: Q : Comment éviter de mourir tout le temps ? Pouvez-vous me donner quelques conseils de jeu ?
@@ -404,7 +404,7 @@ EN: Q: I've got two cool weapons. How can I tell which one is better?
 FR: Q : J’ai deux armes sympas. Comment savoir laquelle est la meilleure ?
 
 EN: Q: I've somehow ended up in a place called "Abyss". How do I get out of here?
-FR: Q : Je me suis retrouvé dans un endroit appelé « Abysse ». Comment en sortir ?
+FR: Q : Je me suis retrouvé dans un endroit appelé « Abyss ». Comment en sortir ?
 
 EN: Q: Is there a cheating mode to Crawl where I can play without dying?
 FR: Q : Existe-t-il un mode triche dans Crawl pour jouer sans mourir ?
@@ -524,40 +524,40 @@ EN: The card depicts the hand of the divine, reaching down from the heavens to h
 FR: La carte représente la main du divin, qui s’étend du ciel pour lancer une foudre furieuse.
 
 EN: The entrance to this branch can be found between levels 13 and 14 of the Dungeon.
-FR: L’entrée de cette branche se trouve entre les niveaux 13 et 14 du Donjon.
+FR: L’entrée de cette branche se trouve entre les niveaux 13 et 14 du Dungeon.
 
 EN: The entrance to this branch can be found between levels 2 and 3 of the Lair of Beasts.
-FR: L’entrée de cette branche se trouve entre les niveaux 2 et 3 de l’Antre des Bêtes.
+FR: L’entrée de cette branche se trouve entre les niveaux 2 et 3 du Lair of Beasts.
 
 EN: The entrance to this branch can be found between levels 2 and 3 of the Vaults.
-FR: L’entrée de cette branche se trouve entre les niveaux 2 et 3 des Chambres Fortes.
+FR: L’entrée de cette branche se trouve entre les niveaux 2 et 3 des Vaults.
 
 EN: The entrance to this branch can be found between levels 4 and 5 of the Lair of Beasts.
-FR: L’entrée de cette branche se trouve entre les niveaux 4 et 5 de l’Antre des Bêtes.
+FR: L’entrée de cette branche se trouve entre les niveaux 4 et 5 du Lair of Beasts.
 
 EN: The entrance to this branch can be found between levels 4 and 7 of the Dungeon.
-FR: L’entrée de cette branche se trouve entre les niveaux 4 et 7 du Donjon.
+FR: L’entrée de cette branche se trouve entre les niveaux 4 et 7 du Dungeon.
 
 EN: The entrance to this branch can be found between levels 8 and 11 of the Dungeon.
-FR: L’entrée de cette branche se trouve entre les niveaux 8 et 11 du Donjon.
+FR: L’entrée de cette branche se trouve entre les niveaux 8 et 11 du Dungeon.
 
 EN: The entrance to this branch can be found between levels 9 and 12 of the Dungeon.
-FR: L’entrée de cette branche se trouve entre les niveaux 9 et 12 du Donjon.
+FR: L’entrée de cette branche se trouve entre les niveaux 9 et 12 du Dungeon.
 
 EN: The entrance to this branch can be found in the Vestibule of Hell.
-FR: L’entrée de cette branche se trouve dans le Vestibule de l’Enfer.
+FR: L’entrée de cette branche se trouve dans le Vestibule of Hell.
 
 EN: The entrance to this branch can be found on level 15 of the Dungeon.
-FR: L’entrée de cette branche se trouve au niveau 15 du Donjon.
+FR: L’entrée de cette branche se trouve au niveau 15 du Dungeon.
 
 EN: The entrance to this branch can be found on level 2 of the Orcish Mines.
-FR: L’entrée de cette branche se trouve au niveau 2 des Mines Orques.
+FR: L’entrée de cette branche se trouve au niveau 2 des Orcish Mines.
 
 EN: The entrance to this branch can be found on level 3 of the Crypt.
-FR: L’entrée de cette branche se trouve au niveau 3 de la Crypte.
+FR: L’entrée de cette branche se trouve au niveau 3 de la Crypt.
 
 EN: The entrance to this branch can be found on level 4 of the Depths.
-FR: L’entrée de cette branche se trouve au niveau 4 des Profondeurs.
+FR: L’entrée de cette branche se trouve au niveau 4 des Depths.
 
 EN: The frigid cold congeals potions.
 FR: Le froid glacial fige les potions.
@@ -596,22 +596,22 @@ EN: This branch contains the demonic, glowing, magical, fiery and dark runes of 
 FR: Cette branche contient les runes démoniaque, luisante, magique, ardente et sombre de Zot.
 
 EN: This branch contains the entrance to the Crypt.
-FR: Cette branche contient l’entrée de la Crypte.
+FR: Cette branche contient l’entrée de la Crypt.
 
 EN: This branch contains the entrance to the Elven Halls.
-FR: Cette branche contient l’entrée des Halls Elfiques.
+FR: Cette branche contient l’entrée des Elven Halls.
 
 EN: This branch contains the entrance to the Tomb of the Ancients.
-FR: Cette branche contient l’entrée de la Tombe des Anciens.
+FR: Cette branche contient l’entrée de la Tomb of the Ancients.
 
 EN: This branch contains the entrances to the Ecumenical Temple, the Lair of Beasts, the Orcish Mines, the Vaults and the Depths.
-FR: Cette branche contient les entrées du Temple Œcuménique, de l’Antre des Bêtes, des Mines Orques, des Chambres Fortes et des Profondeurs.
+FR: Cette branche contient les entrées du Temple Œcuménique, du Lair of Beasts, des Orcish Mines, des Vaults et des Depths.
 
 EN: This branch contains the entrances to the Iron City of Dis, Gehenna, Cocytus and Tartarus.
-FR: Cette branche contient les entrées de la Cité de Fer de Dis, de la Géhenne, du Cocyte et du Tartare.
+FR: Cette branche contient les entrées de la Iron City of Dis, de la Gehenna, du Cocytus et du Tartarus.
 
 EN: This branch contains the entrances to the Realm of Zot and a ziggurat.
-FR: Cette branche contient les entrées du Royaume de Zot et de la Ziggurat.
+FR: Cette branche contient les entrées du Realm of Zot et de la Ziggurat.
 
 EN: This branch contains the golden rune of Zot.
 FR: Cette branche contient la rune dorée de Zot.
@@ -734,7 +734,7 @@ EN: • You cannot sell items to shops or elsewhere.
 FR: • Vous ne pouvez pas vendre d’objets aux boutiques ni ailleurs.
 
 EN: • You need to find a gateway leading out of the Abyss. These are rare!
-FR: • Vous devez trouver une porte menant hors de l’Abysse. Elles sont rares !
+FR: • Vous devez trouver une porte menant hors de l’Abyss. Elles sont rares !
 
 EN: • maps/vaults (see dat/ directory, docs/develop/levels/introduction.txt)
 FR: • cartes/chambres fortes (voir le dossier dat/, docs/develop/levels/introduction.txt)

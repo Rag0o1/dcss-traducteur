@@ -167,7 +167,7 @@ EN: A terrible three-pronged weapon, moulded by fire and brimstone.
 FR: Une terrible arme à trois pointes, façonnée par le feu et le soufre.
 
 EN: A terrible weapon, forged in the fires of Hell.
-FR: Une arme terrible, forgée dans les feux de l’Enfer.
+FR: Une arme terrible, forgée dans les feux du Hell.
 
 EN: A terrible weapon, woven in the depths of the inferno.
 FR: Une terrible arme, tissée dans les profondeurs de l’inferno.

@@ -9,10 +9,10 @@
     const poss = r => /^(?:les|des) /.test(r) ? "ses " : /^(?:la|une) /.test(r) ? "sa " : "son ";
     const traduit = (en) => { const r = T1(en); return r && r !== en ? r : null; };
 
-    const BR = { "the Dungeon": "le Donjon", "the Temple": "le Temple", "the Lair of Beasts": "l’Antre des Bêtes", "the Orcish Mines": "les Mines Orques", "the Hive": "la Ruche",
-        "the Vaults": "les Cryptes", "the Snake Pit": "la Fosse aux Serpents", "the Swamp": "le Marais", "the Shoals": "les Hauts-fonds", "the Spider Nest": "le Nid d’Araignées",
-        "the Slime Pits": "les Fosses de Gelée", "the Elven Halls": "les Salles Elfiques", "the Depths": "les Profondeurs", "the Realm of Zot": "le Royaume de Zot",
-        "the Abyss": "l’Abysse", "Pandemonium": "le Pandémonium", "the Crypt": "la Crypte", "the Tomb": "le Tombeau", "the Ossuary": "l’Ossuary", "the Sewer": "le Sewer",
+    const BR = { "the Dungeon": "le Dungeon", "the Temple": "le Temple", "the Lair of Beasts": "le Lair of Beasts", "the Orcish Mines": "les Orcish Mines", "the Hive": "la Ruche",
+        "the Vaults": "les Cryptes", "the Snake Pit": "la Snake Pit", "the Swamp": "le Swamp", "the Shoals": "les Shoals", "the Spider Nest": "le Spider Nest",
+        "the Slime Pits": "les Fosses de Gelée", "the Elven Halls": "les Elven Halls", "the Depths": "les Depths", "the Realm of Zot": "le Realm of Zot",
+        "the Abyss": "l’Abyss", "Pandemonium": "le Pandemonium", "the Crypt": "la Crypt", "the Tomb": "la Tomb", "the Ossuary": "l’Ossuary", "the Sewer": "le Sewer",
         "the Ice Cave": "l’Ice Cave", "the Volcano": "le Volcano", "the Bazaar": "le Bazaar", "the Labyrinth": "le Labyrinth", "the Gauntlet": "le Gauntlet" };
     const brTrad = b => BR[b] || null;
     const deBr = f => f.replace(/^(?:le |la |l’|les )/, x => x === "le " ? "du " : x === "les " ? "des " : x === "la " ? "de la " : "de l’");
@@ -146,7 +146,7 @@
         "| Status": "| Statut", "|wield|wear|put on [": "|manier|porter|mettre [", "] toggle between ability selection and description.": "] bascule entre la sélection d’une capacité et sa description.",
         "- select action,": "- choisir l’action,", "- cycle Dir - look around, f - activate": "- parcourir Dir - regarder autour, f - activer", "- cycle Shift-Dir - straight line": "- parcourir Maj-Dir - ligne droite",
         "] to select)": "] pour choisir)", "Class: Nonliv.": "Classe : Non-vivant.", "Int: Mindless": "Int : Sans esprit",
-        "A flower patch.": "Un parterre de fleurs.", "A walking alembic.": "Un alambic ambulant.", "A staircase to the Lair.": "Un escalier vers l’Antre.",
+        "A flower patch.": "Un parterre de fleurs.", "A walking alembic.": "Un alambic ambulant.", "A staircase to the Lair.": "Un escalier vers le Lair.",
         "There is a cloud of sparse dust here.": "Il y a un nuage de poussière clairsemée ici.",
         "Upheaval": "Bouleversement", "Elemental Force": "Force élémentaire", "Eye of the Storm": "Œil de la tempête", "Prince Ribbit catches": "Prince Ribbit attrape",
         "boomerangs": "des boomerangs", "boomerang": "un boomerang",

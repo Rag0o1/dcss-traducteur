@@ -53,7 +53,7 @@ EN: Purges your body of poison, confusion, slowness, petrification, weakness, an
 FR: Purge votre corps du poison, de la confusion, de la lenteur, de la pétrification, de la faiblesse et de la maladie. Tous les points de vie maximum drainés sont également entièrement restaurés.
 
 EN: Transports you out of the Abyss, returning you to the location from which you entered it.
-FR: Vous transporte hors de l’Abysse, vous ramenant à l’endroit par lequel vous y êtes entré.
+FR: Vous transporte hors de l’Abyss, vous ramenant à l’endroit par lequel vous y êtes entré.
 
 EN: Grows short-lived briar patches around you. Monsters attacking these briars will be damaged by sharp thorns. Invocations skill increases the briars' health.
 FR: Fait pousser autour de vous des buissons de ronces éphémères. Les monstres qui attaquent ces ronces seront blessés par d’acérées épines. La compétence Invocations augmente la vie des ronces.
@@ -92,7 +92,7 @@ EN: A shop in the dungeon, beyond sight of the world above, manned by a secretiv
 FR: Une boutique dans le donjon, hors de la vue du monde d’en haut, tenue par un commerçant secret et solitaire qui ne marchande pas, ne rembourse jamais et ne s’intéresse à rien de ce que vous pourriez vendre. Certaines boutiques vendent des antiquités de provenance inconnue et ne donnent guère d’indice sur la qualité ou la nature de leurs marchandises.
 
 EN: A staircase leading down to the grand vaults containing the silver rune of Zot, whose wealth attracts the most powerful champions from across the Dungeon to its defence.
-FR: Un escalier descendant vers les grandes Chambres Fortes qui renferment la rune d’argent de Zot, dont la richesse attire les plus puissants champions de tout le Donjon pour la défendre.
+FR: Un escalier descendant vers les grandes Vaults qui renferment la rune d’argent de Zot, dont la richesse attire les plus puissants champions de tout le Dungeon pour la défendre.
 
 EN: A gateway of some kind. You cannot tell where it leads without approaching it.
 FR: Une sorte de passage. Vous ne pouvez pas savoir où il mène sans vous en approcher.
@@ -170,7 +170,7 @@ EN: A statue of an ancient warrior, festooned with trophies from fallen victims.
 FR: Une statue d’ancien guerrier, ornée de trophées pris à ses victimes. Une substance sombre suinte des fentes de sa visière ; ce doit sûrement être de l’huile..?
 
 EN: A blazing flag of cruel conquest, planted amid the ruins of many a fallen kingdom to claim their ashes in the name of Hell.
-FR: Un drapeau flamboyant de conquête cruelle, planté parmi les ruines de nombreux royaumes déchus pour revendiquer leurs cendres au nom de l’Enfer.
+FR: Un drapeau flamboyant de conquête cruelle, planté parmi les ruines de nombreux royaumes déchus pour revendiquer leurs cendres au nom du Hell.
 
 EN: Ash and embers, littered with broken treasures and worthless coins from realms long fallen.
 FR: Cendres et braises, jonchées de trésors brisés et de pièces sans valeur venant de royaumes disparus depuis longtemps.
@@ -185,13 +185,13 @@ EN: A magically shifting statue seemingly content to glimmer and dance in place,
 FR: Une statue magique qui change sans cesse, semblant se contenter de miroiter et de danser sur place, dédiée aux jeux cosmiques ineffables du chaos.
 
 EN: A sturdy metal cage, inscribed with cryptic magics. Whatever it once held - whether person, beast, or experiment - was evidently already freed in response to intruders like you infiltrating the Dungeon.
-FR: Une cage de métal solide, gravée de magies cryptiques. Ce qu’elle contenait autrefois, personne, bête ou expérience, a de toute évidence déjà été libéré en réponse à des intrus comme vous qui s’infiltrent dans le Donjon.
+FR: Une cage de métal solide, gravée de magies cryptiques. Ce qu’elle contenait autrefois, personne, bête ou expérience, a de toute évidence déjà été libéré en réponse à des intrus comme vous qui s’infiltrent dans le Dungeon.
 
 EN: A strange but benign metal construct, analysing raw ambient magical energy. If destroyed and disrupted by sufficiently mighty magic, its destructive mystic energy will harmlessly disperse.
 FR: Une étrange construction de métal, mais inoffensive, qui analyse l’énergie magique brute ambiante. Si elle est détruite et perturbée par une magie suffisamment puissante, son énergie mystique destructrice se dissipera sans danger.
 
 EN: A harmless yet sturdy metal construct, arcane both in power-source and purpose. Whatever it analyses, processes, powers, or produces can neither be assessed nor accessed by intruders like you infiltrating the Dungeon.
-FR: Une construction de métal inoffensive mais robuste, arcane autant par sa source d’énergie que par son but. Ce qu’elle analyse, traite, alimente ou produit ne peut être ni évalué ni atteint par des intrus comme vous qui s’infiltrent dans le Donjon.
+FR: Une construction de métal inoffensive mais robuste, arcane autant par sa source d’énergie que par son but. Ce qu’elle analyse, traite, alimente ou produit ne peut être ni évalué ni atteint par des intrus comme vous qui s’infiltrent dans le Dungeon.
 
 EN: A wall made from shimmering crystal, from which some demonic plane peers out. While its composition both make it resist destruction plus reflect both fire and cold, the otherworldly forces within it seem to be entirely harmless... from this end, anyway.
 FR: Un mur de cristal scintillant, par lequel un plan démoniaque regarde. Si sa composition lui permet de résister à la destruction et de refléter le feu comme le froid, les forces d’un autre monde qui s’y trouvent semblent tout à fait inoffensives... de ce côté-ci, du moins.
@@ -203,10 +203,10 @@ EN: A singular flower, suffused with gloom and held in a ceramic grip. It is dif
 FR: Une fleur solitaire, imprégnée de tristesse et tenue par une prise de céramique. Il est difficile de dire si elle est encore vivante.
 
 EN: The decorative elvish inlayings of weapons mark here the Hall of Blades, where many of the Dungeon's keenest weapons originate, magically animated to demonstrate their own lethality on would-be thieves.
-FR: Les incrustations décoratives d’armes elfiques marquent ici la Salle des Lames, où naissent beaucoup des armes les plus tranchantes du Donjon, animées par magie pour démontrer leur propre létalité aux voleurs en puissance.
+FR: Les incrustations décoratives d’armes elfiques marquent ici la Salle des Lames, où naissent beaucoup des armes les plus tranchantes du Dungeon, animées par magie pour démontrer leur propre létalité aux voleurs en puissance.
 
 EN: A flag of Beogh, raised to show that this fortification belongs to some arm of the Dungeon's orcish military.
-FR: Un drapeau de Beogh, dressé pour montrer que cette fortification appartient à une branche de l’armée orque du Donjon.
+FR: Un drapeau de Beogh, dressé pour montrer que cette fortification appartient à une branche de l’armée orque du Dungeon.
 
 EN: A strangely slime-free stone wall, carved all over with countless protective runes.
 FR: Un mur de pierre étrangement exempt de gélatine, gravé de part en part d’innombrables runes protectrices.
@@ -215,7 +215,7 @@ EN: An ancient sarcophagus. It appears to be empty.
 FR: Un ancien sarcophage. Il semble vide.
 
 EN: A metal wall etched with murals depicting, in great and gruesome detail, exactly what will be done to anyone caught stealing from the Vaults.
-FR: Un mur de métal gravé de fresques qui représentent, avec force détails sinistres, exactement ce qui sera fait à quiconque sera surpris à voler dans les Chambres Fortes.
+FR: Un mur de métal gravé de fresques qui représentent, avec force détails sinistres, exactement ce qui sera fait à quiconque sera surpris à voler dans les Vaults.
 
 EN: The grave of an adventurer who came close to victory.
 FR: La tombe d’un aventurier qui était près de la victoire.
@@ -1103,7 +1103,7 @@ EN: A twisted blade, covered in eerie flames. Its demonic power burns away at th
 FR: Une lame tordue, couverte de flammes étranges. Son pouvoir démoniaque ronge l’essence même de ceux contre qui elle est maniée.
 
 EN: An orb pulsing with unholy energies, granting the power to unleash damnation when held — although not without draining the wielder's vitality in the process. It carries with it some of the corrosive malice of the Iron City of Dis.
-FR: Un orbe palpitant d’énergies impies, qui confère le pouvoir de déchaîner la damnation lorsqu’on le tient, non sans drainer la vitalité du porteur au passage. Il porte avec lui un peu de la malveillance corrosive de la Cité de Fer de Dis.
+FR: Un orbe palpitant d’énergies impies, qui confère le pouvoir de déchaîner la damnation lorsqu’on le tient, non sans drainer la vitalité du porteur au passage. Il porte avec lui un peu de la malveillance corrosive de la Iron City of Dis.
 
 EN: A bright ruby sceptre, carrying some of the powers of the arch-fiend Asmodeus. It may call forth fiery demons from their infernal home to do the wielder's bidding.
 FR: Un sceptre de rubis éclatant, qui porte une partie des pouvoirs de l’archidémon Asmodeus. Il peut faire venir des démons de feu de leur demeure infernale pour exécuter les ordres du porteur.
@@ -1124,7 +1124,7 @@ EN: A dagger made of one huge shard of sapphire. It covers opponents in ice, slo
 FR: Une dague faite d’un unique énorme éclat de saphir. Elle recouvre les adversaires de glace, ralentissant quelque peu leur mouvement.
 
 EN: An ugly rusty dagger. Many years ago it was the property of a powerful mage called Boris. He got lost in the Dungeon while seeking the Orb.
-FR: Une vilaine dague rouillée. Il y a de nombreuses années, elle appartenait à un puissant mage nommé Boris. Il s’est perdu dans le Donjon en cherchant l’Orbe.
+FR: Une vilaine dague rouillée. Il y a de nombreuses années, elle appartenait à un puissant mage nommé Boris. Il s’est perdu dans le Dungeon en cherchant l’Orbe.
 
 EN: A long and exceedingly sharp scythe, capable of eviscerating in a single blow. Its extraordinary speed is the work of a mad wizard, who spent years refining it before discarding it in a fit of rage. The blade looses a low keen as it cuts through the air.
 FR: Une longue faux extrêmement tranchante, capable d’éviscérer d’un seul coup. Sa vitesse extraordinaire est l’œuvre d’un magicien fou, qui passa des années à la perfectionner avant de l’abandonner dans un accès de rage. La lame émet un sifflement aigu en fendant l’air.
@@ -1796,10 +1796,10 @@ EN: an unnaturally hard rock wall
 FR: un mur de roche anormalement dur
 
 EN: A wall of the weird stuff which makes up Pandemonium
-FR: Un mur de la substance étrange qui compose le Pandémonium
+FR: Un mur de la substance étrange qui compose le Pandemonium
 
 EN: a wall of the weird stuff which makes up Pandemonium
-FR: un mur de la substance étrange qui compose le Pandémonium
+FR: un mur de la substance étrange qui compose le Pandemonium
 
 EN: A crystal wall
 FR: Un mur de cristal
@@ -2114,52 +2114,52 @@ EN: a gate leading back out of this place
 FR: une porte menant hors de cet endroit
 
 EN: A gate leading out of Pandemonium
-FR: Une porte menant hors du Pandémonium
+FR: Une porte menant hors du Pandemonium
 
 EN: a gate leading out of Pandemonium
-FR: une porte menant hors du Pandémonium
+FR: une porte menant hors du Pandemonium
 
 EN: A gate leading to another region of Pandemonium
-FR: Une porte menant à une autre région du Pandémonium
+FR: Une porte menant à une autre région du Pandemonium
 
 EN: a gate leading to another region of Pandemonium
-FR: une porte menant à une autre région du Pandémonium
+FR: une porte menant à une autre région du Pandemonium
 
 EN: A one-way gate leading to the halls of Pandemonium
-FR: Une porte à sens unique menant aux salles du Pandémonium
+FR: Une porte à sens unique menant aux salles du Pandemonium
 
 EN: a one-way gate leading to the halls of Pandemonium
-FR: une porte à sens unique menant aux salles du Pandémonium
+FR: une porte à sens unique menant aux salles du Pandemonium
 
 EN: A staircase to the Depths
-FR: Un escalier vers les Profondeurs
+FR: Un escalier vers les Depths
 
 EN: a staircase to the Depths
-FR: un escalier vers les Profondeurs
+FR: un escalier vers les Depths
 
 EN: A gate to the Realm of Zot
-FR: Une porte vers le Royaume de Zot
+FR: Une porte vers le Realm of Zot
 
 EN: a gate to the Realm of Zot
-FR: une porte vers le Royaume de Zot
+FR: une porte vers le Realm of Zot
 
 EN: A gateway back into the Dungeon
-FR: Un portail de retour vers le Donjon
+FR: Un portail de retour vers le Dungeon
 
 EN: a gateway back into the Dungeon
-FR: un portail de retour vers le Donjon
+FR: un portail de retour vers le Dungeon
 
 EN: A gateway leading out of the Abyss
-FR: Un portail menant hors de l’Abysse
+FR: Un portail menant hors de l’Abyss
 
 EN: a gateway leading out of the Abyss
-FR: un portail menant hors de l’Abysse
+FR: un portail menant hors de l’Abyss
 
 EN: A gateway leading deeper into the Abyss
-FR: Un portail menant plus profondément dans l’Abysse
+FR: Un portail menant plus profondément dans l’Abyss
 
 EN: a gateway leading deeper into the Abyss
-FR: un portail menant plus profondément dans l’Abysse
+FR: un portail menant plus profondément dans l’Abyss
 
 EN: A gateway to a ziggurat
 FR: Un portail vers la Ziggurat
@@ -2180,16 +2180,16 @@ EN: a gateway leading out of Gehenna
 FR: un portail menant hors de Gehenna
 
 EN: A gateway to Hell
-FR: Un portail vers l’Enfer
+FR: Un portail vers le Hell
 
 EN: a gateway to Hell
-FR: un portail vers l’Enfer
+FR: un portail vers le Hell
 
 EN: A gateway to the Iron City of Dis
-FR: Un portail vers la Cité de Fer de Dis
+FR: Un portail vers la Iron City of Dis
 
 EN: a gateway to the Iron City of Dis
-FR: un portail vers la Cité de Fer de Dis
+FR: un portail vers la Iron City of Dis
 
 EN: A gateway leading out of Dis
 FR: Un portail menant hors de Dis
@@ -2222,34 +2222,34 @@ EN: a gateway leading out of Cocytus
 FR: un portail menant hors du Cocytus
 
 EN: A one-way gate to the infinite horrors of the Abyss
-FR: Une porte à sens unique vers les horreurs infinies de l’Abysse
+FR: Une porte à sens unique vers les horreurs infinies de l’Abyss
 
 EN: a one-way gate to the infinite horrors of the Abyss
-FR: une porte à sens unique vers les horreurs infinies de l’Abysse
+FR: une porte à sens unique vers les horreurs infinies de l’Abyss
 
 EN: A crawl-hole back to the Lair
-FR: Un boyau de retour vers l’Antre
+FR: Un boyau de retour vers le Lair
 
 EN: a crawl-hole back to the Lair
-FR: un boyau de retour vers l’Antre
+FR: un boyau de retour vers le Lair
 
 EN: An exit through the horrors of the Abyss
-FR: Une sortie à travers les horreurs de l’Abysse
+FR: Une sortie à travers les horreurs de l’Abyss
 
 EN: an exit through the horrors of the Abyss
-FR: une sortie à travers les horreurs de l’Abysse
+FR: une sortie à travers les horreurs de l’Abyss
 
 EN: A staircase back to the Dungeon
-FR: Un escalier de retour vers le Donjon
+FR: Un escalier de retour vers le Dungeon
 
 EN: a staircase back to the Dungeon
-FR: un escalier de retour vers le Donjon
+FR: un escalier de retour vers le Dungeon
 
 EN: A staircase back to the Lair
-FR: Un escalier de retour vers l’Antre
+FR: Un escalier de retour vers le Lair
 
 EN: a staircase back to the Lair
-FR: un escalier de retour vers l’Antre
+FR: un escalier de retour vers le Lair
 
 EN: A staircase back to the Mines
 FR: Un escalier de retour vers les Mines
@@ -2258,22 +2258,22 @@ EN: a staircase back to the Mines
 FR: un escalier de retour vers les Mines
 
 EN: A staircase back to the Vaults
-FR: Un escalier de retour vers les Chambres Fortes
+FR: Un escalier de retour vers les Vaults
 
 EN: a staircase back to the Vaults
-FR: un escalier de retour vers les Chambres Fortes
+FR: un escalier de retour vers les Vaults
 
 EN: A staircase back to the Crypt
-FR: Un escalier de retour vers la Crypte
+FR: Un escalier de retour vers la Crypt
 
 EN: a staircase back to the Crypt
-FR: un escalier de retour vers la Crypte
+FR: un escalier de retour vers la Crypt
 
 EN: A staircase to the Crypt
-FR: Un escalier vers la Crypte
+FR: Un escalier vers la Crypt
 
 EN: a staircase to the Crypt
-FR: un escalier vers la Crypte
+FR: un escalier vers la Crypt
 
 EN: A staircase to the Ecumenical Temple
 FR: Un escalier vers le Temple des Dieux
@@ -2282,58 +2282,58 @@ EN: a staircase to the Ecumenical Temple
 FR: un escalier vers le Temple des Dieux
 
 EN: A staircase to the Elven Halls
-FR: Un escalier vers les Halls Elfiques
+FR: Un escalier vers les Elven Halls
 
 EN: a staircase to the Elven Halls
-FR: un escalier vers les Halls Elfiques
+FR: un escalier vers les Elven Halls
 
 EN: A staircase to the Lair
-FR: Un escalier vers l’Antre
+FR: Un escalier vers le Lair
 
 EN: a staircase to the Lair
-FR: un escalier vers l’Antre
+FR: un escalier vers le Lair
 
 EN: A staircase to the Orcish Mines
-FR: Un escalier vers les Mines Orques
+FR: Un escalier vers les Orcish Mines
 
 EN: a staircase to the Orcish Mines
-FR: un escalier vers les Mines Orques
+FR: un escalier vers les Orcish Mines
 
 EN: A staircase to the Shoals
-FR: Un escalier vers les Hauts-fonds
+FR: Un escalier vers les Shoals
 
 EN: a staircase to the Shoals
-FR: un escalier vers les Hauts-fonds
+FR: un escalier vers les Shoals
 
 EN: A staircase to the Slime Pits
-FR: Un escalier vers les Fosses de gélatine
+FR: Un escalier vers les Slime Pits
 
 EN: a staircase to the Slime Pits
-FR: un escalier vers les Fosses de gélatine
+FR: un escalier vers les Slime Pits
 
 EN: A staircase to the Snake Pit
-FR: Un escalier vers la Fosse aux serpents
+FR: Un escalier vers la Snake Pit
 
 EN: a staircase to the Snake Pit
-FR: un escalier vers la Fosse aux serpents
+FR: un escalier vers la Snake Pit
 
 EN: A staircase to the Swamp
-FR: Un escalier vers le Marais
+FR: Un escalier vers le Swamp
 
 EN: a staircase to the Swamp
-FR: un escalier vers le Marais
+FR: un escalier vers le Swamp
 
 EN: A staircase to the Tomb
-FR: Un escalier vers la Tombe
+FR: Un escalier vers la Tomb
 
 EN: a staircase to the Tomb
-FR: un escalier vers la Tombe
+FR: un escalier vers la Tomb
 
 EN: A gate to the Vaults
-FR: Une porte vers les Chambres Fortes
+FR: Une porte vers les Vaults
 
 EN: a gate to the Vaults
-FR: une porte vers les Chambres Fortes
+FR: une porte vers les Vaults
 
 EN: A transporter
 FR: Un téléporteur

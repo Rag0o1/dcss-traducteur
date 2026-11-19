@@ -62,7 +62,7 @@ globalThis.DCSS_TRADUCTIONS.lex_armes = {
 "A suit of armour made entirely out of tiny metal rings.": "Une armure faite entièrement de minuscules anneaux de métal.",
 "A sword with a very long, heavy blade and a long handle.": "Une épée à la très longue et lourde lame, avec une longue poignée.",
 "A terrible three-pronged weapon, moulded by fire and brimstone.": "Une terrible arme à trois pointes, façonnée par le feu et le soufre.",
-"A terrible weapon, forged in the fires of Hell.": "Une arme terrible, forgée dans les feux de l’Enfer.",
+"A terrible weapon, forged in the fires of Hell.": "Une arme terrible, forgée dans les feux du Hell.",
 "A terrible weapon, woven in the depths of the inferno.": "Une terrible arme, tissée dans les profondeurs de l’inferno.",
 "A very large and very heavy stone.": "Une pierre très grande et très lourde.",
 "A very rare and extremely effective weapon, featuring a pole with half-moon blades at both ends.": "Une arme très rare et extrêmement efficace, composée d’une perche dotée de lames en demi-lune aux deux extrémités.",

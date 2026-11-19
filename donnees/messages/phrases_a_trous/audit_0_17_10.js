@@ -12,7 +12,7 @@
     Object.assign(T, {
         // --- Messages ---
         "A forgotten god smites you!": "Un dieu oublié vous foudroie !",
-        "A malevolent force fills the Lair of Beasts...": "Une force malveillante emplit l’Antre des Bêtes...",
+        "A malevolent force fills the Lair of Beasts...": "Une force malveillante emplit le Lair of Beasts...",
         "{A} opens the large door.": "{S1} ouvre la grande porte.", "You open the door.": "Vous ouvrez la porte.", "You open the large door.": "Vous ouvrez la grande porte.",
         "There is a large open door here.": "Il y a une grande porte ouverte ici.",
         "{A} forges a servant imbued with his destructive magic!": "{S1} forge un serviteur imprégné de sa magie destructrice !",

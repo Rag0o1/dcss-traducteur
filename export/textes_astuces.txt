@@ -140,7 +140,7 @@ EN: These nasty constructions can cause a range of unpleasant effects. You won't
 FR: Ces vilaines constructions peuvent causer toute une gamme d’effets désagréables. Voler au-dessus ne vous permettra pas d’éviter de les déclencher ; leur construction magique les fera se déclencher quand même.
 
 EN: Some areas of the dungeon, such as the Spider Nest, may be strewn with giant webs that may ensnare you for a short time. Insects, oozes and incorporeal entities can navigate the webs safely.
-FR: Certaines zones du donjon, comme le Nid d’araignées, peuvent être parsemées de toiles géantes qui peuvent vous piéger pour un court moment. Les insectes, les vases et les entités immatérielles peuvent s’y déplacer sans risque.
+FR: Certaines zones du donjon, comme le Spider Nest, peuvent être parsemées de toiles géantes qui peuvent vous piéger pour un court moment. Les insectes, les vases et les entités immatérielles peuvent s’y déplacer sans risque.
 
 EN: You have not yet passed through this particular set of stairs.
 FR: Vous n’avez pas encore emprunté cet escalier.

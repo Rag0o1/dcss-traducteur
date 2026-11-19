@@ -1118,7 +1118,7 @@ EN: * If you have it, use defensive equipment (weapons of protection, etc.).
 FR: * Si vous en avez, utilisez de l’équipement défensif (armes de protection, etc.).
 
 EN: * Use teleportation to end up in a completely new part of the Abyss. (But keep in mind that teleportation will take much longer to kick in than in the Dungeon...)
-FR: * Utilisez la téléportation pour atterrir dans une partie complètement nouvelle de l’Abyss. (Mais n’oubliez pas que la téléportation met beaucoup plus de temps à agir que dans le Donjon...)
+FR: * Utilisez la téléportation pour atterrir dans une partie complètement nouvelle de l’Abyss. (Mais n’oubliez pas que la téléportation met beaucoup plus de temps à agir que dans le Dungeon...)
 
 EN: * Consider switching your allegiance to Lugonu, the god of the Abyss. Upon conversion, you will be able to escape the Abyss immediately (but you may anger your previous god!).
 FR: * Envisagez de changer d’allégeance pour Lugonu, le dieu de l’Abyss. Dès la conversion, vous pourrez quitter l’Abyss immédiatement (mais vous risquez de fâcher votre ancien dieu !).

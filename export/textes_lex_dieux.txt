@@ -80,7 +80,7 @@ EN: Jellies are peaceful and will consume items off the floor.
 FR: Les gelées sont pacifiques et dévorent les objets au sol.
 
 EN: Jiyva likes it when you explore the world outside of the Slime Pits.
-FR: Jiyva apprécie que vous exploriez le monde en dehors des Fosses de gélatine.
+FR: Jiyva apprécie que vous exploriez le monde en dehors des Slime Pits.
 
 EN: Jiyva prevents you from harming jellies.
 FR: Jiyva vous empêche de blesser les gelées.
@@ -92,7 +92,7 @@ EN: Jiyva will mutate your body as you gain piety.
 FR: Jiyva fera muter votre corps à mesure que vous gagnez de la piété.
 
 EN: Jiyva will unlock the Slime Pits vaults.
-FR: Jiyva ouvrira les chambres fortes des Fosses de gélatine.
+FR: Jiyva ouvrira les chambres fortes des Slime Pits.
 
 EN: Kikubaaqudgha protects you from necromantic miscasts and death curses.
 FR: Kikubaaqudgha vous protège des échecs de nécromancie et des malédictions de mort.
@@ -302,7 +302,7 @@ EN: You can deal four cards at a time.
 FR: Vous pouvez distribuer quatre cartes à la fois.
 
 EN: You can depart the Abyss.
-FR: Vous pouvez quitter l’Abysse.
+FR: Vous pouvez quitter l’Abyss.
 
 EN: You can donate money to Zin.
 FR: Vous pouvez faire don d’argent à Zin.
@@ -338,7 +338,7 @@ EN: You can gain power from killing the unholy and evil.
 FR: Vous pouvez gagner de la puissance en tuant les impies et les maléfiques.
 
 EN: You can gate yourself to the Abyss.
-FR: Vous pouvez vous ouvrir un portail vers l’Abysse.
+FR: Vous pouvez vous ouvrir un portail vers l’Abyss.
 
 EN: You can gather your power into a mighty leap.
 FR: Vous pouvez rassembler votre puissance en un bond prodigieux.
@@ -494,7 +494,7 @@ EN: You're guaranteed to find altars to almost every god on the first ten levels
 FR: Vous êtes certain de trouver des autels de presque tous les dieux dans les dix premiers niveaux du donjon principal.
 
 EN: Your Destruction will be augmented by one of the Four Hells.
-FR: Votre Destruction sera renforcée par l’un des Quatre Enfers.
+FR: Votre Destruction sera renforcée par l’un des Quatre Hells.
 
 EN: Your ancestor manifests to aid you.
 FR: Votre ancêtre se manifeste pour vous aider.
@@ -536,7 +536,7 @@ EN: Zin occasionally shields you from chaos.
 FR: Zin vous protège parfois du chaos.
 
 EN: Zin rarely shields you from Hell.
-FR: Zin vous protège rarement de l’Enfer.
+FR: Zin vous protège rarement du Hell.
 
 EN: Zin will cleanse your potions of mutation.
 FR: Zin purifiera vos potions de mutation.

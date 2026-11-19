@@ -35,7 +35,7 @@ EN: Clouds condense from the air!
 FR: Des nuages se condensent dans l’air !
 
 EN: The Realm of Zot is guarded by orbs of entropy.
-FR: Le Royaume de Zot est gardé par des orbes d’entropie.
+FR: Le Realm of Zot est gardé par des orbes d’entropie.
 
 EN: The air twists around and strikes you!
 FR: L’air se tord autour de vous et vous frappe !
@@ -341,7 +341,7 @@ EN: There is an escape hatch in the floor here.
 FR: Il y a une trappe de secours dans le sol ici.
 
 EN: Welcome back to the Dungeon!
-FR: Bon retour dans le Donjon !
+FR: Bon retour dans le Dungeon !
 
 EN: You are a hypnotic gecko-hybrid.
 FR: Vous êtes un hybride de gecko hypnotique.
@@ -653,7 +653,7 @@ EN: The apparition of rago the Trooper, a novice Demonspawn Monk of Makhleb.
 FR: L’apparition de rago le Soldat, Moine Rejeton-démon novice de Makhleb.
 
 EN: Rago's ghost shrieks, "They lied to you. The Dungeon just goes down and down forever."
-FR: Le fantôme de Rago hurle : « Ils t’ont menti. Le Donjon descend, descend, à jamais. »
+FR: Le fantôme de Rago hurle : « Ils t’ont menti. Le Dungeon descend, descend, à jamais. »
 
 EN: TCC's ghost whispers, "The ORB doesn't exist."
 FR: Le fantôme de TCC murmure : « L’ORBE n’existe pas. »
@@ -710,16 +710,16 @@ EN: You start waiting.
 FR: Vous commencez à attendre.
 
 EN: Welcome back to the Lair of Beasts!
-FR: Bon retour dans l’Antre des Bêtes !
+FR: Bon retour dans le Lair of Beasts !
 
 EN: Welcome back to the Spider Nest!
-FR: Bon retour dans le Nid d’Araignées !
+FR: Bon retour dans le Spider Nest !
 
 EN: Welcome to the Spider Nest!
-FR: Bienvenue dans le Nid d’Araignées !
+FR: Bienvenue dans le Spider Nest !
 
 EN: What level of the Spider Nest? (default 1, ? - help)
-FR: Quel niveau du Nid d’Araignées ? (déf. 1, ? - aide)
+FR: Quel niveau du Spider Nest ? (déf. 1, ? - aide)
 
 EN: You are a living statue of rough stone.
 FR: Vous êtes une statue vivante de pierre brute.

@@ -17,7 +17,7 @@ EN: ? - help and manual
 FR: ? - Aide et manuel
 
 EN: Abyss
-FR: Abysse
+FR: Abyss
 
 EN: Acidic fog
 FR: Brume acide
@@ -101,7 +101,7 @@ EN: Cheibriados the contemplative
 FR: Cheibriados le Contemplatif
 
 EN: Cocytus
-FR: Cocyte
+FR: Cocytus
 
 EN: Conjurations
 FR: Conjurations
@@ -113,13 +113,13 @@ EN: Crucible
 FR: Creuset
 
 EN: Crypt
-FR: Crypte
+FR: Crypt
 
 EN: Degeneration
 FR: Dégénérescence
 
 EN: Depths
-FR: Profondeurs
+FR: Depths
 
 EN: Desolation
 FR: Desolation
@@ -140,7 +140,7 @@ EN: Dodging
 FR: Esquive
 
 EN: Dungeon
-FR: Donjon
+FR: Dungeon
 
 EN: Dungeon Crawl Stone Soup 0.35-a0-1310-g49955dfc25
 FR: Dungeon Crawl Stone Soup 0.35-a0-1310-g49955dfc25
@@ -155,10 +155,10 @@ EN: Earth magic
 FR: Magie de la Terre
 
 EN: Elven Halls
-FR: Halls Elfiques
+FR: Elven Halls
 
 EN: Elven halls
-FR: Halls Elfiques
+FR: Elven Halls
 
 EN: Elyvilon the Healer
 FR: Elyvilon le Guérisseur
@@ -245,7 +245,7 @@ EN: Gauntlet
 FR: Gauntlet
 
 EN: Gehenna
-FR: Géhenne
+FR: Gehenna
 
 EN: Glimmer
 FR: Lueur
@@ -269,7 +269,7 @@ EN: Gulch
 FR: Ravin
 
 EN: Hell
-FR: Enfer
+FR: Hell
 
 EN: Hepliaklqana the Forgotten
 FR: Hepliaklqana l’Oublié
@@ -323,7 +323,7 @@ EN: Kikubaaqudgha
 FR: Kikubaaqudgha
 
 EN: Lair
-FR: Antre
+FR: Lair
 
 EN: Long Blades
 FR: Lames Longues
@@ -392,10 +392,10 @@ EN: Noxious fumes
 FR: Vapeurs nocives
 
 EN: Orcish Mines
-FR: Mines Orques
+FR: Orcish Mines
 
 EN: Orcish mines
-FR: Mines Orques
+FR: Orcish Mines
 
 EN: Ossuary
 FR: Ossuary
@@ -425,7 +425,7 @@ EN: Pain
 FR: Douleur
 
 EN: Pandemonium
-FR: Pandémonium
+FR: Pandemonium
 
 EN: Player Character Information:
 FR: Informations sur le personnage :
@@ -494,7 +494,7 @@ EN: Shields
 FR: Boucliers
 
 EN: Shoals
-FR: Hauts-fonds
+FR: Shoals
 
 EN: Short Blades
 FR: Lames Courtes
@@ -509,16 +509,16 @@ EN: Sif muna the loreminder
 FR: Sif Muna, Gardienne du savoir
 
 EN: Slime Pits
-FR: Fosses de gélatine
+FR: Slime Pits
 
 EN: Slime pits
-FR: Fosses de gélatine
+FR: Slime Pits
 
 EN: Snake Pit
-FR: Fosse aux serpents
+FR: Snake Pit
 
 EN: Snake pit
-FR: Fosse aux serpents
+FR: Snake Pit
 
 EN: Sparks
 FR: Étincelles
@@ -533,10 +533,10 @@ EN: Spellcasting
 FR: Magie
 
 EN: Spider Nest
-FR: Nid des Araignées
+FR: Spider Nest
 
 EN: Spider nest
-FR: Nid des Araignées
+FR: Spider Nest
 
 EN: Spreading flames
 FR: Flammes envahissantes
@@ -554,10 +554,10 @@ EN: Summonings
 FR: Convocations
 
 EN: Swamp
-FR: Marais
+FR: Swamp
 
 EN: Tartarus
-FR: Tartare
+FR: Tartarus
 
 EN: Temple
 FR: Temple
@@ -593,7 +593,7 @@ EN: The Swine
 FR: Les Porcs
 
 EN: The Tomb
-FR: La Tombe
+FR: La Tomb
 
 EN: The Wraith
 FR: Le Spectre
@@ -632,7 +632,7 @@ EN: The swine
 FR: Les Porcs
 
 EN: The tomb
-FR: La Tombe
+FR: La Tomb
 
 EN: The wraith
 FR: Le Spectre
@@ -653,7 +653,7 @@ EN: Title
 FR: Titre
 
 EN: Tomb
-FR: Tombe
+FR: Tomb
 
 EN: Torment
 FR: Tourment
@@ -692,7 +692,7 @@ EN: Uskayaw the reveller
 FR: Uskayaw le Fêtard
 
 EN: Vaults
-FR: Chambres Fortes
+FR: Vaults
 
 EN: Vehumet
 FR: Vehumet

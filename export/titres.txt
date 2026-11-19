@@ -1028,7 +1028,7 @@ EN: Pure
 FR: le Pur
 
 EN: Abyss-Baptised
-FR: le Baptisé de l’Abysse
+FR: le Baptisé de l’Abyss
 
 EN: Unweaver
 FR: le Défileur

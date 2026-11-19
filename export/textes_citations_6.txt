@@ -845,7 +845,7 @@ EN: Healing and magic? Woohoo!
 FR: Soin et magie ? Youpi !
 
 EN: The Abyss is a horrible place!
-FR: L’Abysse est un endroit horrible !
+FR: L’Abyss est un endroit horrible !
 
 EN: I don't want to be sealed in with no windows!
 FR: Je ne veux pas être enfermé sans fenêtres !

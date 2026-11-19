@@ -89,7 +89,7 @@ EN: A shimmering blue altar of Sif Muna.
 FR: Un autel bleu scintillant de Sif Muna.
 
 EN: A swampy wasteland, the Swamp is filled with ooze, muck, flies and large slavering carnivorous monsters.
-FR: Terre désolée et marécageuse, le Marais est rempli de vase, de boue, de mouches et de grands monstres carnivores bavants.
+FR: Terre désolée et marécageuse, le Swamp est rempli de vase, de boue, de mouches et de grands monstres carnivores bavants.
 
 EN: A swarm of tiny vampire bats, so dense that it is impossible to count them all. They will relentlessly assail anything but the undead who stands in their midst, gradually lulling them to sleep with their soporific bites - and continuing to feed off their helpless body, once they fall.
 FR: Un essaim de minuscules chauves-souris vampires, si dense qu’il est impossible de toutes les compter. Elles harcèlent sans relâche tout ce qui se tient en leur sein, sauf les morts-vivants, l’endormant peu à peu de leurs morsures soporifiques, puis continuant de se nourrir de son corps sans défense une fois tombé.
@@ -125,7 +125,7 @@ EN: A: First, you might want to read the philosophy section in the manual ('?N')
 FR: R : D’abord, lisez peut-être la section philosophie du manuel (« ?N ») pour découvrir les grands principes de conception de Stone Soup.
 
 EN: A: If you are in the Abyss for the first time, chances of getting out are slim. Still, here are a few general hints:
-FR: R : Si vous êtes dans l’Abysse pour la première fois, vos chances d’en sortir sont minces. Voici quand même quelques conseils généraux :
+FR: R : Si vous êtes dans l’Abyss pour la première fois, vos chances d’en sortir sont minces. Voici quand même quelques conseils généraux :
 
 EN: A: If you play online you can watch games in progress, other players can watch you while you play, and you can kill other players' ghosts. You can even send and receive messages.
 FR: R : Si vous jouez en ligne, vous pouvez regarder des parties en cours, d’autres joueurs peuvent vous regarder jouer, et vous pouvez tuer les fantômes d’autres joueurs. Vous pouvez même envoyer et recevoir des messages.
@@ -191,7 +191,7 @@ EN: An extremely localised rainstorm. It may produce short-lived pools of shallo
 FR: Un orage de pluie extrêmement localisé. Il peut produire des flaques d’eau peu profonde éphémères. Les êtres faits de feu n’aiment pas passer beaucoup de temps sous la pluie.
 
 EN: As the upper Dungeon has its sewer drainage system, so too do the Vaults. These gutter gulches serve as a containment space for accumulated garbage, various abandoned experiments, disorderly encroaching pests, and the particularly-broken corpses of intruders all alike. A great deal of mutagenic energy emanates from the mystic slag and mouldy waters running through it, such that even crossing its threshold will temporarily mutate new guests. Still, the widely-renowned defences of the Vaults would never dismiss any potential security front: mild maintenance via punished guards manage just barely enough direction to send such gulch monstrosities at anybody who would dare try to extract hidden riches from such filthy chambers.
-FR: Comme le Donjon supérieur a son système d’égouts, les Chambres Fortes ont le leur. Ces ravins d’immondices servent d’espace de confinement pour les ordures accumulées, diverses expériences abandonnées, les nuisibles qui prolifèrent sans ordre et les cadavres particulièrement brisés des intrus. Une grande quantité d’énergie mutagène émane des scories mystiques et des eaux moisies qui y coulent, au point que même franchir le seuil fait temporairement muter les nouveaux venus. Pourtant, les défenses réputées des Chambres Fortes n’écarteraient jamais un front de sécurité potentiel : un entretien sommaire par des gardes punis fournit tout juste assez de direction pour lancer ces monstruosités du ravin contre quiconque oserait tenter d’extraire les richesses cachées de ces chambres crasseuses.
+FR: Comme le Dungeon supérieur a son système d’égouts, les Vaults ont le leur. Ces ravins d’immondices servent d’espace de confinement pour les ordures accumulées, diverses expériences abandonnées, les nuisibles qui prolifèrent sans ordre et les cadavres particulièrement brisés des intrus. Une grande quantité d’énergie mutagène émane des scories mystiques et des eaux moisies qui y coulent, au point que même franchir le seuil fait temporairement muter les nouveaux venus. Pourtant, les défenses réputées des Vaults n’écarteraient jamais un front de sécurité potentiel : un entretien sommaire par des gardes punis fournit tout juste assez de direction pour lancer ces monstruosités du ravin contre quiconque oserait tenter d’extraire les richesses cachées de ces chambres crasseuses.
 
 EN: Being skilled in Spellcasting slightly increases the success rate and spell power of all spells, along with increasing your magical reserves. Training Spellcasting also gives you more spell slots to spend on new spells.
 FR: Être compétent en Magie augmente légèrement le taux de réussite et la puissance de tous les sorts, et accroît vos réserves magiques. Entraîner la Magie vous donne aussi plus d’emplacements de sorts à consacrer à de nouveaux sorts.
@@ -206,7 +206,7 @@ EN: Blasphemers against the word of Beogh find themselves assaulted by waves of 
 FR: Les blasphémateurs de la parole de Beogh se retrouvent assaillis par des vagues de guerriers orcs ou par des armes électriques dansantes. Beogh peut aussi simplement foudroyer ces blasphémateurs, et quand il châtie les vrais pécheurs, sa main est lourde ! Ceux qui vénèrent encore Beogh verront aussi leurs disciples les déserter régulièrement.
 
 EN: Cocytus is a grim and frost-bitten wasteland. Intruders will find the biting winds and icy inhabitants of the wastes impeding their progress.
-FR: Le Cocyte est une terre désolée, sinistre et mordue par le gel. Les intrus verront leur progression entravée par les vents cinglants et les habitants glacés de ces étendues.
+FR: Le Cocytus est une terre désolée, sinistre et mordue par le gel. Les intrus verront leur progression entravée par les vents cinglants et les habitants glacés de ces étendues.
 
 EN: Disciples of the Council learn to perform three martial techniques while moving around in combat. They will also be taught to move at unfathomable speeds for short distances, and become able to summon a storm of golden clouds to increase their precision and damage for as long as they keep using martial attacks.
 FR: Les disciples du Conseil apprennent à effectuer trois techniques martiales tout en se déplaçant au combat. On leur enseigne aussi à se déplacer à des vitesses inconcevables sur de courtes distances, et ils deviennent capables de convoquer une tempête de nuages dorés qui augmente leur précision et leurs dégâts tant qu’ils continuent à utiliser des attaques martiales.
@@ -275,7 +275,7 @@ EN: Freeze: It freezes victims, dealing an additional one-quarter of any damage
 FR: Gel : Il gèle les victimes, infligeant un quart de dégâts supplémentaires
 
 EN: Gehenna is a realm of lava, flames and damnation. Those who linger will have fire and brimstone rained down upon them.
-FR: La Géhenne est un royaume de lave, de flammes et de damnation. Ceux qui s’y attardent verront pleuvoir sur eux le feu et le soufre.
+FR: La Gehenna est un royaume de lave, de flammes et de damnation. Ceux qui s’y attardent verront pleuvoir sur eux le feu et le soufre.
 
 EN: Gozag Ym Sagoz the Greedy teaches that the world belongs to the rich. Those accepting this principle may exchange their gold for divine assistance. Followers of Gozag do not earn piety; the only way to impress this god is by amassing a fortune, and worshippers may request as much assistance as they can afford. Fortunately, Gozag's worshippers are said to have the touch of gold.
 FR: Gozag Ym Sagoz le Cupide enseigne que le monde appartient aux riches. Ceux qui acceptent ce principe peuvent échanger leur or contre une aide divine. Les disciples de Gozag ne gagnent pas de piété ; le seul moyen d’impressionner ce dieu est d’amasser une fortune, et les fidèles peuvent demander autant d’aide qu’ils peuvent se le permettre. Heureusement, on dit que les fidèles de Gozag ont le toucher de l’or.
@@ -347,10 +347,10 @@ EN: Kikubaaqudgha's wrath brings forth all the dread powers of necromancy. Victi
 FR: La colère de Kikubaaqudgha libère tous les pouvoirs terribles de la nécromancie. Les victimes peuvent voir le dévastateur Signe de la Ruine se former sur elles, ou être à la fois condamnées et drainées sans égard pour leur résistance à l’énergie négative. De plus, les dons de Kikubaaqudgha se corrompent : les morts se relèvent en ennemis, et ceux qui tentent d’utiliser la magie nécromantique pour repousser la colère la verront se retourner contre eux au moment le moins attendu.
 
 EN: Killing monsters will warp the substance of the Abyss, eventually generating a gateway out. Further persistence will wear holes in the Abyss, allowing descent into deeper layers.
-FR: Tuer des monstres déforme la substance de l’Abysse et finit par générer une porte de sortie. En persévérant, vous percerez des trous dans l’Abysse, qui permettent de descendre dans des couches plus profondes.
+FR: Tuer des monstres déforme la substance de l’Abyss et finit par générer une porte de sortie. En persévérant, vous percerez des trous dans l’Abyss, qui permettent de descendre dans des couches plus profondes.
 
 EN: Lugonu's ire renders the barrier between reality and the Abyss weak and permeable. Space warps, hurling victims across the dungeon, or even directly into the Abyss. Lugonu also reaches out and sends the chaotic inhabitants of the Abyss against victims, with veteran adventurers facing the greatest horrors of the Abyss. Lugonu does not forgive easily, and will not allow ex-worshippers to rejoin the fold while Lugonu's wrath still lasts.
-FR: L’ire de Lugonu rend la barrière entre la réalité et l’Abysse fragile et perméable. L’espace se déforme, projetant les victimes à travers le donjon, voire directement dans l’Abysse. Lugonu tend aussi la main et envoie les habitants chaotiques de l’Abysse contre les victimes, les aventuriers chevronnés affrontant les pires horreurs de l’Abysse. Lugonu ne pardonne pas facilement, et ne laissera pas les anciens fidèles réintégrer le troupeau tant que sa colère dure.
+FR: L’ire de Lugonu rend la barrière entre la réalité et l’Abyss fragile et perméable. L’espace se déforme, projetant les victimes à travers le donjon, voire directement dans l’Abyss. Lugonu tend aussi la main et envoie les habitants chaotiques de l’Abyss contre les victimes, les aventuriers chevronnés affrontant les pires horreurs de l’Abyss. Lugonu ne pardonne pas facilement, et ne laissera pas les anciens fidèles réintégrer le troupeau tant que sa colère dure.
 
 EN: Makhleb offers followers the ability to unleash bolts of chaotic destruction at the cost of their own health as well as call in help from powerful (if sometimes uncooperative) demons. The most devoted of worshippers will eventually be gifted with knowledge of Infernal Marks, allowing them to ritually brand their own bodies in exchange for one of the Destroyer's many hellish powers.
 FR: Makhleb offre à ses disciples la capacité de déchaîner des éclairs de destruction chaotique au prix de leur propre santé, ainsi que d’appeler à l’aide de puissants démons (parfois peu coopératifs). Les fidèles les plus dévoués se verront finalement offrir la connaissance des Marques Infernales, qui leur permet de marquer rituellement leur propre corps en échange de l’un des nombreux pouvoirs infernaux du Destructeur.
@@ -365,7 +365,7 @@ EN: Of all the gods, only Ru opposed creation. Not as folly, but as distraction.
 FR: De tous les dieux, seul Ru s’est opposé à la création. Non par folie, mais comme une distraction. Les initiés de Ru peuvent ouvrir des canaux vers les puissances qui sous-tendent le monde visible en renonçant aux entraves qui les lient ici. Ces sacrifices ne sont pas faits à Ru, mais abandonnés librement et définitivement. Une fois ces sacrifices consentis, les initiés peuvent puiser dans cette immense puissance pour s’aider eux-mêmes, et finissent par pouvoir en déchaîner la force destructrice contre leurs ennemis.
 
 EN: Offenders against Cheibriados will find their movements remain slow while the attention of Cheibriados remains upon them, and may have any magical hasting stripped away. They may also become further slowed, be put to sleep, or be beset by the unparalleled volume of the inevitable passage of time ringing throughout the Dungeon.
-FR: Ceux qui offensent Cheibriados verront leurs mouvements rester lents tant que son attention reste sur eux, et pourront perdre toute accélération magique. Ils peuvent aussi être ralentis davantage, endormis, ou accablés par le volume sans pareil de l’inévitable écoulement du temps qui résonne dans tout le Donjon.
+FR: Ceux qui offensent Cheibriados verront leurs mouvements rester lents tant que son attention reste sur eux, et pourront perdre toute accélération magique. Ils peuvent aussi être ralentis davantage, endormis, ou accablés par le volume sans pareil de l’inévitable écoulement du temps qui résonne dans tout le Dungeon.
 
 EN: Okawaru's most vicious warriors are sent against rebellious servants. Novices find themselves swarmed by packs of ogres and gnolls, while champions are surrounded by titans and elvish blademasters.
 FR: Les guerriers les plus féroces d’Okawaru sont lancés contre les serviteurs rebelles. Les novices se retrouvent submergés par des meutes d’ogres et de gnolls, tandis que les champions sont encerclés par des titans et des maîtres lames elfes.
@@ -374,13 +374,13 @@ EN: On Windows, the default driver that ships with Windows is extremely slow. Ma
 FR: Sous Windows, le pilote par défaut livré avec le système est extrêmement lent. Assurez-vous de mettre à jour le pilote de votre carte graphique avec la dernière version disponible. Sous Linux, assurez-vous d’activer DRI.
 
 EN: One ziggurat is guaranteed in the Depths. Tales tell of a magical item found at the bottom of each ziggurat, granting access to a new ziggurat in turn. Such an item is also said to be found at the bottom of the Tomb of the Ancients. Each time a ziggurat is conquered by exiting it from the final floor, subsequent ziggurats will become increasingly dangerous and lucrative.
-FR: La Ziggurat est garantie dans les Profondeurs. On raconte qu’un objet magique se trouve au fond de chaque ziggurat et donne accès à une nouvelle ziggurat à son tour. On dit aussi qu’un tel objet se trouve au fond de la Tombe des Anciens. Chaque fois que la Ziggurat est conquise en la quittant depuis le dernier étage, les ziggurats suivantes deviennent de plus en plus dangereuses et lucratives.
+FR: La Ziggurat est garantie dans les Depths. On raconte qu’un objet magique se trouve au fond de chaque ziggurat et donne accès à une nouvelle ziggurat à son tour. On dit aussi qu’un tel objet se trouve au fond de la Tomb of the Ancients. Chaque fois que la Ziggurat est conquise en la quittant depuis le dernier étage, les ziggurats suivantes deviennent de plus en plus dangereuses et lucratives.
 
 EN: Pandemonium is an infinite realm of pain and suffering. While there are many treasures to be found within, they are guarded by cruel demons and even crueller demon lords.
-FR: Le Pandémonium est un royaume infini de douleur et de souffrance. S’il recèle de nombreux trésors, ils sont gardés par des démons cruels et des seigneurs démons plus cruels encore.
+FR: Le Pandemonium est un royaume infini de douleur et de souffrance. S’il recèle de nombreux trésors, ils sont gardés par des démons cruels et des seigneurs démons plus cruels encore.
 
 EN: Pandemonium is endless. Each area of Pandemonium has a small chance of containing a portal back to the dungeon, either directly or via the Abyss.
-FR: Le Pandémonium est sans fin. Chaque zone du Pandémonium a une petite chance de contenir un portail de retour vers le donjon, directement ou en passant par l’Abysse.
+FR: Le Pandemonium est sans fin. Chaque zone du Pandemonium a une petite chance de contenir un portail de retour vers le donjon, directement ou en passant par l’Abyss.
 
 EN: Qazlal Stormbringer is a violent god of tempests, who delights in unleashing the forces of nature against the unsuspecting. Those who invite Qazlal's gaze will find themselves the eye in a storm of elemental destruction, from which only their God can protect them. Pious worshippers of Qazlal will gain the ability to direct and control the destructive might of the storm.
 FR: Qazlal, Porteur de tempêtes, est un dieu violent des tempêtes, qui se plaît à déchaîner les forces de la nature contre les imprudents. Ceux qui attirent le regard de Qazlal se retrouveront dans l’œil d’une tempête de destruction élémentaire, dont seul leur Dieu peut les protéger. Les fidèles pieux de Qazlal gagneront la capacité de diriger et de contrôler la force destructrice de la tempête.
@@ -413,16 +413,16 @@ EN: Terminal colours: 8 foreground, 8 background The webtiles client will displa
 FR: Couleurs du terminal : 8 en premier plan, 8 en arrière-plan. Le client webtiles affichera 16 couleurs. Palette de premier plan :
 
 EN: The Abyss consists of seven infinite levels. The abyssal rune of Zot can be found from the third level onwards, and is more common at greater depths. Portals back to the dungeon are scattered throughout the Abyss, and are found more commonly at greater depths or while carrying the abyssal rune.
-FR: L’Abysse se compose de sept niveaux infinis. La rune abyssale de Zot se trouve à partir du troisième niveau et devient plus courante en profondeur. Des portails de retour vers le donjon sont dispersés dans l’Abysse, et se trouvent plus souvent en profondeur ou en portant la rune abyssale.
+FR: L’Abyss se compose de sept niveaux infinis. La rune abyssale de Zot se trouve à partir du troisième niveau et devient plus courante en profondeur. Des portails de retour vers le donjon sont dispersés dans l’Abyss, et se trouvent plus souvent en profondeur ou en portant la rune abyssale.
 
 EN: The Abyss is a truly bizarre place, ever-changing and twisted. It is filled with all sorts of monsters, mostly of demonic nature, whose common aim is to feast on intruders. It is also the garbage dump for many sorcerers, who delight in sending would-be champions like you to these proving grounds of madness. Reportedly, there is some structure to the chaos, as Lugonu seems to concoct schemes around this place and its denizens.
-FR: L’Abysse est un endroit vraiment étrange, changeant et tordu. Il est rempli de monstres de toutes sortes, surtout démoniaques, dont le but commun est de festoyer aux dépens des intrus. C’est aussi la décharge de nombreux sorciers, qui se plaisent à envoyer des aspirants champions comme vous dans ces terrains d’épreuve de la folie. On dit qu’il y a une certaine structure dans le chaos, car Lugonu semble ourdir des plans autour de ce lieu et de ses habitants.
+FR: L’Abyss est un endroit vraiment étrange, changeant et tordu. Il est rempli de monstres de toutes sortes, surtout démoniaques, dont le but commun est de festoyer aux dépens des intrus. C’est aussi la décharge de nombreux sorciers, qui se plaisent à envoyer des aspirants champions comme vous dans ces terrains d’épreuve de la folie. On dit qu’il y a une certaine structure dans le chaos, car Lugonu semble ourdir des plans autour de ce lieu et de ses habitants.
 
 EN: The Crucible of Flesh is an infernal pit where Makhleb's most devoted and detested alike are made to sanctify themselves in blood. No sane mortal would ever choose to come here, and yet even victims of the Destroyer's greatest ire may be granted passage out once more, should they mete out mutilation equal to the demonic torturers of this realm.
 FR: Le Creuset de Chair est une fosse infernale où les plus dévoués comme les plus détestés de Makhleb sont contraints de se sanctifier dans le sang. Aucun mortel sain d’esprit ne choisirait jamais de venir ici, et pourtant même les victimes de la plus grande colère du Destructeur peuvent se voir accorder un passage vers la sortie, à condition d’infliger des mutilations égales à celles des bourreaux démoniaques de ce royaume.
 
 EN: The Crypt is a huge repository for the ancient dead. The air is chill and fetid, the walls cold and damp. Bones are strewn liberally everywhere, and every noise echoes worryingly, violating the overbearing silence of the grave.
-FR: La Crypte est un immense réceptacle pour les anciens morts. L’air est froid et fétide, les murs froids et humides. Des ossements sont éparpillés partout, et chaque bruit résonne de manière inquiétante, violant le silence écrasant de la tombe.
+FR: La Crypt est un immense réceptacle pour les anciens morts. L’air est froid et fétide, les murs froids et humides. Des ossements sont éparpillés partout, et chaque bruit résonne de manière inquiétante, violant le silence écrasant de la tombe.
 
 EN: The Desolation was once ruled by the divines Sheza and Sargol. After the dread twins were cast down, the good gods reduced their former realm to salt, that such a terrible cult would never rise again. Amidst the ruins, only the last cultists of the dead gods, their heretical constructs, and the guardians of the cult's legendary treasure yet remain.
 FR: La Desolation était autrefois gouvernée par les divins Sheza et Sargol. Après la chute des terribles jumeaux, les dieux bons ont réduit leur ancien royaume en sel, afin qu’un si terrible culte ne puisse jamais renaître. Au milieu des ruines ne subsistent que les derniers cultistes des dieux morts, leurs constructions hérétiques et les gardiens du légendaire trésor du culte.
@@ -434,10 +434,10 @@ EN: The Invocations skill also affects your magical reserves, but to a lesser de
 FR: La compétence Invocations influe aussi sur vos réserves magiques, mais dans une moindre mesure que la compétence Magie. Seule la contribution la plus élevée est prise en compte.
 
 EN: The Iron City of Dis is home to many of the most resilient guardians of hell. Those who do not belong in the halls of Dis will find the very earth itself opposing them.
-FR: La Cité de Fer de Dis abrite nombre des gardiens les plus résistants de l’enfer. Ceux qui n’ont pas leur place dans les salles de Dis verront la terre elle-même s’opposer à eux.
+FR: La Iron City of Dis abrite nombre des gardiens les plus résistants de l’enfer. Ceux qui n’ont pas leur place dans les salles de Dis verront la terre elle-même s’opposer à eux.
 
 EN: The Orcish Mines are home to the orcs that have settled in the Dungeon, their humanoid allies, and piles of freshly mined gold. Enterprising merchants who sell to all comers have set up trading posts among the orcs and their brethren to make good use of that gold.
-FR: Les Mines Orques abritent les orcs installés dans le Donjon, leurs alliés humanoïdes et des tas d’or fraîchement extrait. Des marchands entreprenants qui vendent à tous les clients ont installé des comptoirs parmi les orcs et leurs frères pour tirer profit de cet or.
+FR: Les Orcish Mines abritent les orcs installés dans le Dungeon, leurs alliés humanoïdes et des tas d’or fraîchement extrait. Des marchands entreprenants qui vendent à tous les clients ont installé des comptoirs parmi les orcs et leurs frères pour tirer profit de cet or.
 
 EN: The Shining One forgives followers for abandonment; however, those who later take up the worship of an evil god will be punished. (Kikubaaqudgha, Yredelemnul, Makhleb, Lugonu and Beogh are evil gods.)
 FR: L’Étincelant pardonne à ses disciples de l’avoir abandonné ; cependant, ceux qui vénèrent ensuite un dieu maléfique seront punis. (Kikubaaqudgha, Yredelemnul, Makhleb, Lugonu et Beogh sont des dieux maléfiques.)
@@ -446,16 +446,16 @@ EN: The Shining One's wrath is straightforward and unmistakable. Its victims fin
 FR: La colère de L’Étincelant est directe et sans équivoque. Ses victimes se retrouvent frappées par le feu sacré et assaillies de guerriers saints. Les pécheurs seront réduits au silence, et L’Étincelant criera aussi pour alerter les ennemis de la victime.
 
 EN: The Slime Pits are the amorphous realm of acids, jellies and slimes. Even the walls drip with painful acid. Any trace of intelligent beings has long been dissolved. Still, there are rumours of great treasures deep down, hidden safely away in secret chambers without any entrance.
-FR: Les Fosses de gélatine sont le royaume amorphe des acides, des gelées et des vases. Même les murs dégoulinent d’acide douloureux. Toute trace d’êtres intelligents a depuis longtemps été dissoute. On murmure pourtant qu’au fond reposent de grands trésors, cachés en sécurité dans des chambres secrètes sans aucune entrée.
+FR: Les Slime Pits sont le royaume amorphe des acides, des gelées et des vases. Même les murs dégoulinent d’acide douloureux. Toute trace d’êtres intelligents a depuis longtemps été dissoute. On murmure pourtant qu’au fond reposent de grands trésors, cachés en sécurité dans des chambres secrètes sans aucune entrée.
 
 EN: The Tomb of the Ancients is a place of damnation, of horrors animated by the vilest necromancy. The list of those who have returned from this place of pure death is exceedingly short.
-FR: La Tombe des Anciens est un lieu de damnation, d’horreurs animées par la plus vile nécromancie. La liste de ceux qui sont revenus de ce lieu de mort pure est extrêmement courte.
+FR: La Tomb of the Ancients est un lieu de damnation, d’horreurs animées par la plus vile nécromancie. La liste de ceux qui sont revenus de ce lieu de mort pure est extrêmement courte.
 
 EN: The Vaults are said to be home to great treasures and sealed evils alike, its origin known only to its guardians: the Ironbound Order. Intruders face an organised defence of trained maneuvers, arms and arcana, animated constructs, coerced allies, and tamed beasts, all in common cause.
-FR: On dit que les Chambres Fortes abritent à la fois de grands trésors et des maux scellés, leur origine n’étant connue que de leurs gardiens : l’Ordre des Liés de Fer. Les intrus affrontent une défense organisée de manœuvres entraînées, d’armes et d’arcanes, de créations animées, d’alliés contraints et de bêtes domptées, tous unis dans une cause commune.
+FR: On dit que les Vaults abritent à la fois de grands trésors et des maux scellés, leur origine n’étant connue que de leurs gardiens : l’Ordre des Liés de Fer. Les intrus affrontent une défense organisée de manœuvres entraînées, d’armes et d’arcanes, de créations animées, d’alliés contraints et de bêtes domptées, tous unis dans une cause commune.
 
 EN: The Vestibule of Hell is guarded by Geryon, along with various denizens of each of the hells themselves.
-FR: Le Vestibule de l’Enfer est gardé par Géryon, ainsi que par divers habitants de chacun des enfers.
+FR: Le Vestibule of Hell est gardé par Géryon, ainsi que par divers habitants de chacun des enfers.
 
 EN: The Wu Jian Council is a congregation of martial monks, ascended to divinity after battling their way out of the afterlife. Disciples of the Council are able to execute acrobatic martial maneuvers, such as wall jumps, spinning attacks and punishing lunges. They will eventually become able to request help in the form of a storm of heavenly clouds.
 FR: Le Conseil Wu Jian est une congrégation de moines guerriers, élevés à la divinité après avoir combattu pour sortir de l’au-delà. Les disciples du Conseil sont capables d’exécuter des manœuvres martiales acrobatiques, comme des sauts muraux, des attaques tournoyantes et des fentes punitives. Ils finissent par pouvoir demander de l’aide sous la forme d’une tempête de nuages célestes.
@@ -464,19 +464,19 @@ EN: The cloud will be displaced to a nearby tile if any other entity steps into 
 FR: Le nuage sera déplacé vers une case proche si une autre entité y entre, ou s’il n’y a aucune cible valide à portée quand vous y entrez.
 
 EN: The corridors of the Snake Pit are home to all varieties of serpent, and are inhabited by a society of powerful nagas and salamanders.
-FR: Les couloirs de la Fosse aux serpents abritent toutes sortes de serpents et sont habités par une société de puissants nagas et de salamandres.
+FR: Les couloirs de la Snake Pit abritent toutes sortes de serpents et sont habités par une société de puissants nagas et de salamandres.
 
 EN: The crumbling, web-choked caverns of the Spider Nest are packed with poisonous arthropods and assorted creepy-crawlies.
-FR: Les cavernes en ruine envahies de toiles du Nid des Araignées regorgent d’arthropodes venimeux et de bestioles rampantes en tout genre.
+FR: Les cavernes en ruine envahies de toiles du Spider Nest regorgent d’arthropodes venimeux et de bestioles rampantes en tout genre.
 
 EN: The delay in swinging a weapon can be reduced by the corresponding weapon skill. You can view your delay and damage rating with a weapon by reading its description or pressing '@' while the weapon is equipped. '@' works while unarmed too.
 FR: Le délai pour manier une arme peut être réduit par la compétence d’arme correspondante. Vous pouvez voir votre délai et vos dégâts avec une arme en lisant sa description ou en appuyant sur « @ » quand l’arme est équipée. « @ » fonctionne aussi à mains nues.
 
 EN: The exotic underground beaches of the Shoals make up a few small islands in a seemingly endless sea. The merfolk have made it their home, alongside many dreaded sea creatures.
-FR: Les plages souterraines exotiques des Hauts-fonds forment quelques petites îles dans une mer qui semble sans fin. Les sirènes en ont fait leur foyer, aux côtés de nombreuses créatures marines redoutées.
+FR: Les plages souterraines exotiques des Shoals forment quelques petites îles dans une mer qui semble sans fin. Les sirènes en ont fait leur foyer, aux côtés de nombreuses créatures marines redoutées.
 
 EN: The fabric of the Abyss takes greater notice of the powerful; no matter how they arrive, more experienced adventurers will find themselves drawn deeper within the maddening expanse of that realm.
-FR: La trame de l’Abysse remarque davantage les puissants ; quelle que soit la façon dont ils arrivent, les aventuriers plus expérimentés se verront attirés plus profondément dans l’étendue démente de ce royaume.
+FR: La trame de l’Abyss remarque davantage les puissants ; quelle que soit la façon dont ils arrivent, les aventuriers plus expérimentés se verront attirés plus profondément dans l’étendue démente de ce royaume.
 
 EN: The faintest hint of foul pestilence, seeping out from somewhere. While not dense enough to be harmful yet, it is thickening rapidly.
 FR: À peine un soupçon de pestilence répugnante, qui suinte de quelque part. Pas encore assez dense pour être nocif, il s’épaissit rapidement.
@@ -488,7 +488,7 @@ EN: The ice cave is a desolate cavern shaped from solid ice and filled with the 
 FR: L’ice cave est une caverne désolée taillée dans la glace solide et emplie des échos de hurlements bestiaux. Les sculptures et les statues complexes qui ornaient jadis ses murs ont été déformées et estompées par des siècles de lente fonte et de regel.
 
 EN: The remnant of some creature that was recently here but is no longer, banished nearby, across the level, or out of reality itself, all the way into the Abyss. Some wizards say these are a kind of "allergic reaction" the universe produces, in response to magic that warps space in impossible ways; a cosmic sneeze. Perhaps metaphysically gross, but otherwise harmless.
-FR: Le vestige d’une créature qui était là récemment mais n’y est plus, bannie à proximité, à l’autre bout du niveau, ou hors de la réalité elle-même, jusque dans l’Abysse. Certains magiciens disent que c’est une sorte de « réaction allergique » de l’univers à une magie qui déforme l’espace de façon impossible ; un éternuement cosmique. Peut-être métaphysiquement dégoûtant, mais sinon inoffensif.
+FR: Le vestige d’une créature qui était là récemment mais n’y est plus, bannie à proximité, à l’autre bout du niveau, ou hors de la réalité elle-même, jusque dans l’Abyss. Certains magiciens disent que c’est une sorte de « réaction allergique » de l’univers à une magie qui déforme l’espace de façon impossible ; un éternuement cosmique. Peut-être métaphysiquement dégoûtant, mais sinon inoffensif.
 
 EN: The tomb is sustained by the presence of its creator within it, and moving from the centre of the tomb will cause its walls to crumble away.
 FR: Le tombeau est maintenu par la présence de son créateur à l’intérieur, et s’éloigner du centre du tombeau fera s’effondrer ses murs.
@@ -563,7 +563,7 @@ EN: Whenever you encounter an altar, be sure to read the corresponding god's des
 FR: Chaque fois que vous rencontrez un autel, lisez la description du dieu correspondant (en priant sur l’autel avec « > ») et prenez le temps de décider si vous voulez choisir cette divinité. En tant que disciple, vous pouvez relire la description de votre dieu, désormais plus détaillée via la touche « ! », sur l’écran « ^ ».
 
 EN: While many locales across the Dungeon are dedicated to the long-interred restless dead, those whose remains are fresh or lost are collected in the floating ceremonial chambers of the Necropolis. Each soul is enshrined and tended to by the maintenance staff recreating both their lives and their moments of death, helping visitors bid farewell to the departed. With the advent of adventurers seeking the Orb of Zot, these realms have been repurposed: such ghosts are blinded by rage and impossible to control, so both they and their stolen possessions are sealed away in these realms of reconciliation.
-FR: Si de nombreux lieux du Donjon sont consacrés aux morts agités enterrés depuis longtemps, ceux dont les restes sont récents ou perdus sont rassemblés dans les salles cérémonielles flottantes de la Necropolis. Chaque âme y est honorée et entretenue par le personnel, qui recrée à la fois leur vie et leurs derniers instants, pour aider les visiteurs à dire adieu aux défunts. Avec l’arrivée des aventuriers en quête de l’Orbe de Zot, ces royaumes ont changé d’usage : ces fantômes sont aveuglés par la rage et impossibles à contrôler, si bien qu’eux et leurs possessions volées sont enfermés dans ces royaumes de réconciliation.
+FR: Si de nombreux lieux du Dungeon sont consacrés aux morts agités enterrés depuis longtemps, ceux dont les restes sont récents ou perdus sont rassemblés dans les salles cérémonielles flottantes de la Necropolis. Chaque âme y est honorée et entretenue par le personnel, qui recrée à la fois leur vie et leurs derniers instants, pour aider les visiteurs à dire adieu aux défunts. Avec l’arrivée des aventuriers en quête de l’Orbe de Zot, ces royaumes ont changé d’usage : ces fantômes sont aveuglés par la rage et impossibles à contrôler, si bien qu’eux et leurs possessions volées sont enfermés dans ces royaumes de réconciliation.
 
 EN: With your current stats and equipment, training 1 level of this skill would increase your AC by 0.1 and your EV by 0.0.
 FR: Avec vos caractéristiques et votre équipement actuels, entraîner cette compétence d’un niveau augmenterait votre AC de 0,1 et votre EV de 0,0.

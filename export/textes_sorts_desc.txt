@@ -47,7 +47,7 @@ EN: Causes vines to grow from the ground. The vines will reach out and grab inte
 FR: Fait pousser des lianes du sol. Les lianes s’étendent pour saisir les intrus et les traîner vers les arbres proches.
 
 EN: Banishes a creature into the Abyss.
-FR: Bannit une créature dans l’Abysse.
+FR: Bannit une créature dans l’Abyss.
 
 EN: Inspires nearby allies of the caster to fight more aggressively, increasing the strength of their blows.
 FR: Inspire les alliés proches du lanceur à combattre plus agressivement, augmentant la force de leurs coups.
@@ -128,7 +128,7 @@ EN: Blasts a targeted enemy with lightning, with no direct line of fire required
 FR: Frappe un ennemi ciblé de foudre, sans besoin de ligne de tir directe. La magie de ciblage a besoin de distance pour fonctionner : les ennemis adjacents ou presque adjacents ne peuvent donc pas être touchés.
 
 EN: Calls forth a minor demon from the pits of Hell, equipped with a spear with which to jab at the caster's enemies. The quality of the imp's weaponry rises with spell power.
-FR: Fait surgir des profondeurs de l’Enfer un démon mineur, armé d’une lance pour harceler les ennemis du lanceur. La qualité de son armement augmente avec la puissance du sort.
+FR: Fait surgir des profondeurs du Hell un démon mineur, armé d’une lance pour harceler les ennemis du lanceur. La qualité de son armement augmente avec la puissance du sort.
 
 EN: Summons some necromantic spectres. These lost souls can enter the bodies of more powerful undead to bring them back from brink of demise, or turn dying living creatures into ghostly versions of themselves.
 FR: Convoque des spectres nécromantiques. Ces âmes perdues peuvent entrer dans le corps de morts-vivants plus puissants pour les ramener du bord de la destruction, ou transformer des créatures vivantes mourantes en versions fantomatiques d’elles-mêmes.
@@ -188,7 +188,7 @@ EN: Fires a penetrating bolt of highly-corrosive acid.
 FR: Tire un rayon perforant d’acide très corrosif.
 
 EN: Unleashes Abyssal energies in the immediate vicinity. This changes the appearance of the affected area and temporarily summons creatures from the Abyss. This cannot be used in the Abyss itself.
-FR: Libère des énergies abyssales dans les environs immédiats. Cela modifie l’apparence de la zone affectée et convoque temporairement des créatures de l’Abysse. Impossible à utiliser dans l’Abysse lui-même.
+FR: Libère des énergies abyssales dans les environs immédiats. Cela modifie l’apparence de la zone affectée et convoque temporairement des créatures de l’Abyss. Impossible à utiliser dans l’Abyss lui-même.
 
 EN: Instills a corruption within all visible targets, temporarily mutating their bodies in an adverse fashion. It cannot affect artificial beings, and the undead will decompose if affected.
 FR: Instille une corruption dans toutes les cibles visibles, mutant temporairement leur corps de manière néfaste. Elle ne peut affecter les êtres artificiels, et les morts-vivants se décomposent s’ils sont touchés.
@@ -338,7 +338,7 @@ EN: Calls forth winds to increase the caster's movement speed for a short durati
 FR: Appelle des vents qui augmentent la vitesse de déplacement du lanceur pendant une courte durée.
 
 EN: Summons some creatures from one of the Snake Pit, the Spider Nest, the Swamp, the Shoals, the Elven Halls, the Vaults, or the Crypt; the specific branch varies with the caster.
-FR: Convoque des créatures de la Fosse aux serpents, du Nid d’araignées, du Marais, des Hauts-fonds, des Salles elfiques, des Caveaux ou de la Crypte ; la branche précise varie selon le lanceur.
+FR: Convoque des créatures de la Snake Pit, du Spider Nest, du Swamp, des Shoals, des Elven Halls, des Vaults ou de la Crypt ; la branche précise varie selon le lanceur.
 
 EN: Constructs a shell of slag iron around a volatile elemental spark. It is capable of raining down powerful blows on its creator's adversaries - so powerful that the golem itself is often damaged by their impact.
 FR: Construit une coque de scories de fer autour d’une étincelle élémentaire instable. Il est capable d’abattre de puissants coups sur les adversaires de son créateur, si puissants que le golem lui-même est souvent endommagé par l’impact.
@@ -722,7 +722,7 @@ EN: After a considerable amount of time has passed, these monsters may even appe
 FR: Après un temps considérable, ces monstres peuvent même apparaître près du joueur.
 
 EN: Summons some of the greater threats from one of the Pits of Slime, the Elven Halls, the Vaults, the Crypt, the Tomb of Ancients, or the Realm of Zot; the specific branch varies with each cast of the spell.
-FR: Convoque certaines des plus grandes menaces des Fosses de vase, des Salles elfiques, des Caveaux, de la Crypte, du Tombeau des Anciens ou du Royaume de Zot ; la branche précise varie à chaque lancer du sort.
+FR: Convoque certaines des plus grandes menaces des Fosses de vase, des Elven Halls, des Vaults, de la Crypt, de la Tomb of the Ancients ou du Realm of Zot ; la branche précise varie à chaque lancer du sort.
 
 EN: Fires a penetrating beam of plasma at one of the caster's most distant visible foes. The ionised beam bypasses half of defenders' armour, and a second beam of fire follows in its wake.
 FR: Tire un rayon perforant de plasma sur l’un des ennemis visibles les plus éloignés du lanceur. Le rayon ionisé ignore la moitié de l’armure des défenseurs, et un second rayon de feu suit dans son sillage.
@@ -1004,7 +1004,7 @@ EN: Summons a warrior from a particularly prickly tribe. Foes that strike these 
 FR: Convoque un guerrier d’une tribu particulièrement hérissée. Les ennemis qui frappent ces géants au corps à corps vont avoir une douloureuse surprise ! Lancé à plus haute puissance, des guerriers plus âgés et plus robustes répondent à l’appel.
 
 EN: Opens a gate to the realm of Pandemonium and draws forth one of its inhabitants to serve the caster for a time.
-FR: Ouvre une porte vers le royaume du Pandémonium et en tire un habitant pour servir le lanceur pendant un temps.
+FR: Ouvre une porte vers le royaume du Pandemonium et en tire un habitant pour servir le lanceur pendant un temps.
 
 EN: Summons and binds a powerful dragon to perform the caster's bidding. At high power it may summon particularly deadly varieties of dragon, or multiple lesser dragons at once.
 FR: Convoque et lie un puissant dragon pour exécuter les ordres du lanceur. À haute puissance, il peut convoquer des variétés de dragons particulièrement mortelles, ou plusieurs dragons inférieurs à la fois.
@@ -1025,7 +1025,7 @@ EN: Forcefully intersects a forested plane with this world. It requires open spa
 FR: Fait se croiser de force un plan forestier avec ce monde. Il faut de l’espace libre pour réussir. Tant que le sort tient, un esprit de la forêt est appelé et les arbres de la forêt s’éveillent pour blesser les ennemis proches. La puissance du sort augmente la durée, la taille et l’épaisseur du plan croisé, ainsi que la force de l’esprit.
 
 EN: Calls forth one of the greater demons of Pandemonium to serve the caster.
-FR: Fait venir l’un des grands démons du Pandémonium pour servir le lanceur.
+FR: Fait venir l’un des grands démons du Pandemonium pour servir le lanceur.
 
 EN: Summons a deadly sin beast.
 FR: Convoque une redoutable bête du péché.
@@ -1043,7 +1043,7 @@ EN: Summons a violet-scaled serpent whose bite can swiftly drain the magical res
 FR: Convoque un serpent aux écailles violettes dont la morsure peut vider rapidement les réserves magiques de presque n’importe quel ennemi. À plus haute puissance, les propriétés antimagiques de la morsure de la vipère deviennent encore plus fortes.
 
 EN: Calls forth one of the mightiest and fastest mortal champions of the Shining One. In this Dungeon, spriggan defenders and deep elf blademasters will answer the call.
-FR: Fait venir l’un des plus puissants et rapides champions mortels de l’Être Radieux. Dans ce Donjon, des défenseurs spriggans et des maîtres de lame elfes profonds répondront à l’appel.
+FR: Fait venir l’un des plus puissants et rapides champions mortels de l’Être Radieux. Dans ce Dungeon, des défenseurs spriggans et des maîtres de lame elfes profonds répondront à l’appel.
 
 EN: Summons wandering mushrooms and deathcaps next to a targeted creature.
 FR: Convoque des champignons errants et des amanites près d’une créature ciblée.

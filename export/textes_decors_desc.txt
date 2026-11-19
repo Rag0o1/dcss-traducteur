@@ -41,7 +41,7 @@ EN: A wall that radiates a chill so intense it can damage enemies which stand ne
 FR: Un mur qui irradie un froid si intense qu’il peut blesser les ennemis qui se tiennent à côté.
 
 EN: A staircase leading up from the grand vaults containing the silver rune of Zot, whose wealth attracts the most powerful champions from across the Dungeon to its defence.
-FR: Un escalier montant depuis les grands caveaux contenant la rune d’argent de Zot, dont la richesse attire pour sa défense les plus puissants champions de tout le Donjon.
+FR: Un escalier montant depuis les grands caveaux contenant la rune d’argent de Zot, dont la richesse attire pour sa défense les plus puissants champions de tout le Dungeon.
 
 EN: This tree is specially adapted for growing in swampy conditions. Its vines are too thick to see through.
 FR: Cet arbre est spécialement adapté pour pousser dans des conditions marécageuses. Ses lianes sont trop épaisses pour voir à travers.
@@ -80,13 +80,13 @@ EN: A raised pedestal upon which rests the fabled Orb of Zot. More ancient than 
 FR: Un piédestal surélevé sur lequel repose le fabuleux Orbe de Zot. Plus ancien même que le donjon, il ne peut être détruit ni transformé par aucun moyen.
 
 EN: A statue of a terrifying globe of raw primordial fire, said to dwell within the Realm of Zot.
-FR: Une statue d’un terrifiant globe de feu primordial brut, dit résider dans le Royaume de Zot.
+FR: Une statue d’un terrifiant globe de feu primordial brut, dit résider dans le Realm of Zot.
 
 EN: A statue of a terrifying globe of uttermost cold, said to dwell within the Realm of Zot.
-FR: Une statue d’un terrifiant globe de froid absolu, dit résider dans le Royaume de Zot.
+FR: Une statue d’un terrifiant globe de froid absolu, dit résider dans le Realm of Zot.
 
 EN: A statue of a terrifying globe of profound nothingness, said to dwell within the Realm of Zot.
-FR: Une statue d’un terrifiant globe de néant profond, dit résider dans le Royaume de Zot.
+FR: Une statue d’un terrifiant globe de néant profond, dit résider dans le Realm of Zot.
 
 EN: A dense carpet of colourful mould, rustling with fecundity. The towering fungi which sprout from it can grow back in the blink of an eye, no matter how many times they are cut down.
 FR: Un dense tapis de moisissure colorée, bruissant de fécondité. Les champignons imposants qui en sortent peuvent repousser en un clin d’œil, peu importe combien de fois on les coupe.
@@ -110,7 +110,7 @@ EN: An exposed ley line of air magic. It can be tapped into by stepping on it, b
 FR: Une ligne tellurique exposée de magie de l’air. On peut s’y brancher en marchant dessus, frappant les 4 ennemis les plus éloignés d’un vent tranchant.
 
 EN: A gateway leading back to the Vestibule of Hell.
-FR: Un portail ramenant au Vestibule de l’Enfer.
+FR: Un portail ramenant au Vestibule of Hell.
 
 EN: A one-way portal to another place on this level. When using a transporter, adjacent allies and monsters will travel with you to the other side.
 FR: Un portail à sens unique vers un autre endroit de ce niveau. En utilisant un transporteur, les alliés et monstres adjacents voyagent avec vous de l’autre côté.
@@ -164,7 +164,7 @@ EN: A portal leading to one of many Necropolis repositories, where the freshly s
 FR: Un portail menant à l’un des nombreux dépôts de la Necropolis, où les fraîchement tués et profondément rancuniers sont scellés. Cette brèche errante finira par se déplacer ailleurs pour recevoir d’autres morts.
 
 EN: A portal leading to a glacial chasm, far more dangerous than the icy caverns found in the shallower reaches of the Dungeon. The archway is gradually melting away.
-FR: Un portail menant à un gouffre glaciaire, bien plus dangereux que les cavernes glacées des niveaux moins profonds du Donjon. L’arche fond peu à peu.
+FR: Un portail menant à un gouffre glaciaire, bien plus dangereux que les cavernes glacées des niveaux moins profonds du Dungeon. L’arche fond peu à peu.
 
 EN: A portal leading to a treasure trove. This portal is unstable and will collapse after a single use.
 FR: Un portail menant au Trove. Ce portail est instable et s’effondrera après un seul usage.
@@ -251,7 +251,7 @@ EN: A murky flag of dark conquest shimmering with vile energies, planted in the 
 FR: Un sombre étendard flottant de conquête ténébreuse, miroitant d’énergies viles, planté au nom de quelque grande croisade de dévastation.
 
 EN: Bones are a common sight in the Dungeon, but skulls left impaled in a shrike's manner on display send a more deliberate message to trespassers: the pike has room for one more skull, and whoever set it up is happy to help relieve its owner of theirs.
-FR: Les os sont un spectacle courant dans le Donjon, mais des crânes empalés exposés à la manière d’une pie-grièche envoient un message plus délibéré aux intrus : la pique a de la place pour un crâne de plus, et celui qui l’a dressée se fera un plaisir de soulager quelqu’un du sien.
+FR: Les os sont un spectacle courant dans le Dungeon, mais des crânes empalés exposés à la manière d’une pie-grièche envoient un message plus délibéré aux intrus : la pique a de la place pour un crâne de plus, et celui qui l’a dressée se fera un plaisir de soulager quelqu’un du sien.
 
 EN: A scattered mess of fragmented, crumbling garbage, caked in ashes and dirt.
 FR: Un fouillis épars de détritus fragmentés et en miettes, couverts de cendres et de saleté.

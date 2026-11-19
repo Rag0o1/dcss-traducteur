@@ -65,7 +65,7 @@
         "Executioner": { name: "bourreau", gender: "m", article: "le " },
         "hell sentinel": { name: "sentinelle de l’Enfer", gender: "f", article: "la " },
         "tzitzimitl": { name: "tzitzimitl", gender: "m", article: "le " },
-        "herald of the abyss": { name: "héraut de l’Abysse", gender: "m", article: "le " },
+        "herald of the abyss": { name: "héraut de l’Abyss", gender: "m", article: "le " },
         "black draconian": { name: "draconien noir", gender: "m", article: "le " },
         "black mamba": { name: "mamba noir", gender: "m", article: "le " },
         "blazeheart core": { name: "cœur de braise", gender: "m", article: "le " },
@@ -262,7 +262,7 @@
         "hellfire mortar": { name: "mortier de feu infernal", gender: "m", article: "le " },
         "hellion": { name: "infernal", gender: "m", article: "l’" },
         "hellwing": { name: "aile infernale", gender: "f", article: "l’" },
-        "herald of the Abyss": { name: "héraut de l’Abysse", gender: "m", article: "le " },
+        "herald of the Abyss": { name: "héraut de l’Abyss", gender: "m", article: "le " },
         "hexer": { name: "jeteur de maléfices", gender: "m", article: "le " },
         "hippogriff": { name: "hippogriffe", gender: "m", article: "l’" },
         "hoarfrost cannon": { name: "canon de givre", gender: "m", article: "le " },
@@ -385,7 +385,7 @@
         "orc warrior": { name: "guerrier orc", gender: "m", article: "le " },
         "orc wizard": { name: "magicien orc", gender: "m", article: "le " },
         "pale draconian": { name: "draconien pâle", gender: "m", article: "le " },
-        "pandemonium lord": { name: "seigneur du Pandémonium", gender: "m", article: "le " },
+        "pandemonium lord": { name: "seigneur du Pandemonium", gender: "m", article: "le " },
         "peacekeeper": { name: "pacificateur", gender: "m", article: "le " },
         "pearl dragon": { name: "dragon nacré", gender: "m", article: "le " },
         "petrified flower": { name: "fleur pétrifiée", gender: "f", article: "la " },
@@ -822,7 +822,7 @@
         "you kill demons": "tuiez des démons",
         "you kill holy beings": "tuiez des êtres sacrés",
         "you destroy nonliving beings": "détruisiez des êtres inanimés",
-        "you banish creatures to the Abyss": "bannissiez des créatures dans l’Abysse",
+        "you banish creatures to the Abyss": "bannissiez des créatures dans l’Abyss",
         "you kill the undead": "tuiez des morts-vivants",
         "you kill evil beings": "tuiez des êtres maléfiques",
         "you encounter other hostile creatures": "affrontiez d’autres créatures hostiles",
@@ -850,12 +850,12 @@
     };
 
     const LIEUX_DE = {
-        "Dungeon": "du Donjon", "Lair of Beasts": "de l’Antre des Bêtes", "Orcish Mines": "des Mines Orques",
-        "Elven Halls": "des Halls Elfiques", "Vaults": "des Chambres Fortes", "Depths": "des Profondeurs",
-        "Crypt": "de la Crypte", "Swamp": "du Marais", "Shoals": "des Hauts-fonds", "Snake Pit": "de la Fosse aux serpents",
-        "Spider Nest": "du Nid des Araignées", "Slime Pits": "des Fosses de gélatine",
-        "Tomb of the Ancients": "de la Tombe des Anciens", "Temple": "du Temple", "Abyss": "de l’Abysse",
-        "Pandemonium": "du Pandémonium", "Zot": "de Zot", "Realm of Zot": "du Royaume de Zot"
+        "Dungeon": "du Dungeon", "Lair of Beasts": "du Lair of Beasts", "Orcish Mines": "des Orcish Mines",
+        "Elven Halls": "des Elven Halls", "Vaults": "des Vaults", "Depths": "des Depths",
+        "Crypt": "de la Crypt", "Swamp": "du Swamp", "Shoals": "des Shoals", "Snake Pit": "de la Snake Pit",
+        "Spider Nest": "du Spider Nest", "Slime Pits": "des Slime Pits",
+        "Tomb of the Ancients": "de la Tomb of the Ancients", "Temple": "du Temple", "Abyss": "de l’Abyss",
+        "Pandemonium": "du Pandemonium", "Zot": "de Zot", "Realm of Zot": "du Realm of Zot"
     };
 
     globalThis.DCSS_VOCAB = {

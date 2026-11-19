@@ -131,7 +131,7 @@ EN: I'll make a rug of your skin.
 FR: Je ferai un tapis de ta peau.
 
 EN: Hell holds no secrets from me!
-FR: L’Enfer n’a aucun secret pour moi !
+FR: Le Hell n’a aucun secret pour moi !
 
 EN: You can't hurt me! Ice reforms...
 FR: Tu ne peux pas me blesser ! La glace se reforme...
@@ -197,7 +197,7 @@ EN: You'd look cute with a curly little tail.
 FR: Tu serais mignon avec une petite queue en tire-bouchon.
 
 EN: I guard Vaults good! You no get in!
-FR: Moi bien garder Caveaux ! Toi pas entrer !
+FR: Moi bien garder Vaults ! Toi pas entrer !
 
 EN: Work for me? I pay good.
 FR: Travailler pour moi ? Moi bien payer.
@@ -236,7 +236,7 @@ EN: Want to take a trip?
 FR: Envie d’un voyage ?
 
 EN: Even the Abyss couldn't kill me! What makes you think you can?
-FR: Même l’Abysse n’a pas pu me tuer ! Qu’est-ce qui te fait croire que tu le pourras ?
+FR: Même l’Abyss n’a pas pu me tuer ! Qu’est-ce qui te fait croire que tu le pourras ?
 
 EN: Powers from beyond reality are at my beck and call!
 FR: Des pouvoirs d’au-delà de la réalité sont à mes ordres !
@@ -266,7 +266,7 @@ EN: Fear not. I will immortalise you in the tale of my first kill.
 FR: N’aie crainte. Je t’immortaliserai dans le récit de mon premier meurtre.
 
 EN: If you die in the Dungeon, but nobody's around to see it, does it really matter?
-FR: Si tu meurs dans le Donjon, mais que personne n’est là pour le voir, est-ce que ça compte vraiment ?
+FR: Si tu meurs dans le Dungeon, mais que personne n’est là pour le voir, est-ce que ça compte vraiment ?
 
 EN: Did Master Lance send you?
 FR: Maître Lance t’a-t-il envoyé ?
@@ -632,7 +632,7 @@ EN: I'll see you on the other side, friend.
 FR: On se verra de l’autre côté, ami.
 
 EN: Hell isn't that bad.
-FR: L’Enfer n’est pas si terrible.
+FR: Le Hell n’est pas si terrible.
 
 EN: You'll make a fine lemure.
 FR: Tu feras un excellent lémure.
@@ -641,13 +641,13 @@ EN: You'll feel the lick of my whip!
 FR: Tu sentiras le claquement de mon fouet !
 
 EN: You'll rot in Tartarus!
-FR: Tu pourriras dans le Tartare !
+FR: Tu pourriras dans le Tartarus !
 
 EN: You'll burn in Gehenna!
-FR: Tu brûleras dans la Géhenne !
+FR: Tu brûleras dans la Gehenna !
 
 EN: You'll freeze in Cocytus!
-FR: Tu gèleras dans le Cocyte !
+FR: Tu gèleras dans le Cocytus !
 
 EN: You'll rust in Dis!
 FR: Tu rouilleras dans Dis !
@@ -665,13 +665,13 @@ EN: I'm sure they'll be treated well, anyway.
 FR: Je suis sûr qu’ils seront bien traités, de toute façon.
 
 EN: I'm sure the Orcish Mines are around here somewhere...
-FR: Je suis sûr que les Mines Orques sont quelque part par ici...
+FR: Je suis sûr que les Orcish Mines sont quelque part par ici...
 
 EN: I knew I should've brought a map.
 FR: Je savais que j’aurais dû prendre une carte.
 
 EN: All the lords of Hell know my name!
-FR: Tous les seigneurs de l’Enfer connaissent mon nom !
+FR: Tous les seigneurs du Hell connaissent mon nom !
 
 EN: All the demons know me. They respect me.
 FR: Tous les démons me connaissent. Ils me respectent.

@@ -617,7 +617,7 @@ EN: [_graffiti_mass_meeting_ordinary_] of a group of [crusaders|moralists] [disc
 FR: d’un groupe de [croisés|moralistes] [discutant du|s’opposant au] mal dans le monde
 
 EN: [_graffiti_mass_meeting_ordinary_] of a varied group of people discussing their experiences in the Abyss
-FR: d’un groupe varié de gens discutant de leurs expériences dans l’Abysse
+FR: d’un groupe varié de gens discutant de leurs expériences dans l’Abyss
 
 EN: [_graffiti_mass_meeting_religious_] of a [sharper club|group of Nemelex Xobeh worshippers] playing cards the way Nemelex Xobeh intended
 FR: d’un [club de tricheurs|groupe d’adorateurs de Nemelex Xobeh] jouant aux cartes comme Nemelex Xobeh l’entendait
@@ -686,7 +686,7 @@ EN: [_graffiti_mass_meeting_religious_] of a group of worshippers of the Shining
 FR: d’un groupe d’adorateurs du Shining One [discutant du|s’opposant au] mal dans le monde
 
 EN: [_graffiti_mass_meeting_religious_] of a group of [Lugonu worshippers|mad acolytes of Lugonu] discussing their experiences in the Abyss
-FR: d’un groupe d’[adorateurs de Lugonu|acolytes fous de Lugonu] discutant de leurs expériences dans l’Abysse
+FR: d’un groupe d’[adorateurs de Lugonu|acolytes fous de Lugonu] discutant de leurs expériences dans l’Abyss
 
 EN: [_graffiti_mass_meeting_religious_] of a group of orcs promoting Beogh's word
 FR: d’un groupe d’orcs faisant la promotion de la parole de Beogh
@@ -920,7 +920,7 @@ EN: [_graffiti_religion_not_non-orc_or_orc_] giving adulation to the Shining One
 FR: couvrant d’éloges le Shining One et expliquant qu’il est essentiel de purger honorablement le mal du monde
 
 EN: [_graffiti_religion_not_non-orc_or_orc_] flattering Lugonu and talking about how Lugonu and the forces of the Abyss will soon rule over all
-FR: flattant Lugonu et expliquant que Lugonu et les forces de l’Abysse régneront bientôt sur tout
+FR: flattant Lugonu et expliquant que Lugonu et les forces de l’Abyss régneront bientôt sur tout
 
 EN: [_graffiti_religion_not_non-orc_or_orc_] glorifying an unknown god
 FR: glorifiant un dieu inconnu
@@ -8351,7 +8351,7 @@ EN: [_evil_stuff_] Evil
 FR: {ms}Mal
 
 EN: [_evil_stuff_] Hell's Wrath
-FR: {fs}Colère de l’Enfer
+FR: {fs}Colère du Hell
 
 EN: [_evil_stuff_] Infection
 FR: {fs}Infection

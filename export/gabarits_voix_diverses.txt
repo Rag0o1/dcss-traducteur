@@ -20,7 +20,7 @@ EN: This should be good.
 FR: Ça devrait être bien.
 
 EN: Let me show you the power of Hell.
-FR: Laisse-moi te montrer le pouvoir de l’Enfer.
+FR: Laisse-moi te montrer le pouvoir du Hell.
 
 EN: Embrace the darkness.
 FR: Embrassez les ténèbres.
@@ -50,7 +50,7 @@ EN: Why bother with such petty cantrips?
 FR: Pourquoi s’embêter avec de si petits tours ?
 
 EN: A demon of Hell at your fingers, and you cast that...
-FR: Un démon de l’Enfer au bout des doigts, et tu lances ça...
+FR: Un démon du Hell au bout des doigts, et tu lances ça...
 
 EN: Now, try casting something FUN.
 FR: Essayez donc de lancer quelque chose d’AMUSANT.

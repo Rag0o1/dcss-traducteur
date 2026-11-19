@@ -190,7 +190,7 @@
         "The barbs in your skin will harm you if you move. Continue?": "Les pointes barbelées dans votre peau vous blesseront si vous bougez. Continuer ?",
         "You carefully extract the barbed spikes from your body.": "Vous extrayez avec précaution les pointes barbelées de votre corps.",
         "Clouds condense from the air!": "Des nuages se condensent dans l’air !",
-        "The Realm of Zot is guarded by orbs of entropy.": "Le Royaume de Zot est gardé par des orbes d’entropie.",
+        "The Realm of Zot is guarded by orbs of entropy.": "Le Realm of Zot est gardé par des orbes d’entropie.",
         "The air twists around and strikes you!": "L’air se tord autour de vous et vous frappe !",
         "The alarm trap emits a blaring wail!": "Le piège d’alarme émet un hurlement strident !",
         "The condenser dries out!": "Le condenseur se tarit !",
@@ -236,7 +236,7 @@
         "There is a gate leading back out of this place here.": "Il y a ici une porte menant hors de cet endroit.", "There is a huge open translucent gate here.": "Il y a ici un immense portail translucide ouvert.",
         "There is a mourning vase here.": "Il y a un vase de deuil ici.", "There is a transporter here.": "Il y a un transporteur ici.",
         "There is an empty arch of ancient stone here.": "Il y a ici une arche vide de pierre ancienne.", "There is an escape hatch in the floor here.": "Il y a une trappe de secours dans le sol ici.",
-        "Welcome back to the Dungeon!": "Bon retour dans le Donjon !",
+        "Welcome back to the Dungeon!": "Bon retour dans le Dungeon !",
         "You are a hypnotic gecko-hybrid.": "Vous êtes un hybride de gecko hypnotique.", "You are amphibious.": "Vous êtes amphibie.", "You are immune to blinding.": "Vous êtes immunisé contre l’aveuglement.",
         "You begin transforming.": "Vous commencez à vous transformer.", "You continue transforming.": "Vous continuez à vous transformer.", "Your transformation has ended.": "Votre transformation est terminée.",
         "You can access your shopping list by pressing '$'.": "Vous pouvez accéder à votre liste d’achats en appuyant sur « $ ».", "You can wear up to eight rings at the same time.": "Vous pouvez porter jusqu’à huit anneaux en même temps.",
@@ -292,7 +292,7 @@
         "Something shouts, \"Repent, thou erky dizzy-eyed bandersnitch!\"": "Quelque chose crie : « Repens-toi, misérable bandersnatch aux yeux vertigineux ! »",
         "The apparition of TCC the Sneak, a novice Vine Stalker Stalker of Uskayaw.": "L’apparition de TCC le Furtif, Rôdeur-des-vignes Rôdeur novice d’Uskayaw.",
         "The apparition of rago the Trooper, a novice Demonspawn Monk of Makhleb.": "L’apparition de rago le Soldat, Moine Rejeton-démon novice de Makhleb.",
-        "Rago's ghost shrieks, \"They lied to you. The Dungeon just goes down and down forever.\"": "Le fantôme de Rago hurle : « Ils t’ont menti. Le Donjon descend, descend, à jamais. »",
+        "Rago's ghost shrieks, \"They lied to you. The Dungeon just goes down and down forever.\"": "Le fantôme de Rago hurle : « Ils t’ont menti. Le Dungeon descend, descend, à jamais. »",
         "TCC's ghost whispers, \"The ORB doesn't exist.\"": "Le fantôme de TCC murmure : « L’ORBE n’existe pas. »",
         "Rago's ghost shrieks, \"They lied to you.": "Le fantôme de Rago hurle : « Ils t’ont menti.",
         "Rago's ghost.": "Le fantôme de Rago.", "TCC's ghost.": "Le fantôme de TCC.",
@@ -305,9 +305,9 @@
         "There are no items here.": "Il n’y a aucun objet ici.", "There's nothing to open nearby.": "Il n’y a rien à ouvrir à proximité.",
         "That would be overly suicidal.": "Ce serait beaucoup trop suicidaire.",
         "Done waiting.": "Attente terminée.", "You start resting.": "Vous commencez à vous reposer.", "You start waiting.": "Vous commencez à attendre.",
-        "Welcome back to the Lair of Beasts!": "Bon retour dans l’Antre des Bêtes !", "Welcome back to the Spider Nest!": "Bon retour dans le Nid d’Araignées !",
-        "Welcome to the Spider Nest!": "Bienvenue dans le Nid d’Araignées !",
-        "What level of the Spider Nest? (default 1, ? - help)": "Quel niveau du Nid d’Araignées ? (déf. 1, ? - aide)",
+        "Welcome back to the Lair of Beasts!": "Bon retour dans le Lair of Beasts !", "Welcome back to the Spider Nest!": "Bon retour dans le Spider Nest !",
+        "Welcome to the Spider Nest!": "Bienvenue dans le Spider Nest !",
+        "What level of the Spider Nest? (default 1, ? - help)": "Quel niveau du Spider Nest ? (déf. 1, ? - aide)",
         "You are a living statue of rough stone.": "Vous êtes une statue vivante de pierre brute.",
         "You are afflicted by dizzying energies!": "Vous êtes frappé par des énergies étourdissantes !",
         "You are confused.": "Vous êtes confus.", "You are covered in intense liquid fire! Move or burn!": "Vous êtes couvert de feu liquide intense ! Bougez ou brûlez !",
@@ -396,7 +396,7 @@
         const o = p.map(x => ligneObjet(x) || (tr(x) !== x ? tr(x) : null));
         return o.includes(null) ? null : `Repéré : ${o.join(" et ")}.`;
     });
-    const LIEUX = { "Lair": "l’Antre", "Shoals": "les Hauts-fonds", "Spider Nest": "le Nid d’Araignées", "Dungeon": "le Donjon", "Orcish Mines": "les Mines orques", "Swamp": "le Marais", "Snake Pit": "la Fosse aux serpents", "Vaults": "les Caveaux", "Crypt": "la Crypte", "Elven Halls": "les Halls elfiques" };
+    const LIEUX = { "Lair": "le Lair", "Shoals": "les Shoals", "Spider Nest": "le Spider Nest", "Dungeon": "le Dungeon", "Orcish Mines": "les Orcish Mines", "Swamp": "le Swamp", "Snake Pit": "la Snake Pit", "Vaults": "les Vaults", "Crypt": "la Crypt", "Elven Halls": "les Elven Halls" };
     R(/^There is (a|an) (stone staircase|staircase|hole|crawl-hole|escape hatch|portal) (back )?to the (.+?) here\.$/, m => {
         const l = LIEUX[m[4]]; if (!l) return null;
         const nom = { "stone staircase": "un escalier de pierre", staircase: "un escalier", hole: "un trou", "crawl-hole": "un boyau", "escape hatch": "une trappe de secours", portal: "un portail" }[m[2]];

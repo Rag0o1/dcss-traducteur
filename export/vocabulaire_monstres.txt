@@ -170,7 +170,7 @@ EN: tzitzimitl
 FR: tzitzimitl
 
 EN: herald of the abyss
-FR: héraut de l’Abysse
+FR: héraut de l’Abyss
 
 EN: black draconian
 FR: draconien noir
@@ -761,7 +761,7 @@ EN: hellwing
 FR: aile infernale
 
 EN: herald of the Abyss
-FR: héraut de l’Abysse
+FR: héraut de l’Abyss
 
 EN: hexer
 FR: jeteur de maléfices
@@ -1127,7 +1127,7 @@ EN: pale draconian
 FR: draconien pâle
 
 EN: pandemonium lord
-FR: seigneur du Pandémonium
+FR: seigneur du Pandemonium
 
 EN: peacekeeper
 FR: pacificateur

@@ -416,7 +416,7 @@ EN: Its appearance distorts for a moment.
 FR: Son apparence se déforme un instant.
 
 EN: Killing monsters will force the Abyss to allow you passage.
-FR: Tuer des monstres forcera l’Abysse à vous laisser le passage.
+FR: Tuer des monstres forcera l’Abyss à vous laisser le passage.
 
 EN: Known levels:
 FR: Étages connus :
@@ -674,7 +674,7 @@ EN: Tentacles burst from the starspawn's body!
 FR: Des tentacules jaillissent du corps de l’engeance stellaire !
 
 EN: Thank you for visiting Hell. Please come again soon.
-FR: Merci d’avoir visité l’Enfer. Revenez bientôt.
+FR: Merci d’avoir visité le Hell. Revenez bientôt.
 
 EN: That deck is empty!
 FR: Ce paquet est vide !
@@ -1331,7 +1331,7 @@ EN: You aren't haunting any armour at the moment!
 FR: Vous ne hantez aucune armure en ce moment !
 
 EN: You aren't in the Abyss!
-FR: Vous n’êtes pas dans l’Abysse !
+FR: Vous n’êtes pas dans l’Abyss !
 
 EN: You aren't wearing any armour!
 FR: Vous ne portez aucune armure !
@@ -1760,7 +1760,7 @@ EN: You enter an archmage's trap.
 FR: Vous entrez dans un piège d’archimage.
 
 EN: You enter the Abyss!
-FR: Vous entrez dans l’Abysse !
+FR: Vous entrez dans l’Abyss !
 
 EN: You enter the Zot trap.
 FR: Vous entrez dans le piège de Zot.
@@ -2255,7 +2255,7 @@ EN: You nearly hit yourself!
 FR: Vous avez failli vous frapper vous-même !
 
 EN: You need a rune to leave the Vaults.
-FR: Il vous faut une rune pour quitter les Caveaux.
+FR: Il vous faut une rune pour quitter les Vaults.
 
 EN: You need to be standing on open floor to call a merchant.
 FR: Vous devez vous tenir sur un sol dégagé pour appeler un marchand.
@@ -2276,7 +2276,7 @@ EN: You open the lid...
 FR: Vous ouvrez le couvercle...
 
 EN: You pass into a different region of Pandemonium.
-FR: Vous passez dans une autre région du Pandémonium.
+FR: Vous passez dans une autre région du Pandemonium.
 
 EN: You pass through the gate.
 FR: Vous franchissez la porte.
@@ -2321,7 +2321,7 @@ EN: You repel a surge of foreign magic.
 FR: Vous repoussez un afflux de magie étrangère.
 
 EN: You resist the pull of the Abyss.
-FR: Vous résistez à l’appel de l’Abysse.
+FR: Vous résistez à l’appel de l’Abyss.
 
 EN: You retract your mandibles.
 FR: Vous rétractez vos mandibules.
@@ -2534,7 +2534,7 @@ EN: You're too terrified to move while being watched!
 FR: Vous êtes trop terrifié pour bouger pendant qu’on vous observe !
 
 EN: You've emptied out Pandemonium! Nothing left here but demons.
-FR: Vous avez vidé le Pandémonium ! Il n’y reste que des démons.
+FR: Vous avez vidé le Pandemonium ! Il n’y reste que des démons.
 
 EN: Your aim is not that steady anymore.
 FR: Votre visée n’est plus aussi stable.
@@ -2789,7 +2789,7 @@ EN: Zot can harm you no longer.
 FR: Zot ne peut plus vous nuire.
 
 EN: Zot has no power in the Abyss.
-FR: Zot n’a aucun pouvoir dans l’Abysse.
+FR: Zot n’a aucun pouvoir dans l’Abyss.
 
 EN: Zot's attention fixes on you again. Descend or flee this branch!
 FR: L’attention de Zot se fixe de nouveau sur vous. Descendez ou fuyez cette branche !

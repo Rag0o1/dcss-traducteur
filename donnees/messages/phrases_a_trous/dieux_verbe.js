@@ -65,11 +65,11 @@
         "protects your body from mutation!": "{x1} protège votre corps de la mutation !",
         "protects your body from unnatural transformation!": "{x1} protège votre corps d’une transformation contre nature !",
         "protects your slime from harm.": "{x1} protège votre gelée du mal.",
-        "pulls their child back from the Abyss.": "{x1} ramène son enfant de l’Abysse.",
+        "pulls their child back from the Abyss.": "{x1} ramène son enfant de l’Abyss.",
         "purifies the foul vapours!": "{x1} purifie les vapeurs infectes !",
         "recites the Axioms of Law to you!": "{x1} vous récite les Axiomes de la Loi !",
         "refuses to forgive you so easily!": "{x1} refuse de vous pardonner si facilement !",
-        "refuses to let the Abyss claim you during a challenge!": "{x1} refuse que l’Abysse vous réclame pendant un défi !",
+        "refuses to let the Abyss claim you during a challenge!": "{x1} refuse que l’Abyss vous réclame pendant un défi !",
         "restores the support of your attributes.": "{x1} rétablit le soutien de vos attributs.",
         "reveals a hidden shaft just before you would have fallen in.": "{x1} révèle un puits caché juste avant que vous n’y tombiez.",
         "reveals an alarm trap just before you would have tripped it.": "{x1} révèle un piège d’alarme juste avant que vous ne le déclenchiez.",
@@ -102,7 +102,7 @@
         "says: Flay and bleed and purify yourself, if you wish to be found worthy of leaving this place!": "{x1} dit : Écorchez-vous, saignez et purifiez-vous, si vous voulez être jugé digne de quitter cet endroit !",
         "protects you from your miscast necromantic spell!": "{x1} vous protège de votre sort nécromantique raté !",
         "sends the divine host to punish you for your evil ways!": "{x1} envoie l’armée divine vous punir de vos mauvaises actions !",
-        "will now unseal the treasures of the Slime Pits.": "{x1} va maintenant desceller les trésors des Fosses de gélatine.",
+        "will now unseal the treasures of the Slime Pits.": "{x1} va maintenant desceller les trésors des Slime Pits.",
         "Hand of Corruption reaches out!": "La Main de Corruption de {x1} se tend !"
     };
     const POSSESSIF = {
@@ -114,7 +114,7 @@
         "forces are busy with other wars.": "Les forces {d1} sont occupées par d’autres guerres.",
         "wrath finds you.": "La colère {d1} vous trouve.",
         "wrath scatters you!": "La colère {d1} vous disperse !",
-        "power protects you from the chaos of Hell!": "La puissance {d1} vous protège du chaos de l’Enfer !",
+        "power protects you from the chaos of Hell!": "La puissance {d1} vous protège du chaos du Hell !",
         "voice booms out: Traitor to your kin!": "La voix {d1} tonne : Traître à ton peuple !",
         "gift of slime is revoked.": "Le don de gelée {d1} est révoqué."
     };

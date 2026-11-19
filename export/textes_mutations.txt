@@ -578,7 +578,7 @@ EN: You do not regenerate.
 FR: Vous ne régénérez pas.
 
 EN: You draw destruction from the endless fires of Gehenna.
-FR: Vous puisez la destruction dans les feux éternels de la Géhenne.
+FR: Vous puisez la destruction dans les feux éternels de la Gehenna.
 
 EN: You draw destruction from the frigid wastes of Cocytus.
 FR: Vous puisez la destruction dans les terres glacées de Cocytus.
@@ -587,7 +587,7 @@ EN: You draw destruction from the ruthless spite of Dis.
 FR: Vous puisez la destruction dans la cruauté implacable de Dis.
 
 EN: You draw destruction from the wailing grief of Tartarus.
-FR: Vous puisez la destruction dans le deuil hurlant du Tartare.
+FR: Vous puisez la destruction dans le deuil hurlant du Tartarus.
 
 EN: You expend magic power (3 MP) to strengthen your wands.
 FR: Vous dépensez 3 MP pour renforcer vos baguettes.

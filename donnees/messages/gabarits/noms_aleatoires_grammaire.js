@@ -7958,7 +7958,7 @@ globalThis.DCSS_GRAFFITIS_REGLES = Object.assign(globalThis.DCSS_GRAFFITIS_REGLE
 ],
 [
 "Hell's Wrath",
-"{fs}Colère de l’Enfer"
+"{fs}Colère du Hell"
 ],
 [
 "Infection",

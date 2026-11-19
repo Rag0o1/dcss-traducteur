@@ -695,10 +695,10 @@ EN: ~If it's in your way you can attack and kill it like other monsters, but you
 FR: S’il vous gêne, vous pouvez l’attaquer et le tuer comme les autres monstres, mais cela ne vous rapportera aucune expérience.
 
 EN: ~Uh-oh, you've wound up in the Abyss!
-FR: Aïe, vous avez atterri dans l’Abysse !
+FR: Aïe, vous avez atterri dans l’Abyss !
 
 EN: ~The Abyss is a special place where you cannot remember or map where you've been; it is filled with nasty monsters, and you're probably going to die.
-FR: L’Abysse est un endroit spécial où vous ne pouvez ni vous souvenir ni cartographier où vous êtes passé ; il est rempli de monstres redoutables, et vous allez probablement mourir.
+FR: L’Abyss est un endroit spécial où vous ne pouvez ni vous souvenir ni cartographier où vous êtes passé ; il est rempli de monstres redoutables, et vous allez probablement mourir.
 
 EN: ~To increase your chances of survival until you can find the exit
 FR: Pour augmenter vos chances de survie jusqu’à ce que vous trouviez la sortie

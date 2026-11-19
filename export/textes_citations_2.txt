@@ -602,7 +602,7 @@ EN: I haven't seen any pirates yet. I hate pirates.
 FR: Je n’ai pas encore vu de pirates. Je déteste les pirates.
 
 EN: At least this place doesn't smell as bad as the Swamp.
-FR: Au moins cet endroit ne sent pas aussi mauvais que le Marais.
+FR: Au moins cet endroit ne sent pas aussi mauvais que le Swamp.
 
 EN: The sirens are starting to hurt my ears.
 FR: Les sirènes commencent à me faire mal aux oreilles.
@@ -779,7 +779,7 @@ EN: First nagas, now salamanders. What's next, crocodiles with mirrors on their 
 FR: D’abord les nagas, maintenant les salamandres. La suite, quoi ? Des crocodiles avec des miroirs sur la tête ?
 
 EN: The Vaults? They should've called it the Dumps.
-FR: Les Caveaux ? Ils auraient dû les appeler la Décharge.
+FR: Les Vaults ? Ils auraient dû les appeler la Décharge.
 
 EN: Don't bother, there's only junk at the bottom.
 FR: Ne t’embête pas, il n’y a que de la camelote au fond.
@@ -803,7 +803,7 @@ EN: I saw a dragon earlier, but I didn't get too close - it seemed pretty mercur
 FR: J’ai vu un dragon tout à l’heure, mais je ne me suis pas approché - il avait l’air plutôt lunatique.
 
 EN: Why are there poltergeists guarding this place, but not the Crypt?
-FR: Pourquoi des poltergeists gardent-ils cet endroit, mais pas la Crypte ?
+FR: Pourquoi des poltergeists gardent-ils cet endroit, mais pas la Crypt ?
 
 EN: Zombies are pretty boring.
 FR: Les zombies sont plutôt ennuyeux.

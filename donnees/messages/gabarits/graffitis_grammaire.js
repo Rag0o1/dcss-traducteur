@@ -896,7 +896,7 @@ globalThis.DCSS_GRAFFITIS_REGLES = {
 ],
 [
 "of a varied group of people discussing their experiences in the Abyss",
-"d’un groupe varié de gens discutant de leurs expériences dans l’Abysse"
+"d’un groupe varié de gens discutant de leurs expériences dans l’Abyss"
 ]
 ],
 "_graffiti_mass_meeting_religious_": [
@@ -990,7 +990,7 @@ globalThis.DCSS_GRAFFITIS_REGLES = {
 ],
 [
 "of a group of [Lugonu worshippers|mad acolytes of Lugonu] discussing their experiences in the Abyss",
-"d’un groupe d’[adorateurs de Lugonu|acolytes fous de Lugonu] discutant de leurs expériences dans l’Abysse"
+"d’un groupe d’[adorateurs de Lugonu|acolytes fous de Lugonu] discutant de leurs expériences dans l’Abyss"
 ],
 [
 "of a group of orcs promoting Beogh's word",
@@ -1326,7 +1326,7 @@ globalThis.DCSS_GRAFFITIS_REGLES = {
 ],
 [
 "flattering Lugonu and talking about how Lugonu and the forces of the Abyss will soon rule over all",
-"flattant Lugonu et expliquant que Lugonu et les forces de l’Abysse régneront bientôt sur tout"
+"flattant Lugonu et expliquant que Lugonu et les forces de l’Abyss régneront bientôt sur tout"
 ],
 [
 "glorifying an unknown god",
