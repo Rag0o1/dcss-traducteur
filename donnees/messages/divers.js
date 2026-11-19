@@ -165,7 +165,7 @@
         const o = objetPlus(reste) ?? (prix ? reste : null);
         if (o === null) return null;
         {   // accord de « (porté) » avec l'objet : « une robe (portée) », « des écailles… (portées) »
-            const pl = /^(des|les|\d+) /.test(o), fem = /^(une|la) /.test(o) || /^(des|les) écailles/.test(o);
+            const pl = /^(des|les|\d+) /.test(o), fem = /^(une|la) /.test(o) || /^(des|les) ([ée]cailles|[ÉE]cailles|[Bb]ottes|[Jj]ambières|[Mm]itaines)\b/.test(o);
             const i = suffixes.indexOf("(porté)"); if (i !== -1) suffixes[i] = "(porté" + (fem ? "e" : "") + (pl ? "s" : "") + ")";
         }
         if (prix) return prefixe + prix + o + (suffixes.length ? " " + suffixes.join(" ") : "");

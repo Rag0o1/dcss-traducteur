@@ -553,7 +553,7 @@
         // Inventaire : « a - a +0 dagger (weapon) »
         R(/^([A-Za-z]) -> ([a-z]) - (.+)$/i, m => avecObjet(m[3], o => `${m[1]} → ${m[2]} – ${o}`)),
         R(/^([A-Za-z]) - (.+?)(?: \((weapon|worn|quivered)\))?$/i, m => avecObjet(m[2], o => {
-            const pl = /^(des|les|\d+) /.test(o), fem = /^(une|la) /.test(o) || /^(des|les) écailles/.test(o);
+            const pl = /^(des|les|\d+) /.test(o), fem = /^(une|la) /.test(o) || /^(des|les) ([ée]cailles|[ÉE]cailles|[Bb]ottes|[Jj]ambières|[Mm]itaines)\b/.test(o);
             const porte = "porté" + (fem ? "e" : "") + (pl ? "s" : "");   // accord : « (portée) », « (portées) »
             const marque = m[3] ? ` (${{ weapon: "arme", worn: porte, quivered: "en carquois" }[m[3].toLowerCase()]})` : "";
             return `${m[1]} – ${o}${marque}`;

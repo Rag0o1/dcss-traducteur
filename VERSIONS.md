@@ -11,6 +11,10 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.25.2 — noms des artefacts uniques
+
+- Les 154 artefacts uniques ont un nom français (`outils/unrands_fr.json` → `objets/unrands.js`, nouvelle fonction `artefactUnique` dans `messages/divers.js`) : « l’Épée chantante +7 », « le Courroux de Trog +14 », « les Bottes de sept lieues +2 (portées) », « la Grande fronde « Punk » ». Les noms propres (Trog, Cerebov, Lear…) et les surnoms (« Punk ») sont gardés.
+
 ## 0.25.1 — relecture des phrases à trous
 
 - 2 079 modèles de messages relus (fichiers écrits à la main) ; 33 corrections : summon = convoquer (« Le gobelin convoque des araignées ! »), versions « vous » ajoutées (« L’eau envahit vos poumons ! »), trous mal choisis (« l’énergie magique du gobelin »), accords, balises de couleur manquantes.
