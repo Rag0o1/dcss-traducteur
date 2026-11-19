@@ -5,10 +5,10 @@
 //  joueur valide (Entrée) la question « Search for what? / Chercher quoi ? »,
 //  on remplace, AVANT l'envoi au serveur, le texte français par une regex
 //  anglaise (le préfixe « / » force le mode regex, quel que soit le réglage) :
-//     parchemin          ->  /(scroll|parchemin)
-//     potion de guérison ->  /(potion(e?s)? of curing|potion de guerison)
+//     parchemin          ->  /(scroll)
+//     potion de guérison ->  /(potion(e?s)? of curing)
 //     @potion            ->  @/(potion)      (niveau actuel seulement)
-//  L'anglais marche toujours : la saisie d'origine reste dans la regex,
+//  L’anglais marche toujours : un morceau de mot (« arm ») reste dans la regex,
 //  et un mot inconnu est envoyé tel quel. « =texte » = recherche exacte
 //  sans traduction.
 //  Sources : DCSS_VOCAB (vocabulaire.js), races, métiers, MOTS_RECHERCHE.
@@ -139,8 +139,12 @@
 
         // 1) exact ; 2) noms qui contiennent la saisie ; 3) noms qui contiennent tous les mots
         let trouves = index.filter(e => e.fr === q);
+        let motComplet = trouves.length > 0;   // la saisie est un mot français connu
         if (!trouves.length) trouves = index.filter(e => e.fr.includes(q));
-        if (!trouves.length && mots.length > 1) trouves = index.filter(e => mots.every(m => e.fr.includes(m)));
+        if (!trouves.length && mots.length > 1) {
+            trouves = index.filter(e => mots.every(m => e.fr.includes(m)));
+            motComplet = trouves.length > 0;
+        }
 
         // 4) mot à mot (« potion bleue » -> potion + blue)
         if (!trouves.length && mots.length > 1) {
@@ -163,8 +167,10 @@
         anglais = anglais.filter((t, i) => !anglais.slice(0, i).some(c => t.includes(c))).slice(0, MAX_RESULTATS);
 
         const alternatives = anglais.map(motifAnglais);
-        // La saisie d'origine reste dans la regex : une recherche en anglais marche toujours.
-        if (estAscii(requete.trim()) && !anglais.includes(q)) alternatives.push(echapperRegex(q));
+        // Mot français connu (« or », « parchemin ») : on n'envoie que l'anglais -> /(gold).
+        // Simple morceau d'un nom français (« arm » dans « arme ») : on garde aussi la saisie,
+        // car c'est peut-être un mot anglais -> /(weapon|arm).
+        if (!motComplet && estAscii(requete.trim()) && !anglais.includes(q)) alternatives.push(echapperRegex(q));
 
         return finaliser(prefixe, "(" + alternatives.join("|") + ")", brut);
     }
