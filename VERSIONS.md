@@ -11,6 +11,12 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.25 — tutoriel complet, citations libres de droits, gadgets
+
+- Moteur : phrases du tutoriel où le jeu colle le nom d’une touche dans le texte (`$cmd[...]` → « Ctrl-P », « > »…) ; la touche est reconnue quelle qu’elle soit (raccourcis personnalisés compris). 69 paragraphes (`outils/phrases_cmd_src.json`).
+- Citations des descriptions : 182 citations du domaine public traduites (Bible, Shakespeare, Milton, Blake, Poe, Lovecraft…) ; les auteurs français reprennent leur texte original (Baudelaire, Renan). Décision du 19/11 : tout ce qui est encore protégé par le droit d’auteur reste en anglais (`outils/citations_src.json` → `messages/citations_dp.js`).
+- Gadgets des Coglins : descriptions des effets et menu d’assemblage traduits ; leurs noms restent en anglais (décision du 19/11), comme ceux des livres aléatoires.
+
 ## 0.24.3 — version en développement (0.35) : nouveaux textes
 
 - 328 messages du jeu à trous traduits (`outils/db/messages_trunk.txt` → `phrases_a_trous/messages_trunk.js`) : armures et bijoux qu’on met ou retire, dons divins, pouvoirs, échecs… Couverture des messages à trous : 57 % → 62 % (les autres sont surtout des messages entièrement variables, de débogage ou d’assistant).

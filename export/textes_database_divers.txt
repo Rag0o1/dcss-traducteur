@@ -2535,3 +2535,30 @@ FR: centaure des bourrasques
 
 EN: the boreal bulwark
 FR: le Rempart boréal
+
+EN: Your spells cost less MP as you Rev up. Whenever you cast a spell, you make a melee attack against a random enemy in range.
+FR: Vos sorts coûtent moins de PM à mesure que vous montez en Rév. Chaque fois que vous lancez un sort, vous faites une attaque au corps à corps contre un ennemi au hasard à portée.
+
+EN: Your evocable items recharge 30% faster and wands have a 30% chance to not spend a charge.
+FR: Vos objets à évoquer se rechargent 30 % plus vite, et les baguettes ont 30 % de chances de ne pas consommer de charge.
+
+EN: Your AC increases as you Rev (up to +5) and while fully Revved, your attacks may disarm enemies.
+FR: Votre CA augmente avec le Rév (jusqu’à +5), et à plein Rév vos attaques peuvent désarmer les ennemis.
+
+EN: It sometimes fires a blinding ray at enemies whose attacks you dodge.
+FR: Il tire parfois un rayon aveuglant sur les ennemis dont vous esquivez les attaques.
+
+EN: Choose a gizmo to assemble.
+FR: Choisissez un gadget à assembler.
+
+EN: select gizmo to assemble
+FR: choisir le gadget à assembler
+
+EN: examine gizmo
+FR: examiner le gadget
+
+EN: assemble
+FR: assembler
+
+EN: Assemble
+FR: Assembler
