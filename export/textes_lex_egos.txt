@@ -89,7 +89,7 @@ EN: It grants you temporary protection after it strikes (+7 AC).
 FR: Elle vous accorde une protection temporaire après avoir frappé (+7 AC).
 
 EN: It has an increased chance to perform stab attacks against vulnerable targets, and temporarily increases the wielder's EV and slaying each time they do so.
-FR: Elle a plus de chances d’effectuer des attaques sournoises contre les cibles vulnérables, et augmente temporairement l’EV et les dégâts bonus de son porteur à chaque fois.
+FR: Elle a plus de chances d’effectuer des attaques furtives contre les cibles vulnérables, et augmente temporairement l’EV et les dégâts bonus de son porteur à chaque fois.
 
 EN: It has been blessed by the Shining One, dealing an additional three-quarters of any damage that pierces undead and demons' armour. Undead and demons cannot use this.
 FR: Elle a été bénie par L’Étincelant, infligeant trois quarts supplémentaires des dégâts qui traversent l’armure des morts-vivants et des démons. Les morts-vivants et les démons ne peuvent pas l’utiliser.

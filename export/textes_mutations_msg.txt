@@ -2135,7 +2135,7 @@ EN: South Wind's embodiment
 FR: incarnation du Vent du Sud
 
 EN: The South Wind quickens your rampage movements after stabbing.
-FR: Le Vent du Sud accélère vos mouvements de ruée après une attaque sournoise.
+FR: Le Vent du Sud accélère vos mouvements de ruée après une attaque furtive.
 
 EN: You feel the capricious South Wind quickening your steps.
 FR: Vous sentez le capricieux Vent du Sud accélérer vos pas.

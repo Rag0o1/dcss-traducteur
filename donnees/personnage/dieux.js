@@ -63,7 +63,7 @@ globalThis.DCSS_TRADUCTIONS.lex_dieux = {
 "The Shining One likes it when you kill the undead, you kill demons, you kill evil beings and you encounter other hostile creatures.": "L’Étincelant apprécie que vous tuiez des morts-vivants, des démons, des êtres maléfiques et que vous affrontiez d’autres créatures hostiles.",
 "The Shining One occasionally guards your life.": "L’Étincelant protège parfois votre vie.",
 "The Shining One partially shields you from negative energy.": "L’Étincelant vous protège partiellement de l’énergie négative.",
-"The Shining One prevents you from stabbing unaware foes.": "L’Étincelant vous empêche de poignarder les ennemis qui ne se méfient pas.",
+"The Shining One prevents you from stabbing unaware foes.": "L’Étincelant vous interdit les attaques furtives contre les ennemis qui ne se méfient pas.",
 "The Shining One sometimes blesses your followers when you slay foes.": "L’Étincelant bénit parfois vos disciples quand vous terrassez des ennemis.",
 "The Shining One strongly dislikes it when you attack non-hostile holy beings, you attack neutral beings, you attack allies or you kill non-hostile holy beings.": "L’Étincelant désapprouve fortement que vous attaquiez des êtres sacrés non hostiles, que vous attaquiez des êtres neutres, que vous attaquiez des alliés ou que vous tuiez des êtres sacrés non hostiles.",
 "The Shining One will bless your weapon with holy wrath... once.": "L’Étincelant bénira votre arme du courroux sacré… une seule fois.",

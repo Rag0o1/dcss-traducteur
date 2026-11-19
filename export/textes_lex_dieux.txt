@@ -170,7 +170,7 @@ EN: The Shining One partially shields you from negative energy.
 FR: L’Étincelant vous protège partiellement de l’énergie négative.
 
 EN: The Shining One prevents you from stabbing unaware foes.
-FR: L’Étincelant vous empêche de poignarder les ennemis qui ne se méfient pas.
+FR: L’Étincelant vous interdit les attaques furtives contre les ennemis qui ne se méfient pas.
 
 EN: The Shining One sometimes blesses your followers when you slay foes.
 FR: L’Étincelant bénit parfois vos disciples quand vous terrassez des ennemis.

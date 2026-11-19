@@ -397,7 +397,7 @@
         R(/^It hits all enemies adjacent to the wielder, dealing less damage to those not targeted\.$/,
             () => "Elle frappe tous les ennemis adjacents à son porteur, en infligeant moins de dégâts à ceux qui ne sont pas ciblés."),
         R(/^It is (extremely )?good for stabbing helpless or unaware enemies\.$/,
-            m => `Elle est ${m[1] ? "excellente" : "bonne"} pour poignarder les ennemis sans défense ou qui ne se méfient pas.`),
+            m => `Elle est ${m[1] ? "excellente" : "bonne"} pour attaquer furtivement les ennemis sans défense ou qui ne se méfient pas.`),
         R(/^This (weapon|projectile)'s minimum attack delay \(([\d.]+)\) is reached at skill level (\d+)\.$/,
             m => `Le délai d’attaque minimal de ${m[1] === "weapon" ? "cette arme" : "ce projectile"} (${dec(m[2])}) est atteint au niveau de compétence ${m[3]}.`),
         R(/^Your (.+) slightly slows your attacks with this weapon\.$/,

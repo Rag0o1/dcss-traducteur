@@ -1715,7 +1715,7 @@ EN: Dumps detailed information about your character into a file ‘playername.tx
 FR: Génère un fichier “nomdupersonnage.txt” dans le dossier morgue. Vous y trouverez une énorme quantité d’information (caractéristiques, inventaire, compétences, notes, etc...) et vous pourrez les consulter à loisir.
 
 EN: Earth Elementalists know the Sandblast spell, and can later learn more earthen spells suitable for subtle stabbing or brute-force blasting.
-FR: Les Élémentalistes de la Terre connaissent le sort Jet de sable et peuvent apprendre ensuite d’autres sorts de terre, adaptés aux attaques sournoises comme aux explosions brutales.
+FR: Les Élémentalistes de la Terre connaissent le sort Jet de sable et peuvent apprendre ensuite d’autres sorts de terre, adaptés aux attaques furtives comme aux explosions brutales.
 
 EN: Earth Magic contains spells able to deal large amounts of direct physical damage, which cannot be resisted like fire, cold and lightning damage can. It is also linked with Alchemy, with spells to liquefy the earth around you, or to turn your enemies to stone. Being skilled in Earth Magic increases the success rate and spell power of spells in this school. Many spells belong to a combination of several schools, in which case spellcasting success and power will depend on the average skill in these schools.
 FR: La Magie de la Terre contient des sorts capables d’infliger de grandes quantités de dégâts physiques directs, auxquels on ne peut résister comme pour les dégâts de feu, de froid ou d’électricité. Elle est aussi liée à l’Alchimie, avec des sorts pour liquéfier la terre autour de vous ou transformer vos ennemis en pierre. Être compétent en Magie de la Terre augmente le taux de réussite et la puissance des sorts de cette école. De nombreux sorts appartiennent à une combinaison de plusieurs écoles ; dans ce cas, la réussite du lancement et la puissance dépendront de la compétence moyenne dans ces écoles.
@@ -2168,10 +2168,10 @@ EN: Shops offer a variety of items, but they don't buy items from anyone.
 FR: Les échoppes ont une offre variée, mais on ne peut rien y vendre.
 
 EN: Short Blades are more effective than any other weapon type at stabbing helpless foes.
-FR: Les Lames courtes sont plus efficaces que tout autre type d’arme pour poignarder des ennemis sans défense.
+FR: Les Lames courtes sont plus efficaces que tout autre type d’arme pour les attaques furtives contre des ennemis sans défense.
 
 EN: Short Blades are more effective than any other weapon type at stabbing helpless foes. Being skilled with Short Blades will allow you to attack more quickly with all weapons of this type, as well as increasing your accuracy and damage with them. Being skilled with Short Blades increases your effectiveness with Long Blades, and vice versa.
-FR: Les Lames courtes sont plus efficaces que tout autre type d’arme pour poignarder des ennemis sans défense. Être compétent en Lames courtes vous permettra d’attaquer plus rapidement avec toutes les armes de ce type, et augmentera votre précision et vos dégâts avec elles. Être compétent en Lames courtes augmente votre efficacité avec les Lames longues, et vice versa.
+FR: Les Lames courtes sont plus efficaces que tout autre type d’arme pour les attaques furtives contre des ennemis sans défense. Être compétent en Lames courtes vous permettra d’attaquer plus rapidement avec toutes les armes de ce type, et augmentera votre précision et vos dégâts avec elles. Être compétent en Lames courtes augmente votre efficacité avec les Lames longues, et vice versa.
 
 EN: Sif Muna grants followers the ability to rapidly restore their magical energy, and to forget spells at will, so as to learn new ones. Worshippers can call upon the Loreminder to help cast any spell they've discovered, even if it's well beyond their current magical training. Over time, devout followers will receive spellbooks containing a vast range of spells.
 FR: Sif Muna accorde à ses fidèles la capacité de restaurer rapidement leur énergie magique, et d’oublier des sorts à volonté afin d’en apprendre de nouveaux. Les adorateurs peuvent faire appel à la Gardienne des Arcanes pour les aider à lancer n’importe quel sort découvert, même s’il dépasse de loin leur formation magique actuelle. Avec le temps, les fidèles dévoués recevront des livres de sorts contenant une vaste gamme de sorts.
@@ -2432,7 +2432,7 @@ EN: Vehumet is a god of the destructive powers of magic. Followers will gain div
 FR: Vehumet est le Dieu des pouvoirs magiques destructeurs. Ses disciples obtiennent plusieurs pouvoirs utiles pour améliorer leur pratique des arts hermétiques et, le plus convoité est celui d’avoir accès à des sortilèges effroyables issus de la bibliothèque de Vehumet. Sa dévotion à Vehumet peut être prouvé en provoquant autant de carnage et de destruction que possible.
 
 EN: Very small, very frail and very fast, Spriggans are highly competent stabbers and spellcasters.
-FR: Très petits, très frêles et très rapides, les Spriggans sont très doués pour poignarder et pour lancer des sorts.
+FR: Très petits, très frêles et très rapides, les Spriggans sont très doués pour les attaques furtives et pour lancer des sorts.
 
 EN: Wait a single turn
 FR: Attendre un tour

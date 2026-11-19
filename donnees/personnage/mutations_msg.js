@@ -714,7 +714,7 @@ globalThis.DCSS_TRADUCTIONS.mutations_msg = {
 "You feel the indomitable North Wind bolstering your fortitude.": "Vous sentez l’indomptable Vent du Nord renforcer votre vigueur.",
 "The winds are changing....": "Les vents changent....",
 "South Wind's embodiment": "incarnation du Vent du Sud",
-"The South Wind quickens your rampage movements after stabbing.": "Le Vent du Sud accélère vos mouvements de ruée après une attaque sournoise.",
+"The South Wind quickens your rampage movements after stabbing.": "Le Vent du Sud accélère vos mouvements de ruée après une attaque furtive.",
 "You feel the capricious South Wind quickening your steps.": "Vous sentez le capricieux Vent du Sud accélérer vos pas.",
 "West Wind's embodiment": "incarnation du Vent d’Ouest",
 "The West Wind empowers your ranged attacks as you Rampage.": "Le Vent d’Ouest renforce vos attaques à distance pendant votre ruée.",

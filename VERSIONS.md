@@ -11,6 +11,10 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.25.6 — stab = attaque furtive
+
+- Décision du 19/11 : « stab » = « attaque furtive » (au lieu de « attaque sournoise ») ; la mécanique « frapper un ennemi qui ne vous a pas vu » se dit « attaquer furtivement » dans les descriptions (dagues, Discrétion, l’Étincelant, mutations). Le verbe de combat « vous poignarde » ne change pas.
+
 ## 0.25.5 — relecture des messages et de l’interface
 
 - 4 324 textes relus (messages fixes, messages du jeu, interface, menus, états, compléments, messages de mutations) : 66 corrections. Contresens corrigés ; compétences restées en anglais traduites (Esquive, Métamorphose, Combat à mains nues, Alchimie, Forge) ; noms de sorts remis en anglais ; « la Tombe » ; « pointes barbelées » ; espace avant « : » dans les invites.
