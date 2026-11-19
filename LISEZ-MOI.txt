@@ -80,7 +80,8 @@ Pour tester sans partie, tapez dans la console :  traduireRecherche("parchemin")
 
 Limites
 -------
-- La liste des résultats est traduite comme le reste du jeu, mais la recherche ne
-  connaît que les noms présents dans les dictionnaires.
+- La recherche ne connaît que les noms présents dans les dictionnaires : un nom
+  pas encore traduit doit être tapé en anglais.
+- La traduction de la liste des résultats n’a pas encore été vérifiée en jeu.
 - Le serveur accepte au plus 399 caractères : un mot très général (ex. « a »)
   peut donner trop de résultats ; la recherche est alors raccourcie.
