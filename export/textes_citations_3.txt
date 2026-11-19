@@ -68,7 +68,7 @@ EN: I offered a draconian some spare armour, but he said it didn't fit.
 FR: J’ai offert une armure de rechange à un draconien, mais il a dit qu’elle ne lui allait pas.
 
 EN: I keep feeling something staring at me. Is it you?
-FR: J’ai sans cesse l’impression que quelque chose me regarde. C’est vous ?
+FR: J’ai sans cesse l’impression que quelque chose me regarde. C’est toi ?
 
 EN: How do you make a golem out of electricity?
 FR: Comment fait-on un golem avec de l’électricité ?
@@ -110,7 +110,7 @@ EN: I hope I don't run into any orbs of ice down here!
 FR: J’espère ne pas croiser d’orbes de glace ici !
 
 EN: Did you bring your rings of ice?
-FR: Avez-vous apporté vos anneaux de glace ?
+FR: As-tu apporté tes anneaux de glace ?
 
 EN: The Orb of Power is here? Where are the others, then?
 FR: L’Orbe de Puissance est ici ? Où sont les autres, alors ?
@@ -125,13 +125,13 @@ EN: Isn't that thing heavy? I could take a turn.
 FR: Ce truc n’est pas lourd ? Je pourrais le porter à mon tour.
 
 EN: Aren't you worried about radiation? You should put that down.
-FR: Vous ne craignez pas les radiations ? Vous devriez le poser.
+FR: Tu ne crains pas les radiations ? Tu devrais le poser.
 
 EN: What are you going to do with that Orb?
-FR: Que comptez-vous faire de cet Orbe ?
+FR: Que comptes-tu faire de cet Orbe ?
 
 EN: Don't you think the Orb of Power was down there for a reason?
-FR: Ne pensez-vous pas que l’Orbe de Puissance était en bas pour une raison ?
+FR: Ne penses-tu pas que l’Orbe de Puissance était en bas pour une raison ?
 
 EN: I heard that the world ends if you bring it to the surface.
 FR: J’ai entendu dire que le monde finit si on l’apporte à la surface.
@@ -140,13 +140,13 @@ EN: Someone is going to come looking for that Orb.
 FR: Quelqu’un va venir chercher cet Orbe.
 
 EN: Are you sure that's the real Orb, and not some cheap imitation?
-FR: Êtes-vous sûr que c’est le vrai Orbe, et pas une imitation bon marché ?
+FR: Es-tu sûr que c’est le vrai Orbe, et pas une imitation bon marché ?
 
 EN: You have the Orb. Was it worth it?
-FR: Vous avez l’Orbe. En valait-il la peine ?
+FR: Tu as l’Orbe. En valait-il la peine ?
 
 EN: So much for spreading the word; you get punched in the face instead.
-FR: Voilà pour répandre la bonne parole ; vous recevez un coup de poing en pleine figure.
+FR: Voilà pour répandre la bonne parole ; tu reçois un coup de poing en pleine figure.
 
 EN: This pamphlet doesn't say what the point to Recitation is.
 FR: Ce dépliant ne dit pas à quoi sert la Récitation.
@@ -164,16 +164,16 @@ EN: I've got two hundred gold pieces. Is that enough to cure these mutations?
 FR: J’ai deux cents pièces d’or. Est-ce assez pour guérir ces mutations ?
 
 EN: Didn't you like your horns?
-FR: Vous n’aimiez pas vos cornes ?
+FR: Tu n’aimais pas tes cornes ?
 
 EN: If I give you twenty gold pieces, can you get rid of this nasty case of scales I've got?
-FR: Si je vous donne vingt pièces d’or, pouvez-vous me débarrasser de cette vilaine affaire d’écailles ?
+FR: Si je te donne vingt pièces d’or, peux-tu me débarrasser de cette vilaine affaire d’écailles ?
 
 EN: Shut up!
-FR: Taisez-vous !
+FR: Tais-toi !
 
 EN: Wouldn't you get more for your money with Gozag?
-FR: Ne seriez-vous pas mieux servi pour votre argent avec Gozag ?
+FR: Ne serais-tu pas mieux servi pour ton argent avec Gozag ?
 
 EN: What's the point of being chivalric if nobody's going to be chivalric back?
 FR: À quoi bon être chevaleresque si personne ne l’est en retour ?
@@ -182,16 +182,16 @@ EN: I open the door for a goblin; he punches me in the face. I hate chivalry.
 FR: J’ouvre la porte à un gobelin ; il me met un coup de poing en pleine figure. Je déteste la chevalerie.
 
 EN: Hah! I saw you coming a mile away.
-FR: Ha ! Je vous ai vu venir de loin.
+FR: Ha ! Je t’ai vu venir de loin.
 
 EN: You stick out like a sore thumb. Or at least, a shining one.
-FR: Vous ressortez comme un pouce douloureux. Ou du moins, un pouce brillant.
+FR: Tu ressors comme un pouce douloureux. Ou du moins, un pouce brillant.
 
 EN: Won't need this ring of positive energy, then, will I?
 FR: Je n’aurai pas besoin de cet anneau d’énergie positive, alors, n’est-ce pas ?
 
 EN: Can you turn the glow down a bit? I can't see you to hit you.
-FR: Pouvez-vous baisser un peu l’éclat ? Je ne vous vois pas pour vous frapper.
+FR: Peux-tu baisser un peu l’éclat ? Je ne te vois pas pour te frapper.
 
 EN: Cleansing flame? What's it supposed to be cleansing? The floor?
 FR: La flamme purificatrice ? Qu’est-ce qu’elle est censée purifier ? Le sol ?
@@ -203,16 +203,16 @@ EN: Kikubaa-what? How do you even say that?
 FR: Kikubaa-quoi ? Comment on dit ça, d’ailleurs ?
 
 EN: Sorry, didn't catch that. You worship who? How do you spell it?
-FR: Désolé, je n’ai pas saisi. Vous adorez qui ? Comment ça s’écrit ?
+FR: Désolé, je n’ai pas saisi. Tu adores qui ? Comment ça s’écrit ?
 
 EN: Can you spell it for me - slowly?
-FR: Pouvez-vous me l’épeler - lentement ?
+FR: Peux-tu me l’épeler - lentement ?
 
 EN: How do you pronounce that?
 FR: Comment ça se prononce ?
 
 EN: Yuck, you smell of miasma!
-FR: Beurk, vous sentez le miasme !
+FR: Beurk, tu sens le miasme !
 
 EN: I hate wretches.
 FR: Je déteste les misérables.
@@ -221,10 +221,10 @@ EN: How deep do you have to dig to get a never-ending supply of wretches?
 FR: Jusqu’où faut-il creuser pour avoir une réserve infinie de misérables ?
 
 EN: You must really love pain. I hate it.
-FR: Vous devez vraiment aimer la douleur. Moi, je la déteste.
+FR: Tu dois vraiment aimer la douleur. Moi, je la déteste.
 
 EN: Do you just use necromancy for everything, then?
-FR: Vous utilisez donc la nécromancie pour tout ?
+FR: Tu utilises donc la nécromancie pour tout ?
 
 EN: Why a 'Demon-God'? Wouldn't a 'Zombie-God' be more appropriate?
 FR: Pourquoi un « Dieu-Démon » ? Un « Dieu-Zombie » ne serait-il pas plus approprié ?
@@ -242,28 +242,28 @@ EN: How do you flay a ghost, anyway?
 FR: Comment écorche-t-on un fantôme, au juste ?
 
 EN: Pah! You're not even a real necromancer.
-FR: Pff ! Vous n’êtes même pas un vrai nécromancien.
+FR: Pff ! Tu n’es même pas un vrai nécromancien.
 
 EN: Did you drop out of Necromancy School?
-FR: Vous avez abandonné l’école de nécromancie ?
+FR: Tu as abandonné l’école de nécromancie ?
 
 EN: Ah. You're responsible for all those zombies.
-FR: Ah. Vous êtes responsable de tous ces zombies.
+FR: Ah. Tu es responsable de tous ces zombies.
 
 EN: Zombies? Spectres? Don't you get bored without any real company?
-FR: Des zombies ? Des spectres ? Vous ne vous ennuyez pas sans vraie compagnie ?
+FR: Des zombies ? Des spectres ? Tu ne t’ennuies pas sans vraie compagnie ?
 
 EN: Angels painted black are so last century.
 FR: Les anges peints en noir, c’est tellement dernier siècle.
 
 EN: If you wanted the light to be dimmer, you could have said so.
-FR: Si vous vouliez une lumière plus faible, vous auriez pu le dire.
+FR: Si tu voulais une lumière plus faible, tu aurais pu le dire.
 
 EN: What kind of torch can only be lit once per level?
 FR: Quel genre de torche ne peut être allumée qu’une fois par niveau ?
 
 EN: How does that torch stay lit when you throw its fire all over?
-FR: Comment cette torche reste-t-elle allumée quand vous en lancez le feu partout ?
+FR: Comment cette torche reste-t-elle allumée quand tu en lances le feu partout ?
 
 EN: I hate being shackled.
 FR: Je déteste être enchaîné.
@@ -272,13 +272,13 @@ EN: Okawaru always makes me think of chokos.
 FR: Okawaru me fait toujours penser aux chayottes.
 
 EN: Oh, hey! I could use a new shield. Have you got any spares?
-FR: Oh, tiens ! Un nouveau bouclier me serait utile. En auriez-vous de rechange ?
+FR: Oh, tiens ! Un nouveau bouclier me serait utile. En aurais-tu de rechange ?
 
 EN: Nice kit.
 FR: Joli équipement.
 
 EN: How many innocent creatures did you kill for those shoes?
-FR: Combien de créatures innocentes avez-vous tuées pour ces chaussures ?
+FR: Combien de créatures innocentes as-tu tuées pour ces chaussures ?
 
 EN: Okawaru's gifts are murder.
 FR: Les cadeaux d’Okawaru sont un meurtre.
@@ -287,25 +287,25 @@ EN: You can only wear one cloak at a time, you know?
 FR: On ne peut porter qu’une cape à la fois, vous savez ?
 
 EN: Do you think you're a hero? I hate that.
-FR: Vous vous prenez pour un héros ? Je déteste ça.
+FR: Tu te prends pour un héros ? Je déteste ça.
 
 EN: How much finesse does it take to swing your arms real fast, anyway?
 FR: Quelle finesse faut-il pour agiter les bras très vite, au juste ?
 
 EN: I could take you in a fair duel. No cheating!
-FR: Je pourrais vous battre en duel loyal. Sans tricher !
+FR: Je pourrais te battre en duel loyal. Sans tricher !
 
 EN: At least you've got demons for company.
-FR: Au moins vous avez des démons pour compagnie.
+FR: Au moins tu as des démons pour compagnie.
 
 EN: Are you sure that summoning demons is a good idea?
-FR: Êtes-vous sûr que convoquer des démons est une bonne idée ?
+FR: Es-tu sûr que convoquer des démons est une bonne idée ?
 
 EN: Hey, watch where you throw those bolts!
-FR: Hé, attention où vous lancez ces éclairs !
+FR: Hé, attention où tu lances ces éclairs !
 
 EN: What will you do after everything's destroyed?
-FR: Que ferez-vous quand tout sera détruit ?
+FR: Que feras-tu quand tout sera détruit ?
 
 EN: I hate demons.
 FR: Je déteste les démons.
@@ -335,25 +335,25 @@ EN: What's the Crucible of Flesh? Some kind of fancy barbecue place?
 FR: C’est quoi, le Creuset de Chair ? Une sorte de restaurant de barbecue chic ?
 
 EN: Don't you wish for a portable bookcase?
-FR: Ne rêvez-vous pas d’une bibliothèque portable ?
+FR: Ne rêves-tu pas d’une bibliothèque portable ?
 
 EN: Imagine how many trees were cut down to fuel your hobby.
-FR: Imaginez combien d’arbres ont été abattus pour alimenter votre passe-temps.
+FR: Imagine combien d’arbres ont été abattus pour alimenter ton passe-temps.
 
 EN: Man, that must be some big library.
 FR: Mon vieux, ça doit être une sacrée grande bibliothèque.
 
 EN: Found the spell you wanted yet?
-FR: Avez-vous déjà trouvé le sort que vous vouliez ?
+FR: As-tu déjà trouvé le sort que tu voulais ?
 
 EN: If you wanted to read so much, why didn't you become a librarian?
-FR: Si vous vouliez tant lire, pourquoi ne pas être devenu bibliothécaire ?
+FR: Si tu voulais tant lire, pourquoi ne pas être devenu bibliothécaire ?
 
 EN: Did you remember that thing that you forgot? I hate that.
-FR: Vous vous êtes rappelé ce que vous aviez oublié ? Je déteste ça.
+FR: Tu t’es rappelé ce que tu avais oublié ? Je déteste ça.
 
 EN: It's like an all you can read... something.
-FR: C’est comme un tout-ce-que-vous-pouvez-lire... quelque chose.
+FR: C’est comme un tout-ce-que-tu-peux-lire... quelque chose.
 
 EN: I hate books.
 FR: Je déteste les livres.
@@ -368,10 +368,10 @@ EN: I hate spells.
 FR: Je déteste les sorts.
 
 EN: Don't you just hate miscasts?
-FR: Vous ne détestez pas les ratés de magie ?
+FR: Tu ne détestes pas les ratés de magie ?
 
 EN: So, are you allowed to read books?
-FR: Alors, avez-vous le droit de lire des livres ?
+FR: Alors, as-tu le droit de lire des livres ?
 
 EN: You troglodyte!
 FR: Espèce de troglodyte !
@@ -380,49 +380,49 @@ EN: I heard Trog has abandonment issues.
 FR: J’ai entendu dire que Trog a des problèmes d’abandon.
 
 EN: I bet Trog's next axe will take you to the Abyss.
-FR: Je parie que la prochaine hache de Trog vous enverra dans l’Abysse.
+FR: Je parie que la prochaine hache de Trog t’enverra dans l’Abysse.
 
 EN: I considered Trog, but the aftereffects of berserk scare me.
 FR: J’ai pensé à Trog, mais les effets secondaires de la berserk me font peur.
 
 EN: I bet you wish you could cast spells now, right?
-FR: Je parie que vous aimeriez pouvoir lancer des sorts maintenant, non ?
+FR: Je parie que tu aimerais pouvoir lancer des sorts maintenant, non ?
 
 EN: Are you sure you're allowed to read scrolls?
-FR: Êtes-vous sûr d’avoir le droit de lire des parchemins ?
+FR: Es-tu sûr d’avoir le droit de lire des parchemins ?
 
 EN: Hey, I thought wands weren't allowed!
 FR: Hé, je croyais que les baguettes n’étaient pas autorisées !
 
 EN: If I tell you I hate magic, will you worship me?
-FR: Si je vous dis que je déteste la magie, m’adorerez-vous ?
+FR: Si je te dis que je déteste la magie, m’adoreras-tu ?
 
 EN: I hate ogres.
 FR: Je déteste les ogres.
 
 EN: What's all in the cards? Your future?
-FR: Qu’y a-t-il dans les cartes ? Votre avenir ?
+FR: Qu’y a-t-il dans les cartes ? Ton avenir ?
 
 EN: I bet you're feeling stupid now, huh?
-FR: Je parie que vous vous sentez bête maintenant, hein ?
+FR: Je parie que tu te sens bête maintenant, hein ?
 
 EN: If I draw a card, can you tell me which one it is?
-FR: Si je tire une carte, pouvez-vous me dire laquelle c’est ?
+FR: Si je tire une carte, peux-tu me dire laquelle c’est ?
 
 EN: Where do you keep all those decks?
-FR: Où rangez-vous tous ces jeux ?
+FR: Où ranges-tu tous ces jeux ?
 
 EN: I'm sure I saw a card fall out of that deck.
 FR: Je suis sûr d’avoir vu une carte tomber de ce jeu.
 
 EN: I've seen this trick before. You've got the ace up your sleeve, right?
-FR: J’ai déjà vu ce tour. Vous avez l’as dans la manche, n’est-ce pas ?
+FR: J’ai déjà vu ce tour. Tu as l’as dans la manche, n’est-ce pas ?
 
 EN: You need to come to terms with your gambling problem.
-FR: Vous devez accepter votre problème de jeu.
+FR: Tu dois accepter ton problème de jeu.
 
 EN: How about a game of 52 card pickup?
-FR: Que diriez-vous d’une partie de bataille à 52 cartes ?
+FR: Que dirais-tu d’une partie de bataille à 52 cartes ?
 
 EN: An explosive gambit... I hate that.
 FR: Un pari explosif... Je déteste ça.
@@ -434,31 +434,31 @@ EN: Doesn't healing your enemies sound rather pointless?
 FR: Soigner ses ennemis, ça ne paraît pas plutôt inutile ?
 
 EN: Maybe you should start praying.
-FR: Peut-être devriez-vous commencer à prier.
+FR: Peut-être devrais-tu commencer à prier.
 
 EN: If I give you my weapon, will you leave me alone?
-FR: Si je vous donne mon arme, me laisserez-vous tranquille ?
+FR: Si je te donne mon arme, me laisseras-tu tranquille ?
 
 EN: Come on. Make me an offer of peace that I can't refuse!
 FR: Allez. Faites-moi une offre de paix que je ne pourrai pas refuser !
 
 EN: For every monster you don't kill, I'll kill three.
-FR: Pour chaque monstre que vous ne tuez pas, j’en tuerai trois.
+FR: Pour chaque monstre que tu ne tues pas, j’en tuerai trois.
 
 EN: Why would you want to visit the Abyss? For a holiday?
-FR: Pourquoi voudriez-vous visiter l’Abysse ? Pour des vacances ?
+FR: Pourquoi voudrais-tu visiter l’Abysse ? Pour des vacances ?
 
 EN: Nothing ever attacks me when I'm in the Abyss.
 FR: Rien ne m’attaque jamais quand je suis dans l’Abysse.
 
 EN: Are you going to banish me, too?
-FR: Allez-vous me bannir aussi ?
+FR: Vas-tu me bannir aussi ?
 
 EN: The world's bad enough without you corrupting it.
-FR: Le monde est déjà assez mauvais sans que vous le corrompiez.
+FR: Le monde est déjà assez mauvais sans que tu le corrompes.
 
 EN: You must really love eldritch horrors. I hate them.
-FR: Vous devez vraiment aimer les horreurs surnaturelles. Moi, je les déteste.
+FR: Tu dois vraiment aimer les horreurs surnaturelles. Moi, je les déteste.
 
 EN: How can a god be banished to the Abyss?
 FR: Comment un dieu peut-il être banni dans l’Abysse ?
@@ -470,31 +470,31 @@ EN: One of the priests looked like she was going to ask me to join... I guess sh
 FR: Une des prêtresses avait l’air de vouloir me demander de la rejoindre... Je suppose qu’elle a changé d’avis.
 
 EN: You think walking on water is cool? I can swim.
-FR: Vous trouvez cool de marcher sur l’eau ? Moi, je sais nager.
+FR: Tu trouves cool de marcher sur l’eau ? Moi, je sais nager.
 
 EN: Isn't it annoying when people just start challenging you, and you can't get away from them?
-FR: N’est-ce pas agaçant quand des gens se mettent à vous défier et que vous ne pouvez pas leur échapper ?
+FR: N’est-ce pas agaçant quand des gens se mettent à te défier et que tu ne peux pas leur échapper ?
 
 EN: I'd get sick of only having three followers at most.
 FR: Je me lasserais de n’avoir que trois fidèles au plus.
 
 EN: How do you find enough ash and charcoal to anoint them all?
-FR: Où trouvez-vous assez de cendre et de charbon pour les oindre tous ?
+FR: Où trouves-tu assez de cendre et de charbon pour les oindre tous ?
 
 EN: You'll need more than orcs to take me on.
-FR: Il vous faudra plus que des orcs pour m’affronter.
+FR: Il te faudra plus que des orcs pour m’affronter.
 
 EN: Do you like preaching on mountaintops?
-FR: Aimez-vous prêcher au sommet des montagnes ?
+FR: Aimes-tu prêcher au sommet des montagnes ?
 
 EN: What is divine providence, anyway? I hate that.
 FR: C’est quoi, la providence divine, au juste ? Je déteste ça.
 
 EN: You'd better watch out. The one on the left looks like he gets lost easily.
-FR: Vous feriez bien de faire attention. Celui de gauche a l’air de se perdre facilement.
+FR: Tu ferais bien de faire attention. Celui de gauche a l’air de se perdre facilement.
 
 EN: You think you're the Messiah? I met another orc who thought that, too.
-FR: Vous vous prenez pour le Messie ? J’ai rencontré un autre orc qui le croyait aussi.
+FR: Tu te prends pour le Messie ? J’ai rencontré un autre orc qui le croyait aussi.
 
 EN: Messiah? I hate messiahs.
 FR: Messie ? Je déteste les messies.
@@ -503,19 +503,19 @@ EN: Nah, just kidding.
 FR: Non, je plaisante.
 
 EN: Don't fight so hard! You'll just burn out.
-FR: Ne vous battez pas si fort ! Vous allez vous consumer.
+FR: Ne te bats pas si fort ! Tu vas juste te consumer.
 
 EN: Huh, so Ignis will die when you do... how's that make you feel?
-FR: Tiens, donc Ignis mourra quand vous mourrez... qu’est-ce que ça vous fait ?
+FR: Tiens, donc Ignis mourra quand tu mourras... qu’est-ce que ça te fait ?
 
 EN: You'd think a god of fire would be a bit brighter.
 FR: On croirait qu’un dieu du feu serait un peu plus brillant.
 
 EN: Feel like your fire's burning out? I hate that.
-FR: Vous avez l’impression que votre feu s’éteint ? Je déteste ça.
+FR: Tu as l’impression que ton feu s’éteint ? Je déteste ça.
 
 EN: You know a god's a real winner when you're their only follower, right?
-FR: Vous savez qu’un dieu est un vrai gagnant quand vous êtes son seul fidèle, n’est-ce pas ?
+FR: Tu sais qu’un dieu est un vrai gagnant quand tu es son seul fidèle, n’est-ce pas ?
 
 EN: Oh, I wondered where that burning smell was coming from.
 FR: Oh, je me demandais d’où venait cette odeur de brûlé.
@@ -527,37 +527,37 @@ EN: Doesn't it hurt to go crashing headfirst through the ceiling?
 FR: Ça ne fait pas mal de traverser le plafond la tête la première ?
 
 EN: Wow, you can rise to a higher floor... isn't that called 'climbing stairs'?
-FR: Waouh, vous pouvez monter à un étage supérieur... on appelle ça « monter les escaliers », non ?
+FR: Waouh, tu peux monter à un étage supérieur... on appelle ça « monter les escaliers », non ?
 
 EN: Wow, fire everywhere! I hate that.
 FR: Waouh, du feu partout ! Je déteste ça.
 
 EN: Come slime with me!
-FR: Venez vous mettre en vase avec moi !
+FR: Viens te mettre en vase avec moi !
 
 EN: You look a bit slimy.
-FR: Vous avez l’air un peu gluant.
+FR: Tu as l’air un peu gluant.
 
 EN: Ah. That explains where all the items went.
 FR: Ah. Ça explique où sont passés tous les objets.
 
 EN: Are you going to open a jelly farm when you find the Orb?
-FR: Allez-vous ouvrir une ferme à gelées quand vous trouverez l’Orbe ?
+FR: Vas-tu ouvrir une ferme à gelées quand tu trouveras l’Orbe ?
 
 EN: I hate it when jellies take over a level.
 FR: Je déteste quand les gelées envahissent un niveau.
 
 EN: Your jellies ate my lunch. I hate that.
-FR: Vos gelées ont mangé mon déjeuner. Je déteste ça.
+FR: Tes gelées ont mangé mon déjeuner. Je déteste ça.
 
 EN: I hate slime.
 FR: Je déteste la vase.
 
 EN: You must hate doors a lot.
-FR: Vous devez beaucoup détester les portes.
+FR: Tu dois beaucoup détester les portes.
 
 EN: If I pretend to be a jelly, can I have your stuff?
-FR: Si je fais semblant d’être une gelée, puis-je avoir vos affaires ?
+FR: Si je fais semblant d’être une gelée, puis-je avoir tes affaires ?
 
 EN: What's with all that fungus?
 FR: C’est quoi, tous ces champignons ?
@@ -572,10 +572,10 @@ EN: I hate fungi.
 FR: Je déteste les champignons.
 
 EN: Do you like gardening? I hate gardening.
-FR: Aimez-vous jardiner ? Je déteste jardiner.
+FR: Aimes-tu jardiner ? Je déteste jardiner.
 
 EN: So, how do you deal with the weeds?
-FR: Alors, comment gérez-vous les mauvaises herbes ?
+FR: Alors, comment gères-tu les mauvaises herbes ?
 
 EN: A plant spat acid at me. I hate that.
 FR: Une plante m’a craché de l’acide dessus. Je déteste ça.
@@ -587,13 +587,13 @@ EN: Slow down!
 FR: Doucement !
 
 EN: You're not very quick on the uptake, are you?
-FR: Vous n’êtes pas très vif à la comprenette, n’est-ce pas ?
+FR: Tu n’es pas très vif à la comprenette, n’est-ce pas ?
 
 EN: You know, if you want, I know a very good posture trainer.
-FR: Vous savez, si vous voulez, je connais un très bon coach de posture.
+FR: Tu sais, si tu veux, je connais un très bon coach de posture.
 
 EN: Am I talking too fast for you?
-FR: Est-ce que je parle trop vite pour vous ?
+FR: Est-ce que je parle trop vite pour toi ?
 
 EN: Look at me! I'm running, I'm running!
 FR: Regardez-moi ! Je cours, je cours !
@@ -605,7 +605,7 @@ EN: How about we settle this with a race?
 FR: Et si on réglait ça par une course ?
 
 EN: Xom? Are you insane?
-FR: Xom ? Vous êtes fou ?
+FR: Xom ? Tu es fou ?
 
 EN: I don't get Xom.
 FR: Je ne comprends pas Xom.
@@ -620,10 +620,10 @@ EN: I hate divine lightning.
 FR: Je déteste la foudre divine.
 
 EN: If it's mutations you're wanting, wouldn't Jiyva be a better deal?
-FR: Si ce sont des mutations que vous voulez, Jiyva ne serait-il pas une meilleure affaire ?
+FR: Si ce sont des mutations que tu veux, Jiyva ne serait-il pas une meilleure affaire ?
 
 EN: I hope you love dancing weapons. I hate them.
-FR: J’espère que vous aimez les armes dansantes. Moi, je les déteste.
+FR: J’espère que tu aimes les armes dansantes. Moi, je les déteste.
 
 EN: Been surrounded by packs of demons recently? I hate that.
 FR: Été entouré de meutes de démons récemment ? Je déteste ça.
@@ -656,16 +656,16 @@ EN: What's the point of conjuring, anyway?
 FR: À quoi bon invoquer, au juste ?
 
 EN: Do you find it easier to cast spells, now?
-FR: Trouvez-vous plus facile de lancer des sorts, maintenant ?
+FR: Trouves-tu plus facile de lancer des sorts, maintenant ?
 
 EN: I hate explosions.
 FR: Je déteste les explosions.
 
 EN: You're supposed to blow everything up for a god who barely gives you powers?
-FR: Vous êtes censé tout faire sauter pour un dieu qui vous donne à peine des pouvoirs ?
+FR: Tu es censé tout faire sauter pour un dieu qui te donne à peine des pouvoirs ?
 
 EN: You seem like a real know-it-all. I hate that.
-FR: Vous avez l’air d’un vrai je-sais-tout. Je déteste ça.
+FR: Tu as l’air d’un vrai je-sais-tout. Je déteste ça.
 
 EN: What's the point of being all-knowing if you can't do anything?
 FR: À quoi bon tout savoir si on ne peut rien faire ?
@@ -680,10 +680,10 @@ EN: What does a god have to do to get cursed, anyway?
 FR: Que doit faire un dieu pour être maudit, au juste ?
 
 EN: Sounds like you're dealing with a pretty shady god there.
-FR: On dirait que vous avez affaire à un dieu plutôt louche.
+FR: On dirait que tu as affaire à un dieu plutôt louche.
 
 EN: I'll bet you have a pretty dark future.
-FR: Je parie que vous avez un avenir assez sombre.
+FR: Je parie que tu as un avenir assez sombre.
 
 EN: I can't see a thing. I hate that.
 FR: Je n’y vois rien. Je déteste ça.
@@ -695,10 +695,10 @@ EN: I hate starless nights.
 FR: Je déteste les nuits sans étoiles.
 
 EN: Are you still afraid of the dark?
-FR: Avez-vous toujours peur du noir ?
+FR: As-tu toujours peur du noir ?
 
 EN: Careful; you might trip over your own shadow.
-FR: Attention ; vous pourriez trébucher sur votre propre ombre.
+FR: Attention ; tu pourrais trébucher sur ta propre ombre.
 
 EN: Spare some coin?
 FR: Un peu de monnaie ?
@@ -707,13 +707,13 @@ EN: I hate the rich.
 FR: Je déteste les riches.
 
 EN: I bet you have to pay people to get friends.
-FR: Je parie que vous devez payer les gens pour avoir des amis.
+FR: Je parie que tu dois payer les gens pour avoir des amis.
 
 EN: Couldn't find enough potions?
-FR: Vous n’avez pas trouvé assez de potions ?
+FR: Tu n’as pas trouvé assez de potions ?
 
 EN: So the shops here weren't enough for you?
-FR: Les boutiques d’ici ne vous suffisaient donc pas ?
+FR: Les boutiques d’ici ne te suffisaient donc pas ?
 
 EN: I saw some gold over there. Quick, better go get it!
 FR: J’ai vu de l’or par là. Vite, allez le prendre !
@@ -722,10 +722,10 @@ EN: What do potions have to do with a god of gold, anyway?
 FR: Quel rapport entre les potions et un dieu de l’or, au juste ?
 
 EN: If you give me all your gold, I promise I'll be your friend too.
-FR: Si vous me donnez tout votre or, je promets d’être votre ami aussi.
+FR: Si tu me donnes tout ton or, je promets d’être ton ami aussi.
 
 EN: How do you sleep at night with all those storm clouds?
-FR: Comment dormez-vous la nuit avec tous ces nuages d’orage ?
+FR: Comment dors-tu la nuit avec tous ces nuages d’orage ?
 
 EN: Must be pretty hard to see through all that dust.
 FR: Ça doit être assez difficile de voir à travers toute cette poussière.
@@ -740,16 +740,16 @@ EN: I hate elementals.
 FR: Je déteste les élémentaires.
 
 EN: What was that? Sorry, I couldn't hear you over all this noise.
-FR: Qu’est-ce que c’était ? Désolé, je ne vous entendais pas avec tout ce bruit.
+FR: Qu’est-ce que c’était ? Désolé, je ne t’entendais pas avec tout ce bruit.
 
 EN: Well, at least you're never short of company.
-FR: Eh bien, au moins vous ne manquez jamais de compagnie.
+FR: Eh bien, au moins tu ne manques jamais de compagnie.
 
 EN: Great. Now my shield is all dirty.
 FR: Super. Maintenant mon bouclier est tout sale.
 
 EN: Missing something?
-FR: Il vous manque quelque chose ?
+FR: Il te manque quelque chose ?
 
 EN: I hate sacrifices.
 FR: Je déteste les sacrifices.
@@ -770,31 +770,31 @@ EN: I hate existential doubt.
 FR: Je déteste le doute existentiel.
 
 EN: The great annihilating truth is that I hate you.
-FR: La grande vérité annihilante, c’est que je vous déteste.
+FR: La grande vérité annihilante, c’est que je te déteste.
 
 EN: I hate inventors.
 FR: Je déteste les inventeurs.
 
 EN: What are you with all those gadgets, some kind of pawn shop?
-FR: Qu’êtes-vous avec tous ces gadgets, une sorte de prêteur sur gages ?
+FR: Qu’es-tu avec tous ces gadgets, une sorte de prêteur sur gages ?
 
 EN: What would you do with the Orb, anyway? Experiment on it?
-FR: Que feriez-vous de l’Orbe, au juste ? Des expériences ?
+FR: Que ferais-tu de l’Orbe, au juste ? Des expériences ?
 
 EN: Bet you can't analyse your way out of this one.
-FR: Je parie que vous ne pouvez pas vous analyser une issue à celle-là.
+FR: Je parie que tu ne peux pas t’analyser une issue à celle-là.
 
 EN: Bet you can't invent your way out of this one.
-FR: Je parie que vous ne pouvez pas vous inventer une issue à celle-là.
+FR: Je parie que tu ne peux pas t’inventer une issue à celle-là.
 
 EN: Can I borrow that wand for a second? You must have some to spare.
-FR: Puis-je emprunter cette baguette une seconde ? Vous devez en avoir en trop.
+FR: Puis-je emprunter cette baguette une seconde ? Tu dois en avoir en trop.
 
 EN: Can I borrow that lamp for a second? You must have some to spare.
-FR: Puis-je emprunter cette lampe une seconde ? Vous devez en avoir en trop.
+FR: Puis-je emprunter cette lampe une seconde ? Tu dois en avoir en trop.
 
 EN: Can I borrow that fan for a second? You must have some to spare.
-FR: Puis-je emprunter ce ventilateur une seconde ? Vous devez en avoir en trop.
+FR: Puis-je emprunter ce ventilateur une seconde ? Tu dois en avoir en trop.
 
 EN: I went to a family reunion once. I hated it.
 FR: J’ai été à une réunion de famille une fois. Je l’ai détestée.
@@ -803,16 +803,16 @@ EN: Who would want to remember their ancestors? They're dead.
 FR: Qui voudrait se souvenir de ses ancêtres ? Ils sont morts.
 
 EN: If your ancestor was so tough and powerful, how come they're dead?
-FR: Si votre ancêtre était si fort et puissant, comment se fait-il qu’il soit mort ?
+FR: Si ton ancêtre était si fort et puissant, comment se fait-il qu’il soit mort ?
 
 EN: Would you happen to remember where the Orb is?
-FR: Vous souviendriez-vous par hasard où est l’Orbe ?
+FR: Te souviendrais-tu par hasard où est l’Orbe ?
 
 EN: Ghost stories? Ooh, I'm so scared!
 FR: Des histoires de fantômes ? Ooh, j’ai tellement peur !
 
 EN: Isn't it convenient that your ancestor always knows how to fight?
-FR: N’est-ce pas pratique que votre ancêtre sache toujours se battre ?
+FR: N’est-ce pas pratique que ton ancêtre sache toujours se battre ?
 
 EN: I forgot what I was going to say. I hate that.
 FR: J’ai oublié ce que j’allais dire. Je déteste ça.
@@ -827,10 +827,10 @@ EN: I hate chants.
 FR: Je déteste les chants.
 
 EN: Poetry of the foot? All you're doing is stomping around.
-FR: La poésie du pied ? Vous ne faites que piétiner.
+FR: La poésie du pied ? Tu ne fais que piétiner.
 
 EN: You look ridiculous with all that flailing around.
-FR: Vous avez l’air ridicule à vous démener comme ça.
+FR: Tu as l’air ridicule à te démener comme ça.
 
 EN: That's not dancing; that's just a fancy way of killing things.
 FR: Ce n’est pas de la danse ; c’est juste une façon élégante de tuer des choses.
@@ -842,22 +842,22 @@ EN: Path? I don't see a path anywhere.
 FR: Voie ? Je ne vois de voie nulle part.
 
 EN: You're jumping off the walls? I hate that.
-FR: Vous rebondissez sur les murs ? Je déteste ça.
+FR: Tu rebondis sur les murs ? Je déteste ça.
 
 EN: Watching you spin around is making me dizzy. I hate that.
-FR: Vous regarder tournoyer me donne le tournis. Je déteste ça.
+FR: Te regarder tournoyer me donne le tournis. Je déteste ça.
 
 EN: Why not just HIT them without all this spinning and flipping nonsense?
 FR: Pourquoi ne pas simplement les FRAPPER sans toutes ces pirouettes absurdes ?
 
 EN: Don't you get tired of all these old geezers telling you what to do?
-FR: Vous n’êtes pas fatigué de tous ces vieux croulants qui vous disent quoi faire ?
+FR: Tu n’es pas fatigué de tous ces vieux croulants qui te disent quoi faire ?
 
 EN: No way as a way? Sounds like nonsense.
 FR: Pas de voie comme voie ? Ça ressemble à du charabia.
 
 EN: Don't you get lonely without a god?
-FR: Vous ne vous sentez pas seul sans dieu ?
+FR: Tu ne te sens pas seul sans dieu ?
 
 EN: I hate the gods.
 FR: Je déteste les dieux.
@@ -869,13 +869,13 @@ EN: I hate the gods, and the gods hate me.
 FR: Je déteste les dieux, et les dieux me détestent.
 
 EN: You must run out of gods to curse by.
-FR: Vous devez être à court de dieux par qui jurer.
+FR: Tu dois être à court de dieux par qui jurer.
 
 EN: Did you miss the Ecumenical Temple?
-FR: Avez-vous raté le Temple Œcuménique ?
+FR: As-tu raté le Temple Œcuménique ?
 
 EN: You're really ugly. Did you know that?
-FR: Vous êtes vraiment laid. Le saviez-vous ?
+FR: Tu es vraiment laid. Le savais-tu ?
 
 EN: This is such a pointless quest.
 FR: Cette quête est tellement inutile.

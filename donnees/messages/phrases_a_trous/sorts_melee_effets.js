@@ -14,7 +14,7 @@ Object.assign(globalThis.DCSS_VARIABLES = globalThis.DCSS_VARIABLES || {}, {
     "{A} casts {X}!": "{S1} lance « {x2} » ! ¦ Vous lancez « {x2} » !",
     "{A} begins casting {X}.": "{S1} commence à lancer « {x2} ». ¦ Vous commencez à lancer « {x2} ».",
     // --- Fin d'effets, rappels ---
-    "The portal closes; {A} is severed.": "Le portail se ferme ; {S1} est coupé{e1} de lui.",
+    "The portal closes; {A} is severed.": "Le portail se ferme ; {S1} est coupé{e1} du portail.",
     "{I} spike launcher falls apart.": "Le lanceur de pointes {d1} se désagrège.",
     "{A} {is} shrouded in protective flame, covering ground quickly, and attacking fiercely!": "{S1} est enveloppé{e1} de flammes protectrices, se déplace rapidement et attaque férocement ! ¦ Vous êtes enveloppé de flammes protectrices, vous vous déplacez rapidement et attaquez férocement !",
     // --- Charme, chant ---
@@ -25,7 +25,7 @@ Object.assign(globalThis.DCSS_VARIABLES = globalThis.DCSS_VARIABLES || {}, {
     "{A} draws you further into {p} thrall.": "{S1} vous attire plus profondément dans son emprise.",
     "{A} is mesmerised by {A}!": "{S1} est hypnotisé{e1} par {o2} !",
     // --- Sorts de monstres ---
-    "{A} liquefies the ground around {p}!": "{S1} liquéfie le sol autour de lui !",
+    "{A} liquefies the ground around {p}!": "{S1} liquéfie le sol autour de soi !",
     "{A} is pinned to {p} own shadow.": "{S1} est cloué{e1} à sa propre ombre.",
     "{A} draws nearby shadows into {p}.": "{S1} absorbe les ombres proches.",
     "{A} shreds {A}{X}": "{S1} déchiquette {o2}{x3}",
@@ -36,9 +36,9 @@ Object.assign(globalThis.DCSS_VARIABLES = globalThis.DCSS_VARIABLES || {}, {
     "{A} goes into a battle-frenzy!": "{S1} entre en frénésie de combat !",
     "{A} picks up the pace!": "{S1} accélère l’allure !",
     "Chaos surges forth from {X} of flesh, awakening new unlife!": "Le chaos jaillit de {x1} de chair, éveillant une nouvelle non-vie !",
-    "{A} corrupts the dungeon around {p}!": "{S1} corrompt le donjon autour de lui !",
+    "{A} corrupts the dungeon around {p}!": "{S1} corrompt le donjon autour de soi !",
     "{A} activates a sealing rune.": "{S1} active une rune de scellement.",
-    "{A} calls on {A} to defend {p}!": "{S1} appelle {o2} à le défendre !",
+    "{A} calls on {A} to defend {p}!": "{S1} appelle {o2} à sa défense !",
     "{A} goads {A} on!": "{S1} pousse {o2} à l’action !",
     "{A} is recalled away.": "{S1} est rappelé{e1} ailleurs.",
     "{I} spells are empowered by the prayer of brilliance!": "Les sorts {d1} sont renforcés par la prière de brillance !",
@@ -64,8 +64,8 @@ Object.assign(globalThis.DCSS_VARIABLES = globalThis.DCSS_VARIABLES || {}, {
     // --- Armes uniques ---
     "The sword of Cerebov burns away {I} fire resistance.": "L’épée de Cérébov consume la résistance au feu {d1}.",
     "Visions of slaying {A} flood into your mind.": "Des visions du meurtre {d1} envahissent votre esprit.",
-    "<white>The lance glows brightly as it skewers {A}. You feel that it has reached its full power.</white>": "La lance brille intensément en embrochant {o1}. Vous sentez qu’elle a atteint sa pleine puissance.",
-    "<green>The lance glows as it skewers {A}.</green>": "La lance brille en embrochant {o1}.",
+    "<white>The lance glows brightly as it skewers {A}. You feel that it has reached its full power.</white>": "<white>La lance brille intensément en embrochant {o1}. Vous sentez qu’elle a atteint sa pleine puissance.</white>",
+    "<green>The lance glows as it skewers {A}.</green>": "<green>La lance brille en embrochant {o1}.</green>",
     "{A} {v:be} blasted by disruptive energy{X}": "{S1} est frappé{e1} par une énergie perturbatrice{x2} ¦ Vous êtes frappé par une énergie perturbatrice{x2}",
     "Mutagenic energy flows through {X}!": "Une énergie mutagène parcourt {x1} !",
     "{A} is filled with an inner flame.": "{S1} est rempli{e1} d’une flamme intérieure.",
@@ -93,7 +93,7 @@ Object.assign(globalThis.DCSS_VARIABLES = globalThis.DCSS_VARIABLES || {}, {
     "Your blow resonates through {A}.": "Votre coup résonne à travers {o1}.",
     "{I} fire resistance is stripped away!": "La résistance au feu {d1} est arrachée !",
     "{A} poisons {X}!": "{S1} empoisonne {x2} !",
-    "{A} {v:draw} vitality from {I} injuries!": "{S1} puise de la vitalité dans les blessures {d2} !",
+    "{A} {v:draw} vitality from {I} injuries!": "{S1} puise de la vitalité dans les blessures {d2} ! ¦ Vous puisez de la vitalité dans les blessures {d2} !",
     "{A} {v:are} engulfed in a cloud of dizzying spores!": "{S1} est englouti{e1} dans un nuage de spores étourdissantes ! ¦ Vous êtes englouti dans un nuage de spores étourdissantes !",
     "{A} {v:are} engulfed in a cloud of soporific spores!": "{S1} est englouti{e1} dans un nuage de spores soporifiques ! ¦ Vous êtes englouti dans un nuage de spores soporifiques !",
     "{A} {v:are} afflicted by dizzying energies!": "{S1} est affligé{e1} par des énergies vertigineuses ! ¦ Vous êtes affligé par des énergies vertigineuses !",
@@ -126,7 +126,7 @@ Object.assign(globalThis.DCSS_VARIABLES = globalThis.DCSS_VARIABLES || {}, {
     "{A} drains {p} {X}.": "{S1} draine son {x2}.",
     "You drain {p} {X}.": "Vous drainez son {x1}.",
     "You sap {p} willpower!": "Vous sapez sa volonté !",
-    "{A} {v:slice}{X} through the folds of space itself!": "{S1} tranche{x2} à travers les plis de l’espace lui-même !",
+    "{A} {v:slice}{X} through the folds of space itself!": "{S1} tranche{x2} à travers les plis de l’espace lui-même ! ¦ Vous tranchez{x2} à travers les plis de l’espace lui-même !",
     // --- Mains vides ---
     "Your mouth is {X} empty.": "Votre bouche est {x1} vide.",
     "You are {X} empty-clawed.": "Vous êtes {x1} sans griffes.",

@@ -11,6 +11,34 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.25.4 — tutoiement dans les répliques
+
+- Décision du 19/11 : un monstre, démon, dieu ou arme qui parle AU joueur le tutoie (« Meurs, mortel ! », « Je vais te tuer ! », « Tu es un hérétique et tu dois être détruit ! ») ; il vouvoie quand il parle de sa race ou d’un groupe (« Vous, les mortels… »). La narration du jeu reste au vouvoiement. 750 répliques revues.
+- Message d’accueil d’Halloween : « vous devrez prendre l’Orbe vous-même ».
+
+## 0.25.3 — relecture des textes générés
+
+- 1 466 textes générés (sorts et cris de monstres, Enfer, Xom, portails, nouveautés 0.35) relus : 22 corrections. Les voix de l’Enfer et les répliques de monstres vouvoient le joueur, comme le reste des répliques (« Mourez, mortel ! ») ; seul Xom tutoie. Orbe au masculin (« le prendre »), « comme un dément ».
+
+## 0.25.2 — noms des artefacts uniques
+
+- Les 154 artefacts uniques ont un nom français (`outils/unrands_fr.json` → `objets/unrands.js`, nouvelle fonction `artefactUnique` dans `messages/divers.js`) : « l’Épée chantante +7 », « le Courroux de Trog +14 », « les Bottes de sept lieues +2 (portées) », « la Grande fronde « Punk » ». Les noms propres (Trog, Cerebov, Lear…) et les surnoms (« Punk ») sont gardés.
+
+## 0.25.1 — relecture des phrases à trous
+
+- 2 079 modèles de messages relus (fichiers écrits à la main) ; 33 corrections : summon = convoquer (« Le gobelin convoque des araignées ! »), versions « vous » ajoutées (« L’eau envahit vos poumons ! »), trous mal choisis (« l’énergie magique du gobelin »), accords, balises de couleur manquantes.
+
+## 0.25 — tutoriel complet, citations libres de droits, gadgets
+
+- Moteur : phrases du tutoriel où le jeu colle le nom d’une touche dans le texte (`$cmd[...]` → « Ctrl-P », « > »…) ; la touche est reconnue quelle qu’elle soit (raccourcis personnalisés compris). 69 paragraphes (`outils/phrases_cmd_src.json`).
+- Citations des descriptions : 182 citations du domaine public traduites (Bible, Shakespeare, Milton, Blake, Poe, Lovecraft…) ; les auteurs français reprennent leur texte original (Baudelaire, Renan). Décision du 19/11 : tout ce qui est encore protégé par le droit d’auteur reste en anglais (`outils/citations_src.json` → `messages/citations_dp.js`).
+- Gadgets des Coglins : descriptions des effets et menu d’assemblage traduits ; leurs noms restent en anglais (décision du 19/11), comme ceux des livres aléatoires.
+
+## 0.24.3 — version en développement (0.35) : nouveaux textes
+
+- 328 messages du jeu à trous traduits (`outils/db/messages_trunk.txt` → `phrases_a_trous/messages_trunk.js`) : armures et bijoux qu’on met ou retire, dons divins, pouvoirs, échecs… Couverture des messages à trous : 57 % → 62 % (les autres sont surtout des messages entièrement variables, de débogage ou d’assistant).
+- Nouveautés de la 0.35 : Boreas, le centaure des bourrasques, le Rempart boréal, le métier Chasseur, les rappels d’alliés (`outils/db/descriptions_trunk.txt`).
+
 ## 0.24.2 — déterminants
 
 - H aspiré respecté (nouveau `moteur/elision.js`, utilisé par les règles, les phrases à trous et les grammaires) : « la hache de bataille », « la hachette », « la hallebarde » au lieu de « l’hache »…

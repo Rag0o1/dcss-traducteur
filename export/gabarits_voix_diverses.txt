@@ -2,13 +2,13 @@ EN: Well, hello there.
 FR: Eh bien, bonjour.
 
 EN: Aren't you a tasty little thing?
-FR: N’êtes-vous pas une petite chose savoureuse ?
+FR: N’es-tu pas une petite chose savoureuse ?
 
 EN: We're going to have a lot of fun together.
 FR: Nous allons bien nous amuser ensemble.
 
 EN: Let's make your enemies cower, shall we?
-FR: Faisons trembler vos ennemis, voulez-vous ?
+FR: Faisons trembler tes ennemis, veux-tu ?
 
 EN: You scratch my back, I'll scratch yours... and I'm one HELL of a backscratcher.
 FR: Grattez-moi le dos, je gratterai le vôtre... et je suis un SACRÉ gratteur de dos.
@@ -20,7 +20,7 @@ EN: This should be good.
 FR: Ça devrait être bien.
 
 EN: Let me show you the power of Hell.
-FR: Laissez-moi vous montrer le pouvoir de l’Enfer.
+FR: Laisse-moi te montrer le pouvoir de l’Enfer.
 
 EN: Embrace the darkness.
 FR: Embrassez les ténèbres.
@@ -35,13 +35,13 @@ EN: Now here's how it's done.
 FR: Voici comment on fait.
 
 EN: Your soul is simply delicious.
-FR: Votre âme est tout simplement délicieuse.
+FR: Ton âme est tout simplement délicieuse.
 
 EN: Has anyone ever told you how good your soul tastes?
-FR: Quelqu’un vous a-t-il déjà dit combien votre âme est bonne ?
+FR: Quelqu’un t’a-t-il déjà dit combien ton âme est bonne ?
 
 EN: You're beginning to bore me.
-FR: Vous commencez à m’ennuyer.
+FR: Tu commences à m’ennuyer.
 
 EN: My talents are wasted here.
 FR: Mes talents sont gaspillés ici.
@@ -50,7 +50,7 @@ EN: Why bother with such petty cantrips?
 FR: Pourquoi s’embêter avec de si petits tours ?
 
 EN: A demon of Hell at your fingers, and you cast that...
-FR: Un démon de l’Enfer au bout des doigts, et vous lancez ça...
+FR: Un démon de l’Enfer au bout des doigts, et tu lances ça...
 
 EN: Now, try casting something FUN.
 FR: Essayez donc de lancer quelque chose d’AMUSANT.
@@ -65,31 +65,31 @@ EN: Finally, someone more useful than... these people.
 FR: Enfin, quelqu’un de plus utile que... ces gens-là.
 
 EN: I knew you could not resist the dark call for long.
-FR: Je savais que vous ne résisteriez pas longtemps à l’appel des ténèbres.
+FR: Je savais que tu ne résisterais pas longtemps à l’appel des ténèbres.
 
 EN: I shall forgive your past transgressions, as long as you remember your place this time.
-FR: Je pardonnerai vos transgressions passées, à condition que vous vous souveniez de votre place cette fois.
+FR: Je pardonnerai tes transgressions passées, à condition que tu te souviennes de ta place cette fois.
 
 EN: I shall graciously assume that you are merely clumsy, not stupid.
-FR: Je veux bien supposer que vous n’êtes que maladroit, pas stupide.
+FR: Je veux bien supposer que tu n’es que maladroit, pas stupide.
 
 EN: Don't test my patience; I have made greater than you beg for death over less!
-FR: Ne testez pas ma patience ; j’ai fait supplier la mort de plus grands que vous pour moins que cela !
+FR: Ne teste pas ma patience ; j’ai fait supplier la mort de plus grands que toi pour moins que cela !
 
 EN: Finally...
 FR: Enfin...
 
 EN: You'll be back again, mark my words....
-FR: Vous reviendrez, croyez-moi....
+FR: Tu reviendras, crois-moi....
 
 EN: Dare you to relinquish me? You shall regret this insult!
-FR: Osez-vous m’abandonner ? Vous regretterez cette insulte !
+FR: Oses-tu m’abandonner ? Tu regretteras cette insulte !
 
 EN: How arrogant, to think that any shield could be mightier than the power of Zonguldrok!
 FR: Quelle arrogance de croire qu’un bouclier puisse être plus puissant que le pouvoir de Zonguldrok !
 
 EN: I wasn't done with you!
-FR: Je n’en avais pas fini avec vous !
+FR: Je n’en avais pas fini avec toi !
 
 EN: At last; a crown worthy of my station.
 FR: Enfin ; une couronne digne de mon rang.
@@ -98,7 +98,7 @@ EN: A good hat truly is one of the finest things in life or death.
 FR: Un bon chapeau est vraiment l’une des plus belles choses de la vie, ou de la mort.
 
 EN: I applaud your taste in fashion, my scion.
-FR: J’applaudis votre goût en matière de mode, mon rejeton.
+FR: J’applaudis ton goût en matière de mode, mon rejeton.
 
 EN: Our enemies shall surely prostrate themselves before my majesty now.
 FR: Nos ennemis se prosterneront sûrement devant ma majesté maintenant.
@@ -113,7 +113,7 @@ EN: The magic in this cap shall complement my own adequately.
 FR: La magie de ce couvre-chef complétera la mienne de façon satisfaisante.
 
 EN: How dare you fob such a shabby cap upon my head!
-FR: Comment osez-vous me refiler un couvre-chef aussi miteux !
+FR: Comment oses-tu me refiler un couvre-chef aussi miteux !
 
 EN: What an insult, to strut around in such shoddy millinery.
 FR: Quelle insulte, de parader dans une chapellerie aussi médiocre.
@@ -143,7 +143,7 @@ EN: Our combined strength is more than our foes can bear!
 FR: Notre force combinée est plus que nos ennemis ne peuvent supporter !
 
 EN: Be a stabber in the dark, treacherous to foes!
-FR: Soyez un poignardeur dans l’ombre, traître envers vos ennemis !
+FR: Sois un poignardeur dans l’ombre, traître envers tes ennemis !
 
 EN: Four thousand throats may be cut in one night by a running man.
 FR: Quatre mille gorges peuvent être tranchées en une nuit par un homme qui court.
@@ -167,10 +167,10 @@ EN: All our enemies can now be test subjects!
 FR: Tous nos ennemis peuvent désormais servir de cobayes !
 
 EN: Even if you find the elixir of immortality, remember: I was immortal first!
-FR: Même si vous trouvez l’élixir d’immortalité, souvenez-vous : j’étais immortel le premier !
+FR: Même si tu trouves l’élixir d’immortalité, souviens-toi : j’étais immortel le premier !
 
 EN: Scion, are you pondering what I'm pondering?
-FR: Rejeton, songez-vous à ce à quoi je songe ?
+FR: Rejeton, songes-tu à ce à quoi je songe ?
 
 EN: I can tolerate a stained cap for power such as this!
 FR: Je peux tolérer un couvre-chef taché pour un tel pouvoir !

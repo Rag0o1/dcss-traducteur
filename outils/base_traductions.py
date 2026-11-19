@@ -160,10 +160,10 @@ ws.freeze_panes = 'D2'
 # Règles
 rg = wb.create_sheet('Règles')
 REGLES = [
-    ('Restent en anglais', 'Noms de sorts (même quand le mot sert ailleurs) ; « Blink » (et le verbe : « faire un Blink ») ; noms des portails (Ziggurat, Sewer, Ossuary, Bailey, Ice Cave, Volcano, Wizlab, Desolation, Bazaar, Trove, Gauntlet, Necropolis, Labyrinth) ; « Blink » et « Para » dans la barre latérale ; noms inventés entre guillemets des artefacts.'),
+    ('Restent en anglais', 'Noms de sorts (même quand le mot sert ailleurs) ; « Blink » (et le verbe : « faire un Blink ») ; noms des portails (Ziggurat, Sewer, Ossuary, Bailey, Ice Cave, Volcano, Wizlab, Desolation, Bazaar, Trove, Gauntlet, Necropolis, Labyrinth) ; « Blink » et « Para » dans la barre latérale ; noms inventés entre guillemets des artefacts ; noms des livres aléatoires (noms propres) ; noms des gadgets des Coglins (inventés).'),
     ('Portails', 'Noms propres : article défini (la Ziggurat, le Sewer, au Gauntlet, du Volcano). Féminins : la Ziggurat, la Desolation, la Necropolis, l’Ice Cave.'),
     ('Tout le reste', 'Traduit en français, sauf décision contraire du joueur.'),
-    ('Ton', 'Vouvoiement partout ; Xom tutoie le joueur.'),
+    ('Ton', 'Le texte du jeu (narration, menus) vouvoie le joueur. Dans les répliques (monstres, démons, dieux, armes qui parlent) : TUTOIEMENT quand on parle au joueur lui-même (« Meurs, mortel ! »), VOUVOIEMENT quand on parle de sa race ou d’un groupe (« Vous, les mortels… »). Xom tutoie.'),
     ('Longueur', 'Un texte d’interface (nom, libellé, menu) ne dépasse pas la longueur de l’anglais + 2 caractères.'),
     ('Typographie', 'Apostrophe ’ ; guillemets « » ; espace avant ! ? : ;'),
 ]

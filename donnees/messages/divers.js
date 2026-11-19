@@ -49,8 +49,21 @@
     const INCONNUS = { scrolls: "parchemins", scroll: "parchemin", potions: "potions", potion: "potion", wands: "baguettes", wand: "baguette", rings: "anneaux", amulets: "amulettes" };
 
     // Traduit « a +6 ring of strength », « maw talismans », « 2 wands of light »... ou null.
+    // Artefacts uniques (« unrandarts ») : nom français + genre, table DCSS_UNRANDS (donnees/objets/unrands.js)
+    function artefactUnique(s) {
+        const U = globalThis.DCSS_UNRANDS; if (!U) return null;
+        const m = s.match(/^(?:(an?|the) )?(?:([+-]\d+) )?(.+)$/);
+        const e = m && U[m[3]]; if (!e) return null;
+        const [fr, g] = e, pl = g[1] === "p", f = g[0] === "f";
+        let pref = "";
+        if (m[1] === "the") pref = pl ? "les " : globalThis.DCSS_ELIDE(fr) ? "l’" : f ? "la " : "le ";
+        else if (m[1]) pref = pl ? "des " : f ? "une " : "un ";
+        return pref + fr + (m[2] ? " " + m[2] : "");
+    }
     function objetPlus(src) {
         let s = src.trim();
+        const unique = artefactUnique(s);
+        if (unique !== null) return unique;
         const direct = objetBase(s);
         if (direct !== null) return direct;
         let q;
@@ -152,7 +165,7 @@
         const o = objetPlus(reste) ?? (prix ? reste : null);
         if (o === null) return null;
         {   // accord de « (porté) » avec l'objet : « une robe (portée) », « des écailles… (portées) »
-            const pl = /^(des|les|\d+) /.test(o), fem = /^(une|la) /.test(o) || /^(des|les) écailles/.test(o);
+            const pl = /^(des|les|\d+) /.test(o), fem = /^(une|la) /.test(o) || /^(des|les) ([ée]cailles|[ÉE]cailles|[Bb]ottes|[Jj]ambières|[Mm]itaines)\b/.test(o);
             const i = suffixes.indexOf("(porté)"); if (i !== -1) suffixes[i] = "(porté" + (fem ? "e" : "") + (pl ? "s" : "") + ")";
         }
         if (prix) return prefixe + prix + o + (suffixes.length ? " " + suffixes.join(" ") : "");

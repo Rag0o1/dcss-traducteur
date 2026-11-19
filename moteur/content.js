@@ -385,6 +385,21 @@ function traduireMemo(texte) {
 // ---------------------------------------------------------------------------------------------
 const DCSS_PHRASES_TOUCHES = new Map(Object.entries(globalThis.DCSS_PHRASES_TOUCHES || {}));
 const dcssSigTouches = s => s.replace(/\s+/g, " ").trim();
+// Phrases du tutoriel où le jeu colle le nom d'une touche dans le texte ($cmd[...] → « Ctrl-P », « > »…) : Ⓒ = cette touche.
+// Chaque phrase devient une expression régulière où Ⓒ accepte n'importe quel nom de touche court, recopié dans le français.
+const DCSS_PHRASES_CMD = Object.entries(globalThis.DCSS_PHRASES_TOUCHES_CMD || {}).map(([en, fr]) => ({
+    re: new RegExp("^" + dcssSigTouches(en).replace(/[.*+?^${}()|[\]\\]/g, "\\$&").replace(/Ⓒ/g, "(\\S{1,12}?)") + "$"), fr }));
+function traduirePhraseCmd(sig) {
+    for (const { re, fr } of DCSS_PHRASES_CMD) {
+        const m = sig.match(re); if (!m) continue;
+        let k = 1; return fr.replace(/Ⓒ/g, () => m[k++] || "");
+    }
+    return null;
+}
+if (DCSS_PHRASES_CMD.length) {   // phrase d'un seul tenant (sans touche colorée) : règle générale
+    globalThis.DCSS_TRADUCTION_REGLES = (globalThis.DCSS_TRADUCTION_REGLES || []).concat([{
+        regex: /^[\s\S]{20,}$/, translate: (m, t) => (t.indexOf("Ⓚ") === -1 && traduirePhraseCmd(dcssSigTouches(t))) || t }]);
+}
 function traduirePhraseATouches(noeud) {
     const parent = noeud.parentElement;
     if (!parent || parent.childElementCount === 0 || parent.childNodes.length < 3) return false;
@@ -400,7 +415,8 @@ function traduirePhraseATouches(noeud) {
     // Paragraphe par paragraphe (une fenêtre peut contenir plusieurs paragraphes).
     let change = false;
     const resultat = textes.join("Ⓚ").split(/(\n[ \t]*\n)/).map(bloc => {
-        const fr = DCSS_PHRASES_TOUCHES.get(dcssSigTouches(bloc));
+        const sigBloc = dcssSigTouches(bloc);
+        const fr = DCSS_PHRASES_TOUCHES.has(sigBloc) ? DCSS_PHRASES_TOUCHES.get(sigBloc) : (sigBloc.indexOf("Ⓚ") !== -1 && DCSS_PHRASES_CMD.length ? traduirePhraseCmd(sigBloc) : undefined);
         if (typeof fr !== "string") return bloc;
         change = true;
         // Texte d'aide mis en page sur plusieurs lignes : on recoupe la traduction de la même façon.
@@ -424,7 +440,7 @@ function traduirePhraseATouches(noeud) {
 
 function traduireNoeudTexte(noeud) {
     if (!noeud || noeud.nodeType !== Node.TEXT_NODE) return;
-    if (DCSS_PHRASES_TOUCHES.size) traduirePhraseATouches(noeud);   // ne fait rien si la phrase n'est pas connue
+    if (DCSS_PHRASES_TOUCHES.size || DCSS_PHRASES_CMD.length) traduirePhraseATouches(noeud);   // ne fait rien si la phrase n'est pas connue
     const original = noeud.nodeValue;
     if (typeof original !== "string") return;
     if (original.length > DCSS_MAX_TEXTE_SOURCE) {

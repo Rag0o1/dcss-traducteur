@@ -293,13 +293,13 @@ D’une voix hystérique, @the_weapon@ entame une marche.
 @The_weapon@ vous raconte [la disparition|la mort|l’infortune] de son précédent propriétaire.
 
 @The_weapon@ brightly announces, "I've got so much to tell you!"
-@The_weapon@ annonce gaiement : « J’ai tant de choses à vous raconter ! »
+@The_weapon@ annonce gaiement : « J’ai tant de choses à te raconter ! »
 
 @The_weapon@ says, "You could say something too, you know."
-@The_weapon@ dit : « Vous pourriez dire quelque chose aussi, vous savez. »
+@The_weapon@ dit : « Tu pourrais dire quelque chose aussi, tu sais. »
 
 @The_weapon@ complains, "Are you always this [silent|uncommunicative|taciturn|quiet|boring]?
-@The_weapon@ se plaint : « Êtes-vous toujours aussi [silencieux|peu communicatif|taciturne|calme|ennuyeux] ? »
+@The_weapon@ se plaint : « Es-tu toujours aussi [silencieux|peu communicatif|taciturne|calme|ennuyeux] ? »
 
 @The_weapon@ grouses, "Silence can be so depressing."
 @The_weapon@ ronchonne : « Le silence peut être si déprimant. »
@@ -314,19 +314,19 @@ D’une voix hystérique, @the_weapon@ entame une marche.
 @The_weapon@ tente de vous apprendre des virelangues.
 
 @The_weapon@ says, "At least you will die someday and escape this tedium!"
-@The_weapon@ dit : « Au moins, vous mourrez un jour et échapperez à cet ennui ! »
+@The_weapon@ dit : « Au moins, tu mourras un jour et échapperas à cet ennui ! »
 
 @The_weapon@ says, "I don't know that song, but if you hum a few bars, I can take a stab at it."
-@The_weapon@ dit : « Je ne connais pas cette chanson, mais si vous en fredonnez quelques mesures, je peux m’y essayer. »
+@The_weapon@ dit : « Je ne connais pas cette chanson, mais si tu en fredonnes quelques mesures, je peux m’y essayer. »
 
 @The_weapon@ boasts, "I have an eight-octave range, you know."
-@The_weapon@ se vante : « J’ai une tessiture de huit octaves, vous savez. »
+@The_weapon@ se vante : « J’ai une tessiture de huit octaves, tu sais. »
 
 @The_weapon@ sighs wistfully, "I wish my music got as much attention as my homicides..."
 @The_weapon@ soupire avec nostalgie : « Si seulement ma musique recevait autant d’attention que mes homicides... »
 
 @The_weapon@ sneers, "I've heard your voice, @player_name@. Let's just keep this a solo act."
-@The_weapon@ ricane : « J’ai entendu votre voix, @player_name@. Gardons plutôt cela en solo. »
+@The_weapon@ ricane : « J’ai entendu ta voix, @player_name@. Gardons plutôt cela en solo. »
 
 @The_weapon@ says, "Hi! I'm the Singing Sword!"
 @The_weapon@ dit : « Salut ! Je suis l’Épée chantante ! »
@@ -338,7 +338,7 @@ D’une voix hystérique, @the_weapon@ entame une marche.
 @The_weapon@ dicte un long traité intitulé « La Lame bien tempérée ».
 
 @The_weapon@ says, "Whips just don't cut it for me, don't you agree?"
-@The_weapon@ dit : « Les fouets, ça ne coupe pas assez pour moi, n’êtes-vous pas d’accord ? »
+@The_weapon@ dit : « Les fouets, ça ne coupe pas assez pour moi, n’es-tu pas d’accord ? »
 
 @The_weapon@ chants, "Rather stab than club, rather slice than rub!"
 @The_weapon@ psalmodie : « Plutôt percer que massacrer, plutôt trancher que frotter ! »
@@ -359,7 +359,7 @@ D’une voix hystérique, @the_weapon@ entame une marche.
 @The_weapon@ crie : « Des socs aux épées ! »
 
 @The_weapon@ asks, "What song would you like to be played for your funeral?"
-@The_weapon@ demande : « Quelle chanson voulez-vous pour vos funérailles ? »
+@The_weapon@ demande : « Quelle chanson veux-tu pour tes funérailles ? »
 
 @The_weapon@ announces, "I dedicate these songs to @player_name@!"
 @The_weapon@ annonce : « Je dédie ces chansons à @player_name@ ! »
@@ -368,7 +368,7 @@ D’une voix hystérique, @the_weapon@ entame une marche.
 @The_weapon@ déclare : « Je chante l’histoire de @player_name@, le guerrier ! »
 
 @The_weapon@ says, "Hey! Are you even listening?"
-@The_weapon@ dit : « Hé ! Vous m’écoutez, au moins ? »
+@The_weapon@ dit : « Hé ! Tu m’écoutes, au moins ? »
 
 @The_weapon@ longs back for the days in the arena.
 @The_weapon@ regrette l’époque de l’arène.
@@ -386,10 +386,10 @@ D’une voix hystérique, @the_weapon@ entame une marche.
 @The_weapon@ s’écrie : « J’adore mettre une chanson dans le cœur des gens. Et dans leurs reins. »
 
 @The_weapon@ grouses, "Could you please kill something? I'm itching all over."
-@The_weapon@ ronchonne : « Pourriez-vous tuer quelque chose, s’il vous plaît ? Ça me démange partout. »
+@The_weapon@ ronchonne : « Pourrais-tu tuer quelque chose, s’il te plaît ? Ça me démange partout. »
 
 @The_weapon@ laments, "What are you waiting for? I am doing all the work."
-@The_weapon@ se lamente : « Qu’attendez-vous ? C’est moi qui fais tout le travail. »
+@The_weapon@ se lamente : « Qu’attends-tu ? C’est moi qui fais tout le travail. »
 
 @The_weapon@ explains, "Killing is an art, not a pastime."
 @The_weapon@ explique : « Tuer est un art, pas un passe-temps. »
@@ -425,7 +425,7 @@ D’une voix hystérique, @the_weapon@ entame une marche.
 @The_weapon@ médite : « Qui dois-je tuer pour être servie, ici ? »
 
 @The_weapon@ sings out, "Sing loudly and carry a big sword!"
-@The_weapon@ chante à tue-tête : « Chantez fort et portez une grande épée ! »
+@The_weapon@ chante à tue-tête : « Chante fort et porte une grande épée ! »
 
 @The_weapon@ ponders the difference in lifespan between man and sword.
 @The_weapon@ réfléchit à la différence de durée de vie entre l’homme et l’épée.
@@ -440,10 +440,10 @@ D’une voix hystérique, @the_weapon@ entame une marche.
 @The_weapon@ dit d’une voix rauque : « Besoin de boire... vite ! Poignardez quelque chose. »
 
 @The_weapon@ says, "You haven't happened to see my sheath laying around anywhere? I feel so exposed."
-@The_weapon@ dit : « Vous n’auriez pas vu mon fourreau traîner quelque part ? Je me sens si exposée. »
+@The_weapon@ dit : « Tu n’aurais pas vu mon fourreau traîner quelque part ? Je me sens si exposée. »
 
 @The_weapon@ complains, "Oh, are your palms wet and greasy. But I allow you to wield me for a while."
-@The_weapon@ se plaint : « Oh, vos paumes sont moites et grasses. Mais je vous permets de me manier un moment. »
+@The_weapon@ se plaint : « Oh, tes paumes sont moites et grasses. Mais je te permets de me manier un moment. »
 
 @The_weapon@ shouts, "Live by the sword, die by the sword!"
 @The_weapon@ s’écrie : « Qui vit par l’épée périra par l’épée ! »
@@ -455,7 +455,7 @@ D’une voix hystérique, @the_weapon@ entame une marche.
 @The_weapon@ réalise : « Si nous les tuons tous, personne n’écoutera ! »
 
 @The_weapon@ sighs, "How I wish you were a better fighter."
-@The_weapon@ soupire : « Que je voudrais que vous soyez meilleur combattant. »
+@The_weapon@ soupire : « Que je voudrais que tu sois meilleur combattant. »
 
 @The_weapon@ comments on your fighting techniques.
 @The_weapon@ commente vos techniques de combat.
@@ -467,25 +467,25 @@ D’une voix hystérique, @the_weapon@ entame une marche.
 @The_weapon@ se plaint : « C’est une corvée. »
 
 @The_weapon@ judges, "You're not an artist, at best an artisan."
-@The_weapon@ juge : « Vous n’êtes pas un artiste, au mieux un artisan. »
+@The_weapon@ juge : « Tu n’es pas un artiste, au mieux un artisan. »
 
 @The_weapon@ says, "They will have to pry me from your cold, dead hands."
-@The_weapon@ dit : « Il faudra me les arracher de vos mains froides et mortes. »
+@The_weapon@ dit : « Il faudra me les arracher de tes mains froides et mortes. »
 
 @The_weapon@ moans, "By @god_or_blade@, you are such a [coward|dastard|craven|faintheart|poltroon|wuss]."
-@The_weapon@ gémit : « Par @god_or_blade@, vous n’êtes qu’un [lâche|couard|poltron|timoré|dégonflé|mauviette]. »
+@The_weapon@ gémit : « Par @god_or_blade@, tu n’es qu’un [lâche|couard|poltron|timoré|dégonflé|mauviette]. »
 
 @The_weapon@ wonders, "Who is more incompetent - you or the opposition?"
-@The_weapon@ se demande : « Qui est le plus incompétent, vous ou l’adversaire ? »
+@The_weapon@ se demande : « Qui est le plus incompétent, toi ou l’adversaire ? »
 
 @The_weapon@ utters, "Their cries, their tears, I cannot stand it anymore."
 @The_weapon@ murmure : « Leurs cris, leurs larmes, je n’en peux plus. »
 
 @The_weapon@ says, "Will you forgive me a little stab on the side?"
-@The_weapon@ dit : « Me pardonnerez-vous un petit coup de pointe sur le côté ? »
+@The_weapon@ dit : « Me pardonneras-tu un petit coup de pointe sur le côté ? »
 
 @The_weapon@ says, "Your kiss, my thrill, your miss, my kill."
-@The_weapon@ dit : « Votre baiser, mon frisson, votre échec, ma victime. »
+@The_weapon@ dit : « Ton baiser, mon frisson, ton échec, ma victime. »
 
 @The_weapon@ boasts, "My voice can shatter a wine glass. My blade can shatter a human skull."
 @The_weapon@ se vante : « Ma voix peut briser un verre de vin. Ma lame peut briser un crâne humain. »
@@ -515,13 +515,13 @@ D’une voix hystérique, @the_weapon@ entame une marche.
 @The_weapon@ avertit : « N’envoyez jamais @a_player_genus@ faire le travail d’une lame ! »
 
 @The_weapon@ hisses, "Let's hear you complain about my singing with your throat slit!"
-@The_weapon@ siffle : « Voyons si vous vous plaindrez de mon chant la gorge tranchée ! »
+@The_weapon@ siffle : « Voyons si tu te plaindras de mon chant la gorge tranchée ! »
 
 @The_weapon@ teaches, "Practice makes perfect!"
 @The_weapon@ enseigne : « C’est en forgeant qu’on devient forgeron ! »
 
 @The_weapon@ asks, "Do you have the will to power, @player_name@?"
-@The_weapon@ demande : « Avez-vous la volonté de puissance, @player_name@ ? »
+@The_weapon@ demande : « As-tu la volonté de puissance, @player_name@ ? »
 
 @The_weapon@ laughs, "I always appreciate a bleeding ovation!"
 @The_weapon@ rit : « J’apprécie toujours une ovation sanglante ! »
@@ -530,13 +530,13 @@ D’une voix hystérique, @the_weapon@ entame une marche.
 @The_weapon@ s’écrie : « L’os du cou est relié à l’os de la tête... mais plus pour longtemps ! »
 
 @The_weapon@ shouts, "My song won't be the only thing that'll get stuck in your head!"
-@The_weapon@ s’écrie : « Ma chanson ne sera pas la seule chose à se planter dans votre tête ! »
+@The_weapon@ s’écrie : « Ma chanson ne sera pas la seule chose à se planter dans ta tête ! »
 
 @The_weapon@ shouts, "If it bleeds, we can kill it!"
 @The_weapon@ s’écrie : « Si ça saigne, on peut le tuer ! »
 
 @The_weapon@ says, "I want to see you dance on the blood-dimmed tide."
-@The_weapon@ dit : « Je veux vous voir danser sur la marée assombrie de sang. »
+@The_weapon@ dit : « Je veux te voir danser sur la marée assombrie de sang. »
 
 @The_weapon@ shouts, "Today is a good day to die!"
 @The_weapon@ s’écrie : « Aujourd’hui est un bon jour pour mourir ! »
@@ -563,7 +563,7 @@ D’une voix hystérique, @the_weapon@ entame une marche.
 @The_weapon@ s’écrie : « Perdre ma trempe ? Absurde ! Mon acier restera fort à jamais ! »
 
 @The_weapon@ shouts, "Cut 'em off! All their little heads at once!"
-@The_weapon@ s’écrie : « Coupez-les ! Toutes leurs petites têtes d’un coup ! »
+@The_weapon@ s’écrie : « Coupe-les ! Toutes leurs petites têtes d’un coup ! »
 
 @The_weapon@ shouts, "Kill 'em all and let @godsorter@ sort them out!"
 @The_weapon@ s’écrie : « Tuez-les tous et que @godsorter@ fasse le tri ! »
@@ -572,7 +572,7 @@ D’une voix hystérique, @the_weapon@ entame une marche.
 @The_weapon@ s’écrie : « Les cris et les pleurs sont l’accompagnement parfait. »
 
 @The_weapon@ shouts, "I'll make piano strings from your guts!"
-@The_weapon@ s’écrie : « Je ferai des cordes de piano avec vos tripes ! »
+@The_weapon@ s’écrie : « Je ferai des cordes de piano avec tes tripes ! »
 
 @The_weapon@ shouts, "Oh, the @_glorious_@ feeling of steel cutting flesh."
 @The_weapon@ s’écrie : « Oh, la sensation @_glorious_@ de l’acier qui tranche la chair. »
@@ -584,7 +584,7 @@ D’une voix hystérique, @the_weapon@ entame une marche.
 @The_weapon@ s’écrie : « Mourez. Mourez. Mourez ! »
 
 @The_weapon@ shouts, "You shall lie beneath the ground but I, I will glint in the sun!"
-@The_weapon@ s’écrie : « Vous gîrez sous terre mais moi, moi, je scintillerai au soleil ! »
+@The_weapon@ s’écrie : « Tu gîras sous terre mais moi, moi, je scintillerai au soleil ! »
 
 @The_weapon@ shouts, "Born from this womb, sliced by this blade!"
 @The_weapon@ s’écrie : « Né de ce ventre, tranché par cette lame ! »
@@ -623,7 +623,7 @@ D’une voix hystérique, @the_weapon@ entame une marche.
 @The_weapon@ @_screams_@ : « Nous fêterons ça sur un tas de carcasses ! »
 
 @The_weapon@ @_screams_@, "@player_name@, you will [dine|feast] on fine @_corpses_@ today!"
-@The_weapon@ @_screams_@ : « @player_name@, vous allez [dîner|vous régaler] de beaux @_corpses_@ aujourd’hui ! »
+@The_weapon@ @_screams_@ : « @player_name@, tu vas [dîner|te régaler] de beaux @_corpses_@ aujourd’hui ! »
 
 @The_weapon@ @_screams_@, "Go for the jugular!"
 @The_weapon@ @_screams_@ : « Visez la jugulaire ! »
@@ -641,7 +641,7 @@ D’une voix hystérique, @the_weapon@ entame une marche.
 @The_weapon@ @_screams_@ : « Mon fil s’émousse ! Mon fil s’émousse ! »
 
 @The_weapon@ @_screams_@, "Don't stick me into that one, please."
-@The_weapon@ @_screams_@ : « Ne me plantez pas dans celui-là, s’il vous plaît. »
+@The_weapon@ @_screams_@ : « Ne me plante pas dans celui-là, s’il te plaît. »
 
 @The_weapon@ @_screams_@, "My victories add up!"
 @The_weapon@ @_screams_@ : « Mes victoires s’additionnent ! »

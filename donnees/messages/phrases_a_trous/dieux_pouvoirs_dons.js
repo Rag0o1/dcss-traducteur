@@ -126,7 +126,7 @@
         "Zin will now cleanse your potions of mutation.": "Zin purifiera désormais vos potions de mutation.",
         "Zin will no longer cleanse your potions of mutation.": "Zin ne purifiera plus vos potions de mutation.",
         "Zin will cleanse your potions of mutation.": "Zin purifie vos potions de mutation.",
-        "Your summoned allies will not expire while fighting evil.": "Vos alliés invoqués ne disparaîtront pas tant qu’ils combattent le mal.",
+        "Your summoned allies will not expire while fighting evil.": "Vos alliés convoqués ne disparaîtront pas tant qu’ils combattent le mal.",
         "You can now gain power from killing the unholy and evil.": "Vous pouvez désormais gagner de la puissance en tuant les impies et les maléfiques.",
         "You can no longer gain power from killing the unholy and evil.": "Vous ne pouvez plus gagner de puissance en tuant les impies et les maléfiques.",
 
@@ -272,7 +272,7 @@
         "You have identified the last potion.": "Vous avez identifié la dernière potion.",
         "{X} returns to the mists of memory.": "{x1} retourne dans les brumes du souvenir.",
         "You now have {X} escape cards and {X} destruction cards.": "Vous avez maintenant {x1} cartes d’évasion et {x2} cartes de destruction.",
-        "You now have {X} escape cards, {X} destruction cards and {X} summoning cards.": "Vous avez maintenant {x1} cartes d’évasion, {x2} cartes de destruction et {x3} cartes d’invocation."
+        "You now have {X} escape cards, {X} destruction cards and {X} summoning cards.": "Vous avez maintenant {x1} cartes d’évasion, {x2} cartes de destruction et {x3} cartes de convocation."
     });
 
     // --- « You add the spells A, B and C to your library. » : noms de sorts traduits un par un (ou laissés en anglais selon l'option) ---

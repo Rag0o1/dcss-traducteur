@@ -149,7 +149,7 @@ EN: The tentacle pulls {A} backwards!
 FR: Le tentacule tire {o1} en arrière !
 
 EN: <white>{X} is honoured by your kill.</white>
-FR: {x1} est honoré par votre victoire.
+FR: <white>{x1} est honoré par votre victoire.</white>
 
 EN: The light of Elyvilon comforts {A}{X}.
 FR: La lumière d’Elyvilon réconforte {o1}{x2}.
@@ -272,7 +272,7 @@ EN: A stygian plague fills {A} body.
 FR: Une peste stygienne emplit le corps {d1}.
 
 EN: {A} {v:bask} in {X}.
-FR: {S1} se prélasse dans {x2}.
+FR: {S1} se prélasse dans {x2}. ¦ Vous vous prélassez dans {x2}.
 
 EN: {A} {X} in the rain.
 FR: {S1} {x2} sous la pluie.
@@ -602,10 +602,10 @@ EN: {A} shimmers and splits apart.
 FR: {S1} miroite et se scinde en deux.
 
 EN: {A} seems to step out of {p}!
-FR: {S1} semble sortir de lui-même !
+FR: {S1} semble sortir de soi-même !
 
 EN: {A} is hit by a flying piece of {A}!
-FR: {S1} est touché{e1} par un morceau de {x2} projeté !
+FR: {S1} est touché{e1} par un morceau {d2} projeté !
 
 EN: {A} fails to defend {p}.
 FR: {S1} échoue à se défendre.
@@ -626,7 +626,7 @@ EN: Your paragon deflects {I} attack away from you.
 FR: Votre parangon détourne l’attaque {d1} loin de vous.
 
 EN: {A} {v:drain} {I} vigour!
-FR: {S1} draine la vigueur {d2} !
+FR: {S1} draine la vigueur {d2} ! ¦ Vous drainez la vigueur {d2} !
 
 EN: You catch {A} completely off-guard!
 FR: Vous prenez {o1} complètement au dépourvu !
@@ -677,7 +677,7 @@ EN: You pick up {A}, but it has nothing more to teach you.
 FR: Vous ramassez {o1}, mais il n’a plus rien à vous apprendre.
 
 EN: You pick up another {A} and continue studying.
-FR: Vous ramassez un autre exemplaire de {o1} et continuez à étudier.
+FR: Vous ramassez un autre exemplaire {d1} et continuez à étudier.
 
 EN: You pick up {A} and begin studying.
 FR: Vous ramassez {o1} et commencez à l’étudier.
@@ -1121,7 +1121,7 @@ EN: {A} begins casting {X}.
 FR: {S1} commence à lancer « {x2} ». ¦ Vous commencez à lancer « {x2} ».
 
 EN: The portal closes; {A} is severed.
-FR: Le portail se ferme ; {S1} est coupé{e1} de lui.
+FR: Le portail se ferme ; {S1} est coupé{e1} du portail.
 
 EN: {I} spike launcher falls apart.
 FR: Le lanceur de pointes {d1} se désagrège.
@@ -1148,7 +1148,7 @@ EN: {A} is mesmerised by {A}!
 FR: {S1} est hypnotisé{e1} par {o2} !
 
 EN: {A} liquefies the ground around {p}!
-FR: {S1} liquéfie le sol autour de lui !
+FR: {S1} liquéfie le sol autour de soi !
 
 EN: {A} is pinned to {p} own shadow.
 FR: {S1} est cloué{e1} à sa propre ombre.
@@ -1181,13 +1181,13 @@ EN: Chaos surges forth from {X} of flesh, awakening new unlife!
 FR: Le chaos jaillit de {x1} de chair, éveillant une nouvelle non-vie !
 
 EN: {A} corrupts the dungeon around {p}!
-FR: {S1} corrompt le donjon autour de lui !
+FR: {S1} corrompt le donjon autour de soi !
 
 EN: {A} activates a sealing rune.
 FR: {S1} active une rune de scellement.
 
 EN: {A} calls on {A} to defend {p}!
-FR: {S1} appelle {o2} à le défendre !
+FR: {S1} appelle {o2} à sa défense !
 
 EN: {A} goads {A} on!
 FR: {S1} pousse {o2} à l’action !
@@ -1262,10 +1262,10 @@ EN: Visions of slaying {A} flood into your mind.
 FR: Des visions du meurtre {d1} envahissent votre esprit.
 
 EN: <white>The lance glows brightly as it skewers {A}. You feel that it has reached its full power.</white>
-FR: La lance brille intensément en embrochant {o1}. Vous sentez qu’elle a atteint sa pleine puissance.
+FR: <white>La lance brille intensément en embrochant {o1}. Vous sentez qu’elle a atteint sa pleine puissance.</white>
 
 EN: <green>The lance glows as it skewers {A}.</green>
-FR: La lance brille en embrochant {o1}.
+FR: <green>La lance brille en embrochant {o1}.</green>
 
 EN: {A} {v:be} blasted by disruptive energy{X}
 FR: {S1} est frappé{e1} par une énergie perturbatrice{x2} ¦ Vous êtes frappé par une énergie perturbatrice{x2}
@@ -1346,7 +1346,7 @@ EN: {A} poisons {X}!
 FR: {S1} empoisonne {x2} !
 
 EN: {A} {v:draw} vitality from {I} injuries!
-FR: {S1} puise de la vitalité dans les blessures {d2} !
+FR: {S1} puise de la vitalité dans les blessures {d2} ! ¦ Vous puisez de la vitalité dans les blessures {d2} !
 
 EN: {A} {v:are} engulfed in a cloud of dizzying spores!
 FR: {S1} est englouti{e1} dans un nuage de spores étourdissantes ! ¦ Vous êtes englouti dans un nuage de spores étourdissantes !
@@ -1445,7 +1445,7 @@ EN: You sap {p} willpower!
 FR: Vous sapez sa volonté !
 
 EN: {A} {v:slice}{X} through the folds of space itself!
-FR: {S1} tranche{x2} à travers les plis de l’espace lui-même !
+FR: {S1} tranche{x2} à travers les plis de l’espace lui-même ! ¦ Vous tranchez{x2} à travers les plis de l’espace lui-même !
 
 EN: Your mouth is {X} empty.
 FR: Votre bouche est {x1} vide.
@@ -2777,7 +2777,7 @@ EN: You shatter the chains binding {Y}!
 FR: Vous brisez les chaînes qui lient {y1} !
 
 EN: {X} grants you and your allies divine vigour.
-FR: {x1} accorde à vous et à vos alliés une vigueur divine.
+FR: {x1} vous accorde, ainsi qu’à vos alliés, une vigueur divine.
 
 EN: You lift the black torch aloft and begin your conquest of {X} in Yredelemnul's name!
 FR: Vous levez la torche noire et commencez votre conquête de {x1} au nom de Yredelemnul !
@@ -2792,7 +2792,7 @@ EN: A jealous {A} pursues it!
 FR: {S1} jaloux la poursuit !
 
 EN: A rebellious {A} escapes with it!
-FR: {S1} rebelle s’enfuit avec !
+FR: {S1} rebelle s’enfuit avec elle !
 
 EN: You utter a prayer to Makhleb and carve the {X} into yourself.
 FR: Vous prononcez une prière à Makhleb et gravez {x1} dans votre chair.
@@ -3836,7 +3836,7 @@ EN: {A} wobbles aimlessly.
 FR: {S1} vacille sans but.
 
 EN: {A} says, "Become one with my sorrow!"
-FR: {S1} dit : « Ne fais plus qu’un avec ma peine ! »
+FR: {S1} dit : « Ne faites plus qu’un avec ma peine ! »
 
 EN: {A} gurgles deeply, a call to fellow slimes.
 FR: {S1} gargouille profondément, un appel à ses semblables.
@@ -3911,10 +3911,10 @@ EN: {A} throws {p} arms up pleadingly.
 FR: {S1} lève les bras d’un air suppliant.
 
 EN: {A} cries, "Fearful master, protect me!"
-FR: {S1} s’écrie : « Maître terrible, protège-moi ! »
+FR: {S1} s’écrie : « Maître terrible, protégez-moi ! »
 
 EN: {A} shouts, "O dreadful one, destroy my foe!"
-FR: {S1} crie : « Ô redoutable, détruis mon ennemi ! »
+FR: {S1} crie : « Ô redoutable, détruisez mon ennemi ! »
 
 EN: {A} gestures frantically.
 FR: {S1} gesticule frénétiquement.
@@ -4372,6 +4372,972 @@ FR: Vous sentez quelque chose vous fixer.
 EN: {A} waves {p} antennae.
 FR: {S1} agite ses antennes.
 
+EN: Something merges into {X}, and it vanishes!
+FR: Quelque chose fusionne avec {x1}, puis disparaît !
+
+EN: {A} writhes in pain as voices assail {p} mind.
+FR: {S1} se tord de douleur tandis que des voix assaillent son esprit.
+
+EN: {A} writhes as voices assail {p} being.
+FR: {S1} se tord tandis que des voix assaillent son être.
+
+EN: {A} absorbs {X} nearby slime creatures and sprouts a new head.
+FR: {S1} absorbe {x2} créatures gluantes proches et gagne une nouvelle tête.
+
+EN: {A} absorbs {X} nearby slime creatures and sprouts {X} new heads.
+FR: {S1} absorbe {x2} créatures gluantes proches et gagne {x3} nouvelles têtes.
+
+EN: {A} absorbs a nearby slime creature and sprouts a new head.
+FR: {S1} absorbe une créature gluante proche et gagne une nouvelle tête.
+
+EN: {A} absorbs a nearby slime creature and sprouts {X} new heads.
+FR: {S1} absorbe une créature gluante proche et gagne {x2} nouvelles têtes.
+
+EN: {A} ignites a memory of {X} to re-knit themselves.
+FR: {S1} ravive le souvenir de {x2} pour se régénérer.
+
+EN: {A} ignites a memory of {X}.
+FR: {S1} ravive le souvenir de {x2}.
+
+EN: The solar flare engulfs {A} but does no damage.
+FR: L’éruption solaire enveloppe {o1} mais ne lui inflige aucun dégât.
+
+EN: The solar flare engulfs {A}.
+FR: L’éruption solaire enveloppe {o1}.
+
+EN: You detect the dominated {A}.
+FR: Vous détectez {o1}, dominé{e1}.
+
+EN: You can no longer detect the dominated {A}.
+FR: Vous ne détectez plus {o1}, dominé{e1}.
+
+EN: You detect the charmed {A}.
+FR: Vous détectez {o1}, charmé{e1}.
+
+EN: You can no longer detect the charmed {A}.
+FR: Vous ne détectez plus {o1}, charmé{e1}.
+
+EN: You detect the bribed {A}.
+FR: Vous détectez {o1}, soudoyé{e1}.
+
+EN: You can no longer detect the bribed {A}.
+FR: Vous ne détectez plus {o1}, soudoyé{e1}.
+
+EN: As {A} is destroyed, the sound returns.
+FR: Lorsque {o1} est détruit{e1}, le son revient.
+
+EN: As {A} dies, the sound returns.
+FR: Lorsque {o1} meurt, le son revient.
+
+EN: You can once again detect {A}.
+FR: Vous pouvez de nouveau détecter {o1}.
+
+EN: You can no longer detect {A}.
+FR: Vous ne pouvez plus détecter {o1}.
+
+EN: {A} finishes expelling the water from {p} lungs.
+FR: {S1} finit d’expulser l’eau de ses poumons.
+
+EN: {A} finishes expelling the water from {p} airways.
+FR: {S1} finit d’expulser l’eau de ses voies respiratoires.
+
+EN: {A} finishes expelling the ooze from {p} lungs.
+FR: {S1} finit d’expulser la vase de ses poumons.
+
+EN: {A} finishes expelling the ooze from {p} airways.
+FR: {S1} finit d’expulser la vase de ses voies respiratoires.
+
+EN: This passage seems to be blocked by something!
+FR: Ce passage semble bloqué par quelque chose !
+
+EN: This passage doesn't lead anywhere!
+FR: Ce passage ne mène nulle part !
+
+EN: {A} invokes a tyrant's trap upon you!
+FR: {S1} invoque un piège de tyran sur vous !
+
+EN: {A} sets off a tyrant's trap!
+FR: {S1} déclenche un piège de tyran !
+
+EN: {A} invokes an archmage's trap upon you!
+FR: {S1} invoque un piège d’archimage sur vous !
+
+EN: {A} sets off an archmage's trap!
+FR: {S1} déclenche un piège d’archimage !
+
+EN: {A} invokes a harlequin's trap!
+FR: {S1} invoque un piège d’arlequin !
+
+EN: {A} sets off a harlequin's trap!
+FR: {S1} déclenche un piège d’arlequin !
+
+EN: {A} pulls the alarm!
+FR: {S1} actionne l’alarme !
+
+EN: {A} sets off the alarm!
+FR: {S1} déclenche l’alarme !
+
+EN: The shaft crumbles and collapses.
+FR: Le puits s’effondre.
+
+EN: A shaft crumbles and collapses.
+FR: Un puits s’effondre.
+
+EN: You shred the net and break free!
+FR: Vous mettez le filet en lambeaux et vous libérez !
+
+EN: You rip the net and break free!
+FR: Vous déchirez le filet et vous libérez !
+
+EN: His potent soul becomes fuel for the torch.
+FR: Son âme puissante sert de combustible à la torche.
+
+EN: Her potent soul becomes fuel for the torch.
+FR: Son âme puissante sert de combustible à la torche.
+
+EN: Its potent soul becomes fuel for the torch.
+FR: Son âme puissante sert de combustible à la torche.
+
+EN: A potent soul becomes fuel for the torch.
+FR: Une âme puissante sert de combustible à la torche.
+
+EN: His unsullied soul becomes fuel for the torch.
+FR: Son âme pure sert de combustible à la torche.
+
+EN: Her unsullied soul becomes fuel for the torch.
+FR: Son âme pure sert de combustible à la torche.
+
+EN: Its unsullied soul becomes fuel for the torch.
+FR: Son âme pure sert de combustible à la torche.
+
+EN: A unsullied soul becomes fuel for the torch.
+FR: Une âme pure sert de combustible à la torche.
+
+EN: His soul becomes fuel for the torch.
+FR: Son âme sert de combustible à la torche.
+
+EN: Her soul becomes fuel for the torch.
+FR: Son âme sert de combustible à la torche.
+
+EN: Its soul becomes fuel for the torch.
+FR: Son âme sert de combustible à la torche.
+
+EN: A soul becomes fuel for the torch.
+FR: Une âme sert de combustible à la torche.
+
+EN: The wall freezes {A}.
+FR: Le mur gèle {o1}.
+
+EN: The wall freezes {A}!
+FR: Le mur gèle {o1} !
+
+EN: The wall freezes {A} but does no damage.
+FR: Le mur gèle {o1} mais ne lui inflige aucun dégât.
+
+EN: The frigid air chills {A}.
+FR: L’air glacial refroidit {o1}.
+
+EN: The frigid air chills {A}!
+FR: L’air glacial refroidit {o1} !
+
+EN: The frigid air chills {A} but does no damage.
+FR: L’air glacial refroidit {o1} mais ne lui inflige aucun dégât.
+
+EN: You enter the toxic bog.
+FR: Vous entrez dans le marais toxique.
+
+EN: You fall into the toxic bog.
+FR: Vous tombez dans le marais toxique.
+
+EN: You enter the shallow water.
+FR: Vous entrez dans l’eau peu profonde.
+
+EN: You enter the deep water.
+FR: Vous entrez dans l’eau profonde.
+
+EN: You fall into the shallow water.
+FR: Vous tombez dans l’eau peu profonde.
+
+EN: You fall into the deep water.
+FR: Vous tombez dans l’eau profonde.
+
+EN: You are even more covered in intense liquid fire!
+FR: Vous êtes encore plus couvert de feu liquide intense !
+
+EN: You are covered in intense liquid fire! Move or burn!
+FR: Vous êtes couvert de feu liquide intense ! Bougez ou brûlez !
+
+EN: You can't survive in this terrain! You fly above the lava, but the process is draining.
+FR: Vous ne pouvez pas survivre sur ce terrain ! Vous volez au-dessus de la lave, mais cela vous épuise.
+
+EN: You can't survive in this terrain! You fly above the water, but the process is draining.
+FR: Vous ne pouvez pas survivre sur ce terrain ! Vous volez au-dessus de l’eau, mais cela vous épuise.
+
+EN: {X} moves away as you attempt to climb it!
+FR: {x1} s’éloigne quand vous tentez d’y monter !
+
+EN: {X} moves away as you attempt to use it!
+FR: {x1} s’éloigne quand vous tentez de l’emprunter !
+
+EN: {X} moves away as you attempt to pass through it!
+FR: {x1} s’éloigne quand vous tentez de l’emprunter !
+
+EN: You go up through the gate.
+FR: Vous franchissez la porte en montant.
+
+EN: You fly up through the gate.
+FR: Vous franchissez la porte en volant vers le haut.
+
+EN: You fly down through the gate.
+FR: Vous franchissez la porte en volant vers le bas.
+
+EN: You climb upwards.
+FR: Vous montez.
+
+EN: You climb downwards.
+FR: Vous descendez.
+
+EN: You fly upwards.
+FR: Vous volez vers le haut.
+
+EN: You fly downwards.
+FR: Vous volez vers le bas.
+
+EN: In your confused state, you trip and fall down the stairs.
+FR: Dans votre état de confusion, vous trébuchez et dégringolez les escaliers.
+
+EN: In your confused state, you trip and fall back down the stairs.
+FR: Dans votre état de confusion, vous trébuchez et retombez dans les escaliers.
+
+EN: In your confused state, you trip and fall through the gate.
+FR: Dans votre état de confusion, vous trébuchez et tombez à travers la porte.
+
+EN: In your confused state, you trip and fall back through the gate.
+FR: Dans votre état de confusion, vous trébuchez et retombez à travers la porte.
+
+EN: You feel {X} slowing down the madness of this place.
+FR: Vous sentez {x1} ralentir la folie de cet endroit.
+
+EN: In {X} experience levels, you will have learned enough to assemble a masterpiece.
+FR: Dans {x1} niveaux d’expérience, vous en saurez assez pour assembler un chef-d’œuvre.
+
+EN: {A} is already by your side!
+FR: {S1} est déjà à vos côtés !
+
+EN: Training target {X}.{X} for {X} reached!
+FR: Objectif d’entraînement de {x1},{x2} atteint pour {x3} !
+
+EN: Base training target {X}.{X} for {X} reached!
+FR: Objectif d’entraînement de base de {x1},{x2} atteint pour {x3} !
+
+EN: You have finished your manual of {X} and skilfully toss it away.
+FR: Vous avez fini votre manuel de {x1} et le jetez avec adresse.
+
+EN: Clearing the base skill training target for {X}.
+FR: Objectif d’entraînement de base supprimé pour {x1}.
+
+EN: Setting a skill training target for {X} at {X}.{X}.
+FR: Objectif d’entraînement défini pour {x1} à {x2},{x3}.
+
+EN: Setting a base skill training target for {X} at {X}.{X}.
+FR: Objectif d’entraînement de base défini pour {x1} à {x2},{x3}.
+
+EN: You place your {X} atop {X}'s lifeless body and utter a vengeful prayer.
+FR: Vous posez votre {x1} sur le corps sans vie de {x2} et prononcez une prière vengeresse.
+
+EN: {A} is invigorated by your prowess.
+FR: {S1} est revigoré{e1} par votre prouesse.
+
+EN: Your followers are invigorated by your prowess.
+FR: Vos disciples sont revigorés par votre prouesse.
+
+EN: {A} {v:swap} with {Y}!
+FR: {S1} échange sa place avec {y2} ! ¦ Vous échangez votre place avec {y2} !
+
+EN: Yes, {X} is definitely a better name.
+FR: Oui, {x1} est vraiment un meilleur nom.
+
+EN: You stop wielding your weapon.
+FR: Vous cessez de brandir votre arme.
+
+EN: You stop attuning to your weapon.
+FR: Vous cessez de vous accorder à votre arme.
+
+EN: You stop haunting your armour.
+FR: Vous cessez de hanter votre armure.
+
+EN: You stop haunting your amulet.
+FR: Vous cessez de hanter votre amulette.
+
+EN: You stop fusing with your armour.
+FR: Vous cessez de fusionner avec votre armure.
+
+EN: You stop fusing with your amulet.
+FR: Vous cessez de fusionner avec votre amulette.
+
+EN: You stop unwielding your weapon.
+FR: Vous cessez de ranger votre arme.
+
+EN: You stop parting from your weapon.
+FR: Vous cessez de vous séparer de votre arme.
+
+EN: You stop removing yourself from your armour.
+FR: Vous cessez de vous retirer de votre armure.
+
+EN: You stop removing yourself from your amulet.
+FR: Vous cessez de vous retirer de votre amulette.
+
+EN: You stop unfusing your armour.
+FR: Vous cessez de vous détacher de votre armure.
+
+EN: You stop unfusing your amulet.
+FR: Vous cessez de vous détacher de votre amulette.
+
+EN: You stop removing your armour.
+FR: Vous cessez de retirer votre armure.
+
+EN: You stop removing your amulet.
+FR: Vous cessez de retirer votre amulette.
+
+EN: You start wielding your weapon.
+FR: Vous commencez à brandir votre arme.
+
+EN: You start attuning to your weapon.
+FR: Vous commencez à vous accorder à votre arme.
+
+EN: You start haunting your armour.
+FR: Vous commencez à hanter votre armure.
+
+EN: You start haunting your amulet.
+FR: Vous commencez à hanter votre amulette.
+
+EN: You start fusing with your armour.
+FR: Vous commencez à fusionner avec votre armure.
+
+EN: You start fusing with your amulet.
+FR: Vous commencez à fusionner avec votre amulette.
+
+EN: You start unwielding your weapon.
+FR: Vous commencez à ranger votre arme.
+
+EN: You start parting from your weapon.
+FR: Vous commencez à vous séparer de votre arme.
+
+EN: You start removing yourself from your armour.
+FR: Vous commencez à vous retirer de votre armure.
+
+EN: You start removing yourself from your amulet.
+FR: Vous commencez à vous retirer de votre amulette.
+
+EN: You start unfusing your armour.
+FR: Vous commencez à vous détacher de votre armure.
+
+EN: You start unfusing your amulet.
+FR: Vous commencez à vous détacher de votre amulette.
+
+EN: You start removing your amulet.
+FR: Vous commencez à retirer votre amulette.
+
+EN: You finish wielding {Y}.
+FR: Vous finissez de brandir {y1}.
+
+EN: You finish attuning to {Y}.
+FR: Vous finissez de vous accorder à {y1}.
+
+EN: You finish haunting {Y}.
+FR: Vous finissez de hanter {y1}.
+
+EN: You finish fusing with {Y}.
+FR: Vous finissez de fusionner avec {y1}.
+
+EN: You finish unwielding {Y}.
+FR: Vous finissez de ranger {y1}.
+
+EN: You finish parting from {Y}.
+FR: Vous finissez de vous séparer de {y1}.
+
+EN: You finish removing yourself from {Y}.
+FR: Vous finissez de vous retirer de {y1}.
+
+EN: You finish unfusing {Y}.
+FR: Vous finissez de vous détacher de {y1}.
+
+EN: You finish removing {Y}.
+FR: Vous finissez de retirer {y1}.
+
+EN: {A} {v:draw} life force from {A}.
+FR: {S1} puise la force vitale {d2}. ¦ Vous puisez la force vitale {d2}.
+
+EN: {A} {v:draw} life force from {A}!
+FR: {S1} puise la force vitale {d2} ! ¦ Vous puisez la force vitale {d2} !
+
+EN: Something tries to affect you, but you are unaffected.
+FR: Quelque chose tente de vous affecter, mais vous n’êtes pas affecté.
+
+EN: Something tries to affect you, but you resist.
+FR: Quelque chose tente de vous affecter, mais vous résistez.
+
+EN: You struggle to resist.
+FR: Vous avez du mal à résister.
+
+EN: You resist with significant effort.
+FR: Vous résistez avec un effort considérable.
+
+EN: You resist with some effort.
+FR: Vous résistez avec un certain effort.
+
+EN: You easily resist.
+FR: Vous résistez facilement.
+
+EN: You resist with almost no effort.
+FR: Vous résistez presque sans effort.
+
+EN: You are unaffected.
+FR: Vous n’êtes pas affecté.
+
+EN: Your will lashes out at {A}.
+FR: Votre volonté frappe {o1}.
+
+EN: Your will lashes out at {A}!
+FR: Votre volonté frappe {o1} !
+
+EN: You draw a card...
+FR: Vous piochez une carte...
+
+EN: You deal a card...
+FR: Vous distribuez une carte...
+
+EN: You hear a mighty peal of thunder!
+FR: Vous entendez un coup de tonnerre puissant !
+
+EN: You hear mighty peals of thunder!
+FR: Vous entendez des coups de tonnerre puissants !
+
+EN: You hear a violent peal of thunder!
+FR: Vous entendez un coup de tonnerre violent !
+
+EN: You hear violent peals of thunder!
+FR: Vous entendez des coups de tonnerre violents !
+
+EN: You hear a cataclysmic peal of thunder!
+FR: Vous entendez un coup de tonnerre cataclysmique !
+
+EN: You hear cataclysmic peals of thunder!
+FR: Vous entendez des coups de tonnerre cataclysmiques !
+
+EN: You feel a mighty peal of thunder!
+FR: Vous ressentez un coup de tonnerre puissant !
+
+EN: You feel mighty peals of thunder!
+FR: Vous ressentez des coups de tonnerre puissants !
+
+EN: You feel a violent peal of thunder!
+FR: Vous ressentez un coup de tonnerre violent !
+
+EN: You feel violent peals of thunder!
+FR: Vous ressentez des coups de tonnerre violents !
+
+EN: You feel a cataclysmic peal of thunder!
+FR: Vous ressentez un coup de tonnerre cataclysmique !
+
+EN: You feel cataclysmic peals of thunder!
+FR: Vous ressentez des coups de tonnerre cataclysmiques !
+
+EN: {A} {v:steam} in the rain.
+FR: {S1} fume sous la pluie. ¦ Vous fumez sous la pluie.
+
+EN: {A} {v:sizzle} in the rain.
+FR: {S1} grésille sous la pluie. ¦ Vous grésillez sous la pluie.
+
+EN: You can no longer wear {Y}!
+FR: Vous ne pouvez plus porter {y1} !
+
+EN: You can no longer hold {Y}!
+FR: Vous ne pouvez plus tenir {y1} !
+
+EN: You feel a little guilty.
+FR: Vous vous sentez un peu coupable.
+
+EN: You feel guilty.
+FR: Vous vous sentez coupable.
+
+EN: You feel very guilty.
+FR: Vous vous sentez très coupable.
+
+EN: You feel extremely guilty.
+FR: Vous vous sentez extrêmement coupable.
+
+EN: Gozag exacts a cancellation fee of {X} gold.
+FR: Gozag exige des frais d’annulation de {x1} pièces d’or.
+
+EN: Your {X} burns with power once more.
+FR: Votre {x1} brûle de nouveau de puissance.
+
+EN: {A} broadcasts a psychic alarm as it disappears.
+FR: {S1} émet une alarme psychique en disparaissant.
+
+EN: {A} broadcasts a psychic alarm as it dies.
+FR: {S1} émet une alarme psychique en mourant.
+
+EN: {A} is blown up!
+FR: {S1} est pulvérisé{e1} !
+
+EN: {A} is destroyed!
+FR: {S1} est détruit{e1} !
+
+EN: {A} is killed!
+FR: {S1} est tué{e1} !
+
+EN: You blow up {A}!
+FR: Vous faites exploser {o1} !
+
+EN: You destroy {A}!
+FR: Vous détruisez {o1} !
+
+EN: You kill {A}!
+FR: Vous tuez {o1} !
+
+EN: You feel drained.
+FR: Vous vous sentez drainé.
+
+EN: You feel heavily drained.
+FR: Vous vous sentez fortement drainé.
+
+EN: You feel very heavily drained.
+FR: Vous vous sentez très fortement drainé.
+
+EN: You feel extremely drained.
+FR: Vous vous sentez extrêmement drainé.
+
+EN: You shudder from the blow and a jelly pops out!
+FR: Vous frissonnez sous l’effet du coup et une gelée jaillit de vous !
+
+EN: You shudder from the blow and a flood of jellies pours out from you!
+FR: Vous frissonnez sous l’effet du coup et un flot de gelées se déverse hors de vous !
+
+EN: You shudder from the blast and a jelly pops out!
+FR: Vous frissonnez sous l’effet de l’explosion et une gelée jaillit de vous !
+
+EN: You shudder from the blast and a flood of jellies pours out from you!
+FR: Vous frissonnez sous l’effet de l’explosion et un flot de gelées se déverse hors de vous !
+
+EN: Protean flesh bursts from your body and begins taking on the form of {X}!
+FR: De la chair protéiforme jaillit de votre corps et commence à prendre la forme de {x1} !
+
+EN: Transforming right now would cause you to burn!
+FR: Vous transformer maintenant vous ferait brûler !
+
+EN: Transforming right now would cause you to drown!
+FR: Vous transformer maintenant vous ferait vous noyer !
+
+EN: Untransforming right now would cause you to burn!
+FR: Reprendre votre forme maintenant vous ferait brûler !
+
+EN: Untransforming right now would cause you to drown!
+FR: Reprendre votre forme maintenant vous ferait vous noyer !
+
+EN: Transforming right now would shatter {Y}!
+FR: Vous transformer maintenant briserait {y1} !
+
+EN: Untransforming right now would shatter {Y}!
+FR: Reprendre votre forme maintenant briserait {y1} !
+
+EN: {A} loses {p} in your eye.
+FR: {S1} se perd dans votre œil.
+
+EN: {A} loses {p} in your eyes.
+FR: {S1} se perd dans vos yeux.
+
+EN: The potion decomposes into {X} within you.
+FR: La potion se décompose en {x1} en vous.
+
+EN: You can't wear anything in your present form.
+FR: Vous ne pouvez rien porter sous votre forme actuelle.
+
+EN: You can't remove anything in your present form.
+FR: Vous ne pouvez rien retirer sous votre forme actuelle.
+
+EN: You can't wear jewellery.
+FR: Vous ne pouvez pas porter de bijoux.
+
+EN: You can't wear jewellery in your present form.
+FR: Vous ne pouvez pas porter de bijoux sous votre forme actuelle.
+
+EN: You can't remove jewellery.
+FR: Vous ne pouvez pas retirer de bijoux.
+
+EN: You can't remove jewellery in your present form.
+FR: Vous ne pouvez pas retirer de bijoux sous votre forme actuelle.
+
+EN: Removing {Y} right now would cause you to burn!
+FR: Retirer {y1} maintenant vous ferait brûler !
+
+EN: Removing {Y} right now would cause you to drown!
+FR: Retirer {y1} maintenant vous ferait vous noyer !
+
+EN: You rip the centipede off your {X} and it falls limp.
+FR: Vous arrachez le mille-pattes de votre {x1} et il retombe, inerte.
+
+EN: Your mutated metabolism churns, savouring the {X}.
+FR: Votre métabolisme muté s’agite, savourant {x1}.
+
+EN: {Y} {v:glow} green for a moment.
+FR: {y1} brille en vert un instant.
+
+EN: {Y} {v:glow} green for a while.
+FR: {y1} brille en vert un long moment.
+
+EN: It is {X}.
+FR: C’est {x1}.
+
+EN: {Y} responds to your shapeshifting skill and transforms into a {X}!
+FR: {y1} réagit à votre maîtrise de la métamorphose et se transforme en un {x2} !
+
+EN: Gozag grants {A} a complimentary blessing in exchange for {p} services.
+FR: Gozag accorde {a1} une bénédiction gratuite en échange de ses services.
+
+EN: Your {X} have fully recharged.
+FR: Vos {x1} se sont entièrement rechargés.
+
+EN: You have lost all your {X}. It will be difficult to act quickly in this state!
+FR: Vous avez perdu toute votre {x1}. Il sera difficile d’agir vite dans cet état !
+
+EN: You have recovered your {X}.
+FR: Vous avez retrouvé votre {x1}.
+
+EN: You continue wielding {Y}.
+FR: Vous continuez à brandir {y1}.
+
+EN: You continue attuning to {Y}.
+FR: Vous continuez à vous accorder à {y1}.
+
+EN: You continue haunting {Y}.
+FR: Vous continuez à hanter {y1}.
+
+EN: You continue fusing with {Y}.
+FR: Vous continuez à fusionner avec {y1}.
+
+EN: You continue unwielding {Y}.
+FR: Vous continuez à ranger {y1}.
+
+EN: You continue parting from {Y}.
+FR: Vous continuez à vous séparer de {y1}.
+
+EN: You continue removing yourself from {Y}.
+FR: Vous continuez à vous retirer de {y1}.
+
+EN: You continue unfusing {Y}.
+FR: Vous continuez à vous détacher de {y1}.
+
+EN: You continue removing {Y}.
+FR: Vous continuez à retirer {y1}.
+
+EN: The bloodstain on {X} disappears!
+FR: La tache de sang sur {x1} disparaît !
+
+EN: Water floods into {I} lungs!
+FR: L’eau envahit les poumons {d1} !
+
+EN: Water floods into {I} airways!
+FR: L’eau envahit les voies respiratoires {d1} !
+
+EN: Ooze floods into {I} lungs!
+FR: La vase envahit les poumons {d1} !
+
+EN: Ooze floods into {I} airways!
+FR: La vase envahit les voies respiratoires {d1} !
+
+EN: Water floods into your lungs!
+FR: L’eau envahit vos poumons !
+
+EN: Ooze floods into your lungs!
+FR: La vase envahit vos poumons !
+
+EN: A bracing wind gives {A} the strength to keep fighting!
+FR: Un vent revigorant donne {a1} la force de continuer à se battre !
+
+EN: As {p} mount dies, {A} plunges down into lava and is incinerated!
+FR: Alors que sa monture meurt, {S1} plonge dans la lave et est incinéré{e1} !
+
+EN: As {p} mount dies, {A} plunges down into deep water and drowns!
+FR: Alors que sa monture meurt, {S1} plonge dans l’eau profonde et se noie !
+
+EN: {A} is invisible, and you have no allies that can see {p}.
+FR: {S1} est invisible, et vous n’avez aucun allié capable de voir {o1}.
+
+EN: You assemble {X} and install it in your exoskeleton!
+FR: Vous assemblez {x1} et l’installez dans votre exosquelette !
+
+EN: Your brain swirls with designs for {X}. You just need some more time...
+FR: Votre cerveau bouillonne de plans pour {x1}. Il ne vous faut plus qu’un peu de temps...
+
+EN: {A} is abraded by the {X} and falls apart.
+FR: {S1} est érodé{e1} par {x2} et tombe en morceaux.
+
+EN: {I} watery aura covers {X}.
+FR: L’aura aqueuse {d1} recouvre {x2}.
+
+EN: You hear a slurping noise.
+FR: Vous entendez un bruit de succion.
+
+EN: You hear a distant slurping noise.
+FR: Vous entendez un bruit de succion lointain.
+
+EN: You throw {X}.
+FR: Vous lancez {x1}.
+
+EN: You shoot {X}.
+FR: Vous tirez {x1}.
+
+EN: You throw {X} into the darkness.
+FR: Vous lancez {x1} dans l’obscurité.
+
+EN: You shoot {X} into the darkness.
+FR: Vous tirez {x1} dans l’obscurité.
+
+EN: You welcome {X} into your grasp.
+FR: Vous accueillez {x1} dans votre main.
+
+EN: You welcome {X} back into your grasp.
+FR: Vous accueillez de nouveau {x1} dans votre main.
+
+EN: You grip the centipede bauble in your {X} and it winds around your {X} and fuses with it.
+FR: Vous saisissez la babiole mille-pattes dans votre {x1} et elle s’enroule autour de votre {x2} et fusionne avec lui.
+
+EN: {Y} bursts into flame!
+FR: {y1} s’embrase !
+
+EN: {Y} is covered in frost.
+FR: {y1} se couvre de givre.
+
+EN: {Y} glows with a cold blue light!
+FR: {y1} brille d’une lumière bleue glaciale !
+
+EN: {Y} sits dull and lifeless in your grasp.
+FR: {y1} reste terne et sans vie dans votre main.
+
+EN: Your {X} briefly {v:pass} through it before you manage to get a firm grip on it.
+FR: Vos {x1} traversent brièvement l’objet avant que vous ne parveniez à le saisir fermement.
+
+EN: Your athame gleams mockingly in your nearly-destroyed state.
+FR: Votre athame luit d’un air moqueur dans votre état de quasi-destruction.
+
+EN: Your athame gleams mockingly in your nearly-dead state.
+FR: Votre athame luit d’un air moqueur dans votre état de quasi-mort.
+
+EN: Your athame demands its blood price!
+FR: Votre athame exige son tribut de sang !
+
+EN: Your athame demands its blood price! (Figuratively speaking.)
+FR: Votre athame exige son tribut de sang ! (Au sens figuré.)
+
+EN: Your {X} feel oddly empty.
+FR: Vos {x1} semblent étrangement vides.
+
+EN: Your {X} feels oddly empty.
+FR: Votre {x1} semble étrangement vide.
+
+EN: You feel a surge of divine interest.
+FR: Vous ressentez un élan d’intérêt divin.
+
+EN: You feel a strange surge of divine interest.
+FR: Vous ressentez un étrange élan d’intérêt divin.
+
+EN: {X} slides away from you!
+FR: {x1} s’éloigne de vous !
+
+EN: {X} slides towards you!
+FR: {x1} glisse vers vous !
+
+EN: Your {X} grow incredibly long!
+FR: Vos {x1} s’allongent de façon incroyable !
+
+EN: Your {X} and {X} grow incredibly long!
+FR: Vos {x1} et vos {x2} s’allongent de façon incroyable !
+
+EN: {A} shimmers and splits into {X}!
+FR: {S1} miroite et se divise en {x2} !
+
+EN: Xom grants you chaotic knowledge of {X}.
+FR: Xom vous accorde la connaissance chaotique de {x1}.
+
+EN: You manifest living {X} spells as you rampage.
+FR: Vous manifestez des sorts vivants de {x1} dans votre déchaînement.
+
+EN: ...and {A} flies out!
+FR: ...et {o1} en sort en volant !
+
+EN: ...and {A} leaps out!
+FR: ...et {o1} en jaillit d’un bond !
+
+EN: You crush the flux bauble in your {X} and feel its energy flooding your body.
+FR: Vous écrasez la babiole de flux dans votre {x1} et sentez son énergie inonder votre corps.
+
+EN: You feel protected from {X}.
+FR: Vous vous sentez protégé contre {x1}.
+
+EN: You feel more protected from {X}.
+FR: Vous vous sentez encore mieux protégé contre {x1}.
+
+EN: You'll get an extra life in {X}.{X} levels' worth of XP.
+FR: Vous obtiendrez une vie supplémentaire dans {x1},{x2} niveaux d’XP.
+
+EN: If you died right now, you'd get an extra life in {X}.{X} levels' worth of XP.
+FR: Si vous mouriez maintenant, vous obtiendriez une vie supplémentaire dans {x1},{x2} niveaux d’XP.
+
+EN: No quiver actions available for cycling.
+FR: Aucune action de carquois disponible pour le changement.
+
+EN: No other quiver actions available for cycling.
+FR: Aucune autre action de carquois disponible pour le changement.
+
+EN: The abyss shimmers again as the detected abyssal rune vanishes from your memory.
+FR: L’Abysse miroite de nouveau tandis que la rune abyssale détectée s’efface de votre mémoire.
+
+EN: The abyss shimmers again as the detected abyssal rune vanishes from your memory and reappears.
+FR: L’Abysse miroite de nouveau tandis que la rune abyssale détectée s’efface de votre mémoire et réapparaît.
+
+EN: The substance of the Abyss twists violently, and a gateway leading down appears!
+FR: La substance de l’Abysse se tord violemment, et un passage menant vers le bas apparaît !
+
+EN: The substance of the Abyss twists violently, and a gateway leading out appears!
+FR: La substance de l’Abysse se tord violemment, et un passage menant vers l’extérieur apparaît !
+
+EN: {A} shreds {A}.
+FR: {S1} lacère {o2}.
+
+EN: {A} shreds {A}!
+FR: {S1} lacère {o2} !
+
+EN: {A} shreds {A} but does no damage.
+FR: {S1} lacère {o2} mais ne lui inflige aucun dégât.
+
+EN: {A} {v:are} frozen.
+FR: {S1} est gelé{e1}. ¦ Vous êtes gelé.
+
+EN: {A} {v:are} frozen!
+FR: {S1} est gelé{e1} ! ¦ Vous êtes gelé !
+
+EN: A freezing vortex appears around {A}!
+FR: Un vortex glacial apparaît autour {d1} !
+
+EN: A freezing vortex appears and lifts {A} up!
+FR: Un vortex glacial apparaît et soulève {o1} !
+
+EN: The water rises up and strikes {A}.
+FR: L’eau se dresse et frappe {o1}.
+
+EN: The water rises up and strikes {A}!
+FR: L’eau se dresse et frappe {o1} !
+
+EN: The water swirls and strikes {A}.
+FR: L’eau tourbillonne et frappe {o1}.
+
+EN: {A} throws {A} out of sight!
+FR: {S1} lance {o2} hors de vue !
+
+EN: {A} throws {A} at {A}!
+FR: {S1} lance {o2} sur {o3} !
+
+EN: {A} unleashes a silent howl, and it begins to echo in your mind!
+FR: {S1} pousse un hurlement silencieux, et il commence à résonner dans votre esprit !
+
+EN: {A} unleashes a terrible howl, and it begins to echo in your mind!
+FR: {S1} pousse un hurlement terrible, et il commence à résonner dans votre esprit !
+
+EN: {A} {v:convulse}.
+FR: {S1} est pris{e1} de convulsions. ¦ Vous êtes pris de convulsions.
+
+EN: {A} {v:convulse}!
+FR: {S1} est pris{e1} de convulsions ! ¦ Vous êtes pris de convulsions !
+
+EN: {A} {v:be} blasted by disruptive energy.
+FR: {S1} est frappé{e1} par une énergie perturbatrice. ¦ Vous êtes frappé par une énergie perturbatrice.
+
+EN: {A} {v:be} blasted by disruptive energy!
+FR: {S1} est frappé{e1} par une énergie perturbatrice ! ¦ Vous êtes frappé par une énergie perturbatrice !
+
+EN: {A} {v:cleave} {A} in twain.
+FR: {S1} fend {o2} en deux. ¦ Vous fendez {o2} en deux.
+
+EN: {A} {v:pulverise} {A} into a thin bloody mist.
+FR: {S1} pulvérise {o2} en une fine brume sanglante. ¦ Vous pulvérisez {o2} en une fine brume sanglante.
+
+EN: {A} {v:hew} {A} violently.
+FR: {S1} taille {o2} violemment. ¦ Vous taillez {o2} violemment.
+
+EN: {A} {v:fatally mangle} {A}.
+FR: {S1} mutile {o2} mortellement. ¦ Vous mutilez {o2} mortellement.
+
+EN: {A} {v:dissect} {A} like a pig carcass.
+FR: {S1} dissèque {o2} comme une carcasse de porc. ¦ Vous disséquez {o2} comme une carcasse de porc.
+
+EN: {A} {v:chop} {A} into pieces.
+FR: {S1} hache {o2} en morceaux. ¦ Vous hachez {o2} en morceaux.
+
+EN: {A} {v:butcher} {A} messily.
+FR: {S1} massacre {o2} salement. ¦ Vous massacrez {o2} salement.
+
+EN: {A} {v:slaughter} {A} joyfully.
+FR: {S1} égorge {o2} avec joie. ¦ Vous égorgez {o2} avec joie.
+
+EN: {A} {v:burn} {A}.
+FR: {S1} brûle {o2}. ¦ Vous brûlez {o2}.
+
+EN: {A} {v:burn} {A}!
+FR: {S1} brûle {o2} ! ¦ Vous brûlez {o2} !
+
+EN: {A} {v:freeze} {A}!
+FR: {S1} gèle {o2} ! ¦ Vous gelez {o2} !
+
+EN: {A} {v:electrocute} {A}.
+FR: {S1} électrocute {o2}. ¦ Vous électrocutez {o2}.
+
+EN: {A} {v:electrocute} {A}!
+FR: {S1} électrocute {o2} ! ¦ Vous électrocutez {o2} !
+
+EN: {A} {v:crush} {A}.
+FR: {S1} écrase {o2}. ¦ Vous écrasez {o2}.
+
+EN: {A} {v:crush} {A}!
+FR: {S1} écrase {o2} ! ¦ Vous écrasez {o2} !
+
+EN: {A} is struck blind by the light.
+FR: {S1} est aveuglé{e1} par la lumière.
+
+EN: It tastes like {X}.
+FR: Cela a un goût de {x1}.
+
+EN: Your {X} flash viciously!
+FR: Vos {x1} brillent férocement !
+
+EN: Your {X} flashes viciously!
+FR: Votre {x1} brille férocement !
+
+EN: {A} {v:are} engulfed in flames.
+FR: {S1} est englouti{e1} par les flammes. ¦ Vous êtes englouti par les flammes.
+
+EN: {A} {v:are} engulfed in flames!
+FR: {S1} est englouti{e1} par les flammes ! ¦ Vous êtes englouti par les flammes !
+
+EN: {A} {v:hold} {p} ground!
+FR: {S1} tient bon ! ¦ Vous tenez bon !
+
+EN: {A} breaks apart into shimmering stars!
+FR: {S1} se brise en étoiles scintillantes !
+
+EN: Your assassin centipede leaps free of your {X} with a hiss!
+FR: Votre mille-pattes assassin se libère de votre {x1} dans un sifflement !
+
+EN: {A} {v:collide} with {A}.
+FR: {S1} percute {o2}. ¦ Vous percutez {o2}.
+
+EN: {A} {v:collide} with {A}!
+FR: {S1} percute {o2} ! ¦ Vous percutez {o2} !
+
+EN: {A} {v:are} knocked back.
+FR: {S1} est repoussé{e1}. ¦ Vous êtes repoussé.
+
 EN: The wavering orb of destruction weakly hits {A}!
 FR: L’orbe de destruction vacillant touche faiblement {o1} ! ¦ L’orbe de destruction vacillant vous touche faiblement !
 
@@ -4646,7 +5612,7 @@ EN: The dungeon shakes, a horrible noise fills the air, and a portal to some oth
 FR: Le donjon tremble, un bruit horrible emplit l’air et un portail vers un lieu d’outre-monde s’ouvre !
 
 EN: {A} is summoned!
-FR: {S1} est invoqué{e1} !
+FR: {S1} est convoqué{e1} !
 
 EN: {A} smiles without lips.
 FR: {S1} sourit sans lèvres.
@@ -4691,7 +5657,7 @@ EN: The open air twists around violently and strikes {A}!
 FR: L’air libre tournoie violemment et frappe {o1} ! ¦ L’air libre tournoie violemment et vous frappe !
 
 EN: {A} summons a swarm of flies.
-FR: {S1} invoque un essaim de mouches.
+FR: {S1} convoque un essaim de mouches.
 
 EN: {A} conjures a destructive force in the name of {X}!
 FR: {S1} invoque une force destructrice au nom de {x2} !
@@ -4763,10 +5729,10 @@ EN: {I} electric aura discharges, shocking {A}!
 FR: L’aura électrique {d1} se décharge et foudroie {o2} !
 
 EN: water floods into {I} lungs!
-FR: L’eau envahit les poumons {d1} !
+FR: L’eau envahit les poumons {d1} ! ¦ L’eau envahit vos poumons !
 
 EN: water floods into {I} airways!
-FR: L’eau envahit les voies respiratoires {d1} !
+FR: L’eau envahit les voies respiratoires {d1} ! ¦ L’eau envahit vos voies respiratoires !
 
 EN: {A} trunk-slaps {A}.
 FR: {S1} gifle {o2} de sa trompe.
@@ -5935,9 +6901,6 @@ FR: {S1} vous pique de loin.
 EN: {A} stings you from afar!
 FR: {S1} vous pique de loin !
 
-EN: {A} throws {A} at {A}!
-FR: {S1} lance {o2} sur {o3} !
-
 EN: {A} points at you and mumbles some strange words.
 FR: {S1} vous désigne en marmonnant d’étranges paroles.
 
@@ -5996,7 +6959,7 @@ EN: {A} jiggles.
 FR: {S1} frétille.
 
 EN: {A} laughs crazily.
-FR: {S1} rit comme un fou.
+FR: {S1} rit de façon démente.
 
 EN: {A} crackles and sizzles.
 FR: {S1} crépite et grésille.
@@ -6029,7 +6992,7 @@ EN: {A} prays to its god.
 FR: {S1} prie son dieu.
 
 EN: {A} summons spiders!
-FR: {S1} invoque des araignées !
+FR: {S1} convoque des araignées !
 
 EN: {A} is drawn to the feast!
 FR: {S1} est attiré{e1} par le festin !
@@ -6107,7 +7070,7 @@ EN: {A} crumbles away.
 FR: {S1} tombe en poussière.
 
 EN: {A} evaporates and reforms as {A}!
-FR: {S1} s’évapore et se reforme en {o2} !
+FR: {S1} s’évapore et se reforme sous la forme {d2} !
 
 EN: {A} returns to its original shape as it dies.
 FR: {S1} retrouve sa forme d’origine en mourant.
@@ -6125,7 +7088,7 @@ EN: {A} prays to {X}.
 FR: {S1} prie {x2}.
 
 EN: ooze floods into {I} lungs!
-FR: La vase envahit les poumons {d1} !
+FR: La vase envahit les poumons {d1} ! ¦ La vase envahit vos poumons !
 
 EN: {A} calls forth creatures from the Elven Halls!
 FR: {S1} appelle des créatures des Halls Elfiques !
@@ -7283,7 +8246,7 @@ EN: Zin will cleanse your potions of mutation.
 FR: Zin purifie vos potions de mutation.
 
 EN: Your summoned allies will not expire while fighting evil.
-FR: Vos alliés invoqués ne disparaîtront pas tant qu’ils combattent le mal.
+FR: Vos alliés convoqués ne disparaîtront pas tant qu’ils combattent le mal.
 
 EN: You can now gain power from killing the unholy and evil.
 FR: Vous pouvez désormais gagner de la puissance en tuant les impies et les maléfiques.
@@ -7652,7 +8615,7 @@ EN: You now have {X} escape cards and {X} destruction cards.
 FR: Vous avez maintenant {x1} cartes d’évasion et {x2} cartes de destruction.
 
 EN: You now have {X} escape cards, {X} destruction cards and {X} summoning cards.
-FR: Vous avez maintenant {x1} cartes d’évasion, {x2} cartes de destruction et {x3} cartes d’invocation.
+FR: Vous avez maintenant {x1} cartes d’évasion, {x2} cartes de destruction et {x3} cartes de convocation.
 
 EN: {A} is almost dead.
 FR: {S1} est presque mort{e1}.
@@ -8080,12 +9043,6 @@ FR: Vous foncez sur {o1}.
 EN: You slice {A} like a ripe choko!
 FR: Vous tranchez {o1} comme un choko mûr !
 
-EN: You kill {A}!
-FR: Vous tuez {o1} !
-
-EN: You destroy {A}!
-FR: Vous détruisez {o1} !
-
 EN: You barely miss {A}!
 FR: Vous manquez {o1} de peu !
 
@@ -8408,7 +9365,7 @@ EN: Thorns of ice sprout around {A}.
 FR: Des épines de glace poussent autour {d1}. ¦ Des épines de glace poussent autour de vous.
 
 EN: Magical energy flows from {A} into your mind!
-FR: L’énergie magique de {o1} afflue dans votre esprit !
+FR: L’énergie magique {d1} afflue dans votre esprit !
 
 EN: The light of Elyvilon comforts {A}.
 FR: La lumière d’Elyvilon réconforte {o1}. ¦ La lumière d’Elyvilon vous réconforte.
@@ -8600,7 +9557,7 @@ EN: (M)emorise this spell.
 FR: (M)émoriser ce sort.
 
 EN: Fragment what (e.g. wall or brittle monster)?:
-FR: Fragmenter quoi (ex. : mur ou monstre fragile) ?:
+FR: Fragmenter quoi (ex. : mur ou monstre fragile) ? :
 
 EN: Goji, Who Cannot Be Seen
 FR: Goji, Celui Qu’On Ne Peut Voir
@@ -9220,14 +10177,8 @@ FR: Vous vous sentez plus léger.
 EN: You are even more covered in liquid fire!
 FR: Vous êtes encore plus couvert de feu liquide !
 
-EN: You are even more covered in intense liquid fire!
-FR: Vous êtes encore plus couvert de feu liquide intense !
-
 EN: You are covered in liquid fire! Move or burn!
 FR: Vous êtes couvert de feu liquide ! Bougez ou brûlez !
-
-EN: You are covered in intense liquid fire! Move or burn!
-FR: Vous êtes couvert de feu liquide intense ! Bougez ou brûlez !
 
 EN: The liquid fire burns you!
 FR: Le feu liquide vous brûle !
