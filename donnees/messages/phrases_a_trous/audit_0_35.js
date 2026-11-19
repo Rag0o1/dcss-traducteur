@@ -397,7 +397,7 @@
         "Shards of ice erupt from {I} body!": "Des éclats de glace jaillissent du corps {d1} !",
         "The terrible wounds on {I} body vanish.": "Les terribles blessures du corps {d1} disparaissent.",
         "Thorns of ice sprout around {A}.": "Des épines de glace poussent autour {d1}. ¦ Des épines de glace poussent autour de vous.",
-        "Magical energy flows from {A} into your mind!": "L’énergie magique de {o1} afflue dans votre esprit !",
+        "Magical energy flows from {A} into your mind!": "L’énergie magique {d1} afflue dans votre esprit !",
         "The light of Elyvilon comforts {A}.": "La lumière d’Elyvilon réconforte {o1}. ¦ La lumière d’Elyvilon vous réconforte.",
         "The light of Elyvilon almost touches upon {A}.": "La lumière d’Elyvilon touche presque {o1}. ¦ La lumière d’Elyvilon vous touche presque.",
         "The light of Elyvilon fails to reach {A}.": "La lumière d’Elyvilon n’atteint pas {o1}. ¦ La lumière d’Elyvilon ne vous atteint pas.",

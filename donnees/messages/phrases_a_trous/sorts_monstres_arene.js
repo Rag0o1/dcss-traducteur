@@ -51,7 +51,7 @@
         "{A} barely resists.": "{S1} résiste de justesse.",
         "{A} beckons forth otherworldly terror in the name of {X}.": "{S1} fait surgir une terreur d’outre-monde au nom de {x2}.",
         "The dungeon shakes, a horrible noise fills the air, and a portal to some otherworldly place is opened!": "Le donjon tremble, un bruit horrible emplit l’air et un portail vers un lieu d’outre-monde s’ouvre !",
-        "{A} is summoned!": "{S1} est invoqué{e1} !",
+        "{A} is summoned!": "{S1} est convoqué{e1} !",
         "{A} smiles without lips.": "{S1} sourit sans lèvres.",
         "{A} looks as sick as possible!": "{S1} semble aussi malade que possible !",
         "{A} pulsates in unstable patterns.": "{S1} pulse en motifs instables.",
@@ -71,7 +71,7 @@
         "The air twists around and strikes {A}.": "L’air tournoie et frappe {o1}. ¦ L’air tournoie et vous frappe.",
         "The air twists around and strikes {A}!": "L’air tournoie et frappe {o1} ! ¦ L’air tournoie et vous frappe !",
         "The open air twists around violently and strikes {A}!": "L’air libre tournoie violemment et frappe {o1} ! ¦ L’air libre tournoie violemment et vous frappe !",
-        "{A} summons a swarm of flies.": "{S1} invoque un essaim de mouches.",
+        "{A} summons a swarm of flies.": "{S1} convoque un essaim de mouches.",
         "{A} roars an obscure riddle with a strange tongue.": "{S1} rugit une énigme obscure dans une langue étrange.",
         "{A} screeches a nonsensical riddle in a mystic tongue.": "{S1} hurle une énigme absurde dans une langue mystique.",
         "{A} conjures a destructive force in the name of {X}!": "{S1} invoque une force destructrice au nom de {x2} !",
@@ -108,8 +108,8 @@
         "{I} shape twists and changes as it dies.": "La forme {d1} se tord et change en mourant.",
         "{I} electric aura discharges, shocking {A}.": "L’aura électrique {d1} se décharge et foudroie {o2}.",
         "{I} electric aura discharges, shocking {A}!": "L’aura électrique {d1} se décharge et foudroie {o2} !",
-        "water floods into {I} lungs!": "L’eau envahit les poumons {d1} !",
-        "water floods into {I} airways!": "L’eau envahit les voies respiratoires {d1} !"
+        "water floods into {I} lungs!": "L’eau envahit les poumons {d1} ! ¦ L’eau envahit vos poumons !",
+        "water floods into {I} airways!": "L’eau envahit les voies respiratoires {d1} ! ¦ L’eau envahit vos voies respiratoires !"
     });
     // Coups avec une partie du corps : « trunk-slaps », « tail-slaps », « pecks », « drains »...
     for (const [v, fr, suite] of [["trunk-slaps", "gifle", " de sa trompe"], ["tail-slaps", "fouette", " de sa queue"], ["pecks", "picore", ""],

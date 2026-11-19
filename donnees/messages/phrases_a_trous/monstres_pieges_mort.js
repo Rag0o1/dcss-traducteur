@@ -56,7 +56,7 @@ Object.assign(globalThis.DCSS_VARIABLES = globalThis.DCSS_VARIABLES || {}, {
     "The vine drags {A} backwards!": "La liane entraîne {o1} en arrière !",
     "The tentacle pulls {A} backwards!": "Le tentacule tire {o1} en arrière !",
     // --- Dieux ---
-    "<white>{X} is honoured by your kill.</white>": "{x1} est honoré par votre victoire.",
+    "<white>{X} is honoured by your kill.</white>": "<white>{x1} est honoré par votre victoire.</white>",
     "The light of Elyvilon comforts {A}{X}.": "La lumière d’Elyvilon réconforte {o1}{x2}.",
     "You focus your inner power and drain {A}'s magic in retribution!": "Vous concentrez votre pouvoir intérieur et drainez la magie {d1} en représailles !",
     "You focus your inner power and paralyse {A} in retribution!": "Vous concentrez votre pouvoir intérieur et paralysez {o1} en représailles !",
@@ -99,7 +99,7 @@ Object.assign(globalThis.DCSS_VARIABLES = globalThis.DCSS_VARIABLES || {}, {
     "The magic binding {A} to this plane unravels!": "La magie qui lie {o1} à ce plan se défait !",
     "A stygian plague fills {A} body.": "Une peste stygienne emplit le corps {d1}.",
     // --- Cartes et nuages ---
-    "{A} {v:bask} in {X}.": "{S1} se prélasse dans {x2}.",
+    "{A} {v:bask} in {X}.": "{S1} se prélasse dans {x2}. ¦ Vous vous prélassez dans {x2}.",
     "{A} {X} in the rain.": "{S1} {x2} sous la pluie.",
     "{A} is in the way.": "{S1} est sur le chemin.",
     "You fail to reach past {A}.": "Vous ne parvenez pas à atteindre ce qui se trouve derrière {o1}.",

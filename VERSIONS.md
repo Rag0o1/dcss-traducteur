@@ -11,6 +11,10 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.25.1 — relecture des phrases à trous
+
+- 2 079 modèles de messages relus (fichiers écrits à la main) ; 33 corrections : summon = convoquer (« Le gobelin convoque des araignées ! »), versions « vous » ajoutées (« L’eau envahit vos poumons ! »), trous mal choisis (« l’énergie magique du gobelin »), accords, balises de couleur manquantes.
+
 ## 0.25 — tutoriel complet, citations libres de droits, gadgets
 
 - Moteur : phrases du tutoriel où le jeu colle le nom d’une touche dans le texte (`$cmd[...]` → « Ctrl-P », « > »…) ; la touche est reconnue quelle qu’elle soit (raccourcis personnalisés compris). 69 paragraphes (`outils/phrases_cmd_src.json`).

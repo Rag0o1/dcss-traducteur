@@ -37,7 +37,7 @@
         "dangerous": "dangereux",
         "Vehumet supports the use of this spell.": "Vehumet soutient l’utilisation de ce sort.",
         "(M)emorise this spell.": "(M)émoriser ce sort.",
-        "Fragment what (e.g. wall or brittle monster)?:": "Fragmenter quoi (ex. : mur ou monstre fragile) ?:",
+        "Fragment what (e.g. wall or brittle monster)?:": "Fragmenter quoi (ex. : mur ou monstre fragile) ? :",
         "Goji, Who Cannot Be Seen": "Goji, Celui Qu’On Ne Peut Voir",
         "And Goji? Well. He's also here.": "Et Goji ? Eh bien. Il est là aussi.",
         "Goji shouts, \"Stealth is key to winning *all* battles.\"": "Goji crie : « La discrétion est la clé pour gagner *toutes* les batailles. »",
