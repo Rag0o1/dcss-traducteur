@@ -11,6 +11,11 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.24.3 — version en développement (0.35) : nouveaux textes
+
+- 328 messages du jeu à trous traduits (`outils/db/messages_trunk.txt` → `phrases_a_trous/messages_trunk.js`) : armures et bijoux qu’on met ou retire, dons divins, pouvoirs, échecs… Couverture des messages à trous : 57 % → 62 % (les autres sont surtout des messages entièrement variables, de débogage ou d’assistant).
+- Nouveautés de la 0.35 : Boreas, le centaure des bourrasques, le Rempart boréal, le métier Chasseur, les rappels d’alliés (`outils/db/descriptions_trunk.txt`).
+
 ## 0.24.2 — déterminants
 
 - H aspiré respecté (nouveau `moteur/elision.js`, utilisé par les règles, les phrases à trous et les grammaires) : « la hache de bataille », « la hachette », « la hallebarde » au lieu de « l’hache »…

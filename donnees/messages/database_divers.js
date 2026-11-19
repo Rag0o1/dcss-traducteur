@@ -837,5 +837,14 @@ globalThis.DCSS_TRADUCTIONS.database_divers = {
 "You hear the full choir of a distant funeral chant.": "Vous entendez le chœur au complet d’un chant funèbre lointain.",
 "You hear the full choir of a funeral chant nearby.": "Vous entendez le chœur au complet d’un chant funèbre proche.",
 "You hear the full choir of a funeral chant very nearby.": "Vous entendez le chœur au complet d’un chant funèbre tout proche.",
-"You hear the full choir of a funeral chant.": "Vous entendez le chœur au complet d’un chant funèbre."
+"You hear the full choir of a funeral chant.": "Vous entendez le chœur au complet d’un chant funèbre.",
+"Recalls your undead followers from anywhere in the dungeon to your side.": "Rappelle à vos côtés vos suivants morts-vivants, où qu’ils soient dans le donjon.",
+"Recalls your apostles from anywhere in the dungeon to your side.": "Rappelle à vos côtés vos apôtres, où qu’ils soient dans le donjon.",
+"Recalls your ancestor from anywhere in the dungeon to your side.": "Rappelle à vos côtés votre ancêtre, où qu’il soit dans le donjon.",
+"Hunters carry a shortbow, light armour, two scrolls of poison and a scroll of butterflies.": "Les chasseurs emportent un arc court, une armure légère, deux parchemins de poison et un parchemin de papillons.",
+"A muscular gale centaur, armoured from head to flank in heavy steel. He claims direct lineage from the North Wind itself and the blustering squall which wreathes him cows most who'd dare to doubt. Prideful and fierce in equal measure, any obstacle between him and the Orb exists only to be trampled over.": "Un centaure des bourrasques musclé, cuirassé d’acier lourd de la tête aux flancs. Il prétend descendre en droite ligne du Vent du Nord lui-même, et la rafale tonitruante qui l’enveloppe intimide la plupart de ceux qui oseraient en douter. Aussi orgueilleux que féroce, il considère que tout obstacle entre lui et l’Orbe n’existe que pour être piétiné.",
+"Your Boreal Bulwark must spend some time recharging its power before it can regenerate your health.": "Votre Rempart boréal doit recharger son pouvoir un moment avant de pouvoir régénérer votre santé.",
+"A towering wall of ancient tamarack and patterned steel, said to have been quenched in the sweat of the North Wind itself. Despite its weight, those who carry it find their steps bolstered by bracing gusts and given the strength to endure even the toughest hardships.": "Un imposant mur de mélèze ancien et d’acier ouvragé, qui aurait été trempé dans la sueur du Vent du Nord lui-même. Malgré son poids, ceux qui le portent sentent leurs pas soutenus par des rafales vivifiantes, qui leur donnent la force d’endurer les pires épreuves.",
+"gale centaur": "centaure des bourrasques",
+"the boreal bulwark": "le Rempart boréal"
 };

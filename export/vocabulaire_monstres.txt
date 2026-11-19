@@ -274,6 +274,9 @@ FR: centaure
 EN: centaur warrior
 FR: guerrier centaure
 
+EN: gale centaur
+FR: centaure des bourrasques
+
 EN: cerulean imp
 FR: diablotin céruléen
 

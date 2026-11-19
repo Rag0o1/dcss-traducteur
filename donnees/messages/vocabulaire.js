@@ -100,6 +100,7 @@
         "caustic sporangium": { name: "sporange caustique", gender: "m", article: "le " },
         "centaur": { name: "centaure", gender: "m", article: "le " },
         "centaur warrior": { name: "guerrier centaure", gender: "m", article: "le " },
+        "gale centaur": { name: "centaure des bourrasques", gender: "m", article: "le " },
         "cerulean imp": { name: "diablotin céruléen", gender: "m", article: "le " },
         "chaos spawn": { name: "rejeton du chaos", gender: "m", article: "le " },
         "cherub": { name: "chérubin", gender: "m", article: "le " },
