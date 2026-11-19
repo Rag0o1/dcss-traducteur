@@ -11,6 +11,12 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.24.2 — déterminants
+
+- H aspiré respecté (nouveau `moteur/elision.js`, utilisé par les règles, les phrases à trous et les grammaires) : « la hache de bataille », « la hachette », « la hallebarde » au lieu de « l’hache »…
+- « des écailles de dragon de feu » au lieu de « une écailles » ; accord de « (porté) » : « une robe (portée) », « des écailles… (portées) ».
+- Orbe au masculin partout, comme dans le dictionnaire : « l’Orbe de Zot glorieux », « un orbe lumineux ».
+
 ## 0.24.1 — messages des portails
 
 - 421 messages des portails traduits (`outils/db/portails.txt`, généré dans `database_divers.js`) : annonces (« Il y a une entrée vers le Sewer à ce niveau. Dépêchez-vous de la trouver avant que le portail ne rouille ! »), bruits qui s’éloignent, fermetures, noms des salles des Wizlab et des Troves.

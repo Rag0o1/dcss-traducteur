@@ -1,12 +1,12 @@
 {
  "taches": [
   {
-   "priorite": 1,
+   "priorite": 4,
    "sujet": "Phrases d’aide coupées par une touche",
    "source": "dat/descript/hints.txt, tutorial.txt",
    "volume": "192 phrases (23 restantes)",
    "quoi": "Conseils et tutoriel : la touche (X) coupe la phrase, la fin reste en anglais",
-   "decision": "Fait en 0.22 (moteur phrases à touches). Restent 23 phrases avec touche ou nom de dieu collés au texte."
+   "decision": "Abandonné le 19/11 : le mode Hints n’existe pas sur les serveurs WebTiles"
   },
   {
    "priorite": 1,
@@ -137,23 +137,5 @@
    "decision": "Fait en 0.24 (décision du 18/11)"
   }
  ],
- "astuces": [
-  "hints/HINT_SEEN_MISC: Vous pouvez jouer avec pour découvrir ce qu’il fait en clicking on it to eXoke it.",
-  "hints/HINT_SEEN_BRANCH: Vous pouvez en apprendre plus en examinant cette entrée en survolant sa tuile avec la souris<nomouse by pressing X and moving the cursor onto it.\"",
-  "hints/HINT_SEEN_ZERO_EXP_MON: That is $2.",
-  "hints/HINT_LOAD_SAVED_GAME: , your set of mutations (X)",
-  "hints/HINT_LOAD_SAVED_GAME: , and the dungeon overview screen (X)",
-  "hints/HINT_ATTACK_WITH_RANGED_WEAPON: Pour attaquer un monstre, left mouse click on the monster.\\nTo fire a ranged weapon using the keyboard, press X.",
-  "hints/# i18n note: $1 can be singular or plural: $1 can be Xired without the use of a launcher.",
-  "hints/HINT_DESCRIBE_WAND: Alternatively, you can 1) left mouse click on the monster you wish to target (or your player character to target yourself) while pressing $1 and pick the wand from the menu, or 2) left mouse click on the wand tile and then left mouse click on your target.",
-  "hints/HINT_DESCRIBE_JEWELLERY: Jewellery can be Xut on or Xemoved again, though in Tiles, either can be done by clicking on l’objet dans votre inventory.",
-  "hints/# $1 = player's current god, $2 = altar god: $1 probably won't like it if you switch allegiance, but having a look won't hurt:",
-  "tutorial/tutorial1 levelmap: You can",
-  "tutorial/tutorial1 exit: Staircases X  go back to the previous level X  enter the next level X>/X<< travel to the nearest up/downstairs",
-  "tutorial/tutorial2 exit: Resting X  wait and rest a single turn X  wait and rest up to 100 turns",
-  "tutorial/tutorial3 exit: Item commands X  pick up an item X  drop an item X  equip armour, weapons, and jewellery X  unequip armour, weapons, and jewellery X  read a scroll X  quaff a potion X  evoke a wand",
-  "tutorial/tutorial4 exit: X  rest up to 100 turns to regain magic points and health X  order allies X  take off equipment",
-  "tutorial/tutorial5 exit: Resting X  wait and rest a single turn X  wait and rest up to 100 turns",
-  "tutorial/tutorial5 exit: Other commands X display an overview of the dungeon X/  search the description database"
- ]
+ "astuces": []
 }

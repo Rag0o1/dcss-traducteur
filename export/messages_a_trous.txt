@@ -3704,7 +3704,7 @@ EN: Something weaves an illusion!
 FR: Quelque chose tisse une illusion !
 
 EN: {A} weaves a glowing orb of energy.
-FR: {S1} tisse une orbe d’énergie lumineuse.
+FR: {S1} tisse un orbe d’énergie lumineuse.
 
 EN: {A} conjures a glowing orb.
 FR: {S1} conjure un orbe luisant.

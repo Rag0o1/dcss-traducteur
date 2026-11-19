@@ -42,7 +42,7 @@
         const e = (globalThis.DCSS_PROJECTILES || {})[nom];
         if (!e) return null;
         const [fr, g] = e;
-        const voy = /^[aeiouyhéèêâîôûœ]/i.test(fr) && g !== "p";
+        const voy = globalThis.DCSS_ELIDE(fr) && g !== "p";
         const o = g === "p" ? "les " + fr : voy ? "l’" + fr : (g === "f" ? "la " : "le ") + fr;
         const d = g === "p" ? "des " + fr : voy ? "de l’" + fr : g === "f" ? "de la " + fr : "du " + fr;
         const a = g === "p" ? "aux " + fr : voy ? "à l’" + fr : g === "f" ? "à la " + fr : "au " + fr;

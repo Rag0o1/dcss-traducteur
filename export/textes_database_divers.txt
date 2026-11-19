@@ -137,7 +137,7 @@ EN: The heart of this dungeon contains the wondrous artefact, the Orb of Zot.
 FR: Le cœur de ce donjon renferme un artefact merveilleux : l’Orbe de Zot.
 
 EN: Will you be the one to retrieve the astounding Orb of Zot from the depths?
-FR: Serez-vous celui qui rapportera des profondeurs l’Orbe de Zot stupéfiante ?
+FR: Serez-vous celui qui rapportera des profondeurs l’Orbe de Zot stupéfiant ?
 
 EN: Will you be the one to retrieve the awesome Orb of Zot from the depths?
 FR: Serez-vous celui qui rapportera des profondeurs l’Orbe de Zot formidable ?
@@ -149,13 +149,13 @@ EN: Will you be the one to retrieve the fabled Orb of Zot from the depths?
 FR: Serez-vous celui qui rapportera des profondeurs l’Orbe de Zot mythique ?
 
 EN: Will you be the one to retrieve the fabulous Orb of Zot from the depths?
-FR: Serez-vous celui qui rapportera des profondeurs l’Orbe de Zot fabuleuse ?
+FR: Serez-vous celui qui rapportera des profondeurs l’Orbe de Zot fabuleux ?
 
 EN: Will you be the one to retrieve the fantabulous Orb of Zot from the depths?
-FR: Serez-vous celui qui rapportera des profondeurs l’Orbe de Zot fantabuleuse ?
+FR: Serez-vous celui qui rapportera des profondeurs l’Orbe de Zot fantabuleux ?
 
 EN: Will you be the one to retrieve the glorious Orb of Zot from the depths?
-FR: Serez-vous celui qui rapportera des profondeurs l’Orbe de Zot glorieuse ?
+FR: Serez-vous celui qui rapportera des profondeurs l’Orbe de Zot glorieux ?
 
 EN: Will you be the one to retrieve the incredible Orb of Zot from the depths?
 FR: Serez-vous celui qui rapportera des profondeurs l’Orbe de Zot incroyable ?
@@ -167,16 +167,16 @@ EN: Will you be the one to retrieve the magnificent Orb of Zot from the depths?
 FR: Serez-vous celui qui rapportera des profondeurs l’Orbe de Zot magnifique ?
 
 EN: Will you be the one to retrieve the majestic Orb of Zot from the depths?
-FR: Serez-vous celui qui rapportera des profondeurs l’Orbe de Zot majestueuse ?
+FR: Serez-vous celui qui rapportera des profondeurs l’Orbe de Zot majestueux ?
 
 EN: Will you be the one to retrieve the marvelous Orb of Zot from the depths?
-FR: Serez-vous celui qui rapportera des profondeurs l’Orbe de Zot merveilleuse ?
+FR: Serez-vous celui qui rapportera des profondeurs l’Orbe de Zot merveilleux ?
 
 EN: Will you be the one to retrieve the splendid Orb of Zot from the depths?
 FR: Serez-vous celui qui rapportera des profondeurs l’Orbe de Zot splendide ?
 
 EN: Will you be the one to retrieve the stupendous Orb of Zot from the depths?
-FR: Serez-vous celui qui rapportera des profondeurs l’Orbe de Zot prodigieuse ?
+FR: Serez-vous celui qui rapportera des profondeurs l’Orbe de Zot prodigieux ?
 
 EN: Will you be the one to retrieve the sublime Orb of Zot from the depths?
 FR: Serez-vous celui qui rapportera des profondeurs l’Orbe de Zot sublime ?
@@ -185,16 +185,16 @@ EN: Will you be the one to retrieve the terrific Orb of Zot from the depths?
 FR: Serez-vous celui qui rapportera des profondeurs l’Orbe de Zot formidable ?
 
 EN: Will you be the one to retrieve the transcendent Orb of Zot from the depths?
-FR: Serez-vous celui qui rapportera des profondeurs l’Orbe de Zot transcendante ?
+FR: Serez-vous celui qui rapportera des profondeurs l’Orbe de Zot transcendant ?
 
 EN: Will you be the one to retrieve the wondrous Orb of Zot from the depths?
-FR: Serez-vous celui qui rapportera des profondeurs l’Orbe de Zot merveilleuse ?
+FR: Serez-vous celui qui rapportera des profondeurs l’Orbe de Zot merveilleux ?
 
 EN: It is said that the Orb of Zot exists deep within this dungeon.
 FR: On dit que l’Orbe de Zot se trouve au plus profond de ce donjon.
 
 EN: Are you destined to find the astounding Orb of Zot, or to die trying?
-FR: Êtes-vous destiné à trouver l’Orbe de Zot stupéfiante, ou à mourir en essayant ?
+FR: Êtes-vous destiné à trouver l’Orbe de Zot stupéfiant, ou à mourir en essayant ?
 
 EN: Are you destined to find the awesome Orb of Zot, or to die trying?
 FR: Êtes-vous destiné à trouver l’Orbe de Zot formidable, ou à mourir en essayant ?
@@ -206,13 +206,13 @@ EN: Are you destined to find the fabled Orb of Zot, or to die trying?
 FR: Êtes-vous destiné à trouver l’Orbe de Zot mythique, ou à mourir en essayant ?
 
 EN: Are you destined to find the fabulous Orb of Zot, or to die trying?
-FR: Êtes-vous destiné à trouver l’Orbe de Zot fabuleuse, ou à mourir en essayant ?
+FR: Êtes-vous destiné à trouver l’Orbe de Zot fabuleux, ou à mourir en essayant ?
 
 EN: Are you destined to find the fantabulous Orb of Zot, or to die trying?
-FR: Êtes-vous destiné à trouver l’Orbe de Zot fantabuleuse, ou à mourir en essayant ?
+FR: Êtes-vous destiné à trouver l’Orbe de Zot fantabuleux, ou à mourir en essayant ?
 
 EN: Are you destined to find the glorious Orb of Zot, or to die trying?
-FR: Êtes-vous destiné à trouver l’Orbe de Zot glorieuse, ou à mourir en essayant ?
+FR: Êtes-vous destiné à trouver l’Orbe de Zot glorieux, ou à mourir en essayant ?
 
 EN: Are you destined to find the incredible Orb of Zot, or to die trying?
 FR: Êtes-vous destiné à trouver l’Orbe de Zot incroyable, ou à mourir en essayant ?
@@ -224,16 +224,16 @@ EN: Are you destined to find the magnificent Orb of Zot, or to die trying?
 FR: Êtes-vous destiné à trouver l’Orbe de Zot magnifique, ou à mourir en essayant ?
 
 EN: Are you destined to find the majestic Orb of Zot, or to die trying?
-FR: Êtes-vous destiné à trouver l’Orbe de Zot majestueuse, ou à mourir en essayant ?
+FR: Êtes-vous destiné à trouver l’Orbe de Zot majestueux, ou à mourir en essayant ?
 
 EN: Are you destined to find the marvelous Orb of Zot, or to die trying?
-FR: Êtes-vous destiné à trouver l’Orbe de Zot merveilleuse, ou à mourir en essayant ?
+FR: Êtes-vous destiné à trouver l’Orbe de Zot merveilleux, ou à mourir en essayant ?
 
 EN: Are you destined to find the splendid Orb of Zot, or to die trying?
 FR: Êtes-vous destiné à trouver l’Orbe de Zot splendide, ou à mourir en essayant ?
 
 EN: Are you destined to find the stupendous Orb of Zot, or to die trying?
-FR: Êtes-vous destiné à trouver l’Orbe de Zot prodigieuse, ou à mourir en essayant ?
+FR: Êtes-vous destiné à trouver l’Orbe de Zot prodigieux, ou à mourir en essayant ?
 
 EN: Are you destined to find the sublime Orb of Zot, or to die trying?
 FR: Êtes-vous destiné à trouver l’Orbe de Zot sublime, ou à mourir en essayant ?
@@ -242,10 +242,10 @@ EN: Are you destined to find the terrific Orb of Zot, or to die trying?
 FR: Êtes-vous destiné à trouver l’Orbe de Zot formidable, ou à mourir en essayant ?
 
 EN: Are you destined to find the transcendent Orb of Zot, or to die trying?
-FR: Êtes-vous destiné à trouver l’Orbe de Zot transcendante, ou à mourir en essayant ?
+FR: Êtes-vous destiné à trouver l’Orbe de Zot transcendant, ou à mourir en essayant ?
 
 EN: Are you destined to find the wondrous Orb of Zot, or to die trying?
-FR: Êtes-vous destiné à trouver l’Orbe de Zot merveilleuse, ou à mourir en essayant ?
+FR: Êtes-vous destiné à trouver l’Orbe de Zot merveilleux, ou à mourir en essayant ?
 
 EN: Everyone else who sought the Orb of Zot has failed. Will you be different?
 FR: Tous ceux qui ont cherché l’Orbe de Zot ont échoué. Serez-vous différent ?
@@ -254,64 +254,64 @@ EN: They say the Orb of Zot lies within this dungeon, but they say a lot of thin
 FR: On dit que l’Orbe de Zot se trouve dans ce donjon, mais on dit beaucoup de choses.
 
 EN: The astounding Orb of Zot lies far below, as if waiting for you to find it.
-FR: L’Orbe de Zot stupéfiante repose tout en bas, comme si elle attendait que vous la trouviez.
+FR: L’Orbe de Zot stupéfiant repose tout en bas, comme s’il attendait que vous le trouviez.
 
 EN: The awesome Orb of Zot lies far below, as if waiting for you to find it.
-FR: L’Orbe de Zot formidable repose tout en bas, comme si elle attendait que vous la trouviez.
+FR: L’Orbe de Zot formidable repose tout en bas, comme s’il attendait que vous le trouviez.
 
 EN: The breathtaking Orb of Zot lies far below, as if waiting for you to find it.
-FR: L’Orbe de Zot à couper le souffle repose tout en bas, comme si elle attendait que vous la trouviez.
+FR: L’Orbe de Zot à couper le souffle repose tout en bas, comme s’il attendait que vous le trouviez.
 
 EN: The fabled Orb of Zot lies far below, as if waiting for you to find it.
-FR: L’Orbe de Zot mythique repose tout en bas, comme si elle attendait que vous la trouviez.
+FR: L’Orbe de Zot mythique repose tout en bas, comme s’il attendait que vous le trouviez.
 
 EN: The fabulous Orb of Zot lies far below, as if waiting for you to find it.
-FR: L’Orbe de Zot fabuleuse repose tout en bas, comme si elle attendait que vous la trouviez.
+FR: L’Orbe de Zot fabuleux repose tout en bas, comme s’il attendait que vous le trouviez.
 
 EN: The fantabulous Orb of Zot lies far below, as if waiting for you to find it.
-FR: L’Orbe de Zot fantabuleuse repose tout en bas, comme si elle attendait que vous la trouviez.
+FR: L’Orbe de Zot fantabuleux repose tout en bas, comme s’il attendait que vous le trouviez.
 
 EN: The glorious Orb of Zot lies far below, as if waiting for you to find it.
-FR: L’Orbe de Zot glorieuse repose tout en bas, comme si elle attendait que vous la trouviez.
+FR: L’Orbe de Zot glorieux repose tout en bas, comme s’il attendait que vous le trouviez.
 
 EN: The incredible Orb of Zot lies far below, as if waiting for you to find it.
-FR: L’Orbe de Zot incroyable repose tout en bas, comme si elle attendait que vous la trouviez.
+FR: L’Orbe de Zot incroyable repose tout en bas, comme s’il attendait que vous le trouviez.
 
 EN: The legendary Orb of Zot lies far below, as if waiting for you to find it.
-FR: L’Orbe de Zot légendaire repose tout en bas, comme si elle attendait que vous la trouviez.
+FR: L’Orbe de Zot légendaire repose tout en bas, comme s’il attendait que vous le trouviez.
 
 EN: The magnificent Orb of Zot lies far below, as if waiting for you to find it.
-FR: L’Orbe de Zot magnifique repose tout en bas, comme si elle attendait que vous la trouviez.
+FR: L’Orbe de Zot magnifique repose tout en bas, comme s’il attendait que vous le trouviez.
 
 EN: The majestic Orb of Zot lies far below, as if waiting for you to find it.
-FR: L’Orbe de Zot majestueuse repose tout en bas, comme si elle attendait que vous la trouviez.
+FR: L’Orbe de Zot majestueux repose tout en bas, comme s’il attendait que vous le trouviez.
 
 EN: The marvelous Orb of Zot lies far below, as if waiting for you to find it.
-FR: L’Orbe de Zot merveilleuse repose tout en bas, comme si elle attendait que vous la trouviez.
+FR: L’Orbe de Zot merveilleux repose tout en bas, comme s’il attendait que vous le trouviez.
 
 EN: The splendid Orb of Zot lies far below, as if waiting for you to find it.
-FR: L’Orbe de Zot splendide repose tout en bas, comme si elle attendait que vous la trouviez.
+FR: L’Orbe de Zot splendide repose tout en bas, comme s’il attendait que vous le trouviez.
 
 EN: The stupendous Orb of Zot lies far below, as if waiting for you to find it.
-FR: L’Orbe de Zot prodigieuse repose tout en bas, comme si elle attendait que vous la trouviez.
+FR: L’Orbe de Zot prodigieux repose tout en bas, comme s’il attendait que vous le trouviez.
 
 EN: The sublime Orb of Zot lies far below, as if waiting for you to find it.
-FR: L’Orbe de Zot sublime repose tout en bas, comme si elle attendait que vous la trouviez.
+FR: L’Orbe de Zot sublime repose tout en bas, comme s’il attendait que vous le trouviez.
 
 EN: The terrific Orb of Zot lies far below, as if waiting for you to find it.
-FR: L’Orbe de Zot formidable repose tout en bas, comme si elle attendait que vous la trouviez.
+FR: L’Orbe de Zot formidable repose tout en bas, comme s’il attendait que vous le trouviez.
 
 EN: The transcendent Orb of Zot lies far below, as if waiting for you to find it.
-FR: L’Orbe de Zot transcendante repose tout en bas, comme si elle attendait que vous la trouviez.
+FR: L’Orbe de Zot transcendant repose tout en bas, comme s’il attendait que vous le trouviez.
 
 EN: The wondrous Orb of Zot lies far below, as if waiting for you to find it.
-FR: L’Orbe de Zot merveilleuse repose tout en bas, comme si elle attendait que vous la trouviez.
+FR: L’Orbe de Zot merveilleux repose tout en bas, comme s’il attendait que vous le trouviez.
 
 EN: Below lies the Orb of Zot, rumoured to be powerful enough to resurrect a god...
-FR: En bas repose l’Orbe de Zot, que l’on dit assez puissante pour ressusciter un dieu...
+FR: En bas repose l’Orbe de Zot, que l’on dit assez puissant pour ressusciter un dieu...
 
 EN: The Orb of Zot is coveted for many reasons. Will you seize it for your own?
-FR: L’Orbe de Zot est convoitée pour bien des raisons. Vous en emparerez-vous ?
+FR: L’Orbe de Zot est convoité pour bien des raisons. Vous en emparerez-vous ?
 
 EN: A smirking vizier told you that the Orb of Zot is just within this dungeon.
 FR: Un vizir narquois vous a dit que l’Orbe de Zot se trouve juste dans ce donjon.
@@ -350,7 +350,7 @@ EN: A legendary dungeon that contains the Orb of Zot. Let's see if what they say
 FR: Un donjon légendaire qui renferme l’Orbe de Zot. Voyons si ce qu’on dit de cet endroit est vrai...
 
 EN: No one who enters this dungeon returns the same. But you must have the Orb of Zot, hidden deep inside...
-FR: Nul ne ressort de ce donjon inchangé. Mais il vous faut l’Orbe de Zot, cachée tout au fond...
+FR: Nul ne ressort de ce donjon inchangé. Mais il vous faut l’Orbe de Zot, caché tout au fond...
 
 EN: It looks like the Orb of Zot is deeper inside. Sigh... it's all downstairs from here.
 FR: On dirait que l’Orbe de Zot est plus loin à l’intérieur. Soupir... à partir d’ici, tout se passe en bas.
@@ -365,7 +365,7 @@ EN: Will you prevail where others failed? Will you find the Orb of Zot?
 FR: Triompherez-vous là où d’autres ont échoué ? Trouverez-vous l’Orbe de Zot ?
 
 EN: Will you be the one to descend and find the astounding Orb of Zot?
-FR: Serez-vous celui qui descendra trouver l’Orbe de Zot stupéfiante ?
+FR: Serez-vous celui qui descendra trouver l’Orbe de Zot stupéfiant ?
 
 EN: Will you be the one to descend and find the awesome Orb of Zot?
 FR: Serez-vous celui qui descendra trouver l’Orbe de Zot formidable ?
@@ -377,13 +377,13 @@ EN: Will you be the one to descend and find the fabled Orb of Zot?
 FR: Serez-vous celui qui descendra trouver l’Orbe de Zot mythique ?
 
 EN: Will you be the one to descend and find the fabulous Orb of Zot?
-FR: Serez-vous celui qui descendra trouver l’Orbe de Zot fabuleuse ?
+FR: Serez-vous celui qui descendra trouver l’Orbe de Zot fabuleux ?
 
 EN: Will you be the one to descend and find the fantabulous Orb of Zot?
-FR: Serez-vous celui qui descendra trouver l’Orbe de Zot fantabuleuse ?
+FR: Serez-vous celui qui descendra trouver l’Orbe de Zot fantabuleux ?
 
 EN: Will you be the one to descend and find the glorious Orb of Zot?
-FR: Serez-vous celui qui descendra trouver l’Orbe de Zot glorieuse ?
+FR: Serez-vous celui qui descendra trouver l’Orbe de Zot glorieux ?
 
 EN: Will you be the one to descend and find the incredible Orb of Zot?
 FR: Serez-vous celui qui descendra trouver l’Orbe de Zot incroyable ?
@@ -395,16 +395,16 @@ EN: Will you be the one to descend and find the magnificent Orb of Zot?
 FR: Serez-vous celui qui descendra trouver l’Orbe de Zot magnifique ?
 
 EN: Will you be the one to descend and find the majestic Orb of Zot?
-FR: Serez-vous celui qui descendra trouver l’Orbe de Zot majestueuse ?
+FR: Serez-vous celui qui descendra trouver l’Orbe de Zot majestueux ?
 
 EN: Will you be the one to descend and find the marvelous Orb of Zot?
-FR: Serez-vous celui qui descendra trouver l’Orbe de Zot merveilleuse ?
+FR: Serez-vous celui qui descendra trouver l’Orbe de Zot merveilleux ?
 
 EN: Will you be the one to descend and find the splendid Orb of Zot?
 FR: Serez-vous celui qui descendra trouver l’Orbe de Zot splendide ?
 
 EN: Will you be the one to descend and find the stupendous Orb of Zot?
-FR: Serez-vous celui qui descendra trouver l’Orbe de Zot prodigieuse ?
+FR: Serez-vous celui qui descendra trouver l’Orbe de Zot prodigieux ?
 
 EN: Will you be the one to descend and find the sublime Orb of Zot?
 FR: Serez-vous celui qui descendra trouver l’Orbe de Zot sublime ?
@@ -413,13 +413,13 @@ EN: Will you be the one to descend and find the terrific Orb of Zot?
 FR: Serez-vous celui qui descendra trouver l’Orbe de Zot formidable ?
 
 EN: Will you be the one to descend and find the transcendent Orb of Zot?
-FR: Serez-vous celui qui descendra trouver l’Orbe de Zot transcendante ?
+FR: Serez-vous celui qui descendra trouver l’Orbe de Zot transcendant ?
 
 EN: Will you be the one to descend and find the wondrous Orb of Zot?
-FR: Serez-vous celui qui descendra trouver l’Orbe de Zot merveilleuse ?
+FR: Serez-vous celui qui descendra trouver l’Orbe de Zot merveilleux ?
 
 EN: Are you destined to descend to the astounding Orb of Zot, or to die trying?
-FR: Êtes-vous destiné à descendre jusqu’à l’Orbe de Zot stupéfiante, ou à mourir en essayant ?
+FR: Êtes-vous destiné à descendre jusqu’à l’Orbe de Zot stupéfiant, ou à mourir en essayant ?
 
 EN: Are you destined to descend to the awesome Orb of Zot, or to die trying?
 FR: Êtes-vous destiné à descendre jusqu’à l’Orbe de Zot formidable, ou à mourir en essayant ?
@@ -431,13 +431,13 @@ EN: Are you destined to descend to the fabled Orb of Zot, or to die trying?
 FR: Êtes-vous destiné à descendre jusqu’à l’Orbe de Zot mythique, ou à mourir en essayant ?
 
 EN: Are you destined to descend to the fabulous Orb of Zot, or to die trying?
-FR: Êtes-vous destiné à descendre jusqu’à l’Orbe de Zot fabuleuse, ou à mourir en essayant ?
+FR: Êtes-vous destiné à descendre jusqu’à l’Orbe de Zot fabuleux, ou à mourir en essayant ?
 
 EN: Are you destined to descend to the fantabulous Orb of Zot, or to die trying?
-FR: Êtes-vous destiné à descendre jusqu’à l’Orbe de Zot fantabuleuse, ou à mourir en essayant ?
+FR: Êtes-vous destiné à descendre jusqu’à l’Orbe de Zot fantabuleux, ou à mourir en essayant ?
 
 EN: Are you destined to descend to the glorious Orb of Zot, or to die trying?
-FR: Êtes-vous destiné à descendre jusqu’à l’Orbe de Zot glorieuse, ou à mourir en essayant ?
+FR: Êtes-vous destiné à descendre jusqu’à l’Orbe de Zot glorieux, ou à mourir en essayant ?
 
 EN: Are you destined to descend to the incredible Orb of Zot, or to die trying?
 FR: Êtes-vous destiné à descendre jusqu’à l’Orbe de Zot incroyable, ou à mourir en essayant ?
@@ -449,16 +449,16 @@ EN: Are you destined to descend to the magnificent Orb of Zot, or to die trying?
 FR: Êtes-vous destiné à descendre jusqu’à l’Orbe de Zot magnifique, ou à mourir en essayant ?
 
 EN: Are you destined to descend to the majestic Orb of Zot, or to die trying?
-FR: Êtes-vous destiné à descendre jusqu’à l’Orbe de Zot majestueuse, ou à mourir en essayant ?
+FR: Êtes-vous destiné à descendre jusqu’à l’Orbe de Zot majestueux, ou à mourir en essayant ?
 
 EN: Are you destined to descend to the marvelous Orb of Zot, or to die trying?
-FR: Êtes-vous destiné à descendre jusqu’à l’Orbe de Zot merveilleuse, ou à mourir en essayant ?
+FR: Êtes-vous destiné à descendre jusqu’à l’Orbe de Zot merveilleux, ou à mourir en essayant ?
 
 EN: Are you destined to descend to the splendid Orb of Zot, or to die trying?
 FR: Êtes-vous destiné à descendre jusqu’à l’Orbe de Zot splendide, ou à mourir en essayant ?
 
 EN: Are you destined to descend to the stupendous Orb of Zot, or to die trying?
-FR: Êtes-vous destiné à descendre jusqu’à l’Orbe de Zot prodigieuse, ou à mourir en essayant ?
+FR: Êtes-vous destiné à descendre jusqu’à l’Orbe de Zot prodigieux, ou à mourir en essayant ?
 
 EN: Are you destined to descend to the sublime Orb of Zot, or to die trying?
 FR: Êtes-vous destiné à descendre jusqu’à l’Orbe de Zot sublime, ou à mourir en essayant ?
@@ -467,67 +467,67 @@ EN: Are you destined to descend to the terrific Orb of Zot, or to die trying?
 FR: Êtes-vous destiné à descendre jusqu’à l’Orbe de Zot formidable, ou à mourir en essayant ?
 
 EN: Are you destined to descend to the transcendent Orb of Zot, or to die trying?
-FR: Êtes-vous destiné à descendre jusqu’à l’Orbe de Zot transcendante, ou à mourir en essayant ?
+FR: Êtes-vous destiné à descendre jusqu’à l’Orbe de Zot transcendant, ou à mourir en essayant ?
 
 EN: Are you destined to descend to the wondrous Orb of Zot, or to die trying?
-FR: Êtes-vous destiné à descendre jusqu’à l’Orbe de Zot merveilleuse, ou à mourir en essayant ?
+FR: Êtes-vous destiné à descendre jusqu’à l’Orbe de Zot merveilleux, ou à mourir en essayant ?
 
 EN: You feel drawn to descend into the unfathomable depths for the Orb of Zot...
 FR: Vous vous sentez poussé à descendre dans les profondeurs insondables pour l’Orbe de Zot...
 
 EN: The astounding Orb of Zot lies below, waiting for you to descend and find it.
-FR: L’Orbe de Zot stupéfiante repose en bas, attendant que vous descendiez la trouver.
+FR: L’Orbe de Zot stupéfiant repose en bas, attendant que vous descendiez le trouver.
 
 EN: The awesome Orb of Zot lies below, waiting for you to descend and find it.
-FR: L’Orbe de Zot formidable repose en bas, attendant que vous descendiez la trouver.
+FR: L’Orbe de Zot formidable repose en bas, attendant que vous descendiez le trouver.
 
 EN: The breathtaking Orb of Zot lies below, waiting for you to descend and find it.
-FR: L’Orbe de Zot à couper le souffle repose en bas, attendant que vous descendiez la trouver.
+FR: L’Orbe de Zot à couper le souffle repose en bas, attendant que vous descendiez le trouver.
 
 EN: The fabled Orb of Zot lies below, waiting for you to descend and find it.
-FR: L’Orbe de Zot mythique repose en bas, attendant que vous descendiez la trouver.
+FR: L’Orbe de Zot mythique repose en bas, attendant que vous descendiez le trouver.
 
 EN: The fabulous Orb of Zot lies below, waiting for you to descend and find it.
-FR: L’Orbe de Zot fabuleuse repose en bas, attendant que vous descendiez la trouver.
+FR: L’Orbe de Zot fabuleux repose en bas, attendant que vous descendiez le trouver.
 
 EN: The fantabulous Orb of Zot lies below, waiting for you to descend and find it.
-FR: L’Orbe de Zot fantabuleuse repose en bas, attendant que vous descendiez la trouver.
+FR: L’Orbe de Zot fantabuleux repose en bas, attendant que vous descendiez le trouver.
 
 EN: The glorious Orb of Zot lies below, waiting for you to descend and find it.
-FR: L’Orbe de Zot glorieuse repose en bas, attendant que vous descendiez la trouver.
+FR: L’Orbe de Zot glorieux repose en bas, attendant que vous descendiez le trouver.
 
 EN: The incredible Orb of Zot lies below, waiting for you to descend and find it.
-FR: L’Orbe de Zot incroyable repose en bas, attendant que vous descendiez la trouver.
+FR: L’Orbe de Zot incroyable repose en bas, attendant que vous descendiez le trouver.
 
 EN: The legendary Orb of Zot lies below, waiting for you to descend and find it.
-FR: L’Orbe de Zot légendaire repose en bas, attendant que vous descendiez la trouver.
+FR: L’Orbe de Zot légendaire repose en bas, attendant que vous descendiez le trouver.
 
 EN: The magnificent Orb of Zot lies below, waiting for you to descend and find it.
-FR: L’Orbe de Zot magnifique repose en bas, attendant que vous descendiez la trouver.
+FR: L’Orbe de Zot magnifique repose en bas, attendant que vous descendiez le trouver.
 
 EN: The majestic Orb of Zot lies below, waiting for you to descend and find it.
-FR: L’Orbe de Zot majestueuse repose en bas, attendant que vous descendiez la trouver.
+FR: L’Orbe de Zot majestueux repose en bas, attendant que vous descendiez le trouver.
 
 EN: The marvelous Orb of Zot lies below, waiting for you to descend and find it.
-FR: L’Orbe de Zot merveilleuse repose en bas, attendant que vous descendiez la trouver.
+FR: L’Orbe de Zot merveilleux repose en bas, attendant que vous descendiez le trouver.
 
 EN: The splendid Orb of Zot lies below, waiting for you to descend and find it.
-FR: L’Orbe de Zot splendide repose en bas, attendant que vous descendiez la trouver.
+FR: L’Orbe de Zot splendide repose en bas, attendant que vous descendiez le trouver.
 
 EN: The stupendous Orb of Zot lies below, waiting for you to descend and find it.
-FR: L’Orbe de Zot prodigieuse repose en bas, attendant que vous descendiez la trouver.
+FR: L’Orbe de Zot prodigieux repose en bas, attendant que vous descendiez le trouver.
 
 EN: The sublime Orb of Zot lies below, waiting for you to descend and find it.
-FR: L’Orbe de Zot sublime repose en bas, attendant que vous descendiez la trouver.
+FR: L’Orbe de Zot sublime repose en bas, attendant que vous descendiez le trouver.
 
 EN: The terrific Orb of Zot lies below, waiting for you to descend and find it.
-FR: L’Orbe de Zot formidable repose en bas, attendant que vous descendiez la trouver.
+FR: L’Orbe de Zot formidable repose en bas, attendant que vous descendiez le trouver.
 
 EN: The transcendent Orb of Zot lies below, waiting for you to descend and find it.
-FR: L’Orbe de Zot transcendante repose en bas, attendant que vous descendiez la trouver.
+FR: L’Orbe de Zot transcendant repose en bas, attendant que vous descendiez le trouver.
 
 EN: The wondrous Orb of Zot lies below, waiting for you to descend and find it.
-FR: L’Orbe de Zot merveilleuse repose en bas, attendant que vous descendiez la trouver.
+FR: L’Orbe de Zot merveilleux repose en bas, attendant que vous descendiez le trouver.
 
 EN: If you descend without finding the Orb of Zot, so far below, it's all over!
 FR: Si vous descendez sans trouver l’Orbe de Zot, tout en bas, tout est fini !
