@@ -11,6 +11,11 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.25.8 — « Donjon » quand ce n’est pas le lieu
+
+- Précision du 19/11 : « Dungeon » reste en anglais quand il désigne le lieu (niveaux du Dungeon, retour vers le Dungeon, « Bon retour dans le Dungeon ! ») ; quand il désigne la structure, le monde souterrain (Xom, descriptions, histoires des monstres), on garde « le Donjon ».
+- Accords après « l’Abyss » (singulier) : « l’Abyss est », « l’Abyss compte » ; « du Swamp ou des Shoals ».
+
 ## 0.25.7 — noms de lieux en anglais
 
 - Décision du 19/11 : les noms de lieux restent en anglais, comme les portails, avec l’article défini et le genre du mot français : le Dungeon, le Lair (of Beasts), le Swamp, les Shoals, le Snake Pit, le Spider Nest, les Slime Pits, les Orcish Mines, les Elven Halls, les Vaults, la Crypt, la Tomb (of the Ancients), les Depths, le Vestibule of Hell, le Hell (h aspiré : « du Hell »), les Hells, l’Iron City of Dis, la Gehenna, le Cocytus, le Tartarus, l’Abyss, le Pandemonium, le Realm of Zot (environ 690 remplacements).

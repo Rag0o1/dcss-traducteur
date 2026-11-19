@@ -292,7 +292,7 @@
         "Something shouts, \"Repent, thou erky dizzy-eyed bandersnitch!\"": "Quelque chose crie : « Repens-toi, misérable bandersnatch aux yeux vertigineux ! »",
         "The apparition of TCC the Sneak, a novice Vine Stalker Stalker of Uskayaw.": "L’apparition de TCC le Furtif, Rôdeur-des-vignes Rôdeur novice d’Uskayaw.",
         "The apparition of rago the Trooper, a novice Demonspawn Monk of Makhleb.": "L’apparition de rago le Soldat, Moine Rejeton-démon novice de Makhleb.",
-        "Rago's ghost shrieks, \"They lied to you. The Dungeon just goes down and down forever.\"": "Le fantôme de Rago hurle : « Ils t’ont menti. Le Dungeon descend, descend, à jamais. »",
+        "Rago's ghost shrieks, \"They lied to you. The Dungeon just goes down and down forever.\"": "Le fantôme de Rago hurle : « Ils t’ont menti. Le Donjon descend, descend, à jamais. »",
         "TCC's ghost whispers, \"The ORB doesn't exist.\"": "Le fantôme de TCC murmure : « L’ORBE n’existe pas. »",
         "Rago's ghost shrieks, \"They lied to you.": "Le fantôme de Rago hurle : « Ils t’ont menti.",
         "Rago's ghost.": "Le fantôme de Rago.", "TCC's ghost.": "Le fantôme de TCC.",
@@ -396,7 +396,7 @@
         const o = p.map(x => ligneObjet(x) || (tr(x) !== x ? tr(x) : null));
         return o.includes(null) ? null : `Repéré : ${o.join(" et ")}.`;
     });
-    const LIEUX = { "Lair": "le Lair", "Shoals": "les Shoals", "Spider Nest": "le Spider Nest", "Dungeon": "le Dungeon", "Orcish Mines": "les Orcish Mines", "Swamp": "le Swamp", "Snake Pit": "la Snake Pit", "Vaults": "les Vaults", "Crypt": "la Crypt", "Elven Halls": "les Elven Halls" };
+    const LIEUX = { "Lair": "le Lair", "Shoals": "les Shoals", "Spider Nest": "le Spider Nest", "Dungeon": "le Donjon", "Orcish Mines": "les Orcish Mines", "Swamp": "le Swamp", "Snake Pit": "la Snake Pit", "Vaults": "les Vaults", "Crypt": "la Crypt", "Elven Halls": "les Elven Halls" };
     R(/^There is (a|an) (stone staircase|staircase|hole|crawl-hole|escape hatch|portal) (back )?to the (.+?) here\.$/, m => {
         const l = LIEUX[m[4]]; if (!l) return null;
         const nom = { "stone staircase": "un escalier de pierre", staircase: "un escalier", hole: "un trou", "crawl-hole": "un boyau", "escape hatch": "une trappe de secours", portal: "un portail" }[m[2]];

@@ -170,7 +170,7 @@ EN: ~Unearthly energies gently flow along the surface of this gem, guided by the
 FR: D’étranges énergies glissent doucement à la surface de ce joyau, guidées par l’archimage qui bâtit les premières Elven Halls. D’innombrables générations d’elfes accoururent pour apprendre auprès d’elle, mais sa quête première fut toujours la perfection de cette œuvre d’art.
 
 EN: ~Swirls of dark smoke seem to lurk in the depths of this gem. Countless dark deeds were done in the Dungeon even before Zot seized and remade it, and their dreadful residue now taints every hint of beauty trapped within its confines.
-FR: Des volutes de fumée sombre semblent rôder au cœur de ce joyau. D’innombrables actes sombres furent commis dans le Dungeon avant même que Zot ne s’en empare et le refaçonne, et leur horrible résidu souille désormais le moindre soupçon de beauté qui y est piégé.
+FR: Des volutes de fumée sombre semblent rôder au cœur de ce joyau. D’innombrables actes sombres furent commis dans le Donjon avant même que Zot ne s’en empare et le refaçonne, et leur horrible résidu souille désormais le moindre soupçon de beauté qui y est piégé.
 
 EN: ~Odd lights twinkle within the depths of this gem. From what strange stuff is it made, and from what distant land did it travel?
 FR: D’étranges lumières scintillent au cœur de ce joyau. De quelle étrange matière est-il fait, et de quelle contrée lointaine est-il venu ?

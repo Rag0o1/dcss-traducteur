@@ -237,7 +237,7 @@ globalThis.DCSS_TRADUCTIONS.citations_1 = {
 "What do you have that I didn't have?": "Qu’as-tu que je n’avais pas ?",
 "There's no hope.": "Il n’y a aucun espoir.",
 "The ORB doesn't exist.": "L’ORBE n’existe pas.",
-"They lied to you. The Dungeon just goes down and down forever.": "On t’a menti. Le Dungeon descend, descend, sans fin.",
+"They lied to you. The Dungeon just goes down and down forever.": "On t’a menti. Le Donjon descend, descend, sans fin.",
 "You will join me soon!": "Tu me rejoindras bientôt !",
 "You must not succeed where I failed!": "Tu ne dois pas réussir là où j’ai échoué !",
 "There is no future for you.": "Il n’y a pas d’avenir pour toi.",

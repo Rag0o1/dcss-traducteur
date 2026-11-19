@@ -266,7 +266,7 @@ EN: Fear not. I will immortalise you in the tale of my first kill.
 FR: N’aie crainte. Je t’immortaliserai dans le récit de mon premier meurtre.
 
 EN: If you die in the Dungeon, but nobody's around to see it, does it really matter?
-FR: Si tu meurs dans le Dungeon, mais que personne n’est là pour le voir, est-ce que ça compte vraiment ?
+FR: Si tu meurs dans le Donjon, mais que personne n’est là pour le voir, est-ce que ça compte vraiment ?
 
 EN: Did Master Lance send you?
 FR: Maître Lance t’a-t-il envoyé ?

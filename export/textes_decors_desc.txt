@@ -41,7 +41,7 @@ EN: A wall that radiates a chill so intense it can damage enemies which stand ne
 FR: Un mur qui irradie un froid si intense qu’il peut blesser les ennemis qui se tiennent à côté.
 
 EN: A staircase leading up from the grand vaults containing the silver rune of Zot, whose wealth attracts the most powerful champions from across the Dungeon to its defence.
-FR: Un escalier montant depuis les grands caveaux contenant la rune d’argent de Zot, dont la richesse attire pour sa défense les plus puissants champions de tout le Dungeon.
+FR: Un escalier montant depuis les grands caveaux contenant la rune d’argent de Zot, dont la richesse attire pour sa défense les plus puissants champions de tout le Donjon.
 
 EN: This tree is specially adapted for growing in swampy conditions. Its vines are too thick to see through.
 FR: Cet arbre est spécialement adapté pour pousser dans des conditions marécageuses. Ses lianes sont trop épaisses pour voir à travers.
@@ -251,7 +251,7 @@ EN: A murky flag of dark conquest shimmering with vile energies, planted in the 
 FR: Un sombre étendard flottant de conquête ténébreuse, miroitant d’énergies viles, planté au nom de quelque grande croisade de dévastation.
 
 EN: Bones are a common sight in the Dungeon, but skulls left impaled in a shrike's manner on display send a more deliberate message to trespassers: the pike has room for one more skull, and whoever set it up is happy to help relieve its owner of theirs.
-FR: Les os sont un spectacle courant dans le Dungeon, mais des crânes empalés exposés à la manière d’une pie-grièche envoient un message plus délibéré aux intrus : la pique a de la place pour un crâne de plus, et celui qui l’a dressée se fera un plaisir de soulager quelqu’un du sien.
+FR: Les os sont un spectacle courant dans le Donjon, mais des crânes empalés exposés à la manière d’une pie-grièche envoient un message plus délibéré aux intrus : la pique a de la place pour un crâne de plus, et celui qui l’a dressée se fera un plaisir de soulager quelqu’un du sien.
 
 EN: A scattered mess of fragmented, crumbling garbage, caked in ashes and dirt.
 FR: Un fouillis épars de détritus fragmentés et en miettes, couverts de cendres et de saleté.

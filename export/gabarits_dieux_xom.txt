@@ -74,7 +74,7 @@ EN: Xom shows off a fistful of green thumbs.
 FR: Xom exhibe une poignée de pouces verts.
 
 EN: Xom spreads life in this Dungeon full of death.
-FR: Xom répand la vie dans ce Dungeon plein de mort.
+FR: Xom répand la vie dans ce Donjon plein de mort.
 
 EN: Xom incites some dramatic evolution in the adjacent floor mould.
 FR: Xom provoque une évolution spectaculaire de la moisissure voisine.
@@ -83,7 +83,7 @@ EN: "It's alive! It's alive!"
 FR: « Elle est vivante ! Elle est vivante ! »
 
 EN: Xom adds fresh vegetables to this Dungeon dish.
-FR: Xom ajoute des légumes frais à ce plat du Dungeon.
+FR: Xom ajoute des légumes frais à ce plat du Donjon.
 
 EN: Xom plants some magic beans in the ground.
 FR: Xom plante des haricots magiques dans le sol.
@@ -116,7 +116,7 @@ EN: Xom [offers|fetches] you some snacks.
 FR: Xom vous [offre|apporte] quelques en-cas.
 
 EN: Xom prepares a banquet formed from your trail of carnage through the Dungeon.
-FR: Xom prépare un banquet fait de la traînée de carnage que vous laissez dans le Dungeon.
+FR: Xom prépare un banquet fait de la traînée de carnage que vous laissez dans le Donjon.
 
 EN: Xom offers some snacks, fresh out of the oven.
 FR: Xom offre des en-cas tout juste sortis du four.
@@ -596,7 +596,7 @@ EN: "Let's see if it's strong enough to survive yet."
 FR: « Voyons s’il est déjà assez fort pour survivre. »
 
 EN: Xom feels like there should be more of you to share with the Dungeon.
-FR: Xom trouve qu’il devrait y avoir davantage de vous à partager avec le Dungeon.
+FR: Xom trouve qu’il devrait y avoir davantage de vous à partager avec le Donjon.
 
 EN: Xom gently smashes a mirror over your [@random_body_part_external_singular@|@random_body_part_external_plural@].
 FR: Xom brise doucement un miroir sur @~random_body_part_external_singular@.
@@ -692,7 +692,7 @@ EN: Xom reshapes the earth.
 FR: Xom remodèle la terre.
 
 EN: Xom reveals the great annihilating truth to the Dungeon's walls!
-FR: Xom révèle la grande vérité annihilante aux murs du Dungeon !
+FR: Xom révèle la grande vérité annihilante aux murs du Donjon !
 
 EN: "Over there now!"
 FR: « Là-bas, maintenant ! »
@@ -785,7 +785,7 @@ EN: Xom recounts a horror story in an instant.
 FR: Xom raconte une histoire d’horreur en un instant.
 
 EN: Xom joyfully recalls the collapse of multiple Dungeon civilisations.
-FR: Xom évoque joyeusement l’effondrement de plusieurs civilisations du Dungeon.
+FR: Xom évoque joyeusement l’effondrement de plusieurs civilisations du Donjon.
 
 EN: Xom folds spacetime into a dazzling origami [yak|yak|quokka|quokka|duck]!
 FR: Xom plie l’espace-temps en un éblouissant origami de [yak|yak|quokka|quokka|canard] !

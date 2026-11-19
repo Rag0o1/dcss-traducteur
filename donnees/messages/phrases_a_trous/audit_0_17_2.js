@@ -9,7 +9,7 @@
     const poss = r => /^(?:les|des) /.test(r) ? "ses " : /^(?:la|une) /.test(r) ? "sa " : "son ";
     const traduit = (en) => { const r = T1(en); return r && r !== en ? r : null; };
 
-    const BR = { "the Dungeon": "le Dungeon", "the Temple": "le Temple", "the Lair of Beasts": "le Lair of Beasts", "the Orcish Mines": "les Orcish Mines", "the Hive": "la Ruche",
+    const BR = { "the Dungeon": "le Donjon", "the Temple": "le Temple", "the Lair of Beasts": "le Lair of Beasts", "the Orcish Mines": "les Orcish Mines", "the Hive": "la Ruche",
         "the Vaults": "les Cryptes", "the Snake Pit": "la Snake Pit", "the Swamp": "le Swamp", "the Shoals": "les Shoals", "the Spider Nest": "le Spider Nest",
         "the Slime Pits": "les Fosses de Gelée", "the Elven Halls": "les Elven Halls", "the Depths": "les Depths", "the Realm of Zot": "le Realm of Zot",
         "the Abyss": "l’Abyss", "Pandemonium": "le Pandemonium", "the Crypt": "la Crypt", "the Tomb": "la Tomb", "the Ossuary": "l’Ossuary", "the Sewer": "le Sewer",

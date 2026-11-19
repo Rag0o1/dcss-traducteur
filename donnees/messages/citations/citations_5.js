@@ -90,7 +90,7 @@ globalThis.DCSS_TRADUCTIONS.citations_5 = {
 "I've come back once... I'll do it again!": "Je suis revenu une fois... je le referai !",
 "Leave now, and tell all of Maggie's mercy!": "Partez maintenant, et dites à tous la clémence de Maggie !",
 "Fear not. I will immortalise you in the tale of my first kill.": "N’aie crainte. Je t’immortaliserai dans le récit de mon premier meurtre.",
-"If you die in the Dungeon, but nobody's around to see it, does it really matter?": "Si tu meurs dans le Dungeon, mais que personne n’est là pour le voir, est-ce que ça compte vraiment ?",
+"If you die in the Dungeon, but nobody's around to see it, does it really matter?": "Si tu meurs dans le Donjon, mais que personne n’est là pour le voir, est-ce que ça compte vraiment ?",
 "Did Master Lance send you?": "Maître Lance t’a-t-il envoyé ?",
 "Have you seen any dragons?": "As-tu vu des dragons ?",
 "How do the people who live here stand the isolation?": "Comment les gens qui vivent ici supportent-ils l’isolement ?",

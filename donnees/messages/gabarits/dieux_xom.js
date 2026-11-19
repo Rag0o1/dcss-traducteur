@@ -78,7 +78,7 @@ Xom shows off a fistful of green thumbs.
 Xom exhibe une poignée de pouces verts.
 
 Xom spreads life in this Dungeon full of death.
-Xom répand la vie dans ce Dungeon plein de mort.
+Xom répand la vie dans ce Donjon plein de mort.
 
 Xom incites some dramatic evolution in the adjacent floor mould.
 Xom provoque une évolution spectaculaire de la moisissure voisine.
@@ -87,7 +87,7 @@ Xom provoque une évolution spectaculaire de la moisissure voisine.
 « Elle est vivante ! Elle est vivante ! »
 
 Xom adds fresh vegetables to this Dungeon dish.
-Xom ajoute des légumes frais à ce plat du Dungeon.
+Xom ajoute des légumes frais à ce plat du Donjon.
 
 Xom plants some magic beans in the ground.
 Xom plante des haricots magiques dans le sol.
@@ -120,7 +120,7 @@ Xom [offers|fetches] you some snacks.
 Xom vous [offre|apporte] quelques en-cas.
 
 Xom prepares a banquet formed from your trail of carnage through the Dungeon.
-Xom prépare un banquet fait de la traînée de carnage que vous laissez dans le Dungeon.
+Xom prépare un banquet fait de la traînée de carnage que vous laissez dans le Donjon.
 
 Xom offers some snacks, fresh out of the oven.
 Xom offre des en-cas tout juste sortis du four.
@@ -600,7 +600,7 @@ La main de Xom pique toutes les âmes présentes.
 « Voyons s’il est déjà assez fort pour survivre. »
 
 Xom feels like there should be more of you to share with the Dungeon.
-Xom trouve qu’il devrait y avoir davantage de vous à partager avec le Dungeon.
+Xom trouve qu’il devrait y avoir davantage de vous à partager avec le Donjon.
 
 Xom gently smashes a mirror over your [@random_body_part_external_singular@|@random_body_part_external_plural@].
 Xom brise doucement un miroir sur @~random_body_part_external_singular@.
@@ -696,7 +696,7 @@ Xom reshapes the earth.
 Xom remodèle la terre.
 
 Xom reveals the great annihilating truth to the Dungeon's walls!
-Xom révèle la grande vérité annihilante aux murs du Dungeon !
+Xom révèle la grande vérité annihilante aux murs du Donjon !
 
 "Over there now!"
 « Là-bas, maintenant ! »
@@ -789,7 +789,7 @@ Xom recounts a horror story in an instant.
 Xom raconte une histoire d’horreur en un instant.
 
 Xom joyfully recalls the collapse of multiple Dungeon civilisations.
-Xom évoque joyeusement l’effondrement de plusieurs civilisations du Dungeon.
+Xom évoque joyeusement l’effondrement de plusieurs civilisations du Donjon.
 
 Xom folds spacetime into a dazzling origami [yak|yak|quokka|quokka|duck]!
 Xom plie l’espace-temps en un éblouissant origami de [yak|yak|quokka|quokka|canard] !

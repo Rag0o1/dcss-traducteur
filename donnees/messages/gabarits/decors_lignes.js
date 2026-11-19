@@ -74,10 +74,10 @@ The fountain's eyes stare into nothing.
 Les yeux de la fontaine fixent le néant.
 
 You attempt to scry through the fountain, but the Dungeon's magics reject you.
-Vous tentez de scruter à travers la fontaine, mais les magies du Dungeon vous repoussent.
+Vous tentez de scruter à travers la fontaine, mais les magies du Donjon vous repoussent.
 
 You catch brief visions of the Dungeon's past in the fountain's reflection.
-Vous apercevez de brèves visions du passé du Dungeon dans le reflet de la fontaine.
+Vous apercevez de brèves visions du passé du Donjon dans le reflet de la fontaine.
 
 You look at your reflection in the fountain and see a proud orc.
 Vous regardez votre reflet dans la fontaine et y voyez un orc fier.

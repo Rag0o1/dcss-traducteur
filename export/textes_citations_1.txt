@@ -707,7 +707,7 @@ EN: The ORB doesn't exist.
 FR: L’ORBE n’existe pas.
 
 EN: They lied to you. The Dungeon just goes down and down forever.
-FR: On t’a menti. Le Dungeon descend, descend, sans fin.
+FR: On t’a menti. Le Donjon descend, descend, sans fin.
 
 EN: You will join me soon!
 FR: Tu me rejoindras bientôt !

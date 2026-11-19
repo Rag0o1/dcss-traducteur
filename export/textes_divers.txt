@@ -653,7 +653,7 @@ EN: The apparition of rago the Trooper, a novice Demonspawn Monk of Makhleb.
 FR: L’apparition de rago le Soldat, Moine Rejeton-démon novice de Makhleb.
 
 EN: Rago's ghost shrieks, "They lied to you. The Dungeon just goes down and down forever."
-FR: Le fantôme de Rago hurle : « Ils t’ont menti. Le Dungeon descend, descend, à jamais. »
+FR: Le fantôme de Rago hurle : « Ils t’ont menti. Le Donjon descend, descend, à jamais. »
 
 EN: TCC's ghost whispers, "The ORB doesn't exist."
 FR: Le fantôme de TCC murmure : « L’ORBE n’existe pas. »
