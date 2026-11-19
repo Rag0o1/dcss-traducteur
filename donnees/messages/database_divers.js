@@ -179,7 +179,7 @@ globalThis.DCSS_TRADUCTIONS.database_divers = {
 "The transcendent Orb of Zot lies below, waiting for you to descend and find it.": "L’Orbe de Zot transcendant repose en bas, attendant que vous descendiez le trouver.",
 "The wondrous Orb of Zot lies below, waiting for you to descend and find it.": "L’Orbe de Zot merveilleux repose en bas, attendant que vous descendiez le trouver.",
 "If you descend without finding the Orb of Zot, so far below, it's all over!": "Si vous descendez sans trouver l’Orbe de Zot, tout en bas, tout est fini !",
-"The monsters here aren't big trick-or-treat fans. If they won't give you the Orb of Zot, you'll have to take it.": "Les monstres d’ici n’aiment pas trop « des bonbons ou un sort ». S’ils ne vous donnent pas l’Orbe de Zot, il faudra le prendre.",
+"The monsters here aren't big trick-or-treat fans. If they won't give you the Orb of Zot, you'll have to take it.": "Les monstres d’ici n’aiment pas trop « des bonbons ou un sort ». S’ils ne vous donnent pas l’Orbe de Zot, vous devrez prendre l’Orbe vous-même.",
 "A terrible geas has sent you after the Orb of Zot. What a horrible night to have a curse!": "Un terrible serment magique vous a lancé à la poursuite de l’Orbe de Zot. Quelle horrible nuit pour être maudit !",
 "As you descend in search of the Orb, demonic hallucinations flock about you. This place is haunted!": "Tandis que vous descendez à la recherche de l’Orbe, des hallucinations démoniaques se pressent autour de vous. Cet endroit est hanté !",
 "As you descend in search of the Orb, disembodied spirits flock about you. This place is haunted!": "Tandis que vous descendez à la recherche de l’Orbe, des esprits désincarnés se pressent autour de vous. Cet endroit est hanté !",
