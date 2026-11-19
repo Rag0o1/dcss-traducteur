@@ -160,7 +160,7 @@ ws.freeze_panes = 'D2'
 # Règles
 rg = wb.create_sheet('Règles')
 REGLES = [
-    ('Restent en anglais', 'Noms de sorts (même quand le mot sert ailleurs) ; « Blink » (et le verbe : « faire un Blink ») ; noms des portails (Ziggurat, Sewer, Ossuary, Bailey, Ice Cave, Volcano, Wizlab, Desolation, Bazaar, Trove, Gauntlet, Necropolis, Labyrinth) ; « Blink » et « Para » dans la barre latérale ; noms inventés entre guillemets des artefacts.'),
+    ('Restent en anglais', 'Noms de sorts (même quand le mot sert ailleurs) ; « Blink » (et le verbe : « faire un Blink ») ; noms des portails (Ziggurat, Sewer, Ossuary, Bailey, Ice Cave, Volcano, Wizlab, Desolation, Bazaar, Trove, Gauntlet, Necropolis, Labyrinth) ; « Blink » et « Para » dans la barre latérale ; noms inventés entre guillemets des artefacts ; noms des livres aléatoires (noms propres) ; noms des gadgets des Coglins (inventés).'),
     ('Portails', 'Noms propres : article défini (la Ziggurat, le Sewer, au Gauntlet, du Volcano). Féminins : la Ziggurat, la Desolation, la Necropolis, l’Ice Cave.'),
     ('Tout le reste', 'Traduit en français, sauf décision contraire du joueur.'),
     ('Ton', 'Vouvoiement partout ; Xom tutoie le joueur.'),

@@ -57,12 +57,12 @@
    "decision": "À traduire"
   },
   {
-   "priorite": 3,
+   "priorite": 4,
    "sujet": "Gadgets",
    "source": "dat/database/gizmo.txt",
    "volume": "~521 lignes",
    "quoi": "Noms générés des gadgets (adjectifs + noms)",
-   "decision": "À traduire"
+   "decision": "Décidé (19/11) : restent en anglais (noms inventés sans sens)"
   },
   {
    "priorite": 3,
@@ -73,12 +73,12 @@
    "decision": "Fait en 0.24 (environ 87 % des noms testés corrects ; quelques tournures à polir)"
   },
   {
-   "priorite": 3,
+   "priorite": 4,
    "sujet": "Noms de livres aléatoires",
    "source": "dat/database/randbook.txt",
    "volume": "~1 604 lignes",
    "quoi": "Titres de livres générés",
-   "decision": "À traduire (accords à gérer)"
+   "decision": "Décidé (19/11) : restent en anglais (noms propres)"
   },
   {
    "priorite": 3,
