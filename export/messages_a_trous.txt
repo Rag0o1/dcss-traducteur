@@ -149,7 +149,7 @@ EN: The tentacle pulls {A} backwards!
 FR: Le tentacule tire {o1} en arrière !
 
 EN: <white>{X} is honoured by your kill.</white>
-FR: {x1} est honoré par votre victoire.
+FR: <white>{x1} est honoré par votre victoire.</white>
 
 EN: The light of Elyvilon comforts {A}{X}.
 FR: La lumière d’Elyvilon réconforte {o1}{x2}.
@@ -272,7 +272,7 @@ EN: A stygian plague fills {A} body.
 FR: Une peste stygienne emplit le corps {d1}.
 
 EN: {A} {v:bask} in {X}.
-FR: {S1} se prélasse dans {x2}.
+FR: {S1} se prélasse dans {x2}. ¦ Vous vous prélassez dans {x2}.
 
 EN: {A} {X} in the rain.
 FR: {S1} {x2} sous la pluie.
@@ -602,10 +602,10 @@ EN: {A} shimmers and splits apart.
 FR: {S1} miroite et se scinde en deux.
 
 EN: {A} seems to step out of {p}!
-FR: {S1} semble sortir de lui-même !
+FR: {S1} semble sortir de soi-même !
 
 EN: {A} is hit by a flying piece of {A}!
-FR: {S1} est touché{e1} par un morceau de {x2} projeté !
+FR: {S1} est touché{e1} par un morceau {d2} projeté !
 
 EN: {A} fails to defend {p}.
 FR: {S1} échoue à se défendre.
@@ -626,7 +626,7 @@ EN: Your paragon deflects {I} attack away from you.
 FR: Votre parangon détourne l’attaque {d1} loin de vous.
 
 EN: {A} {v:drain} {I} vigour!
-FR: {S1} draine la vigueur {d2} !
+FR: {S1} draine la vigueur {d2} ! ¦ Vous drainez la vigueur {d2} !
 
 EN: You catch {A} completely off-guard!
 FR: Vous prenez {o1} complètement au dépourvu !
@@ -677,7 +677,7 @@ EN: You pick up {A}, but it has nothing more to teach you.
 FR: Vous ramassez {o1}, mais il n’a plus rien à vous apprendre.
 
 EN: You pick up another {A} and continue studying.
-FR: Vous ramassez un autre exemplaire de {o1} et continuez à étudier.
+FR: Vous ramassez un autre exemplaire {d1} et continuez à étudier.
 
 EN: You pick up {A} and begin studying.
 FR: Vous ramassez {o1} et commencez à l’étudier.
@@ -1121,7 +1121,7 @@ EN: {A} begins casting {X}.
 FR: {S1} commence à lancer « {x2} ». ¦ Vous commencez à lancer « {x2} ».
 
 EN: The portal closes; {A} is severed.
-FR: Le portail se ferme ; {S1} est coupé{e1} de lui.
+FR: Le portail se ferme ; {S1} est coupé{e1} du portail.
 
 EN: {I} spike launcher falls apart.
 FR: Le lanceur de pointes {d1} se désagrège.
@@ -1148,7 +1148,7 @@ EN: {A} is mesmerised by {A}!
 FR: {S1} est hypnotisé{e1} par {o2} !
 
 EN: {A} liquefies the ground around {p}!
-FR: {S1} liquéfie le sol autour de lui !
+FR: {S1} liquéfie le sol autour de soi !
 
 EN: {A} is pinned to {p} own shadow.
 FR: {S1} est cloué{e1} à sa propre ombre.
@@ -1181,13 +1181,13 @@ EN: Chaos surges forth from {X} of flesh, awakening new unlife!
 FR: Le chaos jaillit de {x1} de chair, éveillant une nouvelle non-vie !
 
 EN: {A} corrupts the dungeon around {p}!
-FR: {S1} corrompt le donjon autour de lui !
+FR: {S1} corrompt le donjon autour de soi !
 
 EN: {A} activates a sealing rune.
 FR: {S1} active une rune de scellement.
 
 EN: {A} calls on {A} to defend {p}!
-FR: {S1} appelle {o2} à le défendre !
+FR: {S1} appelle {o2} à sa défense !
 
 EN: {A} goads {A} on!
 FR: {S1} pousse {o2} à l’action !
@@ -1262,10 +1262,10 @@ EN: Visions of slaying {A} flood into your mind.
 FR: Des visions du meurtre {d1} envahissent votre esprit.
 
 EN: <white>The lance glows brightly as it skewers {A}. You feel that it has reached its full power.</white>
-FR: La lance brille intensément en embrochant {o1}. Vous sentez qu’elle a atteint sa pleine puissance.
+FR: <white>La lance brille intensément en embrochant {o1}. Vous sentez qu’elle a atteint sa pleine puissance.</white>
 
 EN: <green>The lance glows as it skewers {A}.</green>
-FR: La lance brille en embrochant {o1}.
+FR: <green>La lance brille en embrochant {o1}.</green>
 
 EN: {A} {v:be} blasted by disruptive energy{X}
 FR: {S1} est frappé{e1} par une énergie perturbatrice{x2} ¦ Vous êtes frappé par une énergie perturbatrice{x2}
@@ -1346,7 +1346,7 @@ EN: {A} poisons {X}!
 FR: {S1} empoisonne {x2} !
 
 EN: {A} {v:draw} vitality from {I} injuries!
-FR: {S1} puise de la vitalité dans les blessures {d2} !
+FR: {S1} puise de la vitalité dans les blessures {d2} ! ¦ Vous puisez de la vitalité dans les blessures {d2} !
 
 EN: {A} {v:are} engulfed in a cloud of dizzying spores!
 FR: {S1} est englouti{e1} dans un nuage de spores étourdissantes ! ¦ Vous êtes englouti dans un nuage de spores étourdissantes !
@@ -1445,7 +1445,7 @@ EN: You sap {p} willpower!
 FR: Vous sapez sa volonté !
 
 EN: {A} {v:slice}{X} through the folds of space itself!
-FR: {S1} tranche{x2} à travers les plis de l’espace lui-même !
+FR: {S1} tranche{x2} à travers les plis de l’espace lui-même ! ¦ Vous tranchez{x2} à travers les plis de l’espace lui-même !
 
 EN: Your mouth is {X} empty.
 FR: Votre bouche est {x1} vide.
@@ -2777,7 +2777,7 @@ EN: You shatter the chains binding {Y}!
 FR: Vous brisez les chaînes qui lient {y1} !
 
 EN: {X} grants you and your allies divine vigour.
-FR: {x1} accorde à vous et à vos alliés une vigueur divine.
+FR: {x1} vous accorde, ainsi qu’à vos alliés, une vigueur divine.
 
 EN: You lift the black torch aloft and begin your conquest of {X} in Yredelemnul's name!
 FR: Vous levez la torche noire et commencez votre conquête de {x1} au nom de Yredelemnul !
@@ -2792,7 +2792,7 @@ EN: A jealous {A} pursues it!
 FR: {S1} jaloux la poursuit !
 
 EN: A rebellious {A} escapes with it!
-FR: {S1} rebelle s’enfuit avec !
+FR: {S1} rebelle s’enfuit avec elle !
 
 EN: You utter a prayer to Makhleb and carve the {X} into yourself.
 FR: Vous prononcez une prière à Makhleb et gravez {x1} dans votre chair.
@@ -3323,7 +3323,7 @@ EN: The floor shudders beneath you alarmingly
 FR: Le sol tremble de façon alarmante sous vos pieds
 
 EN: The floor quakes beneath you alarmingly
-FR: Le sol se secoue de façon alarmante sous vos pieds
+FR: Le sol s’ébranle de façon alarmante sous vos pieds
 
 EN: The floor rumbles beneath you alarmingly
 FR: Le sol gronde de façon alarmante sous vos pieds
@@ -3863,7 +3863,7 @@ EN: {A} glows a brilliant shade of cerise.
 FR: {S1} rougeoie d’un éclatant rouge cerise.
 
 EN: {A} wobbles crazily.
-FR: {S1} vacille comme un fou.
+FR: {S1} vacille de façon démente
 
 EN: You wobble.
 FR: Vous vacillez.
@@ -3935,7 +3935,7 @@ EN: {A} flies into a rage!
 FR: {S1} entre dans une rage folle !
 
 EN: {A} roars madly and goes into a rage!
-FR: {S1} rugit comme un fou et entre dans une rage folle !
+FR: {S1} rugit follement et entre dans une rage folle !
 
 EN: {A} roars wildly at {A}.
 FR: {S1} rugit sauvagement sur {o2}.
@@ -4037,7 +4037,7 @@ EN: {A} beckons forth its champion.
 FR: {S1} appelle son champion.
 
 EN: {A} looks around.
-FR: {S1} regarde autour de lui.
+FR: {S1} regarde alentour.
 
 EN: {A} stares at {A}.
 FR: {S1} dévisage {o2}.
@@ -4337,7 +4337,7 @@ EN: {A} squirts acid at {A}.
 FR: {S1} projette de l’acide sur {o2}.
 
 EN: {A} stares into the soul of {A}.
-FR: {S1} plonge son regard dans l’âme de {o2}.
+FR: {S1} plonge son regard dans l’âme {d2}.
 
 EN: {A} freezes your soul cold.
 FR: {S1} glace votre âme.
@@ -5612,7 +5612,7 @@ EN: The dungeon shakes, a horrible noise fills the air, and a portal to some oth
 FR: Le donjon tremble, un bruit horrible emplit l’air et un portail vers un lieu d’outre-monde s’ouvre !
 
 EN: {A} is summoned!
-FR: {S1} est invoqué{e1} !
+FR: {S1} est convoqué{e1} !
 
 EN: {A} smiles without lips.
 FR: {S1} sourit sans lèvres.
@@ -5657,7 +5657,7 @@ EN: The open air twists around violently and strikes {A}!
 FR: L’air libre tournoie violemment et frappe {o1} ! ¦ L’air libre tournoie violemment et vous frappe !
 
 EN: {A} summons a swarm of flies.
-FR: {S1} invoque un essaim de mouches.
+FR: {S1} convoque un essaim de mouches.
 
 EN: {A} conjures a destructive force in the name of {X}!
 FR: {S1} invoque une force destructrice au nom de {x2} !
@@ -5729,10 +5729,10 @@ EN: {I} electric aura discharges, shocking {A}!
 FR: L’aura électrique {d1} se décharge et foudroie {o2} !
 
 EN: water floods into {I} lungs!
-FR: L’eau envahit les poumons {d1} !
+FR: L’eau envahit les poumons {d1} ! ¦ L’eau envahit vos poumons !
 
 EN: water floods into {I} airways!
-FR: L’eau envahit les voies respiratoires {d1} !
+FR: L’eau envahit les voies respiratoires {d1} ! ¦ L’eau envahit vos voies respiratoires !
 
 EN: {A} trunk-slaps {A}.
 FR: {S1} gifle {o2} de sa trompe.
@@ -6959,7 +6959,7 @@ EN: {A} jiggles.
 FR: {S1} frétille.
 
 EN: {A} laughs crazily.
-FR: {S1} rit comme un fou.
+FR: {S1} rit de façon démente.
 
 EN: {A} crackles and sizzles.
 FR: {S1} crépite et grésille.
@@ -6992,7 +6992,7 @@ EN: {A} prays to its god.
 FR: {S1} prie son dieu.
 
 EN: {A} summons spiders!
-FR: {S1} invoque des araignées !
+FR: {S1} convoque des araignées !
 
 EN: {A} is drawn to the feast!
 FR: {S1} est attiré{e1} par le festin !
@@ -7070,7 +7070,7 @@ EN: {A} crumbles away.
 FR: {S1} tombe en poussière.
 
 EN: {A} evaporates and reforms as {A}!
-FR: {S1} s’évapore et se reforme en {o2} !
+FR: {S1} s’évapore et se reforme sous la forme {d2} !
 
 EN: {A} returns to its original shape as it dies.
 FR: {S1} retrouve sa forme d’origine en mourant.
@@ -7088,7 +7088,7 @@ EN: {A} prays to {X}.
 FR: {S1} prie {x2}.
 
 EN: ooze floods into {I} lungs!
-FR: La vase envahit les poumons {d1} !
+FR: La vase envahit les poumons {d1} ! ¦ La vase envahit vos poumons !
 
 EN: {A} calls forth creatures from the Elven Halls!
 FR: {S1} appelle des créatures des Halls Elfiques !
@@ -8246,7 +8246,7 @@ EN: Zin will cleanse your potions of mutation.
 FR: Zin purifie vos potions de mutation.
 
 EN: Your summoned allies will not expire while fighting evil.
-FR: Vos alliés invoqués ne disparaîtront pas tant qu’ils combattent le mal.
+FR: Vos alliés convoqués ne disparaîtront pas tant qu’ils combattent le mal.
 
 EN: You can now gain power from killing the unholy and evil.
 FR: Vous pouvez désormais gagner de la puissance en tuant les impies et les maléfiques.
@@ -8615,7 +8615,7 @@ EN: You now have {X} escape cards and {X} destruction cards.
 FR: Vous avez maintenant {x1} cartes d’évasion et {x2} cartes de destruction.
 
 EN: You now have {X} escape cards, {X} destruction cards and {X} summoning cards.
-FR: Vous avez maintenant {x1} cartes d’évasion, {x2} cartes de destruction et {x3} cartes d’invocation.
+FR: Vous avez maintenant {x1} cartes d’évasion, {x2} cartes de destruction et {x3} cartes de convocation.
 
 EN: {A} is almost dead.
 FR: {S1} est presque mort{e1}.
@@ -9365,7 +9365,7 @@ EN: Thorns of ice sprout around {A}.
 FR: Des épines de glace poussent autour {d1}. ¦ Des épines de glace poussent autour de vous.
 
 EN: Magical energy flows from {A} into your mind!
-FR: L’énergie magique de {o1} afflue dans votre esprit !
+FR: L’énergie magique {d1} afflue dans votre esprit !
 
 EN: The light of Elyvilon comforts {A}.
 FR: La lumière d’Elyvilon réconforte {o1}. ¦ La lumière d’Elyvilon vous réconforte.
@@ -9557,7 +9557,7 @@ EN: (M)emorise this spell.
 FR: (M)émoriser ce sort.
 
 EN: Fragment what (e.g. wall or brittle monster)?:
-FR: Fragmenter quoi (ex. : mur ou monstre fragile) ?:
+FR: Fragmenter quoi (ex. : mur ou monstre fragile) ? :
 
 EN: Goji, Who Cannot Be Seen
 FR: Goji, Celui Qu’On Ne Peut Voir
