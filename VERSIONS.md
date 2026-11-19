@@ -11,6 +11,10 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.25.3 — relecture des textes générés
+
+- 1 466 textes générés (sorts et cris de monstres, Enfer, Xom, portails, nouveautés 0.35) relus : 22 corrections. Les voix de l’Enfer et les répliques de monstres vouvoient le joueur, comme le reste des répliques (« Mourez, mortel ! ») ; seul Xom tutoie. Orbe au masculin (« le prendre »), « comme un dément ».
+
 ## 0.25.2 — noms des artefacts uniques
 
 - Les 154 artefacts uniques ont un nom français (`outils/unrands_fr.json` → `objets/unrands.js`, nouvelle fonction `artefactUnique` dans `messages/divers.js`) : « l’Épée chantante +7 », « le Courroux de Trog +14 », « les Bottes de sept lieues +2 (portées) », « la Grande fronde « Punk » ». Les noms propres (Trog, Cerebov, Lear…) et les surnoms (« Punk ») sont gardés.

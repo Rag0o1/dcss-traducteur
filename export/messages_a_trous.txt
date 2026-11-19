@@ -3323,7 +3323,7 @@ EN: The floor shudders beneath you alarmingly
 FR: Le sol tremble de façon alarmante sous vos pieds
 
 EN: The floor quakes beneath you alarmingly
-FR: Le sol s’ébranle de façon alarmante sous vos pieds
+FR: Le sol se secoue de façon alarmante sous vos pieds
 
 EN: The floor rumbles beneath you alarmingly
 FR: Le sol gronde de façon alarmante sous vos pieds
@@ -3836,7 +3836,7 @@ EN: {A} wobbles aimlessly.
 FR: {S1} vacille sans but.
 
 EN: {A} says, "Become one with my sorrow!"
-FR: {S1} dit : « Ne fais plus qu’un avec ma peine ! »
+FR: {S1} dit : « Ne faites plus qu’un avec ma peine ! »
 
 EN: {A} gurgles deeply, a call to fellow slimes.
 FR: {S1} gargouille profondément, un appel à ses semblables.
@@ -3863,7 +3863,7 @@ EN: {A} glows a brilliant shade of cerise.
 FR: {S1} rougeoie d’un éclatant rouge cerise.
 
 EN: {A} wobbles crazily.
-FR: {S1} vacille de façon démente
+FR: {S1} vacille comme un fou.
 
 EN: You wobble.
 FR: Vous vacillez.
@@ -3911,10 +3911,10 @@ EN: {A} throws {p} arms up pleadingly.
 FR: {S1} lève les bras d’un air suppliant.
 
 EN: {A} cries, "Fearful master, protect me!"
-FR: {S1} s’écrie : « Maître terrible, protège-moi ! »
+FR: {S1} s’écrie : « Maître terrible, protégez-moi ! »
 
 EN: {A} shouts, "O dreadful one, destroy my foe!"
-FR: {S1} crie : « Ô redoutable, détruis mon ennemi ! »
+FR: {S1} crie : « Ô redoutable, détruisez mon ennemi ! »
 
 EN: {A} gestures frantically.
 FR: {S1} gesticule frénétiquement.
@@ -3935,7 +3935,7 @@ EN: {A} flies into a rage!
 FR: {S1} entre dans une rage folle !
 
 EN: {A} roars madly and goes into a rage!
-FR: {S1} rugit follement et entre dans une rage folle !
+FR: {S1} rugit comme un fou et entre dans une rage folle !
 
 EN: {A} roars wildly at {A}.
 FR: {S1} rugit sauvagement sur {o2}.
@@ -4037,7 +4037,7 @@ EN: {A} beckons forth its champion.
 FR: {S1} appelle son champion.
 
 EN: {A} looks around.
-FR: {S1} regarde alentour.
+FR: {S1} regarde autour de lui.
 
 EN: {A} stares at {A}.
 FR: {S1} dévisage {o2}.
@@ -4337,7 +4337,7 @@ EN: {A} squirts acid at {A}.
 FR: {S1} projette de l’acide sur {o2}.
 
 EN: {A} stares into the soul of {A}.
-FR: {S1} plonge son regard dans l’âme {d2}.
+FR: {S1} plonge son regard dans l’âme de {o2}.
 
 EN: {A} freezes your soul cold.
 FR: {S1} glace votre âme.
