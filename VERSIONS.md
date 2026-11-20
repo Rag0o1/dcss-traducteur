@@ -11,6 +11,12 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.25.10 — relecture des répliques, de l’aide et du tutoriel
+
+- Relecture de 2 987 textes (répliques des monstres et des fantômes, aide, FAQ, tutoriel, astuces, citations du domaine public) : 112 corrections.
+- Tutoriel et aide : mots restés en anglais au milieu des phrases (« Press », « Use », « Congrats! », « Well fought! »…), caractères abîmés (Â`), symbole § ; noms de sorts et de lieux en anglais (Mephitic Cloud, Realm of Zot).
+- Répliques : tutoiement quand le monstre parle au joueur (environ 40) ; « barding » = barde (jeu de mots), « holy moly » = « sapristi » ; quelques contresens dans les citations.
+
 ## 0.25.9 — relecture des descriptions, sigles en anglais
 
 - Relecture des 2 710 descriptions (monstres, sorts, objets, mutations, dieux, espèces, métiers, lieux) : 158 corrections (contresens, oublis, accords, mots inexistants, noms de sorts et de lieux remis en anglais, summon = convoquer, apostrophes ’, phrases ajoutées en double retirées).

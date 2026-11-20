@@ -1,8 +1,8 @@
 EN: Rest between encounters, if possible in an area already explored and cleared of monsters. Pressing Ⓚ will rest for 100 turns, or until fully healed.
-FR: Reposez-vous entre les rencontres, si possible dans une zone déjà explorée et débarrassée de monstres. Pressing Ⓚ vous reposera pendant 100 tours, ou jusqu’à guérison complète.
+FR: Reposez-vous entre les rencontres, si possible dans une zone déjà explorée et débarrassée de monstres. Appuyer sur Ⓚ vous reposera pendant 100 tours, ou jusqu’à guérison complète.
 
 EN: Congrats! You survived until the end of hints mode — be sure to try the other characters as well. Note that the command help screen (Ⓚ) will look very different from now on. Here's a last playing hint:
-FR: Congrats! Vous avez survécu jusqu’à la fin du mode astuces — essayez aussi les autres personnages. Notez que l’écran d’aide des commandes (Ⓚ) sera très différent désormais. Voici une dernière astuce de jeu :
+FR: Félicitations ! Vous avez survécu jusqu’à la fin du mode astuces — essayez aussi les autres personnages. Notez que l’écran d’aide des commandes (Ⓚ) sera très différent désormais. Voici une dernière astuce de jeu :
 
 EN: Walking around and exploring levels gets easier by using auto-explore (Ⓚ). Crawl will let you automatically move to and pick up interesting items.
 FR: Se déplacer et explorer les étages est plus facile avec l’exploration automatique (Ⓚ). Crawl vous fera automatiquement vous déplacer vers les objets intéressants et les ramasser.
@@ -44,7 +44,7 @@ EN: Also, berserking might help you not to lose so much health in the first plac
 FR: De plus, entrer en berserk peut vous aider à ne pas perdre autant de santé dès le départ. Pour utiliser vos capacités, appuyez sur Ⓚ.
 
 EN: That is an item. If you move there and press Ⓚ, you will pick it up. Some objects, marked with a green frame, will be picked up automatically.
-FR: That est un objet. Si vous vous y rendez et appuyez sur Ⓚ, vous le ramasserez. Certains objets, marqués d’un cadre vert, sera ramassé automatiquement.
+FR: Ceci est un objet. Si vous vous y rendez et appuyez sur Ⓚ, vous le ramasserez. Certains objets, marqués d’un cadre vert, seront ramassés automatiquement.
 
 EN: Ⓚ to quaff it.
 FR: Ⓚ pour la boire.
@@ -56,22 +56,22 @@ EN: Ⓚ to evoke it.
 FR: Ⓚ pour l’évoquer.
 
 EN: This is a curious object indeed. You can play around with it to find out what it does by it. As usual, selecting it from your Ⓚnventory might give you more information.
-FR: Voilà un objet bien curieux. Vous pouvez jouer avec pour découvrir ce qu’il fait en it. Comme toujours, le sélectionner dans votre Ⓚnventaire peut vous donner plus d’informations.
+FR: Voilà un objet bien curieux. Vous pouvez jouer avec pour découvrir ce qu’il fait. Comme toujours, le sélectionner dans votre Ⓚnventaire peut vous donner plus d’informations.
 
 EN: You have picked up a magic staff. It must be Ⓚielded to be of use. Magicians use staves to increase their power in certain spell schools. It can also be used as a weapon.
-FR: Vous avez ramassé un bâton magique. Il doit être Ⓚielded pour être utile. Les magiciens utilisent des bâtons pour augmenter leur puissance dans certaines écoles de magie. Il peut aussi servir d’arme.
+FR: Vous avez ramassé un bâton magique. Il doit être brandi (Ⓚ) pour être utile. Les magiciens utilisent des bâtons pour augmenter leur puissance dans certaines écoles de magie. Il peut aussi servir d’arme.
 
 EN: You have picked up your first pile of gold. Press Ⓚ to see how much you have. Gold is used in shops you'll find as you explore.
 FR: Vous avez ramassé votre premier tas d’or. Appuyez sur Ⓚ pour voir combien vous en avez. L’or sert dans les boutiques que vous trouverez en explorant.
 
 EN: These are downstairs. You can enter the next (deeper) level by following them down (Ⓚ). To return to this level, press Ⓚ while standing on the upstairs. When you take stairs, you are guaranteed an opportunity to act before any monsters you have not seen before; after that, monsters get to move first.
-FR: These are downstairs. Vous pouvez entrer dans l’étage suivant (plus profond) en les descendant (Ⓚ). Pour revenir à cet étage, appuyez sur Ⓚ alors que vous vous tenez sur l’escalier montant. Quand vous prenez un escalier, vous avez la garantie d’agir avant tout monstre que vous n’avez pas encore vu ; ensuite, les monstres jouent en premier.
+FR: Ce sont des escaliers descendants. Vous pouvez entrer dans l’étage suivant (plus profond) en les descendant (Ⓚ). Pour revenir à cet étage, appuyez sur Ⓚ alors que vous vous tenez sur l’escalier montant. Quand vous prenez un escalier, vous avez la garantie d’agir avant tout monstre que vous n’avez pas encore vu ; ensuite, les monstres jouent en premier.
 
 EN: This is an escape hatch. You can use it to leave a level with Ⓚ and Ⓚ respectively, like stairs; unlike stairs, however, hatches are a one-way trip, so be careful when descending!
 FR: Ceci est une trappe de secours. Vous pouvez l’utiliser pour quitter un niveau avec Ⓚ et Ⓚ respectivement, comme un escalier ; contrairement aux escaliers, cependant, les trappes sont à sens unique, alors soyez prudent en descendant !
 
 EN: You can enter a portal just like a set of stairs, by standing on it and pressing Ⓚ. To return, find a similar looking portal.
-FR: Vous pouvez entrer dans un portail comme dans un escalier, en vous tenant dessus et en pressing Ⓚ. Pour revenir, trouvez a similar looking portal.
+FR: Vous pouvez entrer dans un portail comme dans un escalier, en vous tenant dessus et en appuyant sur Ⓚ. Pour revenir, trouvez un portail d’apparence similaire.
 
 EN: That is a shop. You can enter it by typing Ⓚ or Ⓚ , or by Ⓚ on it while standing on the square.
 FR: Ceci est une boutique. Vous pouvez y entrer en tapant Ⓚ ou Ⓚ, ou en utilisant Ⓚ dessus lorsque vous vous tenez sur la case.
@@ -92,7 +92,7 @@ EN: Ⓚ increases your evasion and stealth, and slightly increases the damage of
 FR: Ⓚ augmente votre évasion et votre discrétion, et augmente légèrement les dégâts des lames et des armes à distance.
 
 EN: Enchantments of all types can befall you temporarily. Brief descriptions of these appear at the lower end of the stats area. Press Ⓚ for more details. You can search for full enchantment descriptions by pressing Ⓚ.
-FR: Des enchantements de toutes sortes peuvent vous affecter temporairement. De brèves descriptions apparaissent en bas de la zone des statistiques. Press Ⓚ pour plus de détails. Vous pouvez rechercher les descriptions complètes des enchantements en appuyant sur Ⓚ.
+FR: Des enchantements de toutes sortes peuvent vous affecter temporairement. De brèves descriptions apparaissent en bas de la zone des statistiques. Appuyez sur Ⓚ pour plus de détails. Vous pouvez rechercher les descriptions complètes des enchantements en appuyant sur Ⓚ.
 
 EN: Poison will rapidly reduce your health. You can wait it out with Ⓚ, but if you're in combat or lethally poisoned, you'll probably want to quaff a potion of curing.
 FR: Le poison réduira rapidement votre santé. Vous pouvez l’attendre avec Ⓚ, mais si vous êtes en combat ou mortellement empoisonné, vous voudrez probablement boire une potion de guérison.
@@ -119,31 +119,31 @@ EN: To prevent autotravel or autoexplore taking you into dangerous territory, yo
 FR: Pour empêcher le voyage ou l’exploration automatique de vous mener en territoire dangereux, vous pouvez définir des exclusions de déplacement en ouvrant la vue de carte (Ⓚ) puis en basculant le rayon d’exclusion sur la position du monstre avec Ⓚ. Pour faciliter cela, certains monstres immobiles listés dans l’option Ⓚ (comme celui-ci) sont jugés assez dangereux pour justifier la pose automatique d’une exclusion. Elle sera automatiquement levée si vous parvenez à tuer le monstre. Vous pouvez aussi retirer manuellement l’exclusion avec Ⓚ, mais à moins de retirer ce monstre de la liste auto_exclude, l’exclusion sera remise au tour suivant.
 
 EN: If you're low on health or magic and there's no urgent need to move, you can rest for a bit. Ideally, you should retreat to an area you've already explored and cleared of monsters before resting, since resting on the edge of the explored terrain increases the risk of rest being interrupted by a wandering monster. Press Ⓚ or Ⓚ to do so.
-FR: Si votre santé ou votre magie est basse et qu’il n’y a pas d’urgence à bouger, vous pouvez vous reposer un moment. Idéalement, vous devriez battre en retraite dans une zone déjà explorée et débarrassée de monstres avant de vous reposer, car se reposer en bordure du terrain exploré augmente le risque que le repos soit interrompu par un monstre errant. Press Ⓚ or Ⓚ pour le faire.
+FR: Si votre santé ou votre magie est basse et qu’il n’y a pas d’urgence à bouger, vous pouvez vous reposer un moment. Idéalement, vous devriez battre en retraite dans une zone déjà explorée et débarrassée de monstres avant de vous reposer, car se reposer en bordure du terrain exploré augmente le risque que le repos soit interrompu par un monstre errant. Appuyez sur Ⓚ ou Ⓚ pour le faire.
 
 EN: You are lethally poisoned, so now would be a good time to Ⓚuaff a potion of heal wounds or, better yet, a potion of curing. If you have seen neither of these so far, try unknown potions in your inventory. Good luck!
-FR: Vous êtes empoisonné à mort : c’est le bon moment pour Ⓚuaff une potion de soin des blessures ou, mieux encore, une potion de guérison. Si vous n’avez vu aucune de ces potions jusqu’ici, essayez les potions inconnues de votre inventaire. Good luck!
+FR: Vous êtes empoisonné à mort : c’est le bon moment pour boire (Ⓚ) une potion de soin des blessures ou, mieux encore, une potion de guérison. Si vous n’avez vu aucune de ces potions jusqu’ici, essayez les potions inconnues de votre inventaire. Bonne chance !
 
 EN: Against particularly difficult foes, you should use your Berserk Ⓚbility. Killing monsters while berserking makes it last longer.
-FR: Contre les ennemis particulièrement difficiles, vous devriez utiliser votre capacité Berserk Ⓚbility. Tuer des monstres en berserk le fait durer plus longtemps.
+FR: Contre les ennemis particulièrement difficiles, vous devriez utiliser votre capacité Berserk (Ⓚ). Tuer des monstres en berserk le fait durer plus longtemps.
 
 EN: With Trog's support, you can use your Berserk ability (Ⓚ) to temporarily gain more health and greater strength. Bear in mind that berserking at the last minute is often risky, and prevents you from using items to escape!
 FR: Avec le soutien de Trog, vous pouvez utiliser votre capacité Berserk (Ⓚ) pour gagner temporairement plus de santé et une plus grande force. Gardez à l’esprit que passer en berserk à la dernière minute est souvent risqué et vous empêche d’utiliser des objets pour fuir !
 
 EN: \nOr you could eⓀoke a wand to harm or weaken your foes.
-FR: \nOr you could eⓀoke a wand pour blesser ou affaiblir vos ennemis.
+FR: \nOu vous pouvez évoquer (Ⓚ) une baguette pour blesser ou affaiblir vos ennemis.
 
 EN: Mutations can be good or bad. Potions of mutation are the most common way to remove bad mutations, though they can also give you new ones. Check your mutations with Ⓚ.
 FR: Les mutations peuvent être bonnes ou mauvaises. Les potions de mutation sont le moyen le plus courant de retirer les mauvaises mutations, bien qu’elles puissent aussi en donner de nouvelles. Consultez vos mutations avec Ⓚ.
 
 EN: You just gained a divine ability. Press Ⓚ to take a look at your abilities.
-FR: Vous venez de gagner une capacité divine. Press Ⓚ pour jeter un œil à vos capacités.
+FR: Vous venez de gagner une capacité divine. Appuyez sur Ⓚ pour jeter un œil à vos capacités.
 
 EN: You just gained a divine ability. Press Ⓚ to take a look at your abilities or to use one of them.
-FR: Vous venez de gagner une capacité divine. Press Ⓚ pour jeter un œil à vos capacités ou en utiliser une.
+FR: Vous venez de gagner une capacité divine. Appuyez sur Ⓚ pour jeter un œil à vos capacités ou en utiliser une.
 
 EN: That item you just equipped granted you a new ability. Press Ⓚ to take a look at your abilities or to use one of them.
-FR: L’objet que vous venez d’équiper vous a accordé une nouvelle capacité. Press Ⓚ pour jeter un œil à vos capacités ou en utiliser une.
+FR: L’objet que vous venez d’équiper vous a accordé une nouvelle capacité. Appuyez sur Ⓚ pour jeter un œil à vos capacités ou en utiliser une.
 
 EN: Equipping this item affects your resistances. Check the overview screen (Ⓚ) for details.
 FR: Équiper cet objet affecte vos résistances. Consultez l’écran de synthèse (Ⓚ) pour plus de détails.
@@ -179,7 +179,7 @@ EN: However, it is only Ⓚ friendly, and will become dangerous again when this 
 FR: Cependant, il n’est amical que Ⓚ, et redeviendra dangereux quand cette amitié prendra fin.
 
 EN: Miscasting a spell can have nasty consequences, particularly for the more difficult spells. Your chance of successfully casting a spell increases with your magic skills, and can also be improved with the help of some items. Use the Ⓚ command to check your current failure rates.
-FR: Rater un sort peut avoir de fâcheuses conséquences, surtout pour les sorts les plus difficiles. Votre chance de lancer un sort avec succès augmente avec vos compétences magiques, et peut aussi être améliorée par certains objets. Use the Ⓚ command pour vérifier vos taux d’échec actuels.
+FR: Rater un sort peut avoir de fâcheuses conséquences, surtout pour les sorts les plus difficiles. Votre chance de lancer un sort avec succès augmente avec vos compétences magiques, et peut aussi être améliorée par certains objets. Utilisez la commande Ⓚ pour vérifier vos taux d’échec actuels.
 
 EN: Wearing heavy body armour or using a shield, especially a large one, can severely hamper your spellcasting abilities. You can check the effect of this by comparing the failure rates on the Ⓚ screen with and without the item being worn.
 FR: Porter une lourde armure corporelle ou utiliser un bouclier, surtout un grand, peut gravement entraver vos capacités de lancer de sorts. Vous pouvez vérifier l’effet en comparant les taux d’échec sur l’écran Ⓚ avec et sans l’objet porté.
@@ -188,10 +188,10 @@ EN: If the spellcasting success chance is high (which can be checked by entering
 FR: Si la chance de réussite du sort est élevée (ce que l’on peut vérifier en entrant Ⓚ ou Ⓚ), alors un échec signifie simplement que le sort ne fonctionne pas, avec un effet secondaire inoffensif. Cependant, pour les sorts à fort taux d’échec, il y a une chance de vous contaminer d’énergie magique, plus une chance d’un effet secondaire nuisible supplémentaire. Normalement ce n’est pas un problème, puisque la contamination magique s’évacue avec le temps, mais si vous êtes contaminé à répétition en peu de temps, vous muterez ou subirez d’autres mauvais effets secondaires.
 
 EN: To view your current set of resistances, press Ⓚ.
-FR: Pour voir votre ensemble actuel de résistances, press Ⓚ.
+FR: Pour voir votre ensemble actuel de résistances, appuyez sur Ⓚ.
 
 EN: Press Ⓚ to have a look at your skills and manage their training.
-FR: Press Ⓚ pour jeter un œil à vos compétences et gérer leur entraînement.
+FR: Appuyez sur Ⓚ pour jeter un œil à vos compétences et gérer leur entraînement.
 
 EN: Rather than step into this cloud and hurt yourself, you should either wait for a few turns to see if it vanishes (with Ⓚ), or just step around it.
 FR: Plutôt que d’entrer dans ce nuage et de vous blesser, vous devriez soit attendre quelques tours pour voir s’il disparaît (avec Ⓚ), soit simplement le contourner.
@@ -221,7 +221,7 @@ EN: To use magic, you can Ⓚ on the monster you wish to target (or on your play
 FR: Pour utiliser la magie, vous pouvez utiliser Ⓚ sur le monstre que vous souhaitez cibler (ou sur votre personnage pour vous lancer un sort à vous-même) tout en appuyant sur Ⓚ, puis choisir un sort dans le menu. Ou bien vous pouvez passer à l’affichage des sorts avec Ⓚ, puis le Ⓚ correspondant.
 
 EN: Alternatively, you can press Ⓚ and choose a spell, e.g. Ⓚ (check with Ⓚ). For attack spells:
-FR: Alternatively, vous pouvez appuyer sur Ⓚ et choisir un sort, p. ex. Ⓚ (check with Ⓚ). Pour les sorts d’attaque :
+FR: Sinon, vous pouvez appuyer sur Ⓚ et choisir un sort, p. ex. Ⓚ (vérifiez avec Ⓚ). Pour les sorts d’attaque :
 
 EN: You'll then be taken to target mode with the nearest monster or previous target already targeted. You can also cycle through all hostile monsters in sight with Ⓚ or Ⓚ. Once you're aiming at the correct monster, simply hit Ⓚ, Ⓚ or Ⓚ to shoot at it. If you miss, Ⓚ fires at the same target again.
 FR: Vous passerez alors en mode de visée, avec le monstre le plus proche ou la cible précédente déjà ciblée. Vous pouvez aussi parcourir tous les monstres hostiles en vue avec Ⓚ ou Ⓚ. Une fois que vous visez le bon monstre, appuyez simplement sur Ⓚ, Ⓚ ou Ⓚ pour lui tirer dessus. Si vous le ratez, Ⓚ tire de nouveau sur la même cible.
@@ -248,16 +248,16 @@ EN: This weapon offers its wearer protection from certain sources. For an overvi
 FR: Cette arme offre à son porteur une protection contre certaines sources. Pour un aperçu de vos résistances (entre autres), appuyez sur Ⓚ ou cliquez sur votre avatar avec Ⓚ.
 
 EN: You can wield this weapon with Ⓚ, or use Ⓚ to switch between the weapons in slot a and b. (Use Ⓚ to adjust item slots.)
-FR: Vous pouvez manier cette arme avec Ⓚ, ou utiliser Ⓚ pour alterner entre les armes des emplacements a et b. (Use Ⓚ to adjust item slots.)
+FR: Vous pouvez brandir cette arme avec Ⓚ, ou utiliser Ⓚ pour alterner entre les armes des emplacements a et b. (Utilisez Ⓚ pour ajuster les emplacements des objets.)
 
 EN: However, you've been training in Ⓚ for a while, so maybe you should continue training that rather than Ⓚ. (Press Ⓚ to see the skill management screen for the actual numbers.)
-FR: Cependant, vous vous entraînez depuis un moment en Ⓚ donc vous devriez peut-être continuer à l’entraîner plutôt que Ⓚ. (Press Ⓚ pour voir l’écran de gestion des compétences avec les chiffres réels.)
+FR: Cependant, vous vous entraînez depuis un moment en Ⓚ donc vous devriez peut-être continuer à l’entraîner plutôt que Ⓚ. (Appuyez sur Ⓚ pour voir l’écran de gestion des compétences avec les chiffres réels.)
 
 EN: To attack a monster, Ⓚ on the monster.\nTo fire a ranged weapon using the keyboard, press Ⓚ.
 FR: Pour attaquer un monstre, utilisez Ⓚ sur le monstre.\nPour tirer avec une arme à distance au clavier, appuyez sur Ⓚ.
 
 EN: Because of your horns you cannot wear helmets. (Press Ⓚ to see a list of your mutations and innate abilities.
-FR: À cause de vos cornes, vous ne pouvez pas porter de casque. (Press Ⓚ pour voir la liste de vos mutations et capacités innées.
+FR: À cause de vos cornes, vous ne pouvez pas porter de casque. (Appuyez sur Ⓚ pour voir la liste de vos mutations et capacités innées.
 
 EN: You can wear pieces of armour with Ⓚ and take them off again with Ⓚ, or, alternatively, simply click on their tiles to perform either action.
 FR: Vous pouvez porter des pièces d’armure avec Ⓚ et les retirer avec Ⓚ, ou, sinon, simplement cliquer sur leurs icônes pour effectuer l’une ou l’autre action.
@@ -308,16 +308,16 @@ EN: You can enter the previous (shallower) level by following these up (Ⓚ). Th
 FR: Vous pouvez entrer dans le niveau précédent (moins profond) en les remontant (Ⓚ). C’est idéal pour battre en retraite ou trouver un endroit sûr où se reposer, puisque le niveau précédent aura moins de monstres, et que les monstres de ce niveau ne peuvent pas vous suivre à moins d’être juste à côté de vous. Pour revenir à ce niveau, appuyez sur Ⓚ alors que vous vous tenez sur l’escalier descendant. Dans Tiles, vous pouvez effectuer l’une ou l’autre action en cliquant simplement sur Ⓚ.
 
 EN: Escape hatches can be used to quickly leave a level with Ⓚ and Ⓚ, respectively. Note that you will usually be unable to return right away.
-FR: Les trappes de secours permettent de quitter rapidement un étage avec Ⓚ and Ⓚ, respectively. Notez que vous ne pourrez généralement pas revenir tout de suite.
+FR: Les trappes d’évasion permettent de quitter rapidement un niveau avec Ⓚ et Ⓚ, respectivement. Notez que vous ne pourrez généralement pas revenir tout de suite.
 
 EN: To avoid accidentally opening a door you'd rather remain closed during travel or autoexplore, you can mark it with an exclusion from the map view (Ⓚ) with Ⓚ while your cursor is on the square in question. Such an exclusion will prevent autotravel from ever entering that grid until you remove the exclusion with another press of Ⓚ.
-FR: Pour éviter d’ouvrir par accident une porte que vous préféreriez garder fermée pendant le voyage ou l’exploration automatique, vous pouvez la marquer d’une exclusion depuis la vue de carte (Ⓚ) with Ⓚ alors que votre curseur est sur la case en question. Une telle exclusion empêchera le voyage automatique d’entrer jamais dans cette case jusqu’à ce que vous retiriez l’exclusion en appuyant de nouveau sur Ⓚ.
+FR: Pour éviter d’ouvrir par accident une porte que vous préféreriez garder fermée pendant le voyage ou l’exploration automatique, vous pouvez la marquer d’une exclusion depuis la vue de carte (Ⓚ) avec Ⓚ alors que votre curseur est sur la case en question. Une telle exclusion empêchera le voyage automatique d’entrer jamais dans cette case jusqu’à ce que vous retiriez l’exclusion en appuyant de nouveau sur Ⓚ.
 
 EN: This particular altar is so ancient that you cannot make out which god it is dedicated to! Converting here by pressing Ⓚ while standing on the altar will enter you into service of a random god, who will grant you some additional piety in thanks.
 FR: Cet autel est si ancien que vous ne pouvez pas discerner à quel dieu il est dédié ! Vous convertir ici en appuyant sur Ⓚ alors que vous vous tenez sur l’autel vous mettra au service d’un dieu aléatoire, qui vous accordera un peu de piété supplémentaire en remerciement.
 
 EN: You can get information about Ⓚ by pressing Ⓚ while standing on the altar. Before taking up the responding faith you'll be asked for confirmation.
-FR: Vous pouvez obtenir des informations sur Ⓚ by pressing Ⓚ en vous tenant sur l’autel. Avant d’adopter la foi correspondante, une confirmation vous sera demandée.
+FR: Vous pouvez obtenir des informations sur Ⓚ en appuyant sur Ⓚ tout en vous tenant sur l’autel. Avant d’adopter la foi correspondante, une confirmation vous sera demandée.
 
 EN: Friendly monsters will follow you around and attempt to aid you in battle. You can order nearby allies by talking to them (Ⓚ).
 FR: Les monstres amicaux vous suivront et tenteront de vous aider au combat. Vous pouvez donner des ordres aux alliés proches en leur parlant (Ⓚ).
@@ -365,7 +365,7 @@ EN: To exit the tutorial, simply go up these stairs with Ⓚ. Confirm the result
 FR: Pour quitter le tutoriel, montez simplement ces escaliers avec Ⓚ. Confirmez l’invite qui apparaît avec un Ⓚ majuscule.
 
 EN: Also, remember: You can reread old messages with Ⓚ.
-FR: Also, remember: Vous pouvez relire d’anciens messages avec Ⓚ.
+FR: Aussi, n’oubliez pas : vous pouvez relire d’anciens messages avec Ⓚ.
 
 EN: To close an open door, press Ⓚ.
 FR: Pour fermer une porte ouverte, appuyez sur Ⓚ.
@@ -404,7 +404,7 @@ EN: Well done! After resting to full health continue to the next level with Ⓚ.
 FR: Bien joué ! Après vous être reposé jusqu’à avoir toute votre santé, passez au niveau suivant avec Ⓚ.
 
 EN: Remember: You can reread old messages with Ⓚ.
-FR: Remember: Vous pouvez relire d’anciens messages avec Ⓚ.
+FR: Souvenez-vous : vous pouvez relire d’anciens messages avec Ⓚ.
 
 EN: Now, for ranged combat! Pick up these boomerangs with Ⓚ or Ⓚ and continue.
 FR: Place maintenant au combat à distance ! Ramassez ces boomerangs avec Ⓚ ou Ⓚ et poursuivez.
@@ -416,7 +416,7 @@ EN: Pick up this shortbow and wield it with Ⓚ .
 FR: Ramassez cet arc court et brandissez-le avec Ⓚ.
 
 EN: Firing arrows from your wielded shortbow works a bit differently from throwing boomerangs. Use Ⓚ. You can change the targeted monster by pressing Ⓚ while in target mode. The worm is harmless behind the lava, so concentrate on the dummy which can fire at you. Again, confirm your choice with Ⓚ or Ⓚ.
-FR: Tirer des flèches avec votre arc court brandi fonctionne un peu différemment du lancer de boomerangs. Use Ⓚ. Vous pouvez changer le monstre ciblé en appuyant sur Ⓚ en mode de visée. Le ver est inoffensif derrière la lave : concentrez-vous sur le mannequin, qui peut vous tirer dessus. Là encore, confirmez votre choix avec Ⓚ or Ⓚ.
+FR: Tirer des flèches avec votre arc court brandi fonctionne un peu différemment du lancer de boomerangs. Utilisez Ⓚ. Vous pouvez changer le monstre ciblé en appuyant sur Ⓚ en mode de visée. Le ver est inoffensif derrière la lave : concentrez-vous sur le mannequin, qui peut vous tirer dessus. Là encore, confirmez votre choix avec Ⓚ ou Ⓚ.
 
 EN: Remember that you can autoexplore using Ⓚ.
 FR: Souvenez-vous que vous pouvez explorer automatiquement avec Ⓚ.
@@ -449,7 +449,7 @@ EN: To view the description of your new weapon, find and select it in your inven
 FR: Pour voir la description de votre nouvelle arme, trouvez-la et sélectionnez-la dans votre inventaire (Ⓚ). Notez que toutes les commandes d’objets fonctionnent aussi depuis les écrans de description d’objets.
 
 EN: Well fought! If necessary, rest up with Ⓚ, then continue downwards with Ⓚ.
-FR: Well fought! Si nécessaire, reposez-vous avec Ⓚ, puis continuez à descendre avec Ⓚ.
+FR: Bien combattu ! Si nécessaire, reposez-vous avec Ⓚ, puis continuez à descendre avec Ⓚ.
 
 EN: If the many commands are too confusing, you can also look them up in the command help Ⓚ. Rereading old messages with Ⓚ is available as usual.
 FR: Si les nombreuses commandes sont trop déroutantes, vous pouvez aussi les consulter dans l’aide des commandes Ⓚ. La relecture des anciens messages avec Ⓚ reste disponible comme d’habitude.
@@ -464,13 +464,13 @@ EN: You can evoke a wand with Ⓚ.
 FR: Vous pouvez évoquer une baguette avec Ⓚ.
 
 EN: A wand of digging can destroy rock walls. Use Ⓚ to check wall types.
-FR: Une baguette de creusement peut détruire les murs de roche. Use Ⓚ to check wall types.
+FR: Une baguette de creusement peut détruire les murs de roche. Utilisez Ⓚ pour vérifier les types de mur.
 
 EN: Jewellery is put on with Ⓚ.
 FR: Les bijoux se mettent avec Ⓚ.
 
 EN: This amulet would be very powerful if your character had a god to worship, but here and now, it's useless. You may want to drop it with Ⓚ.
-FR: Cette amulette serait très puissante si votre personnage avait un dieu à vénérer, mais ici et maintenant, elle est inutile. Vous voudrez peut-être la lâcher avec Ⓚ.
+FR: Cette amulette serait très puissante si votre personnage avait un dieu à vénérer, mais ici et maintenant, elle est inutile. Vous voudrez peut-être la déposer avec Ⓚ.
 
 EN: To enter this shop, press Ⓚ. To buy items, select them with their hotkey, hit Ⓚ and confirm with Ⓚes. You can switch to description mode with Ⓚ.
 FR: Pour entrer dans cette boutique, appuyez sur Ⓚ. Pour acheter des objets, sélectionnez-les avec leur raccourci, appuyez sur Ⓚ et confirmez avec Ⓚ (Oui). Vous pouvez passer en mode description avec Ⓚ.
@@ -500,7 +500,7 @@ EN: To cast a spell, first memorise it with Ⓚ. You can then cast it with Ⓚ.
 FR: Pour lancer un sort, mémorisez-le d’abord avec Ⓚ. Vous pouvez ensuite le lancer avec Ⓚ.
 
 EN: Press Ⓚ, then press Ⓚ to get a list of your spells.
-FR: Press Ⓚ, then press Ⓚ pour obtenir la liste de vos sorts.
+FR: Appuyez sur Ⓚ, puis sur Ⓚ pour obtenir la liste de vos sorts.
 
 EN: Spells, like ammo, are shown in the quiver slot, so you can use Ⓚ to ready a spell in the quiver. Use Ⓚ or Ⓚ to fire the currently quivered spell.
 FR: Les sorts, comme les munitions, s’affichent dans l’emplacement du carquois : vous pouvez donc utiliser Ⓚ pour préparer un sort dans le carquois. Utilisez Ⓚ ou Ⓚ pour lancer le sort actuellement dans le carquois.
@@ -527,7 +527,7 @@ EN: After forgetting one of your old spells to make space, memorise this new spe
 FR: Après avoir oublié un ancien sort pour faire de la place, mémorisez ce nouveau sort avec Ⓚ. Essayez ensuite votre nouveau sort et convoquez un allié démoniaque !
 
 EN: Try to let your ally do the killing! If necessary, you can order it about with Ⓚ. Before opening this gate, you may want to wait with Ⓚ until your ally has caught up with you. Your summons will only stick around for a short time, so don't wait too long, or refresh your summon by casting it again before starting a fight.
-FR: Essayez de laisser votre allié faire le travail ! Si nécessaire, vous pouvez lui donner des ordres avec Ⓚ. Avant d’ouvrir cette grille, vous voudrez peut-être attendre avec Ⓚ que votre allié vous ait rejoint. Vos invocations ne restent que peu de temps : n’attendez pas trop, ou renouvelez-les en relançant le sort avant de commencer un combat.
+FR: Essayez de laisser votre allié faire le travail ! Si nécessaire, vous pouvez lui donner des ordres avec Ⓚ. Avant d’ouvrir cette grille, vous voudrez peut-être attendre avec Ⓚ que votre allié vous ait rejoint. Vos créatures convoquées ne restent que peu de temps : n’attendez pas trop, ou renouvelez la convocation en relançant le sort avant de commencer un combat.
 
 EN: Heavy armour really hampers spellcasting. Try putting on that mail and shield (with Ⓚ), and compare your spellcasting failure rates with Ⓚ. You can take armour off again with Ⓚ.
 FR: Les armures lourdes gênent vraiment le lancement de sorts. Essayez d’enfiler cette cotte de mailles et ce bouclier (avec Ⓚ), et comparez vos taux d’échec avec Ⓚ. Vous pouvez retirer l’armure avec Ⓚ.
@@ -551,7 +551,7 @@ EN: to get an idea what a god offers you, and to join the faith. If you press �
 FR: pour avoir une idée de ce qu’un dieu vous offre, et pour rejoindre la foi. Si vous appuyez sur Ⓚ dans l’écran de religion, vous verrez une description plus détaillée.
 
 EN: Confirm your choice with Ⓚ or Ⓚ.
-FR: Confirmez votre choix avec Ⓚ or Ⓚ.
+FR: Confirmez votre choix avec Ⓚ ou Ⓚ.
 
 EN: Have a look at your current religious standing with Ⓚ. Again, pressing Ⓚ will bring up a more detailed description of your god.
 FR: Jetez un œil à votre situation religieuse actuelle avec Ⓚ. Là encore, appuyer sur Ⓚ affichera une description plus détaillée de votre dieu.
@@ -662,7 +662,7 @@ EN: Ⓚ : Repeat last interlevel travel. Ⓚ : Travel to a level in the current 
 FR:  Ⓚ    : Répéter le dernier voyage entre niveaux.\n Ⓚ      : Voyager vers un niveau de la branche actuelle.\n Ⓚ      : Prendre l’escalier montant le plus proche.\n Ⓚ      : Prendre l’escalier descendant le plus proche.\n Ⓚ : Voyager vers un niveau de la branche au-dessus de celle-ci.\n Ⓚ      : Afficher les points de passage disponibles (s’il y en a).\n Ⓚ-Ⓚ    : Aller au point de passage numéroté.\n Ⓚ      : Afficher les autels disponibles (s’il y en a de découverts).
 
 EN: <h>Interlevel Travel (go to a specific level in the selected branch) Type in the level number you want to go to and press Enter, or use: Ⓚ : Go to the default level. Ⓚ : Go to the entrance to the current branch. Ⓚ : Change the default to one level above the current. Ⓚ : Change default to one level below the current. Ⓚ or Ⓚ : Change default to the branch above this one. Ⓚ : Change default to deepest visited level in this branch. Ⓚ : Change default to the entrance to the current branch.
-FR: <h>Voyage entre niveaux (aller à un niveau précis de la branche choisie)\n Saisissez le numéro du niveau voulu et appuyez sur Enter, ou utilisez :\n Ⓚ  : Aller au niveau par défaut.\n Ⓚ      : Aller à l’entrée de la branche actuelle.\n Ⓚ      : Mettre par défaut le niveau au-dessus de l’actuel.\n Ⓚ      : Mettre par défaut le niveau en dessous de l’actuel.\n Ⓚ ou Ⓚ : Mettre par défaut la branche au-dessus de celle-ci.\n Ⓚ      : Mettre par défaut le niveau le plus profond visité de cette branche.\n Ⓚ      : Mettre par défaut l’entrée de la branche actuelle.
+FR: <h>Voyage entre niveaux (aller à un niveau précis de la branche choisie)\n Saisissez le numéro du niveau voulu et appuyez sur Entrée, ou utilisez :\n Ⓚ  : Aller au niveau par défaut.\n Ⓚ      : Aller à l’entrée de la branche actuelle.\n Ⓚ      : Mettre par défaut le niveau au-dessus de l’actuel.\n Ⓚ      : Mettre par défaut le niveau en dessous de l’actuel.\n Ⓚ ou Ⓚ : Mettre par défaut la branche au-dessus de celle-ci.\n Ⓚ      : Mettre par défaut le niveau le plus profond visité de cette branche.\n Ⓚ      : Mettre par défaut l’entrée de la branche actuelle.
 
 EN: <h>Interlevel Travel (go to an altar): Use the shortcut letter (the initial of a god, with TSO being replaced by 1) to select the altar for travel.
 FR: <h>Voyage entre niveaux (aller à un autel) :\n Utilisez la lettre de raccourci (l’initiale d’un dieu, TSO étant remplacé par 1)\n pour choisir l’autel de destination.
@@ -914,22 +914,22 @@ EN: Ⓚ allow remapping keys that are sent to the game when inputting commands. 
 FR: Ⓚ permettent de réassigner les touches envoyées au jeu lors de la saisie\ndes commandes. On peut s’en servir pour redéfinir une touche de commande ou pour définir une touche\ninutilisée. Elles associent une touche à une séquence de frappes, et les frappes se\ntransmettent dans les sous-menus.
 
 EN: Example 1: mapping Ⓚ to Ⓚ would let the `e` key trigger the same command as the `p` key (which on the default settings is autofire).
-FR: Exemple 1 : associer Ⓚ à Ⓚ ferait déclencher à la touche Â`eÂ` la même\ncommande que la touche Â`pÂ` (qui, avec les réglages par défaut, est le tir automatique).
+FR: Exemple 1 : associer Ⓚ à Ⓚ ferait déclencher à la touche `e` la même\ncommande que la touche `p` (qui, avec les réglages par défaut, est le tir automatique).
 
 EN: Example 2: mapping Ⓚ to the sequence Ⓚ would let the `1` key cast a spell that is on the letter `a` with default targeting.
-FR: Exemple 2 : associer Ⓚ à la séquence Ⓚ ferait lancer par la touche Â`1Â`\nle sort placé sur la lettre Â`aÂ` avec le ciblage par défaut.
+FR: Exemple 2 : associer Ⓚ à la séquence Ⓚ ferait lancer par la touche `1`\nle sort placé sur la lettre `a` avec le ciblage par défaut.
 
 EN: Example 3: mapping Ⓚ to Ⓚ would let the F1 key quiver the spell that is on letter `a`.
-FR: Exemple 3 : associer Ⓚ à Ⓚ ferait mettre par la touche F1 en carquois le sort\nplacé sur la lettre Â`aÂ`.
+FR: Exemple 3 : associer Ⓚ à Ⓚ ferait mettre par la touche F1 en carquois le sort\nplacé sur la lettre `a`.
 
 EN: Ⓚ are lower-level key substitutions that replace keys entirely with a sequence of keystrokes. They are recommended for changing keys uniformly to deal with alternative keyboard layouts. Keymaps are contextual, and the default/"regular" context is used anywhere that a non-specialised context is not active. Macros take the result of keymaps as input.
 FR: Ⓚ sont des substitutions de touches de plus bas niveau qui remplacent entièrement les touches par\nune séquence de frappes. Elles sont recommandées pour changer les touches de manière uniforme afin de\ns’adapter à d’autres dispositions de clavier. Les keymaps sont contextuels, et le contexte\npar défaut/« normal » est utilisé partout où aucun contexte spécialisé n’est\nactif. Les macros prennent en entrée le résultat des keymaps.
 
 EN: Example: In some European keyboard layouts, the § symbol replaces ~. Therefore, it could be useful to keymap § to ~ in both the regular and menu keymap contexts so that the main menu and macro menu become a bit easier to access. (In other layouts, this applies instead to ½.)
-FR: Exemple : sur certaines dispositions de clavier européennes, le symbole ` remplace ~. Il\npeut donc être utile d’associer ` à ~ dans les contextes de keymap normal et de menu\nafin que le menu principal et le menu des macros deviennent un peu plus faciles d’accès. (Sur d’autres\ndispositions, cela concerne plutôt ½.)
+FR: Exemple : sur certaines dispositions de clavier européennes, le symbole § remplace ~. Il\npeut donc être utile d’associer § à ~ dans les contextes de keymap normal et de menu\nafin que le menu principal et le menu des macros deviennent un peu plus faciles d’accès. (Sur d’autres\ndispositions, cela concerne plutôt ½.)
 
 EN: When used for mapping commands, keymaps can have unexpected side effects: e.g. mapping Ⓚ to Ⓚ via keymap is not recommended, because this will make it hard to type `1` when entering a skill target.
-FR: Utilisés pour associer des commandes, les keymaps peuvent avoir des effets secondaires inattendus : par ex.\nassocier Ⓚ à Ⓚ via un keymap est déconseillé, car cela rendra\ndifficile la saisie de Â`1Â` lors de la saisie d’une cible de compétence.
+FR: Utilisés pour associer des commandes, les keymaps peuvent avoir des effets secondaires inattendus : par ex.\nassocier Ⓚ à Ⓚ via un keymap est déconseillé, car cela rendra\ndifficile la saisie de `1` lors de la saisie d’une cible de compétence.
 
 EN: Ⓚ: Both macros and keymaps accept keycodes when describing the action, in the form of Ⓚ to enter keycode Ⓚ. (Use Ⓚ to enter a backslash.) For example, use Ⓚ to enter the keycode for the Ⓚ button. You can bind macros and keymaps by keycode by using Ⓚ at the macro edit menu.
 FR: Ⓚ : les macros comme les keymaps acceptent des codes de touche pour décrire\nl’action, sous la forme Ⓚ pour saisir le code de touche Ⓚ. (Utilisez Ⓚ pour\nsaisir une barre oblique inverse.) Par exemple, utilisez Ⓚ pour saisir le code de touche du\nbouton Ⓚ. Vous pouvez associer macros et keymaps par code de touche en utilisant Ⓚ\ndans le menu d’édition des macros.
@@ -983,7 +983,7 @@ EN: What exactly is the goal of this game?
 FR: Quel est exactement le but de ce jeu ?
 
 EN: A: To survive and to win, obviously. For this you need to find the fabled Orb of Zot deep down in the dungeon and bring it back to the surface. To enter the realm of Zot, you'll first need to collect three runes to be found in various branches of the dungeon.
-FR: A: Survivre et gagner, évidemment. Pour cela, vous devez trouver le légendaire Orbe\nde Zot, tout au fond du donjon, et le rapporter à la surface. Pour entrer dans le\nroyaume de Zot, vous devrez d’abord rassembler trois runes, que l’on trouve dans diverses\nbranches du donjon.
+FR: A: Survivre et gagner, évidemment. Pour cela, vous devez trouver le légendaire Orbe\nde Zot, tout au fond du donjon, et le rapporter à la surface. Pour entrer dans le\nRealm of Zot, vous devrez d’abord rassembler trois runes, que l’on trouve dans diverses\nbranches du donjon.
 
 EN: However, if you're new to the game, you really shouldn't worry about this. Just try to delve as deeply as possible and have fun exploring the many side branches in Crawl with various characters of different species, skill sets, and religions.
 FR: Cependant, si vous êtes nouveau dans le jeu, ne vous en préoccupez surtout pas. Essayez simplement\nde descendre aussi profondément que possible et amusez-vous à explorer les nombreuses branches\nsecondaires de Crawl avec divers personnages d’espèces, de compétences et de\nreligions différentes.
@@ -1034,7 +1034,7 @@ EN: * 'G', for automatic travel to another level ('G?' for help)
 FR: * 'G', pour le voyage automatique vers un autre niveau (« G? » pour l’aide)
 
 EN: * 'X', to access the level map for travelling and other tasks ('X?')
-FR: * 'X', pour accéder à la carte du niveau afin de voyager et d’autres tâches (« X? »)
+FR: * 'X', pour accéder à la carte du niveau afin de voyager et d’effectuer d’autres tâches (« X? »)
 
 EN: * 'Ctrl-F', to find and travel to items you've seen before ('Ctrl-F?')
 FR: * 'Ctrl-F', pour trouver et rejoindre des objets déjà vus (« Ctrl-F? »)
@@ -1046,7 +1046,7 @@ EN: How can I avoid dying all the time? Can you give me some playing tips?
 FR: Comment éviter de mourir tout le temps ? Pouvez-vous me donner des conseils de jeu ?
 
 EN: A: If you've got trouble even reaching the Temple, you might want to try a game or two in hints mode for some general playing hints.
-FR: A: Si vous avez du mal ne serait-ce qu’à atteindre le Temple, essayez une partie ou deux\nen mode conseils pour obtenir quelques conseils généraux.
+FR: A: Si vous avez du mal ne serait-ce qu’à atteindre le Temple, essayez une partie ou deux\nen mode astuces pour obtenir quelques conseils généraux.
 
 EN: Also, there are easy playing combinations and more challenging ones (marked in dark grey on the selection screen). If you are new to Crawl, sticking to the easier ones is advisable. In general, treat each new monster you meet with utmost caution, try to choose the location where you fight monsters, and keep an eye on your health and magic.
 FR: De plus, il existe des combinaisons faciles à jouer et d’autres plus difficiles (marquées en\ngris foncé sur l’écran de sélection). Si vous débutez à Crawl, il est conseillé de vous en tenir aux\nplus faciles. En général, traitez chaque nouveau monstre avec la plus grande\nprudence, essayez de choisir l’endroit où vous combattez les monstres, et surveillez\nvotre santé et votre magie.
@@ -1082,7 +1082,7 @@ EN: Which gods would you recommend to a beginning player?
 FR: Quels dieux recommanderiez-vous à un joueur débutant ?
 
 EN: A: The most straightforward gods to play are probably Trog or Okawaru (for melee combat), Hepliaklqana or Okawaru (for ranged combat), Vehumet or Sif Muna (for spellcasting). Also, while unreliable, Xom can be a lot of fun.
-FR: A: Les dieux les plus simples à jouer sont probablement Trog ou Okawaru (pour le combat\nau corps à corps), Hepliaklqana ou Okawaru (pour le combat à distance), Vehumet ou Sif Muna (pour\nlancer des sorts). De plus, bien qu’instable, Xom peut être très amusant.
+FR: A: Les dieux les plus simples à jouer sont probablement Trog ou Okawaru (pour le combat\nau corps à corps), Hepliaklqana ou Okawaru (pour le combat à distance), Vehumet ou Sif Muna (pour\nlancer des sorts). De plus, bien que peu fiable, Xom peut être très amusant.
 
 EN: Whenever you encounter an altar, be sure to read the corresponding god's description (by praying on the altar with '>') and take your time in deciding whether to pick this deity or not. As a follower, you can reread your god's description, now more detailed via the '!' toggle, on the '^' screen.
 FR: Chaque fois que vous rencontrez un autel, lisez la description du dieu correspondant\n(en priant sur l’autel avec '>') et prenez votre temps pour décider\nde choisir ou non cette divinité. En tant que fidèle, vous pouvez relire la description de\nvotre dieu, plus détaillée avec la bascule '!', sur l’écran '^'.

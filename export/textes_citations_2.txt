@@ -299,7 +299,7 @@ EN: You never know good fortune from ill. It is because you cannot see into the 
 FR: On ne distingue jamais la bonne fortune de la mauvaise, faute de voir l’avenir.
 
 EN: Heed my words or we all shall suffer their consequence.
-FR: Écoutez mes paroles, ou nous en subirons tous les conséquences.
+FR: Écoutez mes paroles, ou nous en subirons toutes les conséquences.
 
 EN: I have seen things no one ever should.
 FR: J’ai vu des choses que nul ne devrait jamais voir.
@@ -422,7 +422,7 @@ EN: Have you seen my cloak?
 FR: As-tu vu ma cape ?
 
 EN: My, my head's in a spin!
-FR: Mon, mon, ma tête tourne !
+FR: Oh, oh, ma tête tourne !
 
 EN: I feel rather peculiar.
 FR: Je me sens plutôt bizarre.
@@ -530,7 +530,7 @@ EN: I asked for directions to the rune, but they belched at me.
 FR: J’ai demandé mon chemin vers la rune, mais ils m’ont rôté dessus.
 
 EN: I prefer the Lair of the Beasts, to be honest. At least animals don't complain.
-FR: Je préfère le Repaire des Bêtes, pour être honnête. Au moins, les animaux ne se plaignent pas.
+FR: Je préfère le Lair, pour être honnête. Au moins, les animaux ne se plaignent pas.
 
 EN: I hate complainers so much.
 FR: Je déteste tellement les râleurs.
@@ -554,7 +554,7 @@ EN: None of these elves know how to fight. I hate that.
 FR: Aucun de ces elfes ne sait se battre. Je déteste ça.
 
 EN: What's the point of a Hall of Blades anyway?
-FR: À quoi sert un Hall des Lames, de toute façon ?
+FR: À quoi sert un Hall of Blades, de toute façon ?
 
 EN: What's that horrible smell? It's like... yuck.
 FR: C’est quoi, cette horrible odeur ? C’est comme... beurk.
@@ -731,10 +731,10 @@ EN: I'd like to make these snakes into gloves, but I hate gloves.
 FR: J’aimerais faire des gants avec ces serpents, mais je déteste les gants.
 
 EN: What do naga need barding for?
-FR: À quoi servent les barda aux nagas ?
+FR: À quoi servent les bardes aux nagas ?
 
 EN: What's a barding, anyway? Does it sing for its supper?
-FR: C’est quoi, un barda, d’ailleurs ? Il chante pour gagner son dîner ?
+FR: C’est quoi, une barde, d’ailleurs ? Elle chante pour gagner son dîner ?
 
 EN: Robes are for wimps. Real warriors wear heavy armour!
 FR: Les robes, c’est pour les mauviettes. Les vrais guerriers portent de lourdes armures !

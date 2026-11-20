@@ -14,7 +14,7 @@ EN: I'm your fate.
 FR: Je suis ton destin.
 
 EN: Don't try to resist!
-FR: N’essayez pas de résister !
+FR: N’essaie pas de résister !
 
 EN: Time to reap what you sow.
 FR: Il est temps de récolter ce que tu as semé.
@@ -119,7 +119,7 @@ EN: Patent thief! You won't get away with this!
 FR: Voleur de brevet ! Tu ne t’en tireras pas comme ça !
 
 EN: I thought of it first! Give it back!
-FR: J’y ai pensé le premier ! Rendez-le-moi !
+FR: J’y ai pensé le premier ! Rends-le-moi !
 
 EN: I'll bet your bee is still using copper gearwork!
 FR: Je parie que ton abeille utilise encore des engrenages en cuivre !
@@ -182,7 +182,7 @@ EN: I retired to this dungeon. Do you want to retire to the afterlife?
 FR: Je me suis retiré dans ce donjon. Veux-tu te retirer dans l’au-delà ?
 
 EN: I'm retired! Go away!
-FR: Je suis à la retraite ! Partez !
+FR: Je suis à la retraite ! Va-t’en !
 
 EN: I want to be left alone!
 FR: Je veux qu’on me laisse tranquille !
@@ -212,7 +212,7 @@ EN: Finally, peace and quiet.
 FR: Enfin, la paix et la tranquillité.
 
 EN: And stay out!
-FR: Et ne revenez pas !
+FR: Et ne reviens pas !
 
 EN: Win and live. Lose and die. It's the rule of life.
 FR: Gagnez et vivez. Perdez et mourez. C’est la règle de la vie.
@@ -266,7 +266,7 @@ EN: Your bloody kin took my one good eye. Now you die, harpy!
 FR: Ta maudite engeance m’a pris mon seul bon œil. Maintenant tu meurs, harpie !
 
 EN: You are already dead.
-FR: Tu es déjà morte.
+FR: Tu es déjà mort.
 
 EN: Sometimes I wonder if they all really are harpies.
 FR: Parfois je me demande si elles sont vraiment toutes des harpies.
@@ -278,7 +278,7 @@ EN: One more harpy dead.
 FR: Une harpie de moins.
 
 EN: Right between the eyes...
-FR: En plein entre les yeux...
+FR: Pile entre les yeux...
 
 EN: You'll make a fine pincushion.
 FR: Tu feras une excellente pelote à épingles.
@@ -407,13 +407,13 @@ EN: I HATE BEING BOTHERED!
 FR: JE DÉTESTE QU’ON ME DÉRANGE !
 
 EN: I HOPE YOU'RE TASTY!
-FR: J’ESPÈRE QUE VOUS ÊTES SAVOUREUX !
+FR: J’ESPÈRE QUE TU ES SAVOUREUX !
 
 EN: BAH! BLOODY ADVENTURERS.
 FR: BAH ! SACRÉS AVENTURIERS.
 
 EN: COMING HERE WAS YOUR LAST MISTAKE.
-FR: VENIR ICI A ÉTÉ VOTRE DERNIÈRE ERREUR.
+FR: VENIR ICI A ÉTÉ TA DERNIÈRE ERREUR.
 
 EN: TIME FOR A NIBBLE.
 FR: C’EST L’HEURE DE GRIGNOTER.
@@ -461,7 +461,7 @@ EN: If you're unwilling to bow, then I'll see you out.
 FR: Si tu refuses de t’incliner, alors je te raccompagnerai à la porte.
 
 EN: Come and play with me!
-FR: Venez jouer avec moi !
+FR: Viens jouer avec moi !
 
 EN: Trust me, I'm a doctor.
 FR: Faites-moi confiance, je suis médecin.
@@ -470,7 +470,7 @@ EN: Young upstarts should know their place.
 FR: Les jeunes arrivistes devraient connaître leur place.
 
 EN: You haven't even grown your second tail yet.
-FR: Tu n’as même pas encore poussé ta deuxième queue.
+FR: Ta deuxième queue n’a même pas encore poussé.
 
 EN: Grace and deceit. The only things anyone needs.
 FR: La grâce et la tromperie. Les seules choses dont quiconque a besoin.
@@ -806,7 +806,7 @@ EN: Took all my skin, all gone, all gone...
 FR: Ils ont pris toute ma peau, tout est parti, tout est parti...
 
 EN: I was beautiful once. Now look at me.
-FR: J’étais beau, autrefois. Regardez-moi maintenant.
+FR: J’étais beau, autrefois. Regarde-moi maintenant.
 
 EN: I am only a sick, bizarre, defaced creation.
 FR: Je ne suis qu’une création malade, bizarre et défigurée.
@@ -851,7 +851,7 @@ EN: I don't want to be sealed in with no windows!
 FR: Je ne veux pas être enfermé sans fenêtres !
 
 EN: Know when to walk away, know when to run.
-FR: Sachez quand partir, sachez quand courir.
+FR: Sache quand partir, sache quand courir.
 
 EN: Hope the weapon's aim is true!
 FR: J’espère que l’arme vise juste !

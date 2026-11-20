@@ -29,7 +29,7 @@ EN: Searching by item properties:
 FR: Recherche par propriétés :
 
 EN: Finding Dungeon Features:
-FR: Éléments du donjon :
+FR: Recherche d’éléments du donjon :
 
 EN: Non-regex operators:
 FR: Opérateurs non-regex :

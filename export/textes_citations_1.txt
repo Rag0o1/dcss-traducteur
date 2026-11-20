@@ -722,7 +722,7 @@ EN: I was like you once.
 FR: J’étais comme toi, autrefois.
 
 EN: Very impressive. But it won't help. Nothing will.
-FR: Très impressionnant. Mais ça n’y changera rien. Rien n’y changera rien.
+FR: Très impressionnant. Mais ça n’y changera rien. Rien n’y fera.
 
 EN: I have seen your future, and it is all used up.
 FR: J’ai vu ton avenir, et il est épuisé.

@@ -284,7 +284,7 @@ EN: Okawaru's gifts are murder.
 FR: Les cadeaux d’Okawaru sont un meurtre.
 
 EN: You can only wear one cloak at a time, you know?
-FR: On ne peut porter qu’une cape à la fois, vous savez ?
+FR: On ne peut porter qu’une cape à la fois, tu sais ?
 
 EN: Do you think you're a hero? I hate that.
 FR: Tu te prends pour un héros ? Je déteste ça.
@@ -422,7 +422,7 @@ EN: You need to come to terms with your gambling problem.
 FR: Tu dois accepter ton problème de jeu.
 
 EN: How about a game of 52 card pickup?
-FR: Que dirais-tu d’une partie de bataille à 52 cartes ?
+FR: Que dirais-tu d’une partie de 52 cartes à ramasser ?
 
 EN: An explosive gambit... I hate that.
 FR: Un pari explosif... Je déteste ça.
@@ -644,7 +644,7 @@ EN: What kind of god gives you spells but not spellbooks?
 FR: Quel genre de dieu donne des sorts mais pas de livres de sorts ?
 
 EN: Let it end in hellfire? Why is there only one hellfire spell?
-FR: Que ça finisse dans le feu de l’enfer ? Pourquoi n’y a-t-il qu’un seul sort de feu infernal ?
+FR: Que ça finisse dans le feu de l’enfer ? Pourquoi n’y a-t-il qu’un seul sort de Hellfire ?
 
 EN: I hate Vehumet.
 FR: Je déteste Vehumet.

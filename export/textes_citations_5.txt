@@ -20,7 +20,7 @@ EN: Why can't I wake up?
 FR: Pourquoi je n’arrive pas à me réveiller ?
 
 EN: Just end it! Let me go!
-FR: Finissez-en ! Laissez-moi partir !
+FR: Finis-en ! Laisse-moi partir !
 
 EN: I don't want it. Make it stop! Make it stop!
 FR: Je n’en veux pas. Fais que ça s’arrête ! Fais que ça s’arrête !
@@ -47,7 +47,7 @@ EN: It wants to be free! It wants to enslave everyone!
 FR: Il veut être libre ! Il veut asservir tout le monde !
 
 EN: Where did this trident come from? Is it yours?
-FR: D’où vient ce trident ? Est-ce le vôtre ?
+FR: D’où vient ce trident ? Est-ce le tien ?
 
 EN: Dreams, dreams, come out to play!
 FR: Rêves, rêves, venez jouer !
@@ -83,7 +83,7 @@ EN: A few more walls knocked out 'ere an' thar an' 'tis whole place will come cr
 FR: Encore quelques murs abattus par-ci par-là et tout cet endroit s’effondrera.
 
 EN: Leave me alone!
-FR: Laissez-moi tranquille !
+FR: Laisse-moi tranquille !
 
 EN: Hawthorn can't hurt me.
 FR: L’aubépine ne peut pas me blesser.
@@ -185,7 +185,7 @@ EN: You'll eat dirt beneath my feet.
 FR: Tu mangeras la poussière sous mes pieds.
 
 EN: Not even holy moly will save you.
-FR: Même la sainte-nitouche ne te sauvera pas.
+FR: Même un « sapristi » ne te sauvera pas.
 
 EN: Can we stop fighting? I have some good wine for you...
 FR: Peut-on arrêter de se battre ? J’ai du bon vin pour toi...
@@ -203,7 +203,7 @@ EN: Work for me? I pay good.
 FR: Travailler pour moi ? Moi bien payer.
 
 EN: Taste the thunder!
-FR: Goûtez le tonnerre !
+FR: Goûte le tonnerre !
 
 EN: Zap! Ha ha ha, made you jump.
 FR: Bzzzt ! Ha ha ha, je t’ai fait sursauter.
@@ -260,13 +260,13 @@ EN: I've come back once... I'll do it again!
 FR: Je suis revenu une fois... je le referai !
 
 EN: Leave now, and tell all of Maggie's mercy!
-FR: Partez maintenant, et dites à tous la clémence de Maggie !
+FR: Pars maintenant, et dis à tous la clémence de Maggie !
 
 EN: Fear not. I will immortalise you in the tale of my first kill.
 FR: N’aie crainte. Je t’immortaliserai dans le récit de mon premier meurtre.
 
 EN: If you die in the Dungeon, but nobody's around to see it, does it really matter?
-FR: Si tu meurs dans le Donjon, mais que personne n’est là pour le voir, est-ce que ça compte vraiment ?
+FR: Si tu meurs dans le Dungeon, mais que personne n’est là pour le voir, est-ce que ça compte vraiment ?
 
 EN: Did Master Lance send you?
 FR: Maître Lance t’a-t-il envoyé ?
@@ -305,13 +305,13 @@ EN: I am one who seeks the Path and the Right.
 FR: Je suis celui qui cherche la Voie et le Droit.
 
 EN: Thou art lean, ill-favoured, death is in thy neighbourhood!
-FR: Tu es maigre, disgracieux, la mort est ton voisinage !
+FR: Tu es maigre, disgracieux, la mort est dans ton voisinage !
 
 EN: Difficult is the way of exertion, difficult to pass, difficult to enter upon.
 FR: Difficile est la voie de l’effort, difficile à franchir, difficile à entreprendre.
 
 EN: Stop! In seven days from now the wheel of empire will appear!
-FR: Arrêtez ! Dans sept jours, la roue de l’empire apparaîtra !
+FR: Arrête ! Dans sept jours, la roue de l’empire apparaîtra !
 
 EN: I am lord over the four continents and the two thousand adjacent isles.
 FR: Je suis le seigneur des quatre continents et des deux mille îles voisines.
@@ -383,7 +383,7 @@ EN: These cerements are ticklish...
 FR: Ces bandelettes chatouillent...
 
 EN: Let me perform the rites...
-FR: Laissez-moi accomplir les rites...
+FR: Laisse-moi accomplir les rites...
 
 EN: It doesn't hurt if you pull your brain out of your nose yourself.
 FR: Ça ne fait pas mal si tu sors toi-même ton cerveau par le nez.
@@ -533,7 +533,7 @@ EN: Hm, I wonder if you're conductive.
 FR: Hm, je me demande si tu es conducteur.
 
 EN: Tell us... who... we are....
-FR: Dites-nous... qui... nous sommes....
+FR: Dis-nous... qui... nous sommes....
 
 EN: Give us... back... our names!
 FR: Rendez-nous... nos noms !
@@ -563,13 +563,13 @@ EN: Life is just suffering. I'll help you.
 FR: La vie n’est que souffrance. Je vais t’aider.
 
 EN: Rejoin the cosmic current!
-FR: Rejoignez le courant cosmique !
+FR: Rejoins le courant cosmique !
 
 EN: Sometimes it's better to sink than to swim.
 FR: Parfois il vaut mieux couler que nager.
 
 EN: Breathe deeply.
-FR: Respirez profondément.
+FR: Respire profondément.
 
 EN: Peace! I bring you eternal peace!
 FR: La paix ! Je t’apporte la paix éternelle !
@@ -626,7 +626,7 @@ EN: Ooh, I'm jealous!
 FR: Ooh, je suis jaloux !
 
 EN: Enjoy eternity.
-FR: Profitez de l’éternité.
+FR: Profite de l’éternité.
 
 EN: I'll see you on the other side, friend.
 FR: On se verra de l’autre côté, ami.
@@ -680,7 +680,7 @@ EN: Asmodeus and me are pals. He gave me this whip.
 FR: Asmodée et moi sommes copains. Il m’a donné ce fouet.
 
 EN: Don't tell anyone, but I think Ereshkigal likes me.
-FR: Ne le répétez à personne, mais je crois qu’Ereshkigal m’aime bien.
+FR: Ne le répète à personne, mais je crois qu’Ereshkigal m’aime bien.
 
 EN: Antaeus said I was his favorite kobold. Me!
 FR: Antée a dit que j’étais son kobold préféré. Moi !
@@ -725,16 +725,16 @@ EN: You're just another fly to me.
 FR: Tu n’es qu’une mouche de plus pour moi.
 
 EN: Go! Away!
-FR: Allez ! Partez !
+FR: Va-t’en !
 
 EN: My home! Leave!
-FR: Ma maison ! Partez !
+FR: Ma maison ! Va-t’en !
 
 EN: Don't hit me!
-FR: Ne me frappez pas !
+FR: Ne me frappe pas !
 
 EN: My dungeon! Leave!
-FR: Mon donjon ! Partez !
+FR: Mon donjon ! Va-t’en !
 
 EN: Me hang you on necklace!
 FR: Moi pendre toi en collier !
@@ -752,7 +752,7 @@ EN: At least I didn't end up somewhere with nobody to talk to.
 FR: Au moins je ne me suis pas retrouvé quelque part sans personne à qui parler.
 
 EN: Come nearer, honey, I don't have a heart of stone.
-FR: Approchez, mon cœur, je n’ai pas un cœur de pierre.
+FR: Approche, mon cœur, je n’ai pas un cœur de pierre.
 
 EN: Could you be a darling and pick up this talisman for me?
 FR: Pourrais-tu être un amour et me ramasser ce talisman ?
@@ -827,7 +827,7 @@ EN: Down here, you're an orc or you're nobody.
 FR: Ici en bas, tu es orc ou tu n’es personne.
 
 EN: In the orcish mines, orcs kill the likes of YOU!
-FR: Dans les mines orques, les orcs tuent les gens COMME VOUS !
+FR: Dans les mines orques, les orcs tuent les gens COMME TOI !
 
 EN: Orcs! Behind me!
 FR: Orcs ! Derrière moi !
@@ -845,7 +845,7 @@ EN: In the name of Beogh, DIE!
 FR: Au nom de Beogh, MEURS !
 
 EN: Join me or die!
-FR: Rejoignez-moi ou mourez !
+FR: Rejoins-moi ou meurs !
 
 EN: You dare challenge my right as the Messiah?
 FR: Oses-tu défier mon droit de Messie ?

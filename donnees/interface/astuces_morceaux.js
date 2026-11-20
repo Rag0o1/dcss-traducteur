@@ -4,7 +4,7 @@ globalThis.DCSS_TRADUCTIONS = globalThis.DCSS_TRADUCTIONS || {};
 globalThis.DCSS_TRADUCTIONS.astuces_morceaux = {
 "~Welcome to Dungeon Crawl!": "Bienvenue dans Dungeon Crawl !",
 "~Your objective is to lead your": "Votre objectif est de mener votre",
-"~safely through the depths of the dungeon, retrieving the fabled Orb of Zot and returning it to the surface.": "en sécurité à travers les profondeurs du donjon, de récupérer la légendaire Orbe de Zot et de la rapporter à la surface.",
+"~safely through the depths of the dungeon, retrieving the fabled Orb of Zot and returning it to the surface.": "en sécurité à travers les profondeurs du donjon, de récupérer le légendaire Orbe de Zot et de le rapporter à la surface.",
 "~In the beginning, however, let discovery be your main goal.": "Au début, cependant, faites de la découverte votre but principal.",
 "~Try to delve as deeply as possible but beware; death lurks around every corner.": "Essayez de descendre aussi profondément que possible, mais prenez garde ; la mort rôde à chaque coin.",
 "~For the moment, just remember the following keys and their functions:": "Pour le moment, retenez simplement les touches suivantes et leurs fonctions :",

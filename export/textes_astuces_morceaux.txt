@@ -5,7 +5,7 @@ EN: ~Your objective is to lead your
 FR: Votre objectif est de mener votre
 
 EN: ~safely through the depths of the dungeon, retrieving the fabled Orb of Zot and returning it to the surface.
-FR: en sécurité à travers les profondeurs du donjon, de récupérer la légendaire Orbe de Zot et de la rapporter à la surface.
+FR: en sécurité à travers les profondeurs du donjon, de récupérer le légendaire Orbe de Zot et de le rapporter à la surface.
 
 EN: ~In the beginning, however, let discovery be your main goal.
 FR: Au début, cependant, faites de la découverte votre but principal.

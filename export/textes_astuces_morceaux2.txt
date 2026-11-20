@@ -194,7 +194,7 @@ EN: ~Remember to rest when your Magic is low.
 FR: Pensez à vous reposer quand votre Magie est basse.
 
 EN: ~Don't forget to go berserk when fighting particularly difficult foes.
-FR: N’oubliez pas de entrer en berserk face à des ennemis particulièrement difficiles.
+FR: N’oubliez pas d’entrer en berserk face à des ennemis particulièrement difficiles.
 
 EN: ~It's risky, but makes you faster and beefier.
 FR: C’est risqué, mais cela vous rend plus rapide et plus robuste.
@@ -275,7 +275,7 @@ EN: ~Unlike other gods, Uskayaw's favour cannot be gradually gained as you explo
 FR: Contrairement aux autres dieux, la faveur d’Uskayaw ne se gagne pas progressivement en explorant le donjon ou en tuant des monstres.
 
 EN: ~Instead, piety with Uskayaw is gained rapidly in combat as you deal damage.
-FR: La piété envers Uskayaw se gagne plutôt rapidement au combat en infligeant des dégâts.
+FR: Au lieu de cela, la piété envers Uskayaw se gagne rapidement au combat en infligeant des dégâts.
 
 EN: ~The longer you remain in combat and the more damage you deal, the greater the powers you will be offered.
 FR: Plus vous restez longtemps au combat et plus vous infligez de dégâts, plus les pouvoirs qui vous sont offerts sont grands.
@@ -440,7 +440,7 @@ EN: ~You can cast memorised spells via leftclick, and read their descriptions an
 FR: Vous pouvez lancer les sorts mémorisés d’un clic gauche, et lire leurs descriptions et vérifier votre maîtrise en les survolant ou d’un clic droit
 
 EN: ~Gaining experience levels and raising your Spellcasting skill gives you spell slots to spend on spells.
-FR: Gagner des niveaux d’expérience et améliorer votre compétence de Sorcellerie vous donne des emplacements de sorts à dépenser.
+FR: Gagner des niveaux d’expérience et améliorer votre compétence de Magie vous donne des emplacements de sorts à dépenser.
 
 EN: ~Read the scroll (with
 FR: Lisez le parchemin (avec
@@ -467,7 +467,7 @@ EN: ~At experience level 3, you'll be able to increase one of your stats — cho
 FR: Au niveau d’expérience 3, vous pourrez augmenter l’une de vos caractéristiques : choisir l’Intelligence aidera encore plus vos sorts.
 
 EN: ~Mephitic Cloud is a level 3 spell, so you can't memorise it yet.
-FR: Nuage méphitique est un sort de niveau 3 : vous ne pouvez pas encore le mémoriser.
+FR: Mephitic Cloud est un sort de niveau 3 : vous ne pouvez pas encore le mémoriser.
 
 EN: ~To level up quickly, here are more training dummies — without stones to throw this time.
 FR: Pour monter vite de niveau, voici d’autres mannequins d’entraînement, sans pierres à lancer cette fois.
@@ -485,10 +485,10 @@ EN: ~Try to let your ally do the killing!
 FR: Essayez de laisser votre allié faire le travail !
 
 EN: ~Your summons will only stick around for a short time, so don't wait too long, or refresh your summon by casting it again before starting a fight.
-FR: Vos invocations ne restent que peu de temps : n’attendez pas trop, ou renouvelez-les en relançant le sort avant de commencer un combat.
+FR: Vos alliés convoqués ne restent que peu de temps : n’attendez pas trop, ou renouvelez-les en relançant le sort avant de commencer un combat.
 
 EN: ~For example, your summoned imps are resistant to poison, so you can cast Mephitic Cloud to fight alongside them without harming your allies.
-FR: Par exemple, vos diablotins convoqués résistent au poison : vous pouvez lancer Nuage méphitique pour combattre à leurs côtés sans blesser vos alliés.
+FR: Par exemple, vos diablotins convoqués résistent au poison : vous pouvez lancer Mephitic Cloud pour combattre à leurs côtés sans blesser vos alliés.
 
 EN: ~If necessary, rest up with
 FR: Si nécessaire, reposez-vous avec

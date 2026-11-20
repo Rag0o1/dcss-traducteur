@@ -242,7 +242,7 @@ globalThis.DCSS_TRADUCTIONS.citations_1 = {
 "You must not succeed where I failed!": "Tu ne dois pas réussir là où j’ai échoué !",
 "There is no future for you.": "Il n’y a pas d’avenir pour toi.",
 "I was like you once.": "J’étais comme toi, autrefois.",
-"Very impressive. But it won't help. Nothing will.": "Très impressionnant. Mais ça n’y changera rien. Rien n’y changera rien.",
+"Very impressive. But it won't help. Nothing will.": "Très impressionnant. Mais ça n’y changera rien. Rien n’y fera.",
 "I have seen your future, and it is all used up.": "J’ai vu ton avenir, et il est épuisé.",
 "Do you think the gods will protect you?": "Penses-tu que les dieux te protégeront ?",
 "I'll kill anyone who wants the ORB!": "Je tuerai quiconque veut l’ORBE !",

@@ -62,7 +62,7 @@ EN: The Vaults look kind of boring.
 FR: Les Vaults ont l’air plutôt ennuyeux.
 
 EN: I can never work out what any of these scrolls mean.
-FR: Je ne comprends jamais ce que veut dire aucun de ces parchemins.
+FR: Je ne comprends jamais ce que signifie aucun de ces parchemins.
 
 EN: What lunatic would build a room out of doors?
 FR: Quel fou construirait une pièce faite de portes ?
@@ -104,10 +104,10 @@ EN: My legs! My legs! What happened to my legs?
 FR: Mes jambes ! Mes jambes ! Qu’est-il arrivé à mes jambes ?
 
 EN: Don't use me like a cheap sock puppet. I hate that.
-FR: Ne m’utilisez pas comme une marionnette en chaussette. Je déteste ça.
+FR: Ne m’utilise pas comme une marionnette en chaussette. Je déteste ça.
 
 EN: Everybody knows that one already. Try something more original.
-FR: Tout le monde connaît déjà celle-là. Essayez quelque chose de plus original.
+FR: Tout le monde connaît déjà celle-là. Essaie quelque chose de plus original.
 
 EN: I'm dying. I hate that.
 FR: Je meurs. Je déteste ça.
@@ -182,7 +182,7 @@ EN: I will avenge him!
 FR: Je le vengerai !
 
 EN: I will journey to Hell to retrieve him!
-FR: J’irai en Enfer pour le ramener !
+FR: J’irai au Hell pour le ramener !
 
 EN: What have I done? What have I done?
 FR: Qu’ai-je fait ? Qu’ai-je fait ?
@@ -341,7 +341,7 @@ EN: I will die for my friends!
 FR: Je mourrai pour mes amis !
 
 EN: To hell with you, honourless miscreant!
-FR: Allez au diable, scélérat sans honneur !
+FR: Va au diable, scélérat sans honneur !
 
 EN: How can you live without manners, virtues and honour?
 FR: Comment peux-tu vivre sans manières, sans vertus ni honneur ?
@@ -605,13 +605,13 @@ EN: No one appreciates my work.
 FR: Personne n’apprécie mon travail.
 
 EN: Wait up.
-FR: Attendez.
+FR: Attends.
 
 EN: Just stop there for a second...
 FR: Arrête-toi une seconde...
 
 EN: Don't move a muscle.
-FR: Ne bougez pas un muscle.
+FR: Ne bouge pas d’un muscle.
 
 EN: Tell me all your secrets, or I'll kill you.
 FR: Dis-moi tous tes secrets, ou je te tue.
@@ -680,7 +680,7 @@ EN: I don't have all day!
 FR: Je n’ai pas toute la journée !
 
 EN: Just give up already, I want to go home!
-FR: Abandonnez, que je rentre chez moi !
+FR: Abandonne, que je rentre chez moi !
 
 EN: I was hoping my final job would be more of a challenge, but money is money.
 FR: J’espérais que mon dernier travail serait plus un défi, mais l’argent, c’est l’argent.
@@ -692,7 +692,7 @@ EN: Let's make it quick, okay? I've got mouths to feed.
 FR: Faisons vite, d’accord ? J’ai des bouches à nourrir.
 
 EN: Listen, it's nothing personal. It's just a job.
-FR: Écoutez, ce n’est rien de personnel. C’est juste un travail.
+FR: Écoute, ce n’est rien de personnel. C’est juste un travail.
 
 EN: This is so exciting! What a great way to end my career!
 FR: C’est tellement excitant ! Quelle belle façon de finir ma carrière !
@@ -818,7 +818,7 @@ EN: Won't you come swim with me?
 FR: Ne veux-tu pas venir nager avec moi ?
 
 EN: Come on in, the water's fine.
-FR: Venez, l’eau est bonne.
+FR: Viens, l’eau est bonne.
 
 EN: To sleep, to sleep... mayhap to drown.
 FR: Dormir, dormir... peut-être se noyer.
@@ -833,7 +833,7 @@ EN: Catch me, touch me, love me, feed me!
 FR: Attrapez-moi, touchez-moi, aimez-moi, nourrissez-moi !
 
 EN: Don't trust the tales, trust me!
-FR: Ne croyez pas les contes, croyez-moi !
+FR: Ne crois pas les contes, crois-moi !
 
 EN: There's nothing like you and me, on the beach...
 FR: Il n’y a rien de tel que toi et moi, sur la plage...
