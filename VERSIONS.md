@@ -11,6 +11,10 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.25.11 — « en enfer » en minuscule
+
+- Les expressions gardent « enfer » en minuscule : « À bientôt en enfer ! », « décoration en enfer », « forgée en enfer », « élevé en enfer ».
+
 ## 0.25.10 — relecture des répliques, de l’aide et du tutoriel
 
 - Relecture de 2 987 textes (répliques des monstres et des fantômes, aide, FAQ, tutoriel, astuces, citations du domaine public) : 112 corrections.

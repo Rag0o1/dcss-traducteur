@@ -140,7 +140,7 @@ EN: I will never die! I am immortal!
 FR: Je ne mourrai jamais ! Je suis immortel !
 
 EN: I'll use your head as a decoration in Hell!
-FR: J’utiliserai ta tête comme décoration en Enfer !
+FR: J’utiliserai ta tête comme décoration en enfer !
 
 EN: How about some decapitation?
 FR: Que dirais-tu d’une décapitation ?
@@ -698,7 +698,7 @@ EN: Another soul for the market.
 FR: Une âme de plus pour le marché.
 
 EN: See you in Hell!
-FR: À bientôt en Enfer !
+FR: À bientôt en enfer !
 
 EN: You will make a great snack!
 FR: Tu feras un excellent casse-croûte !

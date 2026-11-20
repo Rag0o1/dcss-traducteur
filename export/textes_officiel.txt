@@ -1280,7 +1280,7 @@ EN: An extremely cold blob of bright blue cytoplasm, forming bits of frost in th
 FR: Un blob extrêmement froid et d’un cytoplasme bleu clair, formant des morceaux de gel dans l’air autour de lui.
 
 EN: An extremely large and aggressive swine, bred in Hell, whose breath burns its foes to ash.
-FR: Un porc extrêmement gros et agressif, élevé en Enfer, dont le souffle réduit ses ennemis en cendres.
+FR: Un porc extrêmement gros et agressif, élevé en enfer, dont le souffle réduit ses ennemis en cendres.
 
 EN: An icky glob of slime that slithers along the ground. It can merge with other slime creatures to become dramatically more dangerous, and is especially likely to do so in confined spaces.
 FR: Un amas visqueux de slime qui rampe sur le sol. Il peut fusionner avec d’autres créatures de slime pour devenir bien plus dangereux, et le fait surtout dans les espaces confinés.

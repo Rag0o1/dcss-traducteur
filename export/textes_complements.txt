@@ -1109,7 +1109,7 @@ EN: A bright ruby sceptre, carrying some of the powers of the arch-fiend Asmodeu
 FR: Un sceptre de rubis éclatant, qui porte une partie des pouvoirs de l’archidémon Asmodeus. Il peut faire venir des démons de feu de leur demeure infernale pour exécuter les ordres du porteur.
 
 EN: A blade forged in Hell by the sacrifice of countless tortured souls. It inflicts the rage and suffering of those souls upon its wielder.
-FR: Une lame forgée en Enfer par le sacrifice d’innombrables âmes torturées. Elle inflige à son porteur la rage et la souffrance de ces âmes.
+FR: Une lame forgée en enfer par le sacrifice d’innombrables âmes torturées. Elle inflige à son porteur la rage et la souffrance de ces âmes.
 
 EN: A scimitar with a mysteriously smoking blade. Occasionally its heat leaks out, covering opponents in magical flame.
 FR: Un cimeterre à la lame mystérieusement fumante. Parfois sa chaleur s’échappe, couvrant les adversaires de flammes magiques.
@@ -1118,7 +1118,7 @@ EN: Soon after falling, Yredelemnul attempted to twist holy energy into a dark m
 FR: Peu après sa chute, Yredelemnul tenta de tordre l’énergie sainte en une sombre parodie d’elle-même, la retournant contre ses progéniteurs et l’affaiblissant contre les morts-vivants et les démons. On découvrit trop tard qu’une perversion aussi complète était incontrôlable ; la flamme impure déstabilisa ou détruisit tout ce dans quoi elle fut infusée, sauf plusieurs sujets d’essai démoniaques et une arme sainte volée. Une version moindre, et plus stable, de l’énergie noire s’avéra plus maniable, et devint l’ombre de Yredelemnul. Voici cette arme : une étoile du soir dont la lumière a fui depuis longtemps, malgré son nom, et une ombre qui repousse ceux que sa lumière réconfortait autrefois...
 
 EN: A blade forged in Hell by the sacrifice of countless tortured souls. It fills its wielder with the rage and suffering of those souls, and gorges itself further on drained life force every time it strikes, leaving behind a mess of blood and gore.
-FR: Une lame forgée en Enfer par le sacrifice d’innombrables âmes torturées. Elle emplit son porteur de la rage et de la souffrance de ces âmes, et se gorge encore de force vitale drainée à chaque coup, laissant derrière elle un désordre de sang et de viscères.
+FR: Une lame forgée en enfer par le sacrifice d’innombrables âmes torturées. Elle emplit son porteur de la rage et de la souffrance de ces âmes, et se gorge encore de force vitale drainée à chaque coup, laissant derrière elle un désordre de sang et de viscères.
 
 EN: A dagger made of one huge shard of sapphire. It covers opponents in ice, slowing down their movement somewhat.
 FR: Une dague faite d’un unique énorme éclat de saphir. Elle recouvre les adversaires de glace, ralentissant quelque peu leur mouvement.
