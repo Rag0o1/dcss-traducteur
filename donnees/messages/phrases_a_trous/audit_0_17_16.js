@@ -16,7 +16,7 @@
         "Anything else - Cancel.": "Autre touche - Annuler.",
         "g - Guard the area. f - Follow me.": "g - Garder la zone. f - Me suivre.",
         "r - Retreat! s - Stop attacking.": "r - Retraite ! s - Cesser d’attaquer.",
-        "Ancestor HP restored.": "PV de l’ancêtre restaurés.",
+        "Ancestor HP restored.": "HP de l’ancêtre restaurés.",
         "Key pressed, stopping explore.": "Touche pressée, exploration interrompue.",
         "Hail of Bullets": "Grêle de balles",
         "Young Poisoner's Handbook": "Manuel du jeune empoisonneur",

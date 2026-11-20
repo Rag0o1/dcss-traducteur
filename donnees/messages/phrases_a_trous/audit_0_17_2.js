@@ -150,7 +150,7 @@
         "There is a cloud of sparse dust here.": "Il y a un nuage de poussière clairsemée ici.",
         "Upheaval": "Bouleversement", "Elemental Force": "Force élémentaire", "Eye of the Storm": "Œil de la tempête", "Prince Ribbit catches": "Prince Ribbit attrape",
         "boomerangs": "des boomerangs", "boomerang": "un boomerang",
-        "Skill Regen Shed Tail HP Distraction Stab Chance": "Compétence Régén. Perte de queue PV Distraction Chance de coup",
+        "Skill Regen Shed Tail HP Distraction Stab Chance": "Compétence Régén. Perte de queue HP Distraction Chance de coup",
     };
     for (const [en, fr] of Object.entries(FIXE)) if (!(en in T)) T[en] = fr;
     R.push({ regex: /^\((\d+)\/(\d+) uses available\)$/, translate: m => `(${m[1]}/${m[2]} utilisations disponibles)` });
@@ -162,7 +162,7 @@
     R.push({ regex: /^([a-zA-Z]) ([*+-]) ([A-Z][A-Za-z&' ]+?) (\d+(?:\.\d)?)$/, translate: m => { const n = COMP[m[3]] || traduit(m[3]); return n ? `${m[1]} ${m[2]} ${n} ${m[4]}` : null; } });
     R.push({ regex: /^([a-z]) \* ([A-Z][A-Za-z&' ]+)$/, translate: m => { const n = COMP[m[2]] || traduit(m[2]); return n ? `${m[1]} * ${n}` : null; } });
     R.push({ regex: /^([a-z]) - ([A-Z][A-Za-z' ]+?) (\d+) (HP|MP), Piety(-*) ?(\d+)%$/, translate: m => {
-        const n = traduit(m[2]) || T[m[2]]; if (!n) return null; return `${m[1]} - ${n} ${m[3]} ${m[4] === "HP" ? "PV" : "PM"}, Piété${m[5]} ${m[6]} %`; } });
+        const n = traduit(m[2]) || T[m[2]]; if (!n) return null; return `${m[1]} - ${n} ${m[3]} ${m[4] === "HP" ? "HP" : "MP"}, Piété${m[5]} ${m[6]} %`; } });
 
     globalThis.DCSS_TRADUCTION_REGLES = (globalThis.DCSS_TRADUCTION_REGLES || []).concat(R.filter(r => typeof r.translate === "function"));
 })();

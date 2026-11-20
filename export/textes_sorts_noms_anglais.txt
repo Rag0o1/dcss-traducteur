@@ -14,7 +14,7 @@ EN: Your Unleash Destruction is empowered the more times you use it consecutivel
 FR: Votre Unleash Destruction est renforcé chaque fois que vous l’utilisez consécutivement sans pause, augmentant à la fois les dégâts et le coût en santé. À la quatrième utilisation d’affilée, vous déchaînez automatiquement un tir de barrage sauvage de traits supplémentaires visant des cibles aléatoires et ce bonus est réinitialisé.
 
 EN: Whenever you first spot a monster, it has a chance to become Touched by Paradox, giving it the ability to use Manifold Assault as a natural ability (and a small chance to blink randomly after doing so).
-FR: Chaque fois que vous repérez un monstre pour la première fois, il a une chance d’être Touché par le Paradoxe, ce qui lui donne la capacité d’utiliser Manifold Assault comme capacité naturelle (et une petite chance de se téléporter au hasard après l’avoir fait).
+FR: Chaque fois que vous repérez un monstre pour la première fois, il a une chance d’être Touché par le Paradoxe, ce qui lui donne la capacité d’utiliser Manifold Assault comme capacité naturelle (et une petite chance de faire un Blink au hasard après l’avoir fait).
 
 EN: Conjures two explosive magical effects in instant succession. The effects can be any mix of Fireball, Iceblast, and Ghostly Fireball.
 FR: Conjure deux effets magiques explosifs en succession instantanée. Les effets peuvent être n’importe quelle combinaison de Fireball, d’Iceblast et de Ghostly Fireball.
@@ -32,7 +32,7 @@ EN: ~Reavers start with a weapon of their choice and deadly magic to supplement 
 FR: Les Saccageurs commencent avec l’arme de leur choix et une magie mortelle pour la compléter en cas de besoin. Ils commencent avec le sort Kiss of Death.
 
 EN: ~Your Infernal Servant ability is replaced with Globe of Annihilation, allowing you to hurl slow-moving spheres of intense destructive force that detonate in an enormous blast of your characteristic Destruction.
-FR: Votre capacité Infernal Servant est remplacée par Globe of Annihilation, qui vous permet de lancer des sphères lentes d’une intense force destructrice qui détonent en une énorme explosion de votre Destruction caractéristique.
+FR: Votre capacité Serviteur infernal est remplacée par Globe of Annihilation, qui vous permet de lancer des sphères lentes d’une intense force destructrice qui détonent en une énorme explosion de votre Destruction caractéristique.
 
 EN: A parchment of Blink.
 FR: Un parchemin de Blink.

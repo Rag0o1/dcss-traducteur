@@ -431,7 +431,7 @@ EN: toxic sludge
 FR: boue toxique
 
 EN: umbral torchlight
-FR: lueur de torche ombrale
+FR: lueur de torche ombreuse
 
 EN: unravelling
 FR: effilochage

@@ -32,7 +32,7 @@ EN: Speaks a word of chaos, forcing enemies nearby to blink away from the user. 
 FR: Prononce un mot de chaos, forçant les ennemis proches à faire un Blink loin de l’utilisateur. De plus, ceux qui sont affectés peuvent être ralentis, entravés ou terrifiés par l’expérience. Invoquer un mot de chaos n’est pas chose facile et draine quelque peu la santé maximale de l’utilisateur, et la capacité ne peut ensuite être réutilisée avant un court moment.
 
 EN: Heals the user significantly, with a chance of permanently reducing the user's maximum magic capacity by one.
-FR: Soigne considérablement l’utilisateur, avec une chance de réduire définitivement de un sa capacité magique maximale.
+FR: Soigne considérablement l’utilisateur, avec une chance de réduire définitivement d’un point sa capacité magique maximale.
 
 EN: Allows making tunnels through soft rock and rusted grates. Activating the ability has no cost and simply prepares you to start digging; once active, moving into a wall will start tunnelling. Doing so makes some noise and drains the user's maximum health. Once active, activating the ability again or making any non-digging movement action will cancel the Dig status.
 FR: Permet de creuser des tunnels dans la roche tendre et les grilles rouillées. Activer la capacité ne coûte rien et vous prépare simplement à commencer à creuser ; une fois active, avancer dans un mur commence le creusement. Cela fait du bruit et draine la santé maximale de l’utilisateur. Une fois active, réactiver la capacité ou effectuer toute action de déplacement autre que creuser annulera l’état de creusement.
@@ -98,13 +98,13 @@ EN: Acquires a piece of armour from a choice of four. This blessing may only be 
 FR: Obtient une pièce d’armure parmi un choix de quatre. Cette bénédiction ne peut être échangée qu’une fois.
 
 EN: Beckons a demon from the far reaches of Hell and binds it into service with your blood. At low Invocations skill, only lesser devils may be summoned, but major demons and even executioners may answer the call of those with high Invocations skill. Beware that the armies of chaos are prone to infighting, and sometimes a hostile demon may answer the ritual alongside your summoned servant.
-FR: Appelle un démon des confins du Hell et le lie à votre service avec votre sang. À faible compétence Invocations, seuls de moindres diables peuvent être convoqués, mais de grands démons et même des bourreaux peuvent répondre à l’appel de ceux qui ont une compétence Invocations élevée. Attention : les armées du chaos sont enclines aux querelles internes, et un démon hostile peut parfois répondre au rituel aux côtés de votre serviteur convoqué.
+FR: Appelle un démon des confins du Hell et le lie à votre service avec votre sang. À faible compétence Invocations, seuls de moindres diables peuvent être convoqués, mais de grands démons et même des exécuteurs peuvent répondre à l’appel de ceux qui ont une compétence Invocations élevée. Attention : les armées du chaos sont enclines aux querelles internes, et un démon hostile peut parfois répondre au rituel aux côtés de votre serviteur convoqué.
 
 EN: Permanently carves an Infernal Mark into yourself, forever tainting body and soul in service of the Destroyer. So long as you continue to worship Makhleb, this mark will grant you the following power:
 FR: Grave définitivement une Marque infernale sur vous, souillant à jamais corps et âme au service du Destructeur. Tant que vous continuez à vénérer Makhleb, cette marque vous accordera le pouvoir suivant :
 
 EN: Uses one's own body as a conduit to unleash an army of chaos upon the world. For a short while, lesser demons will continuously manifest near the user - provided there is something around for them to fight. While these demons may be individually short-lived, the legions of chaos as a whole are virtually inexhaustible.
-FR: Utilise son propre corps comme conduit pour déchaîner une armée de chaos sur le monde. Pendant un court moment, des démons mineurs se manifesteront continuellement près de l’utilisateur, à condition qu’il y ait quelque chose à combattre. Si ces démons peuvent avoir chacun une vie brève, les légions du chaos dans leur ensemble sont virtuellement inépuisables.
+FR: Utilise son propre corps comme conduit pour déchaîner une armée de chaos sur le monde. Pendant un court moment, des démons mineurs se manifesteront continuellement près de l’utilisateur, à condition qu’il y ait quelque chose à combattre. Même si ces démons ont chacun une vie brève, les légions du chaos dans leur ensemble sont virtuellement inépuisables.
 
 EN: Invokes a blood pact with the Destroyer, temporarily granting you enormous power at a dangerous price. At the moment the pact is sealed, a massive explosion of damnation will surround you, and you will transform into a demonic avatar, granting you demonic resistances, invulnerable will, doubled healing from kills, and reducing all damage you take by 1/3. You will additionally gain a bonus to all outgoing damage proportional to how injured you were when you used this ability. When your transformation expires, you will be dragged down into the Crucible of Flesh, and made to fight through waves of demons until Makhleb considers your debt paid.
 FR: Invoque un pacte de sang avec le Destructeur, vous accordant temporairement une puissance énorme à un prix dangereux. Au moment où le pacte est scellé, une énorme explosion de damnation vous entourera, et vous vous transformerez en avatar démoniaque, vous accordant des résistances démoniaques, une volonté invulnérable, une guérison doublée par les morts, et réduisant de 1/3 tous les dégâts que vous subissez. Vous gagnerez en outre un bonus à tous les dégâts infligés proportionnel à votre degré de blessure quand vous avez utilisé cette capacité. À l’expiration de votre transformation, vous serez entraîné dans le Creuset de Chair et contraint de combattre des vagues de démons jusqu’à ce que Makhleb estime votre dette payée.
@@ -113,7 +113,7 @@ EN: Dramatically increases the user's regeneration of magical power for a durati
 FR: Augmente considérablement la régénération de puissance magique de l’utilisateur pendant une durée qui augmente avec la compétence Lancer de sorts.
 
 EN: Casts any spell from your spell library with guaranteed success. You receive a bonus to spell power based on your Spellcasting skill that is worth the same as equivalent levels of training in the relevant skills of the spell itself. For a short time afterward, you may recast the same spell (using the Recast ability), at a greatly reduced piety cost.
-FR: Lance n’importe quel sort de votre bibliothèque de sorts avec un succès garanti. Vous recevez un bonus à la puissance du sort basé sur votre compétence Lancer de sorts, équivalent à autant de niveaux d’entraînement dans les compétences concernées du sort lui-même. Pendant un court moment ensuite, vous pouvez relancer le même sort (avec la capacité Relancer), pour un coût de piété fortement réduit.
+FR: Lance n’importe quel sort de votre bibliothèque de sorts avec un succès garanti. Vous recevez un bonus à la puissance du sort basé sur votre compétence Magie, équivalent à autant de niveaux d’entraînement dans les compétences concernées du sort lui-même. Pendant un court moment ensuite, vous pouvez relancer le même sort (avec la capacité Relancer), pour un coût de piété fortement réduit.
 
 EN: Summons huge angry allies to wreak havoc. The strength of the summoned allies increases with the user's experience level.
 FR: Convoque d’énormes alliés en colère pour semer le chaos. La force des alliés convoqués augmente avec le niveau d’expérience de l’utilisateur.
@@ -236,7 +236,7 @@ EN: Sacrifices your skills, causing you to have all of your skill aptitudes decr
 FR: Sacrifie vos compétences, diminuant d’un toutes vos aptitudes de compétence. Cela vous fera probablement perdre des rangs dans les compétences entraînées.
 
 EN: Sacrifices an eye, causing you to have a much harder time hitting targets.
-FR: Sacrifie un œil, vous rendant beaucoup plus difficile de toucher les cibles.
+FR: Sacrifie un œil, vous faisant avoir beaucoup plus de mal à toucher les cibles.
 
 EN: Sacrifices your resistance to extreme temperatures, causing you to become vulnerable to heat and cold.
 FR: Sacrifie votre résistance aux températures extrêmes, vous rendant vulnérable à la chaleur et au froid.
@@ -284,7 +284,7 @@ EN: Invokes a storm of heavenly clouds. While the storm rages, your evasion and 
 FR: Invoque une tempête de nuages célestes. Tant que la tempête fait rage, votre esquive, votre précision au combat et vos dégâts sont sensiblement augmentés, et frapper des ennemis avec des attaques martiales augmente ce bonus. La tempête s’affaiblit avec le temps et s’évanouit quand le bonus atteint zéro. Les nuages célestes empêchent l’invisibilité et obscurcissent la vision de ceux qui sont hors de la tempête.
 
 EN: Armours yourself in fire, providing +7 AC and searing foes foolish enough to strike you in melee. The fire takes quite a long time to burn out.
-FR: Vous revêt d’une armure de feu, procurant +7 CA et brûlant les ennemis assez fous pour vous frapper en mêlée. Le feu met assez longtemps à s’éteindre.
+FR: Vous revêt d’une armure de feu, procurant +7 AC et brûlant les ennemis assez fous pour vous frapper en mêlée. Le feu met assez longtemps à s’éteindre.
 
 EN: Conjures a swarm of animate flames all around you. These rapidly seek the nearest monsters, burning them. They will dissipate harmlessly if unable to reach a target or if you swap places with them.
 FR: Conjure un essaim de flammes animées tout autour de vous. Elles cherchent rapidement les monstres les plus proches, les brûlant. Elles se dissiperont sans danger si elles ne peuvent atteindre une cible ou si vous échangez votre place avec elles.
@@ -311,7 +311,7 @@ EN: Causes the caster to radiate toxic energy, continuously inflicting poison on
 FR: Fait irradier au lanceur une énergie toxique, empoisonnant continuellement tout ce qui est en ligne de vue tant que l’aura dure. La puissance de cette capacité dépend de la compétence Évocations, et cette capacité n’est disponible qu’en maniant le Bâton d’Olgreb.
 
 EN: Leaps through the air in the blink of an eye. While it is impossible to control your destination, the movement is so abrupt and agile that no monster will be able to land a blow on you until you can act again, and many may lose track of your position entirely. You must spend a short while recovering between each use of this ability.
-FR: Bondit dans les airs en un clin d’œil. S’il est impossible de contrôler votre destination, le mouvement est si brusque et agile qu’aucun monstre ne pourra vous porter un coup avant que vous puissiez agir de nouveau, et beaucoup peuvent même perdre complètement votre position. Vous devez passer un court moment à récupérer entre chaque utilisation de cette capacité.
+FR: Bondit dans les airs en un clin d’œil. S’il est impossible de contrôler votre destination, le mouvement est si brusque et agile qu’aucun monstre ne pourra vous porter un coup avant que vous puissiez agir de nouveau, et beaucoup peuvent même perdre complètement votre trace. Vous devez passer un court moment à récupérer entre chaque utilisation de cette capacité.
 
 EN: Turns all of the water near you into a surging tide that attempts to drown every enemy standing in or above it. Those who need air to breathe will also become Flooded, preventing them from casting spells affected by Silence for several turns and dealing minor asphyxiation damage. After using this ability, you must gain experience points before you can recover enough power to use it again.
 FR: Transforme toute l’eau proche de vous en une marée déferlante qui tente de noyer chaque ennemi se trouvant dedans ou au-dessus. Ceux qui ont besoin d’air pour respirer seront aussi Inondés, ce qui les empêche de lancer des sorts affectés par le Silence pendant plusieurs tours et inflige des dégâts mineurs d’asphyxie. Après avoir utilisé cette capacité, vous devez gagner des points d’expérience avant de récupérer assez de puissance pour la réutiliser.

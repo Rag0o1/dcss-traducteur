@@ -1352,7 +1352,7 @@ EN: An unusually magical sort of stick.
 FR: Un bâton d’un genre inhabituellement magique.
 
 EN: Armour skill multiplies the AC gained from wearing armour of all kinds, both from body armour and cloaks, gloves, etc. It also slightly lessens penalties to spellcasting and ranged weapon speed from heavy armour.
-FR: La compétence Armure multiplie la CA obtenue en portant des armures de tous types, qu’il s’agisse d’armures de corps, de capes, de gants, etc. Elle atténue aussi légèrement les pénalités au lancement de sorts et à la vitesse des armes à distance dues aux armures lourdes.
+FR: La compétence Armure multiplie l’AC obtenue en portant des armures de tous types, qu’il s’agisse d’armures de corps, de capes, de gants, etc. Elle atténue aussi légèrement les pénalités au lancement de sorts et à la vitesse des armes à distance dues aux armures lourdes.
 
 EN: Artificers start with a few magic wands and a club. They'll need to find better weapons and armour before their wands run out.
 FR: Les Artificiers commencent avec quelques baguettes magiques et un gourdin. Ils devront trouver de meilleures armes et armures avant d’épuiser leurs baguettes.

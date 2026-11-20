@@ -131,7 +131,7 @@
     R.push({ regex: /^[a-zA-Z][\w+ -]*(?:, [a-zA-Z][\w+ -]*)+$/, translate: m => {
         const out = []; let n = 0;
         for (const e of m.input.split(", ")) { let f = MUT[e];
-            if (!f) { const a = /^AC (\+\d+)$/.exec(e); if (a) f = `CA ${a[1]}`; }
+            if (!f) { const a = /^AC (\+\d+)$/.exec(e); if (a) f = `AC ${a[1]}`; }
             if (!f) { const q = /^armoured tail (\d)$/.exec(e); if (q) f = `queue blindée ${q[1]}`; }
             if (!f) { const t = T1(e); if (t && t !== e) f = t; }
             if (f) n++; out.push(f || e); }

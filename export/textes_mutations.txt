@@ -26,28 +26,28 @@ EN: A weak demonic guardian rushes to your aid.
 FR: Un faible gardien démoniaque accourt à votre aide.
 
 EN: Armour fits poorly on your large pseudopods.
-FR: Les armures s'adaptent mal à vos gros pseudopodes.
+FR: Les armures s’adaptent mal à vos gros pseudopodes.
 
 EN: Armour fits poorly on your massive pseudopods.
-FR: Les armures s'adaptent mal à vos énormes pseudopodes.
+FR: Les armures s’adaptent mal à vos énormes pseudopodes.
 
 EN: Armour fits poorly on your pseudopods.
-FR: Les armures s'adaptent mal à vos pseudopodes.
+FR: Les armures s’adaptent mal à vos pseudopodes.
 
 EN: Armour fits poorly on your strangely shaped body.
-FR: Les armures s'adaptent mal à votre corps aux formes étranges.
+FR: Les armures s’adaptent mal à votre corps aux formes étranges.
 
 EN: It takes a long time for you to wield or remove held weapons.
 FR: Il vous faut beaucoup de temps pour manier ou retirer les armes que vous tenez.
 
 EN: One of your tentacles bears a large vicious spike.
-FR: L'un de vos tentacules porte une grosse pointe meurtrière.
+FR: L’un de vos tentacules porte une grosse pointe meurtrière.
 
 EN: One of your tentacles bears a nasty spike.
-FR: L'un de vos tentacules porte une vilaine pointe.
+FR: L’un de vos tentacules porte une vilaine pointe.
 
 EN: One of your tentacles bears a spike.
-FR: L'un de vos tentacules porte une pointe.
+FR: L’un de vos tentacules porte une pointe.
 
 EN: Potions are less effective at restoring your health.
 FR: Les potions restaurent moins efficacement votre santé.
@@ -92,7 +92,7 @@ EN: Whenever you drink a healing potion, you attack all around you.
 FR: Chaque fois que vous buvez une potion de soin, vous attaquez tout autour de vous.
 
 EN: You absorb twice as much mutagenic energy from being contaminated.
-FR: Vous absorbez deux fois plus d'énergie mutagène lorsque vous êtes contaminé.
+FR: Vous absorbez deux fois plus d’énergie mutagène lorsque vous êtes contaminé.
 
 EN: You are agile. (Dex +4, Str/Int -1)
 FR: Vous êtes agile. (Dex +4, Str/Int -1)
@@ -107,7 +107,7 @@ EN: You are almost immune to the effects of heat. (rF+++)
 FR: Vous êtes presque immunisé contre les effets de la chaleur. (rF+++)
 
 EN: You are camouflaged when in or above water. (Stealth+)
-FR: Vous êtes camouflé lorsque vous êtes dans ou au-dessus de l'eau. (Stealth+)
+FR: Vous êtes camouflé lorsque vous êtes dans ou au-dessus de l’eau. (Stealth+)
 
 EN: You are clumsy. (Dex -3)
 FR: Vous êtes maladroit. (Dex -3)
@@ -122,34 +122,34 @@ EN: You are completely attuned to the shadows.
 FR: Vous êtes totalement lié aux ombres.
 
 EN: You are completely covered in icy blue scales. (AC +4, rC+)
-FR: Vous êtes entièrement couvert d'écailles bleu glacé. (AC +4, rC+)
+FR: Vous êtes entièrement couvert d’écailles bleu glacé. (AC +4, rC+)
 
 EN: You are completely covered in iridescent scales. (AC +6)
-FR: Vous êtes entièrement couvert d'écailles irisées. (AC +6)
+FR: Vous êtes entièrement couvert d’écailles irisées. (AC +6)
 
 EN: You are completely covered in large bone plates. (SH +8)
 FR: Vous êtes entièrement couvert de grandes plaques osseuses. (SH +8)
 
 EN: You are completely covered in molten scales. (AC +4, rF+)
-FR: Vous êtes entièrement couvert d'écailles en fusion. (AC +4, rF+)
+FR: Vous êtes entièrement couvert d’écailles en fusion. (AC +4, rF+)
 
 EN: You are completely covered in razor-sharp scales. (AC +3, Slay +3)
-FR: Vous êtes entièrement couvert d'écailles tranchantes comme des rasoirs. (AC +3, Slay +3)
+FR: Vous êtes entièrement couvert d’écailles tranchantes comme des rasoirs. (AC +3, Slay +3)
 
 EN: You are completely covered in rugged brown scales. (AC +3, +7% HP)
-FR: Vous êtes entièrement couvert d'écailles brunes robustes. (AC +3, +7% HP)
+FR: Vous êtes entièrement couvert d’écailles brunes robustes. (AC +3, +7% HP)
 
 EN: You are completely covered in sharp spines.
-FR: Vous êtes entièrement couvert d'épines acérées.
+FR: Vous êtes entièrement couvert d’épines acérées.
 
 EN: You are completely covered in slimy green scales. (AC +4, rPois)
-FR: Vous êtes entièrement couvert d'écailles vertes visqueuses. (AC +4, rPois)
+FR: Vous êtes entièrement couvert d’écailles vertes visqueuses. (AC +4, rPois)
 
 EN: You are completely covered in thin metallic scales. (AC +4, rElec)
 FR: Vous êtes entièrement couvert de fines écailles métalliques. (AC +4, rElec)
 
 EN: You are completely covered in yellow scales. (AC +4, rCorr)
-FR: Vous êtes entièrement couvert d'écailles jaunes. (AC +4, rCorr)
+FR: Vous êtes entièrement couvert d’écailles jaunes. (AC +4, rCorr)
 
 EN: You are covered in fur. (AC +1)
 FR: Vous êtes couvert de fourrure. (AC +1)
@@ -158,10 +158,10 @@ EN: You are covered in slimy tendrils that may disarm your opponents.
 FR: Vous êtes couvert de vrilles visqueuses qui peuvent désarmer vos adversaires.
 
 EN: You are covered in thick fur. (AC +2)
-FR: Vous êtes couvert d'une épaisse fourrure. (AC +2)
+FR: Vous êtes couvert d’une épaisse fourrure. (AC +2)
 
 EN: You are darkly shadowed, frequently releasing foul flame when damaged in melee.
-FR: Vous êtes profondément entouré d'ombres et libérez fréquemment des flammes immondes lorsque vous êtes blessé au corps à corps.
+FR: Vous êtes profondément entouré d’ombres et libérez fréquemment des flammes immondes lorsque vous êtes blessé au corps à corps.
 
 EN: You are dopey. (Int -3)
 FR: Vous êtes benêt. (Int -3)
@@ -185,7 +185,7 @@ EN: You are extremely strong-willed. (Will+++)
 FR: Vous avez une volonté extrêmement forte. (Will+++)
 
 EN: You are extremely unskilled. (-3 Apt)
-FR: Vous manquez cruellement d'aptitude. (-3 Apt)
+FR: Vous manquez cruellement d’aptitude. (-3 Apt)
 
 EN: You are extremely vulnerable to cold. (rC---)
 FR: Vous êtes extrêmement vulnérable au froid. (rC---)
@@ -197,7 +197,7 @@ EN: You are extremely weak-willed. (Will---)
 FR: Votre volonté est extrêmement faible. (Will---)
 
 EN: You are faintly shadowed, very rarely releasing foul flame when damaged in melee.
-FR: Vous êtes légèrement entouré d'ombres et libérez très rarement des flammes immondes lorsque vous êtes blessé au corps à corps.
+FR: Vous êtes légèrement entouré d’ombres et libérez très rarement des flammes immondes lorsque vous êtes blessé au corps à corps.
 
 EN: You are frail. (-10% HP)
 FR: Vous êtes frêle. (-10% HP)
@@ -218,7 +218,7 @@ EN: You are immune to freezing clouds.
 FR: Vous êtes immunisé contre les nuages glacés.
 
 EN: You are immune to negative energy. (rN+++)
-FR: Vous êtes immunisé contre l'énergie négative. (rN+++)
+FR: Vous êtes immunisé contre l’énergie négative. (rN+++)
 
 EN: You are immune to the effects of steam.
 FR: Vous êtes immunisé contre les effets de la vapeur.
@@ -242,34 +242,34 @@ EN: You are missing an eye, making it more difficult to aim.
 FR: Il vous manque un œil, ce qui rend la visée plus difficile.
 
 EN: You are mostly covered in icy blue scales. (AC +3)
-FR: Vous êtes en grande partie couvert d'écailles bleu glacé. (AC +3)
+FR: Vous êtes en grande partie couvert d’écailles bleu glacé. (AC +3)
 
 EN: You are mostly covered in iridescent scales. (AC +4)
-FR: Vous êtes en grande partie couvert d'écailles irisées. (AC +4)
+FR: Vous êtes en grande partie couvert d’écailles irisées. (AC +4)
 
 EN: You are mostly covered in large bone plates. (SH +6)
 FR: Vous êtes en grande partie couvert de grandes plaques osseuses. (SH +6)
 
 EN: You are mostly covered in molten scales. (AC +3)
-FR: Vous êtes en grande partie couvert d'écailles en fusion. (AC +3)
+FR: Vous êtes en grande partie couvert d’écailles en fusion. (AC +3)
 
 EN: You are mostly covered in razor-sharp scales. (AC +2, Slay +2)
-FR: Vous êtes en grande partie couvert d'écailles tranchantes comme des rasoirs. (AC +2, Slay +2)
+FR: Vous êtes en grande partie couvert d’écailles tranchantes comme des rasoirs. (AC +2, Slay +2)
 
 EN: You are mostly covered in rugged brown scales. (AC +2, +5% HP)
-FR: Vous êtes en grande partie couvert d'écailles brunes robustes. (AC +2, +5% HP)
+FR: Vous êtes en grande partie couvert d’écailles brunes robustes. (AC +2, +5% HP)
 
 EN: You are mostly covered in sharp spines.
-FR: Vous êtes en grande partie couvert d'épines acérées.
+FR: Vous êtes en grande partie couvert d’épines acérées.
 
 EN: You are mostly covered in slimy green scales. (AC +3)
-FR: Vous êtes en grande partie couvert d'écailles vertes visqueuses. (AC +3)
+FR: Vous êtes en grande partie couvert d’écailles vertes visqueuses. (AC +3)
 
 EN: You are mostly covered in thin metallic scales. (AC +3)
 FR: Vous êtes en grande partie couvert de fines écailles métalliques. (AC +3)
 
 EN: You are mostly covered in yellow scales. (AC +3)
-FR: Vous êtes en grande partie couvert d'écailles jaunes. (AC +3)
+FR: Vous êtes en grande partie couvert d’écailles jaunes. (AC +3)
 
 EN: You are occasionally teleported next to monsters.
 FR: Vous êtes parfois téléporté à côté de monstres.
@@ -278,43 +278,43 @@ EN: You are often teleported next to monsters.
 FR: Vous êtes souvent téléporté à côté de monstres.
 
 EN: You are partially covered in icy blue scales. (AC +2)
-FR: Vous êtes partiellement couvert d'écailles bleu glacé. (AC +2)
+FR: Vous êtes partiellement couvert d’écailles bleu glacé. (AC +2)
 
 EN: You are partially covered in iridescent scales. (AC +2)
-FR: Vous êtes partiellement couvert d'écailles irisées. (AC +2)
+FR: Vous êtes partiellement couvert d’écailles irisées. (AC +2)
 
 EN: You are partially covered in large bone plates. (SH +4)
 FR: Vous êtes partiellement couvert de grandes plaques osseuses. (SH +4)
 
 EN: You are partially covered in molten scales. (AC +2)
-FR: Vous êtes partiellement couvert d'écailles en fusion. (AC +2)
+FR: Vous êtes partiellement couvert d’écailles en fusion. (AC +2)
 
 EN: You are partially covered in razor-sharp scales. (AC +1, Slay +1)
-FR: Vous êtes partiellement couvert d'écailles tranchantes comme des rasoirs. (AC +1, Slay +1)
+FR: Vous êtes partiellement couvert d’écailles tranchantes comme des rasoirs. (AC +1, Slay +1)
 
 EN: You are partially covered in rugged brown scales. (AC +1, +3% HP)
-FR: Vous êtes partiellement couvert d'écailles brunes robustes. (AC +1, +3% HP)
+FR: Vous êtes partiellement couvert d’écailles brunes robustes. (AC +1, +3% HP)
 
 EN: You are partially covered in sharp spines.
-FR: Vous êtes partiellement couvert d'épines acérées.
+FR: Vous êtes partiellement couvert d’épines acérées.
 
 EN: You are partially covered in slimy green scales. (AC +2)
-FR: Vous êtes partiellement couvert d'écailles vertes visqueuses. (AC +2)
+FR: Vous êtes partiellement couvert d’écailles vertes visqueuses. (AC +2)
 
 EN: You are partially covered in thin metallic scales. (AC +2)
 FR: Vous êtes partiellement couvert de fines écailles métalliques. (AC +2)
 
 EN: You are partially covered in yellow scales. (AC +2)
-FR: Vous êtes partiellement couvert d'écailles jaunes. (AC +2)
+FR: Vous êtes partiellement couvert d’écailles jaunes. (AC +2)
 
 EN: You are powered by pain.
 FR: Vous tirez votre puissance de la douleur.
 
 EN: You are quite resistant to negative energy. (rN++)
-FR: Vous résistez assez bien à l'énergie négative. (rN++)
+FR: Vous résistez assez bien à l’énergie négative. (rN++)
 
 EN: You are resistant to acid. (rCorr)
-FR: Vous résistez à l'acide. (rCorr)
+FR: Vous résistez à l’acide. (rCorr)
 
 EN: You are resistant to electric shocks. (rElec)
 FR: Vous résistez aux décharges électriques. (rElec)
@@ -332,7 +332,7 @@ EN: You are sensitive to extremes of temperature. (rF-, rC-)
 FR: Vous êtes sensible aux températures extrêmes. (rF-, rC-)
 
 EN: You are shadowed, sometimes releasing foul flame when damaged in melee.
-FR: Vous êtes entouré d'ombres et libérez parfois des flammes immondes lorsque vous êtes blessé au corps à corps.
+FR: Vous êtes entouré d’ombres et libérez parfois des flammes immondes lorsque vous êtes blessé au corps à corps.
 
 EN: You are significantly more attuned to the shadows.
 FR: Vous êtes nettement plus lié aux ombres.
@@ -347,13 +347,13 @@ EN: You are somewhat inexperienced. (-1 XL)
 FR: Vous êtes quelque peu inexpérimenté. (-1 XL)
 
 EN: You are somewhat resistant to both further mutation and mutation removal.
-FR: Vous résistez quelque peu aux mutations supplémentaires ainsi qu'à leur suppression.
+FR: Vous résistez quelque peu aux mutations supplémentaires ainsi qu’à leur suppression.
 
 EN: You are somewhat resistant to further mutation.
 FR: Vous résistez quelque peu aux mutations supplémentaires.
 
 EN: You are somewhat unskilled. (-1 Apt)
-FR: Vous manquez un peu d'aptitude. (-1 Apt)
+FR: Vous manquez un peu d’aptitude. (-1 Apt)
 
 EN: You are strong. (Str +4, Int/Dex -1)
 FR: Vous êtes fort. (Str +4, Int/Dex -1)
@@ -365,19 +365,19 @@ EN: You are strong-willed. (Will+)
 FR: Vous avez une forte volonté. (Will+)
 
 EN: You are surrounded by a mild repulsion field. (EV +2)
-FR: Vous êtes entouré d'un léger champ de répulsion. (EV +2)
+FR: Vous êtes entouré d’un léger champ de répulsion. (EV +2)
 
 EN: You are surrounded by a moderate repulsion field. (EV +3)
-FR: Vous êtes entouré d'un champ de répulsion modéré. (EV +3)
+FR: Vous êtes entouré d’un champ de répulsion modéré. (EV +3)
 
 EN: You are surrounded by a strong repulsion field. (EV +4, RMsl)
-FR: Vous êtes entouré d'un puissant champ de répulsion. (EV +4, RMsl)
+FR: Vous êtes entouré d’un puissant champ de répulsion. (EV +4, RMsl)
 
 EN: You are surrounded by an aura of silence.
-FR: Vous êtes entouré d'une aura de silence.
+FR: Vous êtes entouré d’une aura de silence.
 
 EN: You are unskilled. (-2 Apt)
-FR: Vous manquez d'aptitude. (-2 Apt)
+FR: Vous manquez d’aptitude. (-2 Apt)
 
 EN: You are very agile. (Dex +8, Str/Int -2)
 FR: Vous êtes très agile. (Dex +8, Str/Int -2)
@@ -398,7 +398,7 @@ EN: You are very heat resistant. (rF++)
 FR: Vous résistez fortement à la chaleur. (rF++)
 
 EN: You are very nimble when in or above water. (Stealth+, EV+, Speed+++)
-FR: Vous êtes très agile lorsque vous êtes dans ou au-dessus de l'eau. (Stealth+, EV+, Speed+++)
+FR: Vous êtes très agile lorsque vous êtes dans ou au-dessus de l’eau. (Stealth+, EV+, Speed+++)
 
 EN: You are very robust. (+20% HP)
 FR: Vous êtes très robuste. (+20% HP)
@@ -431,19 +431,19 @@ EN: You are weak-willed. (Will--)
 FR: Votre volonté est faible. (Will--)
 
 EN: You bear the Mark of Annihilation.
-FR: Vous portez la Marque de l'Anéantissement.
+FR: Vous portez la Marque de l’Anéantissement.
 
 EN: You bear the Mark of Atrocity.
-FR: Vous portez la Marque de l'Atrocité.
+FR: Vous portez la Marque de l’Atrocité.
 
 EN: You bear the Mark of Carnage.
 FR: Vous portez la Marque du Carnage.
 
 EN: You bear the Mark of Execution.
-FR: Vous portez la Marque de l'Exécution.
+FR: Vous portez la Marque de l’Exécution.
 
 EN: You bear the Mark of Haemoclasm.
-FR: Vous portez la Marque de l'Hémoclasme.
+FR: Vous portez la Marque de l’Hémoclasme.
 
 EN: You bear the Mark of the Celebrant.
 FR: Vous portez la Marque du Célébrant.
@@ -461,10 +461,10 @@ EN: You can enhance your damage-dealing spells by burning harvested memories.
 FR: Vous pouvez renforcer vos sorts infligeant des dégâts en brûlant les souvenirs récoltés.
 
 EN: You can equip up to 6 pieces of aux armour in any combination and unleash them.
-FR: Vous pouvez équiper jusqu'à 6 pièces d'armure auxiliaire, dans n'importe quelle combinaison, et les déchaîner.
+FR: Vous pouvez équiper jusqu’à 6 pièces d’armure auxiliaire, dans n’importe quelle combinaison, et les déchaîner.
 
 EN: You can equip up to 6 pieces of aux armour in any combination.
-FR: Vous pouvez équiper jusqu'à 6 pièces d'armure auxiliaire, dans n'importe quelle combinaison.
+FR: Vous pouvez équiper jusqu’à 6 pièces d’armure auxiliaire, dans n’importe quelle combinaison.
 
 EN: You can exhale a cloud of poison.
 FR: Vous pouvez exhaler un nuage de poison.
@@ -494,7 +494,7 @@ EN: You can spit poison.
 FR: Vous pouvez cracher du poison.
 
 EN: You can use scrolls of enchantment on lesser artefacts.
-FR: Vous pouvez utiliser des parchemins d'enchantement sur des artefacts mineurs.
+FR: Vous pouvez utiliser des parchemins d’enchantement sur des artefacts mineurs.
 
 EN: You can wield a second weapon in your off-hand.
 FR: Vous pouvez manier une seconde arme dans votre main secondaire.
@@ -542,7 +542,7 @@ EN: You cannot study or cast Translocations magic.
 FR: Vous ne pouvez pas étudier ni lancer de sorts de Translocation.
 
 EN: You cannot study or use magical devices.
-FR: Vous ne pouvez pas étudier ni utiliser les objets magiques.
+FR: Vous ne pouvez pas étudier ni utiliser les dispositifs magiques.
 
 EN: You cannot train Armour skill.
 FR: Vous ne pouvez pas entraîner la compétence Armure.
@@ -854,7 +854,7 @@ EN: You regenerate.
 FR: Vous régénérez.
 
 EN: You resist negative energy. (rN+)
-FR: Vous résistez à l'énergie négative. (rN+)
+FR: Vous résistez à l’énergie négative. (rN+)
 
 EN: You shall have no god before yourself.
 FR: Vous n'aurez aucun dieu devant vous-même.
@@ -1121,7 +1121,7 @@ EN: You can spit poison with
 FR: Vous pouvez cracher du poison avec 
 
 EN: . The second level of this mutation intensifies the poison from a single glob into a large cloud.
-FR: . Le deuxième niveau de cette mutation intensifie le poison d'un simple projectile à un grand nuage.
+FR: . Le deuxième niveau de cette mutation intensifie le poison d’un simple projectile à un grand nuage.
 
 EN: Category: 
 FR: Catégorie : 

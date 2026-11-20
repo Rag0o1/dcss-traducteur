@@ -168,7 +168,7 @@ REGLES = [
     ('Longueur', 'Un texte d’interface (nom, libellé, menu) ne dépasse pas la longueur de l’anglais + 2 caractères.'),
     ('Typographie', 'Apostrophe ’ ; guillemets « » ; espace avant ! ? : ;'),
 ]
-GLOSS = [('summon', 'convoquer (école Summonings = Convocations ; métier Summoner = Invocateur)'), ('stab', 'attaque furtive (le nom d’un sort reste en anglais)'),
+GLOSS = [('AC, EV, SH, HP, MP, XL', 'sigles gardés en anglais comme dans l’écran du jeu (l’AC, d’AC, son AC ; les HP, des MP) ; le texte qui les explique est en français (classe d’armure, points de vie…)'), ('summon', 'convoquer (école Summonings = Convocations ; métier Summoner = Invocateur)'), ('stab', 'attaque furtive (le nom d’un sort reste en anglais)'),
          ('scroll', 'parchemin'), ('wand', 'baguette'), ('ring', 'anneau'), ('amulet', 'amulette'), ('staff', 'bâton'), ('orb', 'orbe'), ('spell', 'sort'),
          ('stealth', 'discrétion'), ('Hexes', 'Maléfices'), ('piety', 'piété'), ('corpse', 'cadavre'), ('armour', 'armure'), ('stairs', 'escalier'),
          ('skill', 'compétence'), ('inventory', 'inventaire'), ('dungeon', 'donjon'), ('altar', 'autel')]

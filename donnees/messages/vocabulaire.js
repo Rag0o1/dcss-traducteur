@@ -626,7 +626,7 @@
         "Crossbows": "d’Arbalètes", "Slings": "de Frondes", "Throwing": "de Lancer",
         "Armour": "d’Armure", "Dodging": "d’Esquive", "Shields": "de Boucliers", "Stealth": "de Discrétion",
         "Spellcasting": "de Magie", "Conjurations": "de Conjuration", "Hexes": "de Maléfices",
-        "Summonings": "d’Invocation", "Necromancy": "de Nécromancie", "Translocations": "de Translocation",
+        "Summonings": "de Convocation", "Necromancy": "de Nécromancie", "Translocations": "de Translocation",
         "Alchemy": "d’Alchimie", "Fire Magic": "de Magie du feu", "Ice Magic": "de Magie de la glace",
         "Air Magic": "de Magie de l’air", "Earth Magic": "de Magie de la terre",
         "Invocations": "d’Invocations", "Evocations": "d’Évocations", "Shapeshifting": "de Métamorphose",

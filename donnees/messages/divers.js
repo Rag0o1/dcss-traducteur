@@ -416,20 +416,20 @@
     R(/^and (\d+) gold pieces\.$/, m => `et ${m[1]} pièces d’or.`);
     R(/^(\d+) gold (.+)$/, m => { const o = ligneObjet(m[0]); return o; });
     R(/^OUCH! You took (\d+) damage\.$/, m => `AÏE ! Vous avez subi ${m[1]} dégâts.`);
-    R(/^Recovered (\d+) HP\.$/, m => `${m[1]} PV récupérés.`);
+    R(/^Recovered (\d+) HP\.$/, m => `${m[1]} HP récupérés.`);
     R(/^Shopping list: (\d+) items, total cost (\d+) gold pieces$/, m => `Liste d’achats : ${m[1]} objets, coût total ${m[2]} pièces d’or`);
     R(/^You have (\d+) gold pieces(\.?)(?: After the purchase, you will have (\d+) gold pieces\.)?$/, m => `Vous avez ${m[1]} pièces d’or${m[2]}${m[3] ? ` Après l’achat, il vous en restera ${m[3]}.` : ""}`);
     R(/^You are short (\d+) gold pieces for the purchase\.$/, m => `Il vous manque ${m[1]} pièces d’or pour cet achat.`);
     R(/^\[Stash: (.+)\]$/, m => { const o = ligneObjet(m[1]) || (/^\d+ gold pieces$/.test(m[1]) ? m[1].replace(/^(\d+) gold pieces$/, "$1 pièces d’or") : null); return o === null ? null : `[Réserve : ${o}]`; });
     R(/^(\d+)\/(\d+) levels left$/, m => `${m[1]}/${m[2]} niveaux restants`);
-    R(/^HPRegen ([\d.]+)\/turn$/, m => `Régén. PV ${m[1]}/tour`); R(/^MPRegen ([\d.]+)\/turn$/, m => `Régén. PM ${m[1]}/tour`);
+    R(/^HPRegen ([\d.]+)\/turn$/, m => `Régén. HP ${m[1]}/tour`); R(/^MPRegen ([\d.]+)\/turn$/, m => `Régén. MP ${m[1]}/tour`);
     R(/^It has about (\d+)% to hit you\.$/, m => `Il a environ ${m[1]} % de chances de vous toucher.`);
     R(/^It has a (\d+)% chance to notice you each turn\.$/, m => `Il a ${m[1]} % de chances de vous remarquer à chaque tour.`);
     R(/^You have about (\d+)% to hit with (.+?) and (\d+)% to hit with your grab and squeeze(?: \(while incapacitated\))?\.$/, m => {
         const o = ligneObjet(m[2].replace(/^the /, "the ").replace(/^your /, "a ")) ; if (o === null) return null;
         return `Vous avez environ ${m[1]} % de chances de toucher avec ${o.replace(/^le /, "le ")} et ${m[3]} % avec votre prise et étreinte.`;
     });
-    R(/^(Max HP): (~?\d+)$/, m => `PV max : ${m[2]}`);
+    R(/^(Max HP): (~?\d+)$/, m => `HP max : ${m[2]}`);
     R(/^Hit: (.+)$/, m => null);
     R(/^You hear (.+?)([.!])( x\d+)?$/, m => {
         const s = SONS[m[1]];

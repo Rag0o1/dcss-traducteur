@@ -63,7 +63,7 @@
         "Select the skills you want to be trained. The chosen skills will be raised to": "Choisissez les compétences à entraîner. Les compétences choisies seront portées au",
         "the level shown in": "niveau indiqué dans", "] buy marked items [": "] acheter sélection [", "- cycle Dir - move target": "- parcourir Dir - déplacer la cible",
         "Melee damage: -50%": "Dégâts de mêlée : -50 %", "Mutations Suppressed: Anatomy": "Mutations supprimées : Anatomie",
-        "Skill EV Contam Dmg": "Comp. EV Contam Dég.", "Skill HP UC Base Dmg AC": "Comp. PV MN Base Dég. CA", "Skill Level > New Apt Skill Level > New Apt": "Comp. Niv. > Nouv. Apt Comp. Niv. > Nouv. Apt",
+        "Skill EV Contam Dmg": "Comp. EV Contam Dég.", "Skill HP UC Base Dmg AC": "Comp. HP MN Base Dég. AC", "Skill Level > New Apt Skill Level > New Apt": "Comp. Niv. > Nouv. Apt Comp. Niv. > Nouv. Apt",
     });
     R.push({ regex: /^Found (one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|\d+) (items?|altars?|gates? leading back out of this place|shops?|portals?|stairs?)\.$/, translate: m => {
         const n = NOMBRES[m[1]] || m[1]; const pl = !(m[1] === "one" || m[1] === "1");

@@ -182,7 +182,7 @@ EN: The Shining One will bless your weapon with holy wrath... once.
 FR: L’Étincelant bénira votre arme du courroux sacré… une seule fois.
 
 EN: The Shining One's wrath lasts for a relatively short duration.
-FR: La colère de L’Étincelant dure relativement peu de temps.
+FR: La colère de l’Étincelant dure relativement peu de temps.
 
 EN: Trog forbids the training of this skill.
 FR: Trog interdit l’entraînement de cette compétence.
@@ -284,7 +284,7 @@ EN: You can call upon nature's wrath in a wide area around you.
 FR: Vous pouvez déchaîner la colère de la nature sur une vaste zone autour de vous.
 
 EN: You can call upon the Shining One for a divine shield.
-FR: Vous pouvez invoquer L’Étincelant pour un bouclier divin.
+FR: Vous pouvez invoquer l’Étincelant pour un bouclier divin.
 
 EN: You can channel blasts of cleansing flame.
 FR: Vous pouvez canaliser des déflagrations de flammes purificatrices.

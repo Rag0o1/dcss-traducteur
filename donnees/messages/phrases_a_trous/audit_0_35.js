@@ -240,7 +240,7 @@
     R.push({ regex: /^You have about (\d+)% to hit with your (.+?) and (\d+)% to hit with your tail-slap( \(while incapacitated\))?\.$/, translate: m => {
         const r = T1("your " + m[2]); const a = r && r !== "your " + m[2] ? r.replace(/^(?:votre |ton )/, "") : m[2];
         return `Vous avez environ ${m[1]} % de chances de toucher avec votre ${a} et ${m[3]} % avec votre coup de queue${m[4] ? " (en étant incapable d’agir)" : ""}.`; } });
-    R.push({ regex: /^Your dull grey scales are hard\. \(AC \+(\d+)\)$/, translate: m => `Vos écailles gris terne sont dures. (CA +${m[1]})` });
+    R.push({ regex: /^Your dull grey scales are hard\. \(AC \+(\d+)\)$/, translate: m => `Vos écailles gris terne sont dures. (AC +${m[1]})` });
     R.push({ regex: /^Goodbye, ([A-Za-z]+)\.$/, translate: m => `Au revoir, ${m[1]}.` });
     R.push({ regex: /^\.\.\. wielding (.+)$/, translate: m => { const r = T1(m[1]); return r && r !== m[1] ? `… maniant ${r}` : null; } });
     R.push({ regex: /^\.\.\. on level (\d+) of the (.+)\.$/, translate: m => { const r = T1(m[2]); return `… au niveau ${m[1]} de ${/^(?:le |la |l’|les )/.test(r) ? r : "la branche " + r}.`; } });
@@ -386,7 +386,7 @@
     R.push({ regex: /^or ([A-Za-z]) - (.+)$/, translate: m => { const r = T1(m[2]); return r && r !== m[2] ? `ou ${m[1]} - ${r}` : null; } });
     R.push({ regex: /^\((\d+)% risk of failure\)$/, translate: m => `(${m[1]} % de risque d’échec)` });
     R.push({ regex: /^\((\d+) damage\)$/, translate: m => `(${m[1]} dégâts)` });
-    R.push({ regex: /^HPRegen ([\d.]+)\/turn MPRegen ([\d.]+)\/turn$/, translate: m => `Régén. PV ${m[1].replace(".", ",")}/tour Régén. PM ${m[2].replace(".", ",")}/tour` });
+    R.push({ regex: /^HPRegen ([\d.]+)\/turn MPRegen ([\d.]+)\/turn$/, translate: m => `Régén. HP ${m[1].replace(".", ",")}/tour Régén. MP ${m[2].replace(".", ",")}/tour` });
     R.push({ regex: /^Gear: (\d+)\/(\d+) gear slots \(Left\/Right\/Tab to switch category\)$/, translate: m => `Équipement : ${m[1]}/${m[2]} emplacements (Gauche/Droite/Tab pour changer de catégorie)` });
     R.push({ regex: /^(\w+'s ghost)\.$/, translate: m => { const a = AC(m[1]); return a ? a.S + "." : null; } });
     // --- Messages du code source avec trous (0.12.1) ---

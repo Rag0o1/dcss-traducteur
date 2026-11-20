@@ -194,7 +194,7 @@ EN: An unnatural silence engulfs you.
 FR: Un silence surnaturel vous enveloppe.
 
 EN: Ancestor HP restored.
-FR: PV de l’ancêtre restaurés.
+FR: HP de l’ancêtre restaurés.
 
 EN: And here are the needed waypoints: 
 FR: Et voici les points de passage nécessaires : 

@@ -9,9 +9,9 @@ A towering wall of ancient tamarack and patterned steel, said to have been quenc
 gale centaur => centaure des bourrasques
 the boreal bulwark => le Rempart boréal
 # Gadgets des Coglins (les noms restent en anglais ; les descriptions et menus sont traduits)
-Your spells cost less MP as you Rev up. Whenever you cast a spell, you make a melee attack against a random enemy in range. => Vos sorts coûtent moins de PM à mesure que vous montez en Rév. Chaque fois que vous lancez un sort, vous faites une attaque au corps à corps contre un ennemi au hasard à portée.
+Your spells cost less MP as you Rev up. Whenever you cast a spell, you make a melee attack against a random enemy in range. => Vos sorts coûtent moins de MP à mesure que vous montez en Rév. Chaque fois que vous lancez un sort, vous faites une attaque au corps à corps contre un ennemi au hasard à portée.
 Your evocable items recharge 30% faster and wands have a 30% chance to not spend a charge. => Vos objets à évoquer se rechargent 30 % plus vite, et les baguettes ont 30 % de chances de ne pas consommer de charge.
-Your AC increases as you Rev (up to +5) and while fully Revved, your attacks may disarm enemies. => Votre CA augmente avec le Rév (jusqu’à +5), et à plein Rév vos attaques peuvent désarmer les ennemis.
+Your AC increases as you Rev (up to +5) and while fully Revved, your attacks may disarm enemies. => Votre AC augmente avec le Rév (jusqu’à +5), et à plein Rév vos attaques peuvent désarmer les ennemis.
 It sometimes fires a blinding ray at enemies whose attacks you dodge. => Il tire parfois un rayon aveuglant sur les ennemis dont vous esquivez les attaques.
 Choose a gizmo to assemble. => Choisissez un gadget à assembler.
 select gizmo to assemble => choisir le gadget à assembler

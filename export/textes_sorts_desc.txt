@@ -23,7 +23,7 @@ EN: Extremely powerful magical items, such as the Orb of Zot, may actively resis
 FR: Les objets magiques extrêmement puissants, comme l’Orbe de Zot, peuvent résister activement à l’attraction de ce sort.
 
 EN: Sends a wave of electricity through everything adjacent or near-adjacent to the caster. The electricity continues to arc through everything in a connected chain, though the caster themself is unaffected. The damage dealt bypasses half of defenders' armour.
-FR: Envoie une onde d’électricité à travers tout ce qui est adjacent ou presque adjacent au lanceur. L’électricité continue de s’arquer à travers tout ce qui forme une chaîne connectée, sans jamais atteindre le lanceur lui-même. Les dégâts ignorent la moitié de l’armure des défenseurs.
+FR: Envoie une onde d’électricité à travers tout ce qui est adjacent ou presque adjacent au lanceur. L’électricité continue de se propager en arcs à travers tout ce qui forme une chaîne connectée, sans jamais atteindre le lanceur lui-même. Les dégâts ignorent la moitié de l’armure des défenseurs.
 
 EN: Sings a powerfully haunting song. Adventurers who fail to resist will become unable to move away from the singer (and will sometimes be drawn closer involuntarily), while other creatures will become dazed outright.
 FR: Chante un chant envoûtant et puissant. Les aventuriers qui échouent à résister ne pourront plus s’éloigner du chanteur (et seront parfois attirés malgré eux), tandis que les autres créatures seront purement et simplement hébétées.
@@ -260,7 +260,7 @@ EN: Issues a powerful call to a draconic realm, beckoning forth dragon after dra
 FR: Lance un puissant appel vers un royaume draconique, faisant venir dragon après dragon pour affronter les ennemis de l’invocateur. Le sort est épuisant à maintenir, et chaque nouveau dragon qui répond à l’appel draine un peu plus les réserves magiques de l’invocateur. Après la fin de l’appel, il ne peut être relancé avant un court délai. La durée de l’appel et l’espèce des dragons appelés dépendent de la puissance du sort.
 
 EN: Allows the caster to tap into ley lines of elemental energy which pervade the dungeon and channel their destructive power against enemies. Casting it exposes up to four dragon veins on adjacent floor tiles - one corresponding to each of fire, ice, air, and earth magic. Stepping onto any of them will trigger an immediate destructive spellcast at the cost of 1 MP, targeting up to 3 random enemies with an additional property that depends on the element tapped into:
-FR: Permet au lanceur de puiser dans les lignes de force d’énergie élémentaire qui parcourent le donjon pour en canaliser la puissance destructrice contre ses ennemis. Le lancer révèle jusqu’à quatre veines de dragon sur les cases adjacentes, une pour chacune des magies du feu, de la glace, de l’air et de la terre. Marcher sur l’une d’elles déclenche immédiatement un sort destructeur pour 1 PM, visant jusqu’à 3 ennemis au hasard avec une propriété supplémentaire qui dépend de l’élément exploité :
+FR: Permet au lanceur de puiser dans les lignes de force d’énergie élémentaire qui parcourent le donjon pour en canaliser la puissance destructrice contre ses ennemis. Le lancer révèle jusqu’à quatre veines de dragon sur les cases adjacentes, une pour chacune des magies du feu, de la glace, de l’air et de la terre. Marcher sur l’une d’elles déclenche immédiatement un sort destructeur pour 1 MP, visant jusqu’à 3 ennemis au hasard avec une propriété supplémentaire qui dépend de l’élément exploité :
 
 EN: Fire (West): Prioritises enemies with the least health. Leaves behind brief fire clouds when it kills something.
 FR: Feu (Ouest) : vise en priorité les ennemis ayant le moins de santé. Laisse brièvement des nuages de feu quand il tue quelque chose.
@@ -338,7 +338,7 @@ EN: Calls forth winds to increase the caster's movement speed for a short durati
 FR: Appelle des vents qui augmentent la vitesse de déplacement du lanceur pendant une courte durée.
 
 EN: Summons some creatures from one of the Snake Pit, the Spider Nest, the Swamp, the Shoals, the Elven Halls, the Vaults, or the Crypt; the specific branch varies with the caster.
-FR: Convoque des créatures de la Snake Pit, du Spider Nest, du Swamp, des Shoals, des Elven Halls, des Vaults ou de la Crypt ; la branche précise varie selon le lanceur.
+FR: Convoque des créatures du Snake Pit, du Spider Nest, du Swamp, des Shoals, des Elven Halls, des Vaults ou de la Crypt ; la branche précise varie selon le lanceur.
 
 EN: Constructs a shell of slag iron around a volatile elemental spark. It is capable of raining down powerful blows on its creator's adversaries - so powerful that the golem itself is often damaged by their impact.
 FR: Construit une coque de scories de fer autour d’une étincelle élémentaire instable. Il est capable d’abattre de puissants coups sur les adversaires de son créateur, si puissants que le golem lui-même est souvent endommagé par l’impact.
@@ -353,7 +353,7 @@ EN: Constructs an immobile lightning spire at a nearby location. This spire irre
 FR: Construit une flèche de foudre immobile à proximité. Cette flèche décharge irrégulièrement des éclairs sur les ennemis du lanceur, visant en priorité le plus éloigné d’elle.
 
 EN: Constructs a flying incendiary factory, packed to the brim with cluster bomblets which it can deploy both in melee and launch at range. While the monarch's bomblets have no attack of their own, they will pursue the caster's enemies until given the signal to explode.
-FR: Construit une usine incendiaire volante, bourrée de petites bombes à fragmentation qu’elle peut déployer au corps à corps et lancer à distance. Bien que les bombinettes du monarque n’aient aucune attaque propre, elles poursuivent les ennemis du lanceur jusqu’au signal d’explosion.
+FR: Construit une usine incendiaire volante, bourrée de petites bombes à fragmentation qu’elle peut déployer au corps à corps et lancer à distance. Bien que les petites bombes du monarque n’aient aucune attaque propre, elles poursuivent les ennemis du lanceur jusqu’au signal d’explosion.
 
 EN: Recasting this spell while anything it has created is still active will detonate the monarch bomb and all bomblets, dealing a combination of fire and physical damage to everything adjacent to them besides the caster themselves.
 FR: Relancer ce sort alors que quoi que ce soit qu’il a créé est encore actif fait détoner la bombe monarque et toutes les bombinettes, infligeant un mélange de dégâts de feu et physiques à tout ce qui leur est adjacent, sauf le lanceur lui-même.
@@ -365,13 +365,13 @@ EN: While also capable of biting foes, the phalanx beetle will never voluntarily
 FR: Bien qu’il puisse aussi mordre les ennemis, le scarabée phalange ne quittera jamais volontairement son créateur et, s’il en est séparé de force, s’empressera de le rejoindre avant toute autre chose.
 
 EN: Spellpower increases the magnitude of the AC increase, as well as the beetle's own durability.
-FR: La puissance du sort augmente l’ampleur du bonus de CA ainsi que la solidité du scarabée.
+FR: La puissance du sort augmente l’ampleur du bonus d’AC ainsi que la solidité du scarabée.
 
 EN: Draws upon the caster's own physical integrity to create a kinetic shockwave that damages foes in a large area. The caster is locked in place for several turns as the shockwave starts to form, and the spell will be cancelled if they are displaced during that time, but they may otherwise perform other actions freely.
 FR: Puise dans l’intégrité physique du lanceur pour créer une onde de choc cinétique qui blesse les ennemis dans une grande zone. Le lanceur est bloqué sur place pendant plusieurs tours le temps que l’onde se forme, et le sort est annulé s’il est déplacé pendant ce temps, mais il peut sinon agir librement.
 
 EN: Spellpower causes the spell to complete more quickly, but the damage depends entirely upon the caster's AC.
-FR: La puissance du sort accélère l’achèvement du sort, mais les dégâts dépendent uniquement de la CA du lanceur.
+FR: La puissance du sort accélère l’achèvement du sort, mais les dégâts dépendent uniquement de l’AC du lanceur.
 
 EN: Conjures two balls of burning swamp gas adjacent to the caster. The balls will rapidly seek the nearest monster and burn them. They will dissipate harmlessly if unable to reach a target or if the caster swaps places with them.
 FR: Conjure deux boules de gaz de marais enflammé adjacentes au lanceur. Les boules cherchent rapidement le monstre le plus proche et le brûlent. Elles se dissipent sans effet si elles ne peuvent atteindre une cible ou si le lanceur échange sa place avec elles.
@@ -425,7 +425,7 @@ EN: Willpower is useless against this spell, but stronger creatures may still sh
 FR: La volonté est inutile contre ce sort, mais les créatures plus fortes peuvent tout de même en ignorer les effets.
 
 EN: Calls giant grasping roots from deep underground that hold and constrict their victim. The roots will retreat if the victim breaks free or if the caller moves out of view.
-FR: Fait surgir de grandes racines agrippantes des profondeurs du sol, qui retiennent et étranglent leur victime. Les racines se retirent si la victime se libère ou si l’invocateur sort de la vue.
+FR: Fait surgir de grandes racines agrippantes des profondeurs du sol, qui retiennent et étranglent leur victime. Les racines se retirent si la victime se libère ou si le lanceur sort de la vue.
 
 EN: Calls forth the spite of the recently dead to skewer a targeted enemy with shards of bone. This spell never misses, and will pin its target in place for several turns, but casting it rapidly consumes the remnants of death that linger upon the caster.
 FR: Fait surgir la rancune des morts récents pour embrocher un ennemi ciblé avec des éclats d’os. Ce sort ne rate jamais et cloue sa cible sur place pendant plusieurs tours, mais le lancer consomme rapidement les restes de mort qui s’attardent sur le lanceur.
@@ -542,7 +542,7 @@ EN: Weaves a thin kinetic filament around the caster's melee weapon and launches
 FR: Tisse un mince filament cinétique autour de l’arme de mêlée du lanceur et lance l’autre bout vers un ennemi proche. Si ce grappin touche et inflige des dégâts, il se fiche dans la cible, permettant à la prochaine attaque de mêlée du lanceur contre elle de frapper avec une précision parfaite et un petit bonus de tuerie.
 
 EN: Brings forth a cloud of volatile blastmotes around the caster. These explode on contact with open flame or with creatures - including any caster foolish enough to linger in them! The explosion is concussive, knocking adjacent creatures away. Damage done rises with the spell's power.
-FR: Fait apparaître autour du lanceur un nuage de particules explosives instables. Elles explosent au contact d’une flamme nue ou de créatures, y compris tout lanceur assez fou pour s’y attarder ! L’explosion est commotionnelle et repousse les créatures adjacentes. Les dégâts augmentent avec la puissance du sort.
+FR: Fait apparaître autour du lanceur un nuage de particules explosives instables. Elles explosent au contact d’une flamme nue ou de créatures, y compris tout lanceur assez fou pour s’y attarder ! L’explosion, par son souffle, repousse les créatures adjacentes. Les dégâts augmentent avec la puissance du sort.
 
 EN: Violently fractures the landscape, causing rubble to fall upon several nearby enemies and also the ground behind them - obstructing their path to flee the caster.
 FR: Fracture violemment le paysage, faisant tomber des gravats sur plusieurs ennemis proches ainsi que sur le sol derrière eux, ce qui leur barre le chemin pour fuir le lanceur.
@@ -557,7 +557,7 @@ EN: Constructs a mechanical bee and winds its clockwork mechanisms over several 
 FR: Construit une abeille mécanique et remonte ses mécanismes pendant plusieurs tours avant de la lâcher sur un ennemi ciblé. L’abeille est rapide et puissante, mais son mécanisme se déroule vite pendant qu’elle attaque, la laissant finalement sans défense et incapable de bouger.
 
 EN: The caster may repair and rewind a dormant bee by attempting to move into it, at the cost of 1 MP.
-FR: Le lanceur peut réparer et remonter une abeille inactive en essayant de se déplacer sur elle, pour 1 PM.
+FR: Le lanceur peut réparer et remonter une abeille inactive en essayant de se déplacer sur elle, pour 1 MP.
 
 EN: Spellpower increases the number of attacks the bee may perform before going dormant.
 FR: La puissance du sort augmente le nombre d’attaques que l’abeille peut effectuer avant de s’immobiliser.
@@ -578,7 +578,7 @@ EN: Targets made from rock, stone, ice or bone will cause a small explosion. Met
 FR: Les cibles en roche, pierre, glace ou os causent une petite explosion. Les cibles métalliques causent une explosion petite mais plus dommageable, et les cibles en cristal une grande explosion encore plus dommageable.
 
 EN: Conjures two explosive magical effects in instant succession. The effects can be any mix of Fireball, Iceblast, and Ghostly Fireball.
-FR: Conjure deux effets magiques explosifs en succession instantanée. Les effets peuvent être n’importe quelle combinaison de Boule de feu, d’Explosion de glace et de Boule de feu fantomatique.
+FR: Conjure deux effets magiques explosifs en succession instantanée. Les effets peuvent être n’importe quelle combinaison de Fireball, d’Iceblast et de Ghostly Fireball.
 
 EN: Beckons the target forward, attempting to place them adjacent to the caster.
 FR: Attire la cible vers l’avant, tentant de la placer adjacente au lanceur.
@@ -590,7 +590,7 @@ EN: Fires penetrating bolts of molten rock at up to two different enemy targets.
 FR: Tire des rayons perforants de roche en fusion sur jusqu’à deux ennemis différents. La moitié de ses dégâts ignore la résistance au feu.
 
 EN: Envelops a target in a thin layer of magnetically charged metal fragments, then unleashes a powerful surge of electricity that arcs unerringly towards every visible target coated in these fragments - firing an additional beam at each target thus marked.
-FR: Enveloppe une cible d’une fine couche de fragments métalliques chargés magnétiquement, puis libère une puissante décharge électrique qui s’arque infailliblement vers chaque cible visible recouverte de ces fragments, tirant un rayon supplémentaire sur chaque cible ainsi marquée.
+FR: Enveloppe une cible d’une fine couche de fragments métalliques chargés magnétiquement, puis libère une puissante décharge électrique qui file infailliblement en arc vers chaque cible visible recouverte de ces fragments, tirant un rayon supplémentaire sur chaque cible ainsi marquée.
 
 EN: Magnetised creatures are additionally unable to evade attacks and will be revealed if invisible. If they die while still coated, they will leave behind a short-lived cloud of electrified metal that will continue to serve as a lightning rod for this spell.
 FR: Les créatures magnétisées ne peuvent en outre plus esquiver les attaques et sont révélées si elles sont invisibles. Si elles meurent encore recouvertes, elles laissent un nuage éphémère de métal électrifié qui continue de servir de paratonnerre pour ce sort.
@@ -611,7 +611,7 @@ EN: Conjures a stream of stolen suffering, leaving clouds of excruciating misery
 FR: Conjure un flot de souffrance volée, laissant dans son sillage et autour de ses cibles des nuages de misère déchirante. Ces nuages d’énergie négative drainent rapidement de petites fractions de la santé maximale des êtres vivants.
 
 EN: Conjures two balls of burning swamp gas adjacent to the caster. The balls will rapidly seek the nearest monster and burn them. Wizards attempted to copy this with the spell 'Foxfire', but their version is much less powerful.
-FR: Conjure deux boules de gaz de marais enflammé adjacentes au lanceur. Les boules cherchent rapidement le monstre le plus proche et le brûlent. Des magiciens ont tenté de copier cela avec le sort « Feu follet », mais leur version est bien moins puissante.
+FR: Conjure deux boules de gaz de marais enflammé adjacentes au lanceur. Les boules cherchent rapidement le monstre le plus proche et le brûlent. Des magiciens ont tenté de copier cela avec le sort « Foxfire », mais leur version est bien moins puissante.
 
 EN: Beckons forth the soul of a long-dead martyr to shield your allies for a time. This soul suffers a portion of the damage your allies would otherwise receive.
 FR: Fait venir l’âme d’un martyr mort depuis longtemps pour protéger vos alliés un temps. Cette âme subit une partie des dégâts que vos alliés recevraient autrement.
@@ -647,7 +647,7 @@ EN: Launches a psychic attack. If it overcomes the victim's willpower, it 'blows
 FR: Lance une attaque psychique. Si elle vient à bout de la volonté de la victime, elle lui « fait exploser l’esprit » de façon violemment littérale, infligeant des dégâts qui ignorent entièrement son armure. Inutile contre les créatures sans esprit.
 
 EN: Summons a powerful exotic creature to the caster's aid: either a manticore, a lindwurm, or a sphinx marauder.
-FR: Convoque une puissante créature exotique pour aider le lanceur : une manticore, un lindwurm ou un maraudeur sphinx.
+FR: Convoque une puissante créature exotique pour aider le lanceur : une manticore, un lindwurm ou un sphinx maraudeur.
 
 EN: Conjures an arrow of elemental mercury which deals direct poison damage to whatever it hits and may also weaken their melee attacks for a short while.
 FR: Conjure une flèche de mercure élémentaire qui inflige des dégâts de poison directs à ce qu’elle touche et peut aussi affaiblir ses attaques de mêlée pendant un court moment.
@@ -722,7 +722,7 @@ EN: After a considerable amount of time has passed, these monsters may even appe
 FR: Après un temps considérable, ces monstres peuvent même apparaître près du joueur.
 
 EN: Summons some of the greater threats from one of the Pits of Slime, the Elven Halls, the Vaults, the Crypt, the Tomb of Ancients, or the Realm of Zot; the specific branch varies with each cast of the spell.
-FR: Convoque certaines des plus grandes menaces des Fosses de vase, des Elven Halls, des Vaults, de la Crypt, de la Tomb of the Ancients ou du Realm of Zot ; la branche précise varie à chaque lancer du sort.
+FR: Convoque certaines des plus grandes menaces des Slime Pits, des Elven Halls, des Vaults, de la Crypt, de la Tomb of the Ancients ou du Realm of Zot ; la branche précise varie à chaque lancer du sort.
 
 EN: Fires a penetrating beam of plasma at one of the caster's most distant visible foes. The ionised beam bypasses half of defenders' armour, and a second beam of fire follows in its wake.
 FR: Tire un rayon perforant de plasma sur l’un des ennemis visibles les plus éloignés du lanceur. Le rayon ionisé ignore la moitié de l’armure des défenseurs, et un second rayon de feu suit dans son sillage.
@@ -800,7 +800,7 @@ EN: Calls a surge of power from the earth, striking an enemy within the caster's
 FR: Appelle une montée de puissance de la terre, frappant un ennemi en vue du lanceur. Le sort se propage à travers les constructions proches, gagnant en force pour chacune se tenant près de la cible.
 
 EN: Afflicts a creature (and up to two others near it) with a magical plague that slowly freezes them from the inside out. Victims take AC-ignoring cold damage each turn, and as the disease progresses, shards of crystalline ice will start erupting violently from their body, damaging nearby enemies. When they finally succumb, the plague may spread to those around them.
-FR: Afflige une créature (et jusqu’à deux autres près d’elle) d’une peste magique qui la gèle lentement de l’intérieur. Les victimes subissent chaque tour des dégâts de froid ignorant la CA et, à mesure que la maladie progresse, des éclats de glace cristalline jaillissent violemment de leur corps, blessant les ennemis proches. Quand elles succombent enfin, la peste peut se propager à leur entourage.
+FR: Afflige une créature (et jusqu’à deux autres près d’elle) d’une peste magique qui la gèle lentement de l’intérieur. Les victimes subissent chaque tour des dégâts de froid ignorant l’AC et, à mesure que la maladie progresse, des éclats de glace cristalline jaillissent violemment de leur corps, blessant les ennemis proches. Quand elles succombent enfin, la peste peut se propager à leur entourage.
 
 EN: In living, holy, or demonic creatures, the disease is especially virulent, feeding off the necromantic energies released by its host's suffering. As they approach the point of death, it will accelerate rapidly, devouring the last vestiges of their body and leaving nothing behind but a twisted pillar of stygian ice.
 FR: Chez les créatures vivantes, saintes ou démoniaques, la maladie est particulièrement virulente, se nourrissant des énergies nécromantiques libérées par la souffrance de son hôte. À l’approche de la mort, elle s’accélère rapidement, dévorant les dernières traces de leur corps et ne laissant qu’un pilier tordu de glace stygienne.
@@ -1103,7 +1103,7 @@ EN: Throws a harmful yet strangely delicious pie that can inflict its victim wit
 FR: Lance une tarte nocive mais étrangement délicieuse qui peut infliger à sa victime plusieurs effets temporaires irrésistibles et handicapants : vertige, silence, vulnérabilité au feu, fragilité, cécité ou aversion pour les potions.
 
 EN: Unmoors a random nearby ally from space, granting it Manifold Assault as a natural ability (which permits it to strike many distant foes with a single melee attack that can't miss), and also giving it a chance to blink when it uses such.
-FR: Détache de l’espace un allié proche au hasard, lui accordant l’Assaut multiple comme aptitude naturelle (qui lui permet de frapper de nombreux ennemis distants d’une seule attaque de mêlée qui ne peut pas rater), et lui donnant aussi une chance de faire un Blink quand il l’utilise.
+FR: Détache de l’espace un allié proche au hasard, lui accordant Manifold Assault comme aptitude naturelle (qui lui permet de frapper de nombreux ennemis distants d’une seule attaque de mêlée qui ne peut pas rater), et lui donnant aussi une chance de faire un Blink quand il l’utilise.
 
 EN: Conjures forth a fragment of the caster's essence and twists it into a fragment of death, painfully draining the victim. The caster, too, will find their health reduced, until they gain enough experience to recover.
 FR: Fait surgir un fragment de l’essence du lanceur et le tord en fragment de mort, drainant douloureusement la victime. Le lanceur voit lui aussi sa santé réduite, jusqu’à ce qu’il gagne assez d’expérience pour se rétablir.

@@ -14,7 +14,7 @@ EN: The card depicts a royal crypt, its entrance sealed by a heavy stone slab. D
 FR: La carte représente une crypte royale, dont l’entrée est scellée par une lourde dalle de pierre. Tirer cette carte emmure son utilisateur dans des murs de roche solide, protecteurs et temporaires. À faible puissance ou en présence de créatures adjacentes, le tombeau peut être imparfait. Le tombeau est maintenu par la présence de son créateur à l’intérieur, et quitter le centre du tombeau fera s’effondrer ses murs.
 
 EN: The card depicts ceaseless hands from a yawning portal overcoming a panicked figure. Drawing this card can banish nearby creatures to the abyss, with more being banished at higher power levels. It will never banish the user.
-FR: La carte représente d’incessantes mains sortant d’un portail béant qui submergent une silhouette paniquée. Tirer cette carte peut bannir les créatures proches vers l’abysse, davantage à plus haute puissance. Elle ne bannira jamais l’utilisateur.
+FR: La carte représente d’incessantes mains sortant d’un portail béant qui submergent une silhouette paniquée. Tirer cette carte peut bannir les créatures proches vers l’Abyss, davantage à plus haute puissance. Elle ne bannira jamais l’utilisateur.
 
 EN: The card depicts a traveller plummeting into a chasm that has opened beneath them. Drawing this card will create a shaft beneath the user, and possibly beneath their enemies.
 FR: La carte représente un voyageur plongeant dans un gouffre qui s’est ouvert sous lui. Tirer cette carte créera un puits sous l’utilisateur, et peut-être sous ses ennemis.
@@ -32,7 +32,7 @@ EN: The card depicts cultists marking out a ritual pentagram on the floor. Drawi
 FR: La carte représente des cultistes traçant un pentagramme rituel sur le sol. Tirer cette carte convoquera une paire de démons à l’aide de l’utilisateur. Il y a une petite chance que l’un des démons soit hostile.
 
 EN: The card depicts an extravagantly-dressed, masked figure dancing alone in a vast room. Drawing this card will summon a dancing weapon. Its quality, brand, and friendliness are all affected by card power.
-FR: La carte représente une silhouette masquée, extravagamment vêtue, dansant seule dans une vaste salle. Tirer cette carte convoquera une arme dansante. Sa qualité, son enchantement et son amitié sont tous influencés par la puissance de la carte.
+FR: La carte représente une silhouette masquée, extravagamment vêtue, dansant seule dans une vaste salle. Tirer cette carte convoquera une arme dansante. Sa qualité, son enchantement et son caractère amical sont tous influencés par la puissance de la carte.
 
 EN: The card depicts a bear surrounded by a swarm of bees. It hums ominously. Drawing this card will summon bees.
 FR: La carte représente un ours entouré d’un essaim d’abeilles. Elle bourdonne de façon menaçante. Tirer cette carte convoquera des abeilles.
@@ -77,7 +77,7 @@ EN: Mystics transform their bodies with talismans to be more attuned with magic.
 FR: Les Mystiques transforment leur corps avec des talismans pour mieux s’accorder à la magie. Leurs sorts exigent de la mobilité au combat, mais peuvent puiser dans les quatre éléments.
 
 EN: Reavers start with a weapon of their choice and deadly magic to supplement it when in need. They start with the Kiss of Death spell.
-FR: Les Saccageurs commencent avec l’arme de leur choix et une magie mortelle pour la compléter en cas de besoin. Ils commencent avec le sort Baiser de la mort.
+FR: Les Saccageurs commencent avec l’arme de leur choix et une magie mortelle pour la compléter en cas de besoin. Ils commencent avec le sort Kiss of Death.
 
 EN: Forgewrights are mages who specialise in the creation of turrets and mechanical companions to fight alongside.
 FR: Les Maîtres de forge sont des mages spécialisés dans la création de tourelles et de compagnons mécaniques pour combattre à leurs côtés.
@@ -89,7 +89,7 @@ EN: Stalkers transform their bodies with talismans to better deceive and debilit
 FR: Les Traqueurs transforment leur corps avec des talismans pour mieux tromper et affaiblir leurs ennemis. Ils peuvent même finir par transformer des potions en jets de nuages nuisibles.
 
 EN: Alchemists start with the Poisonous Vapours spell, and their magic is very effective against foes susceptible to poison.
-FR: Les Alchimistes commencent avec le sort Vapeurs toxiques, et leur magie est très efficace contre les ennemis sensibles au poison.
+FR: Les Alchimistes commencent avec le sort Poisonous Vapours, et leur magie est très efficace contre les ennemis sensibles au poison.
 
 EN: Autoexplore the current level without resting first
 FR: Explore automatiquement l’étage actuel sans se reposer d’abord
@@ -134,7 +134,7 @@ EN: A thick layer of gritty mud.
 FR: Une épaisse couche de boue granuleuse.
 
 EN: A hole to the Spider Nest A passage leading to the Spider Nest.
-FR: Un passage menant au Spider Nest.
+FR: Un trou vers le Spider Nest. Un passage menant au Spider Nest.
 
 EN: ~As clear and blue as a cloudless sky or a depthless sea, this gem holds its secrets locked within impenetrable depths.
 FR: Aussi clair et bleu qu’un ciel sans nuage ou qu’une mer sans fond, ce joyau garde ses secrets enfermés dans des profondeurs impénétrables.
@@ -149,7 +149,7 @@ EN: ~Sigils of fire burn deep within this gem, symbol of the eternal compact bet
 FR: Des sceaux de feu brûlent au fond de ce joyau, symbole du pacte éternel entre naga et salamandre. Leur lien est celui du poison qui châtie l’impur et de la flamme qui consume l’impureté.
 
 EN: ~The stoneborn brought forth this gem from the uttermost depths of the earth as a gift and a warning: beware Zot! That it lies now within Zot's power is a sure proof of the perversity of mortals and fate alike.
-FR: Les enfants de la pierre ont tiré ce joyau des tréfonds de la terre, à la fois comme un don et comme un avertissement : gare à Zot ! Qu’il repose maintenant au pouvoir de Zot prouve assez la perversité des mortels et du destin.
+FR: Les enfants de la pierre ont tiré ce joyau des tréfonds de la terre, à la fois comme un don et comme un avertissement : gare à Zot ! Qu’il repose maintenant sous le pouvoir de Zot prouve assez la perversité des mortels et du destin.
 
 EN: ~Smooth as a spider's silk, white as the eyes of some crawling thing which has lived too long in the dark, this gem buzzes with a fearful potential. Still, to a certain eye, it possesses a strange allure...
 FR: Lisse comme la soie d’une araignée, blanc comme les yeux d’une créature rampante qui a vécu trop longtemps dans le noir, ce joyau bourdonne d’un potentiel inquiétant. Pourtant, pour certains regards, il possède un étrange attrait...
@@ -164,10 +164,10 @@ EN: ~They who smote down Death herself and buried themselves in a Tomb of their 
 FR: Ceux qui terrassèrent la Mort elle-même et s’enterrèrent dans une Tomb de leur propre construction n’étaient pas timides dans leurs ambitions. Avides de babioles et d’un orgueil démesuré, leur Seigneur partit vers son éternelle agitation avec ce joyau sur la poitrine.
 
 EN: ~Many are the treasures of the Ironbound Order, but none older nor more precious than this steel-shining gem. The Vaults were first forged to hold it, and none who gazed within its depths could fault the choice.
-FR: Nombreux sont les trésors de l’Ordre de Fer, mais aucun n’est plus ancien ni plus précieux que ce joyau à l’éclat d’acier. Les Salles furent d’abord forgées pour l’abriter, et nul de ceux qui contemplèrent ses profondeurs n’aurait pu en blâmer le choix.
+FR: Nombreux sont les trésors de l’Ordre de Fer, mais aucun n’est plus ancien ni plus précieux que ce joyau à l’éclat d’acier. Les Vaults furent d’abord forgées pour l’abriter, et nul de ceux qui contemplèrent ses profondeurs n’aurait pu en blâmer le choix.
 
 EN: ~Unearthly energies gently flow along the surface of this gem, guided by the archmage who first built the Elven Halls. Countless generations of elves flocked to learn from her, but her foremost pursuit was always the perfection of this piece of art.
-FR: D’étranges énergies glissent doucement à la surface de ce joyau, guidées par l’archimage qui bâtit les premières Elven Halls. D’innombrables générations d’elfes accoururent pour apprendre auprès d’elle, mais sa quête première fut toujours la perfection de cette œuvre d’art.
+FR: D’étranges énergies glissent doucement à la surface de ce joyau, guidées par l’archimage qui fut la première à bâtir les Elven Halls. D’innombrables générations d’elfes accoururent pour apprendre auprès d’elle, mais sa quête première fut toujours la perfection de cette œuvre d’art.
 
 EN: ~Swirls of dark smoke seem to lurk in the depths of this gem. Countless dark deeds were done in the Dungeon even before Zot seized and remade it, and their dreadful residue now taints every hint of beauty trapped within its confines.
 FR: Des volutes de fumée sombre semblent rôder au cœur de ce joyau. D’innombrables actes sombres furent commis dans le Donjon avant même que Zot ne s’en empare et le refaçonne, et leur horrible résidu souille désormais le moindre soupçon de beauté qui y est piégé.
@@ -194,7 +194,7 @@ EN: ~The card depicts a royal crypt, its entrance sealed by a heavy stone slab. 
 FR: La carte représente une crypte royale, dont l’entrée est scellée par une lourde dalle de pierre. Tirer cette carte emmure son utilisateur dans des murs de roche solide, protecteurs et temporaires. À faible puissance ou en présence de créatures adjacentes, le tombeau peut être imparfait. Le tombeau est maintenu par la présence de son créateur à l’intérieur, et quitter le centre du tombeau fera s’effondrer ses murs.
 
 EN: ~The card depicts ceaseless hands from a yawning portal overcoming a panicked figure. Drawing this card can banish nearby creatures to the abyss, with more being banished at higher power levels. It will never banish the user.
-FR: La carte représente d’incessantes mains sortant d’un portail béant qui submergent une silhouette paniquée. Tirer cette carte peut bannir les créatures proches vers l’abysse, davantage à plus haute puissance. Elle ne bannira jamais l’utilisateur.
+FR: La carte représente d’incessantes mains sortant d’un portail béant qui submergent une silhouette paniquée. Tirer cette carte peut bannir les créatures proches vers l’Abyss, davantage à plus haute puissance. Elle ne bannira jamais l’utilisateur.
 
 EN: ~The card depicts a traveller plummeting into a chasm that has opened beneath them. Drawing this card will create a shaft beneath the user, and possibly beneath their enemies.
 FR: La carte représente un voyageur plongeant dans un gouffre qui s’est ouvert sous lui. Tirer cette carte créera un puits sous l’utilisateur, et peut-être sous ses ennemis.
@@ -212,7 +212,7 @@ EN: ~The card depicts cultists marking out a ritual pentagram on the floor. Draw
 FR: La carte représente des cultistes traçant un pentagramme rituel sur le sol. Tirer cette carte convoquera une paire de démons à l’aide de l’utilisateur. Il y a une petite chance que l’un des démons soit hostile.
 
 EN: ~The card depicts an extravagantly-dressed, masked figure dancing alone in a vast room. Drawing this card will summon a dancing weapon. Its quality, brand, and friendliness are all affected by card power.
-FR: La carte représente une silhouette masquée, extravagamment vêtue, dansant seule dans une vaste salle. Tirer cette carte convoquera une arme dansante. Sa qualité, son enchantement et son amitié sont tous influencés par la puissance de la carte.
+FR: La carte représente une silhouette masquée, extravagamment vêtue, dansant seule dans une vaste salle. Tirer cette carte convoquera une arme dansante. Sa qualité, son enchantement et son caractère amical sont tous influencés par la puissance de la carte.
 
 EN: ~The card depicts a bear surrounded by a swarm of bees. It hums ominously. Drawing this card will summon bees.
 FR: La carte représente un ours entouré d’un essaim d’abeilles. Elle bourdonne de façon menaçante. Tirer cette carte convoquera des abeilles.
@@ -260,7 +260,7 @@ EN: ~Mystics transform their bodies with talismans to be more attuned with magic
 FR: Les Mystiques transforment leur corps avec des talismans pour mieux s’accorder à la magie. Leurs sorts exigent de la mobilité au combat, mais peuvent puiser dans les quatre éléments.
 
 EN: ~Reavers start with a weapon of their choice and deadly magic to supplement it when in need. They start with the Kiss of Death spell.
-FR: Les Saccageurs commencent avec l’arme de leur choix et une magie mortelle pour la compléter en cas de besoin. Ils commencent avec le sort Baiser de la mort.
+FR: Les Saccageurs commencent avec l’arme de leur choix et une magie mortelle pour la compléter en cas de besoin. Ils commencent avec le sort Kiss of Death.
 
 EN: ~Forgewrights are mages who specialise in the creation of turrets and mechanical companions to fight alongside.
 FR: Les Maîtres de forge sont des mages spécialisés dans la création de tourelles et de compagnons mécaniques pour combattre à leurs côtés.
@@ -272,7 +272,7 @@ EN: ~Stalkers transform their bodies with talismans to better deceive and debili
 FR: Les Traqueurs transforment leur corps avec des talismans pour mieux tromper et affaiblir leurs ennemis. Ils peuvent même finir par transformer des potions en jets de nuages nuisibles.
 
 EN: ~Alchemists start with the Poisonous Vapours spell, and their magic is very effective against foes susceptible to poison.
-FR: Les Alchimistes commencent avec le sort Vapeurs toxiques, et leur magie est très efficace contre les ennemis sensibles au poison.
+FR: Les Alchimistes commencent avec le sort Poisonous Vapours, et leur magie est très efficace contre les ennemis sensibles au poison.
 
 EN: ~Autoexplore the current level without resting first
 FR: Explore automatiquement l’étage actuel sans se reposer d’abord
@@ -305,40 +305,40 @@ EN: ~Toggles the on-screen keyboard visibility.
 FR: Active ou désactive l’affichage du clavier à l’écran.
 
 EN: ~This creature is unable to move, act, block, or dodge. Any hostile action will awaken it, though melee attacks against it (even by other monsters) will deal increased damage.
-FR: Cette créature est incapable de bouger, d’agir, de bloquer ou d’esquiver. Toute action hostile la réveillera, bien que les attaques de mêlée contre elle (même par d’autres monstres) infligent des dégâts accrus. Les attaques de mêlée que vous faites contre cette créature infligent des dégâts grandement accrus, surtout avec une lame courte.
+FR: Cette créature est incapable de bouger, d’agir, de bloquer ou d’esquiver. Toute action hostile la réveillera, bien que les attaques de mêlée contre elle (même par d’autres monstres) infligent des dégâts accrus.
 
 EN: ~This creature cannot see properly. Its accuracy is greatly decreased, it cannot make attacks of opportunity, and spells it casts may sometimes be aimed at the wrong locations. It may also stumble around and eventually lose track of its target, especially if it has low intelligence.
-FR: Cette créature ne voit pas correctement. Sa précision est grandement réduite, elle ne peut pas faire d’attaques d’opportunité, et les sorts qu’elle lance peuvent parfois viser les mauvais endroits. Elle peut aussi trébucher et finir par perdre sa cible de vue, surtout si elle a une faible intelligence. Les attaques de mêlée que vous faites contre cette créature ont une chance (proportionnelle à votre discrétion et à votre compétence d’arme) de la prendre au dépourvu et d’infliger des dégâts accrus, surtout avec une lame courte.
+FR: Cette créature ne voit pas correctement. Sa précision est grandement réduite, elle ne peut pas faire d’attaques d’opportunité, et les sorts qu’elle lance peuvent parfois viser les mauvais endroits. Elle peut aussi trébucher et finir par perdre sa cible de vue, surtout si elle a une faible intelligence.
 
 EN: ~This creature is unable to block or use spells or abilities and will stumble around at random, attacking whatever it bumps into - be they friend or foe or sometimes even themselves.
-FR: Cette créature est incapable de bloquer ou d’utiliser des sorts ou des capacités et trébuchera au hasard, attaquant tout ce qu’elle heurte, ami ou ennemi, voire parfois elle-même. Les attaques de mêlée que vous faites contre cette créature ont une chance (proportionnelle à votre discrétion et à votre compétence d’arme) de la prendre au dépourvu et d’infliger des dégâts accrus, surtout avec une lame courte.
+FR: Cette créature est incapable de bloquer ou d’utiliser des sorts ou des capacités et trébuchera au hasard, attaquant tout ce qu’elle heurte, ami ou ennemi, voire parfois elle-même.
 
 EN: ~This creature is caught in a net, greatly reducing its evasion and preventing it from blocking. Any attempt it makes to move or attack will instead struggle against the net, which may eventually destroy it. Spellcasting is unimpaired.
-FR: Cette créature est prise dans un filet, ce qui réduit grandement son évasion et l’empêche de bloquer. Toute tentative de bouger ou d’attaquer luttera à la place contre le filet, qui peut finir par être détruit. L’incantation n’est pas affectée. Les attaques de mêlée que vous faites contre cette créature ont une chance (proportionnelle à votre discrétion et à votre compétence d’arme) de la prendre au dépourvu et d’infliger des dégâts accrus, surtout avec une lame courte.
+FR: Cette créature est prise dans un filet, ce qui réduit grandement son évasion et l’empêche de bloquer. Toute tentative de bouger ou d’attaquer luttera à la place contre le filet, qui peut finir par être détruit. L’incantation n’est pas affectée.
 
 EN: ~This creature is caught in a spider's web, greatly reducing its evasion and preventing it from blocking. Any attempt it makes to move or attack will instead struggle against the web, which may eventually destroy it. Spellcasting is unimpaired.
-FR: Cette créature est prise dans une toile d’araignée, ce qui réduit grandement son évasion et l’empêche de bloquer. Toute tentative de bouger ou d’attaquer luttera à la place contre la toile, qui peut finir par être détruite. L’incantation n’est pas affectée. Les attaques de mêlée que vous faites contre cette créature ont une chance (proportionnelle à votre discrétion et à votre compétence d’arme) de la prendre au dépourvu et d’infliger des dégâts accrus, surtout avec une lame courte.
+FR: Cette créature est prise dans une toile d’araignée, ce qui réduit grandement son évasion et l’empêche de bloquer. Toute tentative de bouger ou d’attaquer luttera à la place contre la toile, qui peut finir par être détruite. L’incantation n’est pas affectée.
 
 EN: ~This creature has been stricken permanently mute by the power of Zin. This prevents all noise the creature could make, including the vocalisations required for most creatures to cast spells.
 FR: Cette créature a été rendue définitivement muette par le pouvoir de Zin. Cela empêche tout bruit que la créature pourrait faire, y compris les vocalisations requises par la plupart des créatures pour lancer des sorts.
 
 EN: ~This creature has been briefly distracted by something else.
-FR: Cette créature a été brièvement distraite par autre chose. Les attaques de mêlée que vous faites contre cette créature ont une chance (proportionnelle à votre discrétion et à votre compétence d’arme) de la prendre au dépourvu et d’infliger des dégâts accrus, surtout avec une lame courte.
+FR: Cette créature a été brièvement distraite par autre chose.
 
 EN: ~This creature is unable to move, act, block, or dodge attacks.
-FR: Cette créature est incapable de bouger, d’agir, de bloquer ou d’esquiver les attaques. Les attaques de mêlée que vous faites contre cette créature infligent des dégâts grandement accrus, surtout avec une lame courte.
+FR: Cette créature est incapable de bouger, d’agir, de bloquer ou d’esquiver les attaques.
 
 EN: ~This creature will soon become fully petrified. Its movement and actions are 50% slower and it is nearly unable to dodge attacks, though it also takes 33% less damage.
-FR: Cette créature sera bientôt entièrement pétrifiée. Ses mouvements et actions sont 50 % plus lents et elle est presque incapable d’esquiver les attaques, mais elle subit aussi 33 % de dégâts en moins. Les attaques de mêlée que vous faites contre cette créature ont une chance (proportionnelle à votre discrétion et à votre compétence d’arme) de la prendre au dépourvu et d’infliger des dégâts accrus, surtout avec une lame courte.
+FR: Cette créature sera bientôt entièrement pétrifiée. Ses mouvements et actions sont 50 % plus lents et elle est presque incapable d’esquiver les attaques, mais elle subit aussi 33 % de dégâts en moins.
 
 EN: ~This creature is unable to move, act, block, or dodge attacks. By being made of stone, it also takes 50% less damage, gains immunity to negative energy and poison, but become vulnerable to deconstruction.
-FR: Cette créature est incapable de bouger, d’agir, de bloquer ou d’esquiver les attaques. Étant de pierre, elle subit aussi 50 % de dégâts en moins, devient immunisée à l’énergie négative et au poison, mais vulnérable à la déconstruction. Les attaques de mêlée que vous faites contre cette créature infligent des dégâts grandement accrus, surtout avec une lame courte.
+FR: Cette créature est incapable de bouger, d’agir, de bloquer ou d’esquiver les attaques. Étant de pierre, elle subit aussi 50 % de dégâts en moins, devient immunisée à l’énergie négative et au poison, mais vulnérable à la déconstruction.
 
 EN: ~This creature has been struck dumb by the power of Zin and cannot act.
-FR: Cette créature a été frappée de stupeur par le pouvoir de Zin et ne peut pas agir. Les attaques de mêlée que vous faites contre cette créature infligent des dégâts grandement accrus, surtout avec une lame courte.
+FR: Cette créature a été frappée de stupeur par le pouvoir de Zin et ne peut pas agir.
 
 EN: ~This creature is unable to see you because you are invisible. Its accuracy against you is greatly decreased, it cannot make attacks of opportunity, and spells it casts may sometimes be aimed at the wrong locations. It may also stumble around and eventually lose track of you, especially if it has low intelligence.
-FR: Cette créature ne peut pas vous voir parce que vous êtes invisible. Sa précision contre vous est grandement réduite, elle ne peut pas faire d’attaques d’opportunité, et les sorts qu’elle lance peuvent parfois viser les mauvais endroits. Elle peut aussi trébucher et finir par vous perdre de vue, surtout si elle a une faible intelligence. Les attaques de mêlée que vous faites contre cette créature ont une chance (proportionnelle à votre discrétion et à votre compétence d’arme) de la prendre au dépourvu et d’infliger des dégâts accrus, surtout avec une lame courte.
+FR: Cette créature ne peut pas vous voir parce que vous êtes invisible. Sa précision contre vous est grandement réduite, elle ne peut pas faire d’attaques d’opportunité, et les sorts qu’elle lance peuvent parfois viser les mauvais endroits. Elle peut aussi trébucher et finir par vous perdre de vue, surtout si elle a une faible intelligence.
 
 EN: ~This creature will die in a few turns.
 FR: Cette créature mourra dans quelques tours.
@@ -365,10 +365,10 @@ EN: ~A thick layer of gritty mud.
 FR: Une épaisse couche de boue granuleuse.
 
 EN: ~A hole to the Spider Nest A passage leading to the Spider Nest.
-FR: Un passage menant au Spider Nest.
+FR: Un trou vers le Spider Nest. Un passage menant au Spider Nest.
 
 EN: ~The scales of an acid dragon. Although it does not provide its wearer with as much protection as the armour made from the scales of some larger dragons, it is somewhat lighter and less encumbering. It is also remarkably smooth, letting corrosive slime flow off it like water.
-FR: Les écailles d’un dragon acide. Bien qu’elle n’offre pas à son porteur autant de protection que l’armure faite des écailles de certains dragons plus grands, elle est un peu plus légère et moins encombrante. Elle est aussi remarquablement lisse, laissant la bave corrosive s’écouler comme de l’eau.
+FR: Les écailles d’un dragon acide. Bien qu’elles n’offrent pas à leur porteur autant de protection que l’armure faite des écailles de certains dragons plus grands, elles sont un peu plus légères et moins encombrantes. Elles sont aussi remarquablement lisses, laissant la bave corrosive s’écouler comme de l’eau.
 
 EN: ~It splashes victims with acid (2d4 damage, Corrosion).
 FR: Il éclabousse ses victimes d’acide (2d4 dégâts, Corrosion).
@@ -380,7 +380,7 @@ EN: ~A stone of unearthly beauty and almost immeasurable value outside the dunge
 FR: Une pierre d’une beauté surnaturelle et d’une valeur presque incommensurable hors du donjon. Dans ses murs, elle est tout à fait inutile.
 
 EN: ~Anyone stepping on this trap will translocate themselves and anyone else in view to a new location nearby. Hostile monsters may trigger this trap, but your allies will avoid stepping on it.
-FR: Quiconque marche sur ce piège se translocalisera, ainsi que toute personne en vue, vers un nouvel endroit proche. Les monstres hostiles peuvent déclencher ce piège, mais vos alliés éviteront d’y marcher.
+FR: Quiconque marche sur ce piège se téléportera, ainsi que toute personne en vue, vers un nouvel endroit proche. Les monstres hostiles peuvent déclencher ce piège, mais vos alliés éviteront d’y marcher.
 
 EN: ~It is currently recharging and will become active again in a short while.
 FR: Il se recharge actuellement et redeviendra actif dans peu de temps.
@@ -476,7 +476,7 @@ EN: ~It is slick with slippery slime, but that is no obstacle for one such as yo
 FR: Il est enduit de bave glissante, mais ce n’est pas un obstacle pour quelqu’un comme vous qui avez embrassé la voie de toute gelée.
 
 EN: ~It is slick with slippery slime which will make it impossible for you to climb back up again until the power ruling this place is destroyed (or you choose to join it). However, being coated in this slime will greatly increase your HP and MP regenaration for short while afterward.
-FR: Il est enduit de bave glissante qui vous empêchera de le remonter tant que le pouvoir qui règne en ces lieux ne sera pas détruit (ou que vous ne choisirez pas de le rejoindre). Cependant, être enduit de cette bave augmentera grandement votre régénération de PV et de PM pendant un court moment ensuite.
+FR: Il est enduit de bave glissante qui vous empêchera de le remonter tant que le pouvoir qui règne en ces lieux ne sera pas détruit (ou que vous ne choisirez pas de le rejoindre). Cependant, être enduit de cette bave augmentera grandement votre régénération de HP et de MP pendant un court moment ensuite.
 
 EN: ~It is slick with slippery slime, making it impossible for you to climb until the power ruling this place is destroyed (or you choose to join it).
 FR: Il est enduit de bave glissante, ce qui vous empêche de le gravir tant que le pouvoir qui règne en ces lieux ne sera pas détruit (ou que vous ne choisirez pas de le rejoindre).
@@ -488,7 +488,7 @@ EN: ~ rather than flies.
 FR:  plutôt que des mouches.
 
 EN: ~Stokes your ghostly flames to a fever pitch, greatly enhancing your spellcasting at the cost of burning away all accumulated memories. While in this state, your damage-dealing spells cost no MP, are unaffected by encumbrance, and you receive a bonus to their spell success and power (the latter of which increases with your experience level). Any spellclaw attack made while Enkindled inflicts bonus damage proportional to the level of spell cast, and heals you for a percentage of the damage dealt. Each spell you cast while Enkindled consumes a memory, and the state will end once you have no more left (or after a short period of time, regardless). At your current experience level, you can hold enough memories to cast a maximum of
-FR: Attise vos flammes spectrales jusqu’à la fièvre, améliorant grandement votre lancer de sorts au prix de brûler tous vos souvenirs accumulés. Dans cet état, vos sorts de dégâts ne coûtent aucun PM, ne sont pas affectés par l’encombrement, et vous recevez un bonus à leur réussite et à leur puissance (ce dernier augmente avec votre niveau d’expérience). Toute attaque de griffes à sorts faite pendant l’Embrasement inflige des dégâts bonus proportionnels au niveau du sort lancé, et vous soigne d’un pourcentage des dégâts infligés. Chaque sort lancé pendant l’Embrasement consomme un souvenir, et l’état prend fin quand il n’en reste plus (ou après un court laps de temps, dans tous les cas). À votre niveau d’expérience actuel, vous pouvez contenir assez de souvenirs pour lancer au maximum
+FR: Attise vos flammes spectrales jusqu’à la fièvre, améliorant grandement votre lancer de sorts au prix de brûler tous vos souvenirs accumulés. Dans cet état, vos sorts de dégâts ne coûtent aucun MP, ne sont pas affectés par l’encombrement, et vous recevez un bonus à leur réussite et à leur puissance (ce dernier augmente avec votre niveau d’expérience). Toute attaque de griffes à sorts faite pendant l’Embrasement inflige des dégâts bonus proportionnels au niveau du sort lancé, et vous soigne d’un pourcentage des dégâts infligés. Chaque sort lancé pendant l’Embrasement consomme un souvenir, et l’état prend fin quand il n’en reste plus (ou après un court laps de temps, dans tous les cas). À votre niveau d’expérience actuel, vous pouvez contenir assez de souvenirs pour lancer au maximum
 
 EN: ~spells in a row this way.
 FR: sorts d’affilée de cette façon.
@@ -515,10 +515,10 @@ EN: ~from this mutation.
 FR: de cette mutation.
 
 EN: ~Your connection to the realm of the living grows stronger as you spread misfortune. Whenever you or your allies inflict new negative status effects upon nearby enemies (other than poison), your AC temporarily increases. This bonus improves with the number of different enemies affected, but will decay over time if you do not continue to inflict new misfortune. At your current XL, you can gain a maximum bonus of
-FR: Votre lien avec le royaume des vivants se renforce à mesure que vous répandez le malheur. Chaque fois que vous ou vos alliés infligez de nouveaux effets de statut négatifs à des ennemis proches (hors poison), votre CA augmente temporairement. Ce bonus s’améliore avec le nombre d’ennemis différents affectés, mais s’estompera avec le temps si vous ne continuez pas à infliger de nouveaux malheurs. À votre NX actuel, vous pouvez gagner un bonus maximal de
+FR: Votre lien avec le royaume des vivants se renforce à mesure que vous répandez le malheur. Chaque fois que vous ou vos alliés infligez de nouveaux effets de statut négatifs à des ennemis proches (hors poison), votre AC augmente temporairement. Ce bonus s’améliore avec le nombre d’ennemis différents affectés, mais s’estompera avec le temps si vous ne continuez pas à infliger de nouveaux malheurs. À votre XL actuel, vous pouvez gagner un bonus maximal de
 
 EN: ~ AC this way.
-FR:  CA de cette façon.
+FR:  AC de cette façon.
 
 EN: ~Your Infernal Servants are now summoned adjacent to a random enemy instead of near you. When they appear, they do so in a blast of your characteristic Destruction (which cannot hurt you or other allies).
 FR: Vos Serviteurs infernaux sont désormais convoqués adjacents à un ennemi aléatoire plutôt que près de vous. Lorsqu’ils apparaissent, ils le font dans une explosion de votre Destruction caractéristique (qui ne peut blesser ni vous ni vos alliés).
@@ -527,7 +527,7 @@ EN: ~(Your servants unleash blasts of either
 FR: (Vos serviteurs déchaînent des explosions de
 
 EN: ~Your Infernal Servant ability is replaced with Globe of Annihilation, allowing you to hurl slow-moving spheres of intense destructive force that detonate in an enormous blast of your characteristic Destruction.
-FR: Votre capacité Serviteur infernal est remplacée par Globe d’annihilation, qui vous permet de lancer des sphères lentes d’une intense force destructrice qui détonent en une énorme explosion de votre Destruction caractéristique.
+FR: Votre capacité Serviteur infernal est remplacée par Globe of Annihilation, qui vous permet de lancer des sphères lentes d’une intense force destructrice qui détonent en une énorme explosion de votre Destruction caractéristique.
 
 EN: ~(Your globes of annihilation unleash either
 FR: (Vos globes d’annihilation déchaînent des explosions de
@@ -536,7 +536,7 @@ EN: ~acid or metal splinters
 FR: acide ou d’éclats de métal
 
 EN: ~negative energy or devastation
-FR: énergie négative ou de dévastation
+FR: d’énergie négative ou de dévastation
 
 EN: ~fire or lava
 FR: feu ou de lave

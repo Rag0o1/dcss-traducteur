@@ -53,7 +53,7 @@ globalThis.DCSS_PROJECTILES = Object.assign(globalThis.DCSS_PROJECTILES || {}, {
  "spray of wooden splinters": ["gerbe d’éclats de bois", "f"], "sticky flame": ["flamme collante", "f"], "sting": ["dard", "m"],
  "stinking cloud": ["nuage puant", "m"], "stone arrow": ["flèche de pierre", "f"], "stunning burst": ["salve étourdissante", "f"],
  "surge of chaos": ["déferlement de chaos", "m"], "surge of energy": ["déferlement d’énergie", "m"], "swarm of vampire bats": ["nuée de chauves-souris vampires", "f"],
- "torrent of water": ["torrent d’eau", "m"], "toxic sludge": ["boue toxique", "f"], "umbral torchlight": ["lueur de torche ombrale", "f"],
+ "torrent of water": ["torrent d’eau", "m"], "toxic sludge": ["boue toxique", "f"], "umbral torchlight": ["lueur de torche ombreuse", "f"],
  "unravelling": ["effilochage", "m"], "volatile concoction": ["mixture volatile", "f"], "volley of spikes": ["volée de pointes", "f"],
  "volley of thorns": ["volée d’épines", "f"], "wave of devouring shadow": ["vague d’ombre dévorante", "f"], "whirling bolas": ["bolas tournoyantes", "p"],
  

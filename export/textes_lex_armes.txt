@@ -26,7 +26,7 @@ EN: A dagger with an uncanny enchantment upon it, allowing it to strike twice fo
 FR: Une dague dotée d’un enchantement étrange, qui lui permet de frapper deux fois pour chaque coup de son porteur. Il faut une grande maîtrise pour l’utiliser pleinement.
 
 EN: A farm implement, usually only used by untrained mobs in combat. In practice, it's quite similar to a halberd.
-FR: Un outil agricole, généralement utilisé au combat seulement par des foules sans entraînement. En pratique, elle est très proche d’une hallebarde.
+FR: Un outil agricole, généralement utilisé au combat seulement par des foules sans entraînement. En pratique, il est très proche d’une hallebarde.
 
 EN: A fearsome weapon covered in dried blood and crude engravings of torture and death, bearing an enormous axehead.
 FR: Une arme redoutable couverte de sang séché et de gravures grossières de torture et de mort, dotée d’une énorme tête de hache.
@@ -80,7 +80,7 @@ EN: A lightweight penetrating spear, designed for throwing.
 FR: Une lance légère et perforante, conçue pour être lancée.
 
 EN: A long plaited strip of leather. Originally developed for use in disagreements with cattle, this simple weapon is now widely used to settle differences between all sorts of creatures.
-FR: Une longue lanière de cuir tressé. Développé à l’origine pour régler des désaccords avec le bétail, ce simple instrument est aujourd’hui largement utilisé pour régler les différends entre toutes sortes de créatures.
+FR: Une longue lanière de cuir tressé. Développée à l’origine pour régler des désaccords avec le bétail, cette simple arme est aujourd’hui largement utilisé pour régler les différends entre toutes sortes de créatures.
 
 EN: A long pole with an enormous, cleaving blade on one end.
 FR: Une longue perche dotée à une extrémité d’une énorme lame fendante.

@@ -39,7 +39,7 @@
         "invoke the sign of ruin": "invoquer le sceau de la ruine",
         "light the black torch and reap souls in Yredelemnul's name": "allumer la torche noire et moissonner des âmes au nom de Yredelemnul",
         "recall your undead harvest": "rappeler votre moisson de morts-vivants",
-        "hurl gouts of umbral torchlight": "projeter des gerbes de lumière de torche ombrale",
+        "hurl gouts of umbral torchlight": "projeter des gerbes de lumière de torche ombreuse",
         "bind living souls": "lier des âmes vivantes",
         "engulf your surroundings in Yredelemnul's grip": "engloutir vos environs dans l’emprise de Yredelemnul",
         "gain great but temporary skills": "gagner de grandes compétences temporaires",

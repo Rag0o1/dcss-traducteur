@@ -67,7 +67,7 @@ globalThis.DCSS_TRADUCTIONS.messages_fixes = {
 "An iron grate is ripped into pieces!": "Une grille de fer est déchiquetée !",
 "An oklob plant grows from the ground.": "Une plante oklob pousse du sol.",
 "An unnatural silence engulfs you.": "Un silence surnaturel vous enveloppe.",
-"Ancestor HP restored.": "PV de l’ancêtre restaurés.",
+"Ancestor HP restored.": "HP de l’ancêtre restaurés.",
 "And here are the needed waypoints: ": "Et voici les points de passage nécessaires : ",
 "And here are the needed waypoints:": "Et voici les points de passage nécessaires :",
 "Angry insects swarm out of your body to defend their hive!": "Des insectes furieux jaillissent de votre corps pour défendre leur ruche !",

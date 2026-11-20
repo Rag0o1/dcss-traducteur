@@ -11,6 +11,12 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.25.9 — relecture des descriptions, sigles en anglais
+
+- Relecture des 2 710 descriptions (monstres, sorts, objets, mutations, dieux, espèces, métiers, lieux) : 158 corrections (contresens, oublis, accords, mots inexistants, noms de sorts et de lieux remis en anglais, summon = convoquer, apostrophes ’, phrases ajoutées en double retirées).
+- Décision du 20/11 : les sigles restent en anglais comme à l’écran du jeu — AC (et non CA), HP (PV), MP (PM), XL (NX), avec EV et SH ; leur explication est en français.
+- « Summonings » = « de Convocation » partout ; « lumière de torche ombreuse ».
+
 ## 0.25.8 — « Donjon » quand ce n’est pas le lieu
 
 - Précision du 19/11 : « Dungeon » reste en anglais quand il désigne le lieu (niveaux du Dungeon, retour vers le Dungeon, « Bon retour dans le Dungeon ! ») ; quand il désigne la structure, le monde souterrain (Xom, descriptions, histoires des monstres), on garde « le Donjon ».

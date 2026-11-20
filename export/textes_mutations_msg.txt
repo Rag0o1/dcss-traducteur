@@ -8,7 +8,7 @@ EN: The iron flakes away from your scales.
 FR: Le fer s’effrite de vos écailles.
 
 EN: Iron will fuse itself to your scales. (AC + 5)
-FR: Le fer se fondra à vos écailles. (CA + 5)
+FR: Le fer se fondra à vos écailles. (AC + 5)
 
 EN: inviolate magic
 FR: magie inviolable
@@ -707,10 +707,10 @@ EN: Your shaggy fur recedes somewhat.
 FR: Votre fourrure hirsute régresse un peu.
 
 EN: Your shaggy fur will keep you warm. (AC + 3, rC+)
-FR: Votre fourrure hirsute vous gardera au chaud. (CA + 3, rF+)
+FR: Votre fourrure hirsute vous gardera au chaud. (AC + 3, rF+)
 
 EN: high MP
-FR: PM élevés
+FR: MP élevés
 
 EN: You feel more energetic.
 FR: Vous vous sentez plus énergique.
@@ -719,7 +719,7 @@ EN: You feel less energetic.
 FR: Vous vous sentez moins énergique.
 
 EN: low MP
-FR: PM faibles
+FR: MP faibles
 
 EN: wild magic
 FR: magie sauvage
@@ -1664,7 +1664,7 @@ EN: You can once more study and cast Translocations magic.
 FR: Vous pouvez de nouveau étudier et lancer la magie de Translocation.
 
 EN: reduced AC
-FR: CA réduite
+FR: AC réduite
 
 EN: You feel more vulnerable to harm.
 FR: Vous vous sentez plus vulnérable aux blessures.
@@ -1721,7 +1721,7 @@ EN: Your ability to control magic is less disrupted.
 FR: Votre capacité à contrôler la magie est moins perturbée.
 
 EN: MP-powered wands
-FR: baguettes alimentées par les PM
+FR: baguettes alimentées par les MP
 
 EN: You feel your magical essence link to the dungeon's wands.
 FR: Vous sentez votre essence magique se lier aux baguettes du donjon.
@@ -1934,7 +1934,7 @@ EN: You feel a greater respect for book-learning.
 FR: Vous ressentez un plus grand respect pour le savoir des livres.
 
 EN: HP casting
-FR: lancer de sorts avec les PV
+FR: lancer de sorts avec les HP
 
 EN: Your magical power and health merge together.
 FR: Votre pouvoir magique et votre santé fusionnent.

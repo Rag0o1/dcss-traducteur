@@ -99,7 +99,7 @@
         return null; } });
     R.push({ regex: /^(?:The )?([a-z][a-z ]+?) (?:is|are) quivering$/, translate: () => null });
     R.push({ regex: /^(\d+)\.(\d+) (.+?) escaped with the Orb$/, translate: m => `${m[1]}.${m[2]} ${m[3]} s’est échappé avec l’Orbe` });
-    R.push({ regex: /^(\d+) (\S+ the .+?) \(level (\d+), (-?\d+)\/(\d+) HPs\)$/, translate: m => `${m[1]} ${m[2]} (niveau ${m[3]}, ${m[4]}/${m[5]} PV)` });
+    R.push({ regex: /^(\d+) (\S+ the .+?) \(level (\d+), (-?\d+)\/(\d+) HPs\)$/, translate: m => `${m[1]} ${m[2]} (niveau ${m[3]}, ${m[4]}/${m[5]} HP)` });
     R.push({ regex: /^Was a Believer of (.+)\.$/, translate: m => `Était un Croyant ${/^[AEIOUYÉ]/.test(m[1]) ? "d’" : "de "}${m[1]}.` });
     R.push({ regex: /^([a-z]) - (.+?) Piety(-*) ?(\d+)%$/, translate: m => { const n = traduit(m[2]) || m[2]; return `${m[1]} - ${n} Piété${m[3]} ${m[4]} %`; } });
     R.push({ regex: /^([A-Z][a-z ’'-]+?) \(level (\d+)\/(\d+)\)$/, translate: m => {

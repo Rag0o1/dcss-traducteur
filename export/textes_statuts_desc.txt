@@ -2,7 +2,7 @@ EN: After a short delay, this creature will be teleported to somewhere else on t
 FR: Après un court délai, cette créature sera téléportée ailleurs sur l’étage actuel.
 
 EN: This creature suffers AC-ignoring cold damage every turn, and may sometimes explode in a burst of ice that damages nearby allies. When it dies, it may spread rimeblight to other nearby allies. Natural, demonic, or holy creatures will be instantly killed once they reach low health, and be replaced with pillars of rime.
-FR: Cette créature subit chaque tour des dégâts de froid ignorant la CA, et peut parfois exploser en une gerbe de glace qui blesse les alliés proches. Quand elle meurt, elle peut propager la nécrose du givre à d’autres alliés proches. Les créatures naturelles, démoniaques ou saintes seront instantanément tuées une fois leur santé basse, et remplacées par des piliers de givre.
+FR: Cette créature subit chaque tour des dégâts de froid ignorant l’AC, et peut parfois exploser en une gerbe de glace qui blesse les alliés proches. Quand elle meurt, elle peut propager la nécrose du givre à d’autres alliés proches. Les créatures naturelles, démoniaques ou saintes seront instantanément tuées une fois leur santé basse, et remplacées par des piliers de givre.
 
 EN: This creature is being targeted by one or more of your allies.
 FR: Cette créature est ciblée par un ou plusieurs de vos alliés.
@@ -62,7 +62,7 @@ EN: This formerly-friendly creature has been charmed by another creature to join
 FR: Cette créature autrefois amie a été charmée par une autre créature pour rejoindre son camp. Si vous tuez la source de ce charme, elle retrouvera ses esprits.
 
 EN: This creature has been coated in sticky flame, and will take AC-ignoring fire damage each turn. Movement will shake off the flames, causing it to expire much more rapidly and stepping into water will extinguish it entirely.
-FR: Cette créature a été enduite de flammes collantes, et subira à chaque tour des dégâts de feu ignorant la CA. Se déplacer secoue les flammes, qui s’éteignent alors bien plus vite, et entrer dans l’eau les éteindra entièrement.
+FR: Cette créature a été enduite de flammes collantes, et subira à chaque tour des dégâts de feu ignorant l’AC. Se déplacer secoue les flammes, qui s’éteignent alors bien plus vite, et entrer dans l’eau les éteindra entièrement.
 
 EN: This creature is unable to evade attacks or turn invisible. If it dies, it will leave behind a cloud of magnetised fragments. Each time Magnavolt is cast, a beam of electricity will automatically be fired at this creature.
 FR: Cette créature est incapable d’esquiver les attaques ou de devenir invisible. Si elle meurt, elle laissera derrière elle un nuage de fragments magnétisés. Chaque fois que Magnavolt est lancé, un rayon d’électricité sera automatiquement tiré sur cette créature.
@@ -122,7 +122,7 @@ EN: This creature is but a fragile duplicate of another creature. Its health is 
 FR: Cette créature n’est qu’un fragile double d’une autre créature. Sa santé est réduite de 66 %, elle inflige 33 % de dégâts en moins avec ses attaques, et ses sorts sont nettement affaiblis.
 
 EN: This creature has been empowered by the flames of Ignis. It deals additional fire damage with its melee attacks, moves 33% more quickly, and has increased AC and resistance to fire.
-FR: Cette créature a été renforcée par les flammes d’Ignis. Elle inflige des dégâts de feu supplémentaires avec ses attaques de mêlée, se déplace 33 % plus vite, et a une CA et une résistance au feu accrues.
+FR: Cette créature a été renforcée par les flammes d’Ignis. Elle inflige des dégâts de feu supplémentaires avec ses attaques de mêlée, se déplace 33 % plus vite, et a une AC et une résistance au feu accrues.
 
 EN: This creature is fleeing in fear and will attempt each turn to move away from the source of this fear. Beside movement, it may only cast spells which it thinks could help it escape, such as Blink. If harmed directly or cornered against terrain, it will turn around to fight once more.
 FR: Cette créature fuit de peur et tentera à chaque tour de s’éloigner de la source de cette peur. Outre le mouvement, elle ne peut lancer que des sorts qu’elle pense pouvoir l’aider à s’échapper, comme Blink. Si elle est blessée directement ou acculée contre le terrain, elle fera demi-tour pour se battre de nouveau.
@@ -143,7 +143,7 @@ EN: This creature has been heavily drained, lowering the accuracy of their melee
 FR: Cette créature a été fortement drainée, ce qui diminue la précision de ses attaques de mêlée, la puissance de ses sorts et de ses propriétés d’attaque spéciales, et la rend plus vulnérable à de nombreux effets de statut.
 
 EN: This creature has glows with the perfection of their best self. They deal 100% more damage with melee attacks, have additional AC, and cast spells with substantially more strength.
-FR: Cette créature brille de la perfection de son meilleur moi. Elle inflige 100 % de dégâts en plus avec ses attaques de mêlée, a une CA supplémentaire, et lance des sorts avec bien plus de force.
+FR: Cette créature brille de la perfection de son meilleur moi. Elle inflige 100 % de dégâts en plus avec ses attaques de mêlée, a une AC supplémentaire, et lance des sorts avec bien plus de force.
 
 EN: This creature has been roused into great speed by the wrath of Gozag Ym Sagoz. Their haste or berserk state is permanent and will not wear off with time or through deliberate magical intervention.
 FR: Cette créature a été excitée à une grande vitesse par la colère de Gozag Ym Sagoz. Son état de hâte ou de berserk est permanent et ne se dissipera ni avec le temps ni par intervention magique délibérée.
@@ -191,7 +191,7 @@ EN: This creature's shadow has been torn away from it and cannot be affected by 
 FR: L’ombre de cette créature lui a été arrachée et ne peut plus jamais être affectée par Aphotic Marionette.
 
 EN: This creature's AC is reduced by 8 and its accuracy, spell power, brand damage, and willpower are moderately reduced.
-FR: La CA de cette créature est réduite de 8, et sa précision, sa puissance de sorts, ses dégâts de marque et sa volonté sont modérément réduites.
+FR: L’AC de cette créature est réduite de 8, et sa précision, sa puissance de sorts, ses dégâts de marque et sa volonté sont modérément réduites.
 
 EN: This creature's fire resistance is reduced by one level.
 FR: La résistance au feu de cette créature est réduite d’un niveau.

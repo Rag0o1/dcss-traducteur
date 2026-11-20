@@ -740,10 +740,10 @@ EN: ~Normally this isn't a problem, since magical contamination bleeds off over 
 FR: Normalement ce n’est pas un problème, puisque la contamination magique s’évacue avec le temps, mais si vous êtes contaminé à répétition en peu de temps, vous muterez ou subirez d’autres mauvais effets secondaires.
 
 EN: ~Note that a miscast spell will still consume the full amount of MP that a successfully cast spell would.
-FR: Notez qu’un sort raté consommera quand même la totalité des PM qu’un sort réussi aurait consommés.
+FR: Notez qu’un sort raté consommera quand même la totalité des MP qu’un sort réussi aurait consommés.
 
 EN: ~Most attacks in Crawl are defended against by your AC.
-FR: La plupart des attaques de Crawl sont contrées par votre CA.
+FR: La plupart des attaques de Crawl sont contrées par votre AC.
 
 EN: ~Some, like fire or draining attacks, can be further reduced by specific resistances.
 FR: Certaines, comme les attaques de feu ou de drain, peuvent être encore réduites par des résistances spécifiques.
@@ -779,7 +779,7 @@ EN: ~The radius will gradually shrink, eventually making you the only one affect
 FR: Le rayon rétrécira peu à peu, jusqu’à ce que vous soyez le seul affecté, avant que l’effet ne disparaisse entièrement.
 
 EN: ~As your Spellcasting skill increases, you will be able to memorise more spells, and will have somewhat more MP.
-FR: Au fur et à mesure que votre compétence d’Incantation augmente, vous pourrez mémoriser plus de sorts et aurez un peu plus de PM.
+FR: Au fur et à mesure que votre compétence d’Incantation augmente, vous pourrez mémoriser plus de sorts et aurez un peu plus de MP.
 
 EN: ~You'll also become slightly better at casting all kinds of spells.
 FR: Vous deviendrez aussi légèrement meilleur pour lancer toutes sortes de sorts.

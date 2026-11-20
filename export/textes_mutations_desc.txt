@@ -1,35 +1,35 @@
 EN: Your epidermis has hardened, providing a small amount of protection. Each level of this mutation provides +1 AC.
-FR: Votre épiderme s’est endurci, offrant une petite protection. Chaque niveau de cette mutation procure +1 CA.
+FR: Votre épiderme s’est endurci, offrant une petite protection. Chaque niveau de cette mutation procure +1 AC.
 
 EN: You are covered in fur, providing a small amount of protection. Each level of this mutation provides +1 AC. The third level of this mutation also provides resistance to cold.
-FR: Vous êtes couvert de fourrure, ce qui offre une petite protection. Chaque niveau de cette mutation procure +1 CA. Le troisième niveau procure aussi une résistance au froid.
+FR: Vous êtes couvert de fourrure, ce qui offre une petite protection. Chaque niveau de cette mutation procure +1 AC. Le troisième niveau procure aussi une résistance au froid.
 
 EN: You are surrounded by a repulsion field, providing a small amount of evasion. Each level of this mutation provides more EV. The third level of this mutation also repels missiles, greatly increasing your EV against such attacks.
 FR: Vous êtes entouré d’un champ répulsif, qui offre un peu d’esquive. Chaque niveau de cette mutation procure plus d’EV. Le troisième niveau repousse aussi les projectiles, augmentant fortement votre EV contre ces attaques.
 
 EN: You are covered in blue scales, providing a small amount of protection. Each level of this mutation provides more AC. The third level of this mutation also provides resistance to cold.
-FR: Vous êtes couvert d’écailles bleues, ce qui offre une petite protection. Chaque niveau de cette mutation procure plus de CA. Le troisième niveau procure aussi une résistance au froid.
+FR: Vous êtes couvert d’écailles bleues, ce qui offre une petite protection. Chaque niveau de cette mutation procure plus d’AC. Le troisième niveau procure aussi une résistance au froid.
 
 EN: You are covered in molten scales, providing a small amount of protection. Each level of this mutation provides more AC. The third level of this mutation also provides resistance to fire.
-FR: Vous êtes couvert d’écailles en fusion, ce qui offre une petite protection. Chaque niveau de cette mutation procure plus de CA. Le troisième niveau procure aussi une résistance au feu.
+FR: Vous êtes couvert d’écailles en fusion, ce qui offre une petite protection. Chaque niveau de cette mutation procure plus d’AC. Le troisième niveau procure aussi une résistance au feu.
 
 EN: You are covered in green scales, providing a small amount of protection. Each level of this mutation provides more AC. The third level of this mutation also provides resistance to poison.
-FR: Vous êtes couvert d’écailles vertes, ce qui offre une petite protection. Chaque niveau de cette mutation procure plus de CA. Le troisième niveau procure aussi une résistance au poison.
+FR: Vous êtes couvert d’écailles vertes, ce qui offre une petite protection. Chaque niveau de cette mutation procure plus d’AC. Le troisième niveau procure aussi une résistance au poison.
 
 EN: You are covered in yellow scales, providing a small amount of protection. Each level of this mutation provides more AC. The third level of this mutation also provides resistance to acid and corrosion.
-FR: Vous êtes couvert d’écailles jaunes, ce qui offre une petite protection. Chaque niveau de cette mutation procure plus de CA. Le troisième niveau procure aussi une résistance à l’acide et à la corrosion.
+FR: Vous êtes couvert d’écailles jaunes, ce qui offre une petite protection. Chaque niveau de cette mutation procure plus d’AC. Le troisième niveau procure aussi une résistance à l’acide et à la corrosion.
 
 EN: You are covered in metallic scales, providing a small amount of protection. Each level of this mutation provides more AC. The third level of this mutation also provides resistance to electricity.
-FR: Vous êtes couvert d’écailles métalliques, ce qui offre une petite protection. Chaque niveau de cette mutation procure plus de CA. Le troisième niveau procure aussi une résistance à l’électricité.
+FR: Vous êtes couvert d’écailles métalliques, ce qui offre une petite protection. Chaque niveau de cette mutation procure plus d’AC. Le troisième niveau procure aussi une résistance à l’électricité.
 
 EN: You are covered in brown scales, providing a small amount of protection. Each level of this mutation provides +1 AC and also increases your health slightly.
-FR: Vous êtes couvert d’écailles brunes, ce qui offre une petite protection. Chaque niveau de cette mutation procure +1 CA et augmente légèrement votre santé.
+FR: Vous êtes couvert d’écailles brunes, ce qui offre une petite protection. Chaque niveau de cette mutation procure +1 AC et augmente légèrement votre santé.
 
 EN: You are covered in sharp scales, providing a small amount of protection. Each level of this mutation provides +1 AC and Slay +1, improving your accuracy and damage with melee and ranged attacks.
-FR: Vous êtes couvert d’écailles tranchantes, ce qui offre une petite protection. Chaque niveau de cette mutation procure +1 CA et Slay +1, améliorant votre précision et vos dégâts en mêlée et à distance.
+FR: Vous êtes couvert d’écailles tranchantes, ce qui offre une petite protection. Chaque niveau de cette mutation procure +1 AC et Slay +1, améliorant votre précision et vos dégâts en mêlée et à distance.
 
 EN: You are covered in iridescent scales, providing a small amount of protection. Each level of this mutation provides +2 AC.
-FR: Vous êtes couvert d’écailles irisées, ce qui offre une petite protection. Chaque niveau de cette mutation procure +2 CA.
+FR: Vous êtes couvert d’écailles irisées, ce qui offre une petite protection. Chaque niveau de cette mutation procure +2 AC.
 
 EN: You are covered in bone plates, providing a small amount of shielding. Each level of this mutation provides more SH.
 FR: Vous êtes couvert de plaques d’os, ce qui offre une petite protection. Chaque niveau de cette mutation procure plus de BL.
@@ -56,13 +56,13 @@ EN: Your reflexes have become unnaturally clumsy. Each level of this mutation pr
 FR: Vos réflexes sont devenus anormalement maladroits. Chaque niveau de cette mutation procure -3 Dextérité.
 
 EN: You have an increased reservoir of magic. Each level of this mutation provides +10% MP.
-FR: Vous avez une réserve de magie accrue. Chaque niveau de cette mutation procure +10 % de PM.
+FR: Vous avez une réserve de magie accrue. Chaque niveau de cette mutation procure +10 % de MP.
 
 EN: You have a low magical capacity. Each level of this mutation provides -10% MP.
-FR: Vous avez une faible capacité magique. Chaque niveau de cette mutation procure -10 % de PM.
+FR: Vous avez une faible capacité magique. Chaque niveau de cette mutation procure -10 % de MP.
 
 EN: You have both an innate understanding and a greater control over the exact flow of your magic, letting you cast spells with greater efficiency. Each level of this mutation reduces the cost of your spells by 1 MP, to a minimum of 1 MP.
-FR: Vous avez à la fois une compréhension innée et un meilleur contrôle du flux exact de votre magie, ce qui vous permet de lancer des sorts plus efficacement. Chaque niveau de cette mutation réduit le coût de vos sorts de 1 PM, jusqu’à un minimum de 1 PM.
+FR: Vous avez à la fois une compréhension innée et un meilleur contrôle du flux exact de votre magie, ce qui vous permet de lancer des sorts plus efficacement. Chaque niveau de cette mutation réduit le coût de vos sorts de 1 MP, jusqu’à un minimum de 1 MP.
 
 EN: Whenever you use spells or divine abilities with any costs, a shield forms from the excess loose magical or spiritual energy to guard you. The magical energy from spells only sustains the shield for but a moment, while the spiritual energy from using divine abilities lasts a brief bit longer.
 FR: Chaque fois que vous utilisez des sorts ou des capacités divines ayant un coût, un bouclier se forme à partir de l’excès d’énergie magique ou spirituelle libérée pour vous protéger. L’énergie magique des sorts ne maintient le bouclier qu’un instant, tandis que l’énergie spirituelle des capacités divines dure un peu plus longtemps.
@@ -74,7 +74,7 @@ EN: Foes who strike you in melee will be frozen, taking damage. This effect is g
 FR: Les ennemis qui vous frappent en mêlée seront gelés et subiront des dégâts. Cet effet est garanti dès que votre ennemi inflige des dégâts.
 
 EN: Your blood has desynchronised itself from the flow of time. Whenever you fall below 66% of your maximum HP, the spilling of your blood surges strangely through your surroundings, hasting two of your strongest allies in sight for each level of this mutation. After doing so, your blood will be unable to further dilate time until your HP has fully recovered.
-FR: Votre sang s’est désynchronisé du flux du temps. Chaque fois que vous tombez sous 66 % de vos PV maximum, l’écoulement de votre sang se propage étrangement autour de vous et hâte deux de vos plus puissants alliés en vue par niveau de cette mutation. Ensuite, votre sang ne pourra plus dilater le temps tant que vos PV ne seront pas entièrement rétablis.
+FR: Votre sang s’est désynchronisé du flux du temps. Chaque fois que vous tombez sous 66 % de vos HP maximum, l’écoulement de votre sang se propage étrangement autour de vous et hâte deux de vos plus puissants alliés en vue par niveau de cette mutation. Ensuite, votre sang ne pourra plus dilater le temps tant que vos HP ne seront pas entièrement rétablis.
 
 EN: Your altered digestive system extracts additional value out of select potion types, doubling the duration of all status effects gained via potions.
 FR: Votre système digestif modifié tire une valeur supplémentaire de certains types de potions, doublant la durée de tous les effets de statut obtenus par les potions.
@@ -191,10 +191,10 @@ EN: You cover ground slowly - moving to new positions takes you more time. This 
 FR: Vous parcourez le terrain lentement : vous déplacer vers de nouvelles positions vous prend plus de temps. Cela n’a aucun effet sur les autres types d’actions, comme attaquer ou lancer des sorts. Chaque niveau de cette mutation vous fait vous déplacer plus lentement.
 
 EN: You can take a beating. Each level of this mutation improves your health further (+10% HP).
-FR: Vous encaissez bien les coups. Chaque niveau de cette mutation améliore encore votre santé (+10 % de PV).
+FR: Vous encaissez bien les coups. Chaque niveau de cette mutation améliore encore votre santé (+10 % de HP).
 
 EN: Your health is poor. Each level of this mutation worsens your health further (-10% HP).
-FR: Votre santé est précaire. Chaque niveau de cette mutation aggrave encore votre santé (-10 % de PV).
+FR: Votre santé est précaire. Chaque niveau de cette mutation aggrave encore votre santé (-10 % de HP).
 
 EN: As you gain experience, your body's hidden potential will express itself in the form of new beneficial mutations.
 FR: À mesure que vous gagnez de l’expérience, le potentiel caché de votre corps s’exprimera sous la forme de nouvelles mutations bénéfiques.
@@ -272,7 +272,7 @@ EN: Your movements are less encumbered by armour, mitigating penalties to spell 
 FR: Vos mouvements sont moins gênés par l’armure, ce qui atténue les pénalités à la réussite des sorts, à l’évasion et à la vitesse d’attaque à distance. Chaque niveau de cette mutation réduit de 2 l’encombrement (ER) de l’armure.
 
 EN: When seriously injured, your blood congeals around you, forming armour. Each level of this mutation increases the AC provided.
-FR: Lorsque vous êtes gravement blessé, votre sang se fige autour de vous et forme une armure. Chaque niveau de cette mutation augmente la CA procurée.
+FR: Lorsque vous êtes gravement blessé, votre sang se fige autour de vous et forme une armure. Chaque niveau de cette mutation augmente l’AC procurée.
 
 EN: What's up? You have a big brain. Each level of this mutation provides +2 Intelligence. The third level of this mutation also makes you less likely to miscast spells.
 FR: Quoi de neuf ? Vous avez un gros cerveau. Chaque niveau de cette mutation procure +2 Intelligence. Le troisième niveau réduit aussi le risque d’échec des sorts.
@@ -284,7 +284,7 @@ EN: When you injure a foe, your presence may intensify the damage, corroding the
 FR: Lorsque vous blessez un ennemi, votre présence peut intensifier les dégâts et corroder ses armes et ses défenses. Le deuxième niveau de cette mutation aggrave encore les choses, avec une chance que vos misérables victimes soient mutées et déformées.
 
 EN: When you strike a foe in melee, the black mark on your body may debilitate them. This can weaken foes, drain their health, or disrupt their magic.
-FR: Lorsque vous frappez un ennemi en mêlée, la marque noire sur votre corps peut l’affaiblir. Cela peut affaiblir les ennemis, drainer leur santé ou perturber leur magie.
+FR: Lorsque vous frappez un ennemi en mêlée, la marque noire sur votre corps peut le handicaper. Cela peut affaiblir les ennemis, drainer leur santé ou perturber leur magie.
 
 EN: You are surrounded by an aura of silence. Those adjacent to you cannot make any sound. This prevents most forms of spellcasting and prayer, though demonic magic, being noiseless, is unaffected.
 FR: Vous êtes entouré d’une aura de silence. Ceux qui sont adjacents à vous ne peuvent émettre aucun son. Cela empêche la plupart des formes de sorts et de prières, mais la magie démoniaque, étant silencieuse, n’est pas affectée.
@@ -326,10 +326,10 @@ EN: You cannot learn spells from books. Instead, as you gain experience, spells 
 FR: Vous ne pouvez pas apprendre de sorts dans les livres. À la place, à mesure que vous gagnez de l’expérience, des sorts de niveau toujours plus élevé jaillissent de votre cœur de feu. Ces sorts sont imprévisibles et non affectés par votre choix de dieu. Vous ne pouvez pas entraîner d’écoles de sorts spécifiques : vous pouvez entraîner toutes les écoles à la fois, ou aucune.
 
 EN: You have no separate reserve of magical power, and anything that would affect MP has no effect on you. When casting spells, using abilities, or doing anything else that *costs* MP for normal species, you spend HP instead.
-FR: Vous n’avez pas de réserve de pouvoir magique séparée, et tout ce qui affecterait les PM n’a aucun effet sur vous. Lorsque vous lancez des sorts, utilisez des capacités ou faites toute autre chose qui *coûte* des PM aux espèces normales, vous dépensez des PV à la place.
+FR: Vous n’avez pas de réserve de pouvoir magique séparée, et tout ce qui affecterait les MP n’a aucun effet sur vous. Lorsque vous lancez des sorts, utilisez des capacités ou faites toute autre chose qui *coûte* des MP aux espèces normales, vous dépensez des HP à la place.
 
 EN: You are built differently from most species, making you slightly harder to kill. Each level of this mutation increases your maximum health by 4 points.
-FR: Vous êtes bâti différemment de la plupart des espèces, ce qui vous rend un peu plus difficile à tuer. Chaque niveau de cette mutation augmente vos PV maximum de 4 points.
+FR: Vous êtes bâti différemment de la plupart des espèces, ce qui vous rend un peu plus difficile à tuer. Chaque niveau de cette mutation augmente vos HP maximum de 4 points.
 
 EN: Your uniquely muscular legs allow you to hop short distances in the blink of an eye with $cmd[CMD_USE_ABILITY], though your walking speed is below average. The second level of this mutation allows you to hop farther.
 FR: Vos jambes exceptionnellement musclées vous permettent de bondir sur de courtes distances en un clin d’œil avec <input>$cmd[CMD_USE_ABILITY]</input>, mais votre vitesse de marche est inférieure à la moyenne. Le deuxième niveau de cette mutation vous permet de bondir plus loin.
@@ -344,10 +344,10 @@ EN: You are attuned to the shadows, reducing the distance that you can see or be
 FR: Vous êtes accordé aux ombres, ce qui réduit la distance à laquelle vous pouvez voir ou être vu.
 
 EN: You are made of living stone which is very resistant to damage. You gain a large bonus to your AC, which increases with your experience level, and are immune to petrification, poison, disease, sleep, and certain other effects.
-FR: Vous êtes fait de pierre vivante, très résistante aux dégâts. Vous gagnez un important bonus de CA, qui augmente avec votre niveau d’expérience, et vous êtes immunisé contre la pétrification, le poison, la maladie, le sommeil et certains autres effets.
+FR: Vous êtes fait de pierre vivante, très résistante aux dégâts. Vous gagnez un important bonus d’AC, qui augmente avec votre niveau d’expérience, et vous êtes immunisé contre la pétrification, le poison, la maladie, le sommeil et certains autres effets.
 
 EN: When launching attacks on unaware or incapacitated enemies, you inflict extra damage in the same way as a human with a short blade might.
-FR: Lorsque vous attaquez des ennemis inconscients ou incapacités, vous infligez des dégâts supplémentaires, comme le ferait un humain avec une lame courte.
+FR: Lorsque vous attaquez des ennemis inconscients ou hors d’état de réagir, vous infligez des dégâts supplémentaires, comme le ferait un humain avec une lame courte.
 
 EN: You have two pairs of two arms, allowing you to wield two-handed weapons with one pair and a shield with the other, as well as wear a second pair of gloves. You can even wield extremely large weapons like giant clubs, though this takes both arm-pairs.
 FR: Vous avez deux paires de bras, ce qui vous permet de manier des armes à deux mains avec une paire et un bouclier avec l’autre, ainsi que de porter une seconde paire de gants. Vous pouvez même manier des armes extrêmement grandes comme les massues de géant, bien que cela mobilise les deux paires de bras.
@@ -377,10 +377,10 @@ EN: The darkness flees at your approach, allowing an extended range of vision an
 FR: Les ténèbres fuient à votre approche, ce qui étend votre champ de vision et d’attaque à distance (+1 ligne de vue), mais permet aussi de vous voir et de vous cibler de plus loin.
 
 EN: You do not regenerate health while resting, and are unable to receive the effects of magic that hastens the speed of regeneration. Sources of HP gain such as potions and religious invocations will still heal you, and certain divine invocations can temporarily grant you the ability to regenerate. To compensate, you are able to heal yourself via the $cmd[CMD_USE_ABILITY] key, at the cost of permanent MP.
-FR: Vous ne régénérez pas votre santé en vous reposant et ne pouvez pas recevoir les effets de la magie qui accélère la régénération. Les sources de PV comme les potions et les invocations religieuses vous soignent toujours, et certaines invocations divines peuvent temporairement vous accorder la capacité de régénérer. En compensation, vous pouvez vous soigner avec la touche <input>$cmd[CMD_USE_ABILITY]</input>, au prix de PM permanents.
+FR: Vous ne régénérez pas votre santé en vous reposant et ne pouvez pas recevoir les effets de la magie qui accélère la régénération. Les sources de HP comme les potions et les invocations religieuses vous soignent toujours, et certaines invocations divines peuvent temporairement vous accorder la capacité de régénérer. En compensation, vous pouvez vous soigner avec la touche <input>$cmd[CMD_USE_ABILITY]</input>, au prix de MP permanents.
 
 EN: You do not regenerate health while resting, and are unable to receive the effects of magic that hastens the speed of regeneration. Sources of HP gain such as potions and religious invocations will still heal you, and certain divine invocations can temporarily grant you the ability to regenerate. To compensate, you are able to heal yourself via the @@ key, at the cost of permanent MP.
-FR: Vous ne régénérez pas votre santé en vous reposant et ne pouvez pas recevoir les effets de la magie qui accélère la régénération. Les sources de PV comme les potions et les invocations religieuses vous soignent toujours, et certaines invocations divines peuvent temporairement vous accorder la capacité de régénérer. En compensation, vous pouvez vous soigner avec la touche @@, au prix de PM permanents.
+FR: Vous ne régénérez pas votre santé en vous reposant et ne pouvez pas recevoir les effets de la magie qui accélère la régénération. Les sources de HP comme les potions et les invocations religieuses vous soignent toujours, et certaines invocations divines peuvent temporairement vous accorder la capacité de régénérer. En compensation, vous pouvez vous soigner avec la touche @@, au prix de MP permanents.
 
 EN: You have an uncanny knack for knowing where items can be found. As you explore the dungeon, nearby item locations that you cannot directly see will gain a marker for as-yet-undiscovered items.
 FR: Vous avez un don étrange pour savoir où trouver des objets. En explorant le donjon, les emplacements d’objets proches que vous ne pouvez pas voir directement recevront un marqueur d’objets encore non découverts.
@@ -446,10 +446,10 @@ EN: Your hands are embedded into the controls for your grasping arms, leaving yo
 FR: Vos mains sont intégrées aux commandes de vos bras préhensiles, ce qui ne vous laisse aucun endroit où porter des anneaux magiques sans interférence magique désastreuse.
 
 EN: Your scales are fused with a thick layer of iron, giving them resilience akin to a suit of armour (+5 AC).
-FR: Vos écailles sont fusionnées avec une épaisse couche de fer, ce qui leur donne une résistance comparable à une armure (+5 CA).
+FR: Vos écailles sont fusionnées avec une épaisse couche de fer, ce qui leur donne une résistance comparable à une armure (+5 AC).
 
 EN: Your magic is resistant to distruption by outside forces. Hostile effects which drain your MP drain only 1/3 as much and you are immune to having your magical effects be removed by anyone but yourself.
-FR: Votre magie résiste aux perturbations extérieures. Les effets hostiles qui drainent vos PM n’en drainent que le tiers et vous êtes immunisé contre le retrait de vos effets magiques par quiconque autre que vous-même.
+FR: Votre magie résiste aux perturbations extérieures. Les effets hostiles qui drainent vos MP n’en drainent que le tiers et vous êtes immunisé contre le retrait de vos effets magiques par quiconque autre que vous-même.
 
 EN: You have no physical body and instead interact with the world through haunting objects. This allows you to 'equip' up to 6 boots, gloves, cloaks, or helmets in any combination, but body armour is too large for you to usefully manipulate in this fashion. At higher levels, you can even send the armour you are haunting out to attack enemies independently for short periods of time.
 FR: Vous n’avez pas de corps physique et interagissez avec le monde en hantant des objets. Cela vous permet d’« équiper » jusqu’à 6 bottes, gants, capes ou casques en toute combinaison, mais l’armure corporelle est trop grande pour que vous la manipuliez utilement ainsi. À des niveaux plus élevés, vous pouvez même envoyer l’armure que vous hantez attaquer les ennemis de façon indépendante pendant de courtes périodes.
@@ -464,13 +464,13 @@ EN: You rampage swiftly towards enemies and can continue to trample forward once
 FR: Vous vous ruez rapidement vers les ennemis et pouvez continuer à piétiner vers l’avant une fois arrivé, repoussant des lignes entières d’ennemis en attaquant. Toute action autre qu’un mouvement de ruée met fin à votre charge. Le deuxième niveau de cette mutation renforce votre charge avec la bénédiction de l’un des quatre vents, selon votre compétence la plus élevée : Vent du Nord : compétences d’armes de mêlée (sauf Lames courtes) Vent du Sud : Lames courtes ou Discrétion Vent d’Est : compétences de magie (sauf Incantation) Vent d’Ouest : compétence d’Armes à distance
 
 EN: You rapidly regenerate up to 70% of all damage you suffer while Stampeding. The rate of this regeneration increases with your maximum HP.
-FR: Vous régénérez rapidement jusqu’à 70 % de tous les dégâts que vous subissez pendant votre charge. Le rythme de cette régénération augmente avec vos PV maximum.
+FR: Vous régénérez rapidement jusqu’à 70 % de tous les dégâts que vous subissez pendant votre charge. Le rythme de cette régénération augmente avec vos HP maximum.
 
 EN: Whenever you rampage towards foes while wielding a ranged weapon, you also fire a penetrating shot that does increased damage and your next normal attack becomes empowered to fire at multiple foes at once.
 FR: Chaque fois que vous vous ruez vers des ennemis en maniant une arme à distance, vous tirez aussi un tir perforant qui inflige des dégâts accrus, et votre prochaine attaque normale est renforcée pour tirer sur plusieurs ennemis à la fois.
 
 EN: Whenever you Rampage, you regain a small percentage of your maxmimum MP and unleash a bitter wind that makes all enemies within 2 spaces of you Exposed, increasing the damage they take from non-attack sources by 35% and also their chance to be hit or affected by them. Additionally, casting spells will not cause you to stop Stampeding.
-FR: Chaque fois que vous vous ruez, vous regagnez un petit pourcentage de vos PM maximum et déchaînez un vent amer qui expose tous les ennemis à moins de 2 cases de vous, augmentant de 35 % les dégâts qu’ils subissent de sources autres que les attaques ainsi que leur probabilité d’être touchés ou affectés par elles. De plus, lancer des sorts ne vous fait pas interrompre votre charge.
+FR: Chaque fois que vous vous ruez, vous regagnez un petit pourcentage de vos MP maximum et déchaînez un vent amer qui expose tous les ennemis à moins de 2 cases de vous, augmentant de 35 % les dégâts qu’ils subissent de sources autres que les attaques ainsi que leur probabilité d’être touchés ou affectés par elles. De plus, lancer des sorts ne vous fait pas interrompre votre charge.
 
 EN: Your stealth is increased by 50% while Rampaging and whenever you successfully stab an enemy, your next Rampage movement becomes instant.
 FR: Votre discrétion est augmentée de 50 % pendant la ruée, et chaque fois que vous réussissez une attaque furtive, votre prochain mouvement de ruée devient instantané.
@@ -482,16 +482,16 @@ EN: You are fully undead, granting you immunity to poison, miasma, fear, sleep, 
 FR: Vous êtes entièrement mort-vivant, ce qui vous immunise contre le poison, les miasmes, la peur, le sommeil, l’énergie négative, le tourment, la noyade et les effets des attaques de spores. Votre forme ne peut plus être modifiée par la magie, ce qui vous protège de la métamorphose mais vous empêche aussi de porter des talismans. Si un effet devait vous faire muter, votre santé sera temporairement drainée à la place. Vous êtes vulnérable aux armes de courroux sacré et à certaines magies, et ne pouvez pas entrer en berserk.
 
 EN: When you perform a stab attack against a living monster with blood, you heal for a portion of the total damage dealt. When you are at 50% of your max HP or less, this has a 2/3 chance to happen on all melee attacks.
-FR: Lorsque vous effectuez une attaque furtive contre un monstre vivant qui a du sang, vous vous soignez d’une partie des dégâts totaux infligés. Lorsque vous êtes à 50 % de vos PV maximum ou moins, cela a 2 chances sur 3 de se produire à chaque attaque de mêlée.
+FR: Lorsque vous effectuez une attaque furtive contre un monstre vivant qui a du sang, vous vous soignez d’une partie des dégâts totaux infligés. Lorsque vous êtes à 50 % de vos HP maximum ou moins, cela a 2 chances sur 3 de se produire à chaque attaque de mêlée.
 
 EN: When you kill a living monster with a stab attack, they may rise again to serve you as a vampiric thrall. Thralls possess all the abilities they had in life, but are undead, and gain a vampiric bite attack as well as increased melee damage against sleeping foes. Spellcaster thralls will also gain knowledge of the Vampiric Draining spell. You can only create a thrall if you do not have one already, and they will inevitably turn to dust after a short time.
-FR: Lorsque vous tuez un monstre vivant par une attaque furtive, il peut se relever pour vous servir comme esclave vampirique. Les esclaves possèdent toutes les capacités qu’ils avaient de leur vivant, mais sont morts-vivants, et gagnent une morsure vampirique ainsi que des dégâts de mêlée accrus contre les ennemis endormis. Les esclaves lanceurs de sorts connaîtront aussi le sort Drain vampirique. Vous ne pouvez créer un esclave que si vous n’en avez pas déjà un, et il tombera inévitablement en poussière après peu de temps.
+FR: Lorsque vous tuez un monstre vivant par une attaque furtive, il peut se relever pour vous servir comme esclave vampirique. Les esclaves possèdent toutes les capacités qu’ils avaient de leur vivant, mais sont morts-vivants, et gagnent une morsure vampirique ainsi que des dégâts de mêlée accrus contre les ennemis endormis. Les esclaves lanceurs de sorts connaîtront aussi le sort Vampiric Draining. Vous ne pouvez créer un esclave que si vous n’en avez pas déjà un, et il tombera inévitablement en poussière après peu de temps.
 
 EN: You are insubstantial and immune to many effects that require a solid body. You cannot be constricted, petrified, skewered by barbs, covered in sticky flame, or caught by webs, nets, or bolas.
 FR: Vous êtes immatériel et immunisé contre de nombreux effets qui nécessitent un corps solide. Vous ne pouvez être ni enserré, ni pétrifié, ni transpercé par des barbelures, ni couvert de flammes collantes, ni pris dans des toiles, des filets ou des bolas.
 
 EN: Your breath radiates an intense chill which freezes nearby walls solid as you fight. Whenever you attack, you turn a random wall adjacent to your target or yourself frigid. Frigid walls deal damage to any enemies adjacent to them each turn - up to twice as much when an enemy is adjacent to as many as possible. This damage increases with your shapeshifting skill. The walls will rapidly melt again if you stop attacking.
-FR: Votre souffle dégage un froid intense qui gèle les murs proches pendant que vous combattez. Chaque fois que vous attaquez, vous rendez glacial un mur aléatoire adjacent à votre cible ou à vous-même. Les murs glacials infligent des dégâts à tous les ennemis adjacents à chaque tour, jusqu’au double lorsqu’un ennemi est adjacent à le plus de murs possible. Ces dégâts augmentent avec votre compétence de métamorphose. Les murs refondent rapidement si vous cessez d’attaquer.
+FR: Votre souffle dégage un froid intense qui gèle les murs proches pendant que vous combattez. Chaque fois que vous attaquez, vous rendez glacial un mur aléatoire adjacent à votre cible ou à vous-même. Les murs glacials infligent des dégâts à tous les ennemis adjacents à chaque tour, jusqu’au double lorsqu’un ennemi est adjacent au plus grand nombre de murs possible. Ces dégâts augmentent avec votre compétence de Métamorphose. Les murs refondent rapidement si vous cessez d’attaquer.
 
 EN: Whenever an injury reduces your health to less than 50%, angry bees will swarm out of your body to defend you. This effect cannot happen again until your health is fully recovered.
 FR: Chaque fois qu’une blessure réduit votre santé à moins de 50 %, des abeilles en colère jaillissent de votre corps pour vous défendre. Cet effet ne peut se reproduire avant que votre santé soit entièrement rétablie.
@@ -527,10 +527,10 @@ EN: Your hair is made of long prehensile jellyfish-like tendrils. Whenever you a
 FR: Vos cheveux sont faits de longues vrilles préhensiles semblables à des méduses. Chaque fois que vous attaquez en mêlée, elles fouettent et tentent d’empoisonner au hasard plusieurs ennemis visibles à moins de 2 cases du joueur. Le nombre d’ennemis qu’elles peuvent affliger à la fois est amélioré par la compétence de Métamorphose.
 
 EN: When your health drops to 60% of your max HP or less, your tendrils reflexively attempt to petrify all poisoned enemies within 3 tiles of you. This effect cannot activate again until you fully heal and its success chance improves with your Shapeshifting skill.
-FR: Lorsque votre santé tombe à 60 % de vos PV maximum ou moins, vos vrilles tentent par réflexe de pétrifier tous les ennemis empoisonnés à moins de 3 cases de vous. Cet effet ne peut se réactiver qu’une fois entièrement guéri et sa chance de réussite s’améliore avec votre compétence de Métamorphose.
+FR: Lorsque votre santé tombe à 60 % de vos HP maximum ou moins, vos vrilles tentent par réflexe de pétrifier tous les ennemis empoisonnés à moins de 3 cases de vous. Cet effet ne peut se réactiver qu’une fois entièrement guéri et sa chance de réussite s’améliore avec votre compétence de Métamorphose.
 
 EN: When you strike an enemy in melee, a portion of the transmutational energy surging through will contaminate them. Upon landing the third strike in a row, this contamination will grow so acute that it will twist their bodily form, inflicting significant AC-ignoring damage and malmutating them.
-FR: Lorsque vous frappez un ennemi en mêlée, une partie de l’énergie transmutatrice qui vous traverse le contamine. À la troisième frappe consécutive, cette contamination devient si aiguë qu’elle tord sa forme corporelle, infligeant des dégâts considérables qui ignorent la CA et le mutant dans le mauvais sens.
+FR: Lorsque vous frappez un ennemi en mêlée, une partie de l’énergie transmutatrice qui vous traverse le contamine. À la troisième frappe consécutive, cette contamination devient si aiguë qu’elle tord sa forme corporelle, infligeant des dégâts considérables qui ignorent l’AC et le mutant dans le mauvais sens.
 
 EN: Your maw sometimes bites enemies in melee, at a rate independant of your own attack speed (once per 15 aut, on average). Its base damage is directly increased by 75% of your strength.
 FR: Votre gueule mord parfois les ennemis en mêlée, à un rythme indépendant de votre propre vitesse d’attaque (une fois toutes les 15 aut en moyenne). Ses dégâts de base sont directement augmentés de 75 % de votre force.
@@ -545,7 +545,7 @@ EN: Your melee hits have a 50% chance of discharging an arc of electricity that 
 FR: Vos coups de mêlée ont 50 % de chances de décharger un arc électrique qui se propage entre plusieurs ennemis connectés.
 
 EN: When your health drops to 40% of your max HP, your eels violently discharge electricity, striking all connected targets within 2 tiles of yourself - be they friend or foe - for twice the damage their electricity normally does. This effect cannot activate again until you fully heal.
-FR: Lorsque votre santé tombe à 40 % de vos PV maximum, vos anguilles déchargent violemment de l’électricité, frappant toutes les cibles connectées à moins de 2 cases de vous, amies ou ennemies, pour le double des dégâts normaux de leur électricité. Cet effet ne peut se réactiver qu’une fois entièrement guéri.
+FR: Lorsque votre santé tombe à 40 % de vos HP maximum, vos anguilles déchargent violemment de l’électricité, frappant toutes les cibles connectées à moins de 2 cases de vous, amies ou ennemies, pour le double des dégâts normaux de leur électricité. Cet effet ne peut se réactiver qu’une fois entièrement guéri.
 
 EN: You briefly gain SH equal to your slaying whenever you perform a melee attack (with an additional flat bonus based on your Shapeshifting skill).
 FR: Vous gagnez brièvement un BL égal à votre Slay chaque fois que vous effectuez une attaque de mêlée (avec un bonus fixe supplémentaire basé sur votre compétence de Métamorphose).
@@ -554,7 +554,7 @@ EN: Your melee attacks cause multiple burstshrooms to begin growing on unoccupie
 FR: Vos attaques de mêlée font pousser plusieurs champignons explosifs sur des cases inoccupées derrière votre cible. S’ils ont le temps de pousser pendant plusieurs tours, ils explosent en une gerbe de spores qui blesse les ennemis proches et peut brièvement les étourdir.
 
 EN: Your body armour is fused into your shell, multiplying its base AC by a factor that increases with your Shapeshifting skill. The effectiveness of its ego and most artefact properties will also be doubled, though certain rare artefacts may be too unusual to enhance this way.
-FR: Votre armure corporelle est fusionnée à votre carapace, ce qui multiplie sa CA de base par un facteur qui augmente avec votre compétence de Métamorphose. L’efficacité de son ego et de la plupart des propriétés d’artefact sera aussi doublée, bien que certains artefacts rares puissent être trop inhabituels pour être améliorés ainsi.
+FR: Votre armure corporelle est fusionnée à votre carapace, ce qui multiplie son AC de base par un facteur qui augmente avec votre compétence de Métamorphose. L’efficacité de son ego et de la plupart des propriétés d’artefact sera aussi doublée, bien que certains artefacts rares puissent être trop inhabituels pour être améliorés ainsi.
 
 EN: Your gaze has a hypnotic effect on many creatures. Whenever a living, demonic, or holy monster first notices you, it may become momentarily dazed, preventing it from shouting. Creatures which fail a Willpower check will be dazed for even longer.
 FR: Votre regard a un effet hypnotique sur de nombreuses créatures. Chaque fois qu’un monstre vivant, démoniaque ou sacré vous remarque pour la première fois, il peut être momentanément étourdi, ce qui l’empêche de crier. Les créatures qui échouent à un test de Volonté seront étourdies encore plus longtemps.
@@ -587,22 +587,22 @@ EN: Your Infernal Servant ability is replaced with Infernal Legion, allowing you
 FR: Votre capacité Serviteur infernal est remplacée par Légion infernale, qui vous permet d’appeler une petite armée de démons au fil du temps. Bien que chacun ait une vie brève, leur nombre est inépuisable tant que le statut dure, et ils ne vous seront jamais hostiles. Vous pouvez aussi déchaîner la Destruction de Makhleb à travers vos alliés convoqués sans leur nuire.
 
 EN: When you kill enemies, they have a small chance to explode in a violent rain of gore, which damages adjacent foes proportional to the victim's maximum health. Enemies who die to this explosion will always explode themselves.
-FR: Lorsque vous tuez des ennemis, ils ont une petite chance d’exploser en une violente pluie de sang, qui blesse les ennemis adjacents proportionnellement aux PV maximum de la victime. Les ennemis qui meurent de cette explosion exploseront toujours à leur tour.
+FR: Lorsque vous tuez des ennemis, ils ont une petite chance d’exploser en une violente pluie de sang, qui blesse les ennemis adjacents proportionnellement aux HP maximum de la victime. Les ennemis qui meurent de cette explosion exploseront toujours à leur tour.
 
 EN: Whenever you fall below 50% of your maximum HP, you perform an infernal rite, unleashing a flurry of blood arrows aimed at nearby enemies. You will fire at least one arrow for every valid target, but may fire additional ones if few are present. Invocations increases the damage of these arrows, and Makhleb will always bestow healing upon you for enemies killed by them. After performing a blood rite, you cannot perform another until your HP has fully recovered.
-FR: Chaque fois que vous tombez sous 50 % de vos PV maximum, vous accomplissez un rite infernal, déchaînant une volée de flèches de sang visant les ennemis proches. Vous tirerez au moins une flèche pour chaque cible valide, mais pouvez en tirer davantage s’il y en a peu. Les Invocations augmentent les dégâts de ces flèches, et Makhleb vous accordera toujours des soins pour les ennemis qu’elles tuent. Après avoir accompli un rite de sang, vous ne pouvez en accomplir un autre avant que vos PV soient entièrement rétablis.
+FR: Chaque fois que vous tombez sous 50 % de vos HP maximum, vous accomplissez un rite infernal, déchaînant une volée de flèches de sang visant les ennemis proches. Vous tirerez au moins une flèche pour chaque cible valide, mais pouvez en tirer davantage s’il y en a peu. Les Invocations augmentent les dégâts de ces flèches, et Makhleb vous accordera toujours des soins pour les ennemis qu’elles tuent. Après avoir accompli un rite de sang, vous ne pouvez en accomplir un autre avant que vos HP soient entièrement rétablis.
 
 EN: A demonic incarnation of murder lies dormant within your soul. Whenever you kill an enemy in melee, there is a small chance for it to awaken and manifest as a maelstrom of scythe-like blades enveloping you. These blades will attack whenever you do and also retaliate whenever you successfully dodge an enemy attack. You have the ability to rampage swiftly towards enemies while possessed, but if you spend more than a short while doing anything other than attacking, the demonic presence will go dormant inside you once again.
 FR: Une incarnation démoniaque du meurtre sommeille dans votre âme. Chaque fois que vous tuez un ennemi en mêlée, il y a une petite chance qu’elle s’éveille et se manifeste en un tourbillon de lames semblables à des faux qui vous enveloppe. Ces lames attaquent chaque fois que vous attaquez et ripostent aussi chaque fois que vous esquivez une attaque ennemie. Vous pouvez vous ruer rapidement vers les ennemis tant que vous êtes possédé, mais si vous passez plus qu’un court moment à faire autre chose qu’attaquer, la présence démoniaque s’endormira de nouveau en vous.
 
 EN: Your Unleash Destruction is empowered the more times you use it consecutively without pause, increasing in both damage and health cost. Upon using it a fourth time in a row, you will automatically unleash a wild barrage of additional bolts aimed at random targets and reset this boost.
-FR: Votre Déchaînement de destruction est renforcé chaque fois que vous l’utilisez consécutivement sans pause, augmentant à la fois les dégâts et le coût en santé. À la quatrième utilisation d’affilée, vous déchaînez automatiquement un tir de barrage sauvage de traits supplémentaires visant des cibles aléatoires et ce bonus est réinitialisé.
+FR: Votre capacité Déchaîner la destruction est renforcée chaque fois que vous l’utilisez consécutivement sans pause, augmentant à la fois les dégâts et le coût en santé. À la quatrième utilisation d’affilée, vous déchaînez automatiquement un tir de barrage sauvage de traits supplémentaires visant des cibles aléatoires et ce bonus est réinitialisé.
 
 EN: Grants you the Vessel of Slaughter ability, allowing you to transform into a powerful demonic avatar with greatly boosted offence and defence for a short period of time, in exchange for being dragged down into the Crucible of Flesh afterward and made to fight for your freedom.
 FR: Vous accorde la capacité Vaisseau du massacre, qui vous permet de vous transformer en puissant avatar démoniaque avec une offensive et une défense grandement accrues pendant un court moment, en échange d’être ensuite entraîné dans le Creuset de chair et contraint de combattre pour votre liberté.
 
 EN: You refuse to read scrolls in combat unless badly injured. While enemies are in your line of sight (and for several turns afterward), you will be unable to read anything unless your HP is below 50% of its maximum.
-FR: Vous refusez de lire des parchemins en combat sauf si vous êtes grièvement blessé. Tant que des ennemis sont dans votre ligne de vue (et pendant plusieurs tours ensuite), vous ne pourrez rien lire à moins que vos PV soient sous 50 % du maximum.
+FR: Vous refusez de lire des parchemins en combat sauf si vous êtes grièvement blessé. Tant que des ennemis sont dans votre ligne de vue (et pendant plusieurs tours ensuite), vous ne pourrez rien lire à moins que vos HP soient sous 50 % du maximum.
 
 EN: You are considerably less handy than you used to be. You cannot wield two-handed weapons, wear a shield, launch off-handed attacks, or use more than one magical ring at a time.
 FR: Vous êtes considérablement moins adroit qu’avant. Vous ne pouvez pas manier d’armes à deux mains, porter un bouclier, effectuer d’attaques de la main secondaire, ni utiliser plus d’un anneau magique à la fois.
@@ -662,7 +662,7 @@ EN: Your Hexes skill is 0 and you cannot train the skill.
 FR: Votre compétence de Maléfices est à 0 et vous ne pouvez pas l’entraîner.
 
 EN: Your Ice Magic skill is 0 and you cannot train the skill.
-FR: Votre compétence de magie de Glace est à 0 et vous ne pouvez pas l’entraîner.
+FR: Votre compétence de magie de la Glace est à 0 et vous ne pouvez pas l’entraîner.
 
 EN: Your Necromancy skill is 0 and you cannot train the skill.
 FR: Votre compétence de Nécromancie est à 0 et vous ne pouvez pas l’entraîner.
@@ -671,7 +671,7 @@ EN: Your Alchemy skill is 0 and you cannot train the skill.
 FR: Votre compétence d’Alchimie est à 0 et vous ne pouvez pas l’entraîner.
 
 EN: Your Summoning skill is 0 and you cannot train the skill.
-FR: Votre compétence d’Invocation est à 0 et vous ne pouvez pas l’entraîner.
+FR: Votre compétence de Convocation est à 0 et vous ne pouvez pas l’entraîner.
 
 EN: Your Translocations skill is 0 and you cannot train the skill.
 FR: Votre compétence de Translocation est à 0 et vous ne pouvez pas l’entraîner.
@@ -695,7 +695,7 @@ EN: Your evasion is decreased by 25 on any turn where you either moved or waited
 FR: Votre évasion est diminuée de 25 à tout tour où vous vous êtes déplacé ou avez attendu sur place sans rien faire d’autre.
 
 EN: Whenever you kill an enemy, all other nearby enemies are healed for a large fraction of that enemy's maximum health.
-FR: Chaque fois que vous tuez un ennemi, tous les autres ennemis proches sont soignés d’une grande fraction des PV maximum de cet ennemi.
+FR: Chaque fois que vous tuez un ennemi, tous les autres ennemis proches sont soignés d’une grande fraction des HP maximum de cet ennemi.
 
 EN: Enemies in sight of you have a small chance each turn to create multiple clones of themselves. These clones are very fragile and do reduced damage with attacks and spells, but will not expire on their own.
 FR: Les ennemis en vue de vous ont à chaque tour une petite chance de créer plusieurs clones d’eux-mêmes. Ces clones sont très fragiles et infligent moins de dégâts avec leurs attaques et sorts, mais n’expirent pas d’eux-mêmes.
@@ -704,7 +704,7 @@ EN: Your skill with your highest weapon skill (at the time of becoming afflicted
 FR: Votre compétence dans votre plus haute compétence d’arme (au moment d’être affligé de ce fléau) est réduite de 50 %, et votre compétence dans vos deux plus hautes compétences parmi les écoles de magie, les Invocations et les Évocations est réduite de 25 %.
 
 EN: Whenever you first spot a monster, it has a chance to become Touched by Paradox, giving it the ability to use Manifold Assault as a natural ability (and a small chance to blink randomly after doing so).
-FR: Chaque fois que vous repérez un monstre pour la première fois, il a une chance d’être Touché par le Paradoxe, ce qui lui donne la capacité d’utiliser Assaut multiple comme capacité naturelle (et une petite chance de se téléporter au hasard après l’avoir fait).
+FR: Chaque fois que vous repérez un monstre pour la première fois, il a une chance d’être Touché par le Paradoxe, ce qui lui donne la capacité d’utiliser Manifold Assault comme capacité naturelle (et une petite chance de faire un Blink au hasard après l’avoir fait).
 
 EN: Groups of enemies you encounter may have Warding, preventing all damage they would take from any source which is not currently adjacent to them (including clouds, if their creator is currently non-adjacent).
 FR: Les groupes d’ennemis que vous rencontrez peuvent être Protégés, ce qui empêche tous les dégâts qu’ils subiraient de toute source qui ne leur est pas actuellement adjacente (y compris les nuages, si leur créateur n’est pas actuellement adjacent).
@@ -713,4 +713,4 @@ EN: Whenever an enemy summons monsters against you, they will usually appear adj
 FR: Chaque fois qu’un ennemi convoque des monstres contre vous, ils apparaissent généralement adjacents à vous au lieu de leur invocateur. Leur durée est aussi augmentée et ils ne perdront jamais votre trace, où que vous fuyiez.
 
 EN: When you are badly injured and alone, a reaper may come to claim you. These reapers will be immune to all damage from non-adjacent sources and, if your XL is less than 14, will additionally be slow. At higher XL, multiple reapers may appear at once. When this bane is lifted, all reapers summoned this way will immediately vanish.
-FR: Lorsque vous êtes gravement blessé et seul, un faucheur peut venir vous réclamer. Ces faucheurs sont immunisés contre tous les dégâts de sources non adjacentes et, si votre NX est inférieur à 14, seront en plus lents. À des NX plus élevés, plusieurs faucheurs peuvent apparaître à la fois. Lorsque ce fléau est levé, tous les faucheurs convoqués ainsi disparaissent immédiatement.
+FR: Lorsque vous êtes gravement blessé et seul, un faucheur peut venir vous réclamer. Ces faucheurs sont immunisés contre tous les dégâts de sources non adjacentes et, si votre XL est inférieur à 14, seront en plus lents. À des XL plus élevés, plusieurs faucheurs peuvent apparaître à la fois. Lorsque ce fléau est levé, tous les faucheurs convoqués ainsi disparaissent immédiatement.

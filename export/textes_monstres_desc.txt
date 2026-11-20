@@ -20,7 +20,7 @@ EN: As a young woman, Cassandra bound herself in service to Ashenzari and was bl
 FR: Jeune femme, Cassandre s’est liée au service d’Ashenzari et fut bénie et maudite à parts égales : dotée du don de prévoir les catastrophes, mais seulement celles qu’elle était impuissante à empêcher. Finalement chassée de sa patrie comme le présage des fléaux mêmes qu’elle avait passé sa vie à dénoncer, elle est venue dans le donjon à la fin de sa vie dans l’espoir d’éviter une dernière catastrophe.
 
 EN: Greatest and most ruthless of the Lords of Hell, Dispater was born when first an iron sword drank mortal blood. They despise mortal vanities, the pursuit of ‘reason’ and ‘beauty’ - the only art they enjoy is the art of war.
-FR: Le plus grand et le plus impitoyable des Seigneurs du Hell, Dispater naquit lorsqu’une épée de fer but pour la première fois du sang mortel. Ils méprisent les vanités mortelles, la poursuite de la « raison » et de la « beauté » ; le seul art qu’ils apprécient est l’art de la guerre.
+FR: Le plus grand et le plus impitoyable des Seigneurs du Hell, Dispater naquit lorsqu’une épée de fer but pour la première fois du sang mortel. Il méprise les vanités mortelles, la poursuite de la « raison » et de la « beauté » ; le seul art qu’il apprécie est l’art de la guerre.
 
 EN: First and most fearful of her kind, the Enchantress rules over the spriggans of the dungeon. She wears an opalescent outfit made of dragon skin that shimmers with many colours.
 FR: Première et plus redoutable de son espèce, l’Enchanteresse règne sur les spriggans du donjon. Elle porte une tenue opalescente faite de peau de dragon qui miroite de mille couleurs.
@@ -95,10 +95,10 @@ EN: A centaur warrior, skilled at warfare and deceit. They slew a mighty hydra, 
 FR: Un guerrier centaure, habile à la guerre et à la ruse. Il a tué une puissante hydre, et son sang mortel goutte encore, fumant, de ses flèches.
 
 EN: A time-lost revenant, risen not from the death of a single individual but of many - its bones fused together from the young and the elderly and different species altogether. Whether they were all the victims of a single massacre or a thousand souls discarded over a thousand years is impossible to say now; history does not remember them. But one thing is clear: they will fight to change that until every last memory they have left burns away.
-FR: Un revenant perdu dans le temps, ressuscité non pas de la mort d’un seul individu mais de beaucoup : ses os fusionnés de jeunes, de vieillards et d’espèces différentes. Étaient-ils tous les victimes d’un seul massacre ou mille âmes oubliées en mille ans ? Impossible de le dire ; l’histoire ne se souvient pas d’eux. Mais une chose est claire : ils se battront pour changer cela jusqu’à ce que le moindre souvenir qui leur reste se consume.
+FR: Un revenant perdu dans le temps, ressuscité non pas de la mort d’un seul individu mais de beaucoup : ses os fusionnés de jeunes, de vieillards et d’espèces différentes. Étaient-ils tous victimes d’un seul massacre ou mille âmes oubliées en mille ans ? Impossible de le dire ; l’histoire ne se souvient pas d’eux. Mais une chose est claire : ils se battront pour changer cela jusqu’à ce que le moindre souvenir qui leur reste se consume.
 
 EN: A relaxed water cultist with a healthy tan and a soothing voice. He doesn't really care if it is you or he who dies — “both” would probably be the best option.
-FR: Un cultiste de l’eau décontracté au teint hâlé et à la voix apaisante. Peu lui importe que ce soit vous ou lui qui mourriez ; « les deux » serait probablement la meilleure option.
+FR: Un cultiste de l’eau décontracté au teint hâlé et à la voix apaisante. Peu lui importe que ce soit vous ou lui qui meure ; « les deux » serait probablement la meilleure option.
 
 EN: An unusually strong troll, his thick frame scarred by many against-the-odds victories. He has been wounded so many times that his body has adapted, and now heals almost instantly. His necklace of troll claws is a memento of those who underestimated him.
 FR: Un troll d’une force inhabituelle, sa carrure épaisse marquée par de nombreuses victoires improbables. Il a été blessé tant de fois que son corps s’est adapté et guérit désormais presque instantanément. Son collier de griffes de troll est un souvenir de ceux qui l’ont sous-estimé.
@@ -113,7 +113,7 @@ EN: A frog of unusual size, with a tiny crown perched incongruously atop his hea
 FR: Une grenouille de taille inhabituelle, coiffée d’une minuscule couronne perchée de façon incongrue sur sa tête.
 
 EN: A mountain hobgoblin, recently come in search of the legendary Orb. Not foolhardy or reckless enough to delve into the depths of the Dungeon alone, Robin has built a small army of minions. Potential competitors will quickly find a stream of screaming goblins flying toward them!
-FR: Un hobgobelin des montagnes, venu récemment à la recherche de la légendaire Orbe. Pas assez téméraire ni imprudent pour s’aventurer seul dans les profondeurs du Donjon, Robin a bâti une petite armée de sbires. Ses concurrents potentiels verront vite un flot de gobelins hurlants voler vers eux !
+FR: Un hobgobelin des montagnes, venu récemment à la recherche de le légendaire Orbe. Pas assez téméraire ni imprudent pour s’aventurer seul dans les profondeurs du Donjon, Robin a bâti une petite armée de sbires. Ses concurrents potentiels verront vite un flot de gobelins hurlants voler vers eux !
 
 EN: A strikingly realistic sapphire statue of a famous earth mage who disappeared after a catastrophic mishap with a magical talisman.
 FR: Une statue de saphir d’un réalisme saisissant, représentant une célèbre magicienne de la terre disparue après un incident catastrophique avec un talisman magique.
@@ -233,7 +233,7 @@ EN: A mass of fast-rolling stone, crushing everything in its path.
 FR: Une masse de pierre qui roule à toute allure, écrasant tout sur son passage.
 
 EN: The soul of a living, holy, or demonic creature, captured by a dark sacrifice to Yredelemnul. The bound soul will follow its captor through stairs and come when recalled from a different level.
-FR: L’âme d’une créature vivante, sainte ou démoniaque, capturée par un sacrifice sombre à Yredelemnul. L’âme liée suivra son ravisseur dans les escaliers et viendra quand elle est rappelée depuis un autre niveau.
+FR: L’âme d’une créature vivante, sainte ou démoniaque, capturée par un sacrifice sombre à Yredelemnul. L’âme liée suivra son ravisseur dans les escaliers et viendra quand on la rappelle depuis un autre niveau.
 
 EN: An impossible shape that scintillates with unearthly colour. The power of Zot flows heavily through it, overlaying this reality with countless others where its domain remains pristine. Each tesseract is inextricably linked to the other, and destroying one will destroy both (and expel all the creatures they have beckoned to this reality, as well as dazing even those which they have not). But so long as they are allowed to exist, there will be no end to the forces which seek to keep you from the Orb.
 FR: Une forme impossible qui scintille de couleurs d’un autre monde. Le pouvoir de Zot y coule abondamment, superposant à cette réalité d’innombrables autres où son domaine demeure intact. Chaque tesseract est indissolublement lié à l’autre, et en détruire un détruira les deux (et expulsera toutes les créatures qu’ils ont attirées dans cette réalité, tout en hébétant même celles qu’ils n’ont pas attirées). Mais tant qu’on les laisse exister, les forces qui cherchent à vous écarter de l’Orbe ne cesseront jamais.
@@ -530,7 +530,7 @@ EN: A humanoid construct of insubstantial memory, floating through the air. Thou
 FR: Une construction humanoïde de souvenir immatériel, flottant dans les airs. Bien que sa forme ait peut-être un peu changé et qu’elle ait peu de traits discernables, elle semble pourtant ressembler à un guerrier d’un passé lointain, prêt avec des sorts affaiblissants et un redoutable travail de lame.
 
 EN: A large creature with the hindquarters of a horse and the wings, head and talons of a great eagle. As popular heraldric creatures, some fortresses may keep them as symbols and defenders alike, where they in turn launch intruders into the waiting blades of their masters.
-FR: Une grande créature avec l’arrière-train d’un cheval et les ailes, la tête et les serres d’un grand aigle. Créatures héraldiques populaires, certaines forteresses les gardent comme symboles et défenseurs à la fois, où elles lancent les intrus dans les lames qui attendent leurs maîtres.
+FR: Une grande créature avec l’arrière-train d’un cheval et les ailes, la tête et les serres d’un grand aigle. Créatures héraldiques populaires, certaines forteresses les gardent comme symboles et défenseurs à la fois, où elles lancent les intrus dans les lames de leurs maîtres qui les attendent.
 
 EN: An elegant siege weapon, magically sculpted from crystalline ice. As ephemeral as a summer snowstorm, every salvo it fires consumes a portion of itself until nothing is left behind but water.
 FR: Une élégante arme de siège, sculptée par magie dans de la glace cristalline. Aussi éphémère qu’une tempête de neige estivale, chaque salve qu’elle tire consomme une partie d’elle-même jusqu’à ce qu’il ne reste plus que de l’eau.
@@ -587,7 +587,7 @@ EN: A kobold, ready with multiple armaments to defend itself from the many dange
 FR: Un kobold muni de plusieurs armes pour se défendre des nombreux dangers des profondeurs. Le canon rempli de grains explosifs sur son épaule porte la marque de son fabricant et lui est farouchement fidèle ; il ne tirera pour personne d’autre.
 
 EN: A skull-masked kobold, its body mutated by forbidden magics. It conducts vile experiments in the service of demonic powers, formulating ever more terrible monstrosities as vessels for devilish minds.
-FR: Un kobold masqué d’un crâne, dont le corps a été muté par des magies interdites. Il mène de vils expériences au service de puissances démoniaques, concevant des monstruosités toujours plus terribles comme réceptacles d’esprits diaboliques.
+FR: Un kobold masqué d’un crâne, dont le corps a été muté par des magies interdites. Il mène de viles expériences au service de puissances démoniaques, concevant des monstruosités toujours plus terribles comme réceptacles d’esprits diaboliques.
 
 EN: A wily kobold who has learned to weaponise every crack and crevice that lines the walls of its domain.
 FR: Un kobold rusé qui a appris à transformer en arme chaque fissure et crevasse qui bordent les murs de son domaine.
@@ -620,7 +620,7 @@ EN: A violet-scaled serpent with faintly glowing eyes. It thirsts for magic as w
 FR: Un serpent aux écailles violettes et aux yeux faiblement luisants. Il a soif de magie autant que de chair, et sa morsure peut assécher en un rien de temps les réserves magiques même d’un puissant mage.
 
 EN: The flame-wreathed skeleton of a carnivorous fish, darting through air as easily as it once parted water. It burns with a hunger it could not satisfy in life and is singularly driven by in death. While a single one may be only a nuisance, the swarm is never far behind, and every bite it lands will summon more and more of them until every scrap of flesh on its prey has been devoured.
-FR: Le squelette enveloppé de flammes d’un poisson carnivore, filant dans l’air aussi aisément qu’il fendait jadis l’eau. Il brûle d’une faim qu’il n’a pu assouvir de son vivant et qui le pousse seule dans la mort. Un seul peut n’être qu’une nuisance, mais l’essaim n’est jamais loin, et chaque morsure qu’il porte en convoquera toujours plus jusqu’à ce que chaque lambeau de chair de sa proie soit dévoré.
+FR: Le squelette enveloppé de flammes d’un poisson carnivore, filant dans l’air aussi aisément qu’il fendait jadis l’eau. Il brûle d’une faim qu’il n’a pu assouvir de son vivant et qui l’anime à elle seule dans la mort. Un seul peut n’être qu’une nuisance, mais l’essaim n’est jamais loin, et chaque morsure qu’il porte en convoquera toujours plus jusqu’à ce que chaque lambeau de chair de sa proie soit dévoré.
 
 EN: The wandering shade of a long-dead soul who died for a forgotten cause. Though their memories have turned to mist, something deep within still compels them to serve and sacrifice - no matter the cost.
 FR: L’ombre errante d’une âme morte depuis longtemps pour une cause oubliée. Bien que ses souvenirs se soient changés en brume, quelque chose en elle la pousse encore à servir et à se sacrifier, quel qu’en soit le prix.
@@ -638,7 +638,7 @@ EN: A beguiling merfolk whose voice can mesmerise listeners.
 FR: Un sirénien séduisant dont la voix peut hypnotiser ceux qui l’écoutent.
 
 EN: A large muscular human with the head of a bull. It makes its home in a gauntlet where it awaits worthy challengers.
-FR: Un grand humain musclé à tête de taureau. Il a élu domicile dans le Gauntlet où il attend de dignes adversaires.
+FR: Un grand humain musclé à tête de taureau. Il a élu domicile dans un parcours d’épreuves où il attend de dignes adversaires.
 
 EN: A hideous molten stone statue come to life, with flames licking across its body.
 FR: Une hideuse statue de pierre en fusion revenue à la vie, des flammes léchant son corps.
@@ -650,7 +650,7 @@ EN: A serpentine crossbreed, blending traits of lesser dragons and countless oth
 FR: Un croisement serpentin, mêlant les traits de dragons mineurs et d’innombrables autres créatures que la nature n’avait jamais prévu de croiser. Ses nombreux membres atrophiés peinent à propulser son corps couvert de crasse, tandis que sa tête démesurée sans écailles siffle sous la pression de souffles contradictoires.
 
 EN: A multihued mire of roiling flesh and fluctuating sludge, striving and failing for more coherence than any other slime. As a fresh carrier of the ruinous contagion that overtook the Slime Pits, it can impart unto others the same horrible fate. While it may not be a permanent transformation for you, the melding of weapons and armour, as well as the severe weakening of spells, may make it a lethal one regardless.
-FR: Un bourbier multicolore de chair tourbillonnante et de boue fluctuante, qui cherche et échoue à être plus cohérent que toute autre gelée. Porteur récent de la contagion ruineuse qui a submergé les Fosses de Gelée, il peut infliger à autrui le même sort horrible. Même si la transformation n’est peut-être pas permanente pour vous, la fusion des armes et des armures, ainsi que l’affaiblissement sévère des sorts, peuvent la rendre mortelle malgré tout.
+FR: Un bourbier multicolore de chair tourbillonnante et de boue fluctuante, qui cherche et échoue à être plus cohérent que toute autre gelée. Porteur récent de la contagion ruineuse qui a submergé les Slime Pits, il peut infliger à autrui le même sort horrible. Même si la transformation n’est peut-être pas permanente pour vous, la fusion des armes et des armures, ainsi que l’affaiblissement sévère des sorts, peuvent la rendre mortelle malgré tout.
 
 EN: An enormous land tortoise whose shell is so thick and rock-encrusted that sleeping ones are frequently mistaken for geological formations. And like a mountain, its exterior is nearly impervious to any destructive force; only at close range can one properly aim for the narrow gaps between its plates to strike the tender flesh within.
 FR: Une énorme tortue terrestre dont la carapace est si épaisse et incrustée de roche que les spécimens endormis sont souvent pris pour des formations géologiques. Et comme une montagne, son extérieur est presque insensible à toute force destructrice ; ce n’est qu’à courte portée qu’on peut viser correctement les étroits interstices entre ses plaques pour atteindre la chair tendre à l’intérieur.
@@ -671,13 +671,13 @@ EN: A magnificent example of the naga. It is an expert at both martial and magic
 FR: Un magnifique exemple de naga. Il excelle tant dans les arts martiaux que magiques.
 
 EN: A malign force from the space between planes. It is hostile to the magic forces that removed it from its home. These horrors are often the result of mistaken summoning spells and have slain many aspiring wizards.
-FR: Une force maligne venue de l’espace entre les plans. Elle est hostile aux forces magiques qui l’ont arrachée à son foyer. Ces horreurs résultent souvent de sorts d’invocation mal exécutés et ont tué de nombreux aspirants magiciens.
+FR: Une force maligne venue de l’espace entre les plans. Elle est hostile aux forces magiques qui l’ont arrachée à son foyer. Ces horreurs résultent souvent de sorts de convocation mal exécutés et ont tué de nombreux aspirants magiciens.
 
 EN: A slime mold colony in an early phase of its life cycle. Not yet mature enough to reproduce, it can still defend itself by firing globs of potent acid.
 FR: Une colonie de moisissure visqueuse à un stade précoce de son cycle de vie. Pas encore assez mûre pour se reproduire, elle peut néanmoins se défendre en tirant des paquets d’acide puissant.
 
 EN: An ancient stone creature that has lived among these frozen caves since before Antaeus rent Cocytus into being. It tolerates its new neighbors begrudgingly, preferring the company of its petrified enemies. Veins of ice permeate its frozen stone flesh.
-FR: Une ancienne créature de pierre qui vit parmi ces grottes gelées depuis avant qu’Antée ne fasse surgir Cocytus. Elle tolère à contrecœur ses nouveaux voisins, préférant la compagnie de ses ennemis pétrifiés. Des veines de glace parcourent sa chair de pierre gelée.
+FR: Une ancienne créature de pierre qui vit parmi ces grottes gelées depuis avant qu’Antée ne fasse surgir le Cocytus. Elle tolère à contrecœur ses nouveaux voisins, préférant la compagnie de ses ennemis pétrifiés. Des veines de glace parcourent sa chair de pierre gelée.
 
 EN: An upright feliform trickster of an elderly demon, with a forked tail ablaze with a shimmering haze. It holds a deep disdain for mortal humanoids, a patronising pity for mortal cats, and enough mystic might to subjugate both.
 FR: Un filou félin dressé, vieux démon, à la queue fourchue embrasée d’une brume chatoyante. Il nourrit un profond dédain pour les humanoïdes mortels, une pitié condescendante pour les chats mortels, et assez de puissance mystique pour soumettre les deux.
@@ -689,7 +689,7 @@ EN: A beautiful statue of an unknown creature, jet-black like a tear in reality.
 FR: Une belle statue d’une créature inconnue, noire comme du jais, telle une déchirure dans la réalité. Ses yeux brillent d’un éclat maléfique venu d’ailleurs.
 
 EN: A wizard fond of illusion and treachery. They scorn the crudeness of other magicians, who hurl wild conjurations toward their foes rather than cunningly exploiting their greatest weaknesses.
-FR: Un magicien amateur d’illusion et de traîtrise. Il méprise la grossièreté des autres magiciens, qui lancent des invocations sauvages vers leurs ennemis au lieu d’exploiter habilement leurs plus grandes faiblesses.
+FR: Un magicien amateur d’illusion et de traîtrise. Il méprise la grossièreté des autres magiciens, qui lancent des conjurations sauvages vers leurs ennemis au lieu d’exploiter habilement leurs plus grandes faiblesses.
 
 EN: A young oklob plant. It is more fragile than the mature specimen, but the acid it sprays is just as deadly.
 FR: Une jeune plante oklob. Elle est plus fragile que le spécimen adulte, mais l’acide qu’elle projette est tout aussi mortel.
@@ -890,7 +890,7 @@ EN: A gnarled mangrove, possessed of sapience and a cantankerous disposition. It
 FR: Un palétuvier noueux, doté de sapience et d’un caractère revêche. Ses racines plongent profondément dans l’eau et le sol de son foyer marécageux et peuvent rendre très difficile l’équilibre de ceux qui provoquent sa colère. La faune des marais niche souvent dans ses branches et peut mal prendre d’être dérangée.
 
 EN: An incredibly fast-moving bird, known for impaling its prey on shards of ice before tearing them to pieces. It has acclimated to the desolate wastes of Cocytus, and is enveloped with an accursed chill.
-FR: Un oiseau incroyablement rapide, connu pour empaler ses proies sur des éclats de glace avant de les déchiqueter. Il s’est acclimaté aux étendues désolées de Cocytus et est enveloppé d’un froid maudit.
+FR: Un oiseau incroyablement rapide, connu pour empaler ses proies sur des éclats de glace avant de les déchiqueter. Il s’est acclimaté aux étendues désolées du Cocytus et est enveloppé d’un froid maudit.
 
 EN: A sinuous serpent whose body crackles with volatile electricity. Its electric shroud can discharge when struck, inflicting a painful shock on any nearby foes.
 FR: Un serpent sinueux dont le corps crépite d’électricité instable. Son voile électrique peut se décharger quand on le frappe, infligeant une douloureuse décharge à tout ennemi proche.
@@ -944,7 +944,7 @@ EN: A mass of lashing vines and tentacles growing out of the husk of a dead star
 FR: Une masse de lianes et de tentacules fouettants poussant de la carcasse d’une étoile morte. L’espace lui-même parcourt le xylème et le phloème de ses branches, qui semblent être à plusieurs endroits à la fois.
 
 EN: A piece of sculpted granite with glowing red eyes. Although it is rooted to its base, it can still move parts of itself.
-FR: Un morceau de granit sculpté aux yeux rouges luisants. Bien qu’elle soit enracinée à son socle, elle peut encore bouger des parties d’elle-même.
+FR: Un morceau de granit sculpté aux yeux rouges luisants. Bien qu’il soit enraciné à son socle, il peut encore bouger des parties de lui-même.
 
 EN: A large worm covered with hard, spiky metal plates. Despite the apparent heaviness of its outer armour, it is rather fast.
 FR: Un gros ver couvert de plaques de métal dures et piquantes. Malgré la lourdeur apparente de son armure extérieure, il est plutôt rapide.
@@ -1094,7 +1094,7 @@ EN: A powerful warrior-mage who instructs aspiring students in physical, magical
 FR: Un puissant guerrier-mage qui instruit les élèves aspirants au combat physique, magique et antimagique.
 
 EN: A bizarre breed of intelligent troll, glowing with mysterious power from beyond this world which shields it from damage except at close range.
-FR: Une race bizarre de trolls intelligents, brillant d’un mystérieux pouvoir venu d’au-delà de ce monde qui le protège des dégâts sauf à courte portée.
+FR: Une race bizarre de trolls intelligents, brillant d’un mystérieux pouvoir venu d’au-delà de ce monde qui les protège des dégâts sauf à courte portée.
 
 EN: An unfathomably expensive skeleton. It has countless sigils engraved into its bones, and pulses with a ghostly presence.
 FR: Un squelette d’un prix inimaginable. D’innombrables sigils sont gravés dans ses os, et il palpite d’une présence spectrale.
@@ -1109,13 +1109,13 @@ EN: A wild-eyed wizard whose tongue has been cut out, frantically mumbling and w
 FR: Un magicien au regard égaré dont la langue a été coupée, marmonnant frénétiquement et agitant les bras sans pouvoir lancer un seul sort.
 
 EN: A statue that has been imbued with flame, allowing it to make use of simple fire-based conjurations.
-FR: Une statue imprégnée de flammes, lui permettant d’utiliser de simples invocations basées sur le feu.
+FR: Une statue imprégnée de flammes, lui permettant d’utiliser de simples conjurations basées sur le feu.
 
 EN: A terrifying creation that appears to have been constructed from the body parts of every monstrous creature imaginable, with writhing tentacles sprouting from its form.
 FR: Une création terrifiante qui semble avoir été assemblée à partir des membres de toutes les créatures monstrueuses imaginables, des tentacules grouillants jaillissant de sa forme.
 
 EN: A statue able to harness the mightiest of pure conjurations ever devised by Iskenderun.
-FR: Une statue capable de canaliser les plus puissantes invocations pures jamais conçues par Iskenderun.
+FR: Une statue capable de canaliser les plus puissantes conjurations pures jamais conçues par Iskenderun.
 
 EN: A demonic mockery of a plant, covered with mysterious appendages and writhing tentacles. It appears to be harmless.
 FR: Une parodie démoniaque de plante, couverte d’appendices mystérieux et de tentacules grouillants. Elle semble inoffensive.
