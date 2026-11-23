@@ -336,8 +336,6 @@ function traduireNomsArtefacts(anglais, sortie) {
         if (!/(?:[+-]\d+ [a-z' -]+|\b(?:ring|amulet|talisman)) $/.test(anglais.slice(0, m.index))) continue;
         const nu = m[1].replace(/^the /, "");
         const en = dcssDeNom(m[1]);
-        const U = globalThis.DCSS_UNRANDS, mot = (anglais.slice(0, m.index).match(/([a-z]+) $/) || [])[1];
-        if (U && mot && (U[mot + " of " + m[1]] || U[mot.charAt(0).toUpperCase() + mot.slice(1) + " of " + m[1]])) continue;   // artefact unique (« hood of the Assassin ») : il a son nom français
         const re = new RegExp("(?:\\b[Dd]e (?:la |l’)?|\\b[Dd]u |\\b[Dd]es |\\bd’)(?:the )?" + DCSS_ECHAPPER(nu) + "(?![\\p{L}’'-])", "u");
         if (re.test(sortie)) { sortie = sortie.replace(re, () => en); continue; }
         // Sinon (nom laissé en anglais sans « de », ou traduit à tort comme un mot : « de lumière ») : on retraduit avec un nom bidon, puis on remet le nom anglais.

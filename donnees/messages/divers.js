@@ -50,13 +50,24 @@
 
     // Traduit « a +6 ring of strength », « maw talismans », « 2 wands of light »... ou null.
     // Artefacts uniques (« unrandarts ») : nom français + genre, table DCSS_UNRANDS (donnees/objets/unrands.js)
+    // « of » d'un nom anglais : « of Winter » → « de Winter », « of the Lonely Yaks » → « des Lonely Yaks », « of the Alchemist » → « de l’Alchemist »
+    function deNom(nom) {
+        const voy = (w) => /^[AEIOUYaeiouy]/.test(w);
+        const t = nom.match(/^the (.+)$/);
+        if (!t) return (voy(nom) ? "d’" : "de ") + nom;
+        return /s$/.test(t[1].split(" ").pop()) ? "des " + t[1] : voy(t[1]) ? "de l’" + t[1] : "du " + t[1];
+    }
     function artefactUnique(s) {
         const U = globalThis.DCSS_UNRANDS; if (!U) return null;
         const m = s.match(/^(?:(an?|the) )?(?:([+-]\d+) )?(.+)$/);
         const e = m && U[m[3]]; if (!e) return null;
+        const ob = m[3].match(/^([a-z]+) of /);
+        if (ob && objetPlus("the " + ob[1]) !== null) return null;   // « hood of the Assassin » : objet + nom → traité comme un nom aléatoire (« la capuche +2 de l’Assassin »)
         // Décision du 23/11 : le nom de l'artefact unique reste en anglais ; l'article suit le genre du nom français
-        // (« la Singing Sword », « le Wrath of Trog »), élision seulement devant une voyelle (h anglais aspiré).
-        const [fr, g] = e, pl = g[1] === "p", f = g[0] === "f", nom = m[3];
+        // (« la Singing Sword », « le Wrath de Trog »), élision seulement devant une voyelle (h anglais aspiré).
+        const [fr, g] = e, pl = g[1] === "p", f = g[0] === "f";
+        // « of » ne fait pas partie du nom : « Wrath of Trog » → « Wrath de Trog », « hood of the Assassin » → « hood de l’Assassin »
+        const nom = m[3].replace(/ of (.+)$/, (x, n) => " " + deNom(n));
         let pref = "";
         if (m[1] === "the") pref = pl ? "les " : /^[AEIOUYaeiouy]/.test(nom) ? "l’" : f ? "la " : "le ";
         else if (m[1]) pref = pl ? "des " : f ? "une " : "un ";
@@ -69,7 +80,7 @@
         const direct = objetBase(s);
         if (direct !== null) return direct;
         let q;
-        if ((q = s.match(/^(?:the )?([Rr]ing|[Aa]mulet|[Ss]taff|[Ww]and) of ([A-Z][\w' -]*)$/))) return `${({ ring: "l’anneau", amulet: "l’amulette", staff: "le bâton", wand: "la baguette" })[q[1].toLowerCase()]} de ${q[2]}`;
+        if ((q = s.match(/^(?:the )?([Rr]ing|[Aa]mulet|[Ss]taff|[Ww]and) of ([A-Z][\w' -]*)$/))) return `${({ ring: "l’anneau", amulet: "l’amulette", staff: "le bâton", wand: "la baguette" })[q[1].toLowerCase()]} ${deNom(q[2])}`;
         if ((q = s.match(/^(?:the )?(ring|amulet) of ([A-Z][\w' -]*)$/))) return null;
         if ((q = s.match(/^(.+?) "([^"]+)"$/)) && !/^(ring|amulet|staff|wand) *$/i.test(q[1])) {
             const b = objetPlus(q[1]);
@@ -77,7 +88,7 @@
         }
         if ((q = s.match(/^(.+?) of ((?:the )?[A-Z][\w' -]*)$/)) && !/^(ring|amulet|staff|wand|talisman)s?$/i.test(q[1])) {
             const b = objetPlus(q[1]);
-            if (b !== null) return `${b} de ${q[2].replace(/^the /, "")}`;
+            if (b !== null) return `${b} ${deNom(q[2])}`;
         }
         let art = null, qty = null, bonus = null, m;
         if ((m = s.match(/^(an?|the)\s+/i))) { art = m[1].toLowerCase(); s = s.slice(m[0].length); }

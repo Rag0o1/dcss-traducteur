@@ -11,6 +11,11 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.29 — « of » traduit aussi dans les artefacts uniques
+
+- Artefacts uniques : « of » se traduit aussi : « le Wrath de Trog », « l’Axe de Woe +3 ». Quand le nom commence par un objet ordinaire (« hood of the Assassin », « robe of Misfortune », « hat of the Alchemist »), l’objet est traduit comme pour un nom aléatoire : « la capuche +2 de l’Assassin », « la robe +2 de Misfortune », « le chapeau de l’Alchemist ».
+- Même règle pour « of the … » partout : « de l’Alchemist » (et plus « de Alchemist »).
+
 ## 0.28 — « of » traduit, noms des artefacts uniques en anglais
 
 - Décision du 23/11 : « of » ne fait pas partie du nom, il se traduit : « l’épée longue +2 des Lonely Yaks », « l’anneau de Gluttony », « l’amulette du Death Scarab », « l’armure de plates +2 d’Ice » (élision seulement devant une voyelle, le h anglais est aspiré).
