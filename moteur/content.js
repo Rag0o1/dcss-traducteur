@@ -320,23 +320,24 @@ function traduireNomsArtefacts(anglais, sortie) {
     if (dcssDansArtefact || typeof sortie !== "string" || !globalThis.DCSS_GRAFFITIS || !globalThis.DCSS_GRAFFITIS.nomArtefact || anglais.indexOf(" of ") === -1) return sortie;
     let m; DCSS_RE_ARTEFACT.lastIndex = 0;
     while ((m = DCSS_RE_ARTEFACT.exec(anglais))) {
+        // Décision du 23/11 : le nom donné au hasard à l'arme reste en anglais (« l’épée longue +2 of the Lonely Yaks »).
+        // Tout « of Nom » en majuscule derrière un objet est un nom d'artefact (les egos du jeu sont en minuscules),
+        // seulement derrière un objet : « +2 long sword », « ring », « amulet », « talisman » (pas « altar of Trog », « search of the Orb »)
+        if (!/(?:[+-]\d+ [a-z' -]+|\b(?:ring|amulet|talisman)) $/.test(anglais.slice(0, m.index))) continue;
         const nu = m[1].replace(/^the /, "");
-        // le reste du moteur a laissé le nom en anglais derrière « de », « du », « des »…
+        const en = "of " + m[1];
+        const U = globalThis.DCSS_UNRANDS, mot = (anglais.slice(0, m.index).match(/([a-z]+) $/) || [])[1];
+        if (U && mot && (U[mot + " " + en] || U[mot.charAt(0).toUpperCase() + mot.slice(1) + " " + en])) continue;   // artefact unique (« hood of the Assassin ») : il a son nom français
         const re = new RegExp("(?:\\b[Dd]e (?:la |l’)?|\\b[Dd]u |\\b[Dd]es |\\bd’)(?:the )?" + DCSS_ECHAPPER(nu) + "(?![\\p{L}’'-])", "u");
-        const trouve = re.test(sortie);
-        const toutAnglais = !trouve && sortie.indexOf("of " + m[1]) !== -1;
-        if (!trouve && !toutAnglais) continue;
-        const fr = globalThis.DCSS_GRAFFITIS.nomArtefact("of " + m[1]);
-        if (!fr) continue;
-        if (trouve) { sortie = sortie.replace(re, () => fr); continue; }
-        // Rien n'a été traduit (objet non reconnu à cause du nom) : on retraduit avec un nom bidon d'un seul mot, puis on le remplace.
+        if (re.test(sortie)) { sortie = sortie.replace(re, () => en); continue; }
+        // Sinon (nom laissé en anglais sans « de », ou traduit à tort comme un mot : « de lumière ») : on retraduit avec un nom bidon, puis on remet le nom anglais.
         const essai = anglais.slice(0, m.index) + "of Zqxw" + anglais.slice(m.index + m[0].length);
         dcssDansArtefact = true;
         let base;
         try { base = traduireChaine(essai); } finally { dcssDansArtefact = false; }
         const i = base.search(/\b(?:de |d’)Zqxw\b/);
         if (i === -1) continue;
-        return base.replace(/\b(?:de |d’)Zqxw\b/, () => fr);
+        return base.replace(/\b(?:de |d’)Zqxw\b/, () => en);
     }
     return sortie;
 }

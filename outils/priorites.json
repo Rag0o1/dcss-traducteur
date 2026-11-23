@@ -70,7 +70,7 @@
    "source": "rand_all, rand_arm, rand_wpn, randname",
    "volume": "~2 400 lignes",
    "quoi": "« de la Malice joyeuse » : morceaux assemblés au hasard",
-   "decision": "Fait en 0.24 (environ 87 % des noms testés corrects ; quelques tournures à polir)"
+   "decision": "Décision du 23/11 : le nom donné au hasard reste en anglais (« l’épée longue +2 of the Lonely Yaks ») — 0.27"
   },
   {
    "priorite": 4,

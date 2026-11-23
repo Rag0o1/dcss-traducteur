@@ -11,6 +11,11 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.27 — noms d’artefacts aléatoires en anglais
+
+- Décision du 23/11 : quand une arme, une armure ou un bijou a un nom donné au hasard, ce nom reste en anglais ; seul l’objet est traduit : « l’épée longue +2 of the Lonely Yaks », « l’anneau of Gluttony », « la cape +2 of Light ». Les artefacts uniques (« le Capuchon de l’Assassin ») gardent leur nom français.
+- Moteur : tout « of Nom » en majuscule derrière un objet (+N, anneau, amulette, talisman) est reconnu comme un nom, même s’il n’est pas dans la grammaire (« of Flight », « of Kutorph ») ; corrige aussi « l’armure de plates de lumière +2 » → « l’armure de plates +2 of Light ».
+
 ## 0.26 — noms d’artefacts aléatoires : élision et « de plusieurs »
 
 - Moteur des noms aléatoires et graffitis : « de » s’élide aussi devant un h muet (« l’épée longue d’Hiver », « la hache de guerre d’Hier », « d’Harmonie corporelle ») et reste « de » devant un h aspiré (« de Hache », « de Héros ») ; « des plusieurs » → « de plusieurs ».
