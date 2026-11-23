@@ -11,6 +11,13 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.30.1 — deuxième relevé en vraie partie
+
+- Barre latérale : espèces au nom identique en français (« Troll de Trog », « Coglin d’Okawaru », « Spriggan de Gozag Or : 120 »), « Oni de l’Étincelant ».
+- Viser : nom propre + équipement (« Viser : Gastronok, portant un chapeau de volonté +2 »), états « très/extrêmement empoisonné », « ralenti », « se déplace vite », « immunisé aux dégâts à distance », « chance d’affecter ».
+- Canon à main (trunk) : « Vous tirez une balle de plomb. »
+- Nouveaux messages : griffe secondaire, mur de pierre, minuterie de Zot, autel à trois dieux, faveur d’un dieu, fragment d’âme, moutons du sommeil, chance d’être détruit à l’impact, aides de touches.
+
 ## 0.30 — corrections relevées en vraie partie (mode spectateur)
 
 - Premier contrôle en vraie partie : parties d’autres joueurs regardées en spectateur sur crawl.xtahua.com (0.34 et trunk 0.36-a0), extension chargée dans la page ; les lignes restées en anglais à l’écran ont été relevées.

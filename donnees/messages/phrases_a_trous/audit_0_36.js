@@ -13,16 +13,19 @@
         `${m[1] === "Casting" ? "Lancer" : "Visée"} : ${m[2]} (${DANGER[m[3]]} ; ${m[4]} % de risque d’échec)`);
     const ETAT = { "wandering": "errant", "hasn't noticed you": "ne vous a pas remarqué", "not watching you": "ne vous regarde pas", "asleep": "endormi",
         "ally target": "cible alliée", "encased in ice": "pris dans la glace", "covered in magnetic dust": "couvert de poussière magnétique",
-        "paralysed": "paralysé", "weak": "affaibli", "poisoned": "empoisonné", "friendly and minion": "allié, serviteur" };
+        "paralysed": "paralysé", "weak": "affaibli", "poisoned": "empoisonné", "friendly and minion": "allié, serviteur", "very poisoned": "très empoisonné", "extremely poisoned": "extrêmement empoisonné",
+        "slow": "ralenti", "covering ground quickly": "se déplace vite", "damage-immune at range": "immunisé aux dégâts à distance", "fast": "rapide", "confused": "confus" };
     const etat = e => {
         let q;
         if ((q = e.match(/^(\d+)% to hit$/))) return `${q[1]} % de chances de toucher`;
         if ((q = e.match(/^chance to weaken: (\d+)%$/))) return `chance d’affaiblir : ${q[1]} %`;
+        if ((q = e.match(/^chance to affect: (\d+)%$/))) return `chance d’affecter : ${q[1]} %`;
         if ((q = e.match(/^chance to (\w[\w ]*): (\d+)%$/))) { const v = traduit(q[1]); return v ? `chance de ${v} : ${q[2]} %` : null; }
         return ETAT[e] || traduit(e);
     };
     X(/^(Aim|Look): (.+?)(?: \(([^()]+)\))?$/, m => {
-        const cible = traduit(m[2]) || (/^[A-Z][\w' -]*$/.test(m[2]) ? m[2] : null);
+        let cible = traduit(m[2]) || (/^[A-Z][\w' -]*$/.test(m[2]) ? m[2] : null), q;
+        if (!cible && (q = m[2].match(/^([A-Z][\w' -]*), ((?:wielding|wearing|carrying) .+)$/))) { const r = traduit("a kobold, " + q[2]); if (r) cible = r.replace(/^un kobold/, q[1]); }
         if (!cible) return null;
         let etats = "";
         if (m[3]) { const e = m[3].split(", ").map(etat); if (e.some(x => !x)) return null; etats = ` (${e.join(", ")})`; }
@@ -42,8 +45,8 @@
     // --- Menus d'objets ---
     const CAT = { "Hand Weapons": "Armes de mêlée", "Missiles": "Projectiles", "Armour": "Armure", "Magical Staves": "Bâtons magiques", "Jewellery": "Bijoux",
         "Talismans": "Talismans", "Wands": "Baguettes", "Scrolls": "Parchemins", "Potions": "Potions", "Books": "Livres", "Miscellaneous": "Divers",
-        "Ranged Weapons": "Armes à distance", "Orbs": "Orbes", "Gems": "Gemmes", "Runes": "Runes", "Food": "Nourriture" };
-    X(/^(Hand Weapons|Missiles|Armour|Magical Staves|Jewellery|Talismans|Wands|Scrolls|Potions|Books|Miscellaneous|Ranged Weapons|Orbs|Gems|Runes)(\s*)\((go to first|select all) with (.+)\)$/, m => {
+        "Ranged Weapons": "Armes à distance", "Armure": "Armure", "Orbs": "Orbes", "Gems": "Gemmes", "Runes": "Runes", "Food": "Nourriture" };
+    X(/^(Hand Weapons|Missiles|Armour|Armure|Magical Staves|Jewellery|Talismans|Wands|Scrolls|Potions|Books|Miscellaneous|Ranged Weapons|Orbs|Gems|Runes)(\s*)\((go to first|select all) with (.+)\)$/, m => {
         const c = CAT[m[1]]; const pad = " ".repeat(Math.max(1, m[1].length + m[2].length - c.length));
         return `${c}${pad}(${m[3] === "go to first" ? "aller au 1er avec" : "tout choisir avec"} ${m[4]})`; });
     X(/^(Drop|Pick up|Wear|Put on|Remove|Take off) what\? \(Left\/Right\/Tab to switch category\) (\d+)\/(\d+) gear slots \(_ (?:for|pour) (?:help|aide)\)( \d+ items?)?$/, m => {
@@ -69,10 +72,27 @@
 
     // --- Barre latérale : « Espèce of Dieu ****.. » ---
     const ESP = "Armataur|Barachi|Coglin|Deep Elf|Demigod|Demonspawn|Djinni|(?:Black|Green|Grey|Pale|Purple|Red|White|Yellow) Draconian|Draconian|Felid|Formicid|Gargoyle|Gnoll|Human|Kobold|Merfolk|Minotaur|Mountain Dwarf|Mummy|Naga|Octopode|Oni|Poltergeist|Revenant|Spriggan|Tengu|Troll|Vine Stalker|Vampire|Gale Centaur|Lava Orc|Hill Orc|Orc";
-    const DIEUX = "Ashenzari|Beogh|Cheibriados|Dithmenos|Elyvilon|Fedhas|Gozag|Hepliaklqana|Ignis|Jiyva|Kikubaaqudgha|Lugonu|Makhleb|Nemelex Xobeh|Okawaru|Qazlal|Ru|Sif Muna|Trog|Uskayaw|Vehumet|Wu Jian|Xom|Yredelemnul|Zin|The Shining One";
+    const DIEUX = "Ashenzari|Beogh|Cheibriados|Dithmenos|Elyvilon|Fedhas|Gozag|Hepliaklqana|Ignis|Jiyva|Kikubaaqudgha|Lugonu|Makhleb|Nemelex Xobeh|Okawaru|Qazlal|Ru|Sif Muna|Trog|Uskayaw|Vehumet|Wu Jian|Xom|Yredelemnul|Zin|[Tt]he Shining One";
     X(new RegExp("^(" + ESP + ") of (" + DIEUX + ")( [*.]{1,6}\\.?| Gold: \\d+)?$"), m => {
-        const e = traduit(m[1]); if (!e) return null;
-        return `${e} ${/^[AEIOUY]/.test(m[2]) ? "d’" : "de "}${m[2]}${m[3] ? m[3].replace(" Gold:", " Or :") : ""}`; });
+        const e = T1(m[1]);
+        return `${e} ${/^[AEIOUY]/.test(m[2]) ? "d’" : "de "}${m[2].replace(/^the Shining One$/, "l’Étincelant").replace(/^de l’/, "")}${m[3] ? m[3].replace(" Gold:", " Or :") : ""}`; });
+
+    // --- Relevé n° 2 (23/11) ---
+    X(/^Your off-hand claw misses (.+)\.$/, m => { const t = traduit(m[1]); return t ? `Votre griffe secondaire rate ${t}.` : null; });
+    X(/^Your headbutt misses something\.$/, () => "Votre coup de tête rate quelque chose.");
+    X(/^You bump into the (translucent )?stone wall\.$/, m => `Vous vous cognez contre le mur de pierre${m[1] ? " translucide" : ""}.`);
+    X(/^Zot will find you in (\d+) turns if you stay in this branch and explore no new floors\.$/, m => `Zot vous trouvera dans ${m[1]} tours si vous restez dans cette branche sans explorer de nouvel étage.`);
+    X(/^You feel attractive to monsters\.$/, () => "Vous vous sentez attirant pour les monstres.");
+    X(/^You aren't carrying any weapons that can be enchanted\.$/, () => "Vous ne portez aucune arme pouvant être enchantée.");
+    X(/^The dream sheep shake their wool and sparkle\. You feel drowsy\.\.\.$/, () => "Les moutons du sommeil secouent leur laine et scintillent. Vous vous sentez somnolent…");
+    X(/^The species aptitude is in white\. Bonus from skill manuals is in red\.$/, () => "L’aptitude de l’espèce est en blanc. Le bonus des manuels est en rouge.");
+    X(/^\[\?\] toggle between ability selection and description\.$/, () => "[?] basculer entre le choix d’une capacité et sa description.");
+    X(/^Press: \? - help, Q - select action, \( or \) - cycle$/, () => "Touches : ? - aide, Q - choisir l’action, ( ou ) - faire défiler");
+    X(/^This altar belongs to \(a\) (.+), \(b\) (.+) or \(c\) (.+), but you can't tell which\.$/, m => `Cet autel appartient à (a) ${m[1]}, (b) ${m[2]} ou (c) ${m[3]}, mais vous ne savez pas lequel.`);
+    X(/^Press the corresponding letter to learn more about a god, or press enter to convert or escape to cancel\.$/, () => "Appuyez sur la lettre d’un dieu pour en savoir plus, sur Entrée pour vous convertir ou sur Échap pour annuler.");
+    X(/^Favour(\s+)-(\s+)(.+) is neutral towards you\.$/, m => `Faveur${m[1]}-${m[2]}${m[3]} est neutre envers vous.`);
+    X(/^A fragment of (.+)'s soul is dislodged from its body\.$/, m => { const t = traduit(m[1]); return t ? `Un fragment de l’âme ${t.replace(/^le /, "du ").replace(/^les /, "des ").replace(/^la /, "de la ").replace(/^l’/, "de l’")} est arraché à son corps.` : null; });
+    X(/^It has a (\d+)\/(\d+) chance to be destroyed on impact\.$/, m => `Il a ${m[1]} chance${m[1] === "1" ? "" : "s"} sur ${m[2]} d’être détruit à l’impact.`);
 
     // --- Rencontres (uniques de la trunk) ---
     X(/^You encounter Natasha, Servant of Life and Death\.$/, () => "Vous rencontrez Natasha, Servante de la Vie et de la Mort.");
