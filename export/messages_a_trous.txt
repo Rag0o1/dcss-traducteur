@@ -8393,7 +8393,7 @@ EN: Jiyva will mutate your body as you gain piety.
 FR: Jiyva mute votre corps à mesure que vous gagnez en piété.
 
 EN: Jiyva will now unseal the treasures of the Slime Pits.
-FR: Jiyva va désormais desceller les trésors des Fosses de Gelée.
+FR: Jiyva va désormais desceller les trésors des Slime Pits.
 
 EN: You may now expel jellies when seriously injured.
 FR: Vous pouvez désormais expulser des gelées quand vous êtes gravement blessé.

@@ -621,7 +621,7 @@
             for (const mc of morceaux) {
                 const k = mc.match(/^(wielding|wearing|carrying|quivering) (.+)$/);
                 if (!k) return null;
-                const verbe = { wielding: "maniant", wearing: "portant", carrying: "portant dans les mains", quivering: "avec en carquois" }[k[1]];
+                const verbe = { wielding: "brandissant", wearing: "portant", carrying: "portant dans les mains", quivering: "avec en carquois" }[k[1]];
                 const acc = k[2].match(/^(.*?)( \{[^}]*\})$/);   // propriétés entre accolades : « {Energy, Str+3} »
                 const nomObj = acc ? acc[1] : k[2];
                 const unObjet = n => {

@@ -409,7 +409,7 @@
         const o = p.map(x => ligneObjet(x) || (tr(x) !== x ? tr(x) : null));
         return o.includes(null) ? null : `Repéré : ${o.join(" et ")}.`;
     });
-    const LIEUX = { "Lair": "le Lair", "Shoals": "les Shoals", "Spider Nest": "le Spider Nest", "Dungeon": "le Donjon", "Orcish Mines": "les Orcish Mines", "Swamp": "le Swamp", "Snake Pit": "la Snake Pit", "Vaults": "les Vaults", "Crypt": "la Crypt", "Elven Halls": "les Elven Halls" };
+    const LIEUX = { "Lair": "le Lair", "Shoals": "les Shoals", "Spider Nest": "le Spider Nest", "Dungeon": "le Dungeon", "Orcish Mines": "les Orcish Mines", "Swamp": "le Swamp", "Snake Pit": "la Snake Pit", "Vaults": "les Vaults", "Crypt": "la Crypt", "Elven Halls": "les Elven Halls" };
     R(/^There is (a|an) (stone staircase|staircase|hole|crawl-hole|escape hatch|portal) (back )?to the (.+?) here\.$/, m => {
         const l = LIEUX[m[4]]; if (!l) return null;
         const nom = { "stone staircase": "un escalier de pierre", staircase: "un escalier", hole: "un trou", "crawl-hole": "un boyau", "escape hatch": "une trappe de secours", portal: "un portail" }[m[2]];

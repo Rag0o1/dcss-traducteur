@@ -850,7 +850,7 @@
     };
 
     const LIEUX_DE = {
-        "Dungeon": "du Donjon", "Lair of Beasts": "du Lair of Beasts", "Orcish Mines": "des Orcish Mines",
+        "Dungeon": "du Dungeon", "Lair of Beasts": "du Lair of Beasts", "Orcish Mines": "des Orcish Mines",
         "Elven Halls": "des Elven Halls", "Vaults": "des Vaults", "Depths": "des Depths",
         "Crypt": "de la Crypt", "Swamp": "du Swamp", "Shoals": "des Shoals", "Snake Pit": "de la Snake Pit",
         "Spider Nest": "du Spider Nest", "Slime Pits": "des Slime Pits",

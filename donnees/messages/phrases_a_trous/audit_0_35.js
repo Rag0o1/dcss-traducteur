@@ -242,7 +242,7 @@
         return `Vous avez environ ${m[1]} % de chances de toucher avec votre ${a} et ${m[3]} % avec votre coup de queue${m[4] ? " (en étant incapable d’agir)" : ""}.`; } });
     R.push({ regex: /^Your dull grey scales are hard\. \(AC \+(\d+)\)$/, translate: m => `Vos écailles gris terne sont dures. (AC +${m[1]})` });
     R.push({ regex: /^Goodbye, ([A-Za-z]+)\.$/, translate: m => `Au revoir, ${m[1]}.` });
-    R.push({ regex: /^\.\.\. wielding (.+)$/, translate: m => { const r = T1(m[1]); return r && r !== m[1] ? `… maniant ${r}` : null; } });
+    R.push({ regex: /^\.\.\. wielding (.+)$/, translate: m => { const r = T1(m[1]); return r && r !== m[1] ? `… brandissant ${r}` : null; } });
     R.push({ regex: /^\.\.\. on level (\d+) of the (.+)\.$/, translate: m => { const r = T1(m[2]); return `… au niveau ${m[1]} de ${/^(?:le |la |l’|les )/.test(r) ? r : "la branche " + r}.`; } });
     R.push({ regex: /^The game lasted (\d+:\d+:\d+) \((\d+) turns\)\.$/, translate: m => `La partie a duré ${m[1]} (${m[2]} tours).` });
 
@@ -347,7 +347,7 @@
             const k = /^(wielding|wearing|carrying|quivering) (.+)$/.exec(sg); if (!k) return null;
             let o = objets(k[2]); if (!o) return null;
             if (!/^(?:des|un|une|le|la|l’|les|\d)/.test(o)) o = "des " + o;
-            fr.push({ wielding: "maniant", wearing: "portant", carrying: "transportant", quivering: "avec en carquois" }[k[1]] + " " + o);
+            fr.push({ wielding: "brandissant", wearing: "portant", carrying: "transportant", quivering: "avec en carquois" }[k[1]] + " " + o);
         }
         let fin = "";
         if (m[3] !== undefined || m[4] !== undefined) {

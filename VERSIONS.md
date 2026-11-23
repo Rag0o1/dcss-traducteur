@@ -11,6 +11,13 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.30 — corrections relevées en vraie partie (mode spectateur)
+
+- Premier contrôle en vraie partie : parties d’autres joueurs regardées en spectateur sur crawl.xtahua.com (0.34 et trunk 0.36-a0), extension chargée dans la page ; les lignes restées en anglais à l’écran ont été relevées.
+- Nouveau fichier donnees/messages/phrases_a_trous/audit_0_36.js : « Lancer : Magic Dart (sans danger ; 3 % de risque d’échec) », « Viser : un diablotin blanc (errant, ne vous a pas remarqué, 57 % de chances de toucher) », en-têtes des menus d’objets (« Armes de mêlée (aller au 1er avec )) »), « Déposer quoi ? … emplacements », « Équipement : 33/52 emplacements », barre latérale « Draconien pâle de Vehumet », « Rejeton démoniaque d’Uskayaw », progression des compétences (« Avec l’entraînement actuel (19 %)… »), « Vous ratez Sticky Flame. », « (hanté) », « Vous l’avez obtenu au niveau 2 des Orcish Mines », nouveaux textes de la trunk (Natasha, canons de glace, éclats magnétiques).
+- Restes de l’ancienne traduction des lieux dans le code : « les Cryptes » → « les Vaults », « des Fosses de Gelée » → « des Slime Pits », « du Donjon » → « du Dungeon » (niveaux, provenance des objets), « la Ruche » → « la Hive ».
+- wield = brandir aussi dans « brandissant une lance » (au lieu de « maniant »).
+
 ## 0.29.1 — graffitis : accord des couleurs
 
 - Les couleurs d’un seul mot s’accordent au pluriel : « des graffitis rouges », « des symboles jaunes contorsionnés », « des triangles jaunes » (rouge, jaune, rose, mauve, pourpre, écarlate, fauve, beige) ; les couleurs composées restent invariables (« jaune tournesol », « noir brillant »).

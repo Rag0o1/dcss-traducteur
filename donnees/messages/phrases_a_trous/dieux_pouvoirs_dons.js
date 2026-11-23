@@ -183,7 +183,7 @@
         "Jiyva will now mutate your body as you gain piety.": "Jiyva mutera désormais votre corps à mesure que vous gagnez en piété.",
         "Jiyva will no longer mutate your body.": "Jiyva ne mutera plus votre corps.",
         "Jiyva will mutate your body as you gain piety.": "Jiyva mute votre corps à mesure que vous gagnez en piété.",
-        "Jiyva will now unseal the treasures of the Slime Pits.": "Jiyva va désormais desceller les trésors des Fosses de Gelée.",
+        "Jiyva will now unseal the treasures of the Slime Pits.": "Jiyva va désormais desceller les trésors des Slime Pits.",
         "You may now expel jellies when seriously injured.": "Vous pouvez désormais expulser des gelées quand vous êtes gravement blessé.",
         "You will no longer expel jellies when injured.": "Vous n’expulserez plus de gelées quand vous êtes blessé.",
         "You may expel jellies when seriously injured.": "Vous pouvez expulser des gelées quand vous êtes gravement blessé.",
