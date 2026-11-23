@@ -54,11 +54,13 @@
         const U = globalThis.DCSS_UNRANDS; if (!U) return null;
         const m = s.match(/^(?:(an?|the) )?(?:([+-]\d+) )?(.+)$/);
         const e = m && U[m[3]]; if (!e) return null;
-        const [fr, g] = e, pl = g[1] === "p", f = g[0] === "f";
+        // Décision du 23/11 : le nom de l'artefact unique reste en anglais ; l'article suit le genre du nom français
+        // (« la Singing Sword », « le Wrath of Trog »), élision seulement devant une voyelle (h anglais aspiré).
+        const [fr, g] = e, pl = g[1] === "p", f = g[0] === "f", nom = m[3];
         let pref = "";
-        if (m[1] === "the") pref = pl ? "les " : globalThis.DCSS_ELIDE(fr) ? "l’" : f ? "la " : "le ";
+        if (m[1] === "the") pref = pl ? "les " : /^[AEIOUYaeiouy]/.test(nom) ? "l’" : f ? "la " : "le ";
         else if (m[1]) pref = pl ? "des " : f ? "une " : "un ";
-        return pref + fr + (m[2] ? " " + m[2] : "");
+        return pref + nom + (m[2] ? " " + m[2] : "");
     }
     function objetPlus(src) {
         let s = src.trim();

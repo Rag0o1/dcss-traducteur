@@ -11,6 +11,11 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.28 — « of » traduit, noms des artefacts uniques en anglais
+
+- Décision du 23/11 : « of » ne fait pas partie du nom, il se traduit : « l’épée longue +2 des Lonely Yaks », « l’anneau de Gluttony », « l’amulette du Death Scarab », « l’armure de plates +2 d’Ice » (élision seulement devant une voyelle, le h anglais est aspiré).
+- Décision du 23/11 : les artefacts uniques gardent aussi leur nom anglais, avec l’article du genre français : « la Singing Sword +7 », « le Wrath of Trog », « l’Axe of Woe », « le hood of the Assassin +2 ». Leurs descriptions restent en français.
+
 ## 0.27 — noms d’artefacts aléatoires en anglais
 
 - Décision du 23/11 : quand une arme, une armure ou un bijou a un nom donné au hasard, ce nom reste en anglais ; seul l’objet est traduit : « l’épée longue +2 of the Lonely Yaks », « l’anneau of Gluttony », « la cape +2 of Light ». Les artefacts uniques (« le Capuchon de l’Assassin ») gardent leur nom français.
