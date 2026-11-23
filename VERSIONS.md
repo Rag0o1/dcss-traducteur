@@ -11,6 +11,11 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.26 — noms d’artefacts aléatoires : élision et « de plusieurs »
+
+- Moteur des noms aléatoires et graffitis : « de » s’élide aussi devant un h muet (« l’épée longue d’Hiver », « la hache de guerre d’Hier », « d’Harmonie corporelle ») et reste « de » devant un h aspiré (« de Hache », « de Héros ») ; « des plusieurs » → « de plusieurs ».
+- « Summoning Gods » = « Dieux convoquants ».
+
 ## 0.25.11 — « en enfer » en minuscule
 
 - Les expressions gardent « enfer » en minuscule : « À bientôt en enfer ! », « décoration en enfer », « forgée en enfer », « élevé en enfer ».

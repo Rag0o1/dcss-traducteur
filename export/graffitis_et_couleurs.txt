@@ -5234,7 +5234,7 @@ EN: [_verbing_] Stopping
 FR: arrêtant/arrêtante
 
 EN: [_verbing_] Summoning
-FR: invoquant/invoquante
+FR: convoquant/convoquante
 
 EN: [_verbing_] Supporting
 FR: soutenant/soutenante

@@ -3712,7 +3712,7 @@ globalThis.DCSS_GRAFFITIS_REGLES = Object.assign(globalThis.DCSS_GRAFFITIS_REGLE
 ],
 [
 "Summoning",
-"invoquant/invoquante"
+"convoquant/convoquante"
 ],
 [
 "Supporting",

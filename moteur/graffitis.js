@@ -119,7 +119,8 @@
     }
     function elisions(s) {
         return s.replace(/ {2,}/g, " ").trim().replace(/\b([Dd])e le /g, "$1u ").replace(/\b([Dd])e les /g, "$1es ").replace(/\bà le /g, "au ").replace(/\bà les /g, "aux ")
-            .replace(/\b([Dd]e|[Qq]ue) ([AEIOUYÉÈÊ])/g, (m, a, b) => a.slice(0, -1) + "’" + b);
+            .replace(/\b([Dd]e|[Qq]ue) ([A-ZÀ-Ý][^\s]*)/g, (m, a, b) => globalThis.DCSS_ELIDE(b) ? a.slice(0, -1) + "’" + b : m)   // « d’Hiver », mais « de Hache »
+            .replace(/\bdes (plusieurs|quelques) /g, "de $1 ");
     }
 
     function traduireAvecScore(regle, texte) {
