@@ -497,6 +497,7 @@ avocado green
 azure
 azurite
 baby blue
+balge yellow
 banana yellow
 beetroot red
 beige
@@ -798,6 +799,7 @@ spring green
 steel blue
 strawberry red
 strontium yellow
+sunflower yellow
 tamarind
 tang blue
 tangerine

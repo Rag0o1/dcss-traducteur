@@ -1740,7 +1740,7 @@ globalThis.DCSS_GRAFFITIS_REGLES = {
 "rainbow_colour": [
 [
 "red",
-"rouge"
+"rouge/rouge"
 ],
 [
 "orange",
@@ -1748,7 +1748,7 @@ globalThis.DCSS_GRAFFITIS_REGLES = {
 ],
 [
 "yellow",
-"jaune"
+"jaune/jaune"
 ],
 [
 "green",
@@ -1877,6 +1877,10 @@ globalThis.DCSS_GRAFFITIS_REGLES = {
 "bleu layette"
 ],
 [
+"balge yellow",
+"jaune balge"
+],
+[
 "banana yellow",
 "jaune banane"
 ],
@@ -1886,7 +1890,7 @@ globalThis.DCSS_GRAFFITIS_REGLES = {
 ],
 [
 "beige",
-"beige"
+"beige/beige"
 ],
 [
 "bisque",
@@ -2306,7 +2310,7 @@ globalThis.DCSS_GRAFFITIS_REGLES = {
 ],
 [
 "fulvous",
-"fauve"
+"fauve/fauve"
 ],
 [
 "gamboge",
@@ -2618,7 +2622,7 @@ globalThis.DCSS_GRAFFITIS_REGLES = {
 ],
 [
 "mauve",
-"mauve"
+"mauve/mauve"
 ],
 [
 "mauve taupe",
@@ -2826,7 +2830,7 @@ globalThis.DCSS_GRAFFITIS_REGLES = {
 ],
 [
 "pink",
-"rose"
+"rose/rose"
 ],
 [
 "pink lavender",
@@ -2870,7 +2874,7 @@ globalThis.DCSS_GRAFFITIS_REGLES = {
 ],
 [
 "purple",
-"pourpre"
+"pourpre/pourpre"
 ],
 [
 "purple ochre",
@@ -2930,7 +2934,7 @@ globalThis.DCSS_GRAFFITIS_REGLES = {
 ],
 [
 "rose",
-"rose"
+"rose/rose"
 ],
 [
 "rose quartz",
@@ -3002,7 +3006,7 @@ globalThis.DCSS_GRAFFITIS_REGLES = {
 ],
 [
 "scarlet",
-"écarlate"
+"écarlate/écarlate"
 ],
 [
 "scarlet emerald",
@@ -3079,6 +3083,10 @@ globalThis.DCSS_GRAFFITIS_REGLES = {
 [
 "strontium yellow",
 "jaune de strontium"
+],
+[
+"sunflower yellow",
+"jaune tournesol"
 ],
 [
 "tamarind",

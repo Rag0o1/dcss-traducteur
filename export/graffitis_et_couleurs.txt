@@ -1214,13 +1214,13 @@ EN: [any_graffiti] @_graffiti_type_@ @_graffiti_obscenities_@
 FR: @_graffiti_type_@ @_graffiti_obscenities_@
 
 EN: [rainbow_colour] red
-FR: rouge
+FR: rouge/rouge
 
 EN: [rainbow_colour] orange
 FR: orange
 
 EN: [rainbow_colour] yellow
-FR: jaune
+FR: jaune/jaune
 
 EN: [rainbow_colour] green
 FR: vert/verte
@@ -1315,6 +1315,9 @@ FR: azurite
 EN: [misc_colour] baby blue
 FR: bleu layette
 
+EN: [misc_colour] balge yellow
+FR: jaune balge
+
 EN: [misc_colour] banana yellow
 FR: jaune banane
 
@@ -1322,7 +1325,7 @@ EN: [misc_colour] beetroot red
 FR: rouge betterave
 
 EN: [misc_colour] beige
-FR: beige
+FR: beige/beige
 
 EN: [misc_colour] bisque
 FR: bisque
@@ -1637,7 +1640,7 @@ EN: [misc_colour] fuchsine
 FR: fuchsine
 
 EN: [misc_colour] fulvous
-FR: fauve
+FR: fauve/fauve
 
 EN: [misc_colour] gamboge
 FR: gomme-gutte
@@ -1871,7 +1874,7 @@ EN: [misc_colour] maroon
 FR: bordeaux sombre
 
 EN: [misc_colour] mauve
-FR: mauve
+FR: mauve/mauve
 
 EN: [misc_colour] mauve taupe
 FR: taupe mauve
@@ -2027,7 +2030,7 @@ EN: [misc_colour] pine tree
 FR: pin
 
 EN: [misc_colour] pink
-FR: rose
+FR: rose/rose
 
 EN: [misc_colour] pink lavender
 FR: lavande rosé
@@ -2060,7 +2063,7 @@ EN: [misc_colour] pumpkin
 FR: citrouille
 
 EN: [misc_colour] purple
-FR: pourpre
+FR: pourpre/pourpre
 
 EN: [misc_colour] purple ochre
 FR: ocre pourpre
@@ -2105,7 +2108,7 @@ EN: [misc_colour] rockmelon
 FR: cantaloup
 
 EN: [misc_colour] rose
-FR: rose
+FR: rose/rose
 
 EN: [misc_colour] rose quartz
 FR: quartz rose
@@ -2159,7 +2162,7 @@ EN: [misc_colour] sepia
 FR: sépia
 
 EN: [misc_colour] scarlet
-FR: écarlate
+FR: écarlate/écarlate
 
 EN: [misc_colour] scarlet emerald
 FR: émeraude écarlate
@@ -2217,6 +2220,9 @@ FR: rouge fraise
 
 EN: [misc_colour] strontium yellow
 FR: jaune de strontium
+
+EN: [misc_colour] sunflower yellow
+FR: jaune tournesol
 
 EN: [misc_colour] tamarind
 FR: tamarin
