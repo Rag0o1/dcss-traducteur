@@ -2,43 +2,11 @@
  "taches": [
   {
    "priorite": 4,
-   "sujet": "Phrases d’aide coupées par une touche",
-   "source": "dat/descript/hints.txt, tutorial.txt",
-   "volume": "192 phrases (23 restantes)",
-   "quoi": "Conseils et tutoriel : la touche (X) coupe la phrase, la fin reste en anglais",
-   "decision": "Abandonné le 19/11 : le mode Hints n’existe pas sur les serveurs WebTiles"
-  },
-  {
-   "priorite": 2,
-   "sujet": "Graffitis et décors",
-   "source": "dat/database/decorlines.txt",
-   "volume": "~121 lignes",
-   "quoi": "« Vous voyez … sur la fontaine »",
-   "decision": "Moteur fait ; quelques cas à revérifier"
-  },
-  {
-   "priorite": 3,
-   "sujet": "Noms de couleurs",
-   "source": "dat/database/colourname.txt",
-   "volume": "~429 lignes",
-   "quoi": "Couleurs aléatoires utilisées dans les messages",
-   "decision": "À traduire"
-  },
-  {
-   "priorite": 4,
    "sujet": "Gadgets",
    "source": "dat/database/gizmo.txt",
    "volume": "~521 lignes",
    "quoi": "Noms générés des gadgets (adjectifs + noms)",
    "decision": "Décidé (19/11) : restent en anglais (noms inventés sans sens)"
-  },
-  {
-   "priorite": 3,
-   "sujet": "Noms d’artefacts aléatoires",
-   "source": "rand_all, rand_arm, rand_wpn, randname",
-   "volume": "~2 400 lignes",
-   "quoi": "« de la Malice joyeuse » : morceaux assemblés au hasard",
-   "decision": "Décision du 23/11 : le nom donné au hasard reste en anglais (« l’épée longue +2 des Lonely Yaks », « of » traduit) ; artefacts uniques aussi en anglais (« la Singing Sword ») — 0.29"
   },
   {
    "priorite": 4,
@@ -57,22 +25,6 @@
    "decision": "À trier : noms propres gardés"
   },
   {
-   "priorite": 3,
-   "sujet": "Phrases à trous et gabarits",
-   "source": "donnees/messages/phrases_a_trous, gabarits",
-   "volume": "~3 000",
-   "quoi": "Relecture qualité, jamais relus",
-   "decision": "À relire"
-  },
-  {
-   "priorite": 3,
-   "sujet": "Reste du dictionnaire",
-   "source": "donnees/*",
-   "volume": "~10 000",
-   "quoi": "Relecture qualité (seul officiel.js a été relu)",
-   "decision": "À décider : complète / échantillons"
-  },
-  {
    "priorite": 4,
    "sujet": "Halloween, piège d’arlequin, injures de Pakellas",
    "source": "miscname.txt, godspeak.txt",
@@ -86,7 +38,7 @@
    "source": "—",
    "volume": "—",
    "quoi": "Audit en spectateur, userscript",
-   "decision": "Plus tard"
+   "decision": "En cours : relevés en spectateur depuis le 23/11 (0.30, 0.30.1) ; userscript plus tard"
   }
  ],
  "astuces": []
