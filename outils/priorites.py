@@ -13,12 +13,13 @@ for c in ws[1]: c.font = gras
 for t in sorted(d["taches"], key=lambda t: t["priorite"]):
     ws.append([t["priorite"], t["sujet"], t["source"], t["volume"], t["quoi"], t["decision"]])
     for c in ws[ws.max_row]: c.fill = PatternFill("solid", fgColor=couleurs[t["priorite"]])
-ws.append([]); ws.append(["", "Phrases d’aide restées en partie en anglais (priorité 1)"]); ws[ws.max_row][1].font = gras
-ws.append(["", "Texte", "Traduction actuelle (mélangée)"]);
-for c in ws[ws.max_row]: c.font = gras
-for h in d["astuces"]:
-    k, _, v = h.partition(": ")
-    ws.append(["", k, v])
+if d["astuces"]:
+    ws.append([]); ws.append(["", "Phrases d’aide restées en partie en anglais (priorité 1)"]); ws[ws.max_row][1].font = gras
+    ws.append(["", "Texte", "Traduction actuelle (mélangée)"])
+    for c in ws[ws.max_row]: c.font = gras
+    for h in d["astuces"]:
+        k, _, v = h.partition(": ")
+        ws.append(["", k, v])
 for col, w in zip("ABCDEF", (9, 42, 40, 14, 60, 34)): ws.column_dimensions[col].width = w
 for row in ws.iter_rows():
     for c in row: c.alignment = Alignment(wrap_text=True, vertical="top")

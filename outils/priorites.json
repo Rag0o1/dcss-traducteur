@@ -9,38 +9,6 @@
    "decision": "Abandonné le 19/11 : le mode Hints n’existe pas sur les serveurs WebTiles"
   },
   {
-   "priorite": 1,
-   "sujet": "« blink » = Blink partout",
-   "source": "tout le dictionnaire",
-   "volume": "~30 textes",
-   "quoi": "Mot traduit de 4 façons (clignotement, translocation, saut…)",
-   "decision": "Fait en 0.22"
-  },
-  {
-   "priorite": 1,
-   "sujet": "Noms de sorts",
-   "source": "tout le dictionnaire",
-   "volume": "—",
-   "quoi": "Un nom de sort reste en anglais, même quand le mot sert ailleurs (parchemin, objet…)",
-   "decision": "Décidé : anglais (déjà le réglage par défaut)"
-  },
-  {
-   "priorite": 2,
-   "sujet": "Aide du jeu (?)",
-   "source": "dat/database/help.txt",
-   "volume": "~456 lignes",
-   "quoi": "Écrans d’aide : ramasser, naviguer, commandes",
-   "decision": "Fait en 0.23"
-  },
-  {
-   "priorite": 2,
-   "sujet": "FAQ du jeu",
-   "source": "dat/database/FAQ.txt",
-   "volume": "~177 lignes",
-   "quoi": "Questions fréquentes (menu ?)",
-   "decision": "Fait en 0.23"
-  },
-  {
    "priorite": 2,
    "sujet": "Graffitis et décors",
    "source": "dat/database/decorlines.txt",
@@ -119,22 +87,6 @@
    "volume": "—",
    "quoi": "Audit en spectateur, userscript",
    "decision": "Plus tard"
-  },
-  {
-   "priorite": 1,
-   "sujet": "« stab »",
-   "source": "tout le dictionnaire",
-   "volume": "~20 textes",
-   "quoi": "« attaque furtive » ou garder « stab » en anglais ?",
-   "decision": "Décidé : « attaque furtive » ; le nom d’un sort reste en anglais"
-  },
-  {
-   "priorite": 1,
-   "sujet": "Portails en anglais",
-   "source": "tout le dictionnaire",
-   "volume": "62 textes",
-   "quoi": "Ziggurat, Sewer, Bazaar… gardent leur nom anglais",
-   "decision": "Fait en 0.24 (décision du 18/11)"
   }
  ],
  "astuces": []
