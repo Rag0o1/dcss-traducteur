@@ -43,12 +43,12 @@ Chaque version est décrite ci-dessous, la plus récente en premier.
 
 ## 0.28 — « of » traduit, noms des artefacts uniques en anglais
 
-- Décision du 23/11 : « of » ne fait pas partie du nom, il se traduit : « l’épée longue +2 des Lonely Yaks », « l’anneau de Gluttony », « l’amulette du Death Scarab », « l’armure de plates +2 d’Ice » (élision seulement devant une voyelle, le h anglais est aspiré).
-- Décision du 23/11 : les artefacts uniques gardent aussi leur nom anglais, avec l’article du genre français : « la Singing Sword +7 », « le Wrath of Trog », « l’Axe of Woe », « le hood of the Assassin +2 ». Leurs descriptions restent en français.
+- « of » ne fait pas partie du nom, il se traduit : « l’épée longue +2 des Lonely Yaks », « l’anneau de Gluttony », « l’amulette du Death Scarab », « l’armure de plates +2 d’Ice » (élision seulement devant une voyelle, le h anglais est aspiré).
+- Les artefacts uniques gardent aussi leur nom anglais, avec l’article du genre français : « la Singing Sword +7 », « le Wrath of Trog », « l’Axe of Woe », « le hood of the Assassin +2 ». Leurs descriptions restent en français.
 
 ## 0.27 — noms d’artefacts aléatoires en anglais
 
-- Décision du 23/11 : quand une arme, une armure ou un bijou a un nom donné au hasard, ce nom reste en anglais ; seul l’objet est traduit : « l’épée longue +2 of the Lonely Yaks », « l’anneau of Gluttony », « la cape +2 of Light ». Les artefacts uniques (« le Capuchon de l’Assassin ») gardent leur nom français.
+- Quand une arme, une armure ou un bijou a un nom donné au hasard, ce nom reste en anglais ; seul l’objet est traduit : « l’épée longue +2 of the Lonely Yaks », « l’anneau of Gluttony », « la cape +2 of Light ». Les artefacts uniques (« le Capuchon de l’Assassin ») gardent leur nom français.
 - Moteur : tout « of Nom » en majuscule derrière un objet (+N, anneau, amulette, talisman) est reconnu comme un nom, même s’il n’est pas dans la grammaire (« of Flight », « of Kutorph ») ; corrige aussi « l’armure de plates de lumière +2 » → « l’armure de plates +2 of Light ».
 
 ## 0.26 — noms d’artefacts aléatoires : élision et « de plusieurs »
@@ -69,22 +69,22 @@ Chaque version est décrite ci-dessous, la plus récente en premier.
 ## 0.25.9 — relecture des descriptions, sigles en anglais
 
 - Relecture des 2 710 descriptions (monstres, sorts, objets, mutations, dieux, espèces, métiers, lieux) : 158 corrections (contresens, oublis, accords, mots inexistants, noms de sorts et de lieux remis en anglais, summon = convoquer, apostrophes ’, phrases ajoutées en double retirées).
-- Décision du 20/11 : les sigles restent en anglais comme à l’écran du jeu — AC (et non CA), HP (PV), MP (PM), XL (NX), avec EV et SH ; leur explication est en français.
+- Les sigles restent en anglais comme à l’écran du jeu — AC (et non CA), HP (PV), MP (PM), XL (NX), avec EV et SH ; leur explication est en français.
 - « Summonings » = « de Convocation » partout ; « lumière de torche ombreuse ».
 
 ## 0.25.8 — « Donjon » quand ce n’est pas le lieu
 
-- Précision du 19/11 : « Dungeon » reste en anglais quand il désigne le lieu (niveaux du Dungeon, retour vers le Dungeon, « Bon retour dans le Dungeon ! ») ; quand il désigne la structure, le monde souterrain (Xom, descriptions, histoires des monstres), on garde « le Donjon ».
+- « Dungeon » reste en anglais quand il désigne le lieu (niveaux du Dungeon, retour vers le Dungeon, « Bon retour dans le Dungeon ! ») ; quand il désigne la structure, le monde souterrain (Xom, descriptions, histoires des monstres), on garde « le Donjon ».
 - Accords après « l’Abyss » (singulier) : « l’Abyss est », « l’Abyss compte » ; « du Swamp ou des Shoals ».
 
 ## 0.25.7 — noms de lieux en anglais
 
-- Décision du 19/11 : les noms de lieux restent en anglais, comme les portails, avec l’article défini et le genre du mot français : le Dungeon, le Lair (of Beasts), le Swamp, les Shoals, le Snake Pit, le Spider Nest, les Slime Pits, les Orcish Mines, les Elven Halls, les Vaults, la Crypt, la Tomb (of the Ancients), les Depths, le Vestibule of Hell, le Hell (h aspiré : « du Hell »), les Hells, l’Iron City of Dis, la Gehenna, le Cocytus, le Tartarus, l’Abyss, le Pandemonium, le Realm of Zot (environ 690 remplacements).
+- Les noms de lieux restent en anglais, comme les portails, avec l’article défini et le genre du mot français : le Dungeon, le Lair (of Beasts), le Swamp, les Shoals, le Snake Pit, le Spider Nest, les Slime Pits, les Orcish Mines, les Elven Halls, les Vaults, la Crypt, la Tomb (of the Ancients), les Depths, le Vestibule of Hell, le Hell (h aspiré : « du Hell »), les Hells, l’Iron City of Dis, la Gehenna, le Cocytus, le Tartarus, l’Abyss, le Pandemonium, le Realm of Zot (environ 690 remplacements).
 - Restent en français : les expressions et les noms qui ne désignent pas le lieu (« À bientôt en enfer », chien de l’enfer, Lieur d’Enfer, le titre « l’Enfer » pour Inferno, le Marais secret d’Eringya, la citation de Milton).
 
 ## 0.25.6 — stab = attaque furtive
 
-- Décision du 19/11 : « stab » = « attaque furtive » (au lieu de « attaque sournoise ») ; la mécanique « frapper un ennemi qui ne vous a pas vu » se dit « attaquer furtivement » dans les descriptions (dagues, Discrétion, l’Étincelant, mutations). Le verbe de combat « vous poignarde » ne change pas.
+- « stab » = « attaque furtive » (au lieu de « attaque sournoise ») ; la mécanique « frapper un ennemi qui ne vous a pas vu » se dit « attaquer furtivement » dans les descriptions (dagues, Discrétion, l’Étincelant, mutations). Le verbe de combat « vous poignarde » ne change pas.
 
 ## 0.25.5 — relecture des messages et de l’interface
 
@@ -93,7 +93,7 @@ Chaque version est décrite ci-dessous, la plus récente en premier.
 
 ## 0.25.4 — tutoiement dans les répliques
 
-- Décision du 19/11 : un monstre, démon, dieu ou arme qui parle AU joueur le tutoie (« Meurs, mortel ! », « Je vais te tuer ! », « Tu es un hérétique et tu dois être détruit ! ») ; il vouvoie quand il parle de sa race ou d’un groupe (« Vous, les mortels… »). La narration du jeu reste au vouvoiement. 750 répliques revues.
+- Un monstre, démon, dieu ou arme qui parle AU joueur le tutoie (« Meurs, mortel ! », « Je vais te tuer ! », « Tu es un hérétique et tu dois être détruit ! ») ; il vouvoie quand il parle de sa race ou d’un groupe (« Vous, les mortels… »). La narration du jeu reste au vouvoiement. 750 répliques revues.
 - Message d’accueil d’Halloween : « vous devrez prendre l’Orbe vous-même ».
 
 ## 0.25.3 — relecture des textes générés
@@ -112,7 +112,7 @@ Chaque version est décrite ci-dessous, la plus récente en premier.
 
 - Moteur : phrases du tutoriel où le jeu colle le nom d’une touche dans le texte (`$cmd[...]` → « Ctrl-P », « > »…) ; la touche est reconnue quelle qu’elle soit (raccourcis personnalisés compris). 69 paragraphes (`outils/phrases_cmd_src.json`).
 - Citations des descriptions : 182 citations du domaine public traduites (Bible, Shakespeare, Milton, Blake, Poe, Lovecraft…) ; les auteurs français reprennent leur texte original (Baudelaire, Renan). Décision du 19/11 : tout ce qui est encore protégé par le droit d’auteur reste en anglais (`outils/citations_src.json` → `messages/citations_dp.js`).
-- Gadgets des Coglins : descriptions des effets et menu d’assemblage traduits ; leurs noms restent en anglais (décision du 19/11), comme ceux des livres aléatoires.
+- Gadgets des Coglins : descriptions des effets et menu d’assemblage traduits ; leurs noms restent en anglais, comme ceux des livres aléatoires.
 
 ## 0.24.3 — version en développement (0.35) : nouveaux textes
 
@@ -128,13 +128,13 @@ Chaque version est décrite ci-dessous, la plus récente en premier.
 ## 0.24.1 — messages des portails
 
 - 421 messages des portails traduits (`outils/db/portails.txt`, généré dans `database_divers.js`) : annonces (« Il y a une entrée vers le Sewer à ce niveau. Dépêchez-vous de la trouver avant que le portail ne rouille ! »), bruits qui s’éloignent, fermetures, noms des salles des Wizlab et des Troves.
-- Décision du 18/11 : les portails sont des noms propres → article défini (« vers la Ziggurat », « au Gauntlet », « du Volcano ») ; 29 textes corrigés.
+- Les portails sont des noms propres → article défini (« vers la Ziggurat », « au Gauntlet », « du Volcano ») ; 29 textes corrigés.
 
 ## 0.24 — noms d’artefacts aléatoires, portails en anglais
 
 - Noms d’artefacts aléatoires traduits avec la grammaire du jeu (`randname.txt`, `rand_all/arm/wpn.txt` → `outils/noms_aleatoires_fr.txt`, généré par `outils/grammaire_noms.py`) : « l’épée longue +2 des Yaks solitaires », « l’armure de plates +8 de la Bienveillance de Xom », « la dague +1 de l’Aspic fortifiant ». Les noms inventés entre guillemets (« Vlaxus ») restent tels quels.
 - Moteur (`moteur/graffitis.js`, `moteur/content.js`) : article accordé `¤`, adjectif placé devant le nom `@règle>@` ou rejeté après `{apres}`, contractions « du / des », choix de la règle la plus précise ; un nom qui n’est presque qu’un mot libre (« of Cocytus ») n’est pas touché.
-- Décision du 18/11 : les noms des portails restent en anglais, y compris dans les descriptions (Ziggurat, Sewer, Ossuary, Bailey, Ice Cave, Volcano, Wizlab, Desolation, Bazaar, Trove, Gauntlet, Necropolis, Labyrinth) : 62 textes corrigés.
+- Les noms des portails restent en anglais, y compris dans les descriptions (Ziggurat, Sewer, Ossuary, Bailey, Ice Cave, Volcano, Wizlab, Desolation, Bazaar, Trove, Gauntlet, Necropolis, Labyrinth) : 62 textes corrigés.
 
 ## 0.23 — aide du jeu et FAQ
 
@@ -145,7 +145,7 @@ Chaque version est décrite ci-dessous, la plus récente en premier.
 
 - Nouveau dans le moteur (`moteur/content.js`, `traduirePhraseATouches`) : quand le jeu coupe une phrase avec des touches colorées, la phrase ENTIÈRE est reconnue sur l’élément parent et traduite d’un coup. Garde-fou : un morceau isolé (« You can ») n’est jamais traduit seul ; seule une phrase complète connue l’est.
 - Nouveau `donnees/interface/phrases_touches.js` (192 phrases des astuces et du tutoriel, source : `outils/phrases_touches_src.json`).
-- « blink » = « Blink » partout (décision du 18/11) : « Vous faites un Blink. », « parchemin de Blink », « Le gobelin fait un Blink vers vous. ». « en un clin d’œil » (blink of an eye) reste tel quel ; l’option « noms de sorts en français » garde « Clignement ».
+- « blink » = « Blink » partout : « Vous faites un Blink. », « parchemin de Blink », « Le gobelin fait un Blink vers vous. ». « en un clin d’œil » (blink of an eye) reste tel quel ; l’option « noms de sorts en français » garde « Clignement ».
 - Page « Priorités » dans le tableau Excel (`outils/priorites.py`).
 
 ## 0.21.9 — dat/database : enfer, accueil, Xom

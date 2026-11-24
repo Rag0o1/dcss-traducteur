@@ -1,16 +1,14 @@
 #!/usr/bin/env python3
-"""Base de données des traductions (un seul classeur Excel clair, à relire et corriger).
+"""Fichier de travail pour mettre à jour la feuille Google Sheets « DCSS-Traducteur-traductions » (onglets Accueil et Traductions).
 
 Usage (depuis la racine du projet) :
     node outils/exporter.js                                   # met à jour export/tout.json
     python3 outils/base_traductions.py ../DCSS-Traducteur-traductions.xlsx
-    python3 outils/priorites.py ../DCSS-Traducteur-traductions.xlsx      # ajoute la page « Priorités »
 
 Onglets :
   Accueil      mode d'emploi, chiffres par thème
   Traductions  UNE ligne par texte : filtrer par Thème / Type, chercher (Ctrl+F), écrire dans « Ta correction »
-  Règles       décisions et glossaire (ce qui reste en anglais, les mots imposés)
-  Priorités    ce qui reste à faire (outils/priorites.py)
+Les onglets Règles et Priorités n'existent que dans la feuille Google Sheets (ne pas les écraser).
 
 Les corrections écrites dans « Ta correction » se réappliquent avec : python3 outils/importer_corrections.py fichier.xlsx
 Nécessite : pip install openpyxl
@@ -157,32 +155,8 @@ ws.conditional_formatting.add('I2:I%d' % n, FormulaRule(formula=['AND($C2="Nom /
 for col, w in zip('ABCDEFGHIJK', (7, 22, 17, 55, 55, 40, 22, 20, 7, 30, 18)): ws.column_dimensions[col].width = w
 ws.freeze_panes = 'D2'
 
-# Règles
-rg = wb.create_sheet('Règles')
-REGLES = [
-    ('Restent en anglais', 'Noms de sorts (même quand le mot sert ailleurs) ; « Blink » (et le verbe : « faire un Blink ») ; noms des portails (Ziggurat, Sewer, Ossuary, Bailey, Ice Cave, Volcano, Wizlab, Desolation, Bazaar, Trove, Gauntlet, Necropolis, Labyrinth) ; « Blink » et « Para » dans la barre latérale ; noms inventés entre guillemets des artefacts ; noms des livres aléatoires (noms propres) ; noms des gadgets des Coglins (inventés) ; noms donnés au hasard aux armes, armures et bijoux (« l’épée longue +2 des Lonely Yaks » : seul « of » se traduit) et noms des artefacts uniques (« la Singing Sword », « le Wrath de Trog », « la capuche de l’Assassin »), avec l’article du genre français.'),
-    ('Lieux', 'Les noms de lieux restent en anglais, comme les portails (article défini, genre du mot français) : le Dungeon, le Temple, le Lair (of Beasts), le Swamp, les Shoals, le Snake Pit, le Spider Nest, les Slime Pits, les Orcish Mines, les Elven Halls, les Vaults, la Crypt, la Tomb (of the Ancients), les Depths, le Vestibule of Hell, le Hell (h aspiré : du Hell), les Hells, Dis (l’Iron City of Dis), la Gehenna, le Cocytus, le Tartarus, l’Abyss, le Pandemonium, le Realm of Zot. « Dungeon » en anglais seulement quand c’est le lieu (niveaux du Dungeon, retour vers le Dungeon) ; la structure, le monde souterrain = le Donjon. Les expressions ne changent pas (« en enfer », chien de l’enfer, Lieur d’Enfer).'),
-    ('Portails', 'Noms propres : article défini (la Ziggurat, le Sewer, au Gauntlet, du Volcano). Féminins : la Ziggurat, la Desolation, la Necropolis, l’Ice Cave.'),
-    ('Tout le reste', 'Traduit en français, sauf décision contraire du joueur.'),
-    ('Ton', 'Le texte du jeu (narration, menus) vouvoie le joueur. Dans les répliques (monstres, démons, dieux, armes qui parlent) : TUTOIEMENT quand on parle au joueur lui-même (« Meurs, mortel ! »), VOUVOIEMENT quand on parle de sa race ou d’un groupe (« Vous, les mortels… »). Xom tutoie.'),
-    ('Longueur', 'Un texte d’interface (nom, libellé, menu) ne dépasse pas la longueur de l’anglais + 2 caractères.'),
-    ('Typographie', 'Apostrophe ’ ; guillemets « » ; espace avant ! ? : ;'),
-]
-GLOSS = [('AC, EV, SH, HP, MP, XL', 'sigles gardés en anglais comme dans l’écran du jeu (l’AC, d’AC, son AC ; les HP, des MP) ; le texte qui les explique est en français (classe d’armure, points de vie…)'), ('summon', 'convoquer (école Summonings = Convocations ; métier Summoner = Invocateur)'), ('stab', 'attaque furtive (le nom d’un sort reste en anglais)'),
-         ('scroll', 'parchemin'), ('wand', 'baguette'), ('ring', 'anneau'), ('amulet', 'amulette'), ('staff', 'bâton'), ('orb', 'orbe'), ('spell', 'sort'),
-         ('stealth', 'discrétion'), ('Hexes', 'Maléfices'), ('piety', 'piété'), ('corpse', 'cadavre'), ('armour', 'armure'), ('stairs', 'escalier'),
-         ('skill', 'compétence'), ('inventory', 'inventaire'), ('dungeon', 'donjon'), ('altar', 'autel')]
-rg['A1'] = 'Décisions de traduction'; rg['A1'].font = Font(name=F, size=14, bold=True)
-r = 3
-for t, d in REGLES:
-    rg.cell(r, 1, t).font = fb; c = rg.cell(r, 2, d); c.font = fn; c.alignment = wrap; rg.row_dimensions[r].height = 32; r += 1
-r += 1; rg.cell(r, 1, 'Glossaire').font = Font(name=F, size=12, bold=True); r += 1
-for j, h in enumerate(['Anglais', 'Français imposé'], 1):
-    c = rg.cell(r, j, h); c.font = Font(name=F, bold=True, color='FFFFFF'); c.fill = BLEU
-for en, fr in GLOSS:
-    r += 1; rg.cell(r, 1, en).font = fn; rg.cell(r, 2, fr).font = fn
-rg.column_dimensions['A'].width = 22; rg.column_dimensions['B'].width = 120
+# Les onglets « Règles » (décisions, glossaire) et « Priorités » vivent seulement dans la feuille Google Sheets.
 
-wb.active = 1
+wb.active = wb.sheetnames.index('Traductions')
 wb.save(SORTIE)
 print(len(lignes), 'textes,', len(compte), 'thèmes,', len(liens), 'liens nom ↔ description')

@@ -20,16 +20,15 @@ A. MESURER CE QUI RESTE À TRADUIRE
      python3 comparer_versions.py extraction_0.34.json extraction_0.35.json  a_traduire.txt
    -> a_traduire.txt liste les textes NOUVEAUX, MODIFIÉS (avant/après) et SUPPRIMÉS : on ne traduit que le delta.
 
-B. LA BASE DE RELECTURE (Excel / Google Sheets « DCSS-Traducteur-traductions »)
+B. LA BASE DE RELECTURE (feuille Google Sheets « DCSS-Traducteur-traductions »)
+   Les onglets Règles (décisions, glossaire) et Priorités n'existent que dans la feuille : ils ne sont pas dans ce dépôt.
 4) exporter.js           node outils/exporter.js : écrit toutes les traductions dans export/ (une paire EN/FR par bloc).
 5) base_traductions.py   python3 outils/base_traductions.py ../DCSS-Traducteur-traductions.xlsx
-                         onglets Accueil, Traductions (filtrable par thème/type), Règles (ce qui reste en anglais, glossaire).
+                         fichier de travail (onglets Accueil et Traductions) pour remplacer ces deux onglets de la feuille.
                          Colonne « Lien » : paires nom ↔ description de paires_noms_descriptions.json (extrait de dat/descript).
-6) priorites.py          python3 outils/priorites.py ../DCSS-Traducteur-traductions.xlsx : ajoute la page « Priorités »
-                         (contenu : priorites.json).
-7) importer_corrections.py  python3 outils/importer_corrections.py fichier.xlsx [--essai] : réapplique la colonne
+6) importer_corrections.py  python3 outils/importer_corrections.py fichier.xlsx [--essai] : réapplique la colonne
                          jaune « Ta correction » dans les fichiers de donnees/.
-   Ordre habituel après un changement : exporter.js, puis base_traductions.py, puis priorites.py.
+   Ordre habituel après un changement : exporter.js, puis base_traductions.py.
 
 C. FICHIERS FABRIQUÉS (ne pas corriger le fichier produit : corriger la source, puis relancer)
 8) db/gen.py             phrases à trous des textes du jeu (dat/database) :

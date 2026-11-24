@@ -63,7 +63,7 @@
         const e = m && U[m[3]]; if (!e) return null;
         const ob = m[3].match(/^([a-z]+) of /);
         if (ob && objetPlus("the " + ob[1]) !== null) return null;   // « hood of the Assassin » : objet + nom → traité comme un nom aléatoire (« la capuche +2 de l’Assassin »)
-        // Décision du 23/11 : le nom de l'artefact unique reste en anglais ; l'article suit le genre du nom français
+        // Le nom de l'artefact unique reste en anglais ; l'article suit le genre du nom français
         // (« la Singing Sword », « le Wrath de Trog »), élision seulement devant une voyelle (h anglais aspiré).
         const [fr, g] = e, pl = g[1] === "p", f = g[0] === "f";
         // « of » ne fait pas partie du nom : « Wrath of Trog » → « Wrath de Trog », « hood of the Assassin » → « hood de l’Assassin »

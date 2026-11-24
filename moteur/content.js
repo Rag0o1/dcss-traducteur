@@ -330,7 +330,7 @@ function traduireNomsArtefacts(anglais, sortie) {
     if (dcssDansArtefact || typeof sortie !== "string" || !globalThis.DCSS_GRAFFITIS || !globalThis.DCSS_GRAFFITIS.nomArtefact || anglais.indexOf(" of ") === -1) return sortie;
     let m; DCSS_RE_ARTEFACT.lastIndex = 0;
     while ((m = DCSS_RE_ARTEFACT.exec(anglais))) {
-        // Décision du 23/11 : le nom donné au hasard à l'arme reste en anglais (« l’épée longue +2 des Lonely Yaks »).
+        // Le nom donné au hasard à l'arme reste en anglais (« l’épée longue +2 des Lonely Yaks »).
         // Tout « of Nom » en majuscule derrière un objet est un nom d'artefact (les egos du jeu sont en minuscules),
         // seulement derrière un objet : « +2 long sword », « ring », « amulet », « talisman » (pas « altar of Trog », « search of the Orb »)
         if (!/(?:[+-]\d+ [a-z' -]+|\b(?:ring|amulet|talisman)) $/.test(anglais.slice(0, m.index))) continue;

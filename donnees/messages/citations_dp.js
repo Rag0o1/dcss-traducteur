@@ -1,4 +1,4 @@
-// Citations des descriptions, domaine public uniquement (décision du 19/11 : droit d'auteur = pas touche).
+// Citations des descriptions, domaine public uniquement.
 // GÉNÉRÉ depuis outils/citations_src.json (clé = citation anglaise, espaces normalisés).
 globalThis.DCSS_TRADUCTIONS = globalThis.DCSS_TRADUCTIONS || {};
 globalThis.DCSS_TRADUCTIONS.citations_dp = {
