@@ -724,6 +724,9 @@ FR: Après un temps considérable, ces monstres peuvent même apparaître près 
 EN: Summons some of the greater threats from one of the Pits of Slime, the Elven Halls, the Vaults, the Crypt, the Tomb of Ancients, or the Realm of Zot; the specific branch varies with each cast of the spell.
 FR: Convoque certaines des plus grandes menaces des Slime Pits, des Elven Halls, des Vaults, de la Crypt, de la Tomb of the Ancients ou du Realm of Zot ; la branche précise varie à chaque lancer du sort.
 
+EN: Summons some of the greater threats from one of the Pits of Slime, the Elven Halls, the Abyss, the Vaults, the Crypt, the Tomb of Ancients, or the Realm of Zot; the specific branch varies with each cast of the spell.
+FR: Convoque certaines des plus grandes menaces des Slime Pits, des Elven Halls, de l’Abyss, des Vaults, de la Crypt, de la Tomb of the Ancients ou du Realm of Zot ; la branche précise varie à chaque lancer du sort.
+
 EN: Fires a penetrating beam of plasma at one of the caster's most distant visible foes. The ionised beam bypasses half of defenders' armour, and a second beam of fire follows in its wake.
 FR: Tire un rayon perforant de plasma sur l’un des ennemis visibles les plus éloignés du lanceur. Le rayon ionisé ignore la moitié de l’armure des défenseurs, et un second rayon de feu suit dans son sillage.
 

@@ -11,6 +11,12 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.30.3 — textes de la trunk du 18 au 24/11
+
+- Xom : trois nouvelles répliques (« Oh, j’aurais dû y penser. », « Tu avais l’air seul là-bas… ») et « Xom vous amène de la compagnie. » ; statut « Troupe+ » et nouvelle description de la Troupe ; « Xom fait se lever des sosies des ennemis que vous tuez. »
+- Descriptions modifiées : veine d’air (3 ennemis, dégâts non réduits par la distance), Plane Rend (ajout de l’Abyss). Les anciennes versions restent pour la 0.34.
+- « bone dragon armour » (nouveau nom de « bone scales ») ; « Le sol tremble violemment et crache des gravats ! », projectile « salve de gravats ».
+
 ## 0.30.2 — ménage
 
 - Doublons retirés : 30 entrées définies deux fois dans le même dictionnaire (la première ne servait jamais, la seconde l’emportait), et 16 phrases de outils/db/monspell.txt et miscast_shout.txt déjà traduites ailleurs (database_monstres.js régénéré : 450 → 434 lignes). Aucun changement de traduction : 14 176 textes comparés, 0 différence.

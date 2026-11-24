@@ -60,7 +60,7 @@ globalThis.DCSS_PROJECTILES = Object.assign(globalThis.DCSS_PROJECTILES || {}, {
  "gout of fire": ["jet de feu", "m"], "gout of magma": ["jet de magma", "m"], "torrent of electricity": ["torrent d’électricité", "m"],
  "wail of negative energy": ["plainte d’énergie négative", "f"], "whirl of blades": ["tourbillon de lames", "m"], "arrow": ["flèche", "f"], "dart": ["fléchette", "f"],
  "caustic explosion": ["explosion caustique", "f"], "howling sorrow": ["chagrin hurlant", "m"], "crystal spear": ["lance de cristal", "f"],
- "slug": ["balle de plomb", "f"], "bolt": ["carreau", "m"], "bolt of lightning": ["éclair", "m"], "creeping inferno residue": ["résidu d’enfer rampant", "m"],
+ "slug": ["balle de plomb", "f"], "blast of rubble": ["salve de gravats", "f"], "bolt": ["carreau", "m"], "bolt of lightning": ["éclair", "m"], "creeping inferno residue": ["résidu d’enfer rampant", "m"],
  "golden flame": ["flamme dorée", "f"], "flurry of pyrophoric scales": ["rafale d’écailles pyrophoriques", "f"], "blast of putrescent gases": ["souffle de gaz putrescents", "m"],
  "blast of crystal shards": ["souffle d’éclats de cristal", "m"], "sling bullet": ["balle de fronde", "f"], "burning spray": ["jet enflammé", "m"],
  "dancing weapon": ["arme dansante", "f"], "water": ["eau", "f"], "large rock": ["gros rocher", "m"], "vile air": ["air vicié", "m"],

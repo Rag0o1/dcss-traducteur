@@ -939,5 +939,8 @@ globalThis.DCSS_TRADUCTIONS.messages_fixes = {
 "Waypoints:": "Points de passage :",
 "read|": "lire|",
 "read": "lire",
-"quaff|": "boire|"
+"quaff|": "boire|",
+"The ground shakes violently, spewing rubble!": "Le sol tremble violemment et crache des gravats !",
+"Xom raises dopplegangers of enemies you slay.": "Xom fait se lever des sosies des ennemis que vous tuez.",
+"Xom raises dopplegangers of enemies you slay yourself.": "Xom fait se lever des sosies des ennemis que vous tuez vous-même."
 };

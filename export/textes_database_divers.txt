@@ -1246,6 +1246,18 @@ FR: « Attention ! Cet endroit est dangereux ! »
 EN: Xom draws the Minefield card.
 FR: Xom tire la carte Champ de mines.
 
+EN: "Oh, I should have thought of that."
+FR: « Oh, j’aurais dû y penser. »
+
+EN: "You looked lonely over there, so I brought you some friends."
+FR: « Tu avais l’air seul là-bas, alors je t’ai amené des amis. »
+
+EN: Xom relocates some company for you.
+FR: Xom vous amène de la compagnie.
+
+EN: "It's not healthy to spend all of your time hiding in a corner."
+FR: « Ce n’est pas sain de passer tout ton temps caché dans un coin. »
+
 EN: You hear the hiss of flowing sand.
 FR: Vous entendez le sifflement du sable qui s’écoule.
 

@@ -109,6 +109,9 @@ FR: Une ligne tellurique exposée de magie de la glace. On peut s’y brancher e
 EN: An exposed ley line of air magic. It can be tapped into by stepping on it, blasting the 4 most distant enemies with cutting wind.
 FR: Une ligne tellurique exposée de magie de l’air. On peut s’y brancher en marchant dessus, frappant les 4 ennemis les plus éloignés d’un vent tranchant.
 
+EN: An exposed ley line of air magic. It can be tapped into by stepping on it, blasting the 3 most distant enemies with cutting wind. Unlike the other veins, damage is not reduced by distance.
+FR: Une ligne tellurique exposée de magie de l’air. On peut s’y brancher en marchant dessus, frappant les 3 ennemis les plus éloignés d’un vent tranchant. Contrairement aux autres veines, les dégâts ne diminuent pas avec la distance.
+
 EN: A gateway leading back to the Vestibule of Hell.
 FR: Un portail ramenant au Vestibule of Hell.
 

@@ -484,6 +484,9 @@ FR: lance de cristal
 EN: slug
 FR: balle de plomb
 
+EN: blast of rubble
+FR: salve de gravats
+
 EN: creeping inferno residue
 FR: résidu d’enfer rampant
 

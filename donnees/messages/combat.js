@@ -31,7 +31,7 @@
         "shard of frigid ice": ["éclat de glace", "m"], "torrent of water": ["torrent d’eau", "m"],
         "jagged bones": ["os acérés", "m", "les "], "blast of poison": ["souffle de poison", "m"],
         "fiery explosion": ["explosion de feu", "f"], "spray of wooden splinters": ["gerbe d’éclats de bois", "f"],
-        "volley of spikes": ["volée de pointes", "f"], "sling bullet": ["balle de fronde", "f"], "slug": ["balle de plomb", "f"],
+        "volley of spikes": ["volée de pointes", "f"], "sling bullet": ["balle de fronde", "f"], "slug": ["balle de plomb", "f"], "blast of rubble": ["salve de gravats", "f"],
         "boomerang": ["boomerang", "m"], "throwing net": ["filet", "m"], "silver": ["argent", "m", "l’"],
         "stone": ["pierre", "f"], "dart": ["fléchette", "f"], "javelin": ["javelot", "m"], "arrow": ["flèche", "f"],
         "poisoned dart": ["fléchette empoisonnée", "f"], "acid": ["acide", "m", "l’"],

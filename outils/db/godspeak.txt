@@ -113,3 +113,8 @@ Xom reveals the presence of traps! => Xom révèle la présence de pièges !
 Xom creates an obstacle course for you. => Xom vous crée un parcours d’obstacles.
 "Watch out! This place is dangerous!" => « Attention ! Cet endroit est dangereux ! »
 Xom draws the Minefield card. => Xom tire la carte Champ de mines.
+
+"Oh, I should have thought of that." => « Oh, j’aurais dû y penser. »
+"You looked lonely over there, so I brought you some friends." => « Tu avais l’air seul là-bas, alors je t’ai amené des amis. »
+Xom relocates some company for you. => Xom vous amène de la compagnie.
+"It's not healthy to spend all of your time hiding in a corner." => « Ce n’est pas sain de passer tout ton temps caché dans un coin. »

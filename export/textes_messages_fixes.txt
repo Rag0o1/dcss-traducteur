@@ -2811,3 +2811,12 @@ FR: lire
 
 EN: quaff|
 FR: boire|
+
+EN: The ground shakes violently, spewing rubble!
+FR: Le sol tremble violemment et crache des gravats !
+
+EN: Xom raises dopplegangers of enemies you slay.
+FR: Xom fait se lever des sosies des ennemis que vous tuez.
+
+EN: Xom raises dopplegangers of enemies you slay yourself.
+FR: Xom fait se lever des sosies des ennemis que vous tuez vous-même.

@@ -605,6 +605,10 @@ globalThis.DCSS_UNRANDS = {
   "Écailles d’os",
   "fp"
  ],
+ "bone dragon armour": [
+  "Armure de dragon d’os",
+  "f"
+ ],
  "Forgewarden's cuirass": [
   "Cuirasse du Gardeforge",
   "f"
