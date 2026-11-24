@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "DCSS Traducteur",
-  "version": "0.30.3",
+  "version": "0.30.4",
   "description": "Couche de traduction française pour DCSS Web",
   "content_scripts": [
     {

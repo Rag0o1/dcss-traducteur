@@ -94,6 +94,21 @@
     X(/^A fragment of (.+)'s soul is dislodged from its body\.$/, m => { const t = traduit(m[1]); return t ? `Un fragment de l’âme ${t.replace(/^le /, "du ").replace(/^les /, "des ").replace(/^la /, "de la ").replace(/^l’/, "de l’")} est arraché à son corps.` : null; });
     X(/^It has a (\d+)\/(\d+) chance to be destroyed on impact\.$/, m => `Il a ${m[1]} chance${m[1] === "1" ? "" : "s"} sur ${m[2]} d’être détruit à l’impact.`);
 
+    // --- Piège d'arlequin, Halloween ---
+    const ARLEQUIN = { "Strange impish giggling echoes through your mind as": "D’étranges gloussements de diablotin résonnent dans votre esprit tandis que",
+        "The roar of a mocking crowd runs through your mind as": "La clameur d’une foule moqueuse traverse votre esprit tandis que",
+        "A round of applause drowns out your thoughts as": "Une salve d’applaudissements couvre vos pensées tandis que",
+        "A cruel sense of mischief rushes through your surroundings as": "Un cruel esprit de malice envahit les alentours tandis que" };
+    const de = t => t.replace(/^un /, "d’un ").replace(/^une /, "d’une ").replace(/^le /, "du ").replace(/^les /, "des ").replace(/^la /, "de la ").replace(/^l’/, "de l’").replace(/^(?!du |des |de |d’)/, "de ");
+    X(/^(Strange impish giggling echoes through your mind as|The roar of a mocking crowd runs through your mind as|A round of applause drowns out your thoughts as|A cruel sense of mischief rushes through your surroundings as) the attacks of (.+) are laced with chaos!$/, m => {
+        const un = x => { const r = T1("You encounter " + x + "."); return /^Vous rencontrez /.test(r) ? r.replace(/^Vous rencontrez /, "").replace(/\.$/, "") : T1(x); };
+        const parts = m[2].split(/, | and /).map(un);
+        if (parts.some(x => /^(the|an?) /.test(x))) return null;
+        const l = parts.map(de); const liste = l.length > 1 ? l.slice(0, -1).join(", ") + " et " + l[l.length - 1] : l[0];
+        return `${ARLEQUIN[m[1]]} les attaques ${liste} se chargent de chaos !`; });
+    X(/^(?:(.+) )?Be careful! Halloween tonight\.$/, m => { const p = m[1] ? traduit(m[1]) : ""; if (p === null) return null;
+        return `${p ? p + " " : ""}Attention ! C’est Halloween ce soir.`; });
+
     // --- Rencontres (uniques de la trunk) ---
     X(/^You encounter Natasha, Servant of Life and Death\.$/, () => "Vous rencontrez Natasha, Servante de la Vie et de la Mort.");
 

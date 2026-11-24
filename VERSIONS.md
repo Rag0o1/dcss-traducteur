@@ -11,6 +11,12 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.30.4 — piège d’arlequin, Halloween
+
+- Piège d’arlequin : les quatre messages d’ambiance (« D’étranges gloussements de diablotin résonnent dans votre esprit tandis que les attaques d’un orc et de 2 gobelins se chargent de chaos ! »).
+- Accueil d’Halloween : « … Attention ! C’est Halloween ce soir. »
+- Pakellas (dieu retiré, parties anciennes) : répliques déjà traduites, vérifiées.
+
 ## 0.30.3 — textes de la trunk du 18 au 24/11
 
 - Xom : trois nouvelles répliques (« Oh, j’aurais dû y penser. », « Tu avais l’air seul là-bas… ») et « Xom vous amène de la compagnie. » ; statut « Troupe+ » et nouvelle description de la Troupe ; « Xom fait se lever des sosies des ennemis que vous tuez. »
