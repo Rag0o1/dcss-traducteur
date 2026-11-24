@@ -11,6 +11,11 @@ Le numéro est écrit à trois endroits, à garder identiques : `manifest.json` 
 
 Chaque version est décrite ci-dessous, la plus récente en premier.
 
+## 0.30.2 — ménage
+
+- Doublons retirés : 30 entrées définies deux fois dans le même dictionnaire (la première ne servait jamais, la seconde l’emportait), et 16 phrases de outils/db/monspell.txt et miscast_shout.txt déjà traduites ailleurs (database_monstres.js régénéré : 450 → 434 lignes). Aucun changement de traduction : 14 176 textes comparés, 0 différence.
+- Outils : suppression de l’ancien tableau_traductions.py (remplacé par base_traductions.py) et du rapport périmé non_traduits.txt (régénérable avec couverture.js --liste, désormais ignoré par git) ; outils/LISEZ-MOI.txt réécrit (tous les outils, commandes de régénération).
+
 ## 0.30.1 — deuxième relevé en vraie partie
 
 - Barre latérale : espèces au nom identique en français (« Troll de Trog », « Coglin d’Okawaru », « Spriggan de Gozag Or : 120 »), « Oni de l’Étincelant ».

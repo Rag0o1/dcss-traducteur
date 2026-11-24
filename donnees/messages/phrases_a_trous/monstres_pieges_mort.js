@@ -9,7 +9,6 @@ Object.assign(globalThis.DCSS_VARIABLES = globalThis.DCSS_VARIABLES || {}, {
     "A slime creature is ejected from {I} body as it begins to warp and change.": "Une créature de gelée est expulsée du corps {d1} qui se déforme et change.",
     "{X} slime creatures are ejected from {I} body as it begins to warp and change.": "{x1} créatures de gelée sont expulsées du corps {d2} qui se déforme et change.",
     "Jet-black ravens fly out from beneath {I} foliage!": "Des corbeaux noir de jais s’envolent de sous le feuillage {d1} !",
-    "Angry insects surge out from beneath {I} foliage!": "Des insectes furieux jaillissent de sous le feuillage {d1} !",
     "{A} is distracted by your tail.": "{S1} est distrait{e1} par votre queue.",
     "The solar flare engulfs {A}{X}.": "L’éruption solaire engloutit {o1}{x2}.",
     "{A} sacrifices itself to reknit {X}!": "{S1} se sacrifie pour ressouder {x2} !",
@@ -32,7 +31,6 @@ Object.assign(globalThis.DCSS_VARIABLES = globalThis.DCSS_VARIABLES || {}, {
     "The winds around {A} calm down.": "Les vents autour {d1} se calment.",
     "{I} chant is interrupted.": "Le chant {d1} est interrompu.",
     "{I} song is interrupted.": "Le chant {d1} est interrompu.",
-    "Your grip on {I} soul is slipping...": "Votre emprise sur l’âme {d1} faiblit...",
     "{I} stops winding {p} clockwork bee.": "{S1} cesse de remonter son abeille mécanique.",
     "{A} continues winding {p} clockwork bee....": "{S1} continue de remonter son abeille mécanique...",
     // --- Pièges ---
@@ -108,7 +106,6 @@ Object.assign(globalThis.DCSS_VARIABLES = globalThis.DCSS_VARIABLES || {}, {
     // --- Morts et transformations de monstres ---
     "{A} rises to serve you!": "{S1} se relève pour vous servir !",
     "{A} attempts to avoid another deathblow, but is too exhausted to transform.": "{S1} tente d’éviter un autre coup fatal, mais est trop épuisé{e1} pour se transformer.",
-    "{A} avoids the killing blow by scattering into a rainbow of bats!": "{S1} évite le coup fatal en se dispersant en un arc-en-ciel de chauves-souris !",
     "With its final breath, {A} offers up its power to the beasts of the wild!": "Dans son dernier souffle, {S1} offre son pouvoir aux bêtes sauvages !",
     "For just a moment, {A} begins to look like {X}, then it explodes!": "Un bref instant, {S1} commence à ressembler à {x2}, puis explose !",
     "{A} wails in agony as it relives its own death.": "{S1} gémit d’agonie en revivant sa propre mort.",
@@ -119,7 +116,6 @@ Object.assign(globalThis.DCSS_VARIABLES = globalThis.DCSS_VARIABLES || {}, {
     "A nearby {A} withers and dies.": "{S1} proche se flétrit et meurt.",
     "{A} is cast back into {p} original reality.": "{S1} est rejeté{e1} dans sa réalité d’origine.",
     "Plague seeps from the dead {A}.": "La peste suinte {d1} mort{e1}.",
-    "The terrible wounds on {I} body vanish.": "Les terribles blessures sur le corps {d1} disparaissent.",
     "{A} falls into the {X}!": "{S1} tombe dans {x2} !",
     "{A} scurries out from under your cloak.": "{S1} se faufile hors de dessous votre cape.",
     "{I} attack snaps {A} out of {p} fear.": "L’attaque {d1} fait sortir {o2} de sa peur.",

@@ -151,7 +151,6 @@
         "You open the huge gate.": "Vous ouvrez l’immense portail.",
         "You hear a bark!": "Vous entendez un aboiement !", "You hear a horrible gurgling sound!": "Vous entendez un horrible gargouillis !",
         "You hear a roar!": "Vous entendez un rugissement !", "You hear a sizzling sound!": "Vous entendez un grésillement !",
-        "You hear a trumpeting!": "Vous entendez un barrissement !",
         "You hear the lone wailing of a funeral chant nearby.": "Vous entendez la lamentation solitaire d’un chant funèbre à proximité.",
         "You hear the lone wailing of a funeral chant very nearby.": "Vous entendez la lamentation solitaire d’un chant funèbre tout près.",
         "You hear the solemn chanting of funerary rites.": "Vous entendez le chant solennel de rites funéraires.",

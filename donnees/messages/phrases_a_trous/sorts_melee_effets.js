@@ -2,10 +2,6 @@
 // Format et trous : voir moteur/phrases_a_trous.js. « ¦ » : la 2e version sert quand le sujet est « You ».
 Object.assign(globalThis.DCSS_VARIABLES = globalThis.DCSS_VARIABLES || {}, {
     // --- Lancer de sorts (le nom du sort reste tel quel en mode « noms anglais ») ---
-    "{A} casts a spell.": "{S1} lance un sort. ¦ Vous lancez un sort.",
-    "{A} casts a cantrip, but nothing happens.": "{S1} lance un sortilège mineur, mais rien ne se passe.",
-    "{A} begins to cast a cantrip, but forgets the words!": "{S1} commence un sortilège mineur, mais en oublie les mots !",
-    "{A} miscasts a cantrip.": "{S1} rate un sortilège mineur.",
     "{A} casts {X} at {A}.": "{S1} lance « {x2} » sur {o3}. ¦ Vous lancez « {x2} » sur {o3}.",
     "{A} casts {X} at {A}!": "{S1} lance « {x2} » sur {o3} ! ¦ Vous lancez « {x2} » sur {o3} !",
     "{A} casts {X} at you.": "{S1} lance « {x2} » sur vous.",

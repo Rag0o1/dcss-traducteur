@@ -34,9 +34,6 @@ FR: Aucune cible en vue !
 EN: Nothing quivered!
 FR: Aucun projectile à lancer !
 
-EN: Okay, then.
-FR: Très bien, alors.
-
 EN: Press
 FR: Appuyez sur
 

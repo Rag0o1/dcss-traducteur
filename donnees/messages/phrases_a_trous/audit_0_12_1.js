@@ -29,8 +29,6 @@
         "A malevolent force fills the Orcish Mines...": "Une force malveillante emplit les Orcish Mines...",
         "Welcome to the Orcish Mines!": "Bienvenue dans les Orcish Mines !",
         "The Realm of Zot is guarded by orbs of winter.": "Le Realm of Zot est gardé par des orbes d’hiver.",
-        "You hear a deafening roar!": "Vous entendez un rugissement assourdissant !",
-        "You hear an angry growl.": "Vous entendez un grognement furieux.",
         "You cannot affect that.": "Vous ne pouvez pas affecter cela.",
         "Some shallow water.": "De l’eau peu profonde.",
         "[the floor.]": "[le sol.]",

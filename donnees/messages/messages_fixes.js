@@ -789,7 +789,6 @@ globalThis.DCSS_TRADUCTIONS.messages_fixes = {
 "You see nothing there to target!": "Vous ne voyez rien à cibler là !",
 "You see sparks fly.": "Vous voyez voler des étincelles.",
 "You send your armour flying and begin to make an unholy cacophony!": "Vous envoyez voler votre armure et commencez à faire une cacophonie impie !",
-"You sense a hostile presence.": "Vous sentez une présence hostile.",
 "You sense an evil presence.": "Vous sentez une présence maléfique.",
 "You sense an unholy aura.": "Vous sentez une aura impie.",
 "You sense the presence of something unfriendly.": "Vous sentez la présence de quelque chose d’hostile.",

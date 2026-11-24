@@ -33,7 +33,6 @@
         "Key pressed, stopping explore.": "Touche pressée : arrêt de l’exploration.",
         "No target in view!": "Aucune cible en vue !",
         "Nothing quivered!": "Aucun projectile à lancer !",
-        "Okay, then.": "Très bien, alors.",
         "Press": "Appuyez sur",
         "Removed mutation": "Mutation supprimée",
         "There are monsters nearby!": "Il y a des monstres à proximité !",

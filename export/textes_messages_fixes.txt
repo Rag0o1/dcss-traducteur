@@ -2359,9 +2359,6 @@ FR: Vous voyez voler des étincelles.
 EN: You send your armour flying and begin to make an unholy cacophony!
 FR: Vous envoyez voler votre armure et commencez à faire une cacophonie impie !
 
-EN: You sense a hostile presence.
-FR: Vous sentez une présence hostile.
-
 EN: You sense an evil presence.
 FR: Vous sentez une présence maléfique.
 

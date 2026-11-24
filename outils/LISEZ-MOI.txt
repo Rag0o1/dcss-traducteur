@@ -1,34 +1,52 @@
 OUTILS (pour les développeurs et traducteurs ; l'extension n'en a pas besoin)
 =============================================================================
-Ce dossier n'est PAS chargé par le navigateur. Il sert à savoir où en est la traduction et à préparer une
-nouvelle version du jeu ou une autre langue. Il faut Python 3 et Node.js, et le code source de DCSS
-(dépôt https://github.com/crawl/crawl , dossier crawl-ref/source).
+Ce dossier n'est PAS chargé par le navigateur. Il sert à savoir où en est la traduction, à fabriquer certains
+fichiers de donnees/ et à préparer une nouvelle version du jeu ou une autre langue. Il faut Python 3 (avec
+openpyxl pour les tableaux Excel) et Node.js, et pour certains outils le code source de DCSS
+(dépôt https://github.com/crawl/crawl , dossiers crawl-ref/source et crawl-ref/source/dat).
 
+A. MESURER CE QUI RESTE À TRADUIRE
 1) extraire_source.py  — liste TOUT ce que le jeu peut afficher
      python3 extraire_source.py  CHEMIN/crawl-ref/source  extraction_0.34.json
    -> descriptions : les ~3500 textes de dat/descript (monstres, objets, sorts, dieux, statuts, artefacts...)
    -> messages     : les ~870 gabarits de messages à trous ("{A} hits {A}", "You see {X}"...) lus dans le code C++
-
 2) couverture.js  — dit quel pourcentage est déjà traduit
      node couverture.js extraction_0.34.json            (tableau par fichier)
-     node couverture.js extraction_0.34.json --liste    (écrit non_traduits.txt : tout ce qui manque)
-   Remarques : "quotes" = citations littéraires, volontairement laissées en anglais (consigne officielle de DCSS).
+     node couverture.js extraction_0.34.json --liste    (écrit non_traduits.txt : tout ce qui manque ; fichier jetable)
+   Remarques : "quotes" = citations littéraires ; seules celles du domaine public sont traduites.
    Les messages à trou libre {X} ne peuvent pas être jugés sans les voir en jeu : ils sont comptés à part.
-
 3) comparer_versions.py  — pour la version suivante du jeu
      python3 extraire_source.py  SOURCE_0.35/crawl-ref/source  extraction_0.35.json
      python3 comparer_versions.py extraction_0.34.json extraction_0.35.json  a_traduire.txt
    -> a_traduire.txt liste les textes NOUVEAUX, MODIFIÉS (avant/après) et SUPPRIMÉS : on ne traduit que le delta.
 
-4) base_traductions.py  — base Excel de toutes les traductions (Accueil, Traductions filtrable, Règles), pour les relire et les corriger
-   importer_corrections.py — réapplique la colonne « Ta correction » (python3 outils/importer_corrections.py fichier.xlsx [--essai])
-   (ancien : tableau_traductions.py, un onglet par fichier)
-     node outils/exporter.js
-     python3 outils/base_traductions.py ../DCSS-Traducteur-traductions.xlsx ; python3 outils/priorites.py ../DCSS-Traducteur-traductions.xlsx
-   -> un onglet par fichier de donnees/, plus un index ; la colonne jaune « Ta correction » sert à noter les corrections.
-   Colonne « Lien nom ↔ description » : paires lues dans outils/paires_noms_descriptions.json (extrait de dat/descript du jeu).
-   À régénérer à chaque nouvelle version pour que le tableau reste à jour. Nécessite : pip install openpyxl
+B. LA BASE DE RELECTURE (Excel / Google Sheets « DCSS-Traducteur-traductions »)
+4) exporter.js           node outils/exporter.js : écrit toutes les traductions dans export/ (une paire EN/FR par bloc).
+5) base_traductions.py   python3 outils/base_traductions.py ../DCSS-Traducteur-traductions.xlsx
+                         onglets Accueil, Traductions (filtrable par thème/type), Règles (ce qui reste en anglais, glossaire).
+                         Colonne « Lien » : paires nom ↔ description de paires_noms_descriptions.json (extrait de dat/descript).
+6) priorites.py          python3 outils/priorites.py ../DCSS-Traducteur-traductions.xlsx : ajoute la page « Priorités »
+                         (contenu : priorites.json).
+7) importer_corrections.py  python3 outils/importer_corrections.py fichier.xlsx [--essai] : réapplique la colonne
+                         jaune « Ta correction » dans les fichiers de donnees/.
+   Ordre habituel après un changement : exporter.js, puis base_traductions.py, puis priorites.py.
+
+C. FICHIERS FABRIQUÉS (ne pas corriger le fichier produit : corriger la source, puis relancer)
+8) db/gen.py             phrases à trous des textes du jeu (dat/database) :
+                         python3 outils/db/gen.py donnees/messages/phrases_a_trous/database_monstres.js outils/db/miscast_shout.txt outils/db/monspell.txt
+                         python3 outils/db/gen.py donnees/messages/phrases_a_trous/messages_trunk.js outils/db/messages_trunk.txt
+   db/gen_exact.py       dictionnaire exact « EN => FR » :
+                         python3 outils/db/gen_exact.py database_divers donnees/messages/database_divers.js outils/db/miscname.txt
+                         outils/db/godname.txt outils/db/godspeak.txt outils/db/portails.txt outils/db/descriptions_trunk.txt
+9) gen_phrases_touches.js  node outils/gen_phrases_touches.js : donnees/interface/phrases_touches.js (aide, FAQ, tutoriel,
+                         astuces) depuis phrases_touches_src.json, phrases_cmd_src.json et aide_titres.json.
+10) grammaire_graffitis.py  graffitis et couleurs : python3 outils/grammaire_graffitis.py CHEMIN/crawl-ref/source/dat/database
+                         (traduction : graffitis_fr.txt, une ligne par production anglaise de graffitis_en.txt).
+11) grammaire_noms.py    noms aléatoires (grammaire du jeu, sert aussi à reconnaître un nom d'artefact) :
+                         python3 outils/grammaire_noms.py CHEMIN/crawl-ref/source/dat/database (traduction : noms_aleatoires_fr.txt).
+12) generer_titres.py    titres des personnages : donnees/messages/titres.js depuis titres_fr.txt (« anglais=français »).
+13) unrands_fr.json      genre des 154 artefacts uniques (leur nom reste en anglais) -> donnees/objets/unrands.js.
+    citations_src.json   citations du domaine public traduites -> donnees/messages/citations_dp.js.
 
 Voir aussi GUIDE-NOUVELLE-VERSION.txt et GUIDE-AUTRES-LANGUES.txt.
 
-6. grammaire_graffitis.py : fabrique donnees/messages/gabarits/graffitis_grammaire.js (graffitis et couleurs) à partir des fichiers du jeu (graffiti.txt, colourname.txt) et de graffitis_fr.txt (la traduction, une ligne par production anglaise). graffitis_en.txt = les productions anglaises dans l'ordre (gabarit pour traduire).

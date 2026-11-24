@@ -19,9 +19,6 @@ FR: {x1} créatures de gelée sont expulsées du corps {d2} qui se déforme et c
 EN: Jet-black ravens fly out from beneath {I} foliage!
 FR: Des corbeaux noir de jais s’envolent de sous le feuillage {d1} !
 
-EN: Angry insects surge out from beneath {I} foliage!
-FR: Des insectes furieux jaillissent de sous le feuillage {d1} !
-
 EN: {A} is distracted by your tail.
 FR: {S1} est distrait{e1} par votre queue.
 
@@ -84,9 +81,6 @@ FR: Le chant {d1} est interrompu.
 
 EN: {I} song is interrupted.
 FR: Le chant {d1} est interrompu.
-
-EN: Your grip on {I} soul is slipping...
-FR: Votre emprise sur l’âme {d1} faiblit...
 
 EN: {I} stops winding {p} clockwork bee.
 FR: {S1} cesse de remonter son abeille mécanique.
@@ -295,9 +289,6 @@ FR: {S1} se relève pour vous servir !
 EN: {A} attempts to avoid another deathblow, but is too exhausted to transform.
 FR: {S1} tente d’éviter un autre coup fatal, mais est trop épuisé{e1} pour se transformer.
 
-EN: {A} avoids the killing blow by scattering into a rainbow of bats!
-FR: {S1} évite le coup mortel en se dispersant en un arc-en-ciel de chauves-souris !
-
 EN: With its final breath, {A} offers up its power to the beasts of the wild!
 FR: Dans son dernier souffle, {S1} offre son pouvoir aux bêtes sauvages !
 
@@ -327,9 +318,6 @@ FR: {S1} est rejeté{e1} dans sa réalité d’origine.
 
 EN: Plague seeps from the dead {A}.
 FR: La peste suinte {d1} mort{e1}.
-
-EN: The terrible wounds on {I} body vanish.
-FR: Les terribles blessures sur le corps {d1} disparaissent.
 
 EN: {A} falls into the {X}!
 FR: {S1} tombe dans {x2} !
@@ -1086,18 +1074,6 @@ FR: Vous vous sentez {x1} et {x2}confus.
 
 EN: {A} is forced to slowly start {X} a word of recall!
 FR: {S1} est forcé{e1} de commencer lentement à {x2} un mot de rappel !
-
-EN: {A} casts a spell.
-FR: {S1} lance un sort.
-
-EN: {A} casts a cantrip, but nothing happens.
-FR: {S1} lance un sortilège mineur, mais rien ne se passe.
-
-EN: {A} begins to cast a cantrip, but forgets the words!
-FR: {S1} commence un sortilège mineur, mais en oublie les mots !
-
-EN: {A} miscasts a cantrip.
-FR: {S1} rate un sortilège mineur.
 
 EN: {A} casts {X} at {A}.
 FR: {S1} lance « {x2} » sur {o3}. ¦ Vous lancez « {x2} » sur {o3}.
@@ -3631,32 +3607,26 @@ FR: {S1} agite les bras en grands cercles.
 EN: You hear blowing wind.
 FR: Vous entendez souffler le vent.
 
-EN: {A} bursts into living lightning!
-FR: {S1} se change en foudre vivante !
-
 EN: Living lightning bursts into view!
 FR: Un éclair vivant apparaît soudain !
 
 EN: {A} beckons forth restless souls!
 FR: {S1} appelle des âmes agitées !
 
-EN: {A} calls on the powers of chaos!
-FR: {S1} appelle les puissances du chaos !
+EN: {A} casts a cantrip, but nothing happens.
+FR: {S1} lance un sortilège mineur, mais rien ne se passe.
 
-EN: Electricity crackles from {I} apparatus.
-FR: L’électricité crépite de l’appareil {d1}.
+EN: {A} begins to cast a cantrip, but forgets the words!
+FR: {S1} commence un sortilège mineur, mais en oublie les mots !
 
-EN: {A} looks braver for a moment.
-FR: {S1} paraît plus brave un instant.
+EN: {A} miscasts a cantrip.
+FR: {S1} rate un sortilège mineur.
 
 EN: {A} looks encouraged for a moment.
 FR: {S1} semble encouragé{e1} un instant.
 
 EN: {A} looks satisfied for a moment.
 FR: {S1} semble satisfait{e1} un instant.
-
-EN: {A} erupts in a flurry of living spells!
-FR: {S1} explose en une rafale de sorts vivants !
 
 EN: {A} calls freezing cold from the walls.
 FR: {S1} fait surgir un froid glacial des murs.
@@ -3685,9 +3655,6 @@ FR: {S1} projette un torrent de magma sur {o2}.
 EN: {A} fires a salvo of icy shards.
 FR: {S1} tire une salve d’éclats de glace.
 
-EN: {A} calls forth blessed flames!
-FR: {S1} fait surgir des flammes bénies !
-
 EN: Blessed flames are called forth!
 FR: Des flammes bénies sont invoquées !
 
@@ -3706,9 +3673,6 @@ FR: Quelque chose tisse une illusion !
 EN: {A} weaves a glowing orb of energy.
 FR: {S1} tisse un orbe d’énergie lumineuse.
 
-EN: {A} conjures a glowing orb.
-FR: {S1} conjure un orbe luisant.
-
 EN: {A} conjures an orb of pure magic.
 FR: {S1} conjure un orbe de magie pure.
 
@@ -3723,9 +3687,6 @@ FR: {S1} fait jaillir des gerbes de flammes de la lave !
 
 EN: {A} draws nearby souls into itself!
 FR: {S1} aspire les âmes proches !
-
-EN: {A} calls on the powers of darkness!
-FR: {S1} appelle les puissances des ténèbres !
 
 EN: {A} sends weapons flying into battle!
 FR: {S1} envoie des armes voler au combat !
@@ -3895,6 +3856,9 @@ FR: {S1} psalmodie un sort en vacillant sans cesse.
 EN: {A} mumbles some strange words.
 FR: {S1} marmonne d’étranges paroles.
 
+EN: {A} casts a spell.
+FR: {S1} lance un sort.
+
 EN: {A} winds a great silver horn.
 FR: {S1} sonne dans un grand cor d’argent.
 
@@ -3979,9 +3943,6 @@ FR: {S1} fait un geste d’éclair gelé.
 EN: {A} crackles with melancholic malice.
 FR: {S1} crépite d’une malice mélancolique.
 
-EN: {A} roars with sorrowful spite.
-FR: {S1} rugit d’une rancune chagrine.
-
 EN: {A} sprays incendiary fluid at {A}.
 FR: {S1} projette un liquide incendiaire sur {o2}.
 
@@ -4018,20 +3979,11 @@ FR: {S1} appelle la forêt.
 EN: {A} stares piercingly at {A}.
 FR: {S1} dévisage d’un regard perçant {o2}.
 
-EN: A torrent of water rises up through {A}!
-FR: Un torrent d’eau jaillit à travers {o1} !
-
-EN: Water spirits pour forth from {A}!
-FR: Des esprits aquatiques jaillissent {d1} !
-
 EN: {A} smirks and gazes at {A}.
 FR: {S1} sourit d’un air narquois en fixant {o2}.
 
 EN: {A} moans in silent anguish.
 FR: {S1} gémit dans une angoisse silencieuse.
-
-EN: {A} shimmers eerily.
-FR: {S1} chatoie de façon sinistre.
 
 EN: {A} beckons forth its champion.
 FR: {S1} appelle son champion.
@@ -4222,9 +4174,6 @@ FR: {S1} rugit une énigme déroutante dans une langue étrange.
 EN: {A} screeches an impossible riddle in a mystic tongue.
 FR: {S1} crie une énigme impossible dans une langue mystique.
 
-EN: {A} screeches a nonsensical riddle in a mystic tongue.
-FR: {S1} hurle une énigme absurde dans une langue mystique.
-
 EN: {A} screeches a cliché riddle in a mystic tongue.
 FR: {S1} crie une énigme éculée dans une langue mystique.
 
@@ -4242,9 +4191,6 @@ FR: {S1} décharge un filament d’électricité.
 
 EN: {I} wings beat fiercely.
 FR: Les ailes {d1} battent avec force.
-
-EN: A wild whirl of fire shoots out from {A} at {A}.
-FR: Un tourbillon de feu sauvage jaillit {d1} vers {o2}.
 
 EN: {A} overcharges and releases excess heat at {A}.
 FR: {S1} se surcharge et libère l’excès de chaleur vers {o2}.
@@ -4345,14 +4291,8 @@ FR: {S1} glace votre âme.
 EN: {A} stares at {A} and mumbles some strange words.
 FR: {S1} dévisage {o2} en marmonnant d’étranges paroles.
 
-EN: {A} gestures at {A} while chanting.
-FR: {S1} désigne {o2} en psalmodiant.
-
 EN: {A} points at {A} and mumbles some strange words.
 FR: {S1} désigne {o2} en marmonnant d’étranges paroles.
-
-EN: {A} gestures wildly while chanting.
-FR: {S1} gesticule frénétiquement en psalmodiant.
 
 EN: {A} gestures at {A}.
 FR: {S1} désigne {o2}.
@@ -5626,8 +5566,17 @@ FR: {S1} pulse en motifs instables.
 EN: {A} freezes {A} terribly!
 FR: {S1} gèle {o2} terriblement !
 
+EN: {A} gestures wildly while chanting.
+FR: {S1} gesticule frénétiquement en psalmodiant.
+
+EN: {A} gestures at {A} while chanting.
+FR: {S1} désigne {o2} en psalmodiant.
+
 EN: {A} gestures at you while chanting.
 FR: {S1} vous désigne en psalmodiant.
+
+EN: {A} calls forth blessed flames!
+FR: {S1} fait surgir des flammes bénies !
 
 EN: {A} is engulfed in blessed fire.
 FR: {S1} est englouti{e1} par un feu béni.
@@ -5637,6 +5586,9 @@ FR: {S1} tire un carreau.
 
 EN: {A} forges a skittering defender to stand by its side.
 FR: {S1} forge un défenseur grouillant qui se tient à ses côtés.
+
+EN: {A} shimmers eerily.
+FR: {S1} chatoie de façon sinistre.
 
 EN: A magical hammer augments {A} in a flurry of sparks and slag.
 FR: Un marteau magique renforce {o1} dans une gerbe d’étincelles et de scories.
@@ -5659,11 +5611,17 @@ FR: L’air libre tournoie violemment et frappe {o1} ! ¦ L’air libre tournoie
 EN: {A} summons a swarm of flies.
 FR: {S1} convoque un essaim de mouches.
 
+EN: {A} screeches a nonsensical riddle in a mystic tongue.
+FR: {S1} hurle une énigme absurde dans une langue mystique.
+
 EN: {A} conjures a destructive force in the name of {X}!
 FR: {S1} invoque une force destructrice au nom de {x2} !
 
 EN: {A} breaks free of the grasping roots!
 FR: {S1} se libère des racines agrippantes !
+
+EN: {A} calls on the powers of chaos!
+FR: {S1} appelle les puissances du chaos !
 
 EN: {A} shouts a warning to its allies!
 FR: {S1} crie un avertissement à ses alliés !
@@ -5683,6 +5641,12 @@ FR: {S1} se dissout dans les ombres !
 EN: {A} falls into the water!
 FR: {S1} tombe dans l’eau !
 
+EN: Water spirits pour forth from {A}!
+FR: Des esprits aquatiques jaillissent {d1} !
+
+EN: A torrent of water rises up through {A}!
+FR: Un torrent d’eau jaillit à travers {o1} !
+
 EN: {A} drones a funeral chant.
 FR: {S1} entonne un chant funèbre d’une voix monotone.
 
@@ -5700,6 +5664,9 @@ FR: {S1} vacille et disparaît un instant.
 
 EN: {A} marvels to itself over the thinness of mortal minds.
 FR: {S1} s’émerveille en son for intérieur de la minceur des esprits mortels.
+
+EN: {A} looks braver for a moment.
+FR: {S1} paraît plus brave un instant.
 
 EN: The air becomes perfectly still.
 FR: L’air devient parfaitement immobile.
@@ -6949,8 +6916,14 @@ FR: Le cadavre {d1} se dissout dans les ombres !
 EN: {I} corpse shimmers and vanishes!
 FR: Le cadavre {d1} miroite et s’évanouit !
 
+EN: {A} calls on the powers of darkness!
+FR: {S1} appelle les puissances des ténèbres !
+
 EN: {A} draws from the surrounding life force!
 FR: {S1} puise dans la force vitale environnante !
+
+EN: {A} bursts into living lightning!
+FR: {S1} se change en foudre vivante !
 
 EN: {A} pulsates ominously.
 FR: {S1} pulse de façon inquiétante.
@@ -6963,6 +6936,12 @@ FR: {S1} rit de façon démente.
 
 EN: {A} crackles and sizzles.
 FR: {S1} crépite et grésille.
+
+EN: {A} roars with sorrowful spite.
+FR: {S1} rugit d’une rancune chagrine.
+
+EN: {A} conjures a glowing orb.
+FR: {S1} conjure un orbe luisant.
 
 EN: {A} shoots a slug.
 FR: {S1} tire une balle de plomb.
@@ -7005,6 +6984,9 @@ FR: {S1} se débarrasse de la flamme collante en bougeant.
 
 EN: {A} begins to accept its allies' injuries.
 FR: {S1} commence à accepter les blessures de ses alliés.
+
+EN: {A} erupts in a flurry of living spells!
+FR: {S1} explose en une rafale de sorts vivants !
 
 EN: {A} utters an invocation to its god.
 FR: {S1} prononce une invocation à son dieu.
@@ -7087,8 +7069,14 @@ FR: {S1} entrelace sans passion des dimensions lointaines.
 EN: {A} prays to {X}.
 FR: {S1} prie {x2}.
 
+EN: Electricity crackles from {I} apparatus.
+FR: L’électricité crépite de l’appareil {d1}.
+
 EN: ooze floods into {I} lungs!
 FR: La vase envahit les poumons {d1} ! ¦ La vase envahit vos poumons !
+
+EN: A wild whirl of fire shoots out from {A} at {A}.
+FR: Un tourbillon de feu sauvage jaillit {d1} vers {o2}.
 
 EN: {A} calls forth creatures from the Elven Halls!
 FR: {S1} appelle des créatures des Elven Halls !
@@ -9352,6 +9340,9 @@ FR: T - Temple
 EN: Hit
 FR: Coup
 
+EN: Angry insects surge out from beneath {I} foliage!
+FR: Des insectes en colère surgissent du feuillage {d1} !
+
 EN: Poisonous fumes billow around {A}!
 FR: Des fumées toxiques tourbillonnent autour {d1} ! ¦ Des fumées toxiques tourbillonnent autour de vous !
 
@@ -9360,6 +9351,9 @@ FR: La pourriture jaillit des blessures {d1} !
 
 EN: Shards of ice erupt from {I} body!
 FR: Des éclats de glace jaillissent du corps {d1} !
+
+EN: The terrible wounds on {I} body vanish.
+FR: Les terribles blessures du corps {d1} disparaissent.
 
 EN: Thorns of ice sprout around {A}.
 FR: Des épines de glace poussent autour {d1}. ¦ Des épines de glace poussent autour de vous.
@@ -9384,6 +9378,9 @@ FR: Vous attaquez {o1}.
 
 EN: You pounce on {A} with bestial fury!
 FR: Vous bondissez sur {o1} avec une fureur bestiale !
+
+EN: Your grip on {I} soul is slipping...
+FR: Votre emprise sur l’âme {d1} faiblit…
 
 EN: Your unholy armour drains life force from {A}.
 FR: Votre armure impie draine la force vitale de {o1}.
@@ -10266,6 +10263,9 @@ FR: {S1} tire magiquement un carreau.
 
 EN: Trog's Hand
 FR: Main de Trog
+
+EN: {A} avoids the killing blow by scattering into a rainbow of bats!
+FR: {S1} évite le coup mortel en se dispersant en un arc-en-ciel de chauves-souris !
 
 EN: {A} draws vitality from your injuries!
 FR: {S1} puise de la vitalité dans vos blessures !

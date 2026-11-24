@@ -1,3 +1,5 @@
 node_modules/
 *.zip
 .DS_Store
+outils/non_traduits.txt
+outils/extraction_*.json
